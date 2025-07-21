@@ -182,10 +182,10 @@ class FeishuClient:
                 "Content-Type": "application/json"
             }
             
-            # 构建记录数据 - 使用现有表格字段映射
+            # 构建记录数据 - 使用现有表格字段映射，优先使用中文标题
             record_data = {
                 "fields": {
-                    "标题": news_item.get('title', ''),
+                    "标题": news_item.get('chinese_title') or news_item.get('title', ''),
                     "摘要": news_item.get('description', ''),
                     "AI观点": news_item.get('commentary', ''),
                     "中国影响分析": news_item.get('china_impact_analysis', ''),

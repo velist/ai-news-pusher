@@ -34,10 +34,14 @@ jobs:
       run: |
         python main.py
         
-    - name: 上传日志文件
+    - name: 显示运行结果
       if: always()
-      uses: actions/upload-artifact@v4
-      with:
-        name: news-push-logs
-        path: news_push.log
-        retention-days: 7
+      run: |
+        echo "=== AI新闻推送任务完成 ==="
+        if [ -f news_push.log ]; then
+          echo "📋 运行日志:"
+          tail -20 news_push.log
+        else
+          echo "📋 日志文件未找到"
+        fi
+        echo "🔗 查看推送结果: https://jcnew7lc4a8b.feishu.cn/base/TXkMb0FBwaD52ese70ScPLn5n5b"
