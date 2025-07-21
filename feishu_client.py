@@ -133,6 +133,46 @@ class FeishuClient:
             logger.error(f"创建表格字段异常: {str(e)}")
             return False
     
+    def _get_max_timestamp(self, table_id: str) -> int:
+        """
+        获取表格中的最大时间戳
+        """
+        token = self._get_access_token()
+        if not token:
+            return int(time.time() * 1000)
+            
+        app_token = self.config.FEISHU_APP_TOKEN
+        
+        try:
+            url = f"{self.config.FEISHU_BASE_URL}/bitable/v1/apps/{app_token}/tables/{table_id}/records"
+            headers = {
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json"
+            }
+            
+            response = self.session.get(url, headers=headers)
+            response.raise_for_status()
+            
+            data = response.json()
+            if data.get('code') == 0:
+                records = data.get('data', {}).get('items', [])
+                max_timestamp = int(time.time() * 1000)  # 默认当前时间
+                
+                for record in records:
+                    update_date = record.get('fields', {}).get('更新日期', 0)
+                    if isinstance(update_date, (int, float)) and update_date > max_timestamp:
+                        max_timestamp = int(update_date)
+                
+                logger.info(f"获取到最大时间戳: {max_timestamp}")
+                return max_timestamp
+            else:
+                logger.warning(f"获取记录失败: {data}")
+                return int(time.time() * 1000)
+                
+        except Exception as e:
+            logger.error(f"获取最大时间戳异常: {str(e)}")
+            return int(time.time() * 1000)
+    
     def push_news_to_table(self, news_list: List[Dict]) -> bool:
         """
         推送新闻到飞书多维表格
@@ -155,9 +195,16 @@ class FeishuClient:
         # 确保字段存在
         self._create_table_fields(table_id)
         
-        # 推送数据
+        # 获取当前最大时间戳，确保新记录显示在顶部
+        max_timestamp = self._get_max_timestamp(table_id)
+        
+        # 推送数据，使用递增的时间戳确保正确排序
         success_count = 0
-        for news_item in news_list:
+        for i, news_item in enumerate(news_list):
+            # 为每条新闻分配递增的时间戳，确保最新的在最上面
+            future_timestamp = max_timestamp + (len(news_list) - i) * 60000  # 每条新闻间隔1分钟
+            news_item['future_timestamp'] = future_timestamp
+            
             if self._add_news_record(table_id, news_item):
                 success_count += 1
             time.sleep(0.5)  # 避免频率限制
@@ -189,7 +236,7 @@ class FeishuClient:
                     "摘要": news_item.get('description', ''),
                     "AI观点": news_item.get('commentary', ''),
                     "中国影响分析": news_item.get('china_impact_analysis', ''),
-                    "更新日期": self._format_datetime(news_item.get('publishedAt', '')),
+                    "更新日期": news_item.get('future_timestamp') or self._format_datetime(news_item.get('publishedAt', '')),
                     "来源": {
                         "link": news_item.get('url', ''),
                         "text": news_item.get('source', '新闻来源')
