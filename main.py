@@ -237,11 +237,99 @@ class SimpleNewsProcessor:
         # 4. 推送新闻
         success_count = self.push_news(articles, token, base_timestamp)
         
+        # 5. 美化表格（每周一次）
+        if datetime.now().weekday() == 0:  # 周一
+            print("🎨 执行每周表格美化...")
+            self.enhance_table(token)
+        
         print("=" * 50)
         print(f"🎉 任务完成！成功推送 {success_count}/{len(articles)} 条新闻")
         print("🔗 查看结果: https://jcnew7lc4a8b.feishu.cn/base/TXkMb0FBwaD52ese70ScPLn5n5b")
         
         return success_count > 0
+    
+    def enhance_table(self, token):
+        """表格美化功能"""
+        try:
+            # 添加今日亮点卡片
+            self.add_highlight_card(token)
+        except Exception as e:
+            print(f"⚠️ 表格美化失败: {str(e)}")
+    
+    def add_highlight_card(self, token):
+        """添加今日亮点卡片"""
+        app_token = "TXkMb0FBwaD52ese70ScPLn5n5b"
+        table_id = "tblyPOJ4k9DxJuKc"
+        
+        try:
+            # 获取最新3条记录
+            url = f"{self.feishu_base_url}/bitable/v1/apps/{app_token}/tables/{table_id}/records?page_size=3"
+            req = urllib.request.Request(url, headers={'Authorization': f'Bearer {token}'})
+            
+            with urllib.request.urlopen(req) as response:
+                result = json.loads(response.read().decode('utf-8'))
+            
+            if result.get('code') != 0:
+                return
+            
+            records = result.get('data', {}).get('items', [])
+            if not records:
+                return
+            
+            # 创建亮点汇总
+            highlight_titles = []
+            for record in records[:3]:
+                title = record.get('fields', {}).get('标题', '')
+                if title and not title.startswith('🌟'):  # 避免包含之前的亮点卡片
+                    clean_title = title.replace('📰 AI资讯：', '').replace('🚀 最新发布：', '')
+                    highlight_titles.append(clean_title[:60])
+            
+            if not highlight_titles:
+                return
+            
+            today = datetime.now().strftime('%Y年%m月%d日')
+            highlight_content = f"""🌟 【{today} AI科技亮点】
+
+📊 今日热门话题：
+• {highlight_titles[0] if len(highlight_titles) > 0 else '暂无'}
+• {highlight_titles[1] if len(highlight_titles) > 1 else '暂无'}
+• {highlight_titles[2] if len(highlight_titles) > 2 else '暂无'}
+
+💡 AI行业正快速发展，关注技术突破和商业应用进展"""
+            
+            # 创建亮点记录
+            highlight_timestamp = int(time.time() * 1000) + 7200000  # 加2小时确保在最顶部
+            
+            highlight_record = {
+                "fields": {
+                    "标题": f"🌟 今日AI亮点 - {today}",
+                    "摘要": highlight_content,
+                    "AI观点": "每日亮点汇总帮助快速掌握AI行业关键动态和趋势。",
+                    "中国影响分析": "信息聚合：提高AI资讯获取效率\n趋势识别：便于把握行业发展脉络",
+                    "更新日期": highlight_timestamp,
+                    "来源": {
+                        "link": "https://example.com/highlights",
+                        "text": "每日亮点"
+                    }
+                }
+            }
+            
+            # 推送亮点卡片
+            url = f"{self.feishu_base_url}/bitable/v1/apps/{app_token}/tables/{table_id}/records"
+            req = urllib.request.Request(
+                url,
+                data=json.dumps(highlight_record).encode('utf-8'),
+                headers={'Authorization': f'Bearer {token}', 'Content-Type': 'application/json'}
+            )
+            
+            with urllib.request.urlopen(req) as response:
+                result = json.loads(response.read().decode('utf-8'))
+            
+            if result.get('code') == 0:
+                print("✨ 今日亮点卡片已添加")
+                
+        except Exception as e:
+            print(f"⚠️ 亮点卡片添加失败: {str(e)}")
 
 def main():
     processor = SimpleNewsProcessor()
