@@ -1,0 +1,40 @@
+[
+  {
+    "id": "news_0",
+    "title": "🚀 重大突破：OpenAI Announces GPT-5 Revolutionary Breakthrough",
+    "original_title": "OpenAI Announces GPT-5 Revolutionary Breakthrough",
+    "description": "OpenAI reveals the next generation of AI with unprecedented capabilities in reasoning and multimodal understanding.",
+    "original_description": "OpenAI reveals the next generation of AI with unprecedented capabilities in reasoning and multimodal understanding.",
+    "url": "https://example.com/news1",
+    "source": "TechCrunch",
+    "publishedAt": "2024-01-20T08:00:00Z",
+    "image": "",
+    "category": {
+      "name": "OpenAI动态",
+      "color": "#34C759",
+      "icon": "🤖"
+    },
+    "importance": 5,
+    "china_analysis": "**技术影响：** 对国内大模型厂商形成竞争压力，推动技术创新升级。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
+    "investment_insight": "**相关概念股：** 科大讯飞、汉王科技、海天瑞声等AI概念股可能受益。"
+  },
+  {
+    "id": "news_1",
+    "title": "📰 AI资讯：谷歌 Bard Gets Major Update with New Features",
+    "original_title": "Google Bard Gets Major Update with New Features",
+    "description": "谷歌 enhances Bard with improved conversational abilities and integration with more services.",
+    "original_description": "Google enhances Bard with improved conversational abilities and integration with more services.",
+    "url": "https://example.com/news2",
+    "source": "The Verge",
+    "publishedAt": "2024-01-20T07:30:00Z",
+    "image": "",
+    "category": {
+      "name": "谷歌AI",
+      "color": "#007AFF",
+      "icon": "🔍"
+    },
+    "importance": 4,
+    "china_analysis": "**技术影响：** 加速国内搜索和AI助手产品迭代，影响百度、阿里等公司战略。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
+    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
+  }
+]

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-优化的H5新闻页面生成器 - 苹果设计风格
-采用苹果Human Interface Guidelines设计规范
+优化的H5新闻页面生成器 - 简中用户友好版本
+专门针对中国用户习惯和需求优化
 """
 
 import json
@@ -45,74 +45,189 @@ class AppleStyleNewsGenerator:
         return min(score, 5)
     
     def translate_title(self, title):
-        """简化的中文翻译"""
+        """增强的中文翻译 - 适合简中用户"""
         replacements = [
+            # 公司名称
             ('OpenAI', 'OpenAI'), ('Google', '谷歌'), ('Microsoft', '微软'),
-            ('Apple', '苹果'), ('NVIDIA', '英伟达'), ('Artificial Intelligence', '人工智能'),
-            ('AI', 'AI'), ('Machine Learning', '机器学习'), ('Deep Learning', '深度学习'),
+            ('Apple', '苹果'), ('NVIDIA', '英伟达'), ('Meta', 'Meta'),
+            ('Amazon', '亚马逊'), ('Tesla', '特斯拉'), ('Anthropic', 'Anthropic'),
+            
+            # 技术术语
+            ('Artificial Intelligence', '人工智能'), ('AI', 'AI'),
+            ('Machine Learning', '机器学习'), ('Deep Learning', '深度学习'),
+            ('Neural Network', '神经网络'), ('Large Language Model', '大语言模型'),
             ('ChatGPT', 'ChatGPT'), ('GPT', 'GPT'), ('Bard', 'Bard'),
-            ('breakthrough', '突破'), ('launch', '发布'), ('release', '发布'),
-            ('announce', '宣布'), ('investment', '投资'), ('funding', '融资')
+            ('Claude', 'Claude'), ('LLM', '大模型'),
+            
+            # 技术动作
+            ('breakthrough', '突破性进展'), ('launch', '正式发布'), 
+            ('release', '推出'), ('announce', '宣布'), ('unveil', '揭晓'),
+            ('investment', '投资'), ('funding', '融资'), ('acquisition', '收购'),
+            ('partnership', '合作'), ('collaboration', '协作'),
+            
+            # 技术概念
+            ('model', '模型'), ('algorithm', '算法'), ('data', '数据'),
+            ('training', '训练'), ('inference', '推理'), ('fine-tuning', '微调'),
+            ('multimodal', '多模态'), ('vision', '视觉'), ('language', '语言'),
+            ('robotics', '机器人'), ('autonomous', '自动驾驶'),
+            
+            # 商业术语
+            ('startup', '初创公司'), ('unicorn', '独角兽'), 
+            ('valuation', '估值'), ('IPO', '上市'), ('Series', '轮'),
+            ('revenue', '营收'), ('profit', '利润'), ('market', '市场'),
         ]
         
         chinese_title = title
         for en, zh in replacements:
             chinese_title = chinese_title.replace(en, zh)
         
-        # 添加前缀标识
+        # 智能前缀识别
         title_lower = title.lower()
-        if any(word in title_lower for word in ['breakthrough', 'revolutionary']):
-            chinese_title = f"🚀 重大突破：{chinese_title}"
-        elif any(word in title_lower for word in ['launch', 'release']):
-            chinese_title = f"🔄 重大更新：{chinese_title}"
+        if any(word in title_lower for word in ['breakthrough', 'revolutionary', 'game-changing']):
+            return f"🚀 重大突破：{chinese_title}"
+        elif any(word in title_lower for word in ['launch', 'release', 'unveil']):
+            return f"🔥 最新发布：{chinese_title}"
+        elif any(word in title_lower for word in ['investment', 'funding', 'acquisition']):
+            return f"💰 投资动态：{chinese_title}"
+        elif any(word in title_lower for word in ['partnership', 'collaboration']):
+            return f"🤝 合作消息：{chinese_title}"
         else:
-            chinese_title = f"📰 AI资讯：{chinese_title}"
+            return f"📰 AI资讯：{chinese_title}"
+    
+    def translate_description(self, description, title=""):
+        """翻译和优化描述内容"""
+        if not description:
+            return "暂无详细描述，点击查看完整分析。"
         
-        return chinese_title
+        # 基础翻译
+        replacements = [
+            ('OpenAI', 'OpenAI'), ('Google', '谷歌'), ('Microsoft', '微软'),
+            ('Apple', '苹果'), ('NVIDIA', '英伟达'),
+            ('artificial intelligence', '人工智能'), ('AI', 'AI'),
+            ('machine learning', '机器学习'), ('deep learning', '深度学习'),
+            ('breakthrough', '突破性进展'), ('launch', '发布'),
+            ('release', '推出'), ('announce', '宣布'),
+            ('the company', '该公司'), ('users', '用户'),
+            ('technology', '技术'), ('platform', '平台'),
+            ('feature', '功能'), ('update', '更新'),
+            ('model', '模型'), ('system', '系统'),
+        ]
+        
+        chinese_desc = description
+        for en, zh in replacements:
+            chinese_desc = chinese_desc.replace(en, zh)
+        
+        # 确保长度合适
+        if len(chinese_desc) > 150:
+            chinese_desc = chinese_desc[:147] + "..."
+        
+        return chinese_desc
+    
+    def generate_china_analysis(self, title, description):
+        """生成中国影响分析"""
+        title_lower = title.lower()
+        
+        # 技术影响分析
+        tech_impact = ""
+        if any(word in title_lower for word in ['openai', 'gpt']):
+            tech_impact = "对国内大模型厂商形成竞争压力，推动技术创新升级。"
+        elif any(word in title_lower for word in ['google', 'bard']):
+            tech_impact = "加速国内搜索和AI助手产品迭代，影响百度、阿里等公司战略。"
+        elif any(word in title_lower for word in ['nvidia', 'chip']):
+            tech_impact = "影响国内AI芯片产业发展，相关概念股值得关注。"
+        else:
+            tech_impact = "推动国内AI产业整体发展，促进技术进步和应用落地。"
+        
+        # 市场机遇分析
+        market_opportunity = ""
+        if any(word in title_lower for word in ['investment', 'funding']):
+            market_opportunity = "为国内相关领域投资提供参考，关注产业链投资机会。"
+        elif any(word in title_lower for word in ['partnership']):
+            market_opportunity = "可能带来合作机遇，国内企业应积极寻求对接。"
+        else:
+            market_opportunity = "为国内企业提供发展思路，关注技术应用和商业模式创新。"
+        
+        return f"**技术影响：** {tech_impact}\\n\\n**市场机遇：** {market_opportunity}"
+    
+    def generate_investment_insight(self, title):
+        """生成投资洞察"""
+        title_lower = title.lower()
+        
+        if any(word in title_lower for word in ['openai', 'chatgpt']):
+            return "**相关概念股：** 科大讯飞、汉王科技、海天瑞声等AI概念股可能受益。"
+        elif any(word in title_lower for word in ['nvidia', 'chip']):
+            return "**相关概念股：** 寒武纪、景嘉微、紫光国微等AI芯片股值得关注。"
+        elif any(word in title_lower for word in ['robot']):
+            return "**相关概念股：** 机器人、埃斯顿、新时达等机器人产业链股票。"
+        else:
+            return "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
     
     def generate_optimized_html(self, articles):
-        """生成优化的HTML页面"""
+        """生成简中用户友好的HTML页面"""
         try:
-            print("🎨 开始生成Apple风格H5新闻页面...")
+            print("🎨 开始生成简中用户友好页面...")
             
-            # 处理新闻数据
+            # 处理新闻数据 - 全面中文化
             processed_news = []
-            for article in articles:
+            for i, article in enumerate(articles):
+                original_title = article.get('title', '')
+                original_description = article.get('description', '')
+                
                 processed_article = {
-                    'title': self.translate_title(article.get('title', '')),
-                    'original_title': article.get('title', ''),
-                    'description': article.get('description', '')[:200] + "...",
+                    'id': f"news_{i}",  # 为详情页添加唯一ID
+                    'title': self.translate_title(original_title),
+                    'original_title': original_title,
+                    'description': self.translate_description(original_description, original_title),
+                    'original_description': original_description,
                     'url': article.get('url', ''),
                     'source': article.get('source', {}).get('name', '未知来源'),
                     'publishedAt': article.get('publishedAt', ''),
                     'image': article.get('image', ''),
-                    'category': self.categorize_news(article.get('title', '')),
-                    'importance': self.get_importance_score(article.get('title', ''))
+                    'category': self.categorize_news(original_title),
+                    'importance': self.get_importance_score(original_title),
+                    # 新增中国本土化内容
+                    'china_analysis': self.generate_china_analysis(original_title, original_description),
+                    'investment_insight': self.generate_investment_insight(original_title)
                 }
                 processed_news.append(processed_article)
             
             # 按重要性排序
             processed_news.sort(key=lambda x: x['importance'], reverse=True)
             
-            # 生成HTML内容
-            html_content = self.create_apple_style_template(processed_news)
+            # 生成首页和详情页HTML内容
+            homepage_content = self.create_homepage_template(processed_news)
             
             # 创建目录
             os.makedirs('docs', exist_ok=True)
+            os.makedirs('docs/news', exist_ok=True)
             
-            # 写入文件
+            # 写入首页
             with open('docs/index.html', 'w', encoding='utf-8') as f:
-                f.write(html_content)
+                f.write(homepage_content)
             
-            print("✅ Apple风格H5新闻页面生成完成: docs/index.html")
+            # 生成每条新闻的详情页
+            for news in processed_news:
+                detail_content = self.create_detail_template(news, processed_news)
+                with open(f'docs/news/{news["id"]}.html', 'w', encoding='utf-8') as f:
+                    f.write(detail_content)
+            
+            # 生成新闻数据JSON（供JavaScript使用）
+            with open('docs/news_data.json', 'w', encoding='utf-8') as f:
+                import json
+                json.dump(processed_news, f, ensure_ascii=False, indent=2)
+            
+            print("✅ 简中用户友好页面生成完成:")
+            print("   📄 首页: docs/index.html") 
+            print(f"   📰 详情页: docs/news/ ({len(processed_news)} 篇)")
+            print("   📊 数据文件: docs/news_data.json")
             return True
             
         except Exception as e:
             print(f"❌ H5页面生成失败: {str(e)}")
             return False
     
-    def create_apple_style_template(self, news_data):
-        """创建Apple风格HTML模板"""
+    def create_homepage_template(self, news_data):
+        """创建简中用户友好的首页模板"""
         
         # 按分类整理新闻
         categories = {}
@@ -145,7 +260,7 @@ class AppleStyleNewsGenerator:
     <link href="https://fonts.googleapis.com/css2?family=-apple-system,BlinkMacSystemFont,SF+Pro+Display:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {{
-            /* 苹果设计系统颜色 - 浅色模式 */
+            /* 苹果设计系统颜色 */
             --color-primary: #007AFF;
             --color-secondary: #5856D6;
             --color-success: #34C759;
@@ -196,12 +311,6 @@ class AppleStyleNewsGenerator:
                 --color-success: #32D74B;
                 --color-warning: #FF9F0A;
                 --color-error: #FF453A;
-                --color-gray: #8E8E93;
-                --color-gray2: #636366;
-                --color-gray3: #48484A;
-                --color-gray4: #3A3A3C;
-                --color-gray5: #2C2C2E;
-                --color-gray6: #1C1C1E;
                 
                 --bg-primary: #000000;
                 --bg-secondary: #1C1C1E;
@@ -230,14 +339,13 @@ class AppleStyleNewsGenerator:
             -moz-osx-font-smoothing: grayscale;
         }}
         
-        /* 容器布局 */
         .container {{
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 var(--spacing-md);
         }}
         
-        /* 头部区域 */
+        /* 头部区域 - 简化版 */
         .header {{
             background-color: var(--bg-primary);
             padding: var(--spacing-lg) 0;
@@ -251,58 +359,16 @@ class AppleStyleNewsGenerator:
         }}
         
         .header h1 {{
-            font-size: 2.5rem;
+            font-size: 2rem;
             font-weight: 700;
             color: var(--text-primary);
             margin-bottom: var(--spacing-sm);
         }}
         
         .header .subtitle {{
-            font-size: 1rem;
+            font-size: 0.9rem;
             color: var(--text-secondary);
             font-weight: 400;
-        }}
-        
-        .update-time {{
-            margin-top: var(--spacing-md);
-            padding: var(--spacing-sm) var(--spacing-md);
-            background-color: var(--bg-secondary);
-            border-radius: var(--radius-large);
-            display: inline-block;
-            font-size: 0.875rem;
-            color: var(--text-secondary);
-        }}
-        
-        /* 统计面板 */
-        .stats {{
-            display: flex;
-            justify-content: center;
-            gap: var(--spacing-md);
-            padding: var(--spacing-lg) 0;
-            margin-bottom: var(--spacing-md);
-        }}
-        
-        .stat-item {{
-            background-color: var(--bg-tertiary);
-            padding: var(--spacing-md) var(--spacing-lg);
-            border-radius: var(--radius-medium);
-            text-align: center;
-            min-width: 80px;
-            box-shadow: var(--shadow-light);
-        }}
-        
-        .stat-number {{
-            font-size: 1.5rem;
-            font-weight: 600;
-            color: var(--color-primary);
-            display: block;
-        }}
-        
-        .stat-label {{
-            font-size: 0.75rem;
-            color: var(--text-secondary);
-            margin-top: var(--spacing-xs);
-            font-weight: 500;
         }}
         
         /* 分类标签栏 */
@@ -311,7 +377,7 @@ class AppleStyleNewsGenerator:
             padding: var(--spacing-md) 0;
             border-bottom: 0.5px solid var(--color-gray5);
             position: sticky;
-            top: 100px;
+            top: 72px;
             z-index: 90;
             backdrop-filter: blur(20px);
             -webkit-backdrop-filter: blur(20px);
@@ -398,6 +464,7 @@ class AppleStyleNewsGenerator:
             transition: all 0.3s ease;
             border: 0.5px solid var(--color-gray5);
             position: relative;
+            cursor: pointer;
         }}
         
         .news-card:hover {{
@@ -464,15 +531,7 @@ class AppleStyleNewsGenerator:
             font-size: 0.8125rem;
             font-weight: 600;
             transition: all 0.2s ease;
-        }}
-        
-        .read-more:hover {{
-            background-color: var(--color-secondary);
-            transform: scale(1.02);
-        }}
-        
-        .read-more:active {{
-            transform: scale(0.98);
+            pointer-events: none; /* 防止事件冒泡 */
         }}
         
         .importance-stars {{
@@ -511,20 +570,6 @@ class AppleStyleNewsGenerator:
             background-color: var(--color-success);
         }}
         
-        /* 底部 */
-        .footer {{
-            text-align: center;
-            padding: var(--spacing-xl) 0;
-            color: var(--text-tertiary);
-            border-top: 0.5px solid var(--color-gray5);
-            margin-top: var(--spacing-xl);
-        }}
-        
-        .footer p {{
-            font-size: 0.8125rem;
-            margin-bottom: var(--spacing-xs);
-        }}
-        
         /* 响应式设计 */
         @media (max-width: 768px) {{
             .container {{
@@ -536,53 +581,22 @@ class AppleStyleNewsGenerator:
             }}
             
             .header h1 {{
-                font-size: 2rem;
-            }}
-            
-            .stats {{
-                gap: var(--spacing-sm);
-                padding: var(--spacing-md) 0;
-            }}
-            
-            .stat-item {{
-                padding: var(--spacing-sm) var(--spacing-md);
-                min-width: 70px;
-            }}
-            
-            .stat-number {{
-                font-size: 1.25rem;
+                font-size: 1.75rem;
             }}
             
             .tab-container {{
-                top: 80px;
+                top: 68px;
             }}
             
             .news-grid {{
                 grid-template-columns: 1fr;
                 gap: var(--spacing-md);
             }}
-            
-            .news-card {{
-                margin: 0;
-            }}
         }}
         
         @media (max-width: 480px) {{
             .container {{
                 padding: 0 var(--spacing-sm);
-            }}
-            
-            .header {{
-                padding: var(--spacing-sm) 0;
-            }}
-            
-            .header h1 {{
-                font-size: 1.75rem;
-            }}
-            
-            .stats {{
-                flex-wrap: wrap;
-                justify-content: center;
             }}
             
             .tabs {{
@@ -625,34 +639,13 @@ class AppleStyleNewsGenerator:
     </style>
 </head>
 <body>
-    <!-- 头部 -->
+    <!-- 头部 - 简化版 -->
     <header class="header">
         <div class="container">
             <h1>🤖 AI科技日报</h1>
             <p class="subtitle">{self.today.strftime('%Y年%m月%d日')} · 人工智能前沿资讯</p>
-            <div class="update-time">
-                <span>⏱ 更新时间：{self.today.strftime('%H:%M')}</span>
-            </div>
         </div>
     </header>
-    
-    <!-- 统计面板 -->
-    <div class="container">
-        <div class="stats">
-            <div class="stat-item">
-                <span class="stat-number">{len(news_data)}</span>
-                <span class="stat-label">今日新闻</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">{len([n for n in news_data if n['importance'] >= 4])}</span>
-                <span class="stat-label">重要资讯</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">{len(categories)}</span>
-                <span class="stat-label">覆盖领域</span>
-            </div>
-        </div>
-    </div>
     
     <!-- 分类标签栏 -->
     <div class="tab-container">
@@ -673,7 +666,7 @@ class AppleStyleNewsGenerator:
         <div class="content-area">
             <div class="news-grid">'''
         
-        # 添加新闻卡片
+        # 添加新闻卡片 - 点击跳转详情页
         for i, news in enumerate(all_news):
             priority_class = 'priority-high' if news['importance'] >= 4 else 'priority-medium' if news['importance'] >= 3 else 'priority-low'
             
@@ -692,7 +685,9 @@ class AppleStyleNewsGenerator:
             category_style = category_colors.get(news['category']['name'], 'background-color: var(--color-gray); color: white;')
             
             card_html = f'''
-            <article class="news-card {priority_class}" data-category="{news['category']['name']}" style="animation-delay: {i * 0.05}s;">
+            <article class="news-card {priority_class}" data-category="{news['category']['name']}" 
+                     onclick="window.location.href='news/{news['id']}.html'" 
+                     style="animation-delay: {i * 0.05}s;">
                 <div class="priority-indicator"></div>
                 <div class="importance-stars">
                     {stars}
@@ -710,9 +705,9 @@ class AppleStyleNewsGenerator:
                         <span>📰</span>
                         <span>{news['source']}</span>
                     </div>
-                    <a href="{news['url']}" target="_blank" class="read-more">
-                        阅读原文
-                    </a>
+                    <div class="read-more">
+                        查看详情
+                    </div>
                 </div>
             </article>'''
             
@@ -722,14 +717,6 @@ class AppleStyleNewsGenerator:
             </div>
         </div>
     </div>
-    
-    <!-- 底部 -->
-    <footer class="footer">
-        <div class="container">
-            <p>🚀 由AI驱动的智能新闻聚合 · 每日8:00自动更新</p>
-            <p>数据来源：GNews API · 生成时间：{self.today.strftime('%Y-%m-%d %H:%M:%S')}</p>
-        </div>
-    </footer>
     
     <script>
         // 分类筛选功能
@@ -757,38 +744,542 @@ class AppleStyleNewsGenerator:
                     }});
                 }});
             }});
-            
-            // 卡片交互动画
-            newsCards.forEach(card => {{
-                card.addEventListener('click', function(e) {{
-                    if (e.target.tagName !== 'A') {{
-                        this.style.transform = 'translateY(0px) scale(0.98)';
-                        setTimeout(() => {{
-                            this.style.transform = '';
-                        }}, 150);
-                    }}
-                }});
-            }});
-            
-            // 平滑滚动
-            document.querySelectorAll('a[href^="#"]').forEach(anchor => {{
-                anchor.addEventListener('click', function (e) {{
-                    e.preventDefault();
-                    const target = document.querySelector(this.getAttribute('href'));
-                    if (target) {{
-                        target.scrollIntoView({{
-                            behavior: 'smooth',
-                            block: 'start'
-                        }});
-                    }}
-                }});
-            }});
         }});
     </script>
 </body>
 </html>'''
         
         return html_template
+    
+    def create_detail_template(self, news, all_news):
+        """创建新闻详情页模板"""
+        
+        # 找到上一条和下一条新闻
+        current_index = next((i for i, n in enumerate(all_news) if n['id'] == news['id']), 0)
+        prev_news = all_news[current_index - 1] if current_index > 0 else None
+        next_news = all_news[current_index + 1] if current_index < len(all_news) - 1 else None
+        
+        detail_html = f'''<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>{news['title']} - AI科技日报</title>
+    <style>
+        :root {{
+            --color-primary: #007AFF;
+            --color-secondary: #5856D6;
+            --color-success: #34C759;
+            --color-warning: #FF9500;
+            --color-error: #FF3B30;
+            --color-gray: #8E8E93;
+            --color-gray5: #E5E5EA;
+            
+            --bg-primary: #FFFFFF;
+            --bg-secondary: #F2F2F7;
+            --bg-tertiary: #FFFFFF;
+            --bg-grouped: #F2F2F7;
+            
+            --text-primary: #000000;
+            --text-secondary: #3C3C43;
+            --text-tertiary: #3C3C4399;
+            
+            --shadow-light: 0 1px 3px rgba(0, 0, 0, 0.1);
+            --shadow-medium: 0 4px 12px rgba(0, 0, 0, 0.15);
+            
+            --radius-small: 8px;
+            --radius-medium: 12px;
+            --radius-large: 16px;
+            
+            --spacing-xs: 4px;
+            --spacing-sm: 8px;
+            --spacing-md: 16px;
+            --spacing-lg: 24px;
+            --spacing-xl: 32px;
+        }}
+        
+        @media (prefers-color-scheme: dark) {{
+            :root {{
+                --color-primary: #0A84FF;
+                --color-secondary: #5E5CE6;
+                --color-success: #32D74B;
+                --color-warning: #FF9F0A;
+                --color-error: #FF453A;
+                
+                --bg-primary: #000000;
+                --bg-secondary: #1C1C1E;
+                --bg-tertiary: #2C2C2E;
+                --bg-grouped: #000000;
+                
+                --text-primary: #FFFFFF;
+                --text-secondary: #EBEBF5;
+                --text-tertiary: #EBEBF599;
+            }}
+        }}
+        
+        * {{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }}
+        
+        body {{
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: var(--bg-grouped);
+            color: var(--text-primary);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }}
+        
+        .container {{
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 var(--spacing-md);
+        }}
+        
+        /* 导航栏 */
+        .navbar {{
+            background-color: var(--bg-primary);
+            border-bottom: 0.5px solid var(--color-gray5);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+        }}
+        
+        .nav-content {{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: var(--spacing-md) 0;
+            min-height: 56px;
+        }}
+        
+        .back-button {{
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+            color: var(--color-primary);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            padding: var(--spacing-xs) 0;
+        }}
+        
+        .back-button:hover {{
+            opacity: 0.7;
+        }}
+        
+        .nav-title {{
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }}
+        
+        .share-button {{
+            color: var(--color-primary);
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            padding: var(--spacing-xs) 0;
+        }}
+        
+        .share-button:hover {{
+            opacity: 0.7;
+        }}
+        
+        /* 文章内容 */
+        .article {{
+            background-color: var(--bg-tertiary);
+            border-radius: var(--radius-large);
+            margin: var(--spacing-lg) 0;
+            overflow: hidden;
+            box-shadow: var(--shadow-light);
+        }}
+        
+        .article-header {{
+            padding: var(--spacing-lg);
+            border-bottom: 0.5px solid var(--color-gray5);
+        }}
+        
+        .article-meta {{
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+            margin-bottom: var(--spacing-md);
+        }}
+        
+        .category-badge {{
+            display: inline-flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+            padding: var(--spacing-xs) var(--spacing-sm);
+            border-radius: var(--radius-small);
+            font-size: 0.75rem;
+            font-weight: 600;
+        }}
+        
+        .importance-stars {{
+            display: flex;
+            gap: 2px;
+        }}
+        
+        .star {{
+            color: var(--color-warning);
+            font-size: 0.75rem;
+        }}
+        
+        .article-title {{
+            font-size: 1.75rem;
+            font-weight: 700;
+            line-height: 1.3;
+            margin-bottom: var(--spacing-md);
+            color: var(--text-primary);
+        }}
+        
+        .article-description {{
+            font-size: 1.125rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            margin-bottom: var(--spacing-lg);
+        }}
+        
+        .source-info {{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.875rem;
+            color: var(--text-tertiary);
+        }}
+        
+        .source {{
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+        }}
+        
+        /* 分析内容 */
+        .analysis-section {{
+            padding: var(--spacing-lg);
+        }}
+        
+        .analysis-title {{
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: var(--spacing-md);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+        }}
+        
+        .analysis-content {{
+            font-size: 1rem;
+            line-height: 1.6;
+            color: var(--text-secondary);
+            margin-bottom: var(--spacing-lg);
+        }}
+        
+        .analysis-content strong {{
+            color: var(--text-primary);
+            font-weight: 600;
+        }}
+        
+        .section-divider {{
+            border: none;
+            height: 0.5px;
+            background-color: var(--color-gray5);
+            margin: var(--spacing-lg) 0;
+        }}
+        
+        /* 操作按钮 */
+        .action-buttons {{
+            display: flex;
+            gap: var(--spacing-md);
+            padding: var(--spacing-lg);
+            border-top: 0.5px solid var(--color-gray5);
+        }}
+        
+        .action-button {{
+            flex: 1;
+            padding: var(--spacing-md);
+            border-radius: var(--radius-medium);
+            text-decoration: none;
+            text-align: center;
+            font-weight: 600;
+            transition: all 0.2s ease;
+        }}
+        
+        .primary-button {{
+            background-color: var(--color-primary);
+            color: white;
+        }}
+        
+        .primary-button:hover {{
+            background-color: var(--color-secondary);
+            transform: scale(1.02);
+        }}
+        
+        .secondary-button {{
+            background-color: var(--bg-secondary);
+            color: var(--text-primary);
+            border: 0.5px solid var(--color-gray5);
+        }}
+        
+        .secondary-button:hover {{
+            background-color: var(--color-gray5);
+        }}
+        
+        /* 导航 */
+        .navigation {{
+            display: flex;
+            gap: var(--spacing-md);
+            margin: var(--spacing-lg) 0;
+        }}
+        
+        .nav-card {{
+            flex: 1;
+            background-color: var(--bg-tertiary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            text-decoration: none;
+            color: var(--text-primary);
+            box-shadow: var(--shadow-light);
+            transition: all 0.2s ease;
+        }}
+        
+        .nav-card:hover {{
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-medium);
+        }}
+        
+        .nav-card.disabled {{
+            opacity: 0.5;
+            cursor: not-allowed;
+            pointer-events: none;
+        }}
+        
+        .nav-label {{
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            margin-bottom: var(--spacing-xs);
+        }}
+        
+        .nav-title {{
+            font-size: 0.875rem;
+            font-weight: 500;
+            line-height: 1.3;
+        }}
+        
+        /* 响应式设计 */
+        @media (max-width: 768px) {{
+            .container {{
+                padding: 0 var(--spacing-md);
+            }}
+            
+            .article-title {{
+                font-size: 1.5rem;
+            }}
+            
+            .article-description {{
+                font-size: 1rem;
+            }}
+            
+            .action-buttons {{
+                flex-direction: column;
+            }}
+            
+            .navigation {{
+                flex-direction: column;
+            }}
+        }}
+        
+        @media (max-width: 480px) {{
+            .container {{
+                padding: 0 var(--spacing-sm);
+            }}
+            
+            .article {{
+                margin: var(--spacing-md) 0;
+            }}
+            
+            .article-header, .analysis-section, .action-buttons {{
+                padding: var(--spacing-md);
+            }}
+            
+            .article-title {{
+                font-size: 1.25rem;
+            }}
+        }}
+    </style>
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-content">
+                <a href="../index.html" class="back-button">
+                    <span>‹</span>
+                    <span>返回首页</span>
+                </a>
+                <div class="nav-title">AI科技日报</div>
+                <div class="share-button" onclick="shareArticle()">分享</div>
+            </div>
+        </div>
+    </nav>
+    
+    <!-- 文章内容 -->
+    <div class="container">
+        <article class="article">
+            <header class="article-header">
+                <div class="article-meta">
+                    <div class="category-badge" style="background-color: {news['category']['color']}; color: white;">
+                        <span>{news['category']['icon']}</span>
+                        <span>{news['category']['name']}</span>
+                    </div>
+                    <div class="importance-stars">
+                        {''.join(['<span class="star">★</span>' for _ in range(news['importance'])])}
+                    </div>
+                </div>
+                
+                <h1 class="article-title">{news['title']}</h1>
+                <p class="article-description">{news['description']}</p>
+                
+                <div class="source-info">
+                    <div class="source">
+                        <span>📰</span>
+                        <span>{news['source']}</span>
+                    </div>
+                    <div class="publish-time">
+                        {self.today.strftime('%Y年%m月%d日')}
+                    </div>
+                </div>
+            </header>
+            
+            <section class="analysis-section">
+                <h2 class="analysis-title">
+                    <span>🇨🇳</span>
+                    <span>中国影响分析</span>
+                </h2>
+                <div class="analysis-content">
+                    {news['china_analysis'].replace('\\n\\n', '<br><br>')}
+                </div>
+                
+                <hr class="section-divider">
+                
+                <h2 class="analysis-title">
+                    <span>💰</span>
+                    <span>投资视角</span>
+                </h2>
+                <div class="analysis-content">
+                    {news['investment_insight']}
+                </div>
+                
+                <hr class="section-divider">
+                
+                <h2 class="analysis-title">
+                    <span>📄</span>
+                    <span>原文摘要</span>
+                </h2>
+                <div class="analysis-content">
+                    <strong>英文标题：</strong>{news['original_title']}<br><br>
+                    <strong>内容摘要：</strong>{news['original_description'] or '暂无详细描述'}
+                </div>
+            </section>
+            
+            <div class="action-buttons">
+                <a href="{news['url']}" target="_blank" class="action-button primary-button">
+                    阅读原文
+                </a>
+                <a href="../index.html" class="action-button secondary-button">
+                    返回首页
+                </a>
+            </div>
+        </article>
+        
+        <!-- 导航到上一篇/下一篇 -->
+        <div class="navigation">'''
+        
+        if prev_news:
+            detail_html += f'''
+            <a href="{prev_news['id']}.html" class="nav-card">
+                <div class="nav-label">上一篇</div>
+                <div class="nav-title">{prev_news['title']}</div>
+            </a>'''
+        else:
+            detail_html += '''
+            <div class="nav-card disabled">
+                <div class="nav-label">上一篇</div>
+                <div class="nav-title">已是第一篇</div>
+            </div>'''
+        
+        if next_news:
+            detail_html += f'''
+            <a href="{next_news['id']}.html" class="nav-card">
+                <div class="nav-label">下一篇</div>
+                <div class="nav-title">{next_news['title']}</div>
+            </a>'''
+        else:
+            detail_html += '''
+            <div class="nav-card disabled">
+                <div class="nav-label">下一篇</div>
+                <div class="nav-title">已是最后一篇</div>
+            </div>'''
+            
+        detail_html += f'''
+        </div>
+    </div>
+    
+    <script>
+        // 分享功能
+        function shareArticle() {{
+            if (navigator.share) {{
+                navigator.share({{
+                    title: '{news['title']}',
+                    text: '{news['description'][:100]}...',
+                    url: window.location.href
+                }}).then(() => {{
+                    console.log('分享成功');
+                }}).catch((error) => {{
+                    console.log('分享失败:', error);
+                    fallbackShare();
+                }});
+            }} else {{
+                fallbackShare();
+            }}
+        }}
+        
+        function fallbackShare() {{
+            const url = window.location.href;
+            const title = '{news['title']}';
+            
+            if (navigator.clipboard) {{
+                navigator.clipboard.writeText(url).then(() => {{
+                    alert('链接已复制到剪贴板');
+                }}).catch(() => {{
+                    showShareOptions(url, title);
+                }});
+            }} else {{
+                showShareOptions(url, title);
+            }}
+        }}
+        
+        function showShareOptions(url, title) {{
+            const shareText = `${{title}} - ${{url}}`;
+            prompt('复制链接分享:', shareText);
+        }}
+        
+        // 返回顶部
+        window.addEventListener('scroll', function() {{
+            // 可以添加返回顶部按钮逻辑
+        }});
+    </script>
+</body>
+</html>'''
+        
+        return detail_html
 
 
 if __name__ == "__main__":
@@ -816,4 +1307,4 @@ if __name__ == "__main__":
     success = generator.generate_optimized_html(test_articles)
     
     if success:
-        print("🎉 Apple风格页面生成测试完成！")
+        print("🎉 简中用户友好页面生成测试完成！")

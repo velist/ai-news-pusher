@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=-apple-system,BlinkMacSystemFont,SF+Pro+Display:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            /* 苹果设计系统颜色 - 浅色模式 */
+            /* 苹果设计系统颜色 */
             --color-primary: #007AFF;
             --color-secondary: #5856D6;
             --color-success: #34C759;
@@ -58,12 +58,6 @@
                 --color-success: #32D74B;
                 --color-warning: #FF9F0A;
                 --color-error: #FF453A;
-                --color-gray: #8E8E93;
-                --color-gray2: #636366;
-                --color-gray3: #48484A;
-                --color-gray4: #3A3A3C;
-                --color-gray5: #2C2C2E;
-                --color-gray6: #1C1C1E;
                 
                 --bg-primary: #000000;
                 --bg-secondary: #1C1C1E;
@@ -92,14 +86,13 @@
             -moz-osx-font-smoothing: grayscale;
         }
         
-        /* 容器布局 */
         .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 var(--spacing-md);
         }
         
-        /* 头部区域 */
+        /* 头部区域 - 简化版 */
         .header {
             background-color: var(--bg-primary);
             padding: var(--spacing-lg) 0;
@@ -113,58 +106,16 @@
         }
         
         .header h1 {
-            font-size: 2.5rem;
+            font-size: 2rem;
             font-weight: 700;
             color: var(--text-primary);
             margin-bottom: var(--spacing-sm);
         }
         
         .header .subtitle {
-            font-size: 1rem;
+            font-size: 0.9rem;
             color: var(--text-secondary);
             font-weight: 400;
-        }
-        
-        .update-time {
-            margin-top: var(--spacing-md);
-            padding: var(--spacing-sm) var(--spacing-md);
-            background-color: var(--bg-secondary);
-            border-radius: var(--radius-large);
-            display: inline-block;
-            font-size: 0.875rem;
-            color: var(--text-secondary);
-        }
-        
-        /* 统计面板 */
-        .stats {
-            display: flex;
-            justify-content: center;
-            gap: var(--spacing-md);
-            padding: var(--spacing-lg) 0;
-            margin-bottom: var(--spacing-md);
-        }
-        
-        .stat-item {
-            background-color: var(--bg-tertiary);
-            padding: var(--spacing-md) var(--spacing-lg);
-            border-radius: var(--radius-medium);
-            text-align: center;
-            min-width: 80px;
-            box-shadow: var(--shadow-light);
-        }
-        
-        .stat-number {
-            font-size: 1.5rem;
-            font-weight: 600;
-            color: var(--color-primary);
-            display: block;
-        }
-        
-        .stat-label {
-            font-size: 0.75rem;
-            color: var(--text-secondary);
-            margin-top: var(--spacing-xs);
-            font-weight: 500;
         }
         
         /* 分类标签栏 */
@@ -173,7 +124,7 @@
             padding: var(--spacing-md) 0;
             border-bottom: 0.5px solid var(--color-gray5);
             position: sticky;
-            top: 100px;
+            top: 72px;
             z-index: 90;
             backdrop-filter: blur(20px);
             -webkit-backdrop-filter: blur(20px);
@@ -260,6 +211,7 @@
             transition: all 0.3s ease;
             border: 0.5px solid var(--color-gray5);
             position: relative;
+            cursor: pointer;
         }
         
         .news-card:hover {
@@ -326,15 +278,7 @@
             font-size: 0.8125rem;
             font-weight: 600;
             transition: all 0.2s ease;
-        }
-        
-        .read-more:hover {
-            background-color: var(--color-secondary);
-            transform: scale(1.02);
-        }
-        
-        .read-more:active {
-            transform: scale(0.98);
+            pointer-events: none; /* 防止事件冒泡 */
         }
         
         .importance-stars {
@@ -373,20 +317,6 @@
             background-color: var(--color-success);
         }
         
-        /* 底部 */
-        .footer {
-            text-align: center;
-            padding: var(--spacing-xl) 0;
-            color: var(--text-tertiary);
-            border-top: 0.5px solid var(--color-gray5);
-            margin-top: var(--spacing-xl);
-        }
-        
-        .footer p {
-            font-size: 0.8125rem;
-            margin-bottom: var(--spacing-xs);
-        }
-        
         /* 响应式设计 */
         @media (max-width: 768px) {
             .container {
@@ -398,53 +328,22 @@
             }
             
             .header h1 {
-                font-size: 2rem;
-            }
-            
-            .stats {
-                gap: var(--spacing-sm);
-                padding: var(--spacing-md) 0;
-            }
-            
-            .stat-item {
-                padding: var(--spacing-sm) var(--spacing-md);
-                min-width: 70px;
-            }
-            
-            .stat-number {
-                font-size: 1.25rem;
+                font-size: 1.75rem;
             }
             
             .tab-container {
-                top: 80px;
+                top: 68px;
             }
             
             .news-grid {
                 grid-template-columns: 1fr;
                 gap: var(--spacing-md);
             }
-            
-            .news-card {
-                margin: 0;
-            }
         }
         
         @media (max-width: 480px) {
             .container {
                 padding: 0 var(--spacing-sm);
-            }
-            
-            .header {
-                padding: var(--spacing-sm) 0;
-            }
-            
-            .header h1 {
-                font-size: 1.75rem;
-            }
-            
-            .stats {
-                flex-wrap: wrap;
-                justify-content: center;
             }
             
             .tabs {
@@ -487,34 +386,13 @@
     </style>
 </head>
 <body>
-    <!-- 头部 -->
+    <!-- 头部 - 简化版 -->
     <header class="header">
         <div class="container">
             <h1>🤖 AI科技日报</h1>
             <p class="subtitle">2025年07月22日 · 人工智能前沿资讯</p>
-            <div class="update-time">
-                <span>⏱ 更新时间：15:02</span>
-            </div>
         </div>
     </header>
-    
-    <!-- 统计面板 -->
-    <div class="container">
-        <div class="stats">
-            <div class="stat-item">
-                <span class="stat-number">2</span>
-                <span class="stat-label">今日新闻</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">2</span>
-                <span class="stat-label">重要资讯</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">2</span>
-                <span class="stat-label">覆盖领域</span>
-            </div>
-        </div>
-    </div>
     
     <!-- 分类标签栏 -->
     <div class="tab-container">
@@ -544,7 +422,9 @@
     <div class="container">
         <div class="content-area">
             <div class="news-grid">
-            <article class="news-card priority-high" data-category="OpenAI动态" style="animation-delay: 0.0s;">
+            <article class="news-card priority-high" data-category="OpenAI动态" 
+                     onclick="window.location.href='news/news_0.html'" 
+                     style="animation-delay: 0.0s;">
                 <div class="priority-indicator"></div>
                 <div class="importance-stars">
                     <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
@@ -555,19 +435,21 @@
                         <span>OpenAI动态</span>
                     </div>
                     <h2 class="news-title">🚀 重大突破：OpenAI Announces GPT-5 Revolutionary Breakthrough</h2>
-                    <p class="news-description">OpenAI reveals the next generation of AI with unprecedented capabilities in reasoning and multimodal understanding....</p>
+                    <p class="news-description">OpenAI reveals the next generation of AI with unprecedented capabilities in reasoning and multimodal understanding.</p>
                 </div>
                 <div class="card-footer">
                     <div class="source">
                         <span>📰</span>
                         <span>TechCrunch</span>
                     </div>
-                    <a href="https://example.com/news1" target="_blank" class="read-more">
-                        阅读原文
-                    </a>
+                    <div class="read-more">
+                        查看详情
+                    </div>
                 </div>
             </article>
-            <article class="news-card priority-high" data-category="谷歌AI" style="animation-delay: 0.05s;">
+            <article class="news-card priority-high" data-category="谷歌AI" 
+                     onclick="window.location.href='news/news_1.html'" 
+                     style="animation-delay: 0.05s;">
                 <div class="priority-indicator"></div>
                 <div class="importance-stars">
                     <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
@@ -578,29 +460,21 @@
                         <span>谷歌AI</span>
                     </div>
                     <h2 class="news-title">📰 AI资讯：谷歌 Bard Gets Major Update with New Features</h2>
-                    <p class="news-description">Google enhances Bard with improved conversational abilities and integration with more services....</p>
+                    <p class="news-description">谷歌 enhances Bard with improved conversational abilities and integration with more services.</p>
                 </div>
                 <div class="card-footer">
                     <div class="source">
                         <span>📰</span>
                         <span>The Verge</span>
                     </div>
-                    <a href="https://example.com/news2" target="_blank" class="read-more">
-                        阅读原文
-                    </a>
+                    <div class="read-more">
+                        查看详情
+                    </div>
                 </div>
             </article>
             </div>
         </div>
     </div>
-    
-    <!-- 底部 -->
-    <footer class="footer">
-        <div class="container">
-            <p>🚀 由AI驱动的智能新闻聚合 · 每日8:00自动更新</p>
-            <p>数据来源：GNews API · 生成时间：2025-07-22 15:02:30</p>
-        </div>
-    </footer>
     
     <script>
         // 分类筛选功能
@@ -626,32 +500,6 @@
                             card.classList.add('hidden');
                         }
                     });
-                });
-            });
-            
-            // 卡片交互动画
-            newsCards.forEach(card => {
-                card.addEventListener('click', function(e) {
-                    if (e.target.tagName !== 'A') {
-                        this.style.transform = 'translateY(0px) scale(0.98)';
-                        setTimeout(() => {
-                            this.style.transform = '';
-                        }, 150);
-                    }
-                });
-            });
-            
-            // 平滑滚动
-            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-                anchor.addEventListener('click', function (e) {
-                    e.preventDefault();
-                    const target = document.querySelector(this.getAttribute('href'));
-                    if (target) {
-                        target.scrollIntoView({
-                            behavior: 'smooth',
-                            block: 'start'
-                        });
-                    }
                 });
             });
         });
