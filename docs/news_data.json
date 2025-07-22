@@ -1,43 +1,94 @@
 [
   {
-    "id": "news_6",
-    "title": "📰 AI资讯：'Earthquake inside 苹果' — AI efforts just dealt another major blow",
-    "original_title": "'Earthquake inside Apple' — AI efforts just dealt another major blow",
-    "description": "After the surprise departure of its top AI leader, 苹果 is testing outside models from OpenAI and 谷歌 in a major shift.",
-    "original_description": "After the surprise departure of its top AI leader, Apple is testing outside models from OpenAI and Google in a major shift.",
-    "url": "https://www.tomsguide.com/ai/apples-ai-efforts-dealt-another-major-blow-this-has-caused-an-earthquake-inside-apple",
-    "source": "Tom's Guide",
-    "publishedAt": "2025-07-22T15:33:06Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/hkM4nunGugfXjGkyA4FQrg.jpg",
+    "id": "news_0",
+    "title": "🔍 谷歌AI：谷歌 Fastest and Most Cost-Effective AI Model Is Generally Available",
+    "original_title": "Google's Fastest and Most Cost-Effective AI Model Is Generally Available",
+    "description": "The stable variant of the Gemini 2.5 Flash-Lite is now 可用, and 成本 $0.1 and $0.4 per million 输入 and 输出 令牌, 分别.",
+    "original_description": "The stable variant of the Gemini 2.5 Flash-Lite is now available, and costs $0.1 and $0.4 per million input and output tokens, respectively.",
+    "url": "https://analyticsindiamag.com/ai-news-updates/googles-fastest-and-most-cost-effective-ai-model-is-generally-available/",
+    "source": "Analytics India Magazine",
+    "publishedAt": "2025-07-22T16:54:45Z",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/04/gemini.jpg",
+    "category": {
+      "name": "谷歌AI",
+      "color": "#3B82F6",
+      "icon": "🔍"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_1",
+    "title": "📰 AI资讯：Why AI 股票 are down, plus 3 names Morgan Stanley likes pre-财报",
+    "original_title": "Why AI stocks are down, plus 3 names Morgan Stanley likes pre-earnings",
+    "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "original_description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "url": "https://www.cnbc.com/2025/07/22/why-ai-stocks-are-down-plus-3-names-morgan-stanley-likes-pre-earnings.html",
+    "source": "CNBC",
+    "publishedAt": "2025-07-22T16:21:27Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108173113-1752716108529-gettyimages-2224675694-20090101250716-99-471951.jpeg?v=1752716195&w=1920&h=1080",
     "category": {
       "name": "AI资讯",
       "color": "#6B7280",
       "icon": "📱"
     },
-    "importance": 4
+    "importance": 1
+  },
+  {
+    "id": "news_2",
+    "title": "📰 AI资讯：软银, Stargate 瞄准 小型 数据中心",
+    "original_title": "SoftBank, Stargate eye small data center",
+    "description": "STARGATE, a multibillion-dollar effort by ChatGPT’s creator OpenAI, SoftBank and Oracle to supercharge US 人工智能 (AI) ambitions, is now setting the more modest goal of building a small data center by the end of the year, likely in Ohio, the Wall Street Journal reported on Monday.",
+    "original_description": "STARGATE, a multibillion-dollar effort by ChatGPT’s creator OpenAI, SoftBank and Oracle to supercharge US artificial intelligence (AI) ambitions, is now setting the more modest goal of building a small data center by the end of the year, likely in Ohio, the Wall Street Journal reported on Monday.",
+    "url": "https://www.manilatimes.net/2025/07/23/business/foreign-business/softbank-stargate-eye-small-data-center/2154130",
+    "source": "The Manila Times",
+    "publishedAt": "2025-07-22T16:20:00Z",
+    "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_3",
+    "title": "🔍 谷歌AI：微软 挖角 谷歌 DeepMind AI 人才 as it 加强 Copilot",
+    "original_title": "Microsoft poaches Google DeepMind AI talent as it beefs up Copilot",
+    "description": "微软's 人工智能 group has been growing under Mustafa Suleyman, a co-founder of the DeepMind research lab 谷歌 acquired years ago.",
+    "original_description": "Microsoft's artificial intelligence group has been growing under Mustafa Suleyman, a co-founder of the DeepMind research lab Google acquired years ago.",
+    "url": "https://www.cnbc.com/2025/07/22/microsoft-google-deepmind-ai-talent.html",
+    "source": "CNBC",
+    "publishedAt": "2025-07-22T16:17:39Z",
+    "image": "https://image.cnbcfm.com/api/v1/image/108175219-1753203051931-gettyimages-2207879384-MICROSOFT_COPILOT.jpeg?v=1753203122&w=1920&h=1080",
+    "category": {
+      "name": "谷歌AI",
+      "color": "#3B82F6",
+      "icon": "🔍"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_4",
+    "title": "💼 微软AI：微软 转向 地下 废物存储 to 抵消 AI's 碳排放",
+    "original_title": "Microsoft turns to underground waste storage to offset AI's carbon toll",
+    "description": "微软 has signed a long-term deal with Vaulted Deep to purchase carbon credits in an effort to offset emissions from its growing fleet of AI data centers....",
+    "original_description": "Microsoft has signed a long-term deal with Vaulted Deep to purchase carbon credits in an effort to offset emissions from its growing fleet of AI data centers....",
+    "url": "https://www.techspot.com/news/108756-microsoft-turns-underground-waste-storage-offset-ai-carbon.html",
+    "source": "TechSpot",
+    "publishedAt": "2025-07-22T16:14:31Z",
+    "image": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-22-image-16.jpg",
+    "category": {
+      "name": "微软AI",
+      "color": "#8B5CF6",
+      "icon": "💼"
+    },
+    "importance": 1
   },
   {
     "id": "news_5",
-    "title": "🤖 OpenAI动态：OpenAI and Softbank’s $500 Billion Data Center Project Is Already Stumbling",
-    "original_title": "OpenAI and Softbank’s $500 Billion Data Center Project Is Already Stumbling",
-    "description": "Six months after a White House press conference, Stargate reportedly hasn't secured any data center deals.",
-    "original_description": "Six months after a White House press conference, Stargate reportedly hasn't secured any data center deals.",
-    "url": "https://gizmodo.com/openai-and-softbanks-500-billion-data-center-project-is-already-stumbling-2000632590",
-    "source": "Gizmodo",
-    "publishedAt": "2025-07-22T15:35:34Z",
-    "image": "https://gizmodo.com/app/uploads/2025/07/GettyImages-2224154880-1-1200x675.jpg",
-    "category": {
-      "name": "OpenAI动态",
-      "color": "#10B981",
-      "icon": "🤖"
-    },
-    "importance": 3
-  },
-  {
-    "id": "news_0",
-    "title": "📰 AI资讯：What features you get with 谷歌 AI Pro and AI Ultra [July 2025]",
+    "title": "🔍 谷歌AI：What 功能 you get with 谷歌 AI Pro and AI Ultra [July 2025]",
     "original_title": "What features you get with Google AI Pro and AI Ultra [July 2025]",
-    "description": "At I/O 2025, 谷歌 One AI Premium (and Gemini Advanced) became 谷歌 AI Pro, while a more expensive tier was introduced wit...",
+    "description": "At I/O 2025, 谷歌 One AI Premium (and Gemini Advanced) became 谷歌 AI Pro, while a more expensive tier was introduced with AI Ultra.",
     "original_description": "At I/O 2025, Google One AI Premium (and Gemini Advanced) became Google AI Pro, while a more expensive tier was introduced with AI Ultra.",
     "url": "https://9to5google.com/2025/07/22/google-ai-pro-ultra-features/",
     "source": "9to5Google",
@@ -51,10 +102,10 @@
     "importance": 1
   },
   {
-    "id": "news_1",
-    "title": "📰 AI资讯：Humans beat AI gold-level score at top math contest",
+    "id": "news_6",
+    "title": "📰 AI资讯：Humans 击败 AI 金牌 得分 at top 数学 竞赛",
     "original_title": "Humans beat AI gold-level score at top math contest",
-    "description": "SYDNEY, Australia — Humans beat generative artificial intelligence (AI) models made by 谷歌 and OpenAI at a top interna...",
+    "description": "SYDNEY, Australia — Humans beat generative 人工智能 (AI) 模型s made by 谷歌 and OpenAI at a top international mathematics competition, despite the programs reaching gold-level scores for the first time.",
     "original_description": "SYDNEY, Australia — Humans beat generative artificial intelligence (AI) models made by Google and OpenAI at a top international mathematics competition, despite the programs reaching gold-level scores for the first time.",
     "url": "https://www.manilatimes.net/2025/07/23/world/asia-oceania/humans-beat-ai-gold-level-score-at-top-math-contest/2154110",
     "source": "The Manila Times",
@@ -68,10 +119,10 @@
     "importance": 1
   },
   {
-    "id": "news_2",
-    "title": "📰 AI资讯：Humans triumph over AI at annual math Olympiad, but the machines are catching up",
+    "id": "news_7",
+    "title": "📰 AI资讯：Humans 胜利 over AI at 年度 数学 奥林匹克, but the 机器 are 追赶",
     "original_title": "Humans triumph over AI at annual math Olympiad, but the machines are catching up",
-    "description": "Humans beat AI programs made by 谷歌 and OpenAI at an international mathematics competition, but the 技术 shows some \"ver...",
+    "description": "Humans beat AI programs made by 谷歌 and OpenAI at an international mathematics competition, but the 技术 shows some \"very exciting\" progress.",
     "original_description": "Humans beat AI programs made by Google and OpenAI at an international mathematics competition, but the technology shows some \"very exciting\" progress.",
     "url": "https://www.cbsnews.com/news/humans-beat-ai-technology-google-openai-math-olympiad-machines-catching-up/",
     "source": "CBS News",
@@ -85,83 +136,32 @@
     "importance": 1
   },
   {
-    "id": "news_3",
+    "id": "news_8",
     "title": "💰 投资动态：Composio Raises $25 Million to Help AI Agents Learn from Experience",
     "original_title": "Composio Raises $25 Million to Help AI Agents Learn from Experience",
-    "description": "Agentic artificial intelligence (AI) 初创公司 Composio has secured $25 million in Series A funding led by Lightspeed Vent...",
+    "description": "Agentic 人工智能 (AI) 初创公司 Composio has secured $25 million in Series A funding led by Lightspeed Venture Partners, bringing its total funding to $29 million.",
     "original_description": "Agentic artificial intelligence (AI) startup Composio has secured $25 million in Series A funding led by Lightspeed Venture Partners, bringing its total funding to $29 million.",
     "url": "https://analyticsindiamag.com/ai-news-updates/composio-raises-25-million-to-help-ai-agents-learn-from-experience/",
     "source": "Analytics India Magazine",
     "publishedAt": "2025-07-22T16:03:44Z",
     "image": "https://analyticsindiamag.com/wp-content/uploads/2024/12/How-This-IIT-Bombay-Graduate-is-Helping-AI-Agents-Communicate-1.jpg",
     "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_4",
-    "title": "📰 AI资讯：AI device can 'translate' your dreams and play them back for you",
-    "original_title": "AI device can 'translate' your dreams and play them back for you",
-    "description": "Dutch design studio Modem has introduced its latest project, Dream Recorder. Aptly named, the device allows 用户 to see...",
-    "original_description": "Dutch design studio Modem has introduced its latest project, Dream Recorder. Aptly named, the device allows users to see visual interpretations of their own dreams by harnessing the latest in technology — a video AI model that translates phrases into pictures.",
-    "url": "https://nypost.com/2025/07/22/tech/ai-device-can-translate-your-dreams-and-play-them-back-for-you/",
-    "source": "New York Post",
-    "publishedAt": "2025-07-22T15:59:16Z",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/one-design-studio-introduced-magical-108543638.jpg?quality=75&strip=all&w=1024",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_7",
-    "title": "📰 AI资讯：Is today’s AI boom bigger than the dotcom bubble?",
-    "original_title": "Is today’s AI boom bigger than the dotcom bubble?",
-    "description": "Growing concentration in U.S. equities instantly brings to mind the internet and communications frenzy of the late 1990s",
-    "original_description": "Growing concentration in U.S. equities instantly brings to mind the internet and communications frenzy of the late 1990s",
-    "url": "https://www.theglobeandmail.com/investing/article-is-todays-ai-boom-bigger-than-the-dotcom-bubble/",
-    "source": "The Globe and Mail",
-    "publishedAt": "2025-07-22T15:30:59Z",
-    "image": "https://www.theglobeandmail.com/resizer/v2/JOGGRDRE5ZFOJAK6KYLCPPGXSI.JPG?auth=7c0a38accf6f5b8074eb19828ed69dd10125e6f6cb07420e4f0def460c197139&width=1200&height=800&quality=80&smart=true",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_8",
-    "title": "📰 AI资讯：AIr India flight from Hong Kong catches fire upon landing in Delhi, emergency alert",
-    "original_title": "Air India flight from Hong Kong catches fire upon landing in Delhi, emergency alert",
-    "description": "A fire broke out on an Air India aircraft shortly after it landed at Delhi's Indira Gandhi International Airport on T...",
-    "original_description": "A fire broke out on an Air India aircraft shortly after it landed at Delhi's Indira Gandhi International Airport on Tuesday. Flight AI 315",
-    "url": "https://www.bolnews.com/international/2025/07/air-india-flight-from-hong-kong-catches-fire-upon-landing-in-delhi-airport-emergency-alert/",
-    "source": "BOL News",
-    "publishedAt": "2025-07-22T15:17:54Z",
-    "image": "https://www.bolnews.com/wp-content/uploads/2025/07/FotoJet-2025-07-22T195959.839.jpg",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
+      "name": "投资动态",
+      "color": "#EF4444",
+      "icon": "💰"
     },
     "importance": 1
   },
   {
     "id": "news_9",
-    "title": "📰 AI资讯：AIr India flight from Hong Kong catches fire upon landing in Delhi, emergency alert",
-    "original_title": "Air India flight from Hong Kong catches fire upon landing in Delhi, emergency alert",
-    "description": "A fire broke out on an Air India aircraft shortly after it landed at Delhi's Indira Gandhi International Airport on T...",
-    "original_description": "A fire broke out on an Air India aircraft shortly after it landed at Delhi's Indira Gandhi International Airport on Tuesday. Flight AI 315",
-    "url": "https://www.bolnews.com/pakistan/2025/07/air-india-flight-from-hong-kong-catches-fire-upon-landing-in-delhi-airport-emergency-alert/",
-    "source": "BOL News",
-    "publishedAt": "2025-07-22T15:17:54Z",
-    "image": "https://www.bolnews.com/wp-content/uploads/2025/07/FotoJet-2025-07-22T195959.839.jpg",
+    "title": "📰 AI资讯：AI 设备 can '翻译' your 梦境 and play them back for you",
+    "original_title": "AI device can 'translate' your dreams and play them back for you",
+    "description": "Dutch design studio Modem has introduced its latest project, Dream Recorder. Aptly named, the device allows 用户 to see visual interpretations of their own dreams by harnessing the latest in 技术 — a video AI 模型 that translates phrases into pictures.",
+    "original_description": "Dutch design studio Modem has introduced its latest project, Dream Recorder. Aptly named, the device allows users to see visual interpretations of their own dreams by harnessing the latest in technology — a video AI model that translates phrases into pictures.",
+    "url": "https://nypost.com/2025/07/22/tech/ai-device-can-translate-your-dreams-and-play-them-back-for-you/",
+    "source": "New York Post",
+    "publishedAt": "2025-07-22T15:59:16Z",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/one-design-studio-introduced-magical-108543638.jpg?quality=75&strip=all&w=1024",
     "category": {
       "name": "AI资讯",
       "color": "#6B7280",

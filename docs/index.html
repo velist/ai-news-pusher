@@ -3,53 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI科技日报 - 2025年07月23日</title>
+    <title>🤖 AI科技日报 - 中文AI资讯门户</title>
     <style>
         :root {
-            /* Light theme colors */
+            /* 颜色变量 */
             --color-primary: #007AFF;
-            --color-success: #34C759;
-            --color-warning: #FF9500;
-            --color-error: #FF3B30;
-            --color-gray: #8E8E93;
-            --color-gray5: #E5E5EA;
+            --color-success: #10B981;
+            --color-warning: #F59E0B;
+            --color-error: #EF4444;
             
+            /* 背景颜色 */
             --bg-primary: #FFFFFF;
             --bg-secondary: #F2F2F7;
             --bg-tertiary: #FFFFFF;
             
+            /* 文字颜色 */
             --text-primary: #000000;
             --text-secondary: #3C3C43;
-            --text-tertiary: #3C3C4399;
+            --text-tertiary: #8E8E93;
             
-            --shadow-light: 0 1px 3px rgba(0, 0, 0, 0.1);
-            --shadow-medium: 0 4px 12px rgba(0, 0, 0, 0.15);
-            
-            --radius-medium: 12px;
-            --radius-large: 16px;
-            
+            /* 间距 */
             --spacing-sm: 8px;
             --spacing-md: 16px;
             --spacing-lg: 24px;
+            --spacing-xl: 32px;
+            
+            /* 圆角 */
+            --radius-small: 8px;
+            --radius-medium: 12px;
+            --radius-large: 16px;
+            
+            /* 阴影 */
+            --shadow-light: 0 2px 8px rgba(0, 0, 0, 0.05);
+            --shadow-medium: 0 4px 16px rgba(0, 0, 0, 0.1);
         }
         
-        /* Dark theme */
         [data-theme="dark"] {
             --color-primary: #0A84FF;
-            --color-success: #32D74B;
-            --color-warning: #FF9F0A;
-            --color-error: #FF453A;
-            
             --bg-primary: #000000;
             --bg-secondary: #1C1C1E;
             --bg-tertiary: #2C2C2E;
-            
             --text-primary: #FFFFFF;
             --text-secondary: #EBEBF5;
-            --text-tertiary: #EBEBF599;
-            
-            --shadow-light: 0 1px 3px rgba(255, 255, 255, 0.1);
-            --shadow-medium: 0 4px 12px rgba(255, 255, 255, 0.15);
+            --text-tertiary: #8E8E93;
+            --shadow-light: 0 2px 8px rgba(255, 255, 255, 0.05);
+            --shadow-medium: 0 4px 16px rgba(255, 255, 255, 0.1);
         }
         
         * {
@@ -59,10 +57,10 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
             background-color: var(--bg-secondary);
             color: var(--text-primary);
-            line-height: 1.47;
+            line-height: 1.6;
             transition: all 0.3s ease;
         }
         
@@ -72,111 +70,109 @@
             padding: 0 var(--spacing-md);
         }
         
-        /* Header */
         .header {
             background-color: var(--bg-primary);
             padding: var(--spacing-lg) 0;
             text-align: center;
-            border-bottom: 0.5px solid var(--color-gray5);
             position: sticky;
             top: 0;
             z-index: 100;
-            backdrop-filter: blur(20px);
-        }
-        
-        .header-top {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: var(--spacing-md);
+            box-shadow: var(--shadow-light);
         }
         
         .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
             background: var(--bg-secondary);
             border: none;
             border-radius: 20px;
             padding: 8px 16px;
             color: var(--text-primary);
             cursor: pointer;
-            font-size: 0.9rem;
-            transition: all 0.3s ease;
+            z-index: 1000;
+            font-size: 14px;
             display: flex;
             align-items: center;
-            gap: 8px;
-        }
-        
-        .theme-toggle:hover {
-            background: var(--color-primary);
-            color: white;
+            gap: 6px;
+            box-shadow: var(--shadow-light);
         }
         
         .header h1 {
             font-size: 2rem;
             font-weight: 700;
-            color: var(--text-primary);
             margin-bottom: var(--spacing-sm);
+            color: var(--text-primary);
         }
         
-        .header .subtitle {
-            font-size: 0.9rem;
+        .header-subtitle {
             color: var(--text-secondary);
-        }
-        
-        /* Tabs */
-        .tab-container {
-            background-color: var(--bg-primary);
-            padding: var(--spacing-md) 0;
-            border-bottom: 0.5px solid var(--color-gray5);
-            position: sticky;
-            top: 72px;
-            z-index: 90;
+            font-size: 1rem;
         }
         
         .tabs {
-            display: flex;
-            gap: var(--spacing-sm);
+            background-color: var(--bg-primary);
+            padding: var(--spacing-md) 0;
             overflow-x: auto;
-            padding: 0 var(--spacing-md);
+            white-space: nowrap;
+            box-shadow: var(--shadow-light);
+        }
+        
+        .tabs::-webkit-scrollbar {
+            height: 4px;
+        }
+        
+        .tabs::-webkit-scrollbar-track {
+            background: var(--bg-secondary);
+        }
+        
+        .tabs::-webkit-scrollbar-thumb {
+            background: var(--text-tertiary);
+            border-radius: 2px;
         }
         
         .tab-button {
-            display: flex;
+            display: inline-flex;
             align-items: center;
             gap: var(--spacing-sm);
             padding: var(--spacing-sm) var(--spacing-md);
-            background-color: var(--bg-secondary);
+            margin-right: var(--spacing-sm);
             border: none;
-            border-radius: var(--radius-large);
-            font-size: 0.875rem;
+            border-radius: var(--radius-medium);
+            background-color: var(--bg-secondary);
             color: var(--text-secondary);
             cursor: pointer;
-            white-space: nowrap;
+            font-size: 0.875rem;
+            font-weight: 500;
             transition: all 0.2s ease;
+            white-space: nowrap;
         }
         
         .tab-button.active {
             background-color: var(--color-primary);
             color: white;
-            font-weight: 600;
+        }
+        
+        .tab-button:hover:not(.active) {
+            background-color: var(--bg-tertiary);
         }
         
         .tab-count {
             background-color: rgba(255, 255, 255, 0.2);
-            border-radius: 10px;
+            color: currentColor;
             padding: 2px 6px;
+            border-radius: 10px;
             font-size: 0.75rem;
-            font-weight: 600;
         }
         
-        /* News Grid */
         .content-area {
             padding: var(--spacing-lg) 0;
         }
         
         .news-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-            gap: var(--spacing-md);
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: var(--spacing-lg);
         }
         
         .news-card {
@@ -192,6 +188,10 @@
         .news-card:hover {
             transform: translateY(-2px);
             box-shadow: var(--shadow-medium);
+        }
+        
+        .news-card.hidden {
+            display: none;
         }
         
         .priority-indicator {
@@ -212,6 +212,19 @@
         
         .news-card.priority-low .priority-indicator {
             background-color: var(--color-success);
+        }
+        
+        .importance-stars {
+            position: absolute;
+            top: var(--spacing-sm);
+            right: var(--spacing-sm);
+            display: flex;
+            gap: 2px;
+        }
+        
+        .star {
+            color: #FFD700;
+            font-size: 0.75rem;
         }
         
         .card-header {
@@ -268,122 +281,78 @@
             padding: var(--spacing-sm) var(--spacing-md);
             border-radius: var(--radius-medium);
             text-decoration: none;
-            font-size: 0.8125rem;
+            font-size: 0.875rem;
             font-weight: 600;
+            transition: opacity 0.2s ease;
         }
         
-        .importance-stars {
-            position: absolute;
-            top: var(--spacing-md);
-            right: var(--spacing-md);
-            display: flex;
-            gap: 2px;
+        .read-more:hover {
+            opacity: 0.8;
         }
         
-        .star {
-            color: var(--color-warning);
-            font-size: 0.75rem;
-        }
-        
-        /* Hidden class */
-        .hidden {
-            display: none !important;
-        }
-        
-        /* Responsive */
         @media (max-width: 768px) {
-            .header h1 { font-size: 1.75rem; }
-            .news-grid { grid-template-columns: 1fr; }
-            .header-top { flex-direction: column; gap: var(--spacing-md); }
+            .news-grid {
+                grid-template-columns: 1fr;
+                gap: var(--spacing-md);
+            }
+            
+            .container {
+                padding: 0 var(--spacing-sm);
+            }
+            
+            .header h1 {
+                font-size: 1.5rem;
+            }
         }
     </style>
 </head>
 <body>
-    <header class="header">
-        <div class="container">
-            <div class="header-top">
-                <div></div>
-                <button class="theme-toggle" onclick="toggleTheme()">
-                    <span class="theme-icon">🌙</span>
-                    <span class="theme-text">夜间模式</span>
-                </button>
-            </div>
-            <h1>🤖 AI科技日报</h1>
-            <p class="subtitle">2025年07月23日 · 人工智能前沿资讯</p>
-        </div>
-    </header>
+    <button class="theme-toggle" onclick="toggleTheme()">
+        <span class="theme-icon">🌙</span>
+        <span class="theme-text">夜间模式</span>
+    </button>
     
-    <div class="tab-container">
+    <div class="header">
         <div class="container">
-            <div class="tabs">
-                <button class="tab-button active" data-category="all">
-                    <span class="tab-icon">📱</span>
-                    <span class="tab-text">全部</span>
-                    <span class="tab-count">10</span>
-                </button>
-                
-            <button class="tab-button active" data-category="AI资讯">
+            <h1>🤖 AI科技日报</h1>
+            <p class="header-subtitle">2025年07月23日 · 人工智能前沿资讯</p>
+        </div>
+    </div>
+    
+    <div class="tabs">
+        <div class="container">
+            <button class="tab-button active" data-category="all">
                 <span class="tab-icon">📱</span>
-                <span class="tab-text">AI资讯</span>
-                <span class="tab-count">8</span>
+                <span class="tab-text">全部</span>
+                <span class="tab-count">10</span>
             </button>
-            <button class="tab-button " data-category="OpenAI动态">
-                <span class="tab-icon">🤖</span>
-                <span class="tab-text">OpenAI动态</span>
-                <span class="tab-count">1</span>
-            </button>
-            <button class="tab-button " data-category="谷歌AI">
+            
+            <button class="tab-button active" data-category="谷歌AI">
                 <span class="tab-icon">🔍</span>
                 <span class="tab-text">谷歌AI</span>
+                <span class="tab-count">3</span>
+            </button>
+            <button class="tab-button " data-category="AI资讯">
+                <span class="tab-icon">📱</span>
+                <span class="tab-text">AI资讯</span>
+                <span class="tab-count">5</span>
+            </button>
+            <button class="tab-button " data-category="微软AI">
+                <span class="tab-icon">💼</span>
+                <span class="tab-text">微软AI</span>
                 <span class="tab-count">1</span>
             </button>
-            </div>
+            <button class="tab-button " data-category="投资动态">
+                <span class="tab-icon">💰</span>
+                <span class="tab-text">投资动态</span>
+                <span class="tab-count">1</span>
+            </button>
         </div>
     </div>
     
     <div class="container">
         <div class="content-area">
             <div class="news-grid">
-            <article class="news-card priority-high" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_6.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：'Earthquake inside 苹果' — AI efforts just dealt another major blow</h2>
-                    <p class="news-description">After the surprise departure of its top AI leader, 苹果 is testing outside models from OpenAI and 谷歌 in a major shift.</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Tom's Guide</div>
-                        <div class="publish-date">🕒 2025-07-22 23:33</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-medium" data-category="OpenAI动态" 
-                     onclick="window.location.href='news/news_5.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #10B981; color: white;">
-                        <span>🤖</span>
-                        <span>OpenAI动态</span>
-                    </div>
-                    <h2 class="news-title">🤖 OpenAI动态：OpenAI and Softbank’s $500 Billion Data Center Project Is Already Stumbling</h2>
-                    <p class="news-description">Six months after a White House press conference, Stargate reportedly hasn't secured any data center deals.</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Gizmodo</div>
-                        <div class="publish-date">🕒 2025-07-22 23:35</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
             <article class="news-card priority-low" data-category="谷歌AI" 
                      onclick="window.location.href='news/news_0.html'">
                 <div class="priority-indicator"></div>
@@ -393,13 +362,13 @@
                         <span>🔍</span>
                         <span>谷歌AI</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：What features you get with 谷歌 AI Pro and AI Ultra [July 2025]</h2>
-                    <p class="news-description">At I/O 2025, 谷歌 One AI Premium (and Gemini Advanced) became 谷歌 AI Pro, while a more expensive tier was introduced wit...</p>
+                    <h2 class="news-title">🔍 谷歌AI：谷歌 Fastest and Most Cost-Effective AI Model Is Generally Available</h2>
+                    <p class="news-description">The stable variant of the Gemini 2.5 Flash-Lite is now 可用, and 成本 $0.1 and $0.4 per million 输入 and 输出 令牌, 分别.</p>
                 </div>
                 <div class="card-footer">
                     <div class="news-meta">
-                        <div class="source">📰 9to5Google</div>
-                        <div class="publish-date">🕒 2025-07-23 00:14</div>
+                        <div class="source">📰 Analytics India Magazine</div>
+                        <div class="publish-date">🕒 2025-07-23 00:54</div>
                     </div>
                     <div class="read-more">查看详情</div>
                 </div>
@@ -413,13 +382,13 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：Humans beat AI gold-level score at top math contest</h2>
-                    <p class="news-description">SYDNEY, Australia — Humans beat generative artificial intelligence (AI) models made by 谷歌 and OpenAI at a top interna...</p>
+                    <h2 class="news-title">📰 AI资讯：Why AI 股票 are down, plus 3 names Morgan Stanley likes pre-财报</h2>
+                    <p class="news-description">The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.</p>
                 </div>
                 <div class="card-footer">
                     <div class="news-meta">
-                        <div class="source">📰 The Manila Times</div>
-                        <div class="publish-date">🕒 2025-07-23 00:10</div>
+                        <div class="source">📰 CNBC</div>
+                        <div class="publish-date">🕒 2025-07-23 00:21</div>
                     </div>
                     <div class="read-more">查看详情</div>
                 </div>
@@ -433,39 +402,79 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：Humans triumph over AI at annual math Olympiad, but the machines are catching up</h2>
-                    <p class="news-description">Humans beat AI programs made by 谷歌 and OpenAI at an international mathematics competition, but the 技术 shows some "ver...</p>
+                    <h2 class="news-title">📰 AI资讯：软银, Stargate 瞄准 小型 数据中心</h2>
+                    <p class="news-description">STARGATE, a multibillion-dollar effort by ChatGPT’s creator OpenAI, SoftBank and Oracle to supercharge US 人工智能 (AI) ambitions, is now setting the more modest goal of building a small data center by the end of the year, likely in Ohio, the Wall Street Journal reported on Monday.</p>
                 </div>
                 <div class="card-footer">
                     <div class="news-meta">
-                        <div class="source">📰 CBS News</div>
-                        <div class="publish-date">🕒 2025-07-23 00:06</div>
+                        <div class="source">📰 The Manila Times</div>
+                        <div class="publish-date">🕒 2025-07-23 00:20</div>
                     </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
+            <article class="news-card priority-low" data-category="谷歌AI" 
                      onclick="window.location.href='news/news_3.html'">
                 <div class="priority-indicator"></div>
                 <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
+                    <div class="category-badge" style="background-color: #3B82F6; color: white;">
+                        <span>🔍</span>
+                        <span>谷歌AI</span>
                     </div>
-                    <h2 class="news-title">💰 投资动态：Composio Raises $25 Million to Help AI Agents Learn from Experience</h2>
-                    <p class="news-description">Agentic artificial intelligence (AI) 初创公司 Composio has secured $25 million in Series A funding led by Lightspeed Vent...</p>
+                    <h2 class="news-title">🔍 谷歌AI：微软 挖角 谷歌 DeepMind AI 人才 as it 加强 Copilot</h2>
+                    <p class="news-description">微软's 人工智能 group has been growing under Mustafa Suleyman, a co-founder of the DeepMind research lab 谷歌 acquired years ago.</p>
                 </div>
                 <div class="card-footer">
                     <div class="news-meta">
-                        <div class="source">📰 Analytics India Magazine</div>
-                        <div class="publish-date">🕒 2025-07-23 00:03</div>
+                        <div class="source">📰 CNBC</div>
+                        <div class="publish-date">🕒 2025-07-23 00:17</div>
+                    </div>
+                    <div class="read-more">查看详情</div>
+                </div>
+            </article>
+            <article class="news-card priority-low" data-category="微软AI" 
+                     onclick="window.location.href='news/news_4.html'">
+                <div class="priority-indicator"></div>
+                <div class="importance-stars"><span class="star">★</span></div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #8B5CF6; color: white;">
+                        <span>💼</span>
+                        <span>微软AI</span>
+                    </div>
+                    <h2 class="news-title">💼 微软AI：微软 转向 地下 废物存储 to 抵消 AI's 碳排放</h2>
+                    <p class="news-description">微软 has signed a long-term deal with Vaulted Deep to purchase carbon credits in an effort to offset emissions from its growing fleet of AI data centers....</p>
+                </div>
+                <div class="card-footer">
+                    <div class="news-meta">
+                        <div class="source">📰 TechSpot</div>
+                        <div class="publish-date">🕒 2025-07-23 00:14</div>
+                    </div>
+                    <div class="read-more">查看详情</div>
+                </div>
+            </article>
+            <article class="news-card priority-low" data-category="谷歌AI" 
+                     onclick="window.location.href='news/news_5.html'">
+                <div class="priority-indicator"></div>
+                <div class="importance-stars"><span class="star">★</span></div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #3B82F6; color: white;">
+                        <span>🔍</span>
+                        <span>谷歌AI</span>
+                    </div>
+                    <h2 class="news-title">🔍 谷歌AI：What 功能 you get with 谷歌 AI Pro and AI Ultra [July 2025]</h2>
+                    <p class="news-description">At I/O 2025, 谷歌 One AI Premium (and Gemini Advanced) became 谷歌 AI Pro, while a more expensive tier was introduced with AI Ultra.</p>
+                </div>
+                <div class="card-footer">
+                    <div class="news-meta">
+                        <div class="source">📰 9to5Google</div>
+                        <div class="publish-date">🕒 2025-07-23 00:14</div>
                     </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
             <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_4.html'">
+                     onclick="window.location.href='news/news_6.html'">
                 <div class="priority-indicator"></div>
                 <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
@@ -473,13 +482,13 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：AI device can 'translate' your dreams and play them back for you</h2>
-                    <p class="news-description">Dutch design studio Modem has introduced its latest project, Dream Recorder. Aptly named, the device allows 用户 to see...</p>
+                    <h2 class="news-title">📰 AI资讯：Humans 击败 AI 金牌 得分 at top 数学 竞赛</h2>
+                    <p class="news-description">SYDNEY, Australia — Humans beat generative 人工智能 (AI) 模型s made by 谷歌 and OpenAI at a top international mathematics competition, despite the programs reaching gold-level scores for the first time.</p>
                 </div>
                 <div class="card-footer">
                     <div class="news-meta">
-                        <div class="source">📰 New York Post</div>
-                        <div class="publish-date">🕒 2025-07-22 23:59</div>
+                        <div class="source">📰 The Manila Times</div>
+                        <div class="publish-date">🕒 2025-07-23 00:10</div>
                     </div>
                     <div class="read-more">查看详情</div>
                 </div>
@@ -493,33 +502,33 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：Is today’s AI boom bigger than the dotcom bubble?</h2>
-                    <p class="news-description">Growing concentration in U.S. equities instantly brings to mind the internet and communications frenzy of the late 1990s</p>
+                    <h2 class="news-title">📰 AI资讯：Humans 胜利 over AI at 年度 数学 奥林匹克, but the 机器 are 追赶</h2>
+                    <p class="news-description">Humans beat AI programs made by 谷歌 and OpenAI at an international mathematics competition, but the 技术 shows some "very exciting" progress.</p>
                 </div>
                 <div class="card-footer">
                     <div class="news-meta">
-                        <div class="source">📰 The Globe and Mail</div>
-                        <div class="publish-date">🕒 2025-07-22 23:30</div>
+                        <div class="source">📰 CBS News</div>
+                        <div class="publish-date">🕒 2025-07-23 00:06</div>
                     </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
+            <article class="news-card priority-low" data-category="投资动态" 
                      onclick="window.location.href='news/news_8.html'">
                 <div class="priority-indicator"></div>
                 <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
+                    <div class="category-badge" style="background-color: #EF4444; color: white;">
+                        <span>💰</span>
+                        <span>投资动态</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：AIr India flight from Hong Kong catches fire upon landing in Delhi, emergency alert</h2>
-                    <p class="news-description">A fire broke out on an Air India aircraft shortly after it landed at Delhi's Indira Gandhi International Airport on T...</p>
+                    <h2 class="news-title">💰 投资动态：Composio Raises $25 Million to Help AI Agents Learn from Experience</h2>
+                    <p class="news-description">Agentic 人工智能 (AI) 初创公司 Composio has secured $25 million in Series A funding led by Lightspeed Venture Partners, bringing its total funding to $29 million.</p>
                 </div>
                 <div class="card-footer">
                     <div class="news-meta">
-                        <div class="source">📰 BOL News</div>
-                        <div class="publish-date">🕒 2025-07-22 23:17</div>
+                        <div class="source">📰 Analytics India Magazine</div>
+                        <div class="publish-date">🕒 2025-07-23 00:03</div>
                     </div>
                     <div class="read-more">查看详情</div>
                 </div>
@@ -533,13 +542,13 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：AIr India flight from Hong Kong catches fire upon landing in Delhi, emergency alert</h2>
-                    <p class="news-description">A fire broke out on an Air India aircraft shortly after it landed at Delhi's Indira Gandhi International Airport on T...</p>
+                    <h2 class="news-title">📰 AI资讯：AI 设备 can '翻译' your 梦境 and play them back for you</h2>
+                    <p class="news-description">Dutch design studio Modem has introduced its latest project, Dream Recorder. Aptly named, the device allows 用户 to see visual interpretations of their own dreams by harnessing the latest in 技术 — a video AI 模型 that translates phrases into pictures.</p>
                 </div>
                 <div class="card-footer">
                     <div class="news-meta">
-                        <div class="source">📰 BOL News</div>
-                        <div class="publish-date">🕒 2025-07-22 23:17</div>
+                        <div class="source">📰 New York Post</div>
+                        <div class="publish-date">🕒 2025-07-22 23:59</div>
                     </div>
                     <div class="read-more">查看详情</div>
                 </div>
@@ -568,7 +577,7 @@
             }
         }
         
-        // 初始化主题
+        // 页面加载时恢复主题
         document.addEventListener('DOMContentLoaded', function() {
             const savedTheme = localStorage.getItem('theme') || 'light';
             const themeIcon = document.querySelector('.theme-icon');
@@ -580,7 +589,7 @@
                 themeText.textContent = '日间模式';
             }
             
-            // 分类筛选
+            // 标签切换功能
             const tabButtons = document.querySelectorAll('.tab-button');
             const newsCards = document.querySelectorAll('.news-card');
             
