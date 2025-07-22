@@ -61,20 +61,26 @@ class NewsProcessor:
             
             for news_item in raw_news:
                 try:
-                    # 获取AI分析结果
+                    # 获取AI分析结果（包含中文标题翻译）
                     analysis = self.ai_analyzer.generate_commentary_and_analysis(news_item)
                     
-                    # 合并数据
+                    # 合并数据，确保包含chinese_title
                     enhanced_news = {**news_item, **analysis}
                     processed_news.append(enhanced_news)
                     
-                    logger.debug(f"完成分析: {news_item.get('title', '')[:50]}...")
+                    logger.debug(f"完成分析: {enhanced_news.get('chinese_title', news_item.get('title', ''))[:50]}...")
                     
                 except Exception as e:
                     logger.error(f"处理新闻时出错: {str(e)}")
-                    # 即使分析失败，也保留原始新闻
+                    # 即使分析失败，也要尝试翻译标题
+                    try:
+                        chinese_title = self.ai_analyzer._translate_title_to_chinese(news_item.get('title', ''))
+                    except:
+                        chinese_title = news_item.get('title', '')
+                    
                     enhanced_news = {
                         **news_item,
+                        'chinese_title': chinese_title,
                         'commentary': '暂无AI点评',
                         'china_impact_analysis': '暂无影响分析'
                     }

@@ -106,12 +106,19 @@ class AIAnalyzer:
         # 开始翻译
         chinese_title = title
         
-        # 替换关键词
-        for en_word, zh_word in translations.items():
-            # 不区分大小写替换
-            chinese_title = chinese_title.replace(en_word, zh_word)
-            chinese_title = chinese_title.replace(en_word.lower(), zh_word)
-            chinese_title = chinese_title.replace(en_word.upper(), zh_word)
+        # 使用正则表达式进行更精确的替换
+        import re
+        
+        # 按长度排序，先替换长词组
+        sorted_translations = sorted(translations.items(), key=lambda x: len(x[0]), reverse=True)
+        
+        for en_word, zh_word in sorted_translations:
+            # 使用单词边界进行精确匹配
+            pattern = r'\b' + re.escape(en_word) + r'\b'
+            chinese_title = re.sub(pattern, zh_word, chinese_title, flags=re.IGNORECASE)
+        
+        # 清理多余空格
+        chinese_title = ' '.join(chinese_title.split())
         
         # 如果翻译后还大量包含英文，添加中文前缀
         english_chars = sum(1 for c in chinese_title if c.isascii() and c.isalpha())
