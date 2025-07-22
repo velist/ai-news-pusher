@@ -11,6 +11,7 @@ import urllib.parse
 import time
 import os
 from datetime import datetime
+import re
 
 class UltraTranslationNewsProcessor:
     def __init__(self):
@@ -20,6 +21,26 @@ class UltraTranslationNewsProcessor:
         self.feishu_app_secret = "lCVIsMEiXI6yaOCHa0OkFgOjWcCpy3t8"
         self.feishu_base_url = "https://open.feishu.cn/open-apis"
         self.gnews_base_url = "https://gnews.io/api/v4"
+        
+    def format_publish_date(self, date_str):
+        """格式化发布时间为年月日 时分"""
+        try:
+            if not date_str:
+                return datetime.now().strftime("%Y-%m-%d %H:%M")
+            
+            # 处理ISO格式时间字符串
+            if 'T' in date_str:
+                dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                # 转换为北京时间 (UTC+8)
+                import datetime as dt_module
+                dt = dt.replace(tzinfo=dt_module.timezone.utc)
+                dt = dt.astimezone(dt_module.timezone(dt_module.timedelta(hours=8)))
+            else:
+                dt = datetime.fromisoformat(date_str)
+                
+            return dt.strftime("%Y-%m-%d %H:%M")
+        except:
+            return datetime.now().strftime("%Y-%m-%d %H:%M")
         
     def translate_title(self, title):
         """完整的中文翻译系统 - 彻底解决中英混合问题"""
@@ -673,7 +694,13 @@ class UltraTranslationNewsProcessor:
             align-items: center;
         }}
         
-        .source {{
+        .news-meta {{
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }}
+        
+        .source, .publish-date {{
             font-size: 0.8125rem;
             color: var(--text-tertiary);
         }}
@@ -765,7 +792,10 @@ class UltraTranslationNewsProcessor:
                     <p class="news-description">{news['description']}</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">📰 {news['source']}</div>
+                    <div class="news-meta">
+                        <div class="source">📰 {news['source']}</div>
+                        <div class="publish-date">🕒 {self.format_publish_date(news.get('publishedAt'))}</div>
+                    </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>'''

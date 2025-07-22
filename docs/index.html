@@ -251,7 +251,13 @@
             align-items: center;
         }
         
-        .source {
+        .news-meta {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        
+        .source, .publish-date {
             font-size: 0.8125rem;
             color: var(--text-tertiary);
         }
@@ -316,20 +322,20 @@
                     <span class="tab-count">10</span>
                 </button>
                 
-            <button class="tab-button active" data-category="OpenAI动态">
-                <span class="tab-icon">🤖</span>
-                <span class="tab-text">OpenAI动态</span>
-                <span class="tab-count">2</span>
-            </button>
-            <button class="tab-button " data-category="投资动态">
-                <span class="tab-icon">💰</span>
-                <span class="tab-text">投资动态</span>
-                <span class="tab-count">1</span>
-            </button>
-            <button class="tab-button " data-category="AI资讯">
+            <button class="tab-button active" data-category="AI资讯">
                 <span class="tab-icon">📱</span>
                 <span class="tab-text">AI资讯</span>
-                <span class="tab-count">7</span>
+                <span class="tab-count">8</span>
+            </button>
+            <button class="tab-button " data-category="OpenAI动态">
+                <span class="tab-icon">🤖</span>
+                <span class="tab-text">OpenAI动态</span>
+                <span class="tab-count">1</span>
+            </button>
+            <button class="tab-button " data-category="谷歌AI">
+                <span class="tab-icon">🔍</span>
+                <span class="tab-text">谷歌AI</span>
+                <span class="tab-count">1</span>
             </button>
             </div>
         </div>
@@ -338,54 +344,103 @@
     <div class="container">
         <div class="content-area">
             <div class="news-grid">
+            <article class="news-card priority-high" data-category="AI资讯" 
+                     onclick="window.location.href='news/news_6.html'">
+                <div class="priority-indicator"></div>
+                <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
+                    </div>
+                    <h2 class="news-title">📰 AI资讯：'Earthquake inside 苹果' — AI efforts just dealt another major blow</h2>
+                    <p class="news-description">After the surprise departure of its top AI leader, 苹果 is testing outside models from OpenAI and 谷歌 in a major shift.</p>
+                </div>
+                <div class="card-footer">
+                    <div class="news-meta">
+                        <div class="source">📰 Tom's Guide</div>
+                        <div class="publish-date">🕒 2025-07-22 23:33</div>
+                    </div>
+                    <div class="read-more">查看详情</div>
+                </div>
+            </article>
             <article class="news-card priority-medium" data-category="OpenAI动态" 
+                     onclick="window.location.href='news/news_5.html'">
+                <div class="priority-indicator"></div>
+                <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #10B981; color: white;">
+                        <span>🤖</span>
+                        <span>OpenAI动态</span>
+                    </div>
+                    <h2 class="news-title">🤖 OpenAI动态：OpenAI and Softbank’s $500 Billion Data Center Project Is Already Stumbling</h2>
+                    <p class="news-description">Six months after a White House press conference, Stargate reportedly hasn't secured any data center deals.</p>
+                </div>
+                <div class="card-footer">
+                    <div class="news-meta">
+                        <div class="source">📰 Gizmodo</div>
+                        <div class="publish-date">🕒 2025-07-22 23:35</div>
+                    </div>
+                    <div class="read-more">查看详情</div>
+                </div>
+            </article>
+            <article class="news-card priority-low" data-category="谷歌AI" 
                      onclick="window.location.href='news/news_0.html'">
                 <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+                <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: #10B981; color: white;">
-                        <span>🤖</span>
-                        <span>OpenAI动态</span>
+                    <div class="category-badge" style="background-color: #3B82F6; color: white;">
+                        <span>🔍</span>
+                        <span>谷歌AI</span>
                     </div>
-                    <h2 class="news-title">🤖 OpenAI动态：应用业务主管称'很多人不愿向家人朋友敞开心扉'，AI陪伴引发思考</h2>
-                    <p class="news-description">我们应该在多大程度上信任ChatGPT？这引发了关于AI伦理和用户隐私的深度思考。</p>
+                    <h2 class="news-title">📰 AI资讯：What features you get with 谷歌 AI Pro and AI Ultra [July 2025]</h2>
+                    <p class="news-description">At I/O 2025, 谷歌 One AI Premium (and Gemini Advanced) became 谷歌 AI Pro, while a more expensive tier was introduced wit...</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">📰 TechRadar</div>
+                    <div class="news-meta">
+                        <div class="source">📰 9to5Google</div>
+                        <div class="publish-date">🕒 2025-07-23 00:14</div>
+                    </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
-            <article class="news-card priority-medium" data-category="OpenAI动态" 
+            <article class="news-card priority-low" data-category="AI资讯" 
                      onclick="window.location.href='news/news_1.html'">
                 <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+                <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: #10B981; color: white;">
-                        <span>🤖</span>
-                        <span>OpenAI动态</span>
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">🤝 政府合作：科技巨头OpenAI与政府签署协议，助力提升公共服务效率</h2>
-                    <p class="news-description">政府表示AI将在医疗、国防和教育等领域发挥根本性变革作用，助力公共服务全面升级。</p>
+                    <h2 class="news-title">📰 AI资讯：Humans beat AI gold-level score at top math contest</h2>
+                    <p class="news-description">SYDNEY, Australia — Humans beat generative artificial intelligence (AI) models made by 谷歌 and OpenAI at a top interna...</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">📰 Sky News</div>
+                    <div class="news-meta">
+                        <div class="source">📰 The Manila Times</div>
+                        <div class="publish-date">🕒 2025-07-23 00:10</div>
+                    </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
-            <article class="news-card priority-low" data-category="投资动态" 
+            <article class="news-card priority-low" data-category="AI资讯" 
                      onclick="window.location.href='news/news_2.html'">
                 <div class="priority-indicator"></div>
                 <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: #EF4444; color: white;">
-                        <span>💰</span>
-                        <span>投资动态</span>
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">💰 投资动态：纽约投资公司Betaworks完成6600万美元第三期基金募集，专注投资早期AI创业公司</h2>
-                    <p class="news-description">纽约投资公司Betaworks完成6600万美元第三期基金募集，专注投资早期AI创业公司。</p>
+                    <h2 class="news-title">📰 AI资讯：Humans triumph over AI at annual math Olympiad, but the machines are catching up</h2>
+                    <p class="news-description">Humans beat AI programs made by 谷歌 and OpenAI at an international mathematics competition, but the 技术 shows some "ver...</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">📰 TechCrunch</div>
+                    <div class="news-meta">
+                        <div class="source">📰 CBS News</div>
+                        <div class="publish-date">🕒 2025-07-23 00:06</div>
+                    </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
@@ -398,11 +453,14 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">🔧 技术硬件：Kioxia推出全球首款245TB企业级SSD，专为AI存储需求设计</h2>
-                    <p class="news-description">Kioxia推出全球首款245TB企业级SSD，专为满足AI存储需求而设计的超大容量解决方案。</p>
+                    <h2 class="news-title">💰 投资动态：Composio Raises $25 Million to Help AI Agents Learn from Experience</h2>
+                    <p class="news-description">Agentic artificial intelligence (AI) 初创公司 Composio has secured $25 million in Series A funding led by Lightspeed Vent...</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">📰 Hot Hardware</div>
+                    <div class="news-meta">
+                        <div class="source">📰 Analytics India Magazine</div>
+                        <div class="publish-date">🕒 2025-07-23 00:03</div>
+                    </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
@@ -415,45 +473,14 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：AWS新推出的Kiro AI编程工具因过于受欢迎而限制访问</h2>
-                    <p class="news-description">AWS新推出的Kiro AI编程工具因过于受欢迎，发布仅一周就面临访问限制。</p>
+                    <h2 class="news-title">📰 AI资讯：AI device can 'translate' your dreams and play them back for you</h2>
+                    <p class="news-description">Dutch design studio Modem has introduced its latest project, Dream Recorder. Aptly named, the device allows 用户 to see...</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_5.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
+                    <div class="news-meta">
+                        <div class="source">📰 New York Post</div>
+                        <div class="publish-date">🕒 2025-07-22 23:59</div>
                     </div>
-                    <h2 class="news-title">💰 投资动态：Nothing推出99美元CMF Watch 3 Pro智能手表，AI健康追踪功能性价比突出</h2>
-                    <p class="news-description">Nothing推出99美元CMF Watch 3 Pro智能手表，配备AI健康追踪功能，性价比突出。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_6.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">💰 投资观点：AI巨头股价下跌18%，投资专家看好长期持有价值</h2>
-                    <p class="news-description">尽管苹果在AI领域表现滞后，但其股价被低估，投资专家认为当前是长期持有的良机。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="source">📰 The Motley Fool Canada</div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
@@ -466,11 +493,14 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">🚀 创新企业：硅谷科技巨头争夺AI研究人才，薪酬竞争如体育界转会</h2>
-                    <p class="news-description">硅谷科技巨头为争夺AI研究人才展开激烈竞争，提供运动员级别的薪酬待遇。</p>
+                    <h2 class="news-title">📰 AI资讯：Is today’s AI boom bigger than the dotcom bubble?</h2>
+                    <p class="news-description">Growing concentration in U.S. equities instantly brings to mind the internet and communications frenzy of the late 1990s</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">📰 The Guardian</div>
+                    <div class="news-meta">
+                        <div class="source">📰 The Globe and Mail</div>
+                        <div class="publish-date">🕒 2025-07-22 23:30</div>
+                    </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
@@ -483,11 +513,14 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">🚀 创新企业：Mixus初创公司认为邮件可能是实用AI智能体的关键</h2>
-                    <p class="news-description">Mixus创新AI智能体平台让用户直接通过邮件和Slack与AI交互，保持人机协作流程。</p>
+                    <h2 class="news-title">📰 AI资讯：AIr India flight from Hong Kong catches fire upon landing in Delhi, emergency alert</h2>
+                    <p class="news-description">A fire broke out on an Air India aircraft shortly after it landed at Delhi's Indira Gandhi International Airport on T...</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">📰 TechCrunch</div>
+                    <div class="news-meta">
+                        <div class="source">📰 BOL News</div>
+                        <div class="publish-date">🕒 2025-07-22 23:17</div>
+                    </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>
@@ -500,11 +533,14 @@
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：网红博主揭露AI技术被滥用于虚假代言问题</h2>
-                    <p class="news-description">网红博主揭露AI技术被滥用于虚假代言，呼吁关注AI伦理和用户权益保护问题。</p>
+                    <h2 class="news-title">📰 AI资讯：AIr India flight from Hong Kong catches fire upon landing in Delhi, emergency alert</h2>
+                    <p class="news-description">A fire broke out on an Air India aircraft shortly after it landed at Delhi's Indira Gandhi International Airport on T...</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">📰 Manchester Evening News</div>
+                    <div class="news-meta">
+                        <div class="source">📰 BOL News</div>
+                        <div class="publish-date">🕒 2025-07-22 23:17</div>
+                    </div>
                     <div class="read-more">查看详情</div>
                 </div>
             </article>

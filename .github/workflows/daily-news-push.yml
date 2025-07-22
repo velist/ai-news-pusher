@@ -2,8 +2,8 @@ name: AI新闻每日推送
 
 on:
   schedule:
-    # 每天北京时间上午8:00 (UTC时间0:00)
-    - cron: '0 0 * * *'
+    # 每小时北京时间整点 (UTC时间每小时)
+    - cron: '0 * * * *'
   # 允许手动触发
   workflow_dispatch:
 

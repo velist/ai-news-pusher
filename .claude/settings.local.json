@@ -10,7 +10,8 @@
       "Bash(git push:*)",
       "Bash(cp:*)",
       "Bash(python:*)",
-      "Bash(git add .)"
+      "Bash(git add .)",
+      "Bash(git checkout:*)"
     ],
     "deny": []
   }
