@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "docs/**/*",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/docs/$1"
+    }
+  ],
+  "functions": {},
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/docs/index.html"
+    },
+    {
+      "source": "/news/(.*)",
+      "destination": "/docs/news/$1"
+    }
+  ]
+}
