@@ -1,9 +1,9 @@
 [
   {
-    "id": "news_4",
-    "title": "📰 AI资讯：‘Many people don’t feel comfortable opening up to family or friends’: OpenAI’s new Applications chief makes a bold mission statement that’s both revealing and scary",
-    "original_title": "‘Many people don’t feel comfortable opening up to family or friends’: OpenAI’s new Applications chief makes a bold mission statement that’s both revealing and scary",
-    "description": "How much should we trust ChatGPT?",
+    "id": "news_0",
+    "title": "🤖 OpenAI动态：应用业务主管称'很多人不愿向家人朋友敞开心扉'，AI陪伴引发思考",
+    "original_title": "'Many people don't feel comfortable opening up to family or friends': OpenAI's new Applications chief makes a bold mission statement that's both revealing and scary",
+    "description": "我们应该在多大程度上信任ChatGPT？这引发了关于AI伦理和用户隐私的深度思考。",
     "original_description": "How much should we trust ChatGPT?",
     "url": "https://www.techradar.com/computing/artificial-intelligence/many-people-dont-feel-comfortable-opening-up-to-family-or-friends-openais-new-applications-chief-makes-a-bold-mission-statement-thats-both-revealing-and-scary",
     "source": "TechRadar",
@@ -14,16 +14,16 @@
       "color": "#34C759",
       "icon": "🤖"
     },
-    "importance": 3,
-    "china_analysis": "**技术影响：** 对国内大模型厂商形成竞争压力，推动技术创新升级。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**相关概念股：** 科大讯飞、汉王科技、海天瑞声等AI概念股可能受益。"
+    "importance": 4,
+    "china_analysis": "**技术影响：** 推动国内AI产业技术进步和应用创新。\\n\\n**市场机遇：** 为相关企业提供发展思路和商业模式参考。",
+    "investment_insight": "**相关概念股：** 科大讯飞(002230)、汉王科技(002362)、海天瑞声(688787)等AI应用概念股。"
   },
   {
-    "id": "news_8",
-    "title": "📰 AI资讯：Tech giant OpenAI signs deal with government to boost efficiency in public services",
+    "id": "news_1",
+    "title": "🤝 政府合作：科技巨头OpenAI与政府签署协议，助力提升公共服务效率",
     "original_title": "Tech giant OpenAI signs deal with government to boost efficiency in public services",
-    "description": "The government says AI will be \"fundamental\" in driving change in areas such as the NHS, defence and education.",
-    "original_description": "The government says AI will be \"fundamental\" in driving change in areas such as the NHS, defence and education.",
+    "description": "The 政府 says AI will be 'fundamental' in driving change in areas such as the NHS, defence and education.",
+    "original_description": "The government says AI will be 'fundamental' in driving change in areas such as the NHS, defence and education.",
     "url": "https://news.sky.com/story/tech-giant-openai-signs-deal-with-government-to-boost-efficiency-in-public-services-13400056",
     "source": "Sky News",
     "publishedAt": "2025-07-22T11:50:00Z",
@@ -33,15 +33,91 @@
       "color": "#34C759",
       "icon": "🤖"
     },
-    "importance": 3,
-    "china_analysis": "**技术影响：** 对国内大模型厂商形成竞争压力，推动技术创新升级。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**相关概念股：** 科大讯飞、汉王科技、海天瑞声等AI概念股可能受益。"
+    "importance": 4,
+    "china_analysis": "**技术影响：** 海外AI与政府合作模式值得国内借鉴，推动政务AI应用发展。\\n\\n**市场机遇：** 为国内政务AI、智慧城市等领域提供发展参考。",
+    "investment_insight": "**相关概念股：** 科大讯飞(002230)、汉王科技(002362)、海天瑞声(688787)等AI应用概念股。"
   },
   {
-    "id": "news_0",
-    "title": "📰 AI资讯：This AI Giant Down 18% Is My Buy-and-Hold-Forever Technology Play",
+    "id": "news_4",
+    "title": "💰 投资动态：Betaworks' third 基金募资完成 at $66M to 投资于 early-stage AI 初创公司",
+    "original_title": "Betaworks' third fund closes at $66M to invest in early-stage AI startups",
+    "description": "New York City-based Betaworks has closed its $66 million Fund III, which will focus on investing in early-stage AI co...",
+    "original_description": "New York City-based Betaworks has closed its $66 million Fund III, which will focus on investing in early-stage AI companies.",
+    "url": "https://techcrunch.com/2025/07/22/betaworks-third-fund-closes-at-66m-to-invest-in-early-stage-ai-startups/",
+    "source": "TechCrunch",
+    "publishedAt": "2025-07-22T13:05:00Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/ACDE001D-38B8-46D1-A0E7-E6A6EF87EC0F_33b363.png?resize=1200,904",
+    "category": {
+      "name": "投资动态",
+      "color": "#FF3B30",
+      "icon": "💰"
+    },
+    "importance": 3,
+    "china_analysis": "**技术影响：** 国际AI投资趋势指导国内资本配置方向。\\n\\n**市场机遇：** 相关投资模式可为国内AI产业融资提供借鉴。",
+    "investment_insight": "**投资建议：** 关注AI产业链中技术领先、估值合理的优质公司。"
+  },
+  {
+    "id": "news_5",
+    "title": "🔧 技术硬件：Kioxia LC9 Is The 全球首款 245TB SSD For Insatiable AI Storage Demands",
+    "original_title": "Kioxia LC9 Is The World's First 245TB SSD For Insatiable AI Storage Demands",
+    "description": "Kioxia is not messing around with its latest ultra high-capacity solid state drive (SSD) offerings for the enterprise...",
+    "original_description": "Kioxia is not messing around with its latest ultra high-capacity solid state drive (SSD) offerings for the enterprise, which now go all the way up to 245TB.",
+    "url": "https://hothardware.com/news/kioxia-lc9-worlds-first-245tb-nvme-ssd-ai-storage-demand",
+    "source": "Hot Hardware",
+    "publishedAt": "2025-07-22T13:04:00Z",
+    "image": "https://images.hothardware.com/contentimages/newsitem/68167/content/hero-kioxia-lc9-ssds.jpg",
+    "category": {
+      "name": "AI硬件",
+      "color": "#FF9500",
+      "icon": "🔧"
+    },
+    "importance": 2,
+    "china_analysis": "**技术影响：** AI硬件创新推动国产芯片和存储产业升级需求。\\n\\n**市场机遇：** 为国内AI基础设施建设提供技术路径参考。",
+    "investment_insight": "**相关概念股：** 紫光国微(002049)、兆易创新(603986)、江波龙(301308)等存储芯片股。"
+  },
+  {
+    "id": "news_7",
+    "title": "📰 AI资讯：AWS is already 限制访问 to its 全新 Kiro AI coding tool - because it's too popular",
+    "original_title": "AWS is already limiting access to its new Kiro AI coding tool - because it's too popular",
+    "description": "Kiro hits a wall a week after launch",
+    "original_description": "Kiro hits a wall a week after launch",
+    "url": "https://www.techradar.com/pro/aws-is-already-limiting-access-to-its-new-kiro-ai-coding-tool-because-its-too-popular",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-22T12:02:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/wGsnXoENGS9KXCyLrXWfV4.jpg",
+    "category": {
+      "name": "AI资讯",
+      "color": "#8E8E93",
+      "icon": "📱"
+    },
+    "importance": 2,
+    "china_analysis": "**技术影响：** 推动国内AI产业技术进步和应用创新。\\n\\n**市场机遇：** 为相关企业提供发展思路和商业模式参考。",
+    "investment_insight": "**投资建议：** 关注AI产业链中技术领先、估值合理的优质公司。"
+  },
+  {
+    "id": "news_9",
+    "title": "💰 投资动态：Nothing's 全新 $99 CMF Watch 3 Pro could become the cheap smartwatch to beat - here's why",
+    "original_title": "Nothing's new $99 CMF Watch 3 Pro could become the cheap smartwatch to beat - here's why",
+    "description": "AI health tracking on board",
+    "original_description": "AI health tracking on board",
+    "url": "https://www.techradar.com/health-fitness/smartwatches/nothings-new-usd99-cmf-watch-3-pro-could-become-the-cheap-smartwatch-to-beat-heres-why",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-22T11:17:12Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/YvrNjXWb6hvnPJuJhxmxqB.jpg",
+    "category": {
+      "name": "投资动态",
+      "color": "#FF3B30",
+      "icon": "💰"
+    },
+    "importance": 2,
+    "china_analysis": "**技术影响：** 推动国内AI产业技术进步和应用创新。\\n\\n**市场机遇：** 为相关企业提供发展思路和商业模式参考。",
+    "investment_insight": "**投资建议：** 关注AI产业链中技术领先、估值合理的优质公司。"
+  },
+  {
+    "id": "news_2",
+    "title": "💰 投资观点：AI巨头股价下跌18%，投资专家看好长期持有价值",
     "original_title": "This AI Giant Down 18% Is My Buy-and-Hold-Forever Technology Play",
-    "description": "苹果 (NASDAQ:AAPL) stock may be an AI laggard, but it's so cheap and worth buying right here.",
+    "description": "Apple (NASDAQ:AAPL) stock may be an AI laggard, but it's so cheap and worth buying right here.",
     "original_description": "Apple (NASDAQ:AAPL) stock may be an AI laggard, but it's so cheap and worth buying right here.",
     "url": "https://www.fool.ca/2025/07/22/this-ai-giant-down-18-is-my-buy-and-hold-forever-technology-play/",
     "source": "The Motley Fool Canada",
@@ -53,12 +129,12 @@
       "icon": "📱"
     },
     "importance": 1,
-    "china_analysis": "**技术影响：** 推动国内AI产业整体发展，促进技术进步和应用落地。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
+    "china_analysis": "**技术影响：** 推动国内AI产业技术进步和应用创新。\\n\\n**市场机遇：** 为相关企业提供发展思路和商业模式参考。",
+    "investment_insight": "**投资建议：** 关注AI产业链中技术领先、估值合理的优质公司。"
   },
   {
-    "id": "news_1",
-    "title": "📰 AI资讯：Silicon Valley trades researchers like football teams poach players",
+    "id": "news_3",
+    "title": "🚀 创新企业：硅谷 trades 研究员 like football teams poach players",
     "original_title": "Silicon Valley trades researchers like football teams poach players",
     "description": "Big tech is offering athlete-level pay to lure AI researchers in a high-stakes race for dominance",
     "original_description": "Big tech is offering athlete-level pay to lure AI researchers in a high-stakes race for dominance",
@@ -72,87 +148,30 @@
       "icon": "📱"
     },
     "importance": 1,
-    "china_analysis": "**技术影响：** 推动国内AI产业整体发展，促进技术进步和应用落地。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
+    "china_analysis": "**技术影响：** 推动国内AI产业技术进步和应用创新。\\n\\n**市场机遇：** 为相关企业提供发展思路和商业模式参考。",
+    "investment_insight": "**投资建议：** 关注AI产业链中技术领先、估值合理的优质公司。"
   },
   {
-    "id": "news_2",
-    "title": "📰 AI资讯：Betaworks’ third fund closes at $66M to invest in early-stage AI 初创公司s",
-    "original_title": "Betaworks’ third fund closes at $66M to invest in early-stage AI startups",
-    "description": "New York City-based Betaworks has closed its $66 million Fund III, which will focus on investing in early-stage AI companies.  Betaworks has been",
-    "original_description": "New York City-based Betaworks has closed its $66 million Fund III, which will focus on investing in early-stage AI companies.  Betaworks has been",
-    "url": "https://techcrunch.com/2025/07/22/betaworks-third-fund-closes-at-66m-to-invest-in-early-stage-ai-startups/",
-    "source": "TechCrunch",
-    "publishedAt": "2025-07-22T13:05:00Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/ACDE001D-38B8-46D1-A0E7-E6A6EF87EC0F_33b363.png?resize=1200,904",
-    "category": {
-      "name": "投资动态",
-      "color": "#FF3B30",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "china_analysis": "**技术影响：** 推动国内AI产业整体发展，促进技术进步和应用落地。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
-  },
-  {
-    "id": "news_3",
-    "title": "📰 AI资讯：Kioxia LC9 Is The World's First 245TB SSD For Insatiable AI Storage Demands",
-    "original_title": "Kioxia LC9 Is The World's First 245TB SSD For Insatiable AI Storage Demands",
-    "description": "Kioxia is not messing around with its latest ultra high-capacity solid state drive (SSD) offerings for the enterprise, which now go all the way up ...",
-    "original_description": "Kioxia is not messing around with its latest ultra high-capacity solid state drive (SSD) offerings for the enterprise, which now go all the way up to 245TB.",
-    "url": "https://hothardware.com/news/kioxia-lc9-worlds-first-245tb-nvme-ssd-ai-storage-demand",
-    "source": "Hot Hardware",
-    "publishedAt": "2025-07-22T13:04:00Z",
-    "image": "https://images.hothardware.com/contentimages/newsitem/68167/content/hero-kioxia-lc9-ssds.jpg",
-    "category": {
-      "name": "AI资讯",
-      "color": "#8E8E93",
-      "icon": "📱"
-    },
-    "importance": 1,
-    "china_analysis": "**技术影响：** 推动国内AI产业整体发展，促进技术进步和应用落地。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
-  },
-  {
-    "id": "news_5",
-    "title": "📰 AI资讯：This 初创公司 thinks email could be the key to usable AI agents",
+    "id": "news_6",
+    "title": "🚀 创新企业：This 初创公司认为 email could be the 关键在于 usable AI agents",
     "original_title": "This startup thinks email could be the key to usable AI agents",
-    "description": "Mixus' AI agent 平台 not only keeps humans in the workflow, it also allows those humans to interact with agents directly from their email or Slack.",
+    "description": "Mixus' AI agent platform not only keeps humans in the workflow, it also allows those humans to interact with agents d...",
     "original_description": "Mixus' AI agent platform not only keeps humans in the workflow, it also allows those humans to interact with agents directly from their email or Slack.",
     "url": "https://techcrunch.com/2025/07/22/this-startup-thinks-email-could-be-the-key-to-usable-ai-agents/",
     "source": "TechCrunch",
     "publishedAt": "2025-07-22T12:06:48Z",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/Mixus-cofounders-e1753187716131.jpg?resize=1200,906",
     "category": {
-      "name": "AI资讯",
-      "color": "#8E8E93",
-      "icon": "📱"
+      "name": "创新企业",
+      "color": "#5856D6",
+      "icon": "🚀"
     },
     "importance": 1,
-    "china_analysis": "**技术影响：** 推动国内AI产业整体发展，促进技术进步和应用落地。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
+    "china_analysis": "**技术影响：** 推动国内AI产业技术进步和应用创新。\\n\\n**市场机遇：** 为相关企业提供发展思路和商业模式参考。",
+    "investment_insight": "**投资建议：** 关注AI产业链中技术领先、估值合理的优质公司。"
   },
   {
-    "id": "news_6",
-    "title": "📰 AI资讯：AWS is already limiting access to its new Kiro AI coding tool - because it's too popular",
-    "original_title": "AWS is already limiting access to its new Kiro AI coding tool - because it's too popular",
-    "description": "Kiro hits a wall a week after 发布",
-    "original_description": "Kiro hits a wall a week after launch",
-    "url": "https://www.techradar.com/pro/aws-is-already-limiting-access-to-its-new-kiro-ai-coding-tool-because-its-too-popular",
-    "source": "TechRadar",
-    "publishedAt": "2025-07-22T12:02:00Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/wGsnXoENGS9KXCyLrXWfV4.jpg",
-    "category": {
-      "name": "AI资讯",
-      "color": "#8E8E93",
-      "icon": "📱"
-    },
-    "importance": 1,
-    "china_analysis": "**技术影响：** 推动国内AI产业整体发展，促进技术进步和应用落地。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
-  },
-  {
-    "id": "news_7",
+    "id": "news_8",
     "title": "📰 AI资讯：Molly-Mae Hague left 'gobsmacked' as she was forced to hide truth from fan during face-to-face meeting",
     "original_title": "Molly-Mae Hague left 'gobsmacked' as she was forced to hide truth from fan during face-to-face meeting",
     "description": "The influencer opened up about being the victim of being used to sell products by using Artificial Intelligence (AI)",
@@ -167,26 +186,7 @@
       "icon": "📱"
     },
     "importance": 1,
-    "china_analysis": "**技术影响：** 推动国内AI产业整体发展，促进技术进步和应用落地。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
-  },
-  {
-    "id": "news_9",
-    "title": "📰 AI资讯：Nothing’s new $99 CMF Watch 3 Pro could become the cheap smartwatch to beat - here's why",
-    "original_title": "Nothing’s new $99 CMF Watch 3 Pro could become the cheap smartwatch to beat - here's why",
-    "description": "AI health tracking on board",
-    "original_description": "AI health tracking on board",
-    "url": "https://www.techradar.com/health-fitness/smartwatches/nothings-new-usd99-cmf-watch-3-pro-could-become-the-cheap-smartwatch-to-beat-heres-why",
-    "source": "TechRadar",
-    "publishedAt": "2025-07-22T11:17:12Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/YvrNjXWb6hvnPJuJhxmxqB.jpg",
-    "category": {
-      "name": "AI资讯",
-      "color": "#8E8E93",
-      "icon": "📱"
-    },
-    "importance": 1,
-    "china_analysis": "**技术影响：** 推动国内AI产业整体发展，促进技术进步和应用落地。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
+    "china_analysis": "**技术影响：** 推动国内AI产业技术进步和应用创新。\\n\\n**市场机遇：** 为相关企业提供发展思路和商业模式参考。",
+    "investment_insight": "**投资建议：** 关注AI产业链中技术领先、估值合理的优质公司。"
   }
 ]
