@@ -34,6 +34,21 @@ jobs:
       run: |
         python main.py
         
+    - name: 提交H5新闻页面
+      if: always()
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        if [ -f "docs/index.html" ]; then
+          git add docs/
+          git commit -m "🎨 更新每日AI新闻H5页面 - $(date '+%Y-%m-%d %H:%M')" || echo "无需提交"
+          git push || echo "推送失败"
+          echo "✅ H5新闻页面已更新到docs/"
+        else
+          echo "❌ docs/index.html 文件未生成"
+        fi
+        
     - name: 显示运行结果
       if: always()
       run: |
@@ -44,4 +59,15 @@ jobs:
         else
           echo "📋 日志文件未找到"
         fi
-        echo "🔗 查看推送结果: https://jcnew7lc4a8b.feishu.cn/base/TXkMb0FBwaD52ese70ScPLn5n5b"
+        echo "📊 飞书表格: https://jcnew7lc4a8b.feishu.cn/base/TXkMb0FBwaD52ese70ScPLn5n5b"
+        
+        if [ -f "docs/index.html" ]; then
+          echo "📱 H5新闻页面: 已生成到 docs/index.html"
+          echo "🌐 GitHub Pages: https://$(echo ${{ github.repository }} | cut -d'/' -f1).github.io/$(echo ${{ github.repository }} | cut -d'/' -f2)/"
+          echo ""
+          echo "💡 个性化展示选项已全部准备就绪:"
+          echo "   ✅ 飞书多维表格 - 传统表格展示"
+          echo "   ✅ H5响应式页面 - 卡片式个性化展示" 
+          echo "   📦 飞书卡片消息 - feishu_cards.py"
+          echo "   📰 微信公众号 - wechat_push.py"
+        fi

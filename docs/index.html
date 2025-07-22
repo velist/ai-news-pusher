@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI科技日报 - 2025年07月22日</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            color: white;
+        }
+        
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            background: linear-gradient(45deg, #FFD700, #FFA500);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .header .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-item {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px 25px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+            text-align: center;
+            color: white;
+        }
+        
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            display: block;
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+        
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+        
+        .news-card {
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            position: relative;
+            animation: slideInUp 0.6s ease forwards;
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        
+        .news-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.2);
+        }
+        
+        .news-card.priority-high {
+            border-left: 5px solid #EF4444;
+        }
+        
+        .news-card.priority-medium {
+            border-left: 5px solid #F59E0B;
+        }
+        
+        .news-card.priority-low {
+            border-left: 5px solid #10B981;
+        }
+        
+        .card-header {
+            padding: 20px;
+            position: relative;
+        }
+        
+        .category-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: white;
+            margin-bottom: 15px;
+        }
+        
+        .news-title {
+            font-size: 1.3rem;
+            font-weight: 700;
+            line-height: 1.4;
+            margin-bottom: 12px;
+            color: #1F2937;
+        }
+        
+        .news-description {
+            color: #6B7280;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+        
+        .card-footer {
+            padding: 0 20px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .source {
+            font-size: 0.9rem;
+            color: #9CA3AF;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .read-more {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .read-more:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .importance-stars {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            display: flex;
+            gap: 2px;
+        }
+        
+        .star {
+            color: #FFD700;
+            font-size: 0.8rem;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            color: white;
+            opacity: 0.8;
+        }
+        
+        @keyframes slideInUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .stats {
+                flex-wrap: wrap;
+            }
+            
+            .news-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+            
+            body {
+                padding: 15px;
+            }
+        }
+        
+        .update-time {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px 20px;
+            border-radius: 25px;
+            backdrop-filter: blur(10px);
+            color: white;
+            font-size: 0.9rem;
+            margin: 20px auto;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🤖 AI科技日报</h1>
+            <p class="subtitle">2025年07月22日 · 人工智能前沿资讯</p>
+            <div class="update-time">
+                <i class="fas fa-clock"></i> 更新时间：14:13
+            </div>
+        </header>
+        
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-number">8</span>
+                <span class="stat-label">今日新闻</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">0</span>
+                <span class="stat-label">重要资讯</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">4</span>
+                <span class="stat-label">覆盖领域</span>
+            </div>
+        </div>
+        
+        <div class="news-grid">
+            <article class="news-card priority-low" style="animation-delay: 0.0s;">
+                <div class="importance-stars">
+                    <i class="fas fa-star star"></i>
+                </div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #EF4444;">
+                        <span>💰</span>
+                        <span>投资动态</span>
+                    </div>
+                    <h2 class="news-title">📰 Prediction: This 人工智能 (AI) Stock Could Hit a $2 Trillion Valuation by July 31</h2>
+                    <p class="news-description">Meta Platforms' recent rally has brought its market cap close to the $2 trillion mark....</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">
+                        <i class="fas fa-newspaper"></i>
+                        <span>Motley Fool Australia</span>
+                    </div>
+                    <a href="https://www.fool.com.au/2025/07/22/prediction-this-artificial-intelligence-ai-stock-could-hit-a-2-trillion-valuation-by-july-31-usfeed/" target="_blank" class="read-more">
+                        阅读原文 <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+            <article class="news-card priority-low" style="animation-delay: 0.1s;">
+                <div class="importance-stars">
+                    <i class="fas fa-star star"></i>
+                </div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #10B981;">
+                        <span>🤖</span>
+                        <span>OpenAI动态</span>
+                    </div>
+                    <h2 class="news-title">📰 5 ways ChatGPT Agent can change the way you use AI</h2>
+                    <p class="news-description">AI taking action...</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">
+                        <i class="fas fa-newspaper"></i>
+                        <span>TechRadar</span>
+                    </div>
+                    <a href="https://www.techradar.com/computing/artificial-intelligence/5-ways-chatgpt-agent-can-change-the-way-you-use-ai" target="_blank" class="read-more">
+                        阅读原文 <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+            <article class="news-card priority-low" style="animation-delay: 0.2s;">
+                <div class="importance-stars">
+                    <i class="fas fa-star star"></i>
+                </div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #6B7280;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
+                    </div>
+                    <h2 class="news-title">📰 UMIDIGI G100 Pro Goes Official: Big Screen, Long Battery Life, and AI-Powered All-Round Performance</h2>
+                    <p class="news-description">Meet the excellent UMIDIGI G100 Pro with great performance, gorgeous display, huge battery life, and AI optimizations....</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">
+                        <i class="fas fa-newspaper"></i>
+                        <span>Gizchina.com</span>
+                    </div>
+                    <a href="https://www.gizchina.com/2025/07/21/umidigi-g100-pro-goes-official-big-screen-long-battery-life/" target="_blank" class="read-more">
+                        阅读原文 <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+            <article class="news-card priority-low" style="animation-delay: 0.30000000000000004s;">
+                <div class="importance-stars">
+                    <i class="fas fa-star star"></i>
+                </div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #6B7280;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
+                    </div>
+                    <h2 class="news-title">📰 AI and wastewater surveillance unite to detect emerging viruses</h2>
+                    <p class="news-description">Wastewater surveillance became a popular choice among public health officials looking to track rapid virus mutations and spread patterns during the COVID-19 pandemic....</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">
+                        <i class="fas fa-newspaper"></i>
+                        <span>News-Medical.net</span>
+                    </div>
+                    <a href="https://www.news-medical.net/news/20250721/AI-and-wastewater-surveillance-unite-to-detect-emerging-viruses.aspx" target="_blank" class="read-more">
+                        阅读原文 <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+            <article class="news-card priority-low" style="animation-delay: 0.4s;">
+                <div class="importance-stars">
+                    <i class="fas fa-star star"></i>
+                </div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #EF4444;">
+                        <span>💰</span>
+                        <span>投资动态</span>
+                    </div>
+                    <h2 class="news-title">📰 This 人工智能 Stock, Down 57%, Is Getting Ridiculously Cheap</h2>
+                    <p class="news-description">Artificial intelligence stocks are trading near their all-time high. But this stock is down 57% as it has not realized the AI potential....</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">
+                        <i class="fas fa-newspaper"></i>
+                        <span>The Motley Fool Canada</span>
+                    </div>
+                    <a href="https://www.fool.ca/2025/07/21/this-artificial-intelligence-stock-down-57-is-getting-ridiculously-cheap/" target="_blank" class="read-more">
+                        阅读原文 <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+            <article class="news-card priority-low" style="animation-delay: 0.5s;">
+                <div class="importance-stars">
+                    <i class="fas fa-star star"></i>
+                </div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #F59E0B;">
+                        <span>🔧</span>
+                        <span>AI硬件</span>
+                    </div>
+                    <h2 class="news-title">📰 Why is Wall Street obsessed with AI (人工智能) leader Nvidia?</h2>
+                    <p class="news-description">The chipmaker has captured the hearts of Wall Street, and the road ahead is long....</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">
+                        <i class="fas fa-newspaper"></i>
+                        <span>Motley Fool Australia</span>
+                    </div>
+                    <a href="https://www.fool.com.au/2025/07/22/why-is-wall-street-obsessed-with-ai-artificial-intelligence-leader-nvidia-usfeed/" target="_blank" class="read-more">
+                        阅读原文 <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+            <article class="news-card priority-low" style="animation-delay: 0.6000000000000001s;">
+                <div class="importance-stars">
+                    <i class="fas fa-star star"></i>
+                </div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #6B7280;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
+                    </div>
+                    <h2 class="news-title">📰 AI-powered ECG model outperforms doctors in detecting hidden heart disease</h2>
+                    <p class="news-description">Researchers developed an AI-powered ECG model, EchoNext, that detects structural heart disease with high accuracy across diverse hospitals and patient populations. The model outperformed cardiologists...</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">
+                        <i class="fas fa-newspaper"></i>
+                        <span>News-Medical.net</span>
+                    </div>
+                    <a href="https://www.news-medical.net/news/20250721/AI-powered-ECG-model-outperforms-doctors-in-detecting-hidden-heart-disease.aspx" target="_blank" class="read-more">
+                        阅读原文 <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+            <article class="news-card priority-low" style="animation-delay: 0.7000000000000001s;">
+                <div class="importance-stars">
+                    <i class="fas fa-star star"></i>
+                </div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #6B7280;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
+                    </div>
+                    <h2 class="news-title">📰 Influencer Skye Wheatley shares she is using AI chat bot to get support for mental health issues</h2>
+                    <p class="news-description">I’m A Celebrity winner and influencer Skye Wheatley has revealed she has been using AI for mental health support
+- and she’s not alone....</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">
+                        <i class="fas fa-newspaper"></i>
+                        <span>PerthNow</span>
+                    </div>
+                    <a href="https://www.perthnow.com.au/entertainment/influencers/influencer-skye-wheatley-shares-she-is-using-ai-chat-bot-to-get-support-for-mental-health-issues-c-19433822" target="_blank" class="read-more">
+                        阅读原文 <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+        </div>
+        
+        <footer class="footer">
+            <p>🚀 由AI驱动的智能新闻聚合 · 每日8:00自动更新</p>
+            <p style="margin-top: 10px; font-size: 0.8rem;">
+                数据来源：GNews API · 生成时间：2025-07-22 14:13:51
+            </p>
+        </footer>
+    </div>
+    
+    <script>
+        // 添加交互动画
+        document.addEventListener('DOMContentLoaded', function() {
+            const cards = document.querySelectorAll('.news-card');
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.opacity = '1';
+                        entry.target.style.transform = 'translateY(0)';
+                    }
+                });
+            }, { threshold: 0.1 });
+            
+            cards.forEach(card => observer.observe(card));
+            
+            // 点击卡片动画
+            cards.forEach(card => {
+                card.addEventListener('click', function(e) {
+                    if (e.target.tagName !== 'A') {
+                        this.style.transform = 'scale(0.95)';
+                        setTimeout(() => {
+                            this.style.transform = 'scale(1)';
+                        }, 150);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
