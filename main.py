@@ -656,7 +656,14 @@ class SimpleNewsProcessor:
         print("\n" + "="*30)
         html_success = self.generate_html_page(articles)
         if html_success:
-            print("🎉 H5新闻页面已生成")
+            print("🎉 优化版H5新闻页面已生成")
+        
+        # 同时生成Apple风格版本
+        from optimized_html_generator import AppleStyleNewsGenerator
+        apple_generator = AppleStyleNewsGenerator()
+        apple_success = apple_generator.generate_optimized_html(articles)
+        if apple_success:
+            print("🎨 Apple设计风格页面已生成")
         
         # 6. 美化表格（每周一次）
         if datetime.now().weekday() == 0:  # 周一
@@ -666,11 +673,12 @@ class SimpleNewsProcessor:
         print("=" * 50)
         print(f"🎉 任务完成！成功推送 {success_count}/{len(articles)} 条新闻")
         print("📊 飞书表格: https://jcnew7lc4a8b.feishu.cn/base/TXkMb0FBwaD52ese70ScPLn5n5b")
-        if html_success:
-            print("📱 H5新闻页面: docs/index.html (已生成，可部署到GitHub Pages)")
+        if html_success and apple_success:
+            print("📱 H5新闻页面: docs/index.html (Apple设计风格优化版)")
+            print("🌐 GitHub Pages: https://velist.github.io/ai-news-pusher/docs/")
         print("\n💡 个性化展示选项:")
         print("   ✅ 飞书多维表格 - 传统表格展示")
-        print("   ✅ H5响应式页面 - 卡片式个性化展示")
+        print("   ✅ H5响应式页面 - Apple设计风格 + 分类Tab")
         print("   📦 飞书卡片消息 - feishu_cards.py")
         print("   📰 微信公众号 - wechat_push.py")
         
