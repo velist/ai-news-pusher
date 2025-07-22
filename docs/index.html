@@ -2,73 +2,54 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI科技日报 - 2025年07月23日</title>
-    <link href="https://fonts.googleapis.com/css2?family=-apple-system,BlinkMacSystemFont,SF+Pro+Display:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            /* 苹果设计系统颜色 */
+            /* Light theme colors */
             --color-primary: #007AFF;
-            --color-secondary: #5856D6;
             --color-success: #34C759;
             --color-warning: #FF9500;
             --color-error: #FF3B30;
             --color-gray: #8E8E93;
-            --color-gray2: #AEAEB2;
-            --color-gray3: #C7C7CC;
-            --color-gray4: #D1D1D6;
             --color-gray5: #E5E5EA;
-            --color-gray6: #F2F2F7;
             
-            /* 背景色 */
             --bg-primary: #FFFFFF;
             --bg-secondary: #F2F2F7;
             --bg-tertiary: #FFFFFF;
-            --bg-grouped: #F2F2F7;
             
-            /* 文字颜色 */
             --text-primary: #000000;
             --text-secondary: #3C3C43;
             --text-tertiary: #3C3C4399;
-            --text-quaternary: #3C3C4326;
             
-            /* 阴影 */
             --shadow-light: 0 1px 3px rgba(0, 0, 0, 0.1);
             --shadow-medium: 0 4px 12px rgba(0, 0, 0, 0.15);
-            --shadow-large: 0 8px 25px rgba(0, 0, 0, 0.15);
             
-            /* 圆角 */
-            --radius-small: 8px;
             --radius-medium: 12px;
             --radius-large: 16px;
-            --radius-xl: 20px;
             
-            /* 间距 */
-            --spacing-xs: 4px;
             --spacing-sm: 8px;
             --spacing-md: 16px;
             --spacing-lg: 24px;
-            --spacing-xl: 32px;
         }
         
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --color-primary: #0A84FF;
-                --color-secondary: #5E5CE6;
-                --color-success: #32D74B;
-                --color-warning: #FF9F0A;
-                --color-error: #FF453A;
-                
-                --bg-primary: #000000;
-                --bg-secondary: #1C1C1E;
-                --bg-tertiary: #2C2C2E;
-                --bg-grouped: #000000;
-                
-                --text-primary: #FFFFFF;
-                --text-secondary: #EBEBF5;
-                --text-tertiary: #EBEBF599;
-                --text-quaternary: #EBEBF526;
-            }
+        /* Dark theme */
+        [data-theme="dark"] {
+            --color-primary: #0A84FF;
+            --color-success: #32D74B;
+            --color-warning: #FF9F0A;
+            --color-error: #FF453A;
+            
+            --bg-primary: #000000;
+            --bg-secondary: #1C1C1E;
+            --bg-tertiary: #2C2C2E;
+            
+            --text-primary: #FFFFFF;
+            --text-secondary: #EBEBF5;
+            --text-tertiary: #EBEBF599;
+            
+            --shadow-light: 0 1px 3px rgba(255, 255, 255, 0.1);
+            --shadow-medium: 0 4px 12px rgba(255, 255, 255, 0.15);
         }
         
         * {
@@ -78,12 +59,11 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            background-color: var(--bg-grouped);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+            background-color: var(--bg-secondary);
             color: var(--text-primary);
             line-height: 1.47;
-            -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
+            transition: all 0.3s ease;
         }
         
         .container {
@@ -92,7 +72,7 @@
             padding: 0 var(--spacing-md);
         }
         
-        /* 头部区域 - 简化版 */
+        /* Header */
         .header {
             background-color: var(--bg-primary);
             padding: var(--spacing-lg) 0;
@@ -102,7 +82,32 @@
             top: 0;
             z-index: 100;
             backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
+        }
+        
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: var(--spacing-md);
+        }
+        
+        .theme-toggle {
+            background: var(--bg-secondary);
+            border: none;
+            border-radius: 20px;
+            padding: 8px 16px;
+            color: var(--text-primary);
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .theme-toggle:hover {
+            background: var(--color-primary);
+            color: white;
         }
         
         .header h1 {
@@ -115,10 +120,9 @@
         .header .subtitle {
             font-size: 0.9rem;
             color: var(--text-secondary);
-            font-weight: 400;
         }
         
-        /* 分类标签栏 */
+        /* Tabs */
         .tab-container {
             background-color: var(--bg-primary);
             padding: var(--spacing-md) 0;
@@ -126,8 +130,6 @@
             position: sticky;
             top: 72px;
             z-index: 90;
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
         }
         
         .tabs {
@@ -135,19 +137,12 @@
             gap: var(--spacing-sm);
             overflow-x: auto;
             padding: 0 var(--spacing-md);
-            -webkit-overflow-scrolling: touch;
-            scrollbar-width: none;
-            -ms-overflow-style: none;
-        }
-        
-        .tabs::-webkit-scrollbar {
-            display: none;
         }
         
         .tab-button {
             display: flex;
             align-items: center;
-            gap: var(--spacing-xs);
+            gap: var(--spacing-sm);
             padding: var(--spacing-sm) var(--spacing-md);
             background-color: var(--bg-secondary);
             border: none;
@@ -157,7 +152,6 @@
             cursor: pointer;
             white-space: nowrap;
             transition: all 0.2s ease;
-            min-height: 36px;
         }
         
         .tab-button.active {
@@ -166,33 +160,15 @@
             font-weight: 600;
         }
         
-        .tab-button:hover {
-            background-color: var(--color-gray5);
-        }
-        
-        .tab-button.active:hover {
-            background-color: var(--color-primary);
-        }
-        
-        .tab-icon {
-            font-size: 1rem;
-        }
-        
         .tab-count {
             background-color: rgba(255, 255, 255, 0.2);
             border-radius: 10px;
             padding: 2px 6px;
             font-size: 0.75rem;
             font-weight: 600;
-            min-width: 20px;
-            text-align: center;
         }
         
-        .tab-button.active .tab-count {
-            background-color: rgba(255, 255, 255, 0.3);
-        }
-        
-        /* 新闻网格 */
+        /* News Grid */
         .content-area {
             padding: var(--spacing-lg) 0;
         }
@@ -206,12 +182,11 @@
         .news-card {
             background-color: var(--bg-tertiary);
             border-radius: var(--radius-large);
-            overflow: hidden;
             box-shadow: var(--shadow-light);
             transition: all 0.3s ease;
-            border: 0.5px solid var(--color-gray5);
-            position: relative;
             cursor: pointer;
+            overflow: hidden;
+            position: relative;
         }
         
         .news-card:hover {
@@ -219,9 +194,24 @@
             box-shadow: var(--shadow-medium);
         }
         
-        .news-card:active {
-            transform: translateY(0px);
-            transition: all 0.1s ease;
+        .priority-indicator {
+            width: 3px;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+        
+        .news-card.priority-high .priority-indicator {
+            background-color: var(--color-error);
+        }
+        
+        .news-card.priority-medium .priority-indicator {
+            background-color: var(--color-warning);
+        }
+        
+        .news-card.priority-low .priority-indicator {
+            background-color: var(--color-success);
         }
         
         .card-header {
@@ -231,12 +221,12 @@
         .category-badge {
             display: inline-flex;
             align-items: center;
-            gap: var(--spacing-xs);
-            padding: var(--spacing-xs) var(--spacing-sm);
-            border-radius: var(--radius-small);
+            gap: var(--spacing-sm);
+            padding: var(--spacing-sm);
+            border-radius: var(--radius-medium);
             font-size: 0.75rem;
             font-weight: 600;
-            margin-bottom: var(--spacing-sm);
+            margin-bottom: var(--spacing-md);
         }
         
         .news-title {
@@ -264,9 +254,6 @@
         .source {
             font-size: 0.8125rem;
             color: var(--text-tertiary);
-            display: flex;
-            align-items: center;
-            gap: var(--spacing-xs);
         }
         
         .read-more {
@@ -277,8 +264,6 @@
             text-decoration: none;
             font-size: 0.8125rem;
             font-weight: 600;
-            transition: all 0.2s ease;
-            pointer-events: none; /* 防止事件冒泡 */
         }
         
         .importance-stars {
@@ -294,107 +279,34 @@
             font-size: 0.75rem;
         }
         
-        /* 优先级指示器 */
-        .priority-indicator {
-            width: 3px;
-            height: 100%;
-            position: absolute;
-            left: 0;
-            top: 0;
-            border-top-left-radius: var(--radius-large);
-            border-bottom-left-radius: var(--radius-large);
-        }
-        
-        .news-card.priority-high .priority-indicator {
-            background-color: var(--color-error);
-        }
-        
-        .news-card.priority-medium .priority-indicator {
-            background-color: var(--color-warning);
-        }
-        
-        .news-card.priority-low .priority-indicator {
-            background-color: var(--color-success);
-        }
-        
-        /* 响应式设计 */
-        @media (max-width: 768px) {
-            .container {
-                padding: 0 var(--spacing-md);
-            }
-            
-            .header {
-                padding: var(--spacing-md) 0;
-            }
-            
-            .header h1 {
-                font-size: 1.75rem;
-            }
-            
-            .tab-container {
-                top: 68px;
-            }
-            
-            .news-grid {
-                grid-template-columns: 1fr;
-                gap: var(--spacing-md);
-            }
-        }
-        
-        @media (max-width: 480px) {
-            .container {
-                padding: 0 var(--spacing-sm);
-            }
-            
-            .tabs {
-                padding: 0 var(--spacing-sm);
-            }
-            
-            .news-grid {
-                gap: var(--spacing-sm);
-            }
-            
-            .card-header, .card-footer {
-                padding: var(--spacing-sm);
-            }
-            
-            .card-footer {
-                padding-top: 0;
-            }
-        }
-        
-        /* 隐藏类 */
+        /* Hidden class */
         .hidden {
             display: none !important;
         }
         
-        /* 动画 */
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-        
-        .news-card {
-            animation: fadeInUp 0.6s ease forwards;
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header h1 { font-size: 1.75rem; }
+            .news-grid { grid-template-columns: 1fr; }
+            .header-top { flex-direction: column; gap: var(--spacing-md); }
         }
     </style>
 </head>
 <body>
-    <!-- 头部 - 简化版 -->
     <header class="header">
         <div class="container">
+            <div class="header-top">
+                <div></div>
+                <button class="theme-toggle" onclick="toggleTheme()">
+                    <span class="theme-icon">🌙</span>
+                    <span class="theme-text">夜间模式</span>
+                </button>
+            </div>
             <h1>🤖 AI科技日报</h1>
             <p class="subtitle">2025年07月23日 · 人工智能前沿资讯</p>
         </div>
     </header>
     
-    <!-- 分类标签栏 -->
     <div class="tab-container">
         <div class="container">
             <div class="tabs">
@@ -412,40 +324,26 @@
             <button class="tab-button " data-category="投资动态">
                 <span class="tab-icon">💰</span>
                 <span class="tab-text">投资动态</span>
-                <span class="tab-count">2</span>
-            </button>
-            <button class="tab-button " data-category="AI硬件">
-                <span class="tab-icon">🔧</span>
-                <span class="tab-text">AI硬件</span>
                 <span class="tab-count">1</span>
             </button>
             <button class="tab-button " data-category="AI资讯">
                 <span class="tab-icon">📱</span>
                 <span class="tab-text">AI资讯</span>
-                <span class="tab-count">4</span>
-            </button>
-            <button class="tab-button " data-category="创新企业">
-                <span class="tab-icon">🚀</span>
-                <span class="tab-text">创新企业</span>
-                <span class="tab-count">1</span>
+                <span class="tab-count">7</span>
             </button>
             </div>
         </div>
     </div>
     
-    <!-- 内容区域 -->
     <div class="container">
         <div class="content-area">
             <div class="news-grid">
-            <article class="news-card priority-high" data-category="OpenAI动态" 
-                     onclick="window.location.href='news/news_0.html'" 
-                     style="animation-delay: 0.0s;">
+            <article class="news-card priority-medium" data-category="OpenAI动态" 
+                     onclick="window.location.href='news/news_0.html'">
                 <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
-                </div>
+                <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-success); color: white;">
+                    <div class="category-badge" style="background-color: #10B981; color: white;">
                         <span>🤖</span>
                         <span>OpenAI动态</span>
                     </div>
@@ -453,238 +351,161 @@
                     <p class="news-description">我们应该在多大程度上信任ChatGPT？这引发了关于AI伦理和用户隐私的深度思考。</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>TechRadar</span>
-                    </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
+                    <div class="source">📰 TechRadar</div>
+                    <div class="read-more">查看详情</div>
                 </div>
             </article>
-            <article class="news-card priority-high" data-category="OpenAI动态" 
-                     onclick="window.location.href='news/news_1.html'" 
-                     style="animation-delay: 0.05s;">
+            <article class="news-card priority-medium" data-category="OpenAI动态" 
+                     onclick="window.location.href='news/news_1.html'">
                 <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
-                </div>
+                <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-success); color: white;">
+                    <div class="category-badge" style="background-color: #10B981; color: white;">
                         <span>🤖</span>
                         <span>OpenAI动态</span>
                     </div>
                     <h2 class="news-title">🤝 政府合作：科技巨头OpenAI与政府签署协议，助力提升公共服务效率</h2>
-                    <p class="news-description">The 政府 says AI will be 'fundamental' in driving change in areas such as the NHS, defence and education.</p>
+                    <p class="news-description">政府表示AI将在医疗、国防和教育等领域发挥根本性变革作用，助力公共服务全面升级。</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>Sky News</span>
-                    </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
-                </div>
-            </article>
-            <article class="news-card priority-medium" data-category="投资动态" 
-                     onclick="window.location.href='news/news_2.html'" 
-                     style="animation-delay: 0.1s;">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span><span class="star">★</span><span class="star">★</span>
-                </div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-error); color: white;">
-                        <span>💰</span>
-                        <span>投资动态</span>
-                    </div>
-                    <h2 class="news-title">💰 投资动态：Betaworks' third 基金募资完成 at $66M to 投资于 early-stage AI 初创公司</h2>
-                    <p class="news-description">New York City-based Betaworks has closed its $66 million Fund III, which will focus on investing in early-stage AI co...</p>
-                </div>
-                <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>TechCrunch</span>
-                    </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI硬件" 
-                     onclick="window.location.href='news/news_3.html'" 
-                     style="animation-delay: 0.15000000000000002s;">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span><span class="star">★</span>
-                </div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-warning); color: white;">
-                        <span>🔧</span>
-                        <span>AI硬件</span>
-                    </div>
-                    <h2 class="news-title">🔧 技术硬件：Kioxia LC9 Is The 全球首款 245TB SSD For Insatiable AI Storage Demands</h2>
-                    <p class="news-description">Kioxia is not messing around with its latest ultra high-capacity solid state drive (SSD) offerings for the enterprise...</p>
-                </div>
-                <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>Hot Hardware</span>
-                    </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_4.html'" 
-                     style="animation-delay: 0.2s;">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span><span class="star">★</span>
-                </div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-gray); color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：AWS is already 限制访问 to its 全新 Kiro AI coding tool - because it's too popular</h2>
-                    <p class="news-description">Kiro hits a wall a week after launch</p>
-                </div>
-                <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>TechRadar</span>
-                    </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
+                    <div class="source">📰 Sky News</div>
+                    <div class="read-more">查看详情</div>
                 </div>
             </article>
             <article class="news-card priority-low" data-category="投资动态" 
-                     onclick="window.location.href='news/news_5.html'" 
-                     style="animation-delay: 0.25s;">
+                     onclick="window.location.href='news/news_2.html'">
                 <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span><span class="star">★</span>
-                </div>
+                <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-error); color: white;">
+                    <div class="category-badge" style="background-color: #EF4444; color: white;">
                         <span>💰</span>
                         <span>投资动态</span>
                     </div>
-                    <h2 class="news-title">💰 投资动态：Nothing's 全新 $99 CMF Watch 3 Pro could become the cheap smartwatch to beat - here's why</h2>
-                    <p class="news-description">AI health tracking on board</p>
+                    <h2 class="news-title">💰 投资动态：纽约投资公司Betaworks完成6600万美元第三期基金募集，专注投资早期AI创业公司</h2>
+                    <p class="news-description">纽约投资公司Betaworks完成6600万美元第三期基金募集，专注投资早期AI创业公司。</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>TechRadar</span>
-                    </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
+                    <div class="source">📰 TechCrunch</div>
+                    <div class="read-more">查看详情</div>
                 </div>
             </article>
             <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_6.html'" 
-                     style="animation-delay: 0.30000000000000004s;">
+                     onclick="window.location.href='news/news_3.html'">
                 <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span>
-                </div>
+                <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-gray); color: white;">
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
+                    </div>
+                    <h2 class="news-title">🔧 技术硬件：Kioxia推出全球首款245TB企业级SSD，专为AI存储需求设计</h2>
+                    <p class="news-description">Kioxia推出全球首款245TB企业级SSD，专为满足AI存储需求而设计的超大容量解决方案。</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">📰 Hot Hardware</div>
+                    <div class="read-more">查看详情</div>
+                </div>
+            </article>
+            <article class="news-card priority-low" data-category="AI资讯" 
+                     onclick="window.location.href='news/news_4.html'">
+                <div class="priority-indicator"></div>
+                <div class="importance-stars"><span class="star">★</span></div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
+                    </div>
+                    <h2 class="news-title">📰 AI资讯：AWS新推出的Kiro AI编程工具因过于受欢迎而限制访问</h2>
+                    <p class="news-description">AWS新推出的Kiro AI编程工具因过于受欢迎，发布仅一周就面临访问限制。</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">📰 TechRadar</div>
+                    <div class="read-more">查看详情</div>
+                </div>
+            </article>
+            <article class="news-card priority-low" data-category="AI资讯" 
+                     onclick="window.location.href='news/news_5.html'">
+                <div class="priority-indicator"></div>
+                <div class="importance-stars"><span class="star">★</span></div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
+                    </div>
+                    <h2 class="news-title">💰 投资动态：Nothing推出99美元CMF Watch 3 Pro智能手表，AI健康追踪功能性价比突出</h2>
+                    <p class="news-description">Nothing推出99美元CMF Watch 3 Pro智能手表，配备AI健康追踪功能，性价比突出。</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">📰 TechRadar</div>
+                    <div class="read-more">查看详情</div>
+                </div>
+            </article>
+            <article class="news-card priority-low" data-category="AI资讯" 
+                     onclick="window.location.href='news/news_6.html'">
+                <div class="priority-indicator"></div>
+                <div class="importance-stars"><span class="star">★</span></div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
                     <h2 class="news-title">💰 投资观点：AI巨头股价下跌18%，投资专家看好长期持有价值</h2>
-                    <p class="news-description">Apple (NASDAQ:AAPL) stock may be an AI laggard, but it's so cheap and worth buying right here.</p>
+                    <p class="news-description">尽管苹果在AI领域表现滞后，但其股价被低估，投资专家认为当前是长期持有的良机。</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>The Motley Fool Canada</span>
-                    </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
+                    <div class="source">📰 The Motley Fool Canada</div>
+                    <div class="read-more">查看详情</div>
                 </div>
             </article>
             <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_7.html'" 
-                     style="animation-delay: 0.35000000000000003s;">
+                     onclick="window.location.href='news/news_7.html'">
                 <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span>
-                </div>
+                <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-gray); color: white;">
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">🚀 创新企业：硅谷 trades 研究员 like football teams poach players</h2>
-                    <p class="news-description">Big tech is offering athlete-level pay to lure AI researchers in a high-stakes race for dominance</p>
+                    <h2 class="news-title">🚀 创新企业：硅谷科技巨头争夺AI研究人才，薪酬竞争如体育界转会</h2>
+                    <p class="news-description">硅谷科技巨头为争夺AI研究人才展开激烈竞争，提供运动员级别的薪酬待遇。</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>The Guardian</span>
-                    </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="创新企业" 
-                     onclick="window.location.href='news/news_8.html'" 
-                     style="animation-delay: 0.4s;">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span>
-                </div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-gray); color: white;">
-                        <span>🚀</span>
-                        <span>创新企业</span>
-                    </div>
-                    <h2 class="news-title">🚀 创新企业：This 初创公司认为 email could be the 关键在于 usable AI agents</h2>
-                    <p class="news-description">Mixus' AI agent platform not only keeps humans in the workflow, it also allows those humans to interact with agents d...</p>
-                </div>
-                <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>TechCrunch</span>
-                    </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
+                    <div class="source">📰 The Guardian</div>
+                    <div class="read-more">查看详情</div>
                 </div>
             </article>
             <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_9.html'" 
-                     style="animation-delay: 0.45s;">
+                     onclick="window.location.href='news/news_8.html'">
                 <div class="priority-indicator"></div>
-                <div class="importance-stars">
-                    <span class="star">★</span>
-                </div>
+                <div class="importance-stars"><span class="star">★</span></div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: var(--color-gray); color: white;">
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
                         <span>📱</span>
                         <span>AI资讯</span>
                     </div>
-                    <h2 class="news-title">📰 AI资讯：Molly-Mae Hague left 'gobsmacked' as she was forced to hide truth from fan during face-to-face meeting</h2>
-                    <p class="news-description">The influencer opened up about being the victim of being used to sell products by using Artificial Intelligence (AI)</p>
+                    <h2 class="news-title">🚀 创新企业：Mixus初创公司认为邮件可能是实用AI智能体的关键</h2>
+                    <p class="news-description">Mixus创新AI智能体平台让用户直接通过邮件和Slack与AI交互，保持人机协作流程。</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>Manchester Evening News</span>
+                    <div class="source">📰 TechCrunch</div>
+                    <div class="read-more">查看详情</div>
+                </div>
+            </article>
+            <article class="news-card priority-low" data-category="AI资讯" 
+                     onclick="window.location.href='news/news_9.html'">
+                <div class="priority-indicator"></div>
+                <div class="importance-stars"><span class="star">★</span></div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: #6B7280; color: white;">
+                        <span>📱</span>
+                        <span>AI资讯</span>
                     </div>
-                    <div class="read-more">
-                        查看详情
-                    </div>
+                    <h2 class="news-title">📰 AI资讯：网红博主揭露AI技术被滥用于虚假代言问题</h2>
+                    <p class="news-description">网红博主揭露AI技术被滥用于虚假代言，呼吁关注AI伦理和用户权益保护问题。</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">📰 Manchester Evening News</div>
+                    <div class="read-more">查看详情</div>
                 </div>
             </article>
             </div>
@@ -692,12 +513,41 @@
     </div>
     
     <script>
-        // 分类筛选功能
+        // 主题切换
+        function toggleTheme() {
+            const body = document.body;
+            const themeIcon = document.querySelector('.theme-icon');
+            const themeText = document.querySelector('.theme-text');
+            
+            if (body.getAttribute('data-theme') === 'dark') {
+                body.setAttribute('data-theme', 'light');
+                themeIcon.textContent = '🌙';
+                themeText.textContent = '夜间模式';
+                localStorage.setItem('theme', 'light');
+            } else {
+                body.setAttribute('data-theme', 'dark');
+                themeIcon.textContent = '☀️';
+                themeText.textContent = '日间模式';
+                localStorage.setItem('theme', 'dark');
+            }
+        }
+        
+        // 初始化主题
         document.addEventListener('DOMContentLoaded', function() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            const themeIcon = document.querySelector('.theme-icon');
+            const themeText = document.querySelector('.theme-text');
+            
+            if (savedTheme === 'dark') {
+                document.body.setAttribute('data-theme', 'dark');
+                themeIcon.textContent = '☀️';
+                themeText.textContent = '日间模式';
+            }
+            
+            // 分类筛选
             const tabButtons = document.querySelectorAll('.tab-button');
             const newsCards = document.querySelectorAll('.news-card');
             
-            // 分类筛选
             tabButtons.forEach(button => {
                 button.addEventListener('click', function() {
                     const category = this.dataset.category;
@@ -706,11 +556,10 @@
                     tabButtons.forEach(btn => btn.classList.remove('active'));
                     this.classList.add('active');
                     
-                    // 筛选新闻卡片
-                    newsCards.forEach((card, index) => {
+                    // 筛选卡片
+                    newsCards.forEach(card => {
                         if (category === 'all' || card.dataset.category === category) {
                             card.classList.remove('hidden');
-                            card.style.animationDelay = (index * 0.05) + 's';
                         } else {
                             card.classList.add('hidden');
                         }
