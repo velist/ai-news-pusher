@@ -1,5 +1,24 @@
 [
   {
+    "id": "1a46e5e8b3b0",
+    "title": "🌟 AI行业重要资讯，AI技术应用场景持续拓展",
+    "original_title": "How Trump’s war on clean energy is making AI a bigger polluter",
+    "description": "相关技术领域出现重要进展，为人工智能行业发展注入新动力。",
+    "original_description": "The Trump administration is tearing down environmental protections while pushing for more gas and coal to power AI data centers.",
+    "url": "https://www.theverge.com/climate-change/712038/ai-energy-trump-epa-gas-coal-emissions",
+    "source": "The Verge",
+    "publishedAt": "2025-07-23T18:40:10Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2224628653.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T03:19:26.962544",
+    "search_category": "AI科技"
+  },
+  {
     "id": "9ab69e9fe41d",
     "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
     "original_title": "Gmail users issued alert over new AI scam and one step they can take to prevent it",
@@ -55,6 +74,25 @@
     "importance": 1,
     "added_time": "2025-07-24T02:43:51.867946",
     "search_category": "经济金融"
+  },
+  {
+    "id": "f4b9a0148bcd",
+    "title": "📈 AI领域揭晓重要进展，AI技术应用场景持续拓展",
+    "original_title": "Trump administration unveils new AI Action Plan",
+    "description": "相关技术领域出现重要进展，为人工智能行业发展注入新动力。",
+    "original_description": "The White House unveiled its new AI action plan to make the United States a global leader in the technology. It includes plans to export American systems.",
+    "url": "https://www.upi.com/Top_News/US/2025/07/23/trump-administration-AI-action-plan/4341753289233/",
+    "source": "UPI News",
+    "publishedAt": "2025-07-23T17:11:00Z",
+    "image": "https://cdnph.upi.com/sv/ph/og/upi/4341753289233/2025/1/5c51b418d21e3e5a28d46a9696ba5eb5/v1.5/Trump-administration-unveils-new-AI-Action-Plan.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T03:19:26.962683",
+    "search_category": "AI科技"
   },
   {
     "id": "3d9773d42c97",

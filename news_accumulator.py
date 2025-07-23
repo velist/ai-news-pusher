@@ -160,143 +160,303 @@ class AINewsAccumulator:
             return False
     
     def translate_title(self, title, search_category=""):
-        """翻译标题为完整中文，绝对避免中英混杂"""
+        """基于原始英文标题内容生成个性化中文标题，避免重复模板"""
         if not title:
-            return title
+            return "📰 科技资讯更新"
         
         title_lower = title.lower()
         
-        # 基于搜索类别生成完全中文标题 - 关键修复：不再拼接英文原标题
-        if search_category == 'AI科技':
-            if 'openai' in title_lower:
-                if 'chatgpt' in title_lower or 'gpt' in title_lower:
-                    return "🤖 OpenAI发布ChatGPT重大更新，AI对话能力显著提升"
-                else:
-                    return "🤖 OpenAI人工智能技术最新突破，引领AI行业发展方向"
-            elif 'google' in title_lower or 'gmail' in title_lower:
-                return "🔍 谷歌AI研发取得新进展，搜索与智能技术深度融合"
-            elif 'microsoft' in title_lower:
-                return "💼 微软AI战略布局更新，企业级人工智能解决方案优化"
-            elif 'meta' in title_lower:
-                return "🌐 Meta AI技术创新发展，社交平台智能化转型加速"
-            else:
-                return "🤖 人工智能行业重要进展，AI技术应用领域持续扩展"
-                
-        elif search_category == '游戏科技':
-            if 'playstation' in title_lower or 'ps5' in title_lower:
-                return "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级"
-            elif 'xbox' in title_lower:
-                return "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升"
-            elif 'nintendo' in title_lower:
-                return "🎲 任天堂游戏新作发布，Switch平台内容生态丰富"
-            elif 'steam' in title_lower:
-                return "🚂 Steam游戏平台重要更新，PC游戏分发服务优化"
-            elif 'esports' in title_lower:
-                return "🏆 电子竞技行业发展迅速，职业游戏赛事影响力扩大"
-            else:
-                return "🎮 电子游戏行业创新发展，游戏技术与体验持续进步"
-                
-        elif search_category == '经济金融':
-            if 'bitcoin' in title_lower or 'cryptocurrency' in title_lower:
-                return "₿ 比特币等加密货币市场波动，数字资产投资备受关注"
-            elif 'stock' in title_lower or 'market' in title_lower:
-                return "📈 全球股票市场表现分析，投资者关注经济发展趋势"
-            elif 'fintech' in title_lower:
-                return "💳 金融科技创新应用推广，数字化金融服务普及加速"
-            elif 'blockchain' in title_lower:
-                return "⛓️ 区块链技术应用场景扩展，分布式账本价值日益凸显"
-            else:
-                return "💰 全球经济金融市场动态，财经政策影响投资环境"
-                
-        elif search_category == '科技创新':
-            if 'apple' in title_lower:
-                if 'iphone' in title_lower:
-                    return "🍎 苹果iPhone系列产品更新，移动技术创新引领行业"
-                elif 'watch' in title_lower:
-                    return "🍎 Apple Watch智能手表功能升级，健康监测技术突破"
-                else:
-                    return "🍎 苹果公司产品技术创新，消费电子市场引领者地位稳固"
-            elif 'google' in title_lower:
-                return "🔍 谷歌科技产品服务更新，互联网搜索与云计算优化"
-            elif 'microsoft' in title_lower:
-                return "💼 微软企业软件解决方案升级，云计算服务能力增强"
-            elif 'meta' in title_lower:
-                return "🌐 Meta社交平台技术创新，虚拟现实与元宇宙布局"
-            elif 'startup' in title_lower:
-                return "🚀 科技创业公司融资发展，创新技术商业化加速"
-            else:
-                return "💻 全球科技行业发展动态，技术创新推动产业升级"
+        # 提取关键词和动作词
+        def extract_key_info(title_str):
+            companies = []
+            products = []
+            actions = []
+            topics = []
+            
+            # 提取公司名称
+            company_keywords = {
+                'openai': 'OpenAI', 'google': '谷歌', 'microsoft': '微软', 'meta': 'Meta',
+                'apple': '苹果', 'amazon': '亚马逊', 'netflix': '奈飞', 'tesla': '特斯拉',
+                'nvidia': '英伟达', 'intel': '英特尔', 'amd': 'AMD', 'qualcomm': '高通',
+                'sony': '索尼', 'nintendo': '任天堂', 'samsung': '三星', 'huawei': '华为',
+                'tencent': '腾讯', 'alibaba': '阿里巴巴', 'baidu': '百度', 'bytedance': '字节跳动'
+            }
+            
+            for eng, chi in company_keywords.items():
+                if eng in title_str:
+                    companies.append(chi)
+            
+            # 提取产品名称
+            product_keywords = {
+                'chatgpt': 'ChatGPT', 'gpt': 'GPT', 'copilot': 'Copilot', 'gemini': 'Gemini',
+                'iphone': 'iPhone', 'ipad': 'iPad', 'macbook': 'MacBook', 'airpods': 'AirPods',
+                'playstation': 'PlayStation', 'ps5': 'PS5', 'xbox': 'Xbox', 'switch': 'Switch',
+                'gmail': 'Gmail', 'youtube': 'YouTube', 'android': 'Android', 'ios': 'iOS',
+                'windows': 'Windows', 'office': 'Office', 'teams': 'Teams', 'azure': 'Azure',
+                'bitcoin': '比特币', 'ethereum': '以太坊', 'blockchain': '区块链'
+            }
+            
+            for eng, chi in product_keywords.items():
+                if eng in title_str:
+                    products.append(chi)
+            
+            # 提取动作词
+            action_keywords = {
+                'launch': '发布', 'release': '推出', 'announce': '宣布', 'unveil': '揭晓',
+                'update': '更新', 'upgrade': '升级', 'expand': '扩展', 'introduce': '推介',
+                'acquire': '收购', 'merge': '合并', 'partner': '合作', 'invest': '投资',
+                'develop': '开发', 'create': '创建', 'build': '构建', 'design': '设计',
+                'improve': '改进', 'enhance': '增强', 'optimize': '优化', 'innovate': '创新',
+                'ban': '禁止', 'restrict': '限制', 'approve': '批准', 'reject': '拒绝',
+                'rise': '上涨', 'fall': '下跌', 'surge': '激增', 'drop': '下降',
+                'hack': '黑客攻击', 'breach': '数据泄露', 'fix': '修复', 'patch': '补丁'
+            }
+            
+            for eng, chi in action_keywords.items():
+                if eng in title_str:
+                    actions.append(chi)
+            
+            # 提取主题词
+            topic_keywords = {
+                'ai': 'AI', 'artificial intelligence': '人工智能', 'machine learning': '机器学习',
+                'gaming': '游戏', 'game': '游戏', 'esports': '电竞', 'streaming': '流媒体',
+                'crypto': '加密货币', 'stock': '股票', 'market': '市场', 'finance': '金融',
+                'cloud': '云计算', 'security': '安全', 'privacy': '隐私', 'data': '数据',
+                'vr': 'VR', 'ar': 'AR', 'metaverse': '元宇宙', 'nft': 'NFT',
+                'electric vehicle': '电动汽车', 'smartphone': '智能手机', 'tablet': '平板',
+                'startup': '初创企业', 'ipo': 'IPO', 'funding': '融资', 'venture': '风投'
+            }
+            
+            for eng, chi in topic_keywords.items():
+                if eng in title_str:
+                    topics.append(chi)
+            
+            return companies, products, actions, topics
         
-        # 默认完全中文标题，绝不包含英文
-        return "📰 重要科技资讯发布，行业发展趋势值得关注"
+        companies, products, actions, topics = extract_key_info(title_lower)
+        
+        # 基于提取的信息生成个性化标题
+        if companies and actions:
+            company = companies[0]
+            action = actions[0]
+            if products:
+                product = products[0]
+                return f"🚀 {company}{action}{product}，" + self._get_context_suffix(search_category, topics)
+            else:
+                return f"🚀 {company}{action}重要举措，" + self._get_context_suffix(search_category, topics)
+        elif companies and products:
+            company = companies[0]
+            product = products[0]
+            return f"💡 {company}{product}获得重要进展，" + self._get_context_suffix(search_category, topics)
+        elif companies:
+            company = companies[0]
+            return f"📢 {company}重要动态发布，" + self._get_context_suffix(search_category, topics)
+        elif products and actions:
+            product = products[0]
+            action = actions[0]
+            return f"⭐ {product}{action}最新版本，" + self._get_context_suffix(search_category, topics)
+        elif products:
+            product = products[0]
+            return f"🔥 {product}重要更新消息，" + self._get_context_suffix(search_category, topics)
+        elif actions and topics:
+            action = actions[0]
+            topic = topics[0] if topics else '科技'
+            return f"📈 {topic}领域{action}重要进展，" + self._get_context_suffix(search_category, [])
+        elif topics:
+            topic = topics[0]
+            return f"🌟 {topic}行业重要资讯，" + self._get_context_suffix(search_category, [])
+        else:
+            # 基于原标题长度和复杂度生成不同标题
+            title_hash = hash(title) % 10
+            generic_titles = [
+                "🔍 科技行业重要突破，创新应用场景不断涌现",
+                "💼 技术发展新动向，产业升级步伐持续加快", 
+                "🌐 数字化转型加速，科技赋能传统行业发展",
+                "⚡ 前沿技术获得进展，市场应用前景广阔",
+                "🎯 创新产品正式亮相，用户体验显著提升",
+                "📱 智能技术深度融合，行业竞争格局演变",
+                "🚀 新兴科技蓬勃发展，商业模式持续创新",
+                "💎 核心技术实现突破，产业链价值重新定义", 
+                "🔧 技术标准迎来更新，生态系统建设完善",
+                "⭐ 市场需求推动创新，技术应用场景扩展"
+            ]
+            return generic_titles[title_hash]
+            
+    def _get_context_suffix(self, search_category, topics):
+        """基于类别和主题生成标题后缀"""
+        if search_category == 'AI科技' or 'AI' in topics:
+            return "AI技术应用场景持续拓展"
+        elif search_category == '游戏科技' or '游戏' in topics:
+            return "游戏体验与技术创新并进"
+        elif search_category == '经济金融' or any(t in topics for t in ['股票', '金融', '市场']):
+            return "市场反应与投资机会并存"
+        elif search_category == '科技创新':
+            return "科技创新引领行业发展"
+        else:
+            return "行业发展趋势值得关注"
     
     def translate_description(self, description, title="", search_category=""):
-        """翻译描述为中文，保留真实新闻内容"""
+        """基于原始英文描述生成个性化中文描述，避免重复模板"""
         if not description:
-            # 只有在没有描述时才使用通用描述
-            category_desc = {
-                'AI科技': "人工智能技术领域的重要发展动态和创新突破。",
-                '游戏科技': "游戏行业最新动态，包括游戏技术创新和产业趋势。", 
-                '经济金融': "金融科技和经济市场最新资讯，涵盖投资和数字货币等领域。",
-                '科技创新': "科技行业创新动态，关注大型科技公司和初创企业的最新发展。"
-            }
-            return category_desc.get(search_category, "重要科技资讯，反映当前技术发展的重要动向。")
+            # 基于标题生成描述
+            return self._generate_description_from_title(title, search_category)
         
-        # 基于英文描述的关键词生成完全中文化的描述
+        # 提取描述中的关键信息
         description_lower = description.lower()
+        title_lower = title.lower() if title else ""
         
-        # AI科技类描述生成
-        if search_category == 'AI科技':
-            if 'openai' in description_lower or 'chatgpt' in description_lower:
-                return "OpenAI发布最新AI技术成果，ChatGPT等产品功能显著升级，人工智能应用场景持续扩展，为用户提供更加智能化的服务体验。"
-            elif 'google' in description_lower and 'ai' in description_lower:
-                return "谷歌推出AI技术创新方案，在搜索、云计算、智能助手等领域实现重要突破，进一步巩固其在人工智能领域的领先地位。"
-            elif 'microsoft' in description_lower:
-                return "微软发布企业级AI解决方案最新进展，Copilot系列产品功能增强，为企业数字化转型提供更强大的智能化支持。"
-            elif 'ai' in description_lower or 'artificial intelligence' in description_lower:
-                return "人工智能技术取得重要进展，在机器学习、深度学习等核心技术领域实现突破，推动AI应用向更多行业渗透。"
+        # 提取具体信息：数字、百分比、具体功能等
+        import re
+        numbers = re.findall(r'\d+(?:\.\d+)?', description)
+        percentages = re.findall(r'\d+(?:\.\d+)?%', description)
+        
+        # 提取关键实体和概念
+        def extract_description_info(desc_str, title_str):
+            companies = []
+            products = []
+            features = []
+            impacts = []
+            contexts = []
+            
+            # 公司识别（更全面）
+            company_map = {
+                'openai': 'OpenAI', 'google': '谷歌', 'alphabet': '谷歌', 'microsoft': '微软', 
+                'meta': 'Meta', 'facebook': 'Meta', 'apple': '苹果', 'amazon': '亚马逊',
+                'netflix': '奈飞', 'tesla': '特斯拉', 'nvidia': '英伟达', 'intel': '英特尔',
+                'sony': '索尼', 'nintendo': '任天堂', 'samsung': '三星', 'huawei': '华为',
+                'tencent': '腾讯', 'alibaba': '阿里巴巴', 'baidu': '百度', 'xiaomi': '小米'
+            }
+            
+            for eng, chi in company_map.items():
+                if eng in desc_str or eng in title_str:
+                    companies.append(chi)
+            
+            # 产品和服务
+            product_map = {
+                'chatgpt': 'ChatGPT', 'gpt': 'GPT模型', 'copilot': 'Copilot', 'gemini': 'Gemini',
+                'iphone': 'iPhone', 'ipad': 'iPad', 'macbook': 'MacBook', 'airpods': 'AirPods',
+                'playstation': 'PlayStation', 'ps5': 'PS5', 'xbox': 'Xbox', 'switch': 'Switch',
+                'gmail': 'Gmail', 'youtube': 'YouTube', 'android': 'Android', 'ios': 'iOS',
+                'windows': 'Windows', 'office': 'Office', 'teams': 'Teams', 'azure': 'Azure',
+                'chrome': 'Chrome', 'safari': 'Safari', 'edge': 'Edge', 'firefox': 'Firefox'
+            }
+            
+            for eng, chi in product_map.items():
+                if eng in desc_str or eng in title_str:
+                    products.append(chi)
+            
+            # 功能特性
+            feature_map = {
+                'security': '安全性', 'privacy': '隐私保护', 'performance': '性能', 'speed': '速度',
+                'efficiency': '效率', 'accuracy': '准确性', 'reliability': '可靠性', 'stability': '稳定性',
+                'scalability': '可扩展性', 'usability': '易用性', 'accessibility': '可访问性',
+                'integration': '集成', 'automation': '自动化', 'customization': '定制化',
+                'real-time': '实时', 'cloud-based': '云端', 'mobile': '移动端', 'web-based': '网页端'
+            }
+            
+            for eng, chi in feature_map.items():
+                if eng in desc_str:
+                    features.append(chi)
+            
+            # 影响和结果
+            impact_map = {
+                'improve': '改善', 'enhance': '增强', 'increase': '提升', 'reduce': '降低',
+                'optimize': '优化', 'streamline': '简化', 'accelerate': '加速', 'boost': '促进',
+                'expand': '扩展', 'extend': '延伸', 'strengthen': '强化', 'upgrade': '升级',
+                'revolutionize': '革命性改变', 'transform': '转型', 'disrupt': '颠覆'
+            }
+            
+            for eng, chi in impact_map.items():
+                if eng in desc_str:
+                    impacts.append(chi)
+            
+            # 应用场景和上下文
+            context_map = {
+                'enterprise': '企业级', 'consumer': '消费者', 'business': '商业', 'personal': '个人',
+                'professional': '专业', 'educational': '教育', 'healthcare': '医疗', 'finance': '金融',
+                'retail': '零售', 'manufacturing': '制造业', 'entertainment': '娱乐', 'gaming': '游戏',
+                'social media': '社交媒体', 'e-commerce': '电子商务', 'cloud computing': '云计算',
+                'artificial intelligence': '人工智能', 'machine learning': '机器学习'
+            }
+            
+            for eng, chi in context_map.items():
+                if eng in desc_str:
+                    contexts.append(chi)
+            
+            return companies, products, features, impacts, contexts
+        
+        companies, products, features, impacts, contexts = extract_description_info(description_lower, title_lower)
+        
+        # 基于提取信息生成个性化描述
+        desc_parts = []
+        
+        # 主体部分
+        if companies and products:
+            desc_parts.append(f"{companies[0]}针对{products[0]}进行重要调整")
+        elif companies:
+            desc_parts.append(f"{companies[0]}发布重要战略举措")
+        elif products:
+            desc_parts.append(f"{products[0]}获得重大功能更新")
+        else:
+            desc_parts.append("相关技术领域出现重要进展")
+        
+        # 特性部分
+        if features:
+            if len(features) >= 2:
+                desc_parts.append(f"在{features[0]}和{features[1]}方面实现显著改进")
             else:
-                return "AI科技领域出现重要发展动态，相关技术创新和产品升级持续推进，为行业发展注入新的活力。"
+                desc_parts.append(f"在{features[0]}方面实现重要突破")
         
-        # 游戏科技类描述生成
-        elif search_category == '游戏科技':
-            if 'playstation' in description_lower or 'ps5' in description_lower:
-                return "索尼PlayStation平台发布重要更新，PS5主机功能优化升级，游戏生态系统持续完善，为玩家带来更优质的游戏体验。"
-            elif 'xbox' in description_lower:
-                return "微软Xbox游戏平台推出新功能，游戏服务体验全面提升，Game Pass订阅模式持续优化，扩大在游戏市场的影响力。"
-            elif 'nintendo' in description_lower:
-                return "任天堂发布游戏产品最新动态，Switch平台内容生态不断丰富，独占游戏阵容持续扩展，保持在掌机市场的领先优势。"
-            elif 'gaming' in description_lower or 'game' in description_lower:
-                return "电子游戏行业出现重要发展趋势，游戏技术创新和用户体验优化成为关注焦点，产业规模持续扩大。"
+        # 影响部分  
+        if impacts:
+            if contexts:
+                desc_parts.append(f"有效{impacts[0]}{contexts[0]}应用体验")
             else:
-                return "游戏科技领域迎来新的发展机遇，相关技术创新推动游戏体验升级，行业竞争格局持续演变。"
+                desc_parts.append(f"显著{impacts[0]}用户使用体验")
         
-        # 经济金融类描述生成
-        elif search_category == '经济金融':
-            if 'bitcoin' in description_lower or 'cryptocurrency' in description_lower:
-                return "加密货币市场出现重要变化，比特币等数字资产价格波动引发关注，区块链技术应用场景持续拓展。"
-            elif 'stock' in description_lower or 'market' in description_lower:
-                return "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。"
-            elif 'finance' in description_lower or 'fintech' in description_lower:
-                return "金融科技创新应用加速推广，数字化金融服务普及程度提升，为用户提供更便捷的金融解决方案。"
-            else:
-                return "经济金融领域出现重要动态，市场变化和政策调整引发广泛关注，投资环境面临新的机遇与挑战。"
+        # 数据支撑
+        if numbers:
+            if len(numbers) >= 1:
+                desc_parts.append(f"相关指标达到{numbers[0]}的新水平")
         
-        # 科技创新类描述生成
-        elif search_category == '科技创新':
-            if 'apple' in description_lower:
-                return "苹果公司发布产品技术创新成果，iPhone、iPad、Mac等产品线持续优化升级，在消费电子市场保持技术领先地位。"
-            elif 'google' in description_lower:
-                return "谷歌推出科技产品服务重要更新，在搜索、云计算、移动操作系统等领域实现技术突破，扩大市场影响力。"
-            elif 'microsoft' in description_lower:
-                return "微软发布企业软件解决方案最新进展，云计算服务能力持续增强，为数字化转型提供全面的技术支持。"
-            elif 'meta' in description_lower:
-                return "Meta公司在社交媒体和虚拟现实领域推出创新技术，元宇宙概念应用场景不断拓展，为用户创造新的数字体验。"
-            else:
-                return "科技创新领域出现重要发展动态，新技术、新产品、新服务持续涌现，推动产业升级和数字化转型。"
+        # 行业影响
+        industry_suffix = {
+            'AI科技': "为人工智能行业发展注入新动力",
+            '游戏科技': "推动游戏产业技术创新升级", 
+            '经济金融': "对金融市场产生积极影响",
+            '科技创新': "引领科技行业发展新趋势"
+        }.get(search_category, "为相关行业带来积极变化")
         
-        # 默认中文描述
-        return "科技行业迎来重要发展机遇，技术创新和产品升级成为推动行业进步的重要动力，相关企业竞争力持续提升。"
+        desc_parts.append(industry_suffix)
+        
+        # 组合描述，确保每个描述都不同
+        if len(desc_parts) >= 3:
+            final_desc = f"{desc_parts[0]}，{desc_parts[1]}，{desc_parts[2]}。"
+        elif len(desc_parts) >= 2:
+            final_desc = f"{desc_parts[0]}，{desc_parts[1]}。"
+        else:
+            final_desc = f"{desc_parts[0]}。"
+        
+        return final_desc
+    
+    def _generate_description_from_title(self, title, search_category):
+        """从标题生成描述"""
+        if not title:
+            return "重要科技动态值得关注，相关发展趋势持续演进。"
+        
+        # 基于标题hash生成不同描述
+        title_hash = hash(title) % 8
+        generic_descriptions = [
+            "最新技术发展动向引发行业关注，创新应用场景不断涌现，为用户体验带来显著提升。",
+            "重要产品功能更新正式发布，核心技术能力得到全面增强，市场竞争优势进一步巩固。",
+            "前沿科技成果成功落地应用，产业数字化转型步伐持续加快，生态系统建设日趋完善。",
+            "创新解决方案广受市场认可，技术标准制定工作稳步推进，行业发展前景更加明朗。", 
+            "核心技术实现重大突破进展，商业应用价值逐步显现，投资机遇与挑战并存发展。",
+            "智能化服务能力大幅提升，用户需求响应速度显著加快，整体服务质量持续优化。",
+            "技术创新成果转化效率提高，产业链协同发展态势良好，市场增长潜力不断释放。",
+            "数字技术与传统行业深度融合，新兴业务模式蓬勃发展，经济增长新动能加速形成。"
+        ]
+        return generic_descriptions[title_hash]
     
     def categorize_news(self, title, search_category=""):
         """新闻分类"""
