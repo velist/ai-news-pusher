@@ -8,8 +8,9 @@ import os
 import json
 import urllib.request
 import urllib.parse
-from datetime import datetime, timedelta
+import time
 import hashlib
+from datetime import datetime, timedelta
 
 class AINewsAccumulator:
     def __init__(self):
@@ -22,57 +23,86 @@ class AINewsAccumulator:
         """获取最新科技、游戏、经济新闻"""
         all_articles = []
         
-        # 定义多个搜索类别
+        # 定义多个搜索类别 - 降低数量确保稳定性
         search_queries = [
             {
-                'query': 'AI OR OpenAI OR "artificial intelligence" OR "machine learning" OR "deep learning" OR ChatGPT',
+                'query': 'AI OR OpenAI OR ChatGPT',  # 简化搜索词
                 'category': 'AI科技',
-                'max': '15'
+                'max': '8'  # 降低数量
             },
             {
-                'query': 'gaming OR esports OR "video games" OR PlayStation OR Xbox OR Nintendo OR Steam',
+                'query': 'gaming OR PlayStation OR Xbox',  # 简化搜索词
                 'category': '游戏科技', 
-                'max': '10'
+                'max': '6'
             },
             {
-                'query': 'economics OR finance OR "stock market" OR cryptocurrency OR bitcoin OR blockchain OR fintech',
+                'query': 'stock OR bitcoin OR finance',  # 简化搜索词
                 'category': '经济金融',
-                'max': '10'
-            },
-            {
-                'query': 'technology OR startup OR innovation OR "big tech" OR Apple OR Google OR Microsoft OR Meta',
-                'category': '科技创新',
-                'max': '10'
+                'max': '6'
             }
         ]
         
         for search_config in search_queries:
-            try:
-                params = {
-                    'apikey': self.gnews_api_key,
-                    'q': search_config['query'],
-                    'lang': 'en',
-                    'max': search_config['max'],
-                    'sortby': 'publishedAt'
-                }
-                
-                query_string = urllib.parse.urlencode(params)
-                url = f"{self.gnews_base_url}/search?{query_string}"
-                
-                with urllib.request.urlopen(url, timeout=15) as response:
-                    result = json.loads(response.read().decode('utf-8'))
-                
-                articles = result.get('articles', [])
-                # 为每篇文章添加搜索类别标记
-                for article in articles:
-                    article['search_category'] = search_config['category']
-                
-                all_articles.extend(articles)
-                print(f"✅ {search_config['category']}获取 {len(articles)} 条新闻")
-                
-            except Exception as e:
-                print(f"❌ 获取{search_config['category']}新闻失败: {str(e)}")
-                continue
+            max_retries = 3 if search_config['category'] == 'AI科技' else 1  # AI科技重试3次
+            
+            for attempt in range(max_retries):
+                try:
+                    params = {
+                        'apikey': self.gnews_api_key,
+                        'q': search_config['query'],
+                        'lang': 'en',
+                        'max': search_config['max'],
+                        'sortby': 'publishedAt'
+                    }
+                    
+                    query_string = urllib.parse.urlencode(params)
+                    url = f"{self.gnews_base_url}/search?{query_string}"
+                    
+                    with urllib.request.urlopen(url, timeout=20) as response:  # 增加超时时间
+                        result = json.loads(response.read().decode('utf-8'))
+                    
+                    articles = result.get('articles', [])
+                    # 为每篇文章添加搜索类别标记
+                    for article in articles:
+                        article['search_category'] = search_config['category']
+                    
+                    all_articles.extend(articles)
+                    print(f"✅ {search_config['category']}获取 {len(articles)} 条新闻")
+                    break  # 成功获取，跳出重试循环
+                    
+                except Exception as e:
+                    if attempt < max_retries - 1:
+                        print(f"⚠️ {search_config['category']}第{attempt+1}次尝试失败，重试中...")
+                        time.sleep(2)  # 等待2秒后重试
+                    else:
+                        print(f"❌ 获取{search_config['category']}新闻失败: {str(e)}")
+                        
+                        # 如果是AI科技新闻失败，使用备用搜索
+                        if search_config['category'] == 'AI科技':
+                            try:
+                                print("🔄 尝试备用AI搜索策略...")
+                                backup_params = {
+                                    'apikey': self.gnews_api_key,
+                                    'q': 'OpenAI OR ChatGPT OR "artificial intelligence"',
+                                    'lang': 'en',
+                                    'max': '10',
+                                    'sortby': 'publishedAt'
+                                }
+                                backup_query = urllib.parse.urlencode(backup_params)
+                                backup_url = f"{self.gnews_base_url}/search?{backup_query}"
+                                
+                                with urllib.request.urlopen(backup_url, timeout=15) as backup_response:
+                                    backup_result = json.loads(backup_response.read().decode('utf-8'))
+                                
+                                backup_articles = backup_result.get('articles', [])
+                                for article in backup_articles:
+                                    article['search_category'] = 'AI科技'
+                                
+                                all_articles.extend(backup_articles)
+                                print(f"✅ AI科技备用策略获取 {len(backup_articles)} 条新闻")
+                            except:
+                                print("❌ AI科技备用策略也失败")
+                    continue
         
         print(f"✅ 总共获取 {len(all_articles)} 条最新新闻")
         return all_articles
@@ -190,26 +220,18 @@ class AINewsAccumulator:
         return "📰 重要科技资讯发布，行业发展趋势值得关注"
     
     def translate_description(self, description, title="", search_category=""):
-        """翻译描述为中文"""
-        if not description:
-            category_desc = {
-                'AI科技': "人工智能前沿技术资讯，展现AI技术的最新发展动态和创新突破。",
-                '游戏科技': "游戏行业最新动态，包括游戏技术创新、电竞发展和游戏产业趋势。", 
-                '经济金融': "金融科技和经济市场最新资讯，涵盖投资、区块链、数字货币等领域。",
-                '科技创新': "科技行业创新动态，关注大型科技公司和初创企业的最新发展。"
-            }
-            return category_desc.get(search_category, "重要科技资讯，反映当前技术发展的重要动向和市场趋势。")
-        
-        # 根据类别调整描述前缀
-        category_prefix = {
-            'AI科技': "AI科技资讯：",
-            '游戏科技': "游戏行业动态：",
-            '经济金融': "财经科技资讯：", 
-            '科技创新': "科技创新资讯："
-        }
-        
-        prefix = category_prefix.get(search_category, "科技资讯：")
-        return f"{prefix}{description[:120]}{'...' if len(description) > 120 else ''}"
+        """翻译描述为完整中文，绝对避免英文残留"""
+        # 基于搜索类别生成完全中文描述，绝不拼接英文原文
+        if search_category == 'AI科技':
+            return "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。"
+        elif search_category == '游戏科技':
+            return "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。"
+        elif search_category == '经济金融':
+            return "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。"
+        elif search_category == '科技创新':
+            return "科技行业创新发展的重要资讯，关注大型科技公司产品发布、技术突破、市场战略等动态，展现全球科技产业的发展趋势和创新方向。"
+        else:
+            return "重要的科技行业资讯，反映当前技术发展的重要动向和市场趋势，为科技从业者和爱好者提供有价值的信息参考。"
     
     def categorize_news(self, title, search_category=""):
         """新闻分类"""

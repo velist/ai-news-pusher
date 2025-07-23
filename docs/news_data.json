@@ -1,9 +1,47 @@
 [
   {
+    "id": "e871217df4c4",
+    "title": "💼 微软AI战略布局更新，企业级人工智能解决方案优化",
+    "original_title": "Microsoft snapped up dozens of Google DeepMind staffers in recent months: Report",
+    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "original_description": "The migration of talent comes amid a rapidly intensifying war for AI talent, where researchers and engineers are being traded like star athletes.",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-hires-google-deepmind-employees-ai-talent-war-report-10145211/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-23T15:31:39Z",
+    "image": "https://images.indianexpress.com/2024/07/satya-nadella.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748589",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "4eca325cbc85",
+    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
+    "original_title": "‘Having Nightmares’ Job Applicant Shocked To Discover Interviewer Was An AI; Internet Says ‘Answer With Own Bots’",
+    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "original_description": "BYOB (Bring Your Own Bots) and trick the AI interviewer",
+    "url": "https://in.mashable.com/tech/97515/having-nightmares-job-applicant-shocked-to-discover-interviewer-was-an-ai-internet-says-answer-with",
+    "source": "Mashable India",
+    "publishedAt": "2025-07-23T15:29:10Z",
+    "image": "https://sm.mashable.com/mashable_in/seo/default/00-aa-art-cover-new-91_jq17.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748624",
+    "search_category": "AI科技"
+  },
+  {
     "id": "b621ec32dfaf",
     "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
     "original_title": "The Outer Worlds 2 will no longer be one of Microsoft’s first $80 Xbox games",
-    "description": "游戏行业动态：The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going back down to $69.99.",
+    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
     "original_description": "The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going back down to $69.99.",
     "url": "https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox",
     "source": "The Verge",
@@ -15,33 +53,166 @@
       "icon": "🎯"
     },
     "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507282",
+    "added_time": "2025-07-24T00:02:15.748674",
     "search_category": "游戏科技"
   },
   {
-    "id": "cf7876033c51",
-    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
-    "original_title": "The Switch 2 had a very good launch month",
-    "description": "游戏行业动态：According to market analyst firm Circana, the Nintendo Switch 2 was the fastest-selling console in US history when it la...",
-    "original_description": "According to market analyst firm Circana, the Nintendo Switch 2 was the fastest-selling console in US history when it launched in June.",
-    "url": "https://www.theverge.com/news/712362/nintendo-switch-2-june-2025-sales",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T15:06:04Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0185_b09cc1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "id": "d4942fff7488",
+    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
+    "original_title": "AI robots designed for war by German tech company",
+    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "original_description": "For Gundbert Scherf - the co-founder of Germany’s Helsing, Europe’s most valuable defence start-up - Russia’s invasion of Ukraine changed everything.",
+    "url": "https://www.cp24.com/news/world/2025/07/23/spy-cockroaches-and-ai-robots-germany-plots-the-future-of-warfare/",
+    "source": "CP24 Toronto",
+    "publishedAt": "2025-07-23T15:12:06Z",
+    "image": "https://www.cp24.com/resizer/v2/IH6OKTZXCJBUFO34BSGZJBZHFA.jpg?smart=true&auth=25cd2d3004c6c366bc46d79640abf380ef50956692e9b377ddcf69c79879a5e0&width=1200&height=630",
     "category": {
-      "name": "游戏科技",
-      "color": "#9B59B6",
-      "icon": "🎮"
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507443",
-    "search_category": "游戏科技"
+    "added_time": "2025-07-24T00:02:15.748633",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "1cbe258cf0bd",
+    "title": "🤖 OpenAI人工智能技术最新突破，引领AI行业发展方向",
+    "original_title": "OpenAI says it has proof its tools are making workers more productive",
+    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "original_description": "OpenAI study unsurprisingly finds AI is making workers more productive",
+    "url": "https://www.techradar.com/pro/openai-says-it-has-proof-its-tools-are-making-workers-more-productive",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-23T15:03:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/y9QMgAXqMgSAnmNkY94gXR.jpg",
+    "category": {
+      "name": "OpenAI",
+      "color": "#34C759",
+      "icon": "🤖"
+    },
+    "importance": 3,
+    "added_time": "2025-07-24T00:02:15.748639",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "b434a7997b8c",
+    "title": "🔍 谷歌AI研发取得新进展，搜索与智能技术深度融合",
+    "original_title": "Google develops AI tool that fills missing words in Roman inscriptions",
+    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "original_description": "Program Aeneas, which predicts where and when Latin texts were made, called ‘transformative’ by historians",
+    "url": "https://www.theguardian.com/science/2025/jul/23/google-ai-tool-roman-inscriptions-aeneas",
+    "source": "The Guardian",
+    "publishedAt": "2025-07-23T15:00:42Z",
+    "image": "https://i.guim.co.uk/img/media/64500398dd458b12c3a76d636ff46dbe8165188d/0_0_1662_1331/master/1662.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fe12fa9447b820b3c9a482e8791134d",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748645",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "331df2464606",
+    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
+    "original_title": "Lovable Hits $100M ARR in 8 Months, Eyes $1B with New Autonomous Agent Update",
+    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "original_description": "Anton Osika, founder of the vibe coding platform Lovable, announced that the company has reached $100 million in annual recurring revenue (ARR) within eight months of launch — a pace faster than companies like OpenAI, Cursor, and Wiz, according to Osika.",
+    "url": "https://analyticsindiamag.com/ai-news-updates/lovable-hits-100m-arr-in-8-months-eyes-1b-with-new-autonomous-agent-update/",
+    "source": "Analytics India Magazine",
+    "publishedAt": "2025-07-23T14:58:02Z",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/07/lovable.jpeg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748651",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "fc3175e26f68",
+    "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
+    "original_title": "Roman shoppers buy this 'flattering' stretch jacket in more than one colour",
+    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
+    "original_description": "'I love these jackets - I have them in several colours and will be ordering a white one as soon as my size is in stock'",
+    "url": "https://www.devonlive.com/whats-on/shopping/roman-shoppers-buy-flattering-stretch-10367584",
+    "source": "Devon Live",
+    "publishedAt": "2025-07-23T14:55:00Z",
+    "image": "https://i2-prod.devonlive.com/article10367588.ece/ALTERNATES/s1200/0_image-2025-07-23T095012871.png",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748712",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "b33ad438012d",
+    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
+    "original_title": "PCMC chief calls for use of AI, digital literacy in schools",
+    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "original_description": "Referring to initiatives like Spandan, QCI assessment, and Bharat Darshan, Shekhar Singh highlighted how such programmes have contributed positively to student learning outcomes and holistic growth.",
+    "url": "https://indianexpress.com/article/cities/pune/pcmc-chief-calls-for-use-of-ai-digital-literacy-in-schools-10145148/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-23T14:53:57Z",
+    "image": "https://images.indianexpress.com/2025/07/artificial-intelligence.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748656",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "3c9a4052a3f0",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
+    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
+    "original_description": "Investors who buy now bet that the momentum will continue, but can suddenly shift",
+    "url": "https://www.theglobeandmail.com/investing/article-krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock/",
+    "source": "The Globe and Mail",
+    "publishedAt": "2025-07-23T14:53:26Z",
+    "image": "https://www.theglobeandmail.com/resizer/v2/5EU5NF2UUBH5HOVWXT3OBACMTQ.jpg?auth=9469909072454c3086d87e757f649491d5f14b5fda64964f841240aedacb7506&width=1200&height=800&quality=80&smart=true",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748718",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "d41dfb0b1fac",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "Market Factors: My stock valuation bible",
+    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
+    "original_description": "The valuation cheat sheet I’ve been using for almost a decade",
+    "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-market-factors-my-stock-valuation-bible/",
+    "source": "The Globe and Mail",
+    "publishedAt": "2025-07-23T14:42:59Z",
+    "image": "https://www.theglobeandmail.com/resizer/v2/YIDP3Y5ZX5DX3OUSZPGMBLPI54?auth=f5617f75a164956e1526a5a89cb1bbb5e5dd1b37a2532267613cfb5299ecb093&width=1200&height=800&quality=80&smart=true",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748723",
+    "search_category": "经济金融"
   },
   {
     "id": "9cd1cbda63a0",
     "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
     "original_title": "U.S. stock market concentration risks emerge as megacaps report earnings",
-    "description": "财经科技资讯：Top 10 S&P 500 weights hit 37.3% near January record, Nvidia weight greater than five S&P 500 sectors",
+    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
     "original_description": "Top 10 S&P 500 weights hit 37.3% near January record, Nvidia weight greater than five S&P 500 sectors",
     "url": "https://www.theglobeandmail.com/investing/article-us-stock-market-concentration-risks-emerge-as-megacaps-report-earnings/",
     "source": "The Globe and Mail",
@@ -53,14 +224,52 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508163",
+    "added_time": "2025-07-24T00:02:15.748735",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "b92603e44d4c",
+    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
+    "original_title": "TECNO Spark 40 Pro+ Review: Surprisingly Capable, Unapologetically Budget",
+    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "original_description": "Hands-on review of the TECNO Spark 40 Pro+ — a feature-packed budget phone with AI, AMOLED, 144Hz, and real surprises.",
+    "url": "https://www.gizchina.com/2025/07/23/tecno-spark-40-pro-review-surprisingly-capable-unapologetically-budget/",
+    "source": "Gizchina.com",
+    "publishedAt": "2025-07-23T14:36:18Z",
+    "image": "https://www.gizchina.com/wp-content/uploads/images/2025/07/IMG_4504-1200x900.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748665",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "dee55e812d8e",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "I'd Put My Entire 2025 TFSA Contribution Into This AI Stock Down 31% From its Peak",
+    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
+    "original_description": "Tempus AI is a growth stock that is down 31% from all-time highs. Here's why TEM AI stock could be a part of your TFSA portfolio right now.",
+    "url": "https://www.fool.ca/2025/07/23/id-put-my-entire-2025-tfsa-contribution-into-this-ai-stock-down-31-from-its-peak/",
+    "source": "The Motley Fool Canada",
+    "publishedAt": "2025-07-23T14:30:00Z",
+    "image": "https://www.fool.ca/wp-content/uploads/2024/08/the-letters-ai-glowing-on-a-circuit-board-processor-1200x675.jpg",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:02:15.748742",
     "search_category": "经济金融"
   },
   {
     "id": "dc856b5a6eeb",
     "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
     "original_title": "Xbox Lowers The Outer Worlds 2's Price From $80 To $70",
-    "description": "游戏行业动态：In July, Xbox announced that Obsidian's sci-fi RPG would be the first Xbox-published game to cost $80",
+    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
     "original_description": "In July, Xbox announced that Obsidian's sci-fi RPG would be the first Xbox-published game to cost $80",
     "url": "https://kotaku.com/xbox-outer-worlds-2-price-80-lowered-70-pre-order-pc-1851786791",
     "source": "Kotaku",
@@ -72,14 +281,14 @@
       "icon": "🎯"
     },
     "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507510",
+    "added_time": "2025-07-24T00:02:15.748680",
     "search_category": "游戏科技"
   },
   {
     "id": "7389cf1485fa",
     "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
     "original_title": "Obsidian already subtly teasing Grounded 2 will head to PS5",
-    "description": "游戏行业动态：Grounded 2 is about to launch into Game Preview on Xbox and PC, but what about PS5 and Switch? Well, the first game went...",
+    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
     "original_description": "Grounded 2 is about to launch into Game Preview on Xbox and PC, but what about PS5 and Switch? Well, the first game went there, didn't it?",
     "url": "https://www.windowscentral.com/gaming/grounded-2-will-only-be-on-xbox-and-pc-at-least-for-now-but-obsidian-is-already-subtly-hinting-it-wont-be-this-way-forever",
     "source": "Windows Central",
@@ -91,147 +300,33 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507597",
+    "added_time": "2025-07-24T00:02:15.748685",
     "search_category": "游戏科技"
   },
   {
-    "id": "faef7d475bda",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
-    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
-    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
-    "url": "https://www.guelphtoday.com/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
-    "source": "GuelphToday",
-    "publishedAt": "2025-07-23T14:04:29Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
+    "id": "36e54b82cd1d",
+    "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
+    "original_title": "Good News For Mumbai: Tansa Becomes Third Lake To Overflow After Incessant Rain",
+    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
+    "original_description": "Tansa Lake, one of Mumbai's key water sources, overflowed due to strong rainfall, boosting the city's water stock and ensuring uninterrupted supply.",
+    "url": "https://www.news18.com/cities/mumbai-news/good-news-for-mumbai-tansa-becomes-third-lake-to-overflow-after-incessant-rain-ws-kl-9459172.html",
+    "source": "News18",
+    "publishedAt": "2025-07-23T14:12:06Z",
+    "image": "https://images.news18.com/ibnlive/uploads/2025/07/new-6-2025-07-51876d2d791166e4d8d1ccc7d8dfae7a-16x9.jpg",
     "category": {
       "name": "经济金融",
       "color": "#E67E22",
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508249",
+    "added_time": "2025-07-24T00:02:15.748750",
     "search_category": "经济金融"
-  },
-  {
-    "id": "237314dcfd63",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
-    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
-    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
-    "url": "https://www.vancouverisawesome.com/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977601",
-    "source": "Vancouver Is Awesome",
-    "publishedAt": "2025-07-23T14:04:29Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508300",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "dba77725397d",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
-    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
-    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
-    "url": "https://www.sootoday.com/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
-    "source": "SooToday",
-    "publishedAt": "2025-07-23T14:04:29Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508331",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "18815c6b486f",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
-    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
-    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
-    "url": "https://www.baytoday.ca/business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
-    "source": "BayToday",
-    "publishedAt": "2025-07-23T14:04:29Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508371",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "b62389a719fe",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
-    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
-    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
-    "url": "https://www.elliotlaketoday.com/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
-    "source": "ElliotLakeToday.com",
-    "publishedAt": "2025-07-23T14:04:29Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508410",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "76d901c4702e",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
-    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
-    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
-    "url": "https://www.bradfordtoday.ca/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
-    "source": "BradfordToday",
-    "publishedAt": "2025-07-23T14:04:29Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508472",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "167e4b4dd680",
-    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
-    "original_title": "How video games are keeping romance alive - one level at a time",
-    "description": "游戏行业动态：Some are using Final Fantasy and GTA Online as dating sites and long-time lovers are finding comfort and connection thro...",
-    "original_description": "Some are using Final Fantasy and GTA Online as dating sites and long-time lovers are finding comfort and connection through Resident Evil. Could video games be the ultimate relationship tool?",
-    "url": "https://www.theguardian.com/games/2025/jul/22/pushing-buttons-video-games-romance-dating-sites-couples",
-    "source": "The Guardian",
-    "publishedAt": "2025-07-23T14:00:39Z",
-    "image": "https://i.guim.co.uk/img/media/827cad6e04c9f5fd6728b655287f09c29a3d4d5c/887_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=446a15720ad49c88abb74fa83cc5ce42",
-    "category": {
-      "name": "游戏科技",
-      "color": "#9B59B6",
-      "icon": "🎮"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507651",
-    "search_category": "游戏科技"
   },
   {
     "id": "27b38bc4611a",
     "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
     "original_title": "Microsoft concedes that The Outer Worlds 2 was too expensive",
-    "description": "游戏行业动态：Xbox controversially raised the base price of its mainline games to $80 in an announcement a few weeks ago. Now, it seem...",
+    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
     "original_description": "Xbox controversially raised the base price of its mainline games to $80 in an announcement a few weeks ago. Now, it seems to be backtracking, at least for the rest of 2025. Good, I say.",
     "url": "https://www.windowscentral.com/gaming/xbox/microsoft-concedes-that-the-outer-worlds-2-retail-price-was-too-high",
     "source": "Windows Central",
@@ -243,14 +338,14 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507708",
+    "added_time": "2025-07-24T00:02:15.748692",
     "search_category": "游戏科技"
   },
   {
     "id": "e0c002eafdb6",
     "title": "🎲 任天堂游戏新作发布，Switch平台内容生态丰富",
     "original_title": "Nintendo Switch 2 Beat the PS4 to Become the Fastest-Selling Gaming Hardware In US History",
-    "description": "游戏行业动态：The Nintendo Switch 2 is officially the fastest-selling piece of video game hardware in the U.S. in video game industry ...",
+    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
     "original_description": "The Nintendo Switch 2 is officially the fastest-selling piece of video game hardware in the U.S. in video game industry history.",
     "url": "https://wccftech.com/nintendo-switch-2-fastest-selling-gaming-hardware-us-history/",
     "source": "Wccftech",
@@ -262,14 +357,14 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507769",
+    "added_time": "2025-07-24T00:02:15.748697",
     "search_category": "游戏科技"
   },
   {
     "id": "6c39cb8c49f9",
     "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
     "original_title": "The Steam Deck 2 and a home console are reportedly in the works – and Sony may be helping to turn the handheld into the portable PlayStation game device I really want",
-    "description": "游戏行业动态：Please don't get any PS Portal ideas from Sony, Valve...",
+    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
     "original_description": "Please don't get any PS Portal ideas from Sony, Valve...",
     "url": "https://www.techradar.com/gaming/steam-deck/the-steam-deck-2-and-a-home-console-are-reportedly-in-the-works-and-sony-may-be-helping-to-turn-the-handheld-into-the-portable-playstation-game-device-i-really-want",
     "source": "TechRadar",
@@ -281,102 +376,7 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507841",
+    "added_time": "2025-07-24T00:02:15.748704",
     "search_category": "游戏科技"
-  },
-  {
-    "id": "6f920efb31fa",
-    "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
-    "original_title": "PS5 System Update Lets DualSense Controllers Pair Across Multiple Devices",
-    "description": "游戏行业动态：Fans of the Sony PlayStation and its excellent DualSense controller have some new features to explore in a beta update.",
-    "original_description": "Fans of the Sony PlayStation and its excellent DualSense controller have some new features to explore in a beta update.",
-    "url": "https://hothardware.com/news/ps5-system-update-lets-dualsense-controllers-pair-across-multiple",
-    "source": "Hot Hardware",
-    "publishedAt": "2025-07-23T13:50:00Z",
-    "image": "https://images.hothardware.com/contentimages/newsitem/68185/content/ps5-dualsense.jpg",
-    "category": {
-      "name": "PlayStation",
-      "color": "#003087",
-      "icon": "🎮"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507883",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "9d048414b30d",
-    "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
-    "original_title": "Plymouth's controversial £72 pension transaction yet to be signed off by government",
-    "description": "财经科技资讯：It's a 'complex process' says finance chief",
-    "original_description": "It's a 'complex process' says finance chief",
-    "url": "https://www.plymouthherald.co.uk/news/plymouth-news/plymouths-controversial-72-pension-transaction-10366663",
-    "source": "Plymouth Live",
-    "publishedAt": "2025-07-23T13:49:49Z",
-    "image": "https://i2-prod.plymouthherald.co.uk/incoming/article10140028.ece/ALTERNATES/s1200/0_Ballard-House-April-25-pic-1-by-WT-1jpeg.jpg",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508535",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "652097b6b0e0",
-    "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
-    "original_title": "Seagate's 2TB Storage Expansion Card Is Still Priced to Move for Xbox Gamers Who Missed Prime Day",
-    "description": "游戏行业动态：The only officially licensed and fully compatible storage drive for the Xbox Series X and Series S is 36% off.",
-    "original_description": "The only officially licensed and fully compatible storage drive for the Xbox Series X and Series S is 36% off.",
-    "url": "https://gizmodo.com/seagates-2tb-storage-expansion-card-is-still-priced-to-move-for-xbox-gamers-who-missed-prime-day-2000632947",
-    "source": "Gizmodo",
-    "publishedAt": "2025-07-23T13:40:17Z",
-    "image": "https://gizmodo.com/app/uploads/2025/03/Seagate-Xbox-Storage-Expansion-Card-2TB-1200x675.jpg",
-    "category": {
-      "name": "Xbox",
-      "color": "#107C10",
-      "icon": "🎯"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.507928",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "31d9d0445339",
-    "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
-    "original_title": "‘I think two-year-old racing is on a decline that cannot be stopped’ - is Australia's fascination with juvenile racing dwindling?",
-    "description": "财经科技资讯：Driven, as ever, by economics, Australian two-year-old racing appears to be losing importance - but while that concerns ...",
-    "original_description": "Driven, as ever, by economics, Australian two-year-old racing appears to be losing importance - but while that concerns some industry figures, others... Read More",
-    "url": "https://www.racingpost.com/bloodstock/anz-news/i-think-two-year-old-racing-is-on-a-decline-that-cannot-be-stopped-is-australias-fascination-with-juvenile-racing-dwindling-aZ1iq3d5Yy3I/",
-    "source": "Racing Post",
-    "publishedAt": "2025-07-23T13:31:17Z",
-    "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/e0202ff141d2-106636.jpeg",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508605",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "40e96710e2a1",
-    "title": "₿ 比特币等加密货币市场波动，数字资产投资备受关注",
-    "original_title": "Dallas’ Fortuna rides Bitcoin’s revival with hedged fund for retail buyers",
-    "description": "财经科技资讯：The retail fund is up over 70% since its inception, reflecting crypto's broad resurgence, and one of the hottest trades ...",
-    "original_description": "The retail fund is up over 70% since its inception, reflecting crypto's broad resurgence, and one of the hottest trades in financial markets.",
-    "url": "https://www.dallasnews.com/business/2025/07/23/dallas-fortuna-rides-bitcoins-revival-with-hedged-fund-for-retail-buyers/",
-    "source": "The Dallas Morning News",
-    "publishedAt": "2025-07-23T13:10:27Z",
-    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/75QSDD7BAVDNTGNQXGGTZELXAA.jpg?auth=c70c3b52fbef2ad114754a8884110b7cac26e1de3bdd886df5b48d5ef142352f&quality=80&width=1200&height=630&smart=true",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-23T23:41:08.508665",
-    "search_category": "经济金融"
   }
 ]
