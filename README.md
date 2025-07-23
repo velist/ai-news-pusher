@@ -6,6 +6,41 @@
 [![Vercel Status](https://img.shields.io/badge/Vercel-部署成功-brightgreen)](https://vercel.com)
 [![Chinese](https://img.shields.io/badge/语言-中文友好-red)](README.md)
 
+## ⚠️ 【重要】100%中文化规范
+
+**此项目核心要求：绝对避免中英混杂，确保用户界面100%中文化**
+
+### 🚫 严禁的错误示例
+```
+❌ 错误：🍎 苹果：Answered: Is the Apple Watch waterproof?
+❌ 错误：🤖 OpenAI：OpenAI announces new ChatGPT features
+❌ 错误：🎮 PlayStation：PlayStation 5 gets major update
+```
+
+### ✅ 正确的中文化示例  
+```
+✅ 正确：🍎 Apple Watch智能手表功能升级，健康监测技术突破
+✅ 正确：🤖 OpenAI发布ChatGPT重大更新，AI对话能力显著提升
+✅ 正确：🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级
+```
+
+### 📋 中文化核心原则
+1. **标题翻译**：绝不直接拼接英文原标题，必须生成完整中文描述
+2. **描述本土化**：基于搜索类别生成符合中国用户习惯的表达
+3. **分类标准化**：使用中文分类名称，避免英文术语
+4. **界面元素**：所有按钮、提示、导航均使用中文
+
+### 🔧 技术实现规范
+```python
+# 正确的翻译逻辑
+def translate_title(self, title, search_category=""):
+    # 生成完整中文标题，绝不拼接英文
+    if search_category == 'AI科技':
+        if 'openai' in title_lower:
+            return "🤖 OpenAI人工智能技术最新突破，引领AI行业发展方向"
+    # 绝对避免 f"🤖 OpenAI：{title}" 这种拼接模式
+```
+
 ## ✨ 功能特色
 
 - 🌏 **智能中文翻译**: AI技术术语本土化，符合中国用户阅读习惯
@@ -14,7 +49,7 @@
 - 🎨 **Apple风格设计**: 采用苹果HIG设计规范，现代化H5界面
 - 📱 **响应式布局**: 完美适配手机、平板、桌面端
 - 🌙 **深色模式**: 自动适应系统主题
-- ⚡ **高性能**: Vercel部署，全球CDN加速
+- ⚡ **高性能**: GitHub Pages部署，全球CDN加速
 
 ## 🚀 在线预览
 

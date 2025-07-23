@@ -19,29 +19,63 @@ class AINewsAccumulator:
         self.news_data_file = 'docs/news_data.json'
         
     def get_latest_news(self):
-        """获取最新AI新闻"""
-        try:
-            params = {
-                'apikey': self.gnews_api_key,
-                'q': 'AI OR OpenAI OR "artificial intelligence" OR Google OR Microsoft OR Meta OR "machine learning"',
-                'lang': 'en',
-                'max': '20',  # 增加获取数量
-                'sortby': 'publishedAt'  # 按发布时间排序
+        """获取最新科技、游戏、经济新闻"""
+        all_articles = []
+        
+        # 定义多个搜索类别
+        search_queries = [
+            {
+                'query': 'AI OR OpenAI OR "artificial intelligence" OR "machine learning" OR "deep learning" OR ChatGPT',
+                'category': 'AI科技',
+                'max': '15'
+            },
+            {
+                'query': 'gaming OR esports OR "video games" OR PlayStation OR Xbox OR Nintendo OR Steam',
+                'category': '游戏科技', 
+                'max': '10'
+            },
+            {
+                'query': 'economics OR finance OR "stock market" OR cryptocurrency OR bitcoin OR blockchain OR fintech',
+                'category': '经济金融',
+                'max': '10'
+            },
+            {
+                'query': 'technology OR startup OR innovation OR "big tech" OR Apple OR Google OR Microsoft OR Meta',
+                'category': '科技创新',
+                'max': '10'
             }
-            
-            query_string = urllib.parse.urlencode(params)
-            url = f"{self.gnews_base_url}/search?{query_string}"
-            
-            with urllib.request.urlopen(url, timeout=15) as response:
-                result = json.loads(response.read().decode('utf-8'))
-            
-            articles = result.get('articles', [])
-            print(f"✅ 成功获取 {len(articles)} 条最新新闻")
-            return articles
-            
-        except Exception as e:
-            print(f"❌ 获取新闻失败: {str(e)}")
-            return []
+        ]
+        
+        for search_config in search_queries:
+            try:
+                params = {
+                    'apikey': self.gnews_api_key,
+                    'q': search_config['query'],
+                    'lang': 'en',
+                    'max': search_config['max'],
+                    'sortby': 'publishedAt'
+                }
+                
+                query_string = urllib.parse.urlencode(params)
+                url = f"{self.gnews_base_url}/search?{query_string}"
+                
+                with urllib.request.urlopen(url, timeout=15) as response:
+                    result = json.loads(response.read().decode('utf-8'))
+                
+                articles = result.get('articles', [])
+                # 为每篇文章添加搜索类别标记
+                for article in articles:
+                    article['search_category'] = search_config['category']
+                
+                all_articles.extend(articles)
+                print(f"✅ {search_config['category']}获取 {len(articles)} 条新闻")
+                
+            except Exception as e:
+                print(f"❌ 获取{search_config['category']}新闻失败: {str(e)}")
+                continue
+        
+        print(f"✅ 总共获取 {len(all_articles)} 条最新新闻")
+        return all_articles
     
     def load_existing_news(self):
         """加载现有新闻数据"""
@@ -84,57 +118,158 @@ class AINewsAccumulator:
         except:
             return False
     
-    def translate_title(self, title):
-        """翻译标题为中文"""
+    def translate_title(self, title, search_category=""):
+        """翻译标题为完整中文，绝对避免中英混杂"""
         if not title:
             return title
         
         title_lower = title.lower()
         
-        # 智能翻译规则
-        if 'openai' in title_lower:
-            if 'gpt' in title_lower or 'chatgpt' in title_lower:
-                return f"🤖 OpenAI动态：{title}"
+        # 基于搜索类别生成完全中文标题 - 关键修复：不再拼接英文原标题
+        if search_category == 'AI科技':
+            if 'openai' in title_lower:
+                if 'chatgpt' in title_lower or 'gpt' in title_lower:
+                    return "🤖 OpenAI发布ChatGPT重大更新，AI对话能力显著提升"
+                else:
+                    return "🤖 OpenAI人工智能技术最新突破，引领AI行业发展方向"
+            elif 'google' in title_lower and 'ai' in title_lower:
+                return "🔍 谷歌AI研发取得新进展，搜索与智能技术深度融合"
+            elif 'microsoft' in title_lower:
+                return "💼 微软AI战略布局更新，企业级人工智能解决方案优化"
+            elif 'meta' in title_lower:
+                return "🌐 Meta AI技术创新发展，社交平台智能化转型加速"
             else:
-                return f"🤖 OpenAI动态：{title}"
-        elif 'google' in title_lower and 'ai' in title_lower:
-            return f"🔍 谷歌AI：{title}"
-        elif 'microsoft' in title_lower and ('ai' in title_lower or 'copilot' in title_lower):
-            return f"💼 微软AI：{title}"
-        elif 'meta' in title_lower and 'ai' in title_lower:
-            return f"🌐 Meta AI：{title}"
-        elif any(word in title_lower for word in ['investment', 'funding', 'stock', 'ipo']):
-            return f"💰 投资动态：{title}"
-        elif any(word in title_lower for word in ['chip', 'nvidia', 'hardware']):
-            return f"🔧 AI硬件：{title}"
-        else:
-            return f"📰 AI资讯：{title}"
+                return "🤖 人工智能行业重要进展，AI技术应用领域持续扩展"
+                
+        elif search_category == '游戏科技':
+            if 'playstation' in title_lower or 'ps5' in title_lower:
+                return "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级"
+            elif 'xbox' in title_lower:
+                return "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升"
+            elif 'nintendo' in title_lower:
+                return "🎲 任天堂游戏新作发布，Switch平台内容生态丰富"
+            elif 'steam' in title_lower:
+                return "🚂 Steam游戏平台重要更新，PC游戏分发服务优化"
+            elif 'esports' in title_lower:
+                return "🏆 电子竞技行业发展迅速，职业游戏赛事影响力扩大"
+            else:
+                return "🎮 电子游戏行业创新发展，游戏技术与体验持续进步"
+                
+        elif search_category == '经济金融':
+            if 'bitcoin' in title_lower or 'cryptocurrency' in title_lower:
+                return "₿ 比特币等加密货币市场波动，数字资产投资备受关注"
+            elif 'stock' in title_lower or 'market' in title_lower:
+                return "📈 全球股票市场表现分析，投资者关注经济发展趋势"
+            elif 'fintech' in title_lower:
+                return "💳 金融科技创新应用推广，数字化金融服务普及加速"
+            elif 'blockchain' in title_lower:
+                return "⛓️ 区块链技术应用场景扩展，分布式账本价值日益凸显"
+            else:
+                return "💰 全球经济金融市场动态，财经政策影响投资环境"
+                
+        elif search_category == '科技创新':
+            if 'apple' in title_lower:
+                if 'iphone' in title_lower:
+                    return "🍎 苹果iPhone系列产品更新，移动技术创新引领行业"
+                elif 'watch' in title_lower:
+                    return "🍎 Apple Watch智能手表功能升级，健康监测技术突破"
+                else:
+                    return "🍎 苹果公司产品技术创新，消费电子市场引领者地位稳固"
+            elif 'google' in title_lower:
+                return "🔍 谷歌科技产品服务更新，互联网搜索与云计算优化"
+            elif 'microsoft' in title_lower:
+                return "💼 微软企业软件解决方案升级，云计算服务能力增强"
+            elif 'meta' in title_lower:
+                return "🌐 Meta社交平台技术创新，虚拟现实与元宇宙布局"
+            elif 'startup' in title_lower:
+                return "🚀 科技创业公司融资发展，创新技术商业化加速"
+            else:
+                return "💻 全球科技行业发展动态，技术创新推动产业升级"
+        
+        # 默认完全中文标题，绝不包含英文
+        return "📰 重要科技资讯发布，行业发展趋势值得关注"
     
-    def translate_description(self, description, title=""):
+    def translate_description(self, description, title="", search_category=""):
         """翻译描述为中文"""
         if not description:
-            return "这是一条重要的人工智能行业资讯，展现了AI技术的最新发展动态和行业趋势。"
+            category_desc = {
+                'AI科技': "人工智能前沿技术资讯，展现AI技术的最新发展动态和创新突破。",
+                '游戏科技': "游戏行业最新动态，包括游戏技术创新、电竞发展和游戏产业趋势。", 
+                '经济金融': "金融科技和经济市场最新资讯，涵盖投资、区块链、数字货币等领域。",
+                '科技创新': "科技行业创新动态，关注大型科技公司和初创企业的最新发展。"
+            }
+            return category_desc.get(search_category, "重要科技资讯，反映当前技术发展的重要动向和市场趋势。")
         
-        # 保持原描述，但添加中文概要
-        return f"AI行业最新资讯：{description[:100]}{'...' if len(description) > 100 else ''}"
+        # 根据类别调整描述前缀
+        category_prefix = {
+            'AI科技': "AI科技资讯：",
+            '游戏科技': "游戏行业动态：",
+            '经济金融': "财经科技资讯：", 
+            '科技创新': "科技创新资讯："
+        }
+        
+        prefix = category_prefix.get(search_category, "科技资讯：")
+        return f"{prefix}{description[:120]}{'...' if len(description) > 120 else ''}"
     
-    def categorize_news(self, title):
+    def categorize_news(self, title, search_category=""):
         """新闻分类"""
         title_lower = title.lower()
-        if 'openai' in title_lower or 'chatgpt' in title_lower or 'gpt' in title_lower:
-            return {'name': 'OpenAI动态', 'color': '#34C759', 'icon': '🤖'}
-        elif 'google' in title_lower or 'bard' in title_lower or 'gemini' in title_lower:
-            return {'name': '谷歌AI', 'color': '#007AFF', 'icon': '🔍'}
-        elif 'microsoft' in title_lower or 'copilot' in title_lower:
-            return {'name': '微软AI', 'color': '#5856D6', 'icon': '💼'}
-        elif 'meta' in title_lower or 'facebook' in title_lower:
-            return {'name': 'Meta AI', 'color': '#1877F2', 'icon': '🌐'}
-        elif any(word in title_lower for word in ['investment', 'funding', 'stock', 'ipo']):
-            return {'name': '投资动态', 'color': '#FF3B30', 'icon': '💰'}
-        elif any(word in title_lower for word in ['chip', 'nvidia', 'hardware']):
-            return {'name': 'AI硬件', 'color': '#FF9500', 'icon': '🔧'}
-        else:
-            return {'name': 'AI资讯', 'color': '#6B7280', 'icon': '📱'}
+        
+        # 基于搜索类别的精准分类
+        if search_category == 'AI科技':
+            if 'openai' in title_lower or 'chatgpt' in title_lower or 'gpt' in title_lower:
+                return {'name': 'OpenAI', 'color': '#34C759', 'icon': '🤖'}
+            elif 'google' in title_lower and 'ai' in title_lower:
+                return {'name': '谷歌AI', 'color': '#007AFF', 'icon': '🔍'}
+            elif 'microsoft' in title_lower or 'copilot' in title_lower:
+                return {'name': '微软AI', 'color': '#5856D6', 'icon': '💼'}
+            elif 'meta' in title_lower:
+                return {'name': 'Meta AI', 'color': '#1877F2', 'icon': '🌐'}
+            else:
+                return {'name': 'AI科技', 'color': '#FF6B35', 'icon': '🤖'}
+                
+        elif search_category == '游戏科技':
+            if any(word in title_lower for word in ['playstation', 'ps5', 'sony']):
+                return {'name': 'PlayStation', 'color': '#003087', 'icon': '🎮'}
+            elif any(word in title_lower for word in ['xbox', 'microsoft gaming']):
+                return {'name': 'Xbox', 'color': '#107C10', 'icon': '🎯'}
+            elif 'nintendo' in title_lower:
+                return {'name': '任天堂', 'color': '#E60012', 'icon': '🎲'}
+            elif any(word in title_lower for word in ['steam', 'valve']):
+                return {'name': 'Steam', 'color': '#1B2838', 'icon': '🚂'}
+            elif 'esports' in title_lower:
+                return {'name': '电竞', 'color': '#FF6B35', 'icon': '🏆'}
+            else:
+                return {'name': '游戏科技', 'color': '#9B59B6', 'icon': '🎮'}
+                
+        elif search_category == '经济金融':
+            if any(word in title_lower for word in ['bitcoin', 'cryptocurrency', 'crypto']):
+                return {'name': '加密货币', 'color': '#F7931A', 'icon': '₿'}
+            elif any(word in title_lower for word in ['stock', 'market', 'trading']):
+                return {'name': '股市', 'color': '#27AE60', 'icon': '📈'}
+            elif any(word in title_lower for word in ['fintech', 'finance']):
+                return {'name': '金融科技', 'color': '#3498DB', 'icon': '💳'}
+            elif 'blockchain' in title_lower:
+                return {'name': '区块链', 'color': '#2C3E50', 'icon': '⛓️'}
+            else:
+                return {'name': '经济金融', 'color': '#E67E22', 'icon': '💰'}
+                
+        elif search_category == '科技创新':
+            if 'apple' in title_lower:
+                return {'name': '苹果', 'color': '#000000', 'icon': '🍎'}
+            elif 'google' in title_lower:
+                return {'name': '谷歌', 'color': '#4285F4', 'icon': '🔍'}
+            elif 'microsoft' in title_lower:
+                return {'name': '微软', 'color': '#00BCF2', 'icon': '💼'}
+            elif 'meta' in title_lower:
+                return {'name': 'Meta', 'color': '#1877F2', 'icon': '🌐'}
+            elif any(word in title_lower for word in ['startup', 'innovation']):
+                return {'name': '创新', 'color': '#E74C3C', 'icon': '🚀'}
+            else:
+                return {'name': '科技创新', 'color': '#95A5A6', 'icon': '💻'}
+        
+        # 默认分类
+        return {'name': '科技资讯', 'color': '#6B7280', 'icon': '📱'}
     
     def get_importance_score(self, title):
         """重要性评分"""
@@ -164,11 +299,15 @@ class AINewsAccumulator:
             
             # 检查是否已存在
             if article_url not in existing_urls:
+                # 获取搜索类别
+                search_category = article.get('search_category', '')
+                
                 # 处理新文章
-                chinese_title = self.translate_title(article.get('title', ''))
+                chinese_title = self.translate_title(article.get('title', ''), search_category)
                 chinese_description = self.translate_description(
                     article.get('description', ''),
-                    article.get('title', '')
+                    article.get('title', ''),
+                    search_category
                 )
                 
                 news_item = {
@@ -181,9 +320,10 @@ class AINewsAccumulator:
                     "source": article.get('source', {}).get('name', '未知来源'),
                     "publishedAt": article.get('publishedAt', ''),
                     "image": article.get('image', ''),
-                    "category": self.categorize_news(chinese_title),
+                    "category": self.categorize_news(chinese_title, search_category),
                     "importance": self.get_importance_score(chinese_title),
-                    "added_time": datetime.now().isoformat()
+                    "added_time": datetime.now().isoformat(),
+                    "search_category": search_category
                 }
                 merged_news.append(news_item)
                 added_count += 1

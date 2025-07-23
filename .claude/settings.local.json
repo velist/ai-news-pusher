@@ -29,7 +29,10 @@
       "Bash(mv \"/mnt/d/推送测试/0723进度.md\" \"/mnt/d/推送测试/archive/\")",
       "Bash(mkdir -p \"/mnt/d/推送测试/archive/\")",
       "Bash(cd /mnt/d/推送测试/.github/workflows)",
-      "Bash(cat daily-news-push.yml)"
+      "Bash(cat daily-news-push.yml)",
+      "Bash(git commit -m \"$(cat <<''EOF''\n🚀 v3.3.0 累积更新系统重大升级 - 3天新闻保留机制\n\n✨ 核心功能升级：\n• 🔄 新增news_accumulator.py累积更新系统\n• 📈 实现3天新闻自动保留和去重机制  \n• 🎯 智能合并新旧新闻，避免数据丢失\n• 🌐 完整HTML生成，包含AI分析和投资建议\n• ⏰ 优化GitHub Actions使用累积系统\n\n🎯 技术亮点：\n• URL基于哈希去重，确保新闻唯一性\n• 按发布时间智能排序，展示最新资讯\n• 动态分类统计，多维度新闻展示\n• 完整主题切换和响应式设计支持\n\n📊 功能验证：\n• 从10条新闻成功累积到14条\n• 新增4条最新AI资讯，保留全部历史\n• 自动分类：AI资讯(11)、谷歌AI(2)、微软AI(1)\n• GitHub Actions每小时自动运行\n\n🤖 Generated with [Claude Code](https://claude.ai/code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(mv ai_analyzer.py check_fields.py chinese_news_generator.py cleanup_table.py config.py deploy_to_github.py enhance_table.py feishu_cards.py feishu_client.py final_complete_test.py final_test.py final_test_fixed.py fix_insert_position.py generate_html.py intelligent_analyzer.py main.py news_fetcher.py optimized_html_generator.py old_files/)",
+      "Bash(rm -f docs/news_data.json)"
     ],
     "deny": []
   }

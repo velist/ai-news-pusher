@@ -1,244 +1,382 @@
 [
   {
-    "id": "news_0",
-    "title": "📰 AI资讯：While NVIDIA and AMD Compete Fiercely in the \"AI Wars,\" It's TSMC Which is Actually Playing On Both Sides; Silently Powering Them All and Raking in Billions",
-    "original_title": "While NVIDIA and AMD Compete Fiercely in the \"AI Wars,\" It's TSMC Which is Actually Playing On Both Sides; Silently Powering Them All and Raking in Billions",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "NVIDIA and AMD are two more dominant entities competing in the AI race, but Taiwan chip giant TSMC is getting most of the spotlight.",
-    "url": "https://wccftech.com/while-nvidia-and-amd-compete-fiercely-in-the-ai-wars-its-tsmc-which-is-actually-playing-on-both-sides/",
-    "source": "Wccftech",
-    "publishedAt": "2025-07-23T14:09:56Z",
-    "image": "https://cdn.wccftech.com/wp-content/uploads/2025/06/TSMC.jpg",
+    "id": "b621ec32dfaf",
+    "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
+    "original_title": "The Outer Worlds 2 will no longer be one of Microsoft’s first $80 Xbox games",
+    "description": "游戏行业动态：The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going back down to $69.99.",
+    "original_description": "The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going back down to $69.99.",
+    "url": "https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox",
+    "source": "The Verge",
+    "publishedAt": "2025-07-23T15:19:25Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/outerworlds2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
     "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
-  },
-  {
-    "id": "21b2bd8f03e6",
-    "title": "📰 AI资讯：Instagram Adds Safety Features to Accounts That Feature Photos of Children",
-    "original_title": "Instagram Adds Safety Features to Accounts That Feature Photos of Children",
-    "description": "AI行业最新资讯：Meta is adding safety features and protections to Instagram accounts that primarily share photos and...",
-    "original_description": "Meta is adding safety features and protections to Instagram accounts that primarily share photos and videos of children.",
-    "url": "https://petapixel.com/2025/07/23/instagram-adds-safety-features-to-accounts-that-feature-photos-of-children/",
-    "source": "PetaPixel",
-    "publishedAt": "2025-07-23T14:08:49Z",
-    "image": "https://petapixel.com/assets/uploads/2025/05/instagram-logo-featured.jpg",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
+      "name": "Xbox",
+      "color": "#107C10",
+      "icon": "🎯"
     },
     "importance": 1,
-    "added_time": "2025-07-23T22:38:40.203811"
+    "added_time": "2025-07-23T23:41:08.507282",
+    "search_category": "游戏科技"
   },
   {
-    "id": "news_1",
-    "title": "📰 AI资讯：Live updates: Trump to deliver AI remarks; Obama blasts president over 'treason' accusations",
-    "original_title": "Live updates: Trump to deliver AI remarks; Obama blasts president over 'treason' accusations",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "Live updates: Trump to give AI remarks; Obama blasts president over 'treason' accusations",
-    "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-epstein-tariffs-immigration-china-obama-live-updates-rcna219816",
-    "source": "NBC News",
-    "publishedAt": "2025-07-23T14:05:43Z",
-    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250722-donald-trump-vl-459p-c4240b.jpg",
+    "id": "cf7876033c51",
+    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
+    "original_title": "The Switch 2 had a very good launch month",
+    "description": "游戏行业动态：According to market analyst firm Circana, the Nintendo Switch 2 was the fastest-selling console in US history when it la...",
+    "original_description": "According to market analyst firm Circana, the Nintendo Switch 2 was the fastest-selling console in US history when it launched in June.",
+    "url": "https://www.theverge.com/news/712362/nintendo-switch-2-june-2025-sales",
+    "source": "The Verge",
+    "publishedAt": "2025-07-23T15:06:04Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0185_b09cc1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
     },
-    "importance": 1
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.507443",
+    "search_category": "游戏科技"
   },
   {
-    "id": "b42452bf79f7",
-    "title": "📰 AI资讯：Exclusive: Google Pixel 10 Pro Fold Official Renders",
-    "original_title": "Exclusive: Google Pixel 10 Pro Fold Official Renders",
-    "description": "AI行业最新资讯：After releasing the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL official renders this week, it's tim...",
-    "original_description": "After releasing the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL official renders this week, it's time to finish things up with the Pixel 10 Pro Fold. This",
-    "url": "https://www.androidheadlines.com/google-pixel-10-pro-fold-renders",
-    "source": "Android Headlines",
-    "publishedAt": "2025-07-23T14:03:46Z",
-    "image": "https://www.androidheadlines.com/wp-content/uploads/2025/07/exclusive-google-pixel-10-pro-fold-AH.jpg",
+    "id": "9cd1cbda63a0",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "U.S. stock market concentration risks emerge as megacaps report earnings",
+    "description": "财经科技资讯：Top 10 S&P 500 weights hit 37.3% near January record, Nvidia weight greater than five S&P 500 sectors",
+    "original_description": "Top 10 S&P 500 weights hit 37.3% near January record, Nvidia weight greater than five S&P 500 sectors",
+    "url": "https://www.theglobeandmail.com/investing/article-us-stock-market-concentration-risks-emerge-as-megacaps-report-earnings/",
+    "source": "The Globe and Mail",
+    "publishedAt": "2025-07-23T14:42:05Z",
+    "image": "https://www.theglobeandmail.com/resizer/v2/7U75AXW7TRFMHA52UWQPB6Q77E.jpg?auth=0529e21057329ab817587e3a6b5385a2d0682c71503f781068756aa8c87c430b&width=1200&height=800&quality=80&smart=true",
     "category": {
-      "name": "谷歌AI",
-      "color": "#007AFF",
-      "icon": "🔍"
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
     },
-    "importance": 2,
-    "added_time": "2025-07-23T22:38:40.203983"
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508163",
+    "search_category": "经济金融"
   },
   {
-    "id": "news_2",
-    "title": "📰 AI资讯：Man is Wrongfully Jailed For Heinous Crime Due To Facial Recognition Technology",
-    "original_title": "Man is Wrongfully Jailed For Heinous Crime Due To Facial Recognition Technology",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "A random man was wrongfully arrested after AI facial recognition technology accused him of a serious crime that he never committed.",
-    "url": "https://petapixel.com/2025/07/23/man-is-wrongfully-jailed-for-heinous-crime-due-to-facial-recognition-technology/",
-    "source": "PetaPixel",
+    "id": "dc856b5a6eeb",
+    "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
+    "original_title": "Xbox Lowers The Outer Worlds 2's Price From $80 To $70",
+    "description": "游戏行业动态：In July, Xbox announced that Obsidian's sci-fi RPG would be the first Xbox-published game to cost $80",
+    "original_description": "In July, Xbox announced that Obsidian's sci-fi RPG would be the first Xbox-published game to cost $80",
+    "url": "https://kotaku.com/xbox-outer-worlds-2-price-80-lowered-70-pre-order-pc-1851786791",
+    "source": "Kotaku",
+    "publishedAt": "2025-07-23T14:25:00Z",
+    "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/876db48a7ad4aa6d37520e30f96d08b0.jpg",
+    "category": {
+      "name": "Xbox",
+      "color": "#107C10",
+      "icon": "🎯"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.507510",
+    "search_category": "游戏科技"
+  },
+  {
+    "id": "7389cf1485fa",
+    "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
+    "original_title": "Obsidian already subtly teasing Grounded 2 will head to PS5",
+    "description": "游戏行业动态：Grounded 2 is about to launch into Game Preview on Xbox and PC, but what about PS5 and Switch? Well, the first game went...",
+    "original_description": "Grounded 2 is about to launch into Game Preview on Xbox and PC, but what about PS5 and Switch? Well, the first game went there, didn't it?",
+    "url": "https://www.windowscentral.com/gaming/grounded-2-will-only-be-on-xbox-and-pc-at-least-for-now-but-obsidian-is-already-subtly-hinting-it-wont-be-this-way-forever",
+    "source": "Windows Central",
+    "publishedAt": "2025-07-23T14:12:06Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/gTQC3kJSZWcgzc7V9tfQQH.jpg",
+    "category": {
+      "name": "PlayStation",
+      "color": "#003087",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.507597",
+    "search_category": "游戏科技"
+  },
+  {
+    "id": "faef7d475bda",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
+    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
+    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
+    "url": "https://www.guelphtoday.com/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
+    "source": "GuelphToday",
+    "publishedAt": "2025-07-23T14:04:29Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508249",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "237314dcfd63",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
+    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
+    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
+    "url": "https://www.vancouverisawesome.com/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977601",
+    "source": "Vancouver Is Awesome",
+    "publishedAt": "2025-07-23T14:04:29Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508300",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "dba77725397d",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
+    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
+    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
+    "url": "https://www.sootoday.com/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
+    "source": "SooToday",
+    "publishedAt": "2025-07-23T14:04:29Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508331",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "18815c6b486f",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
+    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
+    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
+    "url": "https://www.baytoday.ca/business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
+    "source": "BayToday",
+    "publishedAt": "2025-07-23T14:04:29Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508371",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "b62389a719fe",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
+    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
+    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
+    "url": "https://www.elliotlaketoday.com/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
+    "source": "ElliotLakeToday.com",
+    "publishedAt": "2025-07-23T14:04:29Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508410",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "76d901c4702e",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
+    "description": "财经科技资讯：NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are...",
+    "original_description": "NEW YORK (AP) — As the stock market pushes into record territory and some companies trade at lofty levels, investors are once again looking for bargains among some of Wall Street's beaten down companies.",
+    "url": "https://www.bradfordtoday.ca/national-business/krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock-revival-rolls-on-10977587",
+    "source": "BradfordToday",
+    "publishedAt": "2025-07-23T14:04:29Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/70466955e918f3dcf07dbd0c38c91145b40c40dbc6f565880ce6b62a561dbbc6.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508472",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "167e4b4dd680",
+    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
+    "original_title": "How video games are keeping romance alive - one level at a time",
+    "description": "游戏行业动态：Some are using Final Fantasy and GTA Online as dating sites and long-time lovers are finding comfort and connection thro...",
+    "original_description": "Some are using Final Fantasy and GTA Online as dating sites and long-time lovers are finding comfort and connection through Resident Evil. Could video games be the ultimate relationship tool?",
+    "url": "https://www.theguardian.com/games/2025/jul/22/pushing-buttons-video-games-romance-dating-sites-couples",
+    "source": "The Guardian",
     "publishedAt": "2025-07-23T14:00:39Z",
-    "image": "https://petapixel.com/assets/uploads/2025/07/man-wrongfully-arrested-facial-recognition-tec.jpg",
+    "image": "https://i.guim.co.uk/img/media/827cad6e04c9f5fd6728b655287f09c29a3d4d5c/887_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=446a15720ad49c88abb74fa83cc5ce42",
     "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
     },
-    "importance": 1
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.507651",
+    "search_category": "游戏科技"
   },
   {
     "id": "27b38bc4611a",
-    "title": "📰 AI资讯：Microsoft concedes that The Outer Worlds 2 was too expensive",
+    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
     "original_title": "Microsoft concedes that The Outer Worlds 2 was too expensive",
-    "description": "AI行业最新资讯：Xbox controversially raised the base price of its mainline games to $80 in an announcement a few wee...",
+    "description": "游戏行业动态：Xbox controversially raised the base price of its mainline games to $80 in an announcement a few weeks ago. Now, it seem...",
     "original_description": "Xbox controversially raised the base price of its mainline games to $80 in an announcement a few weeks ago. Now, it seems to be backtracking, at least for the rest of 2025. Good, I say.",
     "url": "https://www.windowscentral.com/gaming/xbox/microsoft-concedes-that-the-outer-worlds-2-retail-price-was-too-high",
     "source": "Windows Central",
     "publishedAt": "2025-07-23T14:00:00Z",
     "image": "https://cdn.mos.cms.futurecdn.net/EzceAxuSeznxtv2U6BnkYb.jpg",
     "category": {
-      "name": "微软AI",
-      "color": "#5856D6",
-      "icon": "💼"
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
     },
-    "importance": 2,
-    "added_time": "2025-07-23T22:38:40.204040"
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.507708",
+    "search_category": "游戏科技"
   },
   {
-    "id": "news_3",
-    "title": "📰 AI资讯：AI hiring woes are pushing some companies like McDonald's and Bupa to India's \"tech hubs\"",
-    "original_title": "AI hiring woes are pushing some companies like McDonald's and Bupa to India's \"tech hubs\"",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "The movement is not simply a play for lower labor costs; it reflects an escalating need for advanced AI abilities that are in short supply at home...",
-    "url": "https://www.techspot.com/news/108762-ai-hiring-woes-pushing-companies-like-mcdonald-bupa.html",
-    "source": "TechSpot",
-    "publishedAt": "2025-07-23T13:57:00Z",
-    "image": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-22-image-25.jpg",
+    "id": "e0c002eafdb6",
+    "title": "🎲 任天堂游戏新作发布，Switch平台内容生态丰富",
+    "original_title": "Nintendo Switch 2 Beat the PS4 to Become the Fastest-Selling Gaming Hardware In US History",
+    "description": "游戏行业动态：The Nintendo Switch 2 is officially the fastest-selling piece of video game hardware in the U.S. in video game industry ...",
+    "original_description": "The Nintendo Switch 2 is officially the fastest-selling piece of video game hardware in the U.S. in video game industry history.",
+    "url": "https://wccftech.com/nintendo-switch-2-fastest-selling-gaming-hardware-us-history/",
+    "source": "Wccftech",
+    "publishedAt": "2025-07-23T13:55:59Z",
+    "image": "https://cdn.wccftech.com/wp-content/uploads/2025/04/nintendo-switch-2-art-HD-scaled.jpeg",
     "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
     },
-    "importance": 1
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.507769",
+    "search_category": "游戏科技"
   },
   {
-    "id": "news_4",
-    "title": "📰 AI资讯：Inside reMarkable’s push to scale employee and customer IT requests with agentic AI",
-    "original_title": "Inside reMarkable’s push to scale employee and customer IT requests with agentic AI",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "As businesses rethink how work gets done, reMarkable stands out as a model of what’s possible when innovation meets intentionality.",
-    "url": "https://venturebeat.com/ai/inside-remarkables-push-to-scale-employee-and-customer-it-requests-with-agentic-ai/",
-    "source": "VentureBeat",
+    "id": "6c39cb8c49f9",
+    "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
+    "original_title": "The Steam Deck 2 and a home console are reportedly in the works – and Sony may be helping to turn the handheld into the portable PlayStation game device I really want",
+    "description": "游戏行业动态：Please don't get any PS Portal ideas from Sony, Valve...",
+    "original_description": "Please don't get any PS Portal ideas from Sony, Valve...",
+    "url": "https://www.techradar.com/gaming/steam-deck/the-steam-deck-2-and-a-home-console-are-reportedly-in-the-works-and-sony-may-be-helping-to-turn-the-handheld-into-the-portable-playstation-game-device-i-really-want",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-23T13:51:18Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/Z73Zkrf7xzoRFK3BD468WM.jpg",
+    "category": {
+      "name": "PlayStation",
+      "color": "#003087",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.507841",
+    "search_category": "游戏科技"
+  },
+  {
+    "id": "6f920efb31fa",
+    "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
+    "original_title": "PS5 System Update Lets DualSense Controllers Pair Across Multiple Devices",
+    "description": "游戏行业动态：Fans of the Sony PlayStation and its excellent DualSense controller have some new features to explore in a beta update.",
+    "original_description": "Fans of the Sony PlayStation and its excellent DualSense controller have some new features to explore in a beta update.",
+    "url": "https://hothardware.com/news/ps5-system-update-lets-dualsense-controllers-pair-across-multiple",
+    "source": "Hot Hardware",
     "publishedAt": "2025-07-23T13:50:00Z",
-    "image": "https://venturebeat.com/wp-content/uploads/2025/07/AdobeStock_671308764.jpeg?w=1024?w=1200&strip=all",
+    "image": "https://images.hothardware.com/contentimages/newsitem/68185/content/ps5-dualsense.jpg",
     "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
+      "name": "PlayStation",
+      "color": "#003087",
+      "icon": "🎮"
     },
-    "importance": 1
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.507883",
+    "search_category": "游戏科技"
   },
   {
-    "id": "news_5",
-    "title": "📰 AI资讯：McKinsey bars China practice from generative AI work amid geopolitical tensions",
-    "original_title": "McKinsey bars China practice from generative AI work amid geopolitical tensions",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "Consulting firm’s move follows scrutiny from Washington over US companies’ involvement in sensitive Chinese sectors",
-    "url": "https://www.irishtimes.com/business/2025/07/23/mckinsey-bars-china-practice-from-generative-ai-work-amid-geopolitical-tensions/",
-    "source": "The Irish Times",
-    "publishedAt": "2025-07-23T13:49:00Z",
-    "image": "https://www.irishtimes.com/resizer/v2/ICUHKQUZTDKEDHSPRA7A47RFCM.jpg?smart=true&auth=288c6ce6bba75d3c9bc27ac87dda074a29edc312105182debcdfe2d665926e14&width=1200&height=630",
+    "id": "9d048414b30d",
+    "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
+    "original_title": "Plymouth's controversial £72 pension transaction yet to be signed off by government",
+    "description": "财经科技资讯：It's a 'complex process' says finance chief",
+    "original_description": "It's a 'complex process' says finance chief",
+    "url": "https://www.plymouthherald.co.uk/news/plymouth-news/plymouths-controversial-72-pension-transaction-10366663",
+    "source": "Plymouth Live",
+    "publishedAt": "2025-07-23T13:49:49Z",
+    "image": "https://i2-prod.plymouthherald.co.uk/incoming/article10140028.ece/ALTERNATES/s1200/0_Ballard-House-April-25-pic-1-by-WT-1jpeg.jpg",
     "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
     },
-    "importance": 1
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508535",
+    "search_category": "经济金融"
   },
   {
-    "id": "514d8d5e7a4a",
-    "title": "📰 AI资讯：UK ready to impose competition interventions on Apple and Google",
-    "original_title": "UK ready to impose competition interventions on Apple and Google",
-    "description": "AI行业最新资讯：Rules will include EU-style curbs on app stores.",
-    "original_description": "Rules will include EU-style curbs on app stores.",
-    "url": "https://arstechnica.com/tech-policy/2025/07/uk-ready-to-impose-competition-interventions-on-apple-and-google/",
-    "source": "Ars Technica",
-    "publishedAt": "2025-07-23T13:46:04Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/iphone-display-1152x648.jpg",
-    "category": {
-      "name": "谷歌AI",
-      "color": "#007AFF",
-      "icon": "🔍"
-    },
-    "importance": 2,
-    "added_time": "2025-07-23T22:38:40.204085"
-  },
-  {
-    "id": "news_6",
-    "title": "📰 AI资讯：Cloudflare Wants to Power AI, Without Breaking the Internet",
-    "original_title": "Cloudflare Wants to Power AI, Without Breaking the Internet",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "Cloudflare is aiming to accelerate AI development with its solutions.",
-    "url": "https://analyticsindiamag.com/global-tech/cloudflare-wants-to-power-ai-without-breaking-the-internet/",
-    "source": "Analytics India Magazine",
-    "publishedAt": "2025-07-23T13:42:17Z",
-    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/07/Ankush_Cloudflare-Wants-to-Power-AI-Without-Breaking-the-Internet-1.jpg",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_7",
-    "title": "📰 AI资讯：From podcasts to policy: Trump’s new AI plan leans on Silicon Valley industry ideas",
-    "original_title": "From podcasts to policy: Trump’s new AI plan leans on Silicon Valley industry ideas",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "The plan and related executive orders are expected to include some familiar tech lobby pitches.",
-    "url": "https://www.dallasnews.com/business/technology/2025/07/23/from-podcasts-to-policy-trumps-new-ai-plan-leans-on-silicon-valley-industry-ideas/",
-    "source": "The Dallas Morning News",
-    "publishedAt": "2025-07-23T13:35:24Z",
-    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/FWQDYGPZUVABHMUUPKG72CQYR4.jpg?auth=34362875a410be05da7c353834ae47714858a85238745e4aa757da1d3869198e&quality=80&width=1200&height=630&smart=true",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_8",
-    "title": "📰 AI资讯：MAGA Senator Mike Lee Falls for Fake Letter That Appears to Be Generated by AI",
-    "original_title": "MAGA Senator Mike Lee Falls for Fake Letter That Appears to Be Generated by AI",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "Why are President Trump's supporters so easy to fool on social media?",
-    "url": "https://gizmodo.com/maga-senator-mike-lee-falls-for-fake-letter-that-appears-to-be-generated-by-ai-2000632864",
+    "id": "652097b6b0e0",
+    "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
+    "original_title": "Seagate's 2TB Storage Expansion Card Is Still Priced to Move for Xbox Gamers Who Missed Prime Day",
+    "description": "游戏行业动态：The only officially licensed and fully compatible storage drive for the Xbox Series X and Series S is 36% off.",
+    "original_description": "The only officially licensed and fully compatible storage drive for the Xbox Series X and Series S is 36% off.",
+    "url": "https://gizmodo.com/seagates-2tb-storage-expansion-card-is-still-priced-to-move-for-xbox-gamers-who-missed-prime-day-2000632947",
     "source": "Gizmodo",
-    "publishedAt": "2025-07-23T13:35:19Z",
-    "image": "https://gizmodo.com/app/uploads/2022/08/179da8fc9d15ced5e53112bc1828892d.jpg",
+    "publishedAt": "2025-07-23T13:40:17Z",
+    "image": "https://gizmodo.com/app/uploads/2025/03/Seagate-Xbox-Storage-Expansion-Card-2TB-1200x675.jpg",
     "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
+      "name": "Xbox",
+      "color": "#107C10",
+      "icon": "🎯"
     },
-    "importance": 1
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.507928",
+    "search_category": "游戏科技"
   },
   {
-    "id": "news_9",
-    "title": "📰 AI资讯：Trump's AI Action Plan leans heavily on Silicon Valley ideas",
-    "original_title": "Trump's AI Action Plan leans heavily on Silicon Valley ideas",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "An artificial intelligence agenda that started coalescing on the podcasts of Silicon Valley billionaires is now being forged into U.S. policy.",
-    "url": "https://www.cp24.com/news/world/2025/07/23/from-tech-podcasts-to-policy-trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/",
-    "source": "CP24 Toronto",
-    "publishedAt": "2025-07-23T13:34:41Z",
-    "image": "https://www.cp24.com/resizer/v2/R5HBLBOKCTWHEOKEWRPOWL5BHQ.jpg?smart=true&auth=aa9cca778f4f06445e17f85a5adf903925854b0b58fa426aba951c41b713ea82&width=1200&height=630",
+    "id": "31d9d0445339",
+    "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
+    "original_title": "‘I think two-year-old racing is on a decline that cannot be stopped’ - is Australia's fascination with juvenile racing dwindling?",
+    "description": "财经科技资讯：Driven, as ever, by economics, Australian two-year-old racing appears to be losing importance - but while that concerns ...",
+    "original_description": "Driven, as ever, by economics, Australian two-year-old racing appears to be losing importance - but while that concerns some industry figures, others... Read More",
+    "url": "https://www.racingpost.com/bloodstock/anz-news/i-think-two-year-old-racing-is-on-a-decline-that-cannot-be-stopped-is-australias-fascination-with-juvenile-racing-dwindling-aZ1iq3d5Yy3I/",
+    "source": "Racing Post",
+    "publishedAt": "2025-07-23T13:31:17Z",
+    "image": "https://media.racingpost.gcpp.io/prod/images/gm_preview/e0202ff141d2-106636.jpeg",
     "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
     },
-    "importance": 1
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508605",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "40e96710e2a1",
+    "title": "₿ 比特币等加密货币市场波动，数字资产投资备受关注",
+    "original_title": "Dallas’ Fortuna rides Bitcoin’s revival with hedged fund for retail buyers",
+    "description": "财经科技资讯：The retail fund is up over 70% since its inception, reflecting crypto's broad resurgence, and one of the hottest trades ...",
+    "original_description": "The retail fund is up over 70% since its inception, reflecting crypto's broad resurgence, and one of the hottest trades in financial markets.",
+    "url": "https://www.dallasnews.com/business/2025/07/23/dallas-fortuna-rides-bitcoins-revival-with-hedged-fund-for-retail-buyers/",
+    "source": "The Dallas Morning News",
+    "publishedAt": "2025-07-23T13:10:27Z",
+    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/75QSDD7BAVDNTGNQXGGTZELXAA.jpg?auth=c70c3b52fbef2ad114754a8884110b7cac26e1de3bdd886df5b48d5ef142352f&quality=80&width=1200&height=630&smart=true",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T23:41:08.508665",
+    "search_category": "经济金融"
   }
 ]
