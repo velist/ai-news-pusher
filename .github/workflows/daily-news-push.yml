@@ -25,14 +25,14 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-    - name: 运行AI新闻推送
+    - name: 运行AI新闻累积更新
       env:
         GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
         FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
         FEISHU_TABLE_URL: ${{ secrets.FEISHU_TABLE_URL }}
       run: |
-        python complete_main.py
+        python news_accumulator.py
         
     - name: 提交H5新闻页面
       if: always()
@@ -42,7 +42,7 @@ jobs:
         
         if [ -f "docs/index.html" ]; then
           git add docs/
-          git commit -m "🎨 更新每日AI新闻H5页面 - $(date '+%Y-%m-%d %H:%M')" || echo "无需提交"
+          git commit -m "📈 累积更新AI新闻 - $(date '+%Y-%m-%d %H:%M') | 保留3天历史" || echo "无需提交"
           git push || echo "推送失败"
           echo "✅ H5新闻页面已更新到docs/"
         else
@@ -52,7 +52,7 @@ jobs:
     - name: 显示运行结果
       if: always()
       run: |
-        echo "=== AI新闻推送任务完成 ==="
+        echo "=== AI新闻累积更新任务完成 ==="
         if [ -f news_push.log ]; then
           echo "📋 运行日志:"
           tail -20 news_push.log
@@ -65,9 +65,9 @@ jobs:
           echo "📱 H5新闻页面: 已生成到 docs/index.html"
           echo "🌐 GitHub Pages: https://$(echo ${{ github.repository }} | cut -d'/' -f1).github.io/$(echo ${{ github.repository }} | cut -d'/' -f2)/"
           echo ""
-          echo "💡 个性化展示选项已全部准备就绪:"
+          echo "💡 累积更新机制已启用:"
           echo "   ✅ 飞书多维表格 - 传统表格展示"
           echo "   ✅ H5响应式页面 - 卡片式个性化展示" 
-          echo "   📦 飞书卡片消息 - feishu_cards.py"
-          echo "   📰 微信公众号 - wechat_push.py"
+          echo "   📈 3天新闻保留 - 累积式增长"
+          echo "   ⏰ 每小时自动更新 - 持续追踪热点"
         fi

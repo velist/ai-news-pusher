@@ -1,172 +1,244 @@
 [
   {
     "id": "news_0",
-    "title": "🎨 布鲁克林展览挑战白人主导的AI，推动包容性发展",
-    "original_title": "‘Pretty revolutionary’: a Brooklyn exhibit interrogates white-dominated AI to make it more inclusive",
-    "description": "艺术家Stephanie Dinkins通过突出黑人精神和文化基石，挑战种族化的AI空间。",
-    "original_description": "Stephanie Dinkins challenges the racialized AI space by highlighting Black ethos and cultural cornerstones",
-    "url": "https://www.theguardian.com/artanddesign/2025/jul/23/stephanie-dinkins-ai-race-black-white-technology",
-    "source": "The Guardian",
-    "publishedAt": "2025-07-23T11:00:51Z",
-    "image": "https://i.guim.co.uk/img/media/fdb2812ab13a4b862005f52c0652eed5d889f82b/573_0_4620_3699/master/4620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f23493e7a1f2789bf95110345f096b5",
+    "title": "📰 AI资讯：While NVIDIA and AMD Compete Fiercely in the \"AI Wars,\" It's TSMC Which is Actually Playing On Both Sides; Silently Powering Them All and Raking in Billions",
+    "original_title": "While NVIDIA and AMD Compete Fiercely in the \"AI Wars,\" It's TSMC Which is Actually Playing On Both Sides; Silently Powering Them All and Raking in Billions",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
+    "original_description": "NVIDIA and AMD are two more dominant entities competing in the AI race, but Taiwan chip giant TSMC is getting most of the spotlight.",
+    "url": "https://wccftech.com/while-nvidia-and-amd-compete-fiercely-in-the-ai-wars-its-tsmc-which-is-actually-playing-on-both-sides/",
+    "source": "Wccftech",
+    "publishedAt": "2025-07-23T14:09:56Z",
+    "image": "https://cdn.wccftech.com/wp-content/uploads/2025/06/TSMC.jpg",
     "category": {
       "name": "AI资讯",
       "color": "#6B7280",
       "icon": "📱"
     },
-    "importance": 3
+    "importance": 1
+  },
+  {
+    "id": "21b2bd8f03e6",
+    "title": "📰 AI资讯：Instagram Adds Safety Features to Accounts That Feature Photos of Children",
+    "original_title": "Instagram Adds Safety Features to Accounts That Feature Photos of Children",
+    "description": "AI行业最新资讯：Meta is adding safety features and protections to Instagram accounts that primarily share photos and...",
+    "original_description": "Meta is adding safety features and protections to Instagram accounts that primarily share photos and videos of children.",
+    "url": "https://petapixel.com/2025/07/23/instagram-adds-safety-features-to-accounts-that-feature-photos-of-children/",
+    "source": "PetaPixel",
+    "publishedAt": "2025-07-23T14:08:49Z",
+    "image": "https://petapixel.com/assets/uploads/2025/05/instagram-logo-featured.jpg",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1,
+    "added_time": "2025-07-23T22:38:40.203811"
   },
   {
     "id": "news_1",
-    "title": "🔒 Proton推出隐私AI聊天机器人挑战ChatGPT",
-    "original_title": "Look out ChatGPT - the creator of Proton Mail has just launched a new AI chatbot that’s super-secure and private",
+    "title": "📰 AI资讯：Live updates: Trump to deliver AI remarks; Obama blasts president over 'treason' accusations",
+    "original_title": "Live updates: Trump to deliver AI remarks; Obama blasts president over 'treason' accusations",
     "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "Lumo, the new European AI assistant, is here",
-    "url": "https://www.techradar.com/computing/artificial-intelligence/look-out-chatgpt-the-creator-of-proton-mail-has-just-launched-a-new-ai-chatbot-thats-super-secure-and-private",
-    "source": "TechRadar",
-    "publishedAt": "2025-07-23T11:00:00Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/igDyDGAqsfNKzpwZvfv4CN.jpg",
-    "category": {
-      "name": "隐私安全",
-      "color": "#007AFF",
-      "icon": "🔒"
-    },
-    "importance": 4
-  },
-  {
-    "id": "news_2",
-    "title": "🛡️ 加拿大研究人员开发AI水印移除工具引发安全担忧",
-    "original_title": "Researchers create tool to remove anti-deepfake watermarks, point out systemic flaw in AI content",
-    "description": "滑铁卢大学研究人员开发出快速移除AI生成内容水印的工具，证明全球反深度伪造努力可能走错方向。",
-    "original_description": "University of Waterloo experts say watermarks are not enough to combat dangers of deepfakes and we ‘don’t have the tools’ to begin to tackle them",
-    "url": "https://www.theglobeandmail.com/business/article-researchers-create-tool-to-remove-anti-deepfake-watermarks-point-out/",
-    "source": "The Globe and Mail",
-    "publishedAt": "2025-07-23T10:44:34Z",
-    "image": "https://www.theglobeandmail.com/resizer/v2/3KQLEL7DHBH67DJIQMSIC5FNOY.JPG?auth=1a295f93070cb33a4c457999dd6d481d7ac8a19dd7fcc5303093c0c014ab7fd7&width=1200&height=800&quality=80&smart=true",
-    "category": {
-      "name": "安全技术",
-      "color": "#FF9500",
-      "icon": "🛡️"
-    },
-    "importance": 3
-  },
-  {
-    "id": "news_3",
-    "title": "🔒 Proton推出隐私AI聊天机器人挑战ChatGPT",
-    "original_title": "Proton is launching a privacy-focused AI chatbot",
-    "description": "Proton推出名为Lumo的隐私聊天机器人，可执行多种任务同时加密聊天内容并保持离线存储。",
-    "original_description": "Proton is launching a privacy-focused AI chatbot called Lumo. The chatbot can perform a range of tasks while encrypting chats and keeping them off Proton’s servers.",
-    "url": "https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T10:00:00Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/02_Lumo_PR.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "category": {
-      "name": "隐私安全",
-      "color": "#007AFF",
-      "icon": "🔒"
-    },
-    "importance": 4
-  },
-  {
-    "id": "news_4",
-    "title": "🚨 OpenAI CEO警告：银行语音ID无法抵御AI攻击",
-    "original_title": "OpenAI CEO Sam Altman says bank voice ID is no match for AI",
-    "description": "OpenAI CEO Sam Altman对银行机构继续使用语音认证表示担忧，认为AI技术发展使其面临安全风险。",
-    "original_description": "OpenAI CEO Sam Altman revealed that he is alarmed by the continued use of voice authentication by banking institutions as AI becomes increasingly prevalent.",
-    "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/sam-altman-is-terrified-of-voice-id-fraudsters-embracing-ai",
-    "source": "Windows Central",
-    "publishedAt": "2025-07-23T10:00:00Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/sZi3DQagkHkbeLxY26HG4E.jpg",
-    "category": {
-      "name": "OpenAI动态",
-      "color": "#34C759",
-      "icon": "🤖"
-    },
-    "importance": 4
-  },
-  {
-    "id": "news_5",
-    "title": "🚇 Metrolinx在使用AI客服同时裁员引发争议",
-    "original_title": "Metrolinx laid off call centre employees amidst AI use",
-    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "Dozens of customer service employees were let go just as Metrolinx came under fire over a contractor’s use of AI to respond to customer concerns online.",
-    "url": "https://www.thestar.com/news/gta/metrolinx-laid-off-customer-service-workers-days-before-using-ai-after-coldplay-concert/article_51a686a3-a306-413c-93f4-baed94d50bca.html",
-    "source": "Toronto Star",
-    "publishedAt": "2025-07-23T09:00:00Z",
-    "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/84/68428529-ffea-54b0-a301-7cc54c7f874d/687fc4beae8d2.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+    "original_description": "Live updates: Trump to give AI remarks; Obama blasts president over 'treason' accusations",
+    "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-epstein-tariffs-immigration-china-obama-live-updates-rcna219816",
+    "source": "NBC News",
+    "publishedAt": "2025-07-23T14:05:43Z",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250722-donald-trump-vl-459p-c4240b.jpg",
     "category": {
       "name": "AI资讯",
       "color": "#6B7280",
       "icon": "📱"
     },
-    "importance": 3
+    "importance": 1
+  },
+  {
+    "id": "b42452bf79f7",
+    "title": "📰 AI资讯：Exclusive: Google Pixel 10 Pro Fold Official Renders",
+    "original_title": "Exclusive: Google Pixel 10 Pro Fold Official Renders",
+    "description": "AI行业最新资讯：After releasing the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL official renders this week, it's tim...",
+    "original_description": "After releasing the Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL official renders this week, it's time to finish things up with the Pixel 10 Pro Fold. This",
+    "url": "https://www.androidheadlines.com/google-pixel-10-pro-fold-renders",
+    "source": "Android Headlines",
+    "publishedAt": "2025-07-23T14:03:46Z",
+    "image": "https://www.androidheadlines.com/wp-content/uploads/2025/07/exclusive-google-pixel-10-pro-fold-AH.jpg",
+    "category": {
+      "name": "谷歌AI",
+      "color": "#007AFF",
+      "icon": "🔍"
+    },
+    "importance": 2,
+    "added_time": "2025-07-23T22:38:40.203983"
+  },
+  {
+    "id": "news_2",
+    "title": "📰 AI资讯：Man is Wrongfully Jailed For Heinous Crime Due To Facial Recognition Technology",
+    "original_title": "Man is Wrongfully Jailed For Heinous Crime Due To Facial Recognition Technology",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
+    "original_description": "A random man was wrongfully arrested after AI facial recognition technology accused him of a serious crime that he never committed.",
+    "url": "https://petapixel.com/2025/07/23/man-is-wrongfully-jailed-for-heinous-crime-due-to-facial-recognition-technology/",
+    "source": "PetaPixel",
+    "publishedAt": "2025-07-23T14:00:39Z",
+    "image": "https://petapixel.com/assets/uploads/2025/07/man-wrongfully-arrested-facial-recognition-tec.jpg",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "27b38bc4611a",
+    "title": "📰 AI资讯：Microsoft concedes that The Outer Worlds 2 was too expensive",
+    "original_title": "Microsoft concedes that The Outer Worlds 2 was too expensive",
+    "description": "AI行业最新资讯：Xbox controversially raised the base price of its mainline games to $80 in an announcement a few wee...",
+    "original_description": "Xbox controversially raised the base price of its mainline games to $80 in an announcement a few weeks ago. Now, it seems to be backtracking, at least for the rest of 2025. Good, I say.",
+    "url": "https://www.windowscentral.com/gaming/xbox/microsoft-concedes-that-the-outer-worlds-2-retail-price-was-too-high",
+    "source": "Windows Central",
+    "publishedAt": "2025-07-23T14:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/EzceAxuSeznxtv2U6BnkYb.jpg",
+    "category": {
+      "name": "微软AI",
+      "color": "#5856D6",
+      "icon": "💼"
+    },
+    "importance": 2,
+    "added_time": "2025-07-23T22:38:40.204040"
+  },
+  {
+    "id": "news_3",
+    "title": "📰 AI资讯：AI hiring woes are pushing some companies like McDonald's and Bupa to India's \"tech hubs\"",
+    "original_title": "AI hiring woes are pushing some companies like McDonald's and Bupa to India's \"tech hubs\"",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
+    "original_description": "The movement is not simply a play for lower labor costs; it reflects an escalating need for advanced AI abilities that are in short supply at home...",
+    "url": "https://www.techspot.com/news/108762-ai-hiring-woes-pushing-companies-like-mcdonald-bupa.html",
+    "source": "TechSpot",
+    "publishedAt": "2025-07-23T13:57:00Z",
+    "image": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-22-image-25.jpg",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_4",
+    "title": "📰 AI资讯：Inside reMarkable’s push to scale employee and customer IT requests with agentic AI",
+    "original_title": "Inside reMarkable’s push to scale employee and customer IT requests with agentic AI",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
+    "original_description": "As businesses rethink how work gets done, reMarkable stands out as a model of what’s possible when innovation meets intentionality.",
+    "url": "https://venturebeat.com/ai/inside-remarkables-push-to-scale-employee-and-customer-it-requests-with-agentic-ai/",
+    "source": "VentureBeat",
+    "publishedAt": "2025-07-23T13:50:00Z",
+    "image": "https://venturebeat.com/wp-content/uploads/2025/07/AdobeStock_671308764.jpeg?w=1024?w=1200&strip=all",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_5",
+    "title": "📰 AI资讯：McKinsey bars China practice from generative AI work amid geopolitical tensions",
+    "original_title": "McKinsey bars China practice from generative AI work amid geopolitical tensions",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
+    "original_description": "Consulting firm’s move follows scrutiny from Washington over US companies’ involvement in sensitive Chinese sectors",
+    "url": "https://www.irishtimes.com/business/2025/07/23/mckinsey-bars-china-practice-from-generative-ai-work-amid-geopolitical-tensions/",
+    "source": "The Irish Times",
+    "publishedAt": "2025-07-23T13:49:00Z",
+    "image": "https://www.irishtimes.com/resizer/v2/ICUHKQUZTDKEDHSPRA7A47RFCM.jpg?smart=true&auth=288c6ce6bba75d3c9bc27ac87dda074a29edc312105182debcdfe2d665926e14&width=1200&height=630",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "514d8d5e7a4a",
+    "title": "📰 AI资讯：UK ready to impose competition interventions on Apple and Google",
+    "original_title": "UK ready to impose competition interventions on Apple and Google",
+    "description": "AI行业最新资讯：Rules will include EU-style curbs on app stores.",
+    "original_description": "Rules will include EU-style curbs on app stores.",
+    "url": "https://arstechnica.com/tech-policy/2025/07/uk-ready-to-impose-competition-interventions-on-apple-and-google/",
+    "source": "Ars Technica",
+    "publishedAt": "2025-07-23T13:46:04Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/iphone-display-1152x648.jpg",
+    "category": {
+      "name": "谷歌AI",
+      "color": "#007AFF",
+      "icon": "🔍"
+    },
+    "importance": 2,
+    "added_time": "2025-07-23T22:38:40.204085"
   },
   {
     "id": "news_6",
-    "title": "🛡️ 加拿大研究人员开发AI水印移除工具引发安全担忧",
-    "original_title": "Canadian researchers create tool to remove anti-deepfake watermarks from AI content",
-    "description": "滑铁卢大学研究人员开发出快速移除AI生成内容水印的工具，证明全球反深度伪造努力可能走错方向。",
-    "original_description": "OTTAWA - University of Waterloo researchers have built a tool that can quickly remove watermarks identifying content as artificially generated — and they say it proves that global efforts to",
-    "url": "https://www.thestar.com/business/canadian-researchers-create-tool-to-remove-anti-deepfake-watermarks-from-ai-content/article_3dbbc1b7-63af-596c-a732-116a33786524.html",
-    "source": "Toronto Star",
-    "publishedAt": "2025-07-23T08:00:26Z",
-    "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/4e/b4ef4136-21ba-5c67-aaee-439225e19ae4/688097af31958.image.jpg?crop=1622%2C852%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+    "title": "📰 AI资讯：Cloudflare Wants to Power AI, Without Breaking the Internet",
+    "original_title": "Cloudflare Wants to Power AI, Without Breaking the Internet",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
+    "original_description": "Cloudflare is aiming to accelerate AI development with its solutions.",
+    "url": "https://analyticsindiamag.com/global-tech/cloudflare-wants-to-power-ai-without-breaking-the-internet/",
+    "source": "Analytics India Magazine",
+    "publishedAt": "2025-07-23T13:42:17Z",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/07/Ankush_Cloudflare-Wants-to-Power-AI-Without-Breaking-the-Internet-1.jpg",
     "category": {
-      "name": "安全技术",
-      "color": "#FF9500",
-      "icon": "🛡️"
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
     },
-    "importance": 3
+    "importance": 1
   },
   {
     "id": "news_7",
-    "title": "🛡️ 加拿大研究人员开发AI水印移除工具引发安全担忧",
-    "original_title": "Canadian researchers create tool to remove anti-deepfake watermarks from AI content",
-    "description": "滑铁卢大学研究人员开发出快速移除AI生成内容水印的工具，证明全球反深度伪造努力可能走错方向。",
-    "original_description": "OTTAWA — University of Waterloo researchers have built a tool that can quickly remove watermarks identifying content as artificially generated — and they say it proves that global efforts to combat deepfakes are most likely on the wrong track.",
-    "url": "https://www.vancouverisawesome.com/national-business/canadian-researchers-create-tool-to-remove-anti-deepfake-watermarks-from-ai-content-10979284",
-    "source": "Vancouver Is Awesome",
-    "publishedAt": "2025-07-23T08:00:26Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/8b7a8f877e381ab56395509e2857f8a997725d1e469d6e79b72e9ed58a5d9ead.jpg;w=1200;h=800;mode=crop",
+    "title": "📰 AI资讯：From podcasts to policy: Trump’s new AI plan leans on Silicon Valley industry ideas",
+    "original_title": "From podcasts to policy: Trump’s new AI plan leans on Silicon Valley industry ideas",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
+    "original_description": "The plan and related executive orders are expected to include some familiar tech lobby pitches.",
+    "url": "https://www.dallasnews.com/business/technology/2025/07/23/from-podcasts-to-policy-trumps-new-ai-plan-leans-on-silicon-valley-industry-ideas/",
+    "source": "The Dallas Morning News",
+    "publishedAt": "2025-07-23T13:35:24Z",
+    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/FWQDYGPZUVABHMUUPKG72CQYR4.jpg?auth=34362875a410be05da7c353834ae47714858a85238745e4aa757da1d3869198e&quality=80&width=1200&height=630&smart=true",
     "category": {
-      "name": "安全技术",
-      "color": "#FF9500",
-      "icon": "🛡️"
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
     },
-    "importance": 3
+    "importance": 1
   },
   {
     "id": "news_8",
-    "title": "💕 Tinder使用AI算法优化用户自拍照提升匹配率",
-    "original_title": "Tinder is Trusting AI to Find Your Most Swipeable Selfie",
+    "title": "📰 AI资讯：MAGA Senator Mike Lee Falls for Fake Letter That Appears to Be Generated by AI",
+    "original_title": "MAGA Senator Mike Lee Falls for Fake Letter That Appears to Be Generated by AI",
     "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "To users, the process is invisible. Under the hood, it’s one of the more technically elegant examples of mobile AI in production today.",
-    "url": "https://analyticsindiamag.com/ai-features/tinder-is-trusting-ai-to-find-your-most-swipeable-selfie/",
-    "source": "Analytics India Magazine",
-    "publishedAt": "2025-07-23T07:31:39Z",
-    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/07/Ankush_-Tinder-Uses-On-Device-AI-to-Scan-10-Billion-Images.jpg",
+    "original_description": "Why are President Trump's supporters so easy to fool on social media?",
+    "url": "https://gizmodo.com/maga-senator-mike-lee-falls-for-fake-letter-that-appears-to-be-generated-by-ai-2000632864",
+    "source": "Gizmodo",
+    "publishedAt": "2025-07-23T13:35:19Z",
+    "image": "https://gizmodo.com/app/uploads/2022/08/179da8fc9d15ced5e53112bc1828892d.jpg",
     "category": {
-      "name": "AI应用",
-      "color": "#FF3B30",
-      "icon": "💕"
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
     },
     "importance": 1
   },
   {
     "id": "news_9",
-    "title": "💥 AI智能体恐慌删除公司数据库后试图掩盖错误",
-    "original_title": "AI Agent Panics, Deletes Entire Company Database, Then Lies to Cover Up the Catastrophe",
+    "title": "📰 AI资讯：Trump's AI Action Plan leans heavily on Silicon Valley ideas",
+    "original_title": "Trump's AI Action Plan leans heavily on Silicon Valley ideas",
     "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。",
-    "original_description": "Here's what exactly happened",
-    "url": "https://in.mashable.com/tech/97479/ai-agent-panics-deletes-entire-company-database-then-lies-to-cover-up-the-catastrophe",
-    "source": "Mashable India",
-    "publishedAt": "2025-07-23T07:05:42Z",
-    "image": "https://sm.mashable.com/mashable_in/seo/default/z3wq-2025-07-23t122016764_juzs.jpg",
+    "original_description": "An artificial intelligence agenda that started coalescing on the podcasts of Silicon Valley billionaires is now being forged into U.S. policy.",
+    "url": "https://www.cp24.com/news/world/2025/07/23/from-tech-podcasts-to-policy-trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/",
+    "source": "CP24 Toronto",
+    "publishedAt": "2025-07-23T13:34:41Z",
+    "image": "https://www.cp24.com/resizer/v2/R5HBLBOKCTWHEOKEWRPOWL5BHQ.jpg?smart=true&auth=aa9cca778f4f06445e17f85a5adf903925854b0b58fa426aba951c41b713ea82&width=1200&height=630",
     "category": {
-      "name": "AI风险",
-      "color": "#8E8E93",
-      "icon": "💥"
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
     },
-    "importance": 2
+    "importance": 1
   }
 ]

@@ -27,7 +27,9 @@
       "Bash(git commit -m \"📝 更新README.md - 记录v3.2.0终极修复全过程\n\n✨ 新增内容：\n• v3.2.0版本详细更新记录\n• 问题分析：中英混杂+AI点评功能消失的根因\n• 解决方案：项目结构重构+GitHub Actions修复\n• 技术细节：智能翻译系统重建+AI分析功能恢复\n• 成果验证：100%中文化+完整功能验证\n• 项目结构更新：标注核心文件作用\n• 快速开始指南：使用最新版complete_main.py\n\n🔥 完整记录本次修复的所有变动和技术细节！\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")",
       "Bash(find:*)",
       "Bash(mv \"/mnt/d/推送测试/0723进度.md\" \"/mnt/d/推送测试/archive/\")",
-      "Bash(mkdir -p \"/mnt/d/推送测试/archive/\")"
+      "Bash(mkdir -p \"/mnt/d/推送测试/archive/\")",
+      "Bash(cd /mnt/d/推送测试/.github/workflows)",
+      "Bash(cat daily-news-push.yml)"
     ],
     "deny": []
   }
