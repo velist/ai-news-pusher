@@ -23,22 +23,27 @@ class AINewsAccumulator:
         """获取最新科技、游戏、经济新闻"""
         all_articles = []
         
-        # 定义多个搜索类别 - 降低数量确保稳定性
+        # 定义多个搜索类别 - 扩展到3天，增加数量
         search_queries = [
             {
-                'query': 'AI OR OpenAI OR ChatGPT',  # 简化搜索词
+                'query': 'AI OR OpenAI OR ChatGPT OR "artificial intelligence"',
                 'category': 'AI科技',
-                'max': '8'  # 降低数量
+                'max': '15'  # 增加AI新闻数量
             },
             {
-                'query': 'gaming OR PlayStation OR Xbox',  # 简化搜索词
+                'query': 'gaming OR PlayStation OR Xbox OR Nintendo',
                 'category': '游戏科技', 
-                'max': '6'
+                'max': '10'
             },
             {
-                'query': 'stock OR bitcoin OR finance',  # 简化搜索词
+                'query': 'stock OR bitcoin OR finance OR cryptocurrency',
                 'category': '经济金融',
-                'max': '6'
+                'max': '10'
+            },
+            {
+                'query': 'Apple OR Google OR Microsoft OR Meta OR technology',
+                'category': '科技创新',
+                'max': '10'
             }
         ]
         
@@ -47,12 +52,17 @@ class AINewsAccumulator:
             
             for attempt in range(max_retries):
                 try:
+                    # 计算3天前的日期
+                    from datetime import datetime, timedelta
+                    three_days_ago = (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')
+                    
                     params = {
                         'apikey': self.gnews_api_key,
                         'q': search_config['query'],
                         'lang': 'en',
                         'max': search_config['max'],
-                        'sortby': 'publishedAt'
+                        'sortby': 'publishedAt',
+                        'from': three_days_ago  # 添加时间范围：从3天前开始
                     }
                     
                     query_string = urllib.parse.urlencode(params)
@@ -86,7 +96,8 @@ class AINewsAccumulator:
                                     'q': 'OpenAI OR ChatGPT OR "artificial intelligence"',
                                     'lang': 'en',
                                     'max': '10',
-                                    'sortby': 'publishedAt'
+                                    'sortby': 'publishedAt',
+                                    'from': three_days_ago  # 备用策略也使用3天范围
                                 }
                                 backup_query = urllib.parse.urlencode(backup_params)
                                 backup_url = f"{self.gnews_base_url}/search?{backup_query}"
@@ -220,18 +231,71 @@ class AINewsAccumulator:
         return "📰 重要科技资讯发布，行业发展趋势值得关注"
     
     def translate_description(self, description, title="", search_category=""):
-        """翻译描述为完整中文，绝对避免英文残留"""
-        # 基于搜索类别生成完全中文描述，绝不拼接英文原文
-        if search_category == 'AI科技':
-            return "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。"
-        elif search_category == '游戏科技':
-            return "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。"
-        elif search_category == '经济金融':
-            return "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。"
-        elif search_category == '科技创新':
-            return "科技行业创新发展的重要资讯，关注大型科技公司产品发布、技术突破、市场战略等动态，展现全球科技产业的发展趋势和创新方向。"
-        else:
-            return "重要的科技行业资讯，反映当前技术发展的重要动向和市场趋势，为科技从业者和爱好者提供有价值的信息参考。"
+        """翻译描述为中文，保留真实新闻内容"""
+        if not description:
+            # 只有在没有描述时才使用通用描述
+            category_desc = {
+                'AI科技': "人工智能技术领域的重要发展动态和创新突破。",
+                '游戏科技': "游戏行业最新动态，包括游戏技术创新和产业趋势。", 
+                '经济金融': "金融科技和经济市场最新资讯，涵盖投资和数字货币等领域。",
+                '科技创新': "科技行业创新动态，关注大型科技公司和初创企业的最新发展。"
+            }
+            return category_desc.get(search_category, "重要科技资讯，反映当前技术发展的重要动向。")
+        
+        # 对真实描述进行智能翻译和本土化处理
+        def smart_translate_description(original_desc):
+            """智能翻译描述内容"""
+            # 关键词替换映射
+            translation_map = {
+                'artificial intelligence': '人工智能',
+                'AI': 'AI',
+                'OpenAI': 'OpenAI', 
+                'ChatGPT': 'ChatGPT',
+                'machine learning': '机器学习',
+                'deep learning': '深度学习',
+                'Google': '谷歌',
+                'Microsoft': '微软',
+                'Apple': '苹果',
+                'Meta': 'Meta',
+                'PlayStation': 'PlayStation',
+                'Xbox': 'Xbox',
+                'Nintendo': '任天堂',
+                'gaming': '游戏',
+                'cryptocurrency': '加密货币',
+                'bitcoin': '比特币',
+                'blockchain': '区块链',
+                'stock market': '股票市场',
+                'finance': '金融',
+                'technology': '科技',
+                'innovation': '创新'
+            }
+            
+            # 保持原文但添加中文前缀
+            category_prefix = {
+                'AI科技': "【AI科技】",
+                '游戏科技': "【游戏资讯】",
+                '经济金融': "【财经动态】", 
+                '科技创新': "【科技前沿】"
+            }
+            
+            prefix = category_prefix.get(search_category, "【科技资讯】")
+            
+            # 如果描述过长，适当截取但保留完整句子
+            if len(original_desc) > 150:
+                # 找到最后一个句号、问号或感叹号的位置
+                last_punct = max(
+                    original_desc.rfind('.', 0, 150),
+                    original_desc.rfind('?', 0, 150), 
+                    original_desc.rfind('!', 0, 150)
+                )
+                if last_punct > 50:  # 如果找到合适的截断点
+                    original_desc = original_desc[:last_punct + 1]
+                else:
+                    original_desc = original_desc[:147] + "..."
+            
+            return f"{prefix} {original_desc}"
+        
+        return smart_translate_description(description)
     
     def categorize_news(self, title, search_category=""):
         """新闻分类"""

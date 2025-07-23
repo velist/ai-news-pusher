@@ -1,13 +1,203 @@
 [
   {
+    "id": "a97b8abf9a85",
+    "title": "💼 微软企业软件解决方案升级，云计算服务能力增强",
+    "original_title": "Two down, plenty more to go - Microsoft backtracks on $80 game prices, once again proving voting with your wallet matters",
+    "description": "【科技前沿】 This is what happens when you use your voice...",
+    "original_description": "This is what happens when you use your voice...",
+    "url": "https://www.techradar.com/gaming/xbox/two-down-plenty-more-to-go-microsoft-backtracks-on-usd80-game-prices-once-again-proving-voting-with-your-wallet-matters",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-23T16:08:11Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/GAaKJSsZRPuwTo9u48FRyK.png",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360915",
+    "search_category": "科技创新"
+  },
+  {
+    "id": "2dea32e35d58",
+    "title": "🍎 苹果公司产品技术创新，消费电子市场引领者地位稳固",
+    "original_title": "Apple cites U.S. Supreme Court’s birthright ruling in lawsuit appeal against Fortnite developer Epic Games",
+    "description": "【科技前沿】 Apple told court that after new ruling, judges no longer have freestanding authority to issue universal injunctions",
+    "original_description": "Apple told court that after new ruling, judges no longer have freestanding authority to issue universal injunctions",
+    "url": "https://www.theglobeandmail.com/business/article-apple-cites-us-supreme-courts-birthright-ruling-in-lawsuit-appeal/",
+    "source": "The Globe and Mail",
+    "publishedAt": "2025-07-23T16:02:46Z",
+    "image": "https://www.theglobeandmail.com/resizer/v2/VM4YNX6TNRBLZC7HRJIDP27WO4.JPG?auth=0d5618b6a2a2b859948e8f24f95536d2226980e255f76f71893bf6596d4f0f54&width=1200&height=800&quality=80&smart=true",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360923",
+    "search_category": "科技创新"
+  },
+  {
+    "id": "cd3c59a04b6e",
+    "title": "🔍 谷歌AI研发取得新进展，搜索与智能技术深度融合",
+    "original_title": "Google brings its AI-powered photo-to-video capability to more apps",
+    "description": "【AI科技】 Google is adding new AI-powered features to Google Photos and YouTube Shorts that allow users to transform their photos into videos.",
+    "original_description": "Google is adding new AI-powered features to Google Photos and YouTube Shorts that allow users to transform their photos into videos.",
+    "url": "https://www.theverge.com/news/712217/google-ai-photo-video-youtube-shorts",
+    "source": "The Verge",
+    "publishedAt": "2025-07-23T16:00:00Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Google-ai-photo-to-video.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360615",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "008537723a20",
+    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
+    "original_title": "Wheel World is the feel-good game of the summer",
+    "description": "【游戏资讯】 Annapurna Interactive and the developers behind Nidhogg have released the cycling adventure Wheel World on Steam, Xbox, and the PS5.",
+    "original_description": "Annapurna Interactive and the developers behind Nidhogg have released the cycling adventure Wheel World on Steam, Xbox, and the PS5.",
+    "url": "https://www.theverge.com/games-review/711680/wheel-world-review-ps5-xbox-steam",
+    "source": "The Verge",
+    "publishedAt": "2025-07-23T16:00:00Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/WheelWorld_screenshot_07.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "category": {
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360762",
+    "search_category": "游戏科技"
+  },
+  {
+    "id": "cd3c59a04b6e",
+    "title": "🔍 谷歌科技产品服务更新，互联网搜索与云计算优化",
+    "original_title": "Google brings its AI-powered photo-to-video capability to more apps",
+    "description": "【科技前沿】 Google is adding new AI-powered features to Google Photos and YouTube Shorts that allow users to transform their photos into videos.",
+    "original_description": "Google is adding new AI-powered features to Google Photos and YouTube Shorts that allow users to transform their photos into videos.",
+    "url": "https://www.theverge.com/news/712217/google-ai-photo-video-youtube-shorts",
+    "source": "The Verge",
+    "publishedAt": "2025-07-23T16:00:00Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Google-ai-photo-to-video.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360928",
+    "search_category": "科技创新"
+  },
+  {
+    "id": "c13bfb3bcd78",
+    "title": "🔍 谷歌科技产品服务更新，互联网搜索与云计算优化",
+    "original_title": "Google Photos gets creative on Android with photo-to-video clips and Remixes",
+    "description": "【科技前沿】 A new world of creativity is rolling out for Google Photos.",
+    "original_description": "A new world of creativity is rolling out for Google Photos.",
+    "url": "https://www.androidcentral.com/apps-software/google-photos-creative-photo-to-video-remix-rollout",
+    "source": "Android Central",
+    "publishedAt": "2025-07-23T16:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/GuQu3rSySDYsEc52wikEKm.jpg",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360933",
+    "search_category": "科技创新"
+  },
+  {
+    "id": "7769f3d0f387",
+    "title": "💻 全球科技行业发展动态，技术创新推动产业升级",
+    "original_title": "Hate Windows 11 and don't want to upgrade? You can now extend the life of Windows 10 until October 2026 - here's how",
+    "description": "【科技前沿】 Free updates for another year with Microsoft's ESU scheme",
+    "original_description": "Free updates for another year with Microsoft's ESU scheme",
+    "url": "https://www.techradar.com/computing/windows/hate-windows-11-and-dont-want-to-upgrade-you-can-now-extend-the-life-of-windows-10-until-october-2026-heres-how",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-23T15:58:43Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/EAARJFFJ6yakUEncKh6fHk.png",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360939",
+    "search_category": "科技创新"
+  },
+  {
+    "id": "693c080566b5",
+    "title": "💻 全球科技行业发展动态，技术创新推动产业升级",
+    "original_title": "Server software hack impacts 400",
+    "description": "【科技前沿】 A sweeping cyber-espionage campaign organization centred on vulnerable versions of Microsoft’s server software has now claimed about 400 victims, a...",
+    "original_description": "A sweeping cyber-espionage campaign organization centred on vulnerable versions of Microsoft’s server software has now claimed about 400 victims, according to researchers at Netherlands-based Eye Security.",
+    "url": "https://www.cp24.com/news/world/2025/07/23/microsoft-server-hack-has-now-hit-400-victims-researchers-say/",
+    "source": "CP24 Toronto",
+    "publishedAt": "2025-07-23T15:58:19Z",
+    "image": "https://www.cp24.com/resizer/v2/NJU73TXB2QHDDQL2JRNLAJ3ZTI.jpg?smart=true&auth=31452f57a59629757bd5ed594170ac1f7c048f9e3b8da673b57c2e28f75f026d&width=1200&height=630",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360947",
+    "search_category": "科技创新"
+  },
+  {
+    "id": "07d4339e443f",
+    "title": "💻 全球科技行业发展动态，技术创新推动产业升级",
+    "original_title": "The Pixel 10 Pro Fold might make blue the new black",
+    "description": "【科技前沿】 Google’s Pixel 10 Pro Fold could swap its black and white colorways for two new options: green and blue, according to a leak from Android Headlines.",
+    "original_description": "Google’s Pixel 10 Pro Fold could swap its black and white colorways for two new options: green and blue, according to a leak from Android Headlines.",
+    "url": "https://www.theverge.com/news/712438/google-pixel-10-pro-fold-colors-rumor",
+    "source": "The Verge",
+    "publishedAt": "2025-07-23T15:49:47Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/google-pixel-10-pro-fold-colors.webp?quality=90&strip=all&crop=0%2C3.4758762589362%2C100%2C93.048247482128&w=1200",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360952",
+    "search_category": "科技创新"
+  },
+  {
+    "id": "0974da7db806",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "This Undervalued Stock Down 76% Is My Best Contrarian Play",
+    "description": "【财经动态】 Cineplex stock remains grossly undervalued as it claws its way back to the top with increasing box office revenue.",
+    "original_description": "Cineplex stock remains grossly undervalued as it claws its way back to the top with increasing box office revenue.",
+    "url": "https://www.fool.ca/2025/07/23/this-undervalued-stock-down-76-is-my-best-contrarian-play/",
+    "source": "The Motley Fool Canada",
+    "publishedAt": "2025-07-23T15:45:00Z",
+    "image": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-2112922725-1200x800.jpg",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360833",
+    "search_category": "经济金融"
+  },
+  {
     "id": "e871217df4c4",
     "title": "💼 微软AI战略布局更新，企业级人工智能解决方案优化",
     "original_title": "Microsoft snapped up dozens of Google DeepMind staffers in recent months: Report",
-    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
-    "original_description": "The migration of talent comes amid a rapidly intensifying war for AI talent, where researchers and engineers are being traded like star athletes.",
+    "description": "【AI科技】 The migration comes amid a rapidly intensifying war for AI talent, where researchers and engineers are being traded like star athletes.",
+    "original_description": "The migration comes amid a rapidly intensifying war for AI talent, where researchers and engineers are being traded like star athletes.",
     "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-hires-google-deepmind-employees-ai-talent-war-report-10145211/",
     "source": "The Indian Express",
-    "publishedAt": "2025-07-23T15:31:39Z",
+    "publishedAt": "2025-07-23T15:34:04Z",
     "image": "https://images.indianexpress.com/2024/07/satya-nadella.jpg",
     "category": {
       "name": "AI科技",
@@ -15,14 +205,33 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748589",
+    "added_time": "2025-07-24T00:19:53.360661",
     "search_category": "AI科技"
+  },
+  {
+    "id": "e871217df4c4",
+    "title": "🔍 谷歌科技产品服务更新，互联网搜索与云计算优化",
+    "original_title": "Microsoft snapped up dozens of Google DeepMind staffers in recent months: Report",
+    "description": "【科技前沿】 The migration comes amid a rapidly intensifying war for AI talent, where researchers and engineers are being traded like star athletes.",
+    "original_description": "The migration comes amid a rapidly intensifying war for AI talent, where researchers and engineers are being traded like star athletes.",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-hires-google-deepmind-employees-ai-talent-war-report-10145211/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-23T15:34:04Z",
+    "image": "https://images.indianexpress.com/2024/07/satya-nadella.jpg",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360958",
+    "search_category": "科技创新"
   },
   {
     "id": "4eca325cbc85",
     "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
     "original_title": "‘Having Nightmares’ Job Applicant Shocked To Discover Interviewer Was An AI; Internet Says ‘Answer With Own Bots’",
-    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "description": "【AI科技】 BYOB (Bring Your Own Bots) and trick the AI interviewer",
     "original_description": "BYOB (Bring Your Own Bots) and trick the AI interviewer",
     "url": "https://in.mashable.com/tech/97515/having-nightmares-job-applicant-shocked-to-discover-interviewer-was-an-ai-internet-says-answer-with",
     "source": "Mashable India",
@@ -34,14 +243,147 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748624",
+    "added_time": "2025-07-24T00:19:53.360674",
     "search_category": "AI科技"
   },
   {
-    "id": "b621ec32dfaf",
+    "id": "ac8f52cce331",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
+    "description": "【财经动态】 TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose.",
+    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
+    "url": "https://www.guelphtoday.com/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
+    "source": "GuelphToday",
+    "publishedAt": "2025-07-23T15:25:15Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360849",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "5d3d1de8328b",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
+    "description": "【财经动态】 TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose.",
+    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
+    "url": "https://www.elliotlaketoday.com/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
+    "source": "ElliotLakeToday.com",
+    "publishedAt": "2025-07-23T15:25:15Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360861",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "f75cb1fa99a3",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
+    "description": "【财经动态】 TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose.",
+    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
+    "url": "https://www.sootoday.com/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
+    "source": "SooToday",
+    "publishedAt": "2025-07-23T15:25:15Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360869",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "3ad25779277c",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
+    "description": "【财经动态】 TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose.",
+    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
+    "url": "https://www.bradfordtoday.ca/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
+    "source": "BradfordToday",
+    "publishedAt": "2025-07-23T15:25:15Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360876",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "6e2d32c72e33",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
+    "description": "【财经动态】 TORONTO - Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose.",
+    "original_description": "TORONTO - Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose.",
+    "url": "https://www.thestar.com/business/s-p-tsx-composite-up-wednesday-morning-u-s-markets-also-higher/article_2125dc99-4bf4-5cea-99fb-72302106a140.html",
+    "source": "Toronto Star",
+    "publishedAt": "2025-07-23T15:25:15Z",
+    "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/c2/0c276a26-ead0-5471-aec1-15e890c24081/67a4e5e370b35.image.jpg?crop=1570%2C824%2C0%2C127&resize=1200%2C630&order=crop%2Cresize",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360883",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "b9933f53e3c8",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
+    "description": "【财经动态】 TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose.",
+    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
+    "url": "https://www.vancouverisawesome.com/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980498",
+    "source": "Vancouver Is Awesome",
+    "publishedAt": "2025-07-23T15:25:15Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360890",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "d9aa4ea23ccc",
+    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
+    "description": "【财经动态】 TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose.",
+    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
+    "url": "https://www.baytoday.ca/business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
+    "source": "BayToday",
+    "publishedAt": "2025-07-23T15:25:15Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360896",
+    "search_category": "经济金融"
+  },
+  {
+    "id": "5e877f064603",
     "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
-    "original_title": "The Outer Worlds 2 will no longer be one of Microsoft’s first $80 Xbox games",
-    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
+    "original_title": "The Outer Worlds 2 will no longer be Microsoft’s first $80 Xbox game",
+    "description": "【游戏资讯】 The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going back down to $69.99.",
     "original_description": "The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going back down to $69.99.",
     "url": "https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox",
     "source": "The Verge",
@@ -53,14 +395,33 @@
       "icon": "🎯"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748674",
+    "added_time": "2025-07-24T00:19:53.360770",
     "search_category": "游戏科技"
+  },
+  {
+    "id": "5e877f064603",
+    "title": "💼 微软企业软件解决方案升级，云计算服务能力增强",
+    "original_title": "The Outer Worlds 2 will no longer be Microsoft’s first $80 Xbox game",
+    "description": "【科技前沿】 The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going back down to $69.99.",
+    "original_description": "The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going back down to $69.99.",
+    "url": "https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox",
+    "source": "The Verge",
+    "publishedAt": "2025-07-23T15:19:25Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/outerworlds2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360967",
+    "search_category": "科技创新"
   },
   {
     "id": "d4942fff7488",
     "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
     "original_title": "AI robots designed for war by German tech company",
-    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "description": "【AI科技】 For Gundbert Scherf - the co-founder of Germany’s Helsing, Europe’s most valuable defence start-up - Russia’s invasion of Ukraine changed everything.",
     "original_description": "For Gundbert Scherf - the co-founder of Germany’s Helsing, Europe’s most valuable defence start-up - Russia’s invasion of Ukraine changed everything.",
     "url": "https://www.cp24.com/news/world/2025/07/23/spy-cockroaches-and-ai-robots-germany-plots-the-future-of-warfare/",
     "source": "CP24 Toronto",
@@ -72,14 +433,33 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748633",
+    "added_time": "2025-07-24T00:19:53.360684",
     "search_category": "AI科技"
+  },
+  {
+    "id": "cf7876033c51",
+    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
+    "original_title": "The Switch 2 had a very good launch month",
+    "description": "【游戏资讯】 According to market analyst firm Circana, the Nintendo Switch 2 was the fastest-selling console in US history when it launched in June.",
+    "original_description": "According to market analyst firm Circana, the Nintendo Switch 2 was the fastest-selling console in US history when it launched in June.",
+    "url": "https://www.theverge.com/news/712362/nintendo-switch-2-june-2025-sales",
+    "source": "The Verge",
+    "publishedAt": "2025-07-23T15:06:04Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0185_b09cc1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "category": {
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360776",
+    "search_category": "游戏科技"
   },
   {
     "id": "1cbe258cf0bd",
     "title": "🤖 OpenAI人工智能技术最新突破，引领AI行业发展方向",
     "original_title": "OpenAI says it has proof its tools are making workers more productive",
-    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "description": "【AI科技】 OpenAI study unsurprisingly finds AI is making workers more productive",
     "original_description": "OpenAI study unsurprisingly finds AI is making workers more productive",
     "url": "https://www.techradar.com/pro/openai-says-it-has-proof-its-tools-are-making-workers-more-productive",
     "source": "TechRadar",
@@ -91,14 +471,14 @@
       "icon": "🤖"
     },
     "importance": 3,
-    "added_time": "2025-07-24T00:02:15.748639",
+    "added_time": "2025-07-24T00:19:53.360692",
     "search_category": "AI科技"
   },
   {
     "id": "b434a7997b8c",
     "title": "🔍 谷歌AI研发取得新进展，搜索与智能技术深度融合",
     "original_title": "Google develops AI tool that fills missing words in Roman inscriptions",
-    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "description": "【AI科技】 Program Aeneas, which predicts where and when Latin texts were made, called ‘transformative’ by historians",
     "original_description": "Program Aeneas, which predicts where and when Latin texts were made, called ‘transformative’ by historians",
     "url": "https://www.theguardian.com/science/2025/jul/23/google-ai-tool-roman-inscriptions-aeneas",
     "source": "The Guardian",
@@ -110,14 +490,33 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748645",
+    "added_time": "2025-07-24T00:19:53.360720",
     "search_category": "AI科技"
+  },
+  {
+    "id": "b434a7997b8c",
+    "title": "🔍 谷歌科技产品服务更新，互联网搜索与云计算优化",
+    "original_title": "Google develops AI tool that fills missing words in Roman inscriptions",
+    "description": "【科技前沿】 Program Aeneas, which predicts where and when Latin texts were made, called ‘transformative’ by historians",
+    "original_description": "Program Aeneas, which predicts where and when Latin texts were made, called ‘transformative’ by historians",
+    "url": "https://www.theguardian.com/science/2025/jul/23/google-ai-tool-roman-inscriptions-aeneas",
+    "source": "The Guardian",
+    "publishedAt": "2025-07-23T15:00:42Z",
+    "image": "https://i.guim.co.uk/img/media/64500398dd458b12c3a76d636ff46dbe8165188d/0_0_1662_1331/master/1662.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fe12fa9447b820b3c9a482e8791134d",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360972",
+    "search_category": "科技创新"
   },
   {
     "id": "331df2464606",
     "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
     "original_title": "Lovable Hits $100M ARR in 8 Months, Eyes $1B with New Autonomous Agent Update",
-    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "description": "【AI科技】 Anton Osika, founder of the vibe coding platform Lovable, announced that the company has reached $100 million in annual recurring revenue (ARR) wit...",
     "original_description": "Anton Osika, founder of the vibe coding platform Lovable, announced that the company has reached $100 million in annual recurring revenue (ARR) within eight months of launch — a pace faster than companies like OpenAI, Cursor, and Wiz, according to Osika.",
     "url": "https://analyticsindiamag.com/ai-news-updates/lovable-hits-100m-arr-in-8-months-eyes-1b-with-new-autonomous-agent-update/",
     "source": "Analytics India Magazine",
@@ -129,14 +528,14 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748651",
+    "added_time": "2025-07-24T00:19:53.360733",
     "search_category": "AI科技"
   },
   {
     "id": "fc3175e26f68",
     "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
     "original_title": "Roman shoppers buy this 'flattering' stretch jacket in more than one colour",
-    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
+    "description": "【财经动态】 'I love these jackets - I have them in several colours and will be ordering a white one as soon as my size is in stock'",
     "original_description": "'I love these jackets - I have them in several colours and will be ordering a white one as soon as my size is in stock'",
     "url": "https://www.devonlive.com/whats-on/shopping/roman-shoppers-buy-flattering-stretch-10367584",
     "source": "Devon Live",
@@ -148,14 +547,14 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748712",
+    "added_time": "2025-07-24T00:19:53.360902",
     "search_category": "经济金融"
   },
   {
     "id": "b33ad438012d",
     "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
     "original_title": "PCMC chief calls for use of AI, digital literacy in schools",
-    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "description": "【AI科技】 Referring to initiatives like Spandan, QCI assessment, and Bharat Darshan, Shekhar Singh highlighted how such programmes have contributed positivel...",
     "original_description": "Referring to initiatives like Spandan, QCI assessment, and Bharat Darshan, Shekhar Singh highlighted how such programmes have contributed positively to student learning outcomes and holistic growth.",
     "url": "https://indianexpress.com/article/cities/pune/pcmc-chief-calls-for-use-of-ai-digital-literacy-in-schools-10145148/",
     "source": "The Indian Express",
@@ -167,14 +566,14 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748656",
+    "added_time": "2025-07-24T00:19:53.360740",
     "search_category": "AI科技"
   },
   {
     "id": "3c9a4052a3f0",
     "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
     "original_title": "Krispy Kreme, GoPro and Beyond Meat surge as the latest meme stock revival rolls on",
-    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
+    "description": "【财经动态】 Investors who buy now bet that the momentum will continue, but can suddenly shift",
     "original_description": "Investors who buy now bet that the momentum will continue, but can suddenly shift",
     "url": "https://www.theglobeandmail.com/investing/article-krispy-kreme-gopro-and-beyond-meat-surge-as-the-latest-meme-stock/",
     "source": "The Globe and Mail",
@@ -186,52 +585,14 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748718",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "d41dfb0b1fac",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "Market Factors: My stock valuation bible",
-    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
-    "original_description": "The valuation cheat sheet I’ve been using for almost a decade",
-    "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-market-factors-my-stock-valuation-bible/",
-    "source": "The Globe and Mail",
-    "publishedAt": "2025-07-23T14:42:59Z",
-    "image": "https://www.theglobeandmail.com/resizer/v2/YIDP3Y5ZX5DX3OUSZPGMBLPI54?auth=f5617f75a164956e1526a5a89cb1bbb5e5dd1b37a2532267613cfb5299ecb093&width=1200&height=800&quality=80&smart=true",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748723",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "9cd1cbda63a0",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "U.S. stock market concentration risks emerge as megacaps report earnings",
-    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
-    "original_description": "Top 10 S&P 500 weights hit 37.3% near January record, Nvidia weight greater than five S&P 500 sectors",
-    "url": "https://www.theglobeandmail.com/investing/article-us-stock-market-concentration-risks-emerge-as-megacaps-report-earnings/",
-    "source": "The Globe and Mail",
-    "publishedAt": "2025-07-23T14:42:05Z",
-    "image": "https://www.theglobeandmail.com/resizer/v2/7U75AXW7TRFMHA52UWQPB6Q77E.jpg?auth=0529e21057329ab817587e3a6b5385a2d0682c71503f781068756aa8c87c430b&width=1200&height=800&quality=80&smart=true",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748735",
+    "added_time": "2025-07-24T00:19:53.360908",
     "search_category": "经济金融"
   },
   {
     "id": "b92603e44d4c",
     "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
     "original_title": "TECNO Spark 40 Pro+ Review: Surprisingly Capable, Unapologetically Budget",
-    "description": "人工智能技术领域的重要发展动态，涵盖最新技术突破、产品发布、研发进展等前沿资讯，为AI行业从业者和关注者提供专业的技术洞察。",
+    "description": "【AI科技】 Hands-on review of the TECNO Spark 40 Pro+ — a feature-packed budget phone with AI, AMOLED, 144Hz, and real surprises.",
     "original_description": "Hands-on review of the TECNO Spark 40 Pro+ — a feature-packed budget phone with AI, AMOLED, 144Hz, and real surprises.",
     "url": "https://www.gizchina.com/2025/07/23/tecno-spark-40-pro-review-surprisingly-capable-unapologetically-budget/",
     "source": "Gizchina.com",
@@ -243,33 +604,33 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748665",
+    "added_time": "2025-07-24T00:19:53.360746",
     "search_category": "AI科技"
   },
   {
     "id": "dee55e812d8e",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
+    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
     "original_title": "I'd Put My Entire 2025 TFSA Contribution Into This AI Stock Down 31% From its Peak",
-    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
+    "description": "【AI科技】 Tempus AI is a growth stock that is down 31% from all-time highs. Here's why TEM AI stock could be a part of your TFSA portfolio right now.",
     "original_description": "Tempus AI is a growth stock that is down 31% from all-time highs. Here's why TEM AI stock could be a part of your TFSA portfolio right now.",
     "url": "https://www.fool.ca/2025/07/23/id-put-my-entire-2025-tfsa-contribution-into-this-ai-stock-down-31-from-its-peak/",
     "source": "The Motley Fool Canada",
     "publishedAt": "2025-07-23T14:30:00Z",
     "image": "https://www.fool.ca/wp-content/uploads/2024/08/the-letters-ai-glowing-on-a-circuit-board-processor-1200x675.jpg",
     "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748742",
-    "search_category": "经济金融"
+    "added_time": "2025-07-24T00:19:53.360751",
+    "search_category": "AI科技"
   },
   {
     "id": "dc856b5a6eeb",
     "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
     "original_title": "Xbox Lowers The Outer Worlds 2's Price From $80 To $70",
-    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
+    "description": "【游戏资讯】 In July, Xbox announced that Obsidian's sci-fi RPG would be the first Xbox-published game to cost $80",
     "original_description": "In July, Xbox announced that Obsidian's sci-fi RPG would be the first Xbox-published game to cost $80",
     "url": "https://kotaku.com/xbox-outer-worlds-2-price-80-lowered-70-pre-order-pc-1851786791",
     "source": "Kotaku",
@@ -281,14 +642,14 @@
       "icon": "🎯"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748680",
+    "added_time": "2025-07-24T00:19:53.360782",
     "search_category": "游戏科技"
   },
   {
     "id": "7389cf1485fa",
     "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
     "original_title": "Obsidian already subtly teasing Grounded 2 will head to PS5",
-    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
+    "description": "【游戏资讯】 Grounded 2 is about to launch into Game Preview on Xbox and PC, but what about PS5 and Switch? Well, the first game went there, didn't it?",
     "original_description": "Grounded 2 is about to launch into Game Preview on Xbox and PC, but what about PS5 and Switch? Well, the first game went there, didn't it?",
     "url": "https://www.windowscentral.com/gaming/grounded-2-will-only-be-on-xbox-and-pc-at-least-for-now-but-obsidian-is-already-subtly-hinting-it-wont-be-this-way-forever",
     "source": "Windows Central",
@@ -300,33 +661,14 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748685",
+    "added_time": "2025-07-24T00:19:53.360791",
     "search_category": "游戏科技"
-  },
-  {
-    "id": "36e54b82cd1d",
-    "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
-    "original_title": "Good News For Mumbai: Tansa Becomes Third Lake To Overflow After Incessant Rain",
-    "description": "全球经济金融市场的重要动态分析，涵盖股市行情、加密货币、金融科技、投资策略等领域，为投资者和金融从业者提供及时的市场资讯。",
-    "original_description": "Tansa Lake, one of Mumbai's key water sources, overflowed due to strong rainfall, boosting the city's water stock and ensuring uninterrupted supply.",
-    "url": "https://www.news18.com/cities/mumbai-news/good-news-for-mumbai-tansa-becomes-third-lake-to-overflow-after-incessant-rain-ws-kl-9459172.html",
-    "source": "News18",
-    "publishedAt": "2025-07-23T14:12:06Z",
-    "image": "https://images.news18.com/ibnlive/uploads/2025/07/new-6-2025-07-51876d2d791166e4d8d1ccc7d8dfae7a-16x9.jpg",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748750",
-    "search_category": "经济金融"
   },
   {
     "id": "27b38bc4611a",
     "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
     "original_title": "Microsoft concedes that The Outer Worlds 2 was too expensive",
-    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
+    "description": "【游戏资讯】 Xbox controversially raised the base price of its mainline games to $80 in an announcement a few weeks ago.",
     "original_description": "Xbox controversially raised the base price of its mainline games to $80 in an announcement a few weeks ago. Now, it seems to be backtracking, at least for the rest of 2025. Good, I say.",
     "url": "https://www.windowscentral.com/gaming/xbox/microsoft-concedes-that-the-outer-worlds-2-retail-price-was-too-high",
     "source": "Windows Central",
@@ -338,14 +680,14 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748692",
+    "added_time": "2025-07-24T00:19:53.360800",
     "search_category": "游戏科技"
   },
   {
     "id": "e0c002eafdb6",
     "title": "🎲 任天堂游戏新作发布，Switch平台内容生态丰富",
     "original_title": "Nintendo Switch 2 Beat the PS4 to Become the Fastest-Selling Gaming Hardware In US History",
-    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
+    "description": "【游戏资讯】 The Nintendo Switch 2 is officially the fastest-selling piece of video game hardware in the U.S. in video game industry history.",
     "original_description": "The Nintendo Switch 2 is officially the fastest-selling piece of video game hardware in the U.S. in video game industry history.",
     "url": "https://wccftech.com/nintendo-switch-2-fastest-selling-gaming-hardware-us-history/",
     "source": "Wccftech",
@@ -357,14 +699,14 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748697",
+    "added_time": "2025-07-24T00:19:53.360806",
     "search_category": "游戏科技"
   },
   {
     "id": "6c39cb8c49f9",
     "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
     "original_title": "The Steam Deck 2 and a home console are reportedly in the works – and Sony may be helping to turn the handheld into the portable PlayStation game device I really want",
-    "description": "电子游戏行业的最新发展动态，包括游戏主机更新、新作发布、电竞赛事、游戏技术创新等内容，全面覆盖游戏产业链各个环节的重要信息。",
+    "description": "【游戏资讯】 Please don't get any PS Portal ideas from Sony, Valve...",
     "original_description": "Please don't get any PS Portal ideas from Sony, Valve...",
     "url": "https://www.techradar.com/gaming/steam-deck/the-steam-deck-2-and-a-home-console-are-reportedly-in-the-works-and-sony-may-be-helping-to-turn-the-handheld-into-the-portable-playstation-game-device-i-really-want",
     "source": "TechRadar",
@@ -376,7 +718,45 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T00:02:15.748704",
+    "added_time": "2025-07-24T00:19:53.360814",
+    "search_category": "游戏科技"
+  },
+  {
+    "id": "6f920efb31fa",
+    "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
+    "original_title": "PS5 System Update Lets DualSense Controllers Pair Across Multiple Devices",
+    "description": "【游戏资讯】 Fans of the Sony PlayStation and its excellent DualSense controller have some new features to explore in a beta update.",
+    "original_description": "Fans of the Sony PlayStation and its excellent DualSense controller have some new features to explore in a beta update.",
+    "url": "https://hothardware.com/news/ps5-system-update-lets-dualsense-controllers-pair-across-multiple",
+    "source": "Hot Hardware",
+    "publishedAt": "2025-07-23T13:50:00Z",
+    "image": "https://images.hothardware.com/contentimages/newsitem/68185/content/ps5-dualsense.jpg",
+    "category": {
+      "name": "PlayStation",
+      "color": "#003087",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360819",
+    "search_category": "游戏科技"
+  },
+  {
+    "id": "652097b6b0e0",
+    "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
+    "original_title": "Seagate's 2TB Storage Expansion Card Is Still Priced to Move for Xbox Gamers Who Missed Prime Day",
+    "description": "【游戏资讯】 The only officially licensed and fully compatible storage drive for the Xbox Series X and Series S is 36% off.",
+    "original_description": "The only officially licensed and fully compatible storage drive for the Xbox Series X and Series S is 36% off.",
+    "url": "https://gizmodo.com/seagates-2tb-storage-expansion-card-is-still-priced-to-move-for-xbox-gamers-who-missed-prime-day-2000632947",
+    "source": "Gizmodo",
+    "publishedAt": "2025-07-23T13:40:17Z",
+    "image": "https://gizmodo.com/app/uploads/2025/03/Seagate-Xbox-Storage-Expansion-Card-2TB-1200x675.jpg",
+    "category": {
+      "name": "Xbox",
+      "color": "#107C10",
+      "icon": "🎯"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T00:19:53.360825",
     "search_category": "游戏科技"
   }
 ]
