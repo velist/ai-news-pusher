@@ -304,24 +304,22 @@ class AppleStyleNewsGenerator:
             --spacing-xl: 32px;
         }}
         
-        @media (prefers-color-scheme: dark) {{
-            :root {{
-                --color-primary: #0A84FF;
-                --color-secondary: #5E5CE6;
-                --color-success: #32D74B;
-                --color-warning: #FF9F0A;
-                --color-error: #FF453A;
-                
-                --bg-primary: #000000;
-                --bg-secondary: #1C1C1E;
-                --bg-tertiary: #2C2C2E;
-                --bg-grouped: #000000;
-                
-                --text-primary: #FFFFFF;
-                --text-secondary: #EBEBF5;
-                --text-tertiary: #EBEBF599;
-                --text-quaternary: #EBEBF526;
-            }}
+        [data-theme="dark"] {{
+            --color-primary: #0A84FF;
+            --color-secondary: #5E5CE6;
+            --color-success: #32D74B;
+            --color-warning: #FF9F0A;
+            --color-error: #FF453A;
+            
+            --bg-primary: #000000;
+            --bg-secondary: #1C1C1E;
+            --bg-tertiary: #2C2C2E;
+            --bg-grouped: #000000;
+            
+            --text-primary: #FFFFFF;
+            --text-secondary: #EBEBF5;
+            --text-tertiary: #EBEBF599;
+            --text-quaternary: #EBEBF526;
         }}
         
         * {{
@@ -337,12 +335,32 @@ class AppleStyleNewsGenerator:
             line-height: 1.47;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
+            transition: all 0.3s ease;
         }}
         
         .container {{
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 var(--spacing-md);
+        }}
+        
+        /* 主题切换按钮 */
+        .theme-toggle {{
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--bg-secondary);
+            border: none;
+            border-radius: 20px;
+            padding: 8px 16px;
+            color: var(--text-primary);
+            cursor: pointer;
+            z-index: 1000;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            box-shadow: var(--shadow-light);
         }}
         
         /* 头部区域 - 简化版 */
@@ -356,6 +374,22 @@ class AppleStyleNewsGenerator:
             z-index: 100;
             backdrop-filter: blur(20px);
             -webkit-backdrop-filter: blur(20px);
+        }}
+        
+        .personal-info {{
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin-bottom: var(--spacing-md);
+            text-align: center;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }}
+        
+        .ai-group-info {{
+            margin-top: var(--spacing-sm);
+            font-weight: 500;
+            color: var(--color-primary);
         }}
         
         .header h1 {{
@@ -592,6 +626,18 @@ class AppleStyleNewsGenerator:
                 grid-template-columns: 1fr;
                 gap: var(--spacing-md);
             }}
+            
+            .theme-toggle {{
+                padding: 8px;
+                border-radius: 50%;
+                width: 40px;
+                height: 40px;
+                justify-content: center;
+            }}
+            
+            .theme-toggle .theme-text {{
+                display: none;
+            }}
         }}
         
         @media (max-width: 480px) {{
@@ -639,9 +685,19 @@ class AppleStyleNewsGenerator:
     </style>
 </head>
 <body>
+    <!-- 主题切换按钮 -->
+    <button class="theme-toggle" onclick="toggleTheme()">
+        <span class="theme-icon">🌙</span>
+        <span class="theme-text">夜间模式</span>
+    </button>
+    
     <!-- 头部 - 简化版 -->
     <header class="header">
         <div class="container">
+            <div class="personal-info">
+                <div>👨‍💻 个人AI资讯整理 | 专注前沿技术分析</div>
+                <div class="ai-group-info">💬 AI交流群 · 欢迎加入：forxy9</div>
+            </div>
             <h1>🤖 AI科技日报</h1>
             <p class="subtitle">{self.today.strftime('%Y年%m月%d日')} · 人工智能前沿资讯</p>
         </div>
@@ -719,8 +775,38 @@ class AppleStyleNewsGenerator:
     </div>
     
     <script>
-        // 分类筛选功能
+        // 主题切换
+        function toggleTheme() {{
+            const body = document.body;
+            const themeIcon = document.querySelector('.theme-icon');
+            const themeText = document.querySelector('.theme-text');
+            
+            if (body.getAttribute('data-theme') === 'dark') {{
+                body.setAttribute('data-theme', 'light');
+                themeIcon.textContent = '🌙';
+                themeText.textContent = '夜间模式';
+                localStorage.setItem('theme', 'light');
+            }} else {{
+                body.setAttribute('data-theme', 'dark');
+                themeIcon.textContent = '☀️';
+                themeText.textContent = '日间模式';
+                localStorage.setItem('theme', 'dark');
+            }}
+        }}
+        
+        // 页面加载时恢复主题
         document.addEventListener('DOMContentLoaded', function() {{
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            const themeIcon = document.querySelector('.theme-icon');
+            const themeText = document.querySelector('.theme-text');
+            
+            if (savedTheme === 'dark') {{
+                document.body.setAttribute('data-theme', 'dark');
+                themeIcon.textContent = '☀️';
+                themeText.textContent = '日间模式';
+            }}
+            
+            // 分类筛选功能
             const tabButtons = document.querySelectorAll('.tab-button');
             const newsCards = document.querySelectorAll('.news-card');
             
@@ -798,23 +884,21 @@ class AppleStyleNewsGenerator:
             --spacing-xl: 32px;
         }}
         
-        @media (prefers-color-scheme: dark) {{
-            :root {{
-                --color-primary: #0A84FF;
-                --color-secondary: #5E5CE6;
-                --color-success: #32D74B;
-                --color-warning: #FF9F0A;
-                --color-error: #FF453A;
-                
-                --bg-primary: #000000;
-                --bg-secondary: #1C1C1E;
-                --bg-tertiary: #2C2C2E;
-                --bg-grouped: #000000;
-                
-                --text-primary: #FFFFFF;
-                --text-secondary: #EBEBF5;
-                --text-tertiary: #EBEBF599;
-            }}
+        [data-theme="dark"] {{
+            --color-primary: #0A84FF;
+            --color-secondary: #5E5CE6;
+            --color-success: #32D74B;
+            --color-warning: #FF9F0A;
+            --color-error: #FF453A;
+            
+            --bg-primary: #000000;
+            --bg-secondary: #1C1C1E;
+            --bg-tertiary: #2C2C2E;
+            --bg-grouped: #000000;
+            
+            --text-primary: #FFFFFF;
+            --text-secondary: #EBEBF5;
+            --text-tertiary: #EBEBF599;
         }}
         
         * {{
@@ -830,12 +914,31 @@ class AppleStyleNewsGenerator:
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
+            transition: all 0.3s ease;
         }}
         
         .container {{
             max-width: 800px;
             margin: 0 auto;
             padding: 0 var(--spacing-md);
+        }}
+        
+        /* 主题切换按钮 */
+        .theme-toggle {{
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--bg-secondary);
+            border: none;
+            border-radius: 20px;
+            padding: 8px 16px;
+            color: var(--text-primary);
+            cursor: pointer;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            box-shadow: var(--shadow-light);
         }}
         
         /* 导航栏 */
@@ -1094,6 +1197,18 @@ class AppleStyleNewsGenerator:
             .navigation {{
                 flex-direction: column;
             }}
+            
+            .theme-toggle {{
+                padding: 8px;
+                border-radius: 50%;
+                width: 40px;
+                height: 40px;
+                justify-content: center;
+            }}
+            
+            .theme-toggle .theme-text {{
+                display: none;
+            }}
         }}
         
         @media (max-width: 480px) {{
@@ -1116,6 +1231,12 @@ class AppleStyleNewsGenerator:
     </style>
 </head>
 <body>
+    <!-- 主题切换按钮 -->
+    <button class="theme-toggle" onclick="toggleTheme()">
+        <span class="theme-icon">🌙</span>
+        <span class="theme-text">夜间模式</span>
+    </button>
+    
     <!-- 导航栏 -->
     <nav class="navbar">
         <div class="container">
@@ -1180,6 +1301,27 @@ class AppleStyleNewsGenerator:
                 <hr class="section-divider">
                 
                 <h2 class="analysis-title">
+                    <span>🤖</span>
+                    <span>AI观点</span>
+                </h2>
+                <div class="analysis-content">
+                    基于当前技术发展趋势，该新闻反映出AI领域的重要变化。从技术角度看，这一发展将推动相关技术栈的进步，影响整个行业生态。建议关注其对现有产品和服务的潜在冲击，以及可能带来的新机遇。
+                </div>
+                
+                <hr class="section-divider">
+                
+                <h2 class="analysis-title">
+                    <span>📈</span>
+                    <span>投资方向</span>
+                </h2>
+                <div class="analysis-content">
+                    <strong>短期关注：</strong>相关概念股可能出现波动，建议关注市场反应和资金流向。<br><br>
+                    <strong>中长期布局：</strong>重点关注技术落地应用、产业化进程和市场接受度。建议关注产业链上下游企业，特别是具备核心技术优势和商业化能力的公司。
+                </div>
+                
+                <hr class="section-divider">
+                
+                <h2 class="analysis-title">
                     <span>📄</span>
                     <span>原文摘要</span>
                 </h2>
@@ -1233,6 +1375,38 @@ class AppleStyleNewsGenerator:
     </div>
     
     <script>
+        // 主题切换
+        function toggleTheme() {{
+            const body = document.body;
+            const themeIcon = document.querySelector('.theme-icon');
+            const themeText = document.querySelector('.theme-text');
+            
+            if (body.getAttribute('data-theme') === 'dark') {{
+                body.setAttribute('data-theme', 'light');
+                themeIcon.textContent = '🌙';
+                if (themeText) themeText.textContent = '夜间模式';
+                localStorage.setItem('theme', 'light');
+            }} else {{
+                body.setAttribute('data-theme', 'dark');
+                themeIcon.textContent = '☀️';
+                if (themeText) themeText.textContent = '日间模式';
+                localStorage.setItem('theme', 'dark');
+            }}
+        }}
+        
+        // 页面加载时恢复主题
+        document.addEventListener('DOMContentLoaded', function() {{
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            const themeIcon = document.querySelector('.theme-icon');
+            const themeText = document.querySelector('.theme-text');
+            
+            if (savedTheme === 'dark') {{
+                document.body.setAttribute('data-theme', 'dark');
+                themeIcon.textContent = '☀️';
+                if (themeText) themeText.textContent = '日间模式';
+            }}
+        }});
+        
         // 分享功能
         function shareArticle() {{
             if (navigator.share) {{
@@ -1270,11 +1444,6 @@ class AppleStyleNewsGenerator:
             const shareText = `${{title}} - ${{url}}`;
             prompt('复制链接分享:', shareText);
         }}
-        
-        // 返回顶部
-        window.addEventListener('scroll', function() {{
-            // 可以添加返回顶部按钮逻辑
-        }});
     </script>
 </body>
 </html>'''

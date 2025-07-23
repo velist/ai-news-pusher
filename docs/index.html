@@ -2,52 +2,71 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🤖 AI科技日报 - 中文AI资讯门户</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>AI科技日报 - 2025年07月23日</title>
+    <link href="https://fonts.googleapis.com/css2?family=-apple-system,BlinkMacSystemFont,SF+Pro+Display:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            /* 颜色变量 */
+            /* 苹果设计系统颜色 */
             --color-primary: #007AFF;
-            --color-success: #10B981;
-            --color-warning: #F59E0B;
-            --color-error: #EF4444;
+            --color-secondary: #5856D6;
+            --color-success: #34C759;
+            --color-warning: #FF9500;
+            --color-error: #FF3B30;
+            --color-gray: #8E8E93;
+            --color-gray2: #AEAEB2;
+            --color-gray3: #C7C7CC;
+            --color-gray4: #D1D1D6;
+            --color-gray5: #E5E5EA;
+            --color-gray6: #F2F2F7;
             
-            /* 背景颜色 */
+            /* 背景色 */
             --bg-primary: #FFFFFF;
             --bg-secondary: #F2F2F7;
             --bg-tertiary: #FFFFFF;
+            --bg-grouped: #F2F2F7;
             
             /* 文字颜色 */
             --text-primary: #000000;
             --text-secondary: #3C3C43;
-            --text-tertiary: #8E8E93;
+            --text-tertiary: #3C3C4399;
+            --text-quaternary: #3C3C4326;
             
-            /* 间距 */
-            --spacing-sm: 8px;
-            --spacing-md: 16px;
-            --spacing-lg: 24px;
-            --spacing-xl: 32px;
+            /* 阴影 */
+            --shadow-light: 0 1px 3px rgba(0, 0, 0, 0.1);
+            --shadow-medium: 0 4px 12px rgba(0, 0, 0, 0.15);
+            --shadow-large: 0 8px 25px rgba(0, 0, 0, 0.15);
             
             /* 圆角 */
             --radius-small: 8px;
             --radius-medium: 12px;
             --radius-large: 16px;
+            --radius-xl: 20px;
             
-            /* 阴影 */
-            --shadow-light: 0 2px 8px rgba(0, 0, 0, 0.05);
-            --shadow-medium: 0 4px 16px rgba(0, 0, 0, 0.1);
+            /* 间距 */
+            --spacing-xs: 4px;
+            --spacing-sm: 8px;
+            --spacing-md: 16px;
+            --spacing-lg: 24px;
+            --spacing-xl: 32px;
         }
         
         [data-theme="dark"] {
             --color-primary: #0A84FF;
+            --color-secondary: #5E5CE6;
+            --color-success: #32D74B;
+            --color-warning: #FF9F0A;
+            --color-error: #FF453A;
+            
             --bg-primary: #000000;
             --bg-secondary: #1C1C1E;
             --bg-tertiary: #2C2C2E;
+            --bg-grouped: #000000;
+            
             --text-primary: #FFFFFF;
             --text-secondary: #EBEBF5;
-            --text-tertiary: #8E8E93;
-            --shadow-light: 0 2px 8px rgba(255, 255, 255, 0.05);
-            --shadow-medium: 0 4px 16px rgba(255, 255, 255, 0.1);
+            --text-tertiary: #EBEBF599;
+            --text-quaternary: #EBEBF526;
         }
         
         * {
@@ -57,10 +76,12 @@
         }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-            background-color: var(--bg-secondary);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: var(--bg-grouped);
             color: var(--text-primary);
-            line-height: 1.6;
+            line-height: 1.47;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
             transition: all 0.3s ease;
         }
         
@@ -70,16 +91,7 @@
             padding: 0 var(--spacing-md);
         }
         
-        .header {
-            background-color: var(--bg-primary);
-            padding: var(--spacing-lg) 0;
-            text-align: center;
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            box-shadow: var(--shadow-light);
-        }
-        
+        /* 主题切换按钮 */
         .theme-toggle {
             position: fixed;
             top: 20px;
@@ -98,91 +110,142 @@
             box-shadow: var(--shadow-light);
         }
         
+        /* 头部区域 - 简化版 */
+        .header {
+            background-color: var(--bg-primary);
+            padding: var(--spacing-lg) 0;
+            text-align: center;
+            border-bottom: 0.5px solid var(--color-gray5);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+        }
+        
+        .personal-info {
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin-bottom: var(--spacing-md);
+            text-align: center;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+        
+        .ai-group-info {
+            margin-top: var(--spacing-sm);
+            font-weight: 500;
+            color: var(--color-primary);
+        }
+        
         .header h1 {
             font-size: 2rem;
             font-weight: 700;
-            margin-bottom: var(--spacing-sm);
             color: var(--text-primary);
+            margin-bottom: var(--spacing-sm);
         }
         
-        .header-subtitle {
+        .header .subtitle {
+            font-size: 0.9rem;
             color: var(--text-secondary);
-            font-size: 1rem;
+            font-weight: 400;
+        }
+        
+        /* 分类标签栏 */
+        .tab-container {
+            background-color: var(--bg-primary);
+            padding: var(--spacing-md) 0;
+            border-bottom: 0.5px solid var(--color-gray5);
+            position: sticky;
+            top: 72px;
+            z-index: 90;
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
         }
         
         .tabs {
-            background-color: var(--bg-primary);
-            padding: var(--spacing-md) 0;
+            display: flex;
+            gap: var(--spacing-sm);
             overflow-x: auto;
-            white-space: nowrap;
-            box-shadow: var(--shadow-light);
+            padding: 0 var(--spacing-md);
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
         }
         
         .tabs::-webkit-scrollbar {
-            height: 4px;
-        }
-        
-        .tabs::-webkit-scrollbar-track {
-            background: var(--bg-secondary);
-        }
-        
-        .tabs::-webkit-scrollbar-thumb {
-            background: var(--text-tertiary);
-            border-radius: 2px;
+            display: none;
         }
         
         .tab-button {
-            display: inline-flex;
+            display: flex;
             align-items: center;
-            gap: var(--spacing-sm);
+            gap: var(--spacing-xs);
             padding: var(--spacing-sm) var(--spacing-md);
-            margin-right: var(--spacing-sm);
-            border: none;
-            border-radius: var(--radius-medium);
             background-color: var(--bg-secondary);
+            border: none;
+            border-radius: var(--radius-large);
+            font-size: 0.875rem;
             color: var(--text-secondary);
             cursor: pointer;
-            font-size: 0.875rem;
-            font-weight: 500;
-            transition: all 0.2s ease;
             white-space: nowrap;
+            transition: all 0.2s ease;
+            min-height: 36px;
         }
         
         .tab-button.active {
             background-color: var(--color-primary);
             color: white;
+            font-weight: 600;
         }
         
-        .tab-button:hover:not(.active) {
-            background-color: var(--bg-tertiary);
+        .tab-button:hover {
+            background-color: var(--color-gray5);
+        }
+        
+        .tab-button.active:hover {
+            background-color: var(--color-primary);
+        }
+        
+        .tab-icon {
+            font-size: 1rem;
         }
         
         .tab-count {
             background-color: rgba(255, 255, 255, 0.2);
-            color: currentColor;
-            padding: 2px 6px;
             border-radius: 10px;
+            padding: 2px 6px;
             font-size: 0.75rem;
+            font-weight: 600;
+            min-width: 20px;
+            text-align: center;
         }
         
+        .tab-button.active .tab-count {
+            background-color: rgba(255, 255, 255, 0.3);
+        }
+        
+        /* 新闻网格 */
         .content-area {
             padding: var(--spacing-lg) 0;
         }
         
         .news-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-            gap: var(--spacing-lg);
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: var(--spacing-md);
         }
         
         .news-card {
             background-color: var(--bg-tertiary);
             border-radius: var(--radius-large);
+            overflow: hidden;
             box-shadow: var(--shadow-light);
             transition: all 0.3s ease;
-            cursor: pointer;
-            overflow: hidden;
+            border: 0.5px solid var(--color-gray5);
             position: relative;
+            cursor: pointer;
         }
         
         .news-card:hover {
@@ -190,41 +253,9 @@
             box-shadow: var(--shadow-medium);
         }
         
-        .news-card.hidden {
-            display: none;
-        }
-        
-        .priority-indicator {
-            width: 3px;
-            height: 100%;
-            position: absolute;
-            left: 0;
-            top: 0;
-        }
-        
-        .news-card.priority-high .priority-indicator {
-            background-color: var(--color-error);
-        }
-        
-        .news-card.priority-medium .priority-indicator {
-            background-color: var(--color-warning);
-        }
-        
-        .news-card.priority-low .priority-indicator {
-            background-color: var(--color-success);
-        }
-        
-        .importance-stars {
-            position: absolute;
-            top: var(--spacing-sm);
-            right: var(--spacing-sm);
-            display: flex;
-            gap: 2px;
-        }
-        
-        .star {
-            color: #FFD700;
-            font-size: 0.75rem;
+        .news-card:active {
+            transform: translateY(0px);
+            transition: all 0.1s ease;
         }
         
         .card-header {
@@ -234,12 +265,12 @@
         .category-badge {
             display: inline-flex;
             align-items: center;
-            gap: var(--spacing-sm);
-            padding: var(--spacing-sm);
-            border-radius: var(--radius-medium);
+            gap: var(--spacing-xs);
+            padding: var(--spacing-xs) var(--spacing-sm);
+            border-radius: var(--radius-small);
             font-size: 0.75rem;
             font-weight: 600;
-            margin-bottom: var(--spacing-md);
+            margin-bottom: var(--spacing-sm);
         }
         
         .news-title {
@@ -264,15 +295,12 @@
             align-items: center;
         }
         
-        .news-meta {
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
-        }
-        
-        .source, .publish-date {
+        .source {
             font-size: 0.8125rem;
             color: var(--text-tertiary);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-xs);
         }
         
         .read-more {
@@ -281,276 +309,223 @@
             padding: var(--spacing-sm) var(--spacing-md);
             border-radius: var(--radius-medium);
             text-decoration: none;
-            font-size: 0.875rem;
+            font-size: 0.8125rem;
             font-weight: 600;
-            transition: opacity 0.2s ease;
+            transition: all 0.2s ease;
+            pointer-events: none; /* 防止事件冒泡 */
         }
         
-        .read-more:hover {
-            opacity: 0.8;
+        .importance-stars {
+            position: absolute;
+            top: var(--spacing-md);
+            right: var(--spacing-md);
+            display: flex;
+            gap: 2px;
         }
         
+        .star {
+            color: var(--color-warning);
+            font-size: 0.75rem;
+        }
+        
+        /* 优先级指示器 */
+        .priority-indicator {
+            width: 3px;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            border-top-left-radius: var(--radius-large);
+            border-bottom-left-radius: var(--radius-large);
+        }
+        
+        .news-card.priority-high .priority-indicator {
+            background-color: var(--color-error);
+        }
+        
+        .news-card.priority-medium .priority-indicator {
+            background-color: var(--color-warning);
+        }
+        
+        .news-card.priority-low .priority-indicator {
+            background-color: var(--color-success);
+        }
+        
+        /* 响应式设计 */
         @media (max-width: 768px) {
+            .container {
+                padding: 0 var(--spacing-md);
+            }
+            
+            .header {
+                padding: var(--spacing-md) 0;
+            }
+            
+            .header h1 {
+                font-size: 1.75rem;
+            }
+            
+            .tab-container {
+                top: 68px;
+            }
+            
             .news-grid {
                 grid-template-columns: 1fr;
                 gap: var(--spacing-md);
             }
             
+            .theme-toggle {
+                padding: 8px;
+                border-radius: 50%;
+                width: 40px;
+                height: 40px;
+                justify-content: center;
+            }
+            
+            .theme-toggle .theme-text {
+                display: none;
+            }
+        }
+        
+        @media (max-width: 480px) {
             .container {
                 padding: 0 var(--spacing-sm);
             }
             
-            .header h1 {
-                font-size: 1.5rem;
+            .tabs {
+                padding: 0 var(--spacing-sm);
             }
+            
+            .news-grid {
+                gap: var(--spacing-sm);
+            }
+            
+            .card-header, .card-footer {
+                padding: var(--spacing-sm);
+            }
+            
+            .card-footer {
+                padding-top: 0;
+            }
+        }
+        
+        /* 隐藏类 */
+        .hidden {
+            display: none !important;
+        }
+        
+        /* 动画 */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .news-card {
+            animation: fadeInUp 0.6s ease forwards;
         }
     </style>
 </head>
 <body>
+    <!-- 主题切换按钮 -->
     <button class="theme-toggle" onclick="toggleTheme()">
         <span class="theme-icon">🌙</span>
         <span class="theme-text">夜间模式</span>
     </button>
     
-    <div class="header">
+    <!-- 头部 - 简化版 -->
+    <header class="header">
         <div class="container">
+            <div class="personal-info">
+                <div>👨‍💻 个人AI资讯整理 | 专注前沿技术分析</div>
+                <div class="ai-group-info">💬 AI交流群 · 欢迎加入：forxy9</div>
+            </div>
             <h1>🤖 AI科技日报</h1>
-            <p class="header-subtitle">2025年07月23日 · 人工智能前沿资讯</p>
+            <p class="subtitle">2025年07月23日 · 人工智能前沿资讯</p>
         </div>
-    </div>
+    </header>
     
-    <div class="tabs">
+    <!-- 分类标签栏 -->
+    <div class="tab-container">
         <div class="container">
-            <button class="tab-button active" data-category="all">
-                <span class="tab-icon">📱</span>
-                <span class="tab-text">全部</span>
-                <span class="tab-count">10</span>
+            <div class="tabs">
+                <button class="tab-button active" data-category="all">
+                    <span class="tab-icon">📱</span>
+                    <span class="tab-text">全部</span>
+                    <span class="tab-count">2</span>
+                </button>
+                
+            <button class="tab-button active" data-category="OpenAI动态">
+                <span class="tab-icon">🤖</span>
+                <span class="tab-text">OpenAI动态</span>
+                <span class="tab-count">1</span>
             </button>
-            
-            <button class="tab-button active" data-category="谷歌AI">
+            <button class="tab-button " data-category="谷歌AI">
                 <span class="tab-icon">🔍</span>
                 <span class="tab-text">谷歌AI</span>
-                <span class="tab-count">4</span>
-            </button>
-            <button class="tab-button " data-category="投资动态">
-                <span class="tab-icon">💰</span>
-                <span class="tab-text">投资动态</span>
                 <span class="tab-count">1</span>
             </button>
-            <button class="tab-button " data-category="AI资讯">
-                <span class="tab-icon">📱</span>
-                <span class="tab-text">AI资讯</span>
-                <span class="tab-count">4</span>
-            </button>
-            <button class="tab-button " data-category="微软AI">
-                <span class="tab-icon">💼</span>
-                <span class="tab-text">微软AI</span>
-                <span class="tab-count">1</span>
-            </button>
+            </div>
         </div>
     </div>
     
+    <!-- 内容区域 -->
     <div class="container">
         <div class="content-area">
             <div class="news-grid">
-            <article class="news-card priority-low" data-category="谷歌AI" 
-                     onclick="window.location.href='news/news_0.html'">
+            <article class="news-card priority-high" data-category="OpenAI动态" 
+                     onclick="window.location.href='news/news_0.html'" 
+                     style="animation-delay: 0.0s;">
                 <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
+                <div class="importance-stars">
+                    <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                </div>
                 <div class="card-header">
-                    <div class="category-badge" style="background-color: #3B82F6; color: white;">
+                    <div class="category-badge" style="background-color: var(--color-success); color: white;">
+                        <span>🤖</span>
+                        <span>OpenAI动态</span>
+                    </div>
+                    <h2 class="news-title">🚀 重大突破：OpenAI Announces GPT-5 Revolutionary Breakthrough</h2>
+                    <p class="news-description">OpenAI reveals the next generation of AI with unprecedented capabilities in reasoning and multimodal understanding.</p>
+                </div>
+                <div class="card-footer">
+                    <div class="source">
+                        <span>📰</span>
+                        <span>TechCrunch</span>
+                    </div>
+                    <div class="read-more">
+                        查看详情
+                    </div>
+                </div>
+            </article>
+            <article class="news-card priority-high" data-category="谷歌AI" 
+                     onclick="window.location.href='news/news_1.html'" 
+                     style="animation-delay: 0.05s;">
+                <div class="priority-indicator"></div>
+                <div class="importance-stars">
+                    <span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span>
+                </div>
+                <div class="card-header">
+                    <div class="category-badge" style="background-color: var(--color-primary); color: white;">
                         <span>🔍</span>
                         <span>谷歌AI</span>
                     </div>
-                    <h2 class="news-title">🔍 谷歌AI：Gemini 2.5 Flash-Lite高性价比模型正式发布</h2>
-                    <p class="news-description">谷歌发布最新Gemini 2.5 Flash-Lite模型，在保证高性能的同时大幅降低使用成本，每百万token输入仅需0.1美元。</p>
+                    <h2 class="news-title">📰 AI资讯：谷歌 Bard Gets Major Update with New Features</h2>
+                    <p class="news-description">谷歌 enhances Bard with improved conversational abilities and integration with more services.</p>
                 </div>
                 <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Analytics India Magazine</div>
-                        <div class="publish-date">🕒 2025-07-23 00:54</div>
+                    <div class="source">
+                        <span>📰</span>
+                        <span>The Verge</span>
                     </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="投资动态" 
-                     onclick="window.location.href='news/news_1.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #EF4444; color: white;">
-                        <span>💰</span>
-                        <span>投资动态</span>
+                    <div class="read-more">
+                        查看详情
                     </div>
-                    <h2 class="news-title">💰 投资动态：AI概念股普跌，摩根士丹利推荐三只财报前潜力股</h2>
-                    <p class="news-description">AI板块今日普遍下跌，但投资专家认为这是短期调整，推荐关注财报表现优异的三只核心标的。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 CNBC</div>
-                        <div class="publish-date">🕒 2025-07-23 00:21</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_2.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：软银Stargate项目调整战略，年底前建设小型数据中心</h2>
-                    <p class="news-description">软银支持的Stargate项目调整雄心勃勃的计划，改为年底前在俄亥俄州建设小型数据中心。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 The Manila Times</div>
-                        <div class="publish-date">🕒 2025-07-23 00:20</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="谷歌AI" 
-                     onclick="window.location.href='news/news_3.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #3B82F6; color: white;">
-                        <span>🔍</span>
-                        <span>谷歌AI</span>
-                    </div>
-                    <h2 class="news-title">🔍 谷歌AI：微软大举挖角谷歌DeepMind人才，AI人才争夺战加剧</h2>
-                    <p class="news-description">微软人工智能部门在前DeepMind联合创始人Mustafa Suleyman领导下快速扩张，大举招募谷歌AI人才。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 CNBC</div>
-                        <div class="publish-date">🕒 2025-07-23 00:17</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="微软AI" 
-                     onclick="window.location.href='news/news_4.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #8B5CF6; color: white;">
-                        <span>💼</span>
-                        <span>微软AI</span>
-                    </div>
-                    <h2 class="news-title">💼 微软AI：微软采用地下储碳技术，抵消AI数据中心碳排放</h2>
-                    <p class="news-description">微软人工智能部门在前DeepMind联合创始人Mustafa Suleyman领导下快速扩张，大举招募谷歌AI人才。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 TechSpot</div>
-                        <div class="publish-date">🕒 2025-07-23 00:14</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="谷歌AI" 
-                     onclick="window.location.href='news/news_5.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #3B82F6; color: white;">
-                        <span>🔍</span>
-                        <span>谷歌AI</span>
-                    </div>
-                    <h2 class="news-title">🔍 谷歌AI：全面解析谷歌AI Pro与Ultra版本功能差异</h2>
-                    <p class="news-description">谷歌发布最新Gemini 2.5 Flash-Lite模型，在保证高性能的同时大幅降低使用成本，每百万token输入仅需0.1美元。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 9to5Google</div>
-                        <div class="publish-date">🕒 2025-07-23 00:14</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="谷歌AI" 
-                     onclick="window.location.href='news/news_6.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #3B82F6; color: white;">
-                        <span>🔍</span>
-                        <span>谷歌AI</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：数学奥赛人类险胜AI，谷歌OpenAI模型首次达金牌水平</h2>
-                    <p class="news-description">在国际数学竞赛中，人类选手险胜AI程序，这是AI首次在该赛事中达到金牌水平，显示人工智能数学推理能力快速提升。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 The Manila Times</div>
-                        <div class="publish-date">🕒 2025-07-23 00:10</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_7.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：年度数学奥林匹克人类获胜，但AI正在快速追赶</h2>
-                    <p class="news-description">在国际数学竞赛中，人类选手险胜AI程序，这是AI首次在该赛事中达到金牌水平，显示人工智能数学推理能力快速提升。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 CBS News</div>
-                        <div class="publish-date">🕒 2025-07-23 00:06</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_8.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：Composio Raises $25 Million to Help AI Agents Learn from Experience</h2>
-                    <p class="news-description">专注AI智能体技术的Composio公司获得Lightspeed领投的2500万美元A轮融资，总融资额达2900万美元。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Analytics India Magazine</div>
-                        <div class="publish-date">🕒 2025-07-23 00:03</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
-                </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_9.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：荷兰推出AI梦境翻译设备，可视化回放用户梦境</h2>
-                    <p class="news-description">荷兰设计工作室推出革命性AI梦境记录设备，能将用户梦境转换为可视化图像进行回放。</p>
-                </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 New York Post</div>
-                        <div class="publish-date">🕒 2025-07-22 23:59</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
                 </div>
             </article>
             </div>
@@ -589,10 +564,11 @@
                 themeText.textContent = '日间模式';
             }
             
-            // 标签切换功能
+            // 分类筛选功能
             const tabButtons = document.querySelectorAll('.tab-button');
             const newsCards = document.querySelectorAll('.news-card');
             
+            // 分类筛选
             tabButtons.forEach(button => {
                 button.addEventListener('click', function() {
                     const category = this.dataset.category;
@@ -601,10 +577,11 @@
                     tabButtons.forEach(btn => btn.classList.remove('active'));
                     this.classList.add('active');
                     
-                    // 筛选卡片
-                    newsCards.forEach(card => {
+                    // 筛选新闻卡片
+                    newsCards.forEach((card, index) => {
                         if (category === 'all' || card.dataset.category === category) {
                             card.classList.remove('hidden');
+                            card.style.animationDelay = (index * 0.05) + 's';
                         } else {
                             card.classList.add('hidden');
                         }

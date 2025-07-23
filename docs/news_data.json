@@ -1,172 +1,40 @@
 [
   {
     "id": "news_0",
-    "title": "🔍 谷歌AI：Gemini 2.5 Flash-Lite高性价比模型正式发布",
-    "original_title": "Google's Fastest and Most Cost-Effective AI Model Is Generally Available",
-    "description": "谷歌发布最新Gemini 2.5 Flash-Lite模型，在保证高性能的同时大幅降低使用成本，每百万token输入仅需0.1美元。",
-    "original_description": "The stable variant of the Gemini 2.5 Flash-Lite is now available, and costs $0.1 and $0.4 per million input and output tokens, respectively.",
-    "url": "https://analyticsindiamag.com/ai-news-updates/googles-fastest-and-most-cost-effective-ai-model-is-generally-available/",
-    "source": "Analytics India Magazine",
-    "publishedAt": "2025-07-22T16:54:45Z",
-    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/04/gemini.jpg",
+    "title": "🚀 重大突破：OpenAI Announces GPT-5 Revolutionary Breakthrough",
+    "original_title": "OpenAI Announces GPT-5 Revolutionary Breakthrough",
+    "description": "OpenAI reveals the next generation of AI with unprecedented capabilities in reasoning and multimodal understanding.",
+    "original_description": "OpenAI reveals the next generation of AI with unprecedented capabilities in reasoning and multimodal understanding.",
+    "url": "https://example.com/news1",
+    "source": "TechCrunch",
+    "publishedAt": "2024-01-20T08:00:00Z",
+    "image": "",
     "category": {
-      "name": "谷歌AI",
-      "color": "#3B82F6",
-      "icon": "🔍"
+      "name": "OpenAI动态",
+      "color": "#34C759",
+      "icon": "🤖"
     },
-    "importance": 1
+    "importance": 5,
+    "china_analysis": "**技术影响：** 对国内大模型厂商形成竞争压力，推动技术创新升级。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
+    "investment_insight": "**相关概念股：** 科大讯飞、汉王科技、海天瑞声等AI概念股可能受益。"
   },
   {
     "id": "news_1",
-    "title": "💰 投资动态：AI概念股普跌，摩根士丹利推荐三只财报前潜力股",
-    "original_title": "Why AI stocks are down, plus 3 names Morgan Stanley likes pre-earnings",
-    "description": "AI板块今日普遍下跌，但投资专家认为这是短期调整，推荐关注财报表现优异的三只核心标的。",
-    "original_description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "url": "https://www.cnbc.com/2025/07/22/why-ai-stocks-are-down-plus-3-names-morgan-stanley-likes-pre-earnings.html",
-    "source": "CNBC",
-    "publishedAt": "2025-07-22T16:21:27Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108173113-1752716108529-gettyimages-2224675694-20090101250716-99-471951.jpeg?v=1752716195&w=1920&h=1080",
-    "category": {
-      "name": "投资动态",
-      "color": "#EF4444",
-      "icon": "💰"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_2",
-    "title": "📰 AI资讯：软银Stargate项目调整战略，年底前建设小型数据中心",
-    "original_title": "SoftBank, Stargate eye small data center",
-    "description": "软银支持的Stargate项目调整雄心勃勃的计划，改为年底前在俄亥俄州建设小型数据中心。",
-    "original_description": "STARGATE, a multibillion-dollar effort by ChatGPT’s creator OpenAI, SoftBank and Oracle to supercharge US artificial intelligence (AI) ambitions, is now setting the more modest goal of building a small data center by the end of the year, likely in Ohio, the Wall Street Journal reported on Monday.",
-    "url": "https://www.manilatimes.net/2025/07/23/business/foreign-business/softbank-stargate-eye-small-data-center/2154130",
-    "source": "The Manila Times",
-    "publishedAt": "2025-07-22T16:20:00Z",
-    "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_3",
-    "title": "🔍 谷歌AI：微软大举挖角谷歌DeepMind人才，AI人才争夺战加剧",
-    "original_title": "Microsoft poaches Google DeepMind AI talent as it beefs up Copilot",
-    "description": "微软人工智能部门在前DeepMind联合创始人Mustafa Suleyman领导下快速扩张，大举招募谷歌AI人才。",
-    "original_description": "Microsoft's artificial intelligence group has been growing under Mustafa Suleyman, a co-founder of the DeepMind research lab Google acquired years ago.",
-    "url": "https://www.cnbc.com/2025/07/22/microsoft-google-deepmind-ai-talent.html",
-    "source": "CNBC",
-    "publishedAt": "2025-07-22T16:17:39Z",
-    "image": "https://image.cnbcfm.com/api/v1/image/108175219-1753203051931-gettyimages-2207879384-MICROSOFT_COPILOT.jpeg?v=1753203122&w=1920&h=1080",
+    "title": "📰 AI资讯：谷歌 Bard Gets Major Update with New Features",
+    "original_title": "Google Bard Gets Major Update with New Features",
+    "description": "谷歌 enhances Bard with improved conversational abilities and integration with more services.",
+    "original_description": "Google enhances Bard with improved conversational abilities and integration with more services.",
+    "url": "https://example.com/news2",
+    "source": "The Verge",
+    "publishedAt": "2024-01-20T07:30:00Z",
+    "image": "",
     "category": {
       "name": "谷歌AI",
-      "color": "#3B82F6",
+      "color": "#007AFF",
       "icon": "🔍"
     },
-    "importance": 1
-  },
-  {
-    "id": "news_4",
-    "title": "💼 微软AI：微软采用地下储碳技术，抵消AI数据中心碳排放",
-    "original_title": "Microsoft turns to underground waste storage to offset AI's carbon toll",
-    "description": "微软人工智能部门在前DeepMind联合创始人Mustafa Suleyman领导下快速扩张，大举招募谷歌AI人才。",
-    "original_description": "Microsoft has signed a long-term deal with Vaulted Deep to purchase carbon credits in an effort to offset emissions from its growing fleet of AI data centers....",
-    "url": "https://www.techspot.com/news/108756-microsoft-turns-underground-waste-storage-offset-ai-carbon.html",
-    "source": "TechSpot",
-    "publishedAt": "2025-07-22T16:14:31Z",
-    "image": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-22-image-16.jpg",
-    "category": {
-      "name": "微软AI",
-      "color": "#8B5CF6",
-      "icon": "💼"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_5",
-    "title": "🔍 谷歌AI：全面解析谷歌AI Pro与Ultra版本功能差异",
-    "original_title": "What features you get with Google AI Pro and AI Ultra [July 2025]",
-    "description": "谷歌发布最新Gemini 2.5 Flash-Lite模型，在保证高性能的同时大幅降低使用成本，每百万token输入仅需0.1美元。",
-    "original_description": "At I/O 2025, Google One AI Premium (and Gemini Advanced) became Google AI Pro, while a more expensive tier was introduced with AI Ultra.",
-    "url": "https://9to5google.com/2025/07/22/google-ai-pro-ultra-features/",
-    "source": "9to5Google",
-    "publishedAt": "2025-07-22T16:14:00Z",
-    "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Google-AI-Ultra-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "category": {
-      "name": "谷歌AI",
-      "color": "#3B82F6",
-      "icon": "🔍"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_6",
-    "title": "📰 AI资讯：数学奥赛人类险胜AI，谷歌OpenAI模型首次达金牌水平",
-    "original_title": "Humans beat AI gold-level score at top math contest",
-    "description": "在国际数学竞赛中，人类选手险胜AI程序，这是AI首次在该赛事中达到金牌水平，显示人工智能数学推理能力快速提升。",
-    "original_description": "SYDNEY, Australia — Humans beat generative artificial intelligence (AI) models made by Google and OpenAI at a top international mathematics competition, despite the programs reaching gold-level scores for the first time.",
-    "url": "https://www.manilatimes.net/2025/07/23/world/asia-oceania/humans-beat-ai-gold-level-score-at-top-math-contest/2154110",
-    "source": "The Manila Times",
-    "publishedAt": "2025-07-22T16:10:00Z",
-    "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-    "category": {
-      "name": "谷歌AI",
-      "color": "#3B82F6",
-      "icon": "🔍"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_7",
-    "title": "📰 AI资讯：年度数学奥林匹克人类获胜，但AI正在快速追赶",
-    "original_title": "Humans triumph over AI at annual math Olympiad, but the machines are catching up",
-    "description": "在国际数学竞赛中，人类选手险胜AI程序，这是AI首次在该赛事中达到金牌水平，显示人工智能数学推理能力快速提升。",
-    "original_description": "Humans beat AI programs made by Google and OpenAI at an international mathematics competition, but the technology shows some \"very exciting\" progress.",
-    "url": "https://www.cbsnews.com/news/humans-beat-ai-technology-google-openai-math-olympiad-machines-catching-up/",
-    "source": "CBS News",
-    "publishedAt": "2025-07-22T16:06:53Z",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/07/22/e62a8451-2884-4570-a1ed-334e8c51118e/thumbnail/1200x630/d64427a8ba5641f2357d77574e519914/gettyimages-1285191763.jpg",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_8",
-    "title": "📰 AI资讯：Composio Raises $25 Million to Help AI Agents Learn from Experience",
-    "original_title": "Composio Raises $25 Million to Help AI Agents Learn from Experience",
-    "description": "专注AI智能体技术的Composio公司获得Lightspeed领投的2500万美元A轮融资，总融资额达2900万美元。",
-    "original_description": "Agentic artificial intelligence (AI) startup Composio has secured $25 million in Series A funding led by Lightspeed Venture Partners, bringing its total funding to $29 million.",
-    "url": "https://analyticsindiamag.com/ai-news-updates/composio-raises-25-million-to-help-ai-agents-learn-from-experience/",
-    "source": "Analytics India Magazine",
-    "publishedAt": "2025-07-22T16:03:44Z",
-    "image": "https://analyticsindiamag.com/wp-content/uploads/2024/12/How-This-IIT-Bombay-Graduate-is-Helping-AI-Agents-Communicate-1.jpg",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
-  },
-  {
-    "id": "news_9",
-    "title": "📰 AI资讯：荷兰推出AI梦境翻译设备，可视化回放用户梦境",
-    "original_title": "AI device can 'translate' your dreams and play them back for you",
-    "description": "荷兰设计工作室推出革命性AI梦境记录设备，能将用户梦境转换为可视化图像进行回放。",
-    "original_description": "Dutch design studio Modem has introduced its latest project, Dream Recorder. Aptly named, the device allows users to see visual interpretations of their own dreams by harnessing the latest in technology — a video AI model that translates phrases into pictures.",
-    "url": "https://nypost.com/2025/07/22/tech/ai-device-can-translate-your-dreams-and-play-them-back-for-you/",
-    "source": "New York Post",
-    "publishedAt": "2025-07-22T15:59:16Z",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/one-design-studio-introduced-magical-108543638.jpg?quality=75&strip=all&w=1024",
-    "category": {
-      "name": "AI资讯",
-      "color": "#6B7280",
-      "icon": "📱"
-    },
-    "importance": 1
+    "importance": 4,
+    "china_analysis": "**技术影响：** 加速国内搜索和AI助手产品迭代，影响百度、阿里等公司战略。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
+    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
   }
 ]

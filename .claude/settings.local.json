@@ -12,7 +12,10 @@
       "Bash(python:*)",
       "Bash(git add .)",
       "Bash(git checkout:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(cd \"/mnt/d/推送测试\")",
+      "Bash(python3 optimized_html_generator.py)",
+      "Bash(ls:*)"
     ],
     "deny": []
   }
