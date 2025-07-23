@@ -32,7 +32,7 @@ jobs:
         FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
         FEISHU_TABLE_URL: ${{ secrets.FEISHU_TABLE_URL }}
       run: |
-        python super_ultra_main.py
+        python complete_main.py
         
     - name: 提交H5新闻页面
       if: always()

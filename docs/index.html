@@ -6,34 +6,22 @@
     <title>🤖 AI科技日报 - 中文AI资讯门户</title>
     <style>
         :root {
-            /* 颜色变量 */
             --color-primary: #007AFF;
             --color-success: #10B981;
             --color-warning: #F59E0B;
             --color-error: #EF4444;
-            
-            /* 背景颜色 */
             --bg-primary: #FFFFFF;
             --bg-secondary: #F2F2F7;
             --bg-tertiary: #FFFFFF;
-            
-            /* 文字颜色 */
             --text-primary: #000000;
             --text-secondary: #3C3C43;
             --text-tertiary: #8E8E93;
-            
-            /* 间距 */
             --spacing-sm: 8px;
             --spacing-md: 16px;
             --spacing-lg: 24px;
-            --spacing-xl: 32px;
-            
-            /* 圆角 */
             --radius-small: 8px;
             --radius-medium: 12px;
             --radius-large: 16px;
-            
-            /* 阴影 */
             --shadow-light: 0 2px 8px rgba(0, 0, 0, 0.05);
             --shadow-medium: 0 4px 16px rgba(0, 0, 0, 0.1);
         }
@@ -50,11 +38,7 @@
             --shadow-medium: 0 4px 16px rgba(255, 255, 255, 0.1);
         }
         
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         
         body {
             font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
@@ -64,11 +48,7 @@
             transition: all 0.3s ease;
         }
         
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 var(--spacing-md);
-        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 var(--spacing-md); }
         
         .header {
             background-color: var(--bg-primary);
@@ -98,6 +78,20 @@
             box-shadow: var(--shadow-light);
         }
         
+        @media (max-width: 768px) {
+            .theme-toggle {
+                padding: 8px;
+                border-radius: 50%;
+                width: 40px;
+                height: 40px;
+                justify-content: center;
+            }
+            
+            .theme-toggle .theme-text {
+                display: none;
+            }
+        }
+        
         .header h1 {
             font-size: 2rem;
             font-weight: 700;
@@ -110,25 +104,21 @@
             font-size: 1rem;
         }
         
+        .personal-info {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-align: center;
+            padding: var(--spacing-md);
+            margin: var(--spacing-lg) 0;
+            border-radius: var(--radius-large);
+        }
+        
         .tabs {
             background-color: var(--bg-primary);
             padding: var(--spacing-md) 0;
             overflow-x: auto;
             white-space: nowrap;
             box-shadow: var(--shadow-light);
-        }
-        
-        .tabs::-webkit-scrollbar {
-            height: 4px;
-        }
-        
-        .tabs::-webkit-scrollbar-track {
-            background: var(--bg-secondary);
-        }
-        
-        .tabs::-webkit-scrollbar-thumb {
-            background: var(--text-tertiary);
-            border-radius: 2px;
         }
         
         .tab-button {
@@ -153,10 +143,6 @@
             color: white;
         }
         
-        .tab-button:hover:not(.active) {
-            background-color: var(--bg-tertiary);
-        }
-        
         .tab-count {
             background-color: rgba(255, 255, 255, 0.2);
             color: currentColor;
@@ -165,9 +151,7 @@
             font-size: 0.75rem;
         }
         
-        .content-area {
-            padding: var(--spacing-lg) 0;
-        }
+        .content-area { padding: var(--spacing-lg) 0; }
         
         .news-grid {
             display: grid;
@@ -190,29 +174,7 @@
             box-shadow: var(--shadow-medium);
         }
         
-        .news-card.hidden {
-            display: none;
-        }
-        
-        .priority-indicator {
-            width: 3px;
-            height: 100%;
-            position: absolute;
-            left: 0;
-            top: 0;
-        }
-        
-        .news-card.priority-high .priority-indicator {
-            background-color: var(--color-error);
-        }
-        
-        .news-card.priority-medium .priority-indicator {
-            background-color: var(--color-warning);
-        }
-        
-        .news-card.priority-low .priority-indicator {
-            background-color: var(--color-success);
-        }
+        .news-card.hidden { display: none; }
         
         .importance-stars {
             position: absolute;
@@ -227,9 +189,7 @@
             font-size: 0.75rem;
         }
         
-        .card-header {
-            padding: var(--spacing-md);
-        }
+        .card-header { padding: var(--spacing-md); }
         
         .category-badge {
             display: inline-flex;
@@ -286,23 +246,15 @@
             transition: opacity 0.2s ease;
         }
         
-        .read-more:hover {
-            opacity: 0.8;
-        }
-        
         @media (max-width: 768px) {
             .news-grid {
                 grid-template-columns: 1fr;
                 gap: var(--spacing-md);
             }
             
-            .container {
-                padding: 0 var(--spacing-sm);
-            }
+            .container { padding: 0 var(--spacing-sm); }
             
-            .header h1 {
-                font-size: 1.5rem;
-            }
+            .header h1 { font-size: 1.5rem; }
         }
     </style>
 </head>
@@ -319,6 +271,13 @@
         </div>
     </div>
     
+    <div class="container">
+        <div class="personal-info">
+            <div>👨‍💻 个人AI资讯整理 | 专注前沿技术分析</div>
+            <div style="margin-top: 8px;">💬 AI交流群 · 欢迎加入：forxy9</div>
+        </div>
+    </div>
+    
     <div class="tabs">
         <div class="container">
             <button class="tab-button active" data-category="all">
@@ -327,228 +286,237 @@
                 <span class="tab-count">10</span>
             </button>
             
-            <button class="tab-button active" data-category="AI资讯">
-                <span class="tab-icon">📱</span>
-                <span class="tab-text">AI资讯</span>
-                <span class="tab-count">9</span>
-            </button>
-            <button class="tab-button " data-category="OpenAI动态">
-                <span class="tab-icon">🤖</span>
-                <span class="tab-text">OpenAI动态</span>
-                <span class="tab-count">1</span>
-            </button>
+        <button class="tab-button active" data-category="AI资讯">
+            <span class="tab-icon">📱</span>
+            <span class="tab-text">AI资讯</span>
+            <span class="tab-count">2</span>
+        </button>
+        <button class="tab-button " data-category="隐私安全">
+            <span class="tab-icon">🔒</span>
+            <span class="tab-text">隐私安全</span>
+            <span class="tab-count">2</span>
+        </button>
+        <button class="tab-button " data-category="安全技术">
+            <span class="tab-icon">🛡️</span>
+            <span class="tab-text">安全技术</span>
+            <span class="tab-count">3</span>
+        </button>
+        <button class="tab-button " data-category="OpenAI动态">
+            <span class="tab-icon">🤖</span>
+            <span class="tab-text">OpenAI动态</span>
+            <span class="tab-count">1</span>
+        </button>
+        <button class="tab-button " data-category="AI应用">
+            <span class="tab-icon">💕</span>
+            <span class="tab-text">AI应用</span>
+            <span class="tab-count">1</span>
+        </button>
+        <button class="tab-button " data-category="AI风险">
+            <span class="tab-icon">💥</span>
+            <span class="tab-text">AI风险</span>
+            <span class="tab-count">1</span>
+        </button>
         </div>
     </div>
     
     <div class="container">
         <div class="content-area">
             <div class="news-grid">
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_0.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：Look out ChatGPT - the creator of Proton Mail has just launched a new AI chatbot that’s super-secure and private</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+        <article class="news-card" data-category="AI资讯" 
+                 onclick="window.location.href='news/news_0.html'">
+            <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #6B7280; color: white;">
+                    <span>📱</span>
+                    <span>AI资讯</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 TechRadar</div>
-                        <div class="publish-date">🕒 2025-07-23 19:00</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">🎨 布鲁克林展览挑战白人主导的AI，推动包容性发展</h2>
+                <p class="news-description">艺术家Stephanie Dinkins通过突出黑人精神和文化基石，挑战种族化的AI空间。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 The Guardian</div>
+                    <div class="publish-date">🕒 2025-07-23 11:00</div>
                 </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_1.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：Proton is launching a privacy-focused AI chatbot</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
+        <article class="news-card" data-category="隐私安全" 
+                 onclick="window.location.href='news/news_1.html'">
+            <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #007AFF; color: white;">
+                    <span>🔒</span>
+                    <span>隐私安全</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 The Verge</div>
-                        <div class="publish-date">🕒 2025-07-23 18:00</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">🔒 Proton推出隐私AI聊天机器人挑战ChatGPT</h2>
+                <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 TechRadar</div>
+                    <div class="publish-date">🕒 2025-07-23 11:00</div>
                 </div>
-            </article>
-            <article class="news-card priority-low" data-category="OpenAI动态" 
-                     onclick="window.location.href='news/news_2.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #10B981; color: white;">
-                        <span>🤖</span>
-                        <span>OpenAI动态</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：OpenAI CEO Sam Altman says bank voice ID is no match for AI</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
+        <article class="news-card" data-category="安全技术" 
+                 onclick="window.location.href='news/news_2.html'">
+            <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #FF9500; color: white;">
+                    <span>🛡️</span>
+                    <span>安全技术</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Windows Central</div>
-                        <div class="publish-date">🕒 2025-07-23 18:00</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">🛡️ 加拿大研究人员开发AI水印移除工具引发安全担忧</h2>
+                <p class="news-description">滑铁卢大学研究人员开发出快速移除AI生成内容水印的工具，证明全球反深度伪造努力可能走错方向。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 The Globe and Mail</div>
+                    <div class="publish-date">🕒 2025-07-23 10:44</div>
                 </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_3.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：Metrolinx laid off call centre employees amidst AI use</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
+        <article class="news-card" data-category="隐私安全" 
+                 onclick="window.location.href='news/news_3.html'">
+            <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #007AFF; color: white;">
+                    <span>🔒</span>
+                    <span>隐私安全</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Toronto Star</div>
-                        <div class="publish-date">🕒 2025-07-23 17:00</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">🔒 Proton推出隐私AI聊天机器人挑战ChatGPT</h2>
+                <p class="news-description">Proton推出名为Lumo的隐私聊天机器人，可执行多种任务同时加密聊天内容并保持离线存储。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 The Verge</div>
+                    <div class="publish-date">🕒 2025-07-23 10:00</div>
                 </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_4.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：Canadian researchers create tool to remove anti-deepfake watermarks from AI content</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
+        <article class="news-card" data-category="OpenAI动态" 
+                 onclick="window.location.href='news/news_4.html'">
+            <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #34C759; color: white;">
+                    <span>🤖</span>
+                    <span>OpenAI动态</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Toronto Star</div>
-                        <div class="publish-date">🕒 2025-07-23 16:00</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">🚨 OpenAI CEO警告：银行语音ID无法抵御AI攻击</h2>
+                <p class="news-description">OpenAI CEO Sam Altman对银行机构继续使用语音认证表示担忧，认为AI技术发展使其面临安全风险。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 Windows Central</div>
+                    <div class="publish-date">🕒 2025-07-23 10:00</div>
                 </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_5.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：Canadian researchers create tool to remove anti-deepfake watermarks from AI content</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
+        <article class="news-card" data-category="AI资讯" 
+                 onclick="window.location.href='news/news_5.html'">
+            <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #6B7280; color: white;">
+                    <span>📱</span>
+                    <span>AI资讯</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Vancouver Is Awesome</div>
-                        <div class="publish-date">🕒 2025-07-23 16:00</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">🚇 Metrolinx在使用AI客服同时裁员引发争议</h2>
+                <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 Toronto Star</div>
+                    <div class="publish-date">🕒 2025-07-23 09:00</div>
                 </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_6.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：Tinder is Trusting AI to Find Your Most Swipeable Selfie</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
+        <article class="news-card" data-category="安全技术" 
+                 onclick="window.location.href='news/news_6.html'">
+            <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #FF9500; color: white;">
+                    <span>🛡️</span>
+                    <span>安全技术</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Analytics India Magazine</div>
-                        <div class="publish-date">🕒 2025-07-23 15:31</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">🛡️ 加拿大研究人员开发AI水印移除工具引发安全担忧</h2>
+                <p class="news-description">滑铁卢大学研究人员开发出快速移除AI生成内容水印的工具，证明全球反深度伪造努力可能走错方向。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 Toronto Star</div>
+                    <div class="publish-date">🕒 2025-07-23 08:00</div>
                 </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_7.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：AI Agent Panics, Deletes Entire Company Database, Then Lies to Cover Up the Catastrophe</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
+        <article class="news-card" data-category="安全技术" 
+                 onclick="window.location.href='news/news_7.html'">
+            <div class="importance-stars"><span class="star">★</span><span class="star">★</span><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #FF9500; color: white;">
+                    <span>🛡️</span>
+                    <span>安全技术</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Mashable India</div>
-                        <div class="publish-date">🕒 2025-07-23 15:05</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">🛡️ 加拿大研究人员开发AI水印移除工具引发安全担忧</h2>
+                <p class="news-description">滑铁卢大学研究人员开发出快速移除AI生成内容水印的工具，证明全球反深度伪造努力可能走错方向。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 Vancouver Is Awesome</div>
+                    <div class="publish-date">🕒 2025-07-23 08:00</div>
                 </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_8.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：Teens say they are turning to AI for advice, friendship and 'to get out of thinking'</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
+        <article class="news-card" data-category="AI应用" 
+                 onclick="window.location.href='news/news_8.html'">
+            <div class="importance-stars"><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #FF3B30; color: white;">
+                    <span>💕</span>
+                    <span>AI应用</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 Toronto Star</div>
-                        <div class="publish-date">🕒 2025-07-23 12:14</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">💕 Tinder使用AI算法优化用户自拍照提升匹配率</h2>
+                <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 Analytics India Magazine</div>
+                    <div class="publish-date">🕒 2025-07-23 07:31</div>
                 </div>
-            </article>
-            <article class="news-card priority-low" data-category="AI资讯" 
-                     onclick="window.location.href='news/news_9.html'">
-                <div class="priority-indicator"></div>
-                <div class="importance-stars"><span class="star">★</span></div>
-                <div class="card-header">
-                    <div class="category-badge" style="background-color: #6B7280; color: white;">
-                        <span>📱</span>
-                        <span>AI资讯</span>
-                    </div>
-                    <h2 class="news-title">📰 AI资讯：Spotify had to pull an AI-generated song that claimed to be from an artist who passed away 36 years ago</h2>
-                    <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
+        <article class="news-card" data-category="AI风险" 
+                 onclick="window.location.href='news/news_9.html'">
+            <div class="importance-stars"><span class="star">★</span><span class="star">★</span></div>
+            <div class="card-header">
+                <div class="category-badge" style="background-color: #8E8E93; color: white;">
+                    <span>💥</span>
+                    <span>AI风险</span>
                 </div>
-                <div class="card-footer">
-                    <div class="news-meta">
-                        <div class="source">📰 TechRadar</div>
-                        <div class="publish-date">🕒 2025-07-23 11:30</div>
-                    </div>
-                    <div class="read-more">查看详情</div>
+                <h2 class="news-title">💥 AI智能体恐慌删除公司数据库后试图掩盖错误</h2>
+                <p class="news-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和市场趋势。</p>
+            </div>
+            <div class="card-footer">
+                <div class="news-meta">
+                    <div class="source">📰 Mashable India</div>
+                    <div class="publish-date">🕒 2025-07-23 07:05</div>
                 </div>
-            </article>
+                <div class="read-more">查看详情</div>
+            </div>
+        </article>
             </div>
         </div>
     </div>
     
     <script>
-        // 主题切换
         function toggleTheme() {
             const body = document.body;
             const themeIcon = document.querySelector('.theme-icon');
@@ -567,7 +535,6 @@
             }
         }
         
-        // 页面加载时恢复主题
         document.addEventListener('DOMContentLoaded', function() {
             const savedTheme = localStorage.getItem('theme') || 'light';
             const themeIcon = document.querySelector('.theme-icon');
@@ -579,7 +546,6 @@
                 themeText.textContent = '日间模式';
             }
             
-            // 标签切换功能
             const tabButtons = document.querySelectorAll('.tab-button');
             const newsCards = document.querySelectorAll('.news-card');
             
@@ -587,11 +553,9 @@
                 button.addEventListener('click', function() {
                     const category = this.dataset.category;
                     
-                    // 更新活跃标签
                     tabButtons.forEach(btn => btn.classList.remove('active'));
                     this.classList.add('active');
                     
-                    // 筛选卡片
                     newsCards.forEach(card => {
                         if (category === 'all' || card.dataset.category === category) {
                             card.classList.remove('hidden');

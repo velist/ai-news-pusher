@@ -18,7 +18,11 @@
       "Bash(ls:*)",
       "Bash(rm:*)",
       "Bash(git commit --amend -m \"🚀 v3.0.0 AI革命性升级 - 硅基流动API深度集成\n\n✨ 核心功能升级：\n• 🧠 集成硅基流动Qwen2.5-14B智能分析\n• 💰 真实AI驱动的投资分析和股票推荐  \n• 🔬 专业技术突破评估和行业洞察\n• 📈 精准市场波动预测和资金流向分析\n\n🎯 技术亮点：\n• API智能降级机制，确保系统稳定性\n• 动态内容格式化，完美适配响应式设计\n• 真正实现AI驱动的个性化内容生成\n\n🔒 安全优化：清理敏感信息，符合GitHub安全规范\n\n🎉 Generated with [Claude Code](https://claude.ai/code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")",
-      "Bash(rm \"/mnt/d/推送测试/github-recovery-codes.txt\")"
+      "Bash(rm \"/mnt/d/推送测试/github-recovery-codes.txt\")",
+      "Bash(git add docs/)",
+      "Bash(git commit -m \"🚀 v3.1.0 真实新闻推送成功 - 更新2025-07-23最新AI资讯\n\n✨ 核心更新：\n• 获取10条最新AI新闻（2025-07-23）\n• Proton隐私AI聊天机器人、OpenAI安全警告等热点资讯\n• 完整H5页面生成，支持主题切换\n• 每小时自动更新机制正常运行\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")",
+      "Bash(grep:*)",
+      "Bash(git commit -m \"🔥 v3.2.0 终极修复 - 完全中文化+AI点评功能\n\n✨ 彻底解决问题：\n• 删除所有有问题的旧版本文件\n• 创建complete_main.py简化版主程序\n• 标题100%中文化，无中英混杂\n• 详情页包含完整AI观点分析和投资建议\n• GitHub Actions调用正确的主程序\n• 移动端主题切换优化\n\n🚀 功能完整：\n• 10条最新AI新闻（2025-07-23）\n• 智能分类：隐私安全、安全技术、OpenAI动态等\n• AI分析：技术突破评估、行业生态影响、战略建议\n• 投资分析：市场影响、投资标的、时间窗口\n• 响应式设计：完美适配手机、平板、桌面\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")"
     ],
     "deny": []
   }
