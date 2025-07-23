@@ -1,40 +1,172 @@
 [
   {
     "id": "news_0",
-    "title": "📰 AI资讯：🚀 重大突破：OpenAI发布GPT-5革命性AI模型",
-    "original_title": "🚀 重大突破：OpenAI发布GPT-5革命性AI模型",
-    "description": "OpenAI正式发布下一代人工智能GPT-5，在推理能力和多模态理解方面实现前所未有的突破性进展。",
-    "original_description": "OpenAI正式发布下一代人工智能GPT-5，在推理能力和多模态理解方面实现前所未有的突破性进展。",
-    "url": "https://example.com/news1",
-    "source": "TechCrunch",
-    "publishedAt": "2024-01-20T08:00:00Z",
-    "image": "",
+    "title": "📰 AI资讯：Look out ChatGPT - the creator of Proton Mail has just launched a new AI chatbot that’s super-secure and private",
+    "original_title": "Look out ChatGPT - the creator of Proton Mail has just launched a new AI chatbot that’s super-secure and private",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "Lumo, the new European AI assistant, is here",
+    "url": "https://www.techradar.com/computing/artificial-intelligence/look-out-chatgpt-the-creator-of-proton-mail-has-just-launched-a-new-ai-chatbot-thats-super-secure-and-private",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-23T11:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/igDyDGAqsfNKzpwZvfv4CN.jpg",
     "category": {
-      "name": "OpenAI动态",
-      "color": "#34C759",
-      "icon": "🤖"
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
     },
-    "importance": 3,
-    "china_analysis": "**技术影响：** 对国内大模型厂商形成竞争压力，推动技术创新升级。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**相关概念股：** 科大讯飞、汉王科技、海天瑞声等AI概念股可能受益。"
+    "importance": 1
   },
   {
     "id": "news_1",
-    "title": "📰 AI资讯：🔍 谷歌AI：Bard智能助手重大功能升级发布",
-    "original_title": "🔍 谷歌AI：Bard智能助手重大功能升级发布",
-    "description": "谷歌大幅增强Bard对话能力，新增多项服务集成功能，进一步提升用户智能交互体验。",
-    "original_description": "谷歌大幅增强Bard对话能力，新增多项服务集成功能，进一步提升用户智能交互体验。",
-    "url": "https://example.com/news2",
+    "title": "📰 AI资讯：Proton is launching a privacy-focused AI chatbot",
+    "original_title": "Proton is launching a privacy-focused AI chatbot",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "Proton is launching a privacy-focused AI chatbot called Lumo. The chatbot can perform a range of tasks while encrypting chats and keeping them off Proton’s servers.",
+    "url": "https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot",
     "source": "The Verge",
-    "publishedAt": "2024-01-20T07:30:00Z",
-    "image": "",
+    "publishedAt": "2025-07-23T10:00:00Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/02_Lumo_PR.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
     "category": {
-      "name": "谷歌AI",
-      "color": "#007AFF",
-      "icon": "🔍"
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
     },
-    "importance": 1,
-    "china_analysis": "**技术影响：** 加速国内搜索和AI助手产品迭代，影响百度、阿里等公司战略。\\n\\n**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。",
-    "investment_insight": "**投资建议：** 关注AI产业链相关标的，长期看好技术进步带来的投资机遇。"
+    "importance": 1
+  },
+  {
+    "id": "news_2",
+    "title": "📰 AI资讯：OpenAI CEO Sam Altman says bank voice ID is no match for AI",
+    "original_title": "OpenAI CEO Sam Altman says bank voice ID is no match for AI",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "OpenAI CEO Sam Altman revealed that he is alarmed by the continued use of voice authentication by banking institutions as AI becomes increasingly prevalent.",
+    "url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/sam-altman-is-terrified-of-voice-id-fraudsters-embracing-ai",
+    "source": "Windows Central",
+    "publishedAt": "2025-07-23T10:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/sZi3DQagkHkbeLxY26HG4E.jpg",
+    "category": {
+      "name": "OpenAI动态",
+      "color": "#10B981",
+      "icon": "🤖"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_3",
+    "title": "📰 AI资讯：Metrolinx laid off call centre employees amidst AI use",
+    "original_title": "Metrolinx laid off call centre employees amidst AI use",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "Dozens of customer service employees were let go just as Metrolinx came under fire over a contractor’s use of AI to respond to customer concerns online.",
+    "url": "https://www.thestar.com/news/gta/metrolinx-laid-off-customer-service-workers-days-before-using-ai-after-coldplay-concert/article_51a686a3-a306-413c-93f4-baed94d50bca.html",
+    "source": "Toronto Star",
+    "publishedAt": "2025-07-23T09:00:00Z",
+    "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/84/68428529-ffea-54b0-a301-7cc54c7f874d/687fc4beae8d2.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_4",
+    "title": "📰 AI资讯：Canadian researchers create tool to remove anti-deepfake watermarks from AI content",
+    "original_title": "Canadian researchers create tool to remove anti-deepfake watermarks from AI content",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "OTTAWA - University of Waterloo researchers have built a tool that can quickly remove watermarks identifying content as artificially generated — and they say it proves that global efforts to",
+    "url": "https://www.thestar.com/business/canadian-researchers-create-tool-to-remove-anti-deepfake-watermarks-from-ai-content/article_3dbbc1b7-63af-596c-a732-116a33786524.html",
+    "source": "Toronto Star",
+    "publishedAt": "2025-07-23T08:00:26Z",
+    "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/4e/b4ef4136-21ba-5c67-aaee-439225e19ae4/688097af31958.image.jpg?crop=1622%2C852%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_5",
+    "title": "📰 AI资讯：Canadian researchers create tool to remove anti-deepfake watermarks from AI content",
+    "original_title": "Canadian researchers create tool to remove anti-deepfake watermarks from AI content",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "OTTAWA — University of Waterloo researchers have built a tool that can quickly remove watermarks identifying content as artificially generated — and they say it proves that global efforts to combat deepfakes are most likely on the wrong track.",
+    "url": "https://www.vancouverisawesome.com/national-business/canadian-researchers-create-tool-to-remove-anti-deepfake-watermarks-from-ai-content-10979284",
+    "source": "Vancouver Is Awesome",
+    "publishedAt": "2025-07-23T08:00:26Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/8b7a8f877e381ab56395509e2857f8a997725d1e469d6e79b72e9ed58a5d9ead.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_6",
+    "title": "📰 AI资讯：Tinder is Trusting AI to Find Your Most Swipeable Selfie",
+    "original_title": "Tinder is Trusting AI to Find Your Most Swipeable Selfie",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "To users, the process is invisible. Under the hood, it’s one of the more technically elegant examples of mobile AI in production today.",
+    "url": "https://analyticsindiamag.com/ai-features/tinder-is-trusting-ai-to-find-your-most-swipeable-selfie/",
+    "source": "Analytics India Magazine",
+    "publishedAt": "2025-07-23T07:31:39Z",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/07/Ankush_-Tinder-Uses-On-Device-AI-to-Scan-10-Billion-Images.jpg",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_7",
+    "title": "📰 AI资讯：AI Agent Panics, Deletes Entire Company Database, Then Lies to Cover Up the Catastrophe",
+    "original_title": "AI Agent Panics, Deletes Entire Company Database, Then Lies to Cover Up the Catastrophe",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "Here's what exactly happened",
+    "url": "https://in.mashable.com/tech/97479/ai-agent-panics-deletes-entire-company-database-then-lies-to-cover-up-the-catastrophe",
+    "source": "Mashable India",
+    "publishedAt": "2025-07-23T07:05:42Z",
+    "image": "https://sm.mashable.com/mashable_in/seo/default/z3wq-2025-07-23t122016764_juzs.jpg",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_8",
+    "title": "📰 AI资讯：Teens say they are turning to AI for advice, friendship and 'to get out of thinking'",
+    "original_title": "Teens say they are turning to AI for advice, friendship and 'to get out of thinking'",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "No question is too small when Kayla Chege, a high school student in Kansas, is using artificial intelligence.",
+    "url": "https://www.thestar.com/news/world/united-states/teens-say-they-are-turning-to-ai-for-advice-friendship-and-to-get-out-of/article_5eec1df9-faa4-5f7f-ba55-3084da29a8fe.html",
+    "source": "Toronto Star",
+    "publishedAt": "2025-07-23T04:14:49Z",
+    "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/8f/a8fd583a-8b99-5073-8114-2afffe7d43b1/688062f73ea47.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
+  },
+  {
+    "id": "news_9",
+    "title": "📰 AI资讯：Spotify had to pull an AI-generated song that claimed to be from an artist who passed away 36 years ago",
+    "original_title": "Spotify had to pull an AI-generated song that claimed to be from an artist who passed away 36 years ago",
+    "description": "这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。",
+    "original_description": "Unauthorized AI tracks are showing up under the names of dead musicians",
+    "url": "https://www.techradar.com/computing/artificial-intelligence/spotify-had-to-pull-an-ai-generated-song-that-claimed-to-be-from-an-artist-who-passed-away-36-years-ago",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-23T03:30:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/h2GLqdqNc7PytDVUG8ZkXg.png",
+    "category": {
+      "name": "AI资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1
   }
 ]

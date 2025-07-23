@@ -2,71 +2,35 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>📰 AI资讯：🚀 重大突破：OpenAI发布GPT-5革命性AI模型 - AI科技日报</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📰 AI资讯：Look out ChatGPT - the creator of Proton Mail has just launched a new AI chatbot that’s super-secure and private - AI科技日报</title>
     <style>
         :root {
             --color-primary: #007AFF;
-            --color-secondary: #5856D6;
-            --color-success: #34C759;
-            --color-warning: #FF9500;
-            --color-error: #FF3B30;
-            --color-gray: #8E8E93;
-            --color-gray5: #E5E5EA;
-            
             --bg-primary: #FFFFFF;
             --bg-secondary: #F2F2F7;
-            --bg-tertiary: #FFFFFF;
-            --bg-grouped: #F2F2F7;
-            
             --text-primary: #000000;
             --text-secondary: #3C3C43;
-            --text-tertiary: #3C3C4399;
-            
-            --shadow-light: 0 1px 3px rgba(0, 0, 0, 0.1);
-            --shadow-medium: 0 4px 12px rgba(0, 0, 0, 0.15);
-            
-            --radius-small: 8px;
-            --radius-medium: 12px;
-            --radius-large: 16px;
-            
-            --spacing-xs: 4px;
-            --spacing-sm: 8px;
             --spacing-md: 16px;
             --spacing-lg: 24px;
-            --spacing-xl: 32px;
+            --radius-large: 16px;
         }
         
         [data-theme="dark"] {
             --color-primary: #0A84FF;
-            --color-secondary: #5E5CE6;
-            --color-success: #32D74B;
-            --color-warning: #FF9F0A;
-            --color-error: #FF453A;
-            
             --bg-primary: #000000;
             --bg-secondary: #1C1C1E;
-            --bg-tertiary: #2C2C2E;
-            --bg-grouped: #000000;
-            
             --text-primary: #FFFFFF;
             --text-secondary: #EBEBF5;
-            --text-tertiary: #EBEBF599;
         }
         
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            background-color: var(--bg-grouped);
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-secondary);
             color: var(--text-primary);
             line-height: 1.6;
-            -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
             transition: all 0.3s ease;
         }
         
@@ -76,7 +40,51 @@
             padding: 0 var(--spacing-md);
         }
         
-        /* 主题切换按钮 */
+        .header {
+            background-color: var(--bg-primary);
+            padding: var(--spacing-lg) 0;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .back-button {
+            color: var(--color-primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .article {
+            background-color: var(--bg-primary);
+            border-radius: var(--radius-large);
+            margin: var(--spacing-lg) 0;
+            padding: var(--spacing-lg);
+        }
+        
+        .article-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: var(--spacing-md);
+            color: var(--text-primary);
+        }
+        
+        .article-description {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            margin-bottom: var(--spacing-lg);
+        }
+        
+        .read-original {
+            background-color: var(--color-primary);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-block;
+        }
+        
         .theme-toggle {
             position: fixed;
             top: 20px;
@@ -88,553 +96,54 @@
             color: var(--text-primary);
             cursor: pointer;
             z-index: 1000;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            box-shadow: var(--shadow-light);
-        }
-        
-        /* 导航栏 */
-        .navbar {
-            background-color: var(--bg-primary);
-            border-bottom: 0.5px solid var(--color-gray5);
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-        }
-        
-        .nav-content {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: var(--spacing-md) 0;
-            min-height: 56px;
-        }
-        
-        .back-button {
-            display: flex;
-            align-items: center;
-            gap: var(--spacing-xs);
-            color: var(--color-primary);
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 500;
-            padding: var(--spacing-xs) 0;
-        }
-        
-        .back-button:hover {
-            opacity: 0.7;
-        }
-        
-        .nav-title {
-            font-size: 1rem;
-            font-weight: 600;
-            color: var(--text-primary);
-        }
-        
-        .share-button {
-            color: var(--color-primary);
-            font-size: 0.9rem;
-            font-weight: 500;
-            cursor: pointer;
-            padding: var(--spacing-xs) 0;
-        }
-        
-        .share-button:hover {
-            opacity: 0.7;
-        }
-        
-        /* 文章内容 */
-        .article {
-            background-color: var(--bg-tertiary);
-            border-radius: var(--radius-large);
-            margin: var(--spacing-lg) 0;
-            overflow: hidden;
-            box-shadow: var(--shadow-light);
-        }
-        
-        .article-header {
-            padding: var(--spacing-lg);
-            border-bottom: 0.5px solid var(--color-gray5);
-        }
-        
-        .article-meta {
-            display: flex;
-            align-items: center;
-            gap: var(--spacing-md);
-            margin-bottom: var(--spacing-md);
-        }
-        
-        .category-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: var(--spacing-xs);
-            padding: var(--spacing-xs) var(--spacing-sm);
-            border-radius: var(--radius-small);
-            font-size: 0.75rem;
-            font-weight: 600;
-        }
-        
-        .importance-stars {
-            display: flex;
-            gap: 2px;
-        }
-        
-        .star {
-            color: var(--color-warning);
-            font-size: 0.75rem;
-        }
-        
-        .article-title {
-            font-size: 1.75rem;
-            font-weight: 700;
-            line-height: 1.3;
-            margin-bottom: var(--spacing-md);
-            color: var(--text-primary);
-        }
-        
-        .article-description {
-            font-size: 1.125rem;
-            color: var(--text-secondary);
-            line-height: 1.5;
-            margin-bottom: var(--spacing-lg);
-        }
-        
-        .source-info {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            font-size: 0.875rem;
-            color: var(--text-tertiary);
-        }
-        
-        .source {
-            display: flex;
-            align-items: center;
-            gap: var(--spacing-xs);
-        }
-        
-        /* 分析内容 */
-        .analysis-section {
-            padding: var(--spacing-lg);
-        }
-        
-        .analysis-title {
-            font-size: 1.25rem;
-            font-weight: 600;
-            color: var(--text-primary);
-            margin-bottom: var(--spacing-md);
-            display: flex;
-            align-items: center;
-            gap: var(--spacing-sm);
-        }
-        
-        .analysis-content {
-            font-size: 1rem;
-            line-height: 1.6;
-            color: var(--text-secondary);
-            margin-bottom: var(--spacing-lg);
-        }
-        
-        .analysis-content strong {
-            color: var(--text-primary);
-            font-weight: 600;
-        }
-        
-        /* AI分析和投资分析专用样式 */
-        .ai-analysis h4, .investment-analysis h4 {
-            font-size: 1.1rem;
-            font-weight: 600;
-            color: var(--text-primary);
-            margin: var(--spacing-md) 0 var(--spacing-sm) 0;
-            display: flex;
-            align-items: center;
-            gap: var(--spacing-xs);
-        }
-        
-        .investment-targets {
-            background-color: var(--bg-secondary);
-            padding: var(--spacing-md);
-            border-radius: var(--radius-medium);
-            margin: var(--spacing-sm) 0;
-        }
-        
-        .investment-targets p {
-            margin-bottom: var(--spacing-sm);
-        }
-        
-        .risk-warning {
-            background-color: #FFF3CD;
-            border: 1px solid #FFEAA7;
-            padding: var(--spacing-sm);
-            border-radius: var(--radius-small);
-            margin-top: var(--spacing-md);
-            font-size: 0.9rem;
-        }
-        
-        [data-theme="dark"] .risk-warning {
-            background-color: #2D1B0E;
-            border-color: #8B4513;
-        }
-        
-        .section-divider {
-            border: none;
-            height: 0.5px;
-            background-color: var(--color-gray5);
-            margin: var(--spacing-lg) 0;
-        }
-        
-        /* 操作按钮 */
-        .action-buttons {
-            display: flex;
-            gap: var(--spacing-md);
-            padding: var(--spacing-lg);
-            border-top: 0.5px solid var(--color-gray5);
-        }
-        
-        .action-button {
-            flex: 1;
-            padding: var(--spacing-md);
-            border-radius: var(--radius-medium);
-            text-decoration: none;
-            text-align: center;
-            font-weight: 600;
-            transition: all 0.2s ease;
-        }
-        
-        .primary-button {
-            background-color: var(--color-primary);
-            color: white;
-        }
-        
-        .primary-button:hover {
-            background-color: var(--color-secondary);
-            transform: scale(1.02);
-        }
-        
-        .secondary-button {
-            background-color: var(--bg-secondary);
-            color: var(--text-primary);
-            border: 0.5px solid var(--color-gray5);
-        }
-        
-        .secondary-button:hover {
-            background-color: var(--color-gray5);
-        }
-        
-        /* 导航 */
-        .navigation {
-            display: flex;
-            gap: var(--spacing-md);
-            margin: var(--spacing-lg) 0;
-        }
-        
-        .nav-card {
-            flex: 1;
-            background-color: var(--bg-tertiary);
-            border-radius: var(--radius-medium);
-            padding: var(--spacing-md);
-            text-decoration: none;
-            color: var(--text-primary);
-            box-shadow: var(--shadow-light);
-            transition: all 0.2s ease;
-        }
-        
-        .nav-card:hover {
-            transform: translateY(-2px);
-            box-shadow: var(--shadow-medium);
-        }
-        
-        .nav-card.disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-            pointer-events: none;
-        }
-        
-        .nav-label {
-            font-size: 0.75rem;
-            color: var(--text-tertiary);
-            margin-bottom: var(--spacing-xs);
-        }
-        
-        .nav-title {
-            font-size: 0.875rem;
-            font-weight: 500;
-            line-height: 1.3;
-        }
-        
-        /* 响应式设计 */
-        @media (max-width: 768px) {
-            .container {
-                padding: 0 var(--spacing-md);
-            }
-            
-            .article-title {
-                font-size: 1.5rem;
-            }
-            
-            .article-description {
-                font-size: 1rem;
-            }
-            
-            .action-buttons {
-                flex-direction: column;
-            }
-            
-            .navigation {
-                flex-direction: column;
-            }
-            
-            .theme-toggle {
-                padding: 8px;
-                border-radius: 50%;
-                width: 40px;
-                height: 40px;
-                justify-content: center;
-            }
-            
-            .theme-toggle .theme-text {
-                display: none;
-            }
-        }
-        
-        @media (max-width: 480px) {
-            .container {
-                padding: 0 var(--spacing-sm);
-            }
-            
-            .article {
-                margin: var(--spacing-md) 0;
-            }
-            
-            .article-header, .analysis-section, .action-buttons {
-                padding: var(--spacing-md);
-            }
-            
-            .article-title {
-                font-size: 1.25rem;
-            }
         }
     </style>
 </head>
 <body>
-    <!-- 主题切换按钮 -->
-    <button class="theme-toggle" onclick="toggleTheme()">
-        <span class="theme-icon">🌙</span>
-        <span class="theme-text">夜间模式</span>
-    </button>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙</button>
     
-    <!-- 导航栏 -->
-    <nav class="navbar">
+    <div class="header">
         <div class="container">
-            <div class="nav-content">
-                <a href="../index.html" class="back-button">
-                    <span>‹</span>
-                    <span>返回首页</span>
-                </a>
-                <div class="nav-title">AI科技日报</div>
-                <div class="share-button" onclick="shareArticle()">分享</div>
-            </div>
-        </div>
-    </nav>
-    
-    <!-- 文章内容 -->
-    <div class="container">
-        <article class="article">
-            <header class="article-header">
-                <div class="article-meta">
-                    <div class="category-badge" style="background-color: #34C759; color: white;">
-                        <span>🤖</span>
-                        <span>OpenAI动态</span>
-                    </div>
-                    <div class="importance-stars">
-                        <span class="star">★</span><span class="star">★</span><span class="star">★</span>
-                    </div>
-                </div>
-                
-                <h1 class="article-title">📰 AI资讯：🚀 重大突破：OpenAI发布GPT-5革命性AI模型</h1>
-                <p class="article-description">OpenAI正式发布下一代人工智能GPT-5，在推理能力和多模态理解方面实现前所未有的突破性进展。</p>
-                
-                <div class="source-info">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>TechCrunch</span>
-                    </div>
-                    <div class="publish-time">
-                        2025年07月23日
-                    </div>
-                </div>
-            </header>
-            
-            <section class="analysis-section">
-                <h2 class="analysis-title">
-                    <span>🇨🇳</span>
-                    <span>中国影响分析</span>
-                </h2>
-                <div class="analysis-content">
-                    **技术影响：** 对国内大模型厂商形成竞争压力，推动技术创新升级。<br><br>**市场机遇：** 为国内企业提供发展思路，关注技术应用和商业模式创新。
-                </div>
-                
-                <hr class="section-divider">
-                
-                <h2 class="analysis-title">
-                    <span>💰</span>
-                    <span>投资视角</span>
-                </h2>
-                <div class="analysis-content">
-                    **相关概念股：** 科大讯飞、汉王科技、海天瑞声等AI概念股可能受益。
-                </div>
-                
-                <hr class="section-divider">
-                
-                <h2 class="analysis-title">
-                    <span>🤖</span>
-                    <span>AI观点</span>
-                </h2>
-                <div class="analysis-content">
-                    <div class="ai-analysis"><p>### 技术突破评估</p>
-<p>GPT-5实现了在推理能力和多模态理解上的重大突破，标志着AI从文本生成向更广泛、更复杂的场景应用迈进。其创新点可能在于采用了更高效的神经网络架构，以及更先进的预训练技术，这将极大地提升模型的泛化能力和处理多模态数据的能力。这一技术进步将推动AI领域内新的研究热潮，加速AI技术在各行业的深度应用。</p>
-<p>### 行业生态影响</p>
-<p>GPT-5的发布将加剧全球AI领域的竞争态势，促使各国技术和企业提高技术水平，争夺市场主导权。对于国内AI厂商而言，这既是挑战也是机遇，一方面需要加大研发投入，另一方面则有机会通过差异化创新，发掘新的市场机会。可以预见，GPT-5将催生出更多以AI为基础的创新服务和产品，如智能客服、虚拟助手、在线教育等，从而改变传统行业的运营模式。</p>
-<p>### 战略建议</p>
-<p>企业应加大在AI基础技术上的投入，尤其是算法研究和算力基础设施建设，同时关注多模态数据处理和AI伦理等问题。人才方面，需重视复合型人才的培养和引进，特别是具备跨学科背景和实际项目经验的专业人才。此外，与领先厂商建立合作关系，共享资源，共同推进AI技术的研发和商业化进程。</p></div>
-                </div>
-                
-                <hr class="section-divider">
-                
-                <h2 class="analysis-title">
-                    <span>📈</span>
-                    <span>投资方向</span>
-                </h2>
-                <div class="analysis-content">
-                    <div class="investment-analysis"><p>### 市场影响分析</p>
-<p>**短期波动幅度**：鉴于GPT-5发布为市场带来显著的正面刺激，预计短期内相关概念股将出现显著的波动，尤其是AI板块内的龙头股和直接上下游公司。波动幅度可能会高达10%至20%，具体表现需结合市场情绪和资金流动情况。</p>
-<p>**资金流向和交易量变化**：市场资金预计将迅速流入AI相关领域，特别是基础设施和应用服务层面的公司。短期内，这些公司的股票交易量可能会显著增加，资金流向也将更加集中。</p>
-<p>**情绪影响**：该事件将显著提高市场对于整个AI产业的情绪，提升投资者对于AI技术进步和应用前景的信心，整体情绪有望进入一个积极的周期。</p>
-<p>### 投资标的梳理</p>
-<p>**基础设施层**：</p>
-<p>- 算力：浪潮信息(000977.SZ)</p>
-<p>- 芯片：寒武纪-U(688256.SH)</p>
-<p>**应用服务层**：</p>
-<p>- AI平台：科大讯飞(002230.SZ)</p>
-<p>- 垂直应用：云从科技(688327.SH)</p>
-<p>### 时间窗口建议</p>
-<p>**短期(1-3个月)**：重点关注算力需求增长、芯片供应以及AI应用的商业化进展。操作上，可采取逢低买入策略。</p>
-<p>**中期(3-12个月)**：关注技术落地情况及商业化应用的拓展情况，技术落地的进展将直接决定AI公司未来的增长潜力。</p>
-<p>**长期(1-3年)**：战略布局需要关注AI技术的持续创新及其在各行业中的深度应用，寻找具有长期增长潜力的标的。</p>
-<p>### 风险提示</p>
-<p>- **技术风险**：尽管GPT-5具有革命性，但其技术成熟度和稳定性仍需验证。</p>
-<p>- **市场风险**：全球AI市场竞争加剧，可能导致市场份额争夺激烈。</p>
-<p>- **政策风险**：各国政府对AI技术的监管政策可能影响行业的发展步伐。</p></div>
-                </div>
-                
-                <hr class="section-divider">
-                
-                <h2 class="analysis-title">
-                    <span>📄</span>
-                    <span>原文摘要</span>
-                </h2>
-                <div class="analysis-content">
-                    <strong>英文标题：</strong>🚀 重大突破：OpenAI发布GPT-5革命性AI模型<br><br>
-                    <strong>内容摘要：</strong>OpenAI正式发布下一代人工智能GPT-5，在推理能力和多模态理解方面实现前所未有的突破性进展。
-                </div>
-            </section>
-            
-            <div class="action-buttons">
-                <a href="https://example.com/news1" target="_blank" class="action-button primary-button">
-                    阅读原文
-                </a>
-                <a href="../index.html" class="action-button secondary-button">
-                    返回首页
-                </a>
-            </div>
-        </article>
-        
-        <!-- 导航到上一篇/下一篇 -->
-        <div class="navigation">
-            <div class="nav-card disabled">
-                <div class="nav-label">上一篇</div>
-                <div class="nav-title">已是第一篇</div>
-            </div>
-            <a href="news_1.html" class="nav-card">
-                <div class="nav-label">下一篇</div>
-                <div class="nav-title">📰 AI资讯：🔍 谷歌AI：Bard智能助手重大功能升级发布</div>
-            </a>
+            <a href="../index.html" class="back-button">← 返回首页</a>
+            <h1>AI科技日报</h1>
         </div>
     </div>
     
+    <div class="container">
+        <article class="article">
+            <h1 class="article-title">📰 AI资讯：Look out ChatGPT - the creator of Proton Mail has just launched a new AI chatbot that’s super-secure and private</h1>
+            <p class="article-description">这是一条重要的人工智能行业资讯，反映了当前AI技术发展的重要动向和趋势。</p>
+            <div style="text-align: center;">
+                <a href="https://www.techradar.com/computing/artificial-intelligence/look-out-chatgpt-the-creator-of-proton-mail-has-just-launched-a-new-ai-chatbot-thats-super-secure-and-private" target="_blank" class="read-original">阅读原文</a>
+            </div>
+        </article>
+    </div>
+    
     <script>
-        // 主题切换
         function toggleTheme() {
             const body = document.body;
-            const themeIcon = document.querySelector('.theme-icon');
-            const themeText = document.querySelector('.theme-text');
+            const themeToggle = document.querySelector('.theme-toggle');
             
             if (body.getAttribute('data-theme') === 'dark') {
                 body.setAttribute('data-theme', 'light');
-                themeIcon.textContent = '🌙';
-                if (themeText) themeText.textContent = '夜间模式';
+                themeToggle.textContent = '🌙';
                 localStorage.setItem('theme', 'light');
             } else {
                 body.setAttribute('data-theme', 'dark');
-                themeIcon.textContent = '☀️';
-                if (themeText) themeText.textContent = '日间模式';
+                themeToggle.textContent = '☀️';
                 localStorage.setItem('theme', 'dark');
             }
         }
         
-        // 页面加载时恢复主题
         document.addEventListener('DOMContentLoaded', function() {
             const savedTheme = localStorage.getItem('theme') || 'light';
-            const themeIcon = document.querySelector('.theme-icon');
-            const themeText = document.querySelector('.theme-text');
+            const themeToggle = document.querySelector('.theme-toggle');
             
             if (savedTheme === 'dark') {
                 document.body.setAttribute('data-theme', 'dark');
-                themeIcon.textContent = '☀️';
-                if (themeText) themeText.textContent = '日间模式';
+                themeToggle.textContent = '☀️';
             }
         });
-        
-        // 分享功能
-        function shareArticle() {
-            if (navigator.share) {
-                navigator.share({
-                    title: '📰 AI资讯：🚀 重大突破：OpenAI发布GPT-5革命性AI模型',
-                    text: 'OpenAI正式发布下一代人工智能GPT-5，在推理能力和多模态理解方面实现前所未有的突破性进展。...',
-                    url: window.location.href
-                }).then(() => {
-                    console.log('分享成功');
-                }).catch((error) => {
-                    console.log('分享失败:', error);
-                    fallbackShare();
-                });
-            } else {
-                fallbackShare();
-            }
-        }
-        
-        function fallbackShare() {
-            const url = window.location.href;
-            const title = '📰 AI资讯：🚀 重大突破：OpenAI发布GPT-5革命性AI模型';
-            
-            if (navigator.clipboard) {
-                navigator.clipboard.writeText(url).then(() => {
-                    alert('链接已复制到剪贴板');
-                }).catch(() => {
-                    showShareOptions(url, title);
-                });
-            } else {
-                showShareOptions(url, title);
-            }
-        }
-        
-        function showShareOptions(url, title) {
-            const shareText = `${title} - ${url}`;
-            prompt('复制链接分享:', shareText);
-        }
     </script>
 </body>
 </html>
