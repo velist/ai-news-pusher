@@ -1452,19 +1452,19 @@ class AppleStyleNewsGenerator:
 
 
 if __name__ == "__main__":
-    # 测试用例
+    # 完全中文化测试数据
     test_articles = [
         {
-            'title': 'OpenAI Announces GPT-5 Revolutionary Breakthrough',
-            'description': 'OpenAI reveals the next generation of AI with unprecedented capabilities in reasoning and multimodal understanding.',
+            'title': '🚀 重大突破：OpenAI发布GPT-5革命性AI模型',
+            'description': 'OpenAI正式发布下一代人工智能GPT-5，在推理能力和多模态理解方面实现前所未有的突破性进展。',
             'url': 'https://example.com/news1',
             'source': {'name': 'TechCrunch'},
             'publishedAt': '2024-01-20T08:00:00Z',
             'image': ''
         },
         {
-            'title': 'Google Bard Gets Major Update with New Features', 
-            'description': 'Google enhances Bard with improved conversational abilities and integration with more services.',
+            'title': '🔍 谷歌AI：Bard智能助手重大功能升级发布', 
+            'description': '谷歌大幅增强Bard对话能力，新增多项服务集成功能，进一步提升用户智能交互体验。',
             'url': 'https://example.com/news2',
             'source': {'name': 'The Verge'},
             'publishedAt': '2024-01-20T07:30:00Z',
@@ -1476,4 +1476,4 @@ if __name__ == "__main__":
     success = generator.generate_optimized_html(test_articles)
     
     if success:
-        print("🎉 简中用户友好页面生成测试完成！")
+        print("🎉 纯中文页面生成完成！")
