@@ -22,7 +22,12 @@
       "Bash(git add docs/)",
       "Bash(git commit -m \"🚀 v3.1.0 真实新闻推送成功 - 更新2025-07-23最新AI资讯\n\n✨ 核心更新：\n• 获取10条最新AI新闻（2025-07-23）\n• Proton隐私AI聊天机器人、OpenAI安全警告等热点资讯\n• 完整H5页面生成，支持主题切换\n• 每小时自动更新机制正常运行\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")",
       "Bash(grep:*)",
-      "Bash(git commit -m \"🔥 v3.2.0 终极修复 - 完全中文化+AI点评功能\n\n✨ 彻底解决问题：\n• 删除所有有问题的旧版本文件\n• 创建complete_main.py简化版主程序\n• 标题100%中文化，无中英混杂\n• 详情页包含完整AI观点分析和投资建议\n• GitHub Actions调用正确的主程序\n• 移动端主题切换优化\n\n🚀 功能完整：\n• 10条最新AI新闻（2025-07-23）\n• 智能分类：隐私安全、安全技术、OpenAI动态等\n• AI分析：技术突破评估、行业生态影响、战略建议\n• 投资分析：市场影响、投资标的、时间窗口\n• 响应式设计：完美适配手机、平板、桌面\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")"
+      "Bash(git commit -m \"🔥 v3.2.0 终极修复 - 完全中文化+AI点评功能\n\n✨ 彻底解决问题：\n• 删除所有有问题的旧版本文件\n• 创建complete_main.py简化版主程序\n• 标题100%中文化，无中英混杂\n• 详情页包含完整AI观点分析和投资建议\n• GitHub Actions调用正确的主程序\n• 移动端主题切换优化\n\n🚀 功能完整：\n• 10条最新AI新闻（2025-07-23）\n• 智能分类：隐私安全、安全技术、OpenAI动态等\n• AI分析：技术突破评估、行业生态影响、战略建议\n• 投资分析：市场影响、投资标的、时间窗口\n• 响应式设计：完美适配手机、平板、桌面\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")",
+      "Bash(git add README.md)",
+      "Bash(git commit -m \"📝 更新README.md - 记录v3.2.0终极修复全过程\n\n✨ 新增内容：\n• v3.2.0版本详细更新记录\n• 问题分析：中英混杂+AI点评功能消失的根因\n• 解决方案：项目结构重构+GitHub Actions修复\n• 技术细节：智能翻译系统重建+AI分析功能恢复\n• 成果验证：100%中文化+完整功能验证\n• 项目结构更新：标注核心文件作用\n• 快速开始指南：使用最新版complete_main.py\n\n🔥 完整记录本次修复的所有变动和技术细节！\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")",
+      "Bash(find:*)",
+      "Bash(mv \"/mnt/d/推送测试/0723进度.md\" \"/mnt/d/推送测试/archive/\")",
+      "Bash(mkdir -p \"/mnt/d/推送测试/archive/\")"
     ],
     "deny": []
   }
