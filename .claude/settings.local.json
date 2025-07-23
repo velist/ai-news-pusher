@@ -15,7 +15,10 @@
       "Bash(mv:*)",
       "Bash(cd \"/mnt/d/推送测试\")",
       "Bash(python3 optimized_html_generator.py)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(rm:*)",
+      "Bash(git commit --amend -m \"🚀 v3.0.0 AI革命性升级 - 硅基流动API深度集成\n\n✨ 核心功能升级：\n• 🧠 集成硅基流动Qwen2.5-14B智能分析\n• 💰 真实AI驱动的投资分析和股票推荐  \n• 🔬 专业技术突破评估和行业洞察\n• 📈 精准市场波动预测和资金流向分析\n\n🎯 技术亮点：\n• API智能降级机制，确保系统稳定性\n• 动态内容格式化，完美适配响应式设计\n• 真正实现AI驱动的个性化内容生成\n\n🔒 安全优化：清理敏感信息，符合GitHub安全规范\n\n🎉 Generated with [Claude Code](https://claude.ai/code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\")",
+      "Bash(rm \"/mnt/d/推送测试/github-recovery-codes.txt\")"
     ],
     "deny": []
   }

@@ -1,18 +1,23 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-优化的H5新闻页面生成器 - 简中用户友好版本
-专门针对中国用户习惯和需求优化
+优化的H5新闻页面生成器 - 简中用户友好版本 + 智能AI分析
+专门针对中国用户习惯和需求优化，集成硅基流动AI智能分析
 """
 
 import json
 import os
+import re
 from datetime import datetime
+from intelligent_analyzer import SiliconCloudAnalyzer
 
 
 class AppleStyleNewsGenerator:
-    def __init__(self):
+    def __init__(self, api_key: str = None):
         self.today = datetime.now()
+        # 初始化智能分析器，使用提供的API密钥
+        self.analyzer = SiliconCloudAnalyzer(api_key)
+        print("🤖 智能分析器已初始化 - 支持硅基流动AI深度分析")
     
     def categorize_news(self, title):
         """新闻分类"""
@@ -1361,18 +1366,7 @@ class AppleStyleNewsGenerator:
                     <span>AI观点</span>
                 </h2>
                 <div class="analysis-content">
-                    <div class="ai-analysis">
-                        <h4>🔬 技术突破评估</h4>
-                        <p>基于该新闻技术内容分析，这一发展代表了AI领域的重要里程碑。从架构角度看，新技术将重塑现有产品形态，推动行业标准升级。</p>
-                        
-                        <h4>🌐 行业生态影响</h4>
-                        <p>• <strong>技术竞争格局：</strong>将加剧全球AI竞争，国内厂商需加快技术迭代步伐<br>
-                        • <strong>应用场景拓展：</strong>有望催生新的商业模式和应用领域<br>
-                        • <strong>产业链重塑：</strong>上下游企业面临技术升级和合作机会</p>
-                        
-                        <h4>🎯 战略建议</h4>
-                        <p>企业应重点关注技术壁垒构建、人才储备加强，以及与领先厂商的合作机会。同时需评估现有产品的技术债务和升级路径。</p>
-                    </div>
+                    {self._generate_smart_ai_viewpoint(news)}
                 </div>
                 
                 <hr class="section-divider">
@@ -1382,28 +1376,7 @@ class AppleStyleNewsGenerator:
                     <span>投资方向</span>
                 </h2>
                 <div class="analysis-content">
-                    <div class="investment-analysis">
-                        <h4>📊 市场影响分析</h4>
-                        <p><strong>短期波动预期：</strong>相关概念股可能出现3-5%的波动，建议关注交易量变化和资金流向。</p>
-                        
-                        <h4>💼 投资标的梳理</h4>
-                        <div class="investment-targets">
-                            <p><strong>🏭 基础设施层：</strong><br>
-                            • 算力服务商：浪潮信息(000977)、中科曙光(603019)<br>
-                            • 芯片制造：寒武纪(688256)、海光信息(688041)</p>
-                            
-                            <p><strong>🤖 应用服务层：</strong><br>
-                            • AI平台：科大讯飞(002230)、汉王科技(002362)<br>
-                            • 垂直应用：拓尔思(300229)、久远银海(002777)</p>
-                        </div>
-                        
-                        <h4>⏰ 时间窗口建议</h4>
-                        <p><strong>短期(1-3个月)：</strong>关注财报季表现，重点布局业绩确定性强的龙头<br>
-                        <strong>中期(3-12个月)：</strong>聚焦技术落地进度和商业化变现能力<br>
-                        <strong>长期(1-3年)：</strong>布局具备核心技术壁垒和生态整合能力的平台型企业</p>
-                        
-                        <p class="risk-warning">⚠️ <strong>风险提示：</strong>AI板块波动较大，建议分批建仓，严格止损。</p>
-                    </div>
+                    {self._generate_smart_investment_analysis(news)}
                 </div>
                 
                 <hr class="section-divider">
@@ -1536,9 +1509,158 @@ class AppleStyleNewsGenerator:
 </html>'''
         
         return detail_html
+    
+    def _generate_smart_ai_viewpoint(self, news: dict) -> str:
+        """生成智能AI观点分析"""
+        print(f"🤖 正在生成AI观点分析: {news['title'][:50]}...")
+        
+        try:
+            # 调用智能分析器
+            smart_content = self.analyzer.generate_ai_viewpoint(
+                news['title'], 
+                news['description']
+            )
+            
+            # 如果获取到智能内容，进行格式化处理
+            if smart_content and not smart_content.startswith('<div'):
+                # 将纯文本转换为HTML格式
+                formatted_content = self._format_ai_analysis(smart_content)
+                return f'<div class="ai-analysis">{formatted_content}</div>'
+            else:
+                return smart_content or self._get_fallback_ai_content()
+                
+        except Exception as e:
+            print(f"❌ AI观点生成失败: {str(e)}")
+            return self._get_fallback_ai_content()
+    
+    def _generate_smart_investment_analysis(self, news: dict) -> str:
+        """生成智能投资分析"""
+        print(f"💰 正在生成投资分析: {news['title'][:50]}...")
+        
+        try:
+            # 调用智能分析器
+            smart_content = self.analyzer.generate_investment_analysis(
+                news['title'], 
+                news['description']
+            )
+            
+            # 如果获取到智能内容，进行格式化处理
+            if smart_content and not smart_content.startswith('<div'):
+                # 将纯文本转换为HTML格式
+                formatted_content = self._format_investment_analysis(smart_content)
+                return f'<div class="investment-analysis">{formatted_content}</div>'
+            else:
+                return smart_content or self._get_fallback_investment_content()
+                
+        except Exception as e:
+            print(f"❌ 投资分析生成失败: {str(e)}")
+            return self._get_fallback_investment_content()
+    
+    def _format_ai_analysis(self, content: str) -> str:
+        """格式化AI分析内容"""
+        # 处理标题格式
+        content = content.replace('🔬 技术突破评估：', '<h4>🔬 技术突破评估</h4>')
+        content = content.replace('🌐 行业生态影响：', '<h4>🌐 行业生态影响</h4>')
+        content = content.replace('🎯 战略建议：', '<h4>🎯 战略建议</h4>')
+        
+        # 处理换行
+        lines = content.split('\n')
+        formatted_lines = []
+        for line in lines:
+            line = line.strip()
+            if line:
+                if line.startswith('<h4>'):
+                    formatted_lines.append(line)
+                elif line.startswith('•') or line.startswith('-'):
+                    formatted_lines.append(f'<p>{line}</p>')
+                else:
+                    formatted_lines.append(f'<p>{line}</p>')
+        
+        return '\n'.join(formatted_lines)
+    
+    def _format_investment_analysis(self, content: str) -> str:
+        """格式化投资分析内容"""
+        # 处理标题格式
+        content = content.replace('📊 市场影响分析：', '<h4>📊 市场影响分析</h4>')
+        content = content.replace('💼 投资标的梳理：', '<h4>💼 投资标的梳理</h4>')
+        content = content.replace('⏰ 时间窗口建议：', '<h4>⏰ 时间窗口建议</h4>')
+        
+        # 处理投资标的部分
+        if '基础设施层：' in content and '应用服务层：' in content:
+            # 为投资标的添加背景样式
+            targets_pattern = r'(基础设施层：.*?)(应用服务层：.*?)(?=⏰|$)'
+            targets_match = re.search(targets_pattern, content, re.DOTALL)
+            if targets_match:
+                targets_content = targets_match.group(0)
+                formatted_targets = f'<div class="investment-targets">{targets_content}</div>'
+                content = content.replace(targets_content, formatted_targets)
+        
+        # 处理风险提示
+        if '⚠️' in content or '风险提示' in content:
+            content = re.sub(r'(⚠️.*?风险提示.*?)(\n|$)', r'<p class="risk-warning">\1</p>\2', content)
+        
+        # 处理换行
+        lines = content.split('\n')
+        formatted_lines = []
+        for line in lines:
+            line = line.strip()
+            if line:
+                if line.startswith('<h4>') or line.startswith('<div') or line.startswith('<p class="risk-warning">'):
+                    formatted_lines.append(line)
+                else:
+                    formatted_lines.append(f'<p>{line}</p>')
+        
+        return '\n'.join(formatted_lines)
+    
+    def _get_fallback_ai_content(self) -> str:
+        """备用AI观点内容"""
+        return '''
+        <div class="ai-analysis">
+            <h4>🔬 技术突破评估</h4>
+            <p>基于该新闻技术内容分析，这一发展代表了AI领域的重要里程碑。从架构角度看，新技术将重塑现有产品形态，推动行业标准升级。</p>
+            
+            <h4>🌐 行业生态影响</h4>
+            <p>• <strong>技术竞争格局：</strong>将加剧全球AI竞争，国内厂商需加快技术迭代步伐<br>
+            • <strong>应用场景拓展：</strong>有望催生新的商业模式和应用领域<br>
+            • <strong>产业链重塑：</strong>上下游企业面临技术升级和合作机会</p>
+            
+            <h4>🎯 战略建议</h4>
+            <p>企业应重点关注技术壁垒构建、人才储备加强，以及与领先厂商的合作机会。同时需评估现有产品的技术债务和升级路径。</p>
+        </div>
+        '''
+    
+    def _get_fallback_investment_content(self) -> str:
+        """备用投资分析内容"""
+        return '''
+        <div class="investment-analysis">
+            <h4>📊 市场影响分析</h4>
+            <p><strong>短期波动预期：</strong>相关概念股可能出现3-5%的波动，建议关注交易量变化和资金流向。</p>
+            
+            <h4>💼 投资标的梳理</h4>
+            <div class="investment-targets">
+                <p><strong>🏭 基础设施层：</strong><br>
+                • 算力服务商：浪潮信息(000977)、中科曙光(603019)<br>
+                • 芯片制造：寒武纪(688256)、海光信息(688041)</p>
+                
+                <p><strong>🤖 应用服务层：</strong><br>
+                • AI平台：科大讯飞(002230)、汉王科技(002362)<br>
+                • 垂直应用：拓尔思(300229)、久远银海(002777)</p>
+            </div>
+            
+            <h4>⏰ 时间窗口建议</h4>
+            <p><strong>短期(1-3个月)：</strong>关注财报季表现，重点布局业绩确定性强的龙头<br>
+            <strong>中期(3-12个月)：</strong>聚焦技术落地进度和商业化变现能力<br>
+            <strong>长期(1-3年)：</strong>布局具备核心技术壁垒和生态整合能力的平台型企业</p>
+            
+            <p class="risk-warning">⚠️ <strong>风险提示：</strong>AI板块波动较大，建议分批建仓，严格止损。</p>
+        </div>
+        '''
 
 
 if __name__ == "__main__":
+    # 配置硅基流动API密钥
+    API_KEY = "sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa"
+    
     # 完全中文化测试数据
     test_articles = [
         {
@@ -1559,7 +1681,7 @@ if __name__ == "__main__":
         }
     ]
     
-    generator = AppleStyleNewsGenerator()
+    generator = AppleStyleNewsGenerator(API_KEY)
     success = generator.generate_optimized_html(test_articles)
     
     if success:
