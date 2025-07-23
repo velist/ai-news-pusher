@@ -556,6 +556,20 @@ class AppleStyleNewsGenerator:
             gap: var(--spacing-xs);
         }}
         
+        .news-meta {{
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing-xs);
+        }}
+        
+        .publish-date {{
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+        }}
+        
         .read-more {{
             background-color: var(--color-primary);
             color: white;
@@ -757,9 +771,15 @@ class AppleStyleNewsGenerator:
                     <p class="news-description">{news['description']}</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>{news['source']}</span>
+                    <div class="news-meta">
+                        <div class="source">
+                            <span>📰</span>
+                            <span>{news['source']}</span>
+                        </div>
+                        <div class="publish-date">
+                            <span>🕒</span>
+                            <span>{datetime.fromisoformat(news['publishedAt'].replace('Z', '+00:00')).strftime('%Y-%m-%d %H:%M')}</span>
+                        </div>
                     </div>
                     <div class="read-more">
                         查看详情
@@ -1090,6 +1110,42 @@ class AppleStyleNewsGenerator:
             font-weight: 600;
         }}
         
+        /* AI分析和投资分析专用样式 */
+        .ai-analysis h4, .investment-analysis h4 {{
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin: var(--spacing-md) 0 var(--spacing-sm) 0;
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+        }}
+        
+        .investment-targets {{
+            background-color: var(--bg-secondary);
+            padding: var(--spacing-md);
+            border-radius: var(--radius-medium);
+            margin: var(--spacing-sm) 0;
+        }}
+        
+        .investment-targets p {{
+            margin-bottom: var(--spacing-sm);
+        }}
+        
+        .risk-warning {{
+            background-color: #FFF3CD;
+            border: 1px solid #FFEAA7;
+            padding: var(--spacing-sm);
+            border-radius: var(--radius-small);
+            margin-top: var(--spacing-md);
+            font-size: 0.9rem;
+        }}
+        
+        [data-theme="dark"] .risk-warning {{
+            background-color: #2D1B0E;
+            border-color: #8B4513;
+        }}
+        
         .section-divider {{
             border: none;
             height: 0.5px;
@@ -1305,7 +1361,18 @@ class AppleStyleNewsGenerator:
                     <span>AI观点</span>
                 </h2>
                 <div class="analysis-content">
-                    基于当前技术发展趋势，该新闻反映出AI领域的重要变化。从技术角度看，这一发展将推动相关技术栈的进步，影响整个行业生态。建议关注其对现有产品和服务的潜在冲击，以及可能带来的新机遇。
+                    <div class="ai-analysis">
+                        <h4>🔬 技术突破评估</h4>
+                        <p>基于该新闻技术内容分析，这一发展代表了AI领域的重要里程碑。从架构角度看，新技术将重塑现有产品形态，推动行业标准升级。</p>
+                        
+                        <h4>🌐 行业生态影响</h4>
+                        <p>• <strong>技术竞争格局：</strong>将加剧全球AI竞争，国内厂商需加快技术迭代步伐<br>
+                        • <strong>应用场景拓展：</strong>有望催生新的商业模式和应用领域<br>
+                        • <strong>产业链重塑：</strong>上下游企业面临技术升级和合作机会</p>
+                        
+                        <h4>🎯 战略建议</h4>
+                        <p>企业应重点关注技术壁垒构建、人才储备加强，以及与领先厂商的合作机会。同时需评估现有产品的技术债务和升级路径。</p>
+                    </div>
                 </div>
                 
                 <hr class="section-divider">
@@ -1315,8 +1382,28 @@ class AppleStyleNewsGenerator:
                     <span>投资方向</span>
                 </h2>
                 <div class="analysis-content">
-                    <strong>短期关注：</strong>相关概念股可能出现波动，建议关注市场反应和资金流向。<br><br>
-                    <strong>中长期布局：</strong>重点关注技术落地应用、产业化进程和市场接受度。建议关注产业链上下游企业，特别是具备核心技术优势和商业化能力的公司。
+                    <div class="investment-analysis">
+                        <h4>📊 市场影响分析</h4>
+                        <p><strong>短期波动预期：</strong>相关概念股可能出现3-5%的波动，建议关注交易量变化和资金流向。</p>
+                        
+                        <h4>💼 投资标的梳理</h4>
+                        <div class="investment-targets">
+                            <p><strong>🏭 基础设施层：</strong><br>
+                            • 算力服务商：浪潮信息(000977)、中科曙光(603019)<br>
+                            • 芯片制造：寒武纪(688256)、海光信息(688041)</p>
+                            
+                            <p><strong>🤖 应用服务层：</strong><br>
+                            • AI平台：科大讯飞(002230)、汉王科技(002362)<br>
+                            • 垂直应用：拓尔思(300229)、久远银海(002777)</p>
+                        </div>
+                        
+                        <h4>⏰ 时间窗口建议</h4>
+                        <p><strong>短期(1-3个月)：</strong>关注财报季表现，重点布局业绩确定性强的龙头<br>
+                        <strong>中期(3-12个月)：</strong>聚焦技术落地进度和商业化变现能力<br>
+                        <strong>长期(1-3年)：</strong>布局具备核心技术壁垒和生态整合能力的平台型企业</p>
+                        
+                        <p class="risk-warning">⚠️ <strong>风险提示：</strong>AI板块波动较大，建议分批建仓，严格止损。</p>
+                    </div>
                 </div>
                 
                 <hr class="section-divider">

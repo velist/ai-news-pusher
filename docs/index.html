@@ -303,6 +303,20 @@
             gap: var(--spacing-xs);
         }
         
+        .news-meta {
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing-xs);
+        }
+        
+        .publish-date {
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+        }
+        
         .read-more {
             background-color: var(--color-primary);
             color: white;
@@ -494,9 +508,15 @@
                     <p class="news-description">OpenAI正式发布下一代人工智能GPT-5，在推理能力和多模态理解方面实现前所未有的突破性进展。</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>TechCrunch</span>
+                    <div class="news-meta">
+                        <div class="source">
+                            <span>📰</span>
+                            <span>TechCrunch</span>
+                        </div>
+                        <div class="publish-date">
+                            <span>🕒</span>
+                            <span>2024-01-20 08:00</span>
+                        </div>
                     </div>
                     <div class="read-more">
                         查看详情
@@ -519,9 +539,15 @@
                     <p class="news-description">谷歌大幅增强Bard对话能力，新增多项服务集成功能，进一步提升用户智能交互体验。</p>
                 </div>
                 <div class="card-footer">
-                    <div class="source">
-                        <span>📰</span>
-                        <span>The Verge</span>
+                    <div class="news-meta">
+                        <div class="source">
+                            <span>📰</span>
+                            <span>The Verge</span>
+                        </div>
+                        <div class="publish-date">
+                            <span>🕒</span>
+                            <span>2024-01-20 07:30</span>
+                        </div>
                     </div>
                     <div class="read-more">
                         查看详情
