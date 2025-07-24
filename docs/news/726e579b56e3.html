@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>萨姆·阿尔特曼称“集体决定按照人工智能的方式生活感觉糟糕且危险”OpenAI CEO担忧人工智能主导的未来 - AI科技日报</title>
+    <style>
+        :root {
+            --color-primary: #007AFF;
+            --color-success: #10B981;
+            --color-warning: #F59E0B;
+            --color-error: #EF4444;
+            --bg-primary: #FFFFFF;
+            --bg-secondary: #F2F2F7;
+            --bg-tertiary: #E5E5EA;
+            --text-primary: #000000;
+            --text-secondary: #3C3C43;
+            --text-tertiary: #8E8E93;
+            --spacing-sm: 8px;
+            --spacing-md: 16px;
+            --spacing-lg: 24px;
+            --radius-small: 8px;
+            --radius-medium: 12px;
+            --radius-large: 16px;
+            --shadow-light: 0 2px 8px rgba(0, 0, 0, 0.05);
+            --shadow-medium: 0 4px 16px rgba(0, 0, 0, 0.1);
+        }
+        
+        [data-theme="dark"] {
+            --color-primary: #0A84FF;
+            --bg-primary: #000000;
+            --bg-secondary: #1C1C1E;
+            --bg-tertiary: #2C2C2E;
+            --text-primary: #FFFFFF;
+            --text-secondary: #EBEBF5;
+            --text-tertiary: #8E8E93;
+            --shadow-light: 0 2px 8px rgba(255, 255, 255, 0.05);
+            --shadow-medium: 0 4px 16px rgba(255, 255, 255, 0.1);
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+            background-color: var(--bg-secondary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            transition: all 0.3s ease;
+        }
+        
+        .container { max-width: 900px; margin: 0 auto; padding: 0 var(--spacing-md); }
+        
+        .header {
+            background-color: var(--bg-primary);
+            padding: var(--spacing-lg) 0;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: var(--shadow-light);
+        }
+        
+        .back-button {
+            color: var(--color-primary);
+            text-decoration: none;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            margin-bottom: var(--spacing-sm);
+        }
+        
+        .back-button:hover {
+            opacity: 0.7;
+        }
+        
+        .article {
+            background-color: var(--bg-primary);
+            border-radius: var(--radius-large);
+            margin: var(--spacing-lg) 0;
+            padding: var(--spacing-lg);
+            box-shadow: var(--shadow-light);
+        }
+        
+        /* 翻译控制面板 */
+        .translation-controls {
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin-bottom: var(--spacing-lg);
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--spacing-md);
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .language-toggle {
+            display: flex;
+            background-color: var(--bg-tertiary);
+            border-radius: var(--radius-small);
+            padding: 4px;
+        }
+        
+        .language-btn {
+            padding: var(--spacing-sm) var(--spacing-md);
+            border: none;
+            background: transparent;
+            color: var(--text-secondary);
+            cursor: pointer;
+            border-radius: var(--radius-small);
+            font-weight: 500;
+            transition: all 0.2s ease;
+        }
+        
+        .language-btn.active {
+            background-color: var(--color-primary);
+            color: white;
+        }
+        
+        .quality-indicator {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            font-size: 0.875rem;
+            font-weight: 500;
+        }
+        
+        .quality-score {
+            background-color: var(--bg-primary);
+            padding: 4px 8px;
+            border-radius: var(--radius-small);
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        
+        /* 内容区域 */
+        .content-section {
+            margin-bottom: var(--spacing-lg);
+        }
+        
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            margin-bottom: var(--spacing-md);
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+        }
+        
+        .article-title {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: var(--spacing-md);
+            color: var(--text-primary);
+            line-height: 1.3;
+        }
+        
+        .article-description {
+            font-size: 1.125rem;
+            color: var(--text-secondary);
+            margin-bottom: var(--spacing-lg);
+            line-height: 1.6;
+        }
+        
+        /* 对照显示 */
+        .comparison-view {
+            display: none;
+        }
+        
+        .comparison-view.active {
+            display: block;
+        }
+        
+        .comparison-item {
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin-bottom: var(--spacing-md);
+        }
+        
+        .comparison-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-tertiary);
+            margin-bottom: var(--spacing-sm);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .comparison-content {
+            font-size: 1rem;
+            line-height: 1.6;
+        }
+        
+        .comparison-content.chinese {
+            color: var(--text-primary);
+            font-weight: 500;
+        }
+        
+        .comparison-content.english {
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+        
+        /* 翻译详情 */
+        .translation-details {
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin: var(--spacing-lg) 0;
+        }
+        
+        .translation-details h4 {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: var(--spacing-md);
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+        }
+        
+        .translation-meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: var(--spacing-md);
+        }
+        
+        .meta-item {
+            background-color: var(--bg-primary);
+            padding: var(--spacing-sm) var(--spacing-md);
+            border-radius: var(--radius-small);
+        }
+        
+        .meta-label {
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            margin-bottom: 2px;
+        }
+        
+        .meta-value {
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: var(--text-primary);
+        }
+        
+        /* 用户反馈 */
+        .feedback-section {
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin: var(--spacing-lg) 0;
+        }
+        
+        .feedback-buttons {
+            display: flex;
+            gap: var(--spacing-sm);
+            margin-top: var(--spacing-md);
+        }
+        
+        .feedback-btn {
+            padding: var(--spacing-sm) var(--spacing-md);
+            border: 1px solid var(--bg-tertiary);
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            border-radius: var(--radius-small);
+            cursor: pointer;
+            font-size: 0.875rem;
+            transition: all 0.2s ease;
+        }
+        
+        .feedback-btn:hover {
+            background-color: var(--color-primary);
+            color: white;
+            border-color: var(--color-primary);
+        }
+        
+        .feedback-btn.selected {
+            background-color: var(--color-primary);
+            color: white;
+            border-color: var(--color-primary);
+        }
+        
+        /* AI分析和投资分析样式保持不变 */
+        .ai-analysis, .investment-analysis {
+            margin: var(--spacing-lg) 0;
+            padding: var(--spacing-lg);
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-large);
+        }
+        
+        .ai-analysis h4, .investment-analysis h4 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin: var(--spacing-md) 0 var(--spacing-md) 0;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .investment-targets {
+            background-color: var(--bg-primary);
+            padding: var(--spacing-md);
+            border-radius: 12px;
+            margin: var(--spacing-md) 0;
+        }
+        
+        .risk-warning {
+            background-color: #FFF3CD;
+            border: 1px solid #FFEAA7;
+            padding: var(--spacing-md);
+            border-radius: 8px;
+            margin-top: var(--spacing-md);
+            font-size: 0.9rem;
+        }
+        
+        [data-theme="dark"] .risk-warning {
+            background-color: #332B00;
+            border-color: #665500;
+        }
+        
+        .read-original {
+            background-color: var(--color-primary);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-block;
+            transition: opacity 0.2s ease;
+        }
+        
+        .read-original:hover {
+            opacity: 0.8;
+        }
+        
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--bg-secondary);
+            border: none;
+            border-radius: 20px;
+            padding: 8px 16px;
+            color: var(--text-primary);
+            cursor: pointer;
+            z-index: 1000;
+            box-shadow: var(--shadow-light);
+            transition: all 0.2s ease;
+        }
+        
+        .theme-toggle:hover {
+            transform: scale(1.05);
+        }
+        
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            .container { padding: 0 var(--spacing-sm); }
+            
+            .translation-controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .quality-indicator {
+                justify-content: center;
+            }
+            
+            .translation-meta {
+                grid-template-columns: 1fr;
+            }
+            
+            .feedback-buttons {
+                flex-wrap: wrap;
+            }
+            
+            .article-title {
+                font-size: 1.5rem;
+            }
+            
+            .theme-toggle {
+                padding: 8px;
+                border-radius: 50%;
+                width: 40px;
+                height: 40px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <button class="theme-toggle" onclick="toggleTheme()">🌙</button>
+    
+    <div class="header">
+        <div class="container">
+            <a href="../index.html" class="back-button">← 返回首页</a>
+            <h1>AI科技日报</h1>
+        </div>
+    </div>
+    
+    <div class="container">
+        <article class="article">
+            <!-- 翻译控制面板 -->
+            <div class="translation-controls">
+                <div class="language-toggle">
+                    <button class="language-btn active" onclick="showChinese()" id="chinese-btn">
+                        🇨🇳 中文
+                    </button>
+                    <button class="language-btn" onclick="showComparison()" id="comparison-btn">
+                        🔄 对照
+                    </button>
+                    <button class="language-btn" onclick="showEnglish()" id="english-btn">
+                        🇺🇸 英文
+                    </button>
+                </div>
+                
+                <div class="quality-indicator">
+                    <span style="color: #F59E0B;">🟡 良好</span>
+                    <span class="quality-score" style="background-color: #F59E0B; color: white;">
+                        67.6%
+                    </span>
+                </div>
+            </div>
+            
+            <!-- 中文内容（默认显示） -->
+            <div id="chinese-content" class="content-view">
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📰</span>
+                        <span>新闻标题</span>
+                    </div>
+                    <h1 class="article-title">萨姆·阿尔特曼称“集体决定按照人工智能的方式生活感觉糟糕且危险”OpenAI CEO担忧人工智能主导的未来</h1>
+                </div>
+                
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📝</span>
+                        <span>新闻描述</span>
+                    </div>
+                    <p class="article-description">过度依赖
+
+在人工智能（AI）技术日益普及的今天，过度依赖AI系统所带来的风险和挑战日益凸显。随着机器学习和深度学习算法在各个行业的广泛应用，人们对于AI系统的信任度不断提升，但同时也面临着数据安全、隐私保护以及算法偏见等多重问题。因此，如何在享受AI技术带来的便利的同时，确保系统的可靠性和安全性，成为了一个亟待解决的问题。未来，AI技术的发展不仅需要在技术创新上不断突破，还需要在伦理、法律和社会影响等方面进行深入探讨和规范。</p>
+                </div>
+            </div>
+            
+            <!-- 英文内容 -->
+            <div id="english-content" class="content-view" style="display: none;">
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📰</span>
+                        <span>Original Title</span>
+                    </div>
+                    <h1 class="article-title">Sam Altman says there’s ‘Something about collectively deciding we're going to live our lives the way AI tells us feels bad and dangerous’ as OpenAI CEO worries about an AI-dominated future</h1>
+                </div>
+                
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📝</span>
+                        <span>Original Description</span>
+                    </div>
+                    <p class="article-description">Over-reliant</p>
+                </div>
+            </div>
+            
+            <!-- 对照内容 -->
+            <div id="comparison-content" class="content-view comparison-view">
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📰</span>
+                        <span>标题对照</span>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">中文翻译</div>
+                        <div class="comparison-content chinese">萨姆·阿尔特曼称“集体决定按照人工智能的方式生活感觉糟糕且危险”OpenAI CEO担忧人工智能主导的未来</div>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">英文原文</div>
+                        <div class="comparison-content english">Sam Altman says there’s ‘Something about collectively deciding we're going to live our lives the way AI tells us feels bad and dangerous’ as OpenAI CEO worries about an AI-dominated future</div>
+                    </div>
+                </div>
+                
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📝</span>
+                        <span>描述对照</span>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">中文翻译</div>
+                        <div class="comparison-content chinese">过度依赖
+
+在人工智能（AI）技术日益普及的今天，过度依赖AI系统所带来的风险和挑战日益凸显。随着机器学习和深度学习算法在各个行业的广泛应用，人们对于AI系统的信任度不断提升，但同时也面临着数据安全、隐私保护以及算法偏见等多重问题。因此，如何在享受AI技术带来的便利的同时，确保系统的可靠性和安全性，成为了一个亟待解决的问题。未来，AI技术的发展不仅需要在技术创新上不断突破，还需要在伦理、法律和社会影响等方面进行深入探讨和规范。</div>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">英文原文</div>
+                        <div class="comparison-content english">Over-reliant</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 翻译详情信息 -->
+            <div class="translation-details">
+                <h4>
+                    <span>🔍</span>
+                    <span>翻译详情</span>
+                </h4>
+                <div class="translation-meta">
+                    <div class="meta-item">
+                        <div class="meta-label">翻译服务</div>
+                        <div class="meta-value">enhanced_news_Qwen2.5-7B-Instruct</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">标题置信度</div>
+                        <div class="meta-value">74.0%</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">描述置信度</div>
+                        <div class="meta-value">72.0%</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">翻译方法</div>
+                        <div class="meta-value">ai_translation</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 用户反馈区域 -->
+            <div class="feedback-section">
+                <h4>
+                    <span>💬</span>
+                    <span>翻译质量反馈</span>
+                </h4>
+                <p style="font-size: 0.875rem; color: var(--text-secondary); margin-bottom: var(--spacing-md);">
+                    您觉得这篇新闻的翻译质量如何？您的反馈将帮助我们改进翻译服务。
+                </p>
+                <div class="feedback-buttons">
+                    <button class="feedback-btn" onclick="submitFeedback('excellent', '726e579b56e3')">
+                        😍 非常好
+                    </button>
+                    <button class="feedback-btn" onclick="submitFeedback('good', '726e579b56e3')">
+                        👍 不错
+                    </button>
+                    <button class="feedback-btn" onclick="submitFeedback('average', '726e579b56e3')">
+                        😐 一般
+                    </button>
+                    <button class="feedback-btn" onclick="submitFeedback('poor', '726e579b56e3')">
+                        👎 较差
+                    </button>
+                </div>
+                <div id="feedback-message" style="margin-top: var(--spacing-sm); font-size: 0.875rem; color: var(--color-success); display: none;">
+                    感谢您的反馈！
+                </div>
+            </div>
+            
+            
+        <div class="ai-analysis">
+            <h4>🔬 OpenAI技术突破分析</h4>
+            <p>OpenAI在人工智能领域的持续创新正在重塑整个行业格局。ChatGPT等产品的功能升级不仅提升了用户体验，更重要的是为AI应用的普及奠定了基础。这种技术进步将带动相关产业链的全面升级。</p>
+            
+            <h4>🌐 市场竞争态势</h4>
+            <p>• <strong>技术护城河：</strong>OpenAI在大模型训练和推理优化方面建立了显著优势<br>
+            • <strong>生态建设：</strong>API开放策略吸引大量开发者，形成良性生态循环<br>
+            • <strong>商业化进程：</strong>企业级应用场景快速扩展，付费用户规模持续增长</p>
+            
+            <h4>🎯 发展趋势预判</h4>
+            <p>预计OpenAI将继续在多模态AI、专业领域应用等方向发力，同时面临来自谷歌、微软等巨头的激烈竞争。企业应关注AI工具的实际应用价值，避免盲目跟风。</p>
+        </div>
+            
+            
+        <div class="investment-analysis">
+            <h4>📊 OpenAI相关投资机会</h4>
+            <p><strong>市场影响：</strong>OpenAI的技术突破将带动AI产业链上下游公司估值重估，相关概念股有望受益于技术进步带来的市场预期提升。</p>
+            
+            <h4>💼 相关投资标的</h4>
+            <div class="investment-targets">
+                <p><strong>🤖 AI算力支持：</strong><br>
+                • 云计算：微软(MSFT)、亚马逊(AMZN)、阿里云<br>
+                • GPU芯片：英伟达(NVDA)、AMD、寒武纪</p>
+                
+                <p><strong>💡 AI应用生态：</strong><br>
+                • 企业服务：Salesforce、用友网络、金山办公<br>
+                • 开发工具：GitHub、JetBrains、奇安信</p>
+            </div>
+            
+            <h4>⏰ 投资策略建议</h4>
+            <p><strong>短期关注：</strong>AI工具商业化进展和用户增长数据<br>
+            <strong>中期布局：</strong>具备AI集成能力的传统软件公司<br>
+            <strong>长期价值：</strong>在垂直领域建立护城河的AI应用企业</p>
+            
+            <p class="risk-warning">⚠️ <strong>风险提示：</strong>AI技术发展存在不确定性，投资需谨慎评估技术商业化风险。</p>
+        </div>
+            
+            <div style="text-align: center; margin-top: var(--spacing-lg);">
+                <a href="https://www.techradar.com/ai-platforms-assistants/chatgpt/sam-altman-says-theres-something-about-collectively-deciding-were-going-to-live-our-lives-the-way-ai-tells-us-feels-bad-and-dangerous-as-openai-ceo-worries-about-an-ai-dominated-future" target="_blank" class="read-original">阅读原文</a>
+            </div>
+        </article>
+    </div>
+    
+    <script>
+        // 主题切换功能
+        function toggleTheme() {
+            const body = document.body;
+            const themeToggle = document.querySelector('.theme-toggle');
+            
+            if (body.getAttribute('data-theme') === 'dark') {
+                body.setAttribute('data-theme', 'light');
+                themeToggle.textContent = '🌙';
+                localStorage.setItem('theme', 'light');
+            } else {
+                body.setAttribute('data-theme', 'dark');
+                themeToggle.textContent = '☀️';
+                localStorage.setItem('theme', 'dark');
+            }
+        }
+        
+        // 语言切换功能
+        function showChinese() {
+            // 隐藏所有内容视图
+            document.getElementById('chinese-content').style.display = 'block';
+            document.getElementById('english-content').style.display = 'none';
+            document.getElementById('comparison-content').style.display = 'none';
+            
+            // 更新按钮状态
+            updateLanguageButtons('chinese');
+            
+            // 保存用户偏好
+            localStorage.setItem('preferredLanguage', 'chinese');
+        }
+        
+        function showEnglish() {
+            document.getElementById('chinese-content').style.display = 'none';
+            document.getElementById('english-content').style.display = 'block';
+            document.getElementById('comparison-content').style.display = 'none';
+            
+            updateLanguageButtons('english');
+            localStorage.setItem('preferredLanguage', 'english');
+        }
+        
+        function showComparison() {
+            document.getElementById('chinese-content').style.display = 'none';
+            document.getElementById('english-content').style.display = 'none';
+            document.getElementById('comparison-content').style.display = 'block';
+            
+            updateLanguageButtons('comparison');
+            localStorage.setItem('preferredLanguage', 'comparison');
+        }
+        
+        function updateLanguageButtons(activeMode) {
+            const buttons = {
+                'chinese': document.getElementById('chinese-btn'),
+                'english': document.getElementById('english-btn'),
+                'comparison': document.getElementById('comparison-btn')
+            };
+            
+            // 移除所有active类
+            Object.values(buttons).forEach(btn => btn.classList.remove('active'));
+            
+            // 添加active类到当前按钮
+            if (buttons[activeMode]) {
+                buttons[activeMode].classList.add('active');
+            }
+        }
+        
+        // 用户反馈功能
+        function submitFeedback(rating, newsId) {
+            // 更新按钮状态
+            const feedbackButtons = document.querySelectorAll('.feedback-btn');
+            feedbackButtons.forEach(btn => btn.classList.remove('selected'));
+            
+            // 标记选中的按钮
+            event.target.classList.add('selected');
+            
+            // 显示感谢消息
+            const messageEl = document.getElementById('feedback-message');
+            messageEl.style.display = 'block';
+            
+            // 保存反馈到本地存储（实际应用中应该发送到服务器）
+            const feedback = {
+                newsId: newsId,
+                rating: rating,
+                timestamp: new Date().toISOString()
+            };
+            
+            let feedbackHistory = JSON.parse(localStorage.getItem('translationFeedback') || '[]');
+            feedbackHistory.push(feedback);
+            localStorage.setItem('translationFeedback', JSON.stringify(feedbackHistory));
+            
+            console.log('用户反馈已保存:', feedback);
+            
+            // 3秒后隐藏消息
+            setTimeout(() => {
+                messageEl.style.display = 'none';
+            }, 3000);
+        }
+        
+        // 页面加载完成后的初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            // 恢复主题设置
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            const themeToggle = document.querySelector('.theme-toggle');
+            
+            if (savedTheme === 'dark') {
+                document.body.setAttribute('data-theme', 'dark');
+                themeToggle.textContent = '☀️';
+            }
+            
+            // 恢复语言偏好
+            const preferredLanguage = localStorage.getItem('preferredLanguage') || 'chinese';
+            switch(preferredLanguage) {
+                case 'english':
+                    showEnglish();
+                    break;
+                case 'comparison':
+                    showComparison();
+                    break;
+                default:
+                    showChinese();
+                    break;
+            }
+            
+            // 检查是否已经对此新闻提供过反馈
+            const newsId = '726e579b56e3';
+            const feedbackHistory = JSON.parse(localStorage.getItem('translationFeedback') || '[]');
+            const existingFeedback = feedbackHistory.find(f => f.newsId === newsId);
+            
+            if (existingFeedback) {
+                // 如果已经反馈过，显示之前的选择
+                const feedbackButtons = document.querySelectorAll('.feedback-btn');
+                feedbackButtons.forEach(btn => {
+                    if (btn.textContent.includes(getRatingEmoji(existingFeedback.rating))) {
+                        btn.classList.add('selected');
+                    }
+                });
+            }
+        });
+        
+        // 获取评分对应的emoji
+        function getRatingEmoji(rating) {
+            const emojiMap = {
+                'excellent': '😍',
+                'good': '👍',
+                'average': '😐',
+                'poor': '👎'
+            };
+            return emojiMap[rating] || '';
+        }
+        
+        // 键盘快捷键支持
+        document.addEventListener('keydown', function(e) {
+            if (e.altKey) {
+                switch(e.key) {
+                    case '1':
+                        e.preventDefault();
+                        showChinese();
+                        break;
+                    case '2':
+                        e.preventDefault();
+                        showComparison();
+                        break;
+                    case '3':
+                        e.preventDefault();
+                        showEnglish();
+                        break;
+                }
+            }
+        });
+    </script>
+</body>
+</html>

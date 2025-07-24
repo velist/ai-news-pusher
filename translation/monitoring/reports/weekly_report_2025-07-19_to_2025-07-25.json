@@ -1,0 +1,318 @@
+{
+  "report_type": "weekly",
+  "period": "2025-07-19 至 2025-07-25",
+  "generated_at": "2025-07-25T02:08:54.745795",
+  "summary": {
+    "total_requests": 432,
+    "avg_success_rate": 0.9606481481481481,
+    "avg_response_time": 2.122580179406917,
+    "total_cost": 12.628384999999998,
+    "active_days": 2,
+    "avg_daily_requests": 216.0,
+    "status": "excellent"
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-07-19",
+      "stats": {
+        "date": "2025-07-19",
+        "overall": {
+          "total_requests": 0,
+          "success_count": 0,
+          "error_count": 0,
+          "success_rate": 0.0,
+          "avg_response_time": 0,
+          "total_cost": 0
+        },
+        "by_service": {}
+      }
+    },
+    {
+      "date": "2025-07-20",
+      "stats": {
+        "date": "2025-07-20",
+        "overall": {
+          "total_requests": 0,
+          "success_count": 0,
+          "error_count": 0,
+          "success_rate": 0.0,
+          "avg_response_time": 0,
+          "total_cost": 0
+        },
+        "by_service": {}
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "stats": {
+        "date": "2025-07-21",
+        "overall": {
+          "total_requests": 0,
+          "success_count": 0,
+          "error_count": 0,
+          "success_rate": 0.0,
+          "avg_response_time": 0,
+          "total_cost": 0
+        },
+        "by_service": {}
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "stats": {
+        "date": "2025-07-22",
+        "overall": {
+          "total_requests": 0,
+          "success_count": 0,
+          "error_count": 0,
+          "success_rate": 0.0,
+          "avg_response_time": 0,
+          "total_cost": 0
+        },
+        "by_service": {}
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "stats": {
+        "date": "2025-07-23",
+        "overall": {
+          "total_requests": 0,
+          "success_count": 0,
+          "error_count": 0,
+          "success_rate": 0.0,
+          "avg_response_time": 0,
+          "total_cost": 0
+        },
+        "by_service": {}
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "stats": {
+        "date": "2025-07-24",
+        "overall": {
+          "total_requests": 403,
+          "success_count": 386,
+          "error_count": 17,
+          "success_rate": 0.9578163771712159,
+          "avg_response_time": 2.08124689075041,
+          "total_cost": 11.770825999999998
+        },
+        "by_service": {
+          "baidu": {
+            "total_requests": 108,
+            "success_count": 97,
+            "error_count": 11,
+            "success_rate": 0.8981481481481481,
+            "avg_response_time": 2.223787857015835,
+            "avg_confidence": 0.8233627016776346,
+            "total_cost": 0.7290240000000002
+          },
+          "google": {
+            "total_requests": 98,
+            "success_count": 96,
+            "error_count": 2,
+            "success_rate": 0.9795918367346939,
+            "avg_response_time": 2.794083368654132,
+            "avg_confidence": 0.8980988903606206,
+            "total_cost": 7.763590000000003
+          },
+          "siliconflow": {
+            "total_requests": 98,
+            "success_count": 95,
+            "error_count": 3,
+            "success_rate": 0.9693877551020408,
+            "avg_response_time": 1.4978857351201003,
+            "avg_confidence": 0.8891242283689356,
+            "total_cost": 0.054050000000000015
+          },
+          "tencent": {
+            "total_requests": 99,
+            "success_count": 98,
+            "error_count": 1,
+            "success_rate": 0.98989898989899,
+            "avg_response_time": 1.7975801640891982,
+            "avg_confidence": 0.9134631612417449,
+            "total_cost": 3.2241619999999993
+          }
+        }
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "stats": {
+        "date": "2025-07-25",
+        "overall": {
+          "total_requests": 29,
+          "success_count": 29,
+          "error_count": 0,
+          "success_rate": 1.0,
+          "avg_response_time": 2.1639134680634244,
+          "total_cost": 0.8575589999999998
+        },
+        "by_service": {
+          "baidu": {
+            "total_requests": 6,
+            "success_count": 6,
+            "error_count": 0,
+            "success_rate": 1.0,
+            "avg_response_time": 2.3089836662409895,
+            "avg_confidence": 0.8853320278215686,
+            "total_cost": 0.03012
+          },
+          "google": {
+            "total_requests": 10,
+            "success_count": 10,
+            "error_count": 0,
+            "success_rate": 1.0,
+            "avg_response_time": 2.7137210824442515,
+            "avg_confidence": 0.9094533498068891,
+            "total_cost": 0.70122
+          },
+          "siliconflow": {
+            "total_requests": 9,
+            "success_count": 9,
+            "error_count": 0,
+            "success_rate": 1.0,
+            "avg_response_time": 1.5751813142263584,
+            "avg_confidence": 0.9330965999304353,
+            "total_cost": 0.004303
+          },
+          "tencent": {
+            "total_requests": 4,
+            "success_count": 4,
+            "error_count": 0,
+            "success_rate": 1.0,
+            "avg_response_time": 1.896436480978407,
+            "avg_confidence": 0.9447981109633261,
+            "total_cost": 0.121916
+          }
+        }
+      }
+    }
+  ],
+  "quality_analysis": {
+    "report_period": "2025-07-18 至 2025-07-25",
+    "quality_trends": {
+      "baidu": [
+        {
+          "date": "2025-07-25",
+          "avg_confidence": 0.8853320278215686,
+          "request_count": 6,
+          "success_rate": 1.0
+        },
+        {
+          "date": "2025-07-24",
+          "avg_confidence": 0.8233627016776346,
+          "request_count": 108,
+          "success_rate": 0.8981481481481481
+        }
+      ],
+      "google": [
+        {
+          "date": "2025-07-25",
+          "avg_confidence": 0.9094533498068891,
+          "request_count": 10,
+          "success_rate": 1.0
+        },
+        {
+          "date": "2025-07-24",
+          "avg_confidence": 0.8980988903606206,
+          "request_count": 98,
+          "success_rate": 0.9795918367346939
+        }
+      ],
+      "siliconflow": [
+        {
+          "date": "2025-07-25",
+          "avg_confidence": 0.9330965999304353,
+          "request_count": 9,
+          "success_rate": 1.0
+        },
+        {
+          "date": "2025-07-24",
+          "avg_confidence": 0.8891242283689356,
+          "request_count": 98,
+          "success_rate": 0.9693877551020408
+        }
+      ],
+      "tencent": [
+        {
+          "date": "2025-07-25",
+          "avg_confidence": 0.9447981109633261,
+          "request_count": 4,
+          "success_rate": 1.0
+        },
+        {
+          "date": "2025-07-24",
+          "avg_confidence": 0.9134631612417449,
+          "request_count": 99,
+          "success_rate": 0.98989898989899
+        }
+      ]
+    },
+    "recommendations": [
+      "baidu: 成功率偏低(94.91%)，建议检查API配置和网络连接"
+    ],
+    "generated_at": "2025-07-25T02:08:54.745795"
+  },
+  "alerts_summary": {
+    "total_alerts": 0,
+    "critical_count": 0,
+    "warning_count": 0,
+    "most_common_type": null,
+    "most_affected_service": null
+  },
+  "trends": {
+    "success_rate_trend": "improving",
+    "response_time_trend": "improving",
+    "request_volume_trend": "improving",
+    "daily_data": {
+      "dates": [
+        "2025-07-19",
+        "2025-07-20",
+        "2025-07-21",
+        "2025-07-22",
+        "2025-07-23",
+        "2025-07-24",
+        "2025-07-25"
+      ],
+      "success_rates": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9578163771712159,
+        1.0
+      ],
+      "response_times": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2.08124689075041,
+        2.1639134680634244
+      ],
+      "request_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        403,
+        29
+      ]
+    }
+  },
+  "recommendations": [
+    "📈 成功率持续改善，当前优化措施有效",
+    "🚀 响应时间持续改善，性能优化效果显著",
+    "baidu: 成功率偏低(94.91%)，建议检查API配置和网络连接"
+  ],
+  "charts": {
+    "weekly_trends": ""
+  }
+}

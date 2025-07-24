@@ -1,0 +1,152 @@
+[
+  {
+    "id": "66a45163b57b",
+    "title": "OpenAI 发布 GPT-4 Turbo，增强推理能力",
+    "original_title": "OpenAI Releases GPT-4 Turbo with Enhanced Reasoning Capabilities",
+    "description": "OpenAI 已宣布推出 GPT-4 Turbo，该模型具备增强的推理能力并拥有更快的处理速度。新模型在复杂问题解决任务中表现出显著的改进，并且在长时间对话中保持了更好的上下文意识。",
+    "original_description": "OpenAI has announced the release of GPT-4 Turbo, featuring improved reasoning capabilities and faster processing speeds. The new model demonstrates significant improvements in complex problem-solving tasks and maintains better context awareness across longer conversations.",
+    "url": "https://example.com/openai-gpt4-turbo",
+    "source": "TechCrunch",
+    "publishedAt": "2025-07-24T10:00:00Z",
+    "image": "https://example.com/image1.jpg",
+    "category": {
+      "name": "OpenAI",
+      "color": "#34C759",
+      "icon": "🤖"
+    },
+    "importance": 3,
+    "added_time": "2025-07-24T22:46:26.502475",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-24T22:46:26.502475",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 1.0246000000000002,
+        "quality_score": 1.0246000000000002,
+        "method": "ai_translation",
+        "original_length": 64,
+        "translated_length": 28,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "description_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 1.0246000000000002,
+        "quality_score": 1.0246000000000002,
+        "method": "ai_translation",
+        "original_length": 273,
+        "translated_length": 91,
+        "is_segmented": false,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "overall_quality": {
+        "average_confidence": 1.0246000000000002,
+        "translation_success_rate": 1.0,
+        "has_ai_translation": true
+      }
+    }
+  },
+  {
+    "id": "a3cde7bb488c",
+    "title": "PlayStation 5 Pro震撼登场：8K游戏畅玩支持 ray tracing",
+    "original_title": "PlayStation 5 Pro Launches with 8K Gaming and Ray Tracing Support",
+    "description": "索尼正式发布了PlayStation 5 Pro，这款主机配备了增强的硬件，支持8K游戏和高级光线追踪技术。该主机承诺将带来前所未有的游戏体验，通过提升图形和性能实现这一目标。\n\nPlayStation 5 Pro在图形和性能方面有了显著提升，能够提供更加生动的画面效果和更流畅的操作感受。玩家可以在8K分辨率下享受极致的视觉体验，同时先进的光线追踪技术让游戏画面更加逼真，带来更加沉浸的游戏体验。\n\n在技术规格方面，PlayStation 5 Pro拥有强大的硬件配置，包括更快的处理器和更大的内存，确保了流畅的游戏体验和快速的加载速度。此外，该主机还支持现有的游戏库，并兼容PlayStation 5的所有功能，为玩家提供了更多的游戏选择和更好的兼容性。\n\n市场表现方面，PlayStation 5 Pro自发布以来受到了玩家和市场的广泛关注。根据销售数据，该主机在上市初期就取得了不错的销量成绩，用户反馈普遍积极，认为其在图形和性能方面都有显著提升。行业评价也对该主机给予了高度评价，认为其在游戏体验方面达到了新的高度。\n\nPlayStation 5 Pro不仅在技术上有所突破，还在娱乐性方面为玩家带来了更多的乐趣。多人模式和竞技模式让玩家可以与朋友一起游戏，享受团队合作的乐趣。此外，该主机还支持各种扩展包，为玩家提供了更多的游戏内容和可玩性。\n\n总之，PlayStation 5 Pro凭借其强大的硬件配置、出色的图形和性能表现以及丰富的游戏内容，为玩家带来了全新的游戏体验。",
+    "original_description": "Sony has officially launched the PlayStation 5 Pro, featuring enhanced hardware capable of 8K gaming and advanced ray tracing. The console promises to deliver unprecedented gaming experiences with improved graphics and performance.",
+    "url": "https://example.com/ps5-pro-launch",
+    "source": "GameSpot",
+    "publishedAt": "2025-07-24T09:30:00Z",
+    "image": "https://example.com/image2.jpg",
+    "category": {
+      "name": "PlayStation",
+      "color": "#003087",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T22:47:14.692231",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-24T22:47:14.692231",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.7488444444444445,
+        "quality_score": 0.7488444444444445,
+        "method": "ai_translation",
+        "original_length": 65,
+        "translated_length": 42,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "description_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.7488444444444445,
+        "quality_score": 0.7488444444444445,
+        "method": "ai_translation",
+        "original_length": 231,
+        "translated_length": 644,
+        "is_segmented": true,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "overall_quality": {
+        "average_confidence": 0.7488444444444445,
+        "translation_success_rate": 1.0,
+        "has_ai_translation": true
+      }
+    }
+  },
+  {
+    "id": "051762602c25",
+    "title": "特斯拉股价第三季度盈利超预期上涨20%",
+    "original_title": "Tesla Stock Surges 20% Following Q3 Earnings Beat",
+    "description": "特斯拉股票在盘后交易中飙升20%，原因是该公司第三季度财报超出分析师预期。这家电动汽车制造商报告了创纪录的交付量和改善的利润率。",
+    "original_description": "Tesla shares jumped 20% in after-hours trading following the company's third-quarter earnings report, which exceeded analyst expectations. The electric vehicle maker reported record deliveries and improved profit margins.",
+    "url": "https://example.com/tesla-earnings",
+    "source": "Reuters",
+    "publishedAt": "2025-07-24T08:45:00Z",
+    "image": "https://example.com/image3.jpg",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T22:47:34.497639",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-24T22:47:34.497639",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.9270000000000002,
+        "quality_score": 0.9270000000000002,
+        "method": "ai_translation",
+        "original_length": 49,
+        "translated_length": 19,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "description_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.9270000000000002,
+        "quality_score": 0.9270000000000002,
+        "method": "ai_translation",
+        "original_length": 221,
+        "translated_length": 64,
+        "is_segmented": false,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "overall_quality": {
+        "average_confidence": 0.9270000000000002,
+        "translation_success_rate": 1.0,
+        "has_ai_translation": true
+      }
+    }
+  }
+]

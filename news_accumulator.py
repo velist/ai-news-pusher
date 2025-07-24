@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-AI新闻累积更新系统 - 保留历史新闻，持续增量更新
+AI新闻累积更新系统 - 集成智能翻译引擎
 """
 
 import os
@@ -11,6 +11,10 @@ import urllib.parse
 import time
 import hashlib
 from datetime import datetime, timedelta
+from translation.services.enhanced_news_translator import EnhancedNewsTranslator
+from translation.services.siliconflow_translator import SiliconFlowTranslator
+from translation.services.baidu_translator import BaiduTranslator
+from translation.services.tencent_translator import TencentTranslator
 
 class AINewsAccumulator:
     def __init__(self):
@@ -18,6 +22,64 @@ class AINewsAccumulator:
         self.gnews_api_key = os.getenv('GNEWS_API_KEY', 'c3cb6fef0f86251ada2b515017b97143')
         self.gnews_base_url = "https://gnews.io/api/v4"
         self.news_data_file = 'docs/news_data.json'
+        
+        # 初始化翻译引擎
+        self.siliconflow_api_key = os.getenv('SILICONFLOW_API_KEY', 'sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa')
+        self.primary_translator = None
+        self.fallback_translators = []
+        self._last_translation_result = None  # 存储最后的翻译结果用于元数据
+        self._init_translation_engines()
+        
+    def _init_translation_engines(self):
+        """初始化翻译引擎，实现多级降级处理"""
+        try:
+            # 主翻译器：增强版新闻翻译器（硅基流动）
+            self.primary_translator = EnhancedNewsTranslator(
+                api_key=self.siliconflow_api_key,
+                model="Qwen/Qwen2.5-7B-Instruct"
+            )
+            print("✅ 主翻译器（增强版新闻翻译器）初始化成功")
+            
+            # 备用翻译器1：标准硅基流动翻译器
+            try:
+                fallback1 = SiliconFlowTranslator(
+                    api_key=self.siliconflow_api_key,
+                    model="meta-llama/Meta-Llama-3.1-8B-Instruct"
+                )
+                self.fallback_translators.append(fallback1)
+                print("✅ 备用翻译器1（标准硅基流动）初始化成功")
+            except Exception as e:
+                print(f"⚠️ 备用翻译器1初始化失败: {e}")
+            
+            # 备用翻译器2：百度翻译
+            try:
+                baidu_app_id = os.getenv('BAIDU_APP_ID')
+                baidu_secret_key = os.getenv('BAIDU_SECRET_KEY')
+                if baidu_app_id and baidu_secret_key:
+                    fallback2 = BaiduTranslator(baidu_app_id, baidu_secret_key)
+                    self.fallback_translators.append(fallback2)
+                    print("✅ 备用翻译器2（百度翻译）初始化成功")
+                else:
+                    print("⚠️ 百度翻译API密钥未配置，跳过初始化")
+            except Exception as e:
+                print(f"⚠️ 备用翻译器2初始化失败: {e}")
+            
+            # 备用翻译器3：腾讯翻译
+            try:
+                tencent_secret_id = os.getenv('TENCENT_SECRET_ID')
+                tencent_secret_key = os.getenv('TENCENT_SECRET_KEY')
+                if tencent_secret_id and tencent_secret_key:
+                    fallback3 = TencentTranslator(tencent_secret_id, tencent_secret_key)
+                    self.fallback_translators.append(fallback3)
+                    print("✅ 备用翻译器3（腾讯翻译）初始化成功")
+                else:
+                    print("⚠️ 腾讯翻译API密钥未配置，跳过初始化")
+            except Exception as e:
+                print(f"⚠️ 备用翻译器3初始化失败: {e}")
+                
+        except Exception as e:
+            print(f"❌ 主翻译器初始化失败: {e}")
+            self.primary_translator = None
         
     def get_latest_news(self):
         """获取最新科技、游戏、经济新闻"""
@@ -160,124 +222,254 @@ class AINewsAccumulator:
             return False
     
     def translate_title(self, title, search_category=""):
-        """基于原始英文标题的真实内容生成准确的中文标题"""
+        """使用AI智能翻译标题"""
         if not title:
             return "📰 科技资讯更新"
         
-        title_lower = title.lower()
+        # 使用多级降级翻译策略
+        translated_title = self._translate_with_fallback(title, search_category, "title")
         
-        # 特定新闻内容的精确翻译
-        specific_translations = {
-            "trump's war on clean energy": "⚡ 特朗普清洁能源政策争议，AI数据中心能耗问题凸显",
-            "gmail users issued alert": "🔔 Gmail用户收到AI诈骗警报，18亿用户面临新型安全威胁",
-            "scam targeting google": "⚠️ 谷歌Gmail遭遇AI诈骗攻击，用户隐私安全受到威胁",
-            "microsoft copilot": "💼 微软Copilot功能更新，企业AI助手能力全面升级",
-            "openai chatgpt": "🤖 OpenAI ChatGPT重大更新，AI对话交互体验显著提升",
-            "google ai search": "🔍 谷歌AI搜索技术突破，智能检索功能大幅优化",
-            "meta ai platform": "🌐 Meta AI平台重要进展，社交智能化服务持续扩展",
-            "bitcoin price surge": "₿ 比特币价格大幅上涨，加密货币市场迎来新一轮热潮",
-            "stock market analysis": "📈 全球股市最新分析，投资策略与市场趋势深度解读",
-            "playstation update": "🎮 PlayStation系统重要更新，游戏体验与功能全面优化",
-            "xbox game pass": "🎯 Xbox Game Pass服务升级，订阅模式带来更多游戏选择",
-            "nintendo switch": "🎲 任天堂Switch平台动态，独占游戏阵容持续丰富"
+        # 如果翻译失败，使用规则翻译作为最后保障
+        if not translated_title:
+            print(f"⚠️ 标题翻译完全失败，使用规则翻译: {title}")
+            category_prefix = {
+                'AI科技': '🤖', 
+                '游戏科技': '🎮',
+                '经济金融': '💰',
+                '科技创新': '💻'
+            }.get(search_category, '📰')
+            # 清空翻译结果，标记为规则翻译
+            self._last_translation_result = None
+            return f"{category_prefix} {title}"
+        
+        return translated_title
+    
+    def _translate_with_fallback(self, text, category="", text_type="title", title_context=""):
+        """多级降级翻译策略"""
+        if not text or not text.strip():
+            return ""
+        
+        # 尝试主翻译器（增强版新闻翻译器）
+        if self.primary_translator:
+            try:
+                if text_type == "title" and hasattr(self.primary_translator, 'translate_news_title'):
+                    result = self.primary_translator.translate_news_title(text, category)
+                elif text_type == "description" and hasattr(self.primary_translator, 'translate_news_description'):
+                    # 对于描述翻译，传递标题上下文和类别信息
+                    result = self.primary_translator.translate_news_description(text, title_context, category)
+                else:
+                    result = self.primary_translator.translate_text(text)
+                
+                if not result.error_message and result.translated_text:
+                    print(f"✅ 增强版翻译器成功翻译{text_type}（置信度: {result.confidence_score:.3f}）")
+                    # 保存翻译结果的详细信息用于元数据
+                    self._last_translation_result = result
+                    return result.translated_text
+                else:
+                    print(f"⚠️ 增强版翻译器翻译{text_type}失败: {result.error_message}")
+            except Exception as e:
+                print(f"⚠️ 增强版翻译器异常: {str(e)}")
+        
+        # 尝试备用翻译器
+        for i, translator in enumerate(self.fallback_translators):
+            try:
+                result = translator.translate_text(text)
+                if not result.error_message and result.translated_text:
+                    print(f"✅ 备用翻译器{i+1}成功翻译{text_type}（置信度: {result.confidence_score:.3f}）")
+                    # 保存备用翻译器的结果
+                    self._last_translation_result = result
+                    return result.translated_text
+                else:
+                    print(f"⚠️ 备用翻译器{i+1}翻译{text_type}失败: {result.error_message}")
+            except Exception as e:
+                print(f"⚠️ 备用翻译器{i+1}异常: {str(e)}")
+                continue
+        
+        print(f"❌ 所有翻译器都失败，{text_type}翻译失败")
+        # 清空翻译结果
+        self._last_translation_result = None
+        return ""
+    
+    def _get_translation_metadata(self, original_title, original_description, 
+                                translated_title, translated_description, category):
+        """生成详细的翻译元数据"""
+        metadata = {
+            "translation_time": datetime.now().isoformat(),
+            "category": category,
+            "translation_engine": "enhanced_news_translator",
+            "title_translation": {
+                "service": "none",
+                "confidence": 0.0,
+                "quality_score": 0.0,
+                "method": "fallback",
+                "original_length": len(original_title) if original_title else 0,
+                "translated_length": len(translated_title) if translated_title else 0,
+                "is_ai_translated": False,
+                "translation_status": "failed"
+            },
+            "description_translation": {
+                "service": "none", 
+                "confidence": 0.0,
+                "quality_score": 0.0,
+                "method": "fallback",
+                "original_length": len(original_description) if original_description else 0,
+                "translated_length": len(translated_description) if translated_description else 0,
+                "is_segmented": False,
+                "is_ai_translated": False,
+                "translation_status": "failed"
+            },
+            "overall_quality": {
+                "average_confidence": 0.0,
+                "translation_success_rate": 0.0,
+                "has_ai_translation": False
+            }
         }
         
-        # 检查特定内容匹配
-        for key_phrase, translation in specific_translations.items():
-            if key_phrase in title_lower:
-                return translation
+        title_success = False
+        description_success = False
         
-        # 基于关键词的智能翻译
-        def analyze_title_content(title_str):
-            content_analysis = {
-                'company': None,
-                'product': None, 
-                'action': None,
-                'topic': None,
-                'sentiment': 'neutral'
-            }
+        # 检查标题翻译质量
+        if translated_title and translated_title != original_title:
+            # 检查是否为规则翻译（包含emoji前缀）
+            is_rule_translation = any(prefix in translated_title for prefix in ['🤖', '🎮', '💰', '💻', '📰'])
             
-            # 公司识别
-            companies = {
-                'trump': '特朗普', 'google': '谷歌', 'microsoft': '微软', 'openai': 'OpenAI',
-                'meta': 'Meta', 'apple': '苹果', 'amazon': '亚马逊', 'tesla': '特斯拉',
-                'nvidia': '英伟达', 'sony': '索尼', 'nintendo': '任天堂', 'samsung': '三星'
-            }
-            
-            # 产品识别
-            products = {
-                'gmail': 'Gmail', 'chatgpt': 'ChatGPT', 'copilot': 'Copilot',
-                'iphone': 'iPhone', 'playstation': 'PlayStation', 'xbox': 'Xbox',
-                'bitcoin': '比特币', 'ai': 'AI技术', 'clean energy': '清洁能源'
-            }
-            
-            # 动作识别
-            actions = {
-                'war': '政策争议', 'alert': '发出警报', 'issued': '发布', 'scam': '诈骗攻击',
-                'update': '更新', 'launch': '发布', 'announce': '宣布', 'release': '推出',
-                'surge': '大涨', 'fall': '下跌', 'hack': '遭黑客攻击', 'breach': '数据泄露'
-            }
-            
-            # 主题识别  
-            topics = {
-                'energy': '能源', 'security': '安全', 'privacy': '隐私', 'market': '市场',
-                'gaming': '游戏', 'finance': '金融', 'technology': '科技', 'health': '健康'
-            }
-            
-            # 分析标题内容
-            for key, value in companies.items():
-                if key in title_str:
-                    content_analysis['company'] = value
-                    break
-            
-            for key, value in products.items():
-                if key in title_str:
-                    content_analysis['product'] = value
-                    break
-                    
-            for key, value in actions.items():
-                if key in title_str:
-                    content_analysis['action'] = value
-                    break
-                    
-            for key, value in topics.items():
-                if key in title_str:
-                    content_analysis['topic'] = value
-                    break
-            
-            return content_analysis
-        
-        analysis = analyze_title_content(title_lower)
-        
-        # 基于分析结果生成标题
-        if analysis['company'] and analysis['action']:
-            if analysis['product']:
-                return f"🚨 {analysis['company']}{analysis['product']}{analysis['action']}，{analysis['topic'] or '相关'}领域影响显著"
+            if not is_rule_translation:
+                # AI翻译成功
+                metadata["title_translation"]["is_ai_translated"] = True
+                metadata["title_translation"]["method"] = "ai_translation"
+                metadata["title_translation"]["translation_status"] = "success"
+                title_success = True
+                
+                # 获取翻译服务信息
+                if self.primary_translator and hasattr(self.primary_translator, 'get_service_name'):
+                    service_name = self.primary_translator.get_service_name()
+                    metadata["title_translation"]["service"] = service_name
+                
+                # 使用实际的翻译结果置信度
+                if self._last_translation_result and hasattr(self._last_translation_result, 'confidence_score'):
+                    confidence = self._last_translation_result.confidence_score
+                    metadata["title_translation"]["confidence"] = confidence
+                    metadata["title_translation"]["quality_score"] = confidence
+                else:
+                    # 回退到质量评估
+                    confidence = self._assess_translation_quality(original_title, translated_title, "title")
+                    metadata["title_translation"]["confidence"] = confidence
+                    metadata["title_translation"]["quality_score"] = confidence * 0.95
             else:
-                return f"📢 {analysis['company']}{analysis['action']}，{analysis['topic'] or '市场'}格局面临变化"
-        elif analysis['product'] and analysis['action']:
-            return f"⚡ {analysis['product']}{analysis['action']}，{analysis['topic'] or '用户体验'}得到重要提升"
-        elif analysis['company']:
-            return f"🏢 {analysis['company']}重要动态，{analysis['topic'] or '业务发展'}备受关注" 
-        elif analysis['product']:
-            return f"💡 {analysis['product']}重要更新，{analysis['topic'] or '功能优化'}持续推进"
-        else:
-            # 基于原标题的独特性生成不重复标题
-            import hashlib
-            title_signature = hashlib.md5(title.encode()).hexdigest()[:8]
-            hash_num = int(title_signature, 16) % 8
+                # 规则翻译
+                metadata["title_translation"]["method"] = "rule_based"
+                metadata["title_translation"]["translation_status"] = "rule_fallback"
+                metadata["title_translation"]["confidence"] = 0.3  # 规则翻译的基础置信度
+        
+        # 检查描述翻译质量
+        if translated_description and translated_description != original_description:
+            # 检查是否为原文标记
+            is_original_text = translated_description.startswith('《英文原文》') or translated_description.startswith('《原文无描述》')
             
-            unique_titles = [
-                f"🔍 【{title_signature[:4].upper()}】科技前沿重要突破，创新应用场景显著扩展",
-                f"💼 【{title_signature[:4].upper()}】技术发展新趋势，产业变革步伐持续加速", 
-                f"🌐 【{title_signature[:4].upper()}】数字化转型深入推进，智能科技赋能行业升级",
-                f"⚡ 【{title_signature[:4].upper()}】前沿技术获得重大进展，市场应用前景更加广阔",
-                f"🎯 【{title_signature[:4].upper()}】创新产品正式发布亮相，用户服务体验显著优化",
-                f"📱 【{title_signature[:4].upper()}】智能技术实现深度融合，行业竞争格局持续演变",
-                f"🚀 【{title_signature[:4].upper()}】新兴科技领域蓬勃发展，商业模式创新不断涌现",
-                f"💎 【{title_signature[:4].upper()}】核心技术实现关键突破，产业链价值体系重新构建"
-            ]
-            return unique_titles[hash_num]
+            if not is_original_text:
+                # AI翻译成功
+                metadata["description_translation"]["is_ai_translated"] = True
+                metadata["description_translation"]["method"] = "ai_translation"
+                metadata["description_translation"]["translation_status"] = "success"
+                description_success = True
+                
+                # 获取翻译服务信息
+                if self.primary_translator and hasattr(self.primary_translator, 'get_service_name'):
+                    service_name = self.primary_translator.get_service_name()
+                    metadata["description_translation"]["service"] = service_name
+                
+                # 检查是否为分段翻译
+                if '\n\n' in translated_description:
+                    metadata["description_translation"]["is_segmented"] = True
+                
+                # 使用实际的翻译结果置信度
+                if self._last_translation_result and hasattr(self._last_translation_result, 'confidence_score'):
+                    confidence = self._last_translation_result.confidence_score
+                    metadata["description_translation"]["confidence"] = confidence
+                    metadata["description_translation"]["quality_score"] = confidence
+                else:
+                    # 回退到质量评估
+                    confidence = self._assess_translation_quality(original_description, translated_description, "description")
+                    metadata["description_translation"]["confidence"] = confidence
+                    metadata["description_translation"]["quality_score"] = confidence * 0.9
+            else:
+                # 原文保留
+                metadata["description_translation"]["method"] = "original_text"
+                metadata["description_translation"]["translation_status"] = "original_fallback"
+                metadata["description_translation"]["confidence"] = 0.1  # 原文保留的基础置信度
+        
+        # 计算整体质量指标
+        total_confidence = 0
+        confidence_count = 0
+        
+        if metadata["title_translation"]["confidence"] > 0:
+            total_confidence += metadata["title_translation"]["confidence"]
+            confidence_count += 1
+        
+        if metadata["description_translation"]["confidence"] > 0:
+            total_confidence += metadata["description_translation"]["confidence"]
+            confidence_count += 1
+        
+        if confidence_count > 0:
+            metadata["overall_quality"]["average_confidence"] = total_confidence / confidence_count
+        
+        # 计算翻译成功率
+        success_count = sum([title_success, description_success])
+        total_count = 2  # 标题和描述
+        metadata["overall_quality"]["translation_success_rate"] = success_count / total_count
+        
+        # 检查是否有AI翻译
+        metadata["overall_quality"]["has_ai_translation"] = (
+            metadata["title_translation"]["is_ai_translated"] or 
+            metadata["description_translation"]["is_ai_translated"]
+        )
+        
+        return metadata
+    
+    def _assess_translation_quality(self, original: str, translated: str, text_type: str) -> float:
+        """评估翻译质量"""
+        if not original or not translated:
+            return 0.0
+        
+        base_score = 0.75
+        
+        # 长度比例评估
+        length_ratio = len(translated) / len(original)
+        if text_type == "title":
+            # 标题的合理长度比例
+            if 0.5 <= length_ratio <= 1.8:
+                base_score += 0.1
+            elif 0.3 <= length_ratio <= 2.5:
+                base_score += 0.05
+            else:
+                base_score -= 0.1
+        else:
+            # 描述的合理长度比例
+            if 0.6 <= length_ratio <= 1.5:
+                base_score += 0.08
+            elif 0.4 <= length_ratio <= 2.0:
+                base_score += 0.04
+            else:
+                base_score -= 0.08
+        
+        # 检查专业术语保留
+        tech_terms_found = 0
+        common_terms = ['AI', 'OpenAI', 'ChatGPT', 'Google', 'Microsoft', 'Apple', 'Meta', 'Tesla', 'Bitcoin']
+        for term in common_terms:
+            if term.lower() in original.lower() and (term in translated or term.lower() in translated.lower()):
+                tech_terms_found += 1
+        
+        if tech_terms_found > 0:
+            base_score += min(tech_terms_found * 0.02, 0.08)
+        
+        # 检查中文表达质量（简单启发式）
+        if len(translated) > 0:
+            # 检查是否有合理的中文字符
+            chinese_chars = sum(1 for char in translated if '\u4e00' <= char <= '\u9fff')
+            if chinese_chars / len(translated) > 0.3:  # 至少30%中文字符
+                base_score += 0.05
+        
+        return min(max(base_score, 0.0), 1.0)
             
     def _get_context_suffix(self, search_category, topics):
         """基于类别和主题生成标题后缀"""
@@ -293,100 +485,23 @@ class AINewsAccumulator:
             return "行业发展趋势值得关注"
     
     def translate_description(self, description, title="", search_category=""):
-        """基于原始英文描述的真实内容生成准确的中文描述"""
+        """使用AI智能翻译描述"""
         if not description:
-            return self._generate_description_from_title(title, search_category)
+            return f"《原文无描述》相关{search_category or '科技'}资讯，详情请查看原文链接。"
         
-        desc_lower = description.lower()
-        title_lower = title.lower() if title else ""
+        # 使用多级降级翻译策略，传递标题作为上下文
+        translated_description = self._translate_with_fallback(
+            description, search_category, "description", title
+        )
         
-        # 直接基于关键词的智能分析，不使用错误的特定匹配
-        def analyze_description_content(desc_str, title_str):
-            analysis = {
-                'main_topic': None,
-                'key_entities': [],
-                'actions': [],
-                'impact': None,
-                'context': None
-            }
-            
-            # 主题识别
-            topics = {
-                'environment': '环境保护', 'energy': '能源', 'pollution': '污染',
-                'scam': '诈骗', 'security': '安全', 'privacy': '隐私', 'alert': '警报',
-                'ai': '人工智能', 'artificial intelligence': '人工智能', 'technology': '技术', 'innovation': '创新',
-                'market': '市场', 'finance': '金融', 'investment': '投资', 'strategy': '战略',
-                'gaming': '游戏', 'entertainment': '娱乐', 'platform': '平台', 'dominance': '主导地位',
-                'administration': '政府管理', 'regulation': '监管', 'wearable': '可穿戴设备'
-            }
-            
-            # 实体识别
-            entities = {
-                'trump': '特朗普政府', 'administration': '政府', 'google': '谷歌', 'alphabet': '谷歌',
-                'amazon': '亚马逊', 'microsoft': '微软', 'openai': 'OpenAI', 'chatgpt': 'ChatGPT',
-                'china': '中国', 'united states': '美国', 'washington': '华盛顿',
-                'bitcoin': '比特币', 'cryptocurrency': '加密货币',
-                'playstation': 'PlayStation', 'xbox': 'Xbox', 'nintendo': '任天堂'
-            }
-            
-            # 动作识别
-            actions = {
-                'unveiled': '发布', 'announced': '宣布', 'launched': '推出', 'released': '发布',
-                'acquired': '收购', 'expanded': '扩展', 'boosting': '推动', 'maintain': '保持',
-                'cement': '巩固', 'stay ahead': '保持领先', 'eavesdrop': '监听', 'listens': '监听'
-            }
-            
-            # 分析内容
-            for key, value in topics.items():
-                if key in desc_str or key in title_str:
-                    analysis['main_topic'] = value
-                    break
-            
-            for key, value in entities.items():
-                if key in desc_str or key in title_str:
-                    analysis['key_entities'].append(value)
-            
-            for key, value in actions.items():
-                if key in desc_str or key in title_str:
-                    analysis['actions'].append(value)
-            
-            return analysis
+        # 如果翻译失败，返回原文标记
+        if not translated_description:
+            print(f"⚠️ 描述翻译完全失败，返回原文: {description[:50]}...")
+            # 清空翻译结果，标记为原文
+            self._last_translation_result = None
+            return f"《英文原文》 {description}"
         
-        analysis = analyze_description_content(desc_lower, title_lower)
-        
-        # 基于分析结果生成描述
-        if analysis['main_topic'] and analysis['key_entities']:
-            entities_str = '、'.join(analysis['key_entities'][:2])  # 只取前2个实体
-            if analysis['actions']:
-                action_str = analysis['actions'][0]
-                if analysis['main_topic'] == '人工智能' and '特朗普政府' in entities_str:
-                    return f"{entities_str}{action_str}{analysis['main_topic']}发展战略，旨在保持美国在AI领域的主导地位，推动大型科技公司在与中国的竞争中保持领先。"
-                elif '亚马逊' in entities_str and 'AI' in analysis['main_topic']:
-                    return f"{entities_str}新推出AI可穿戴设备，该设备能够监听用户日常生活，引发对个人隐私和数据安全的关注。"
-                else:
-                    return f"{entities_str}在{analysis['main_topic']}领域{action_str}相关举措，对行业发展和用户体验产生重要影响，引发市场和公众的广泛关注。"
-            else:
-                return f"{entities_str}在{analysis['main_topic']}领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。"
-        elif analysis['key_entities']:
-            entities_str = '、'.join(analysis['key_entities'][:2])
-            return f"{entities_str}发布重要动态，相关举措对市场环境和用户服务产生重要影响，成为行业内外关注的焦点。"
-        elif analysis['main_topic']:
-            return f"{analysis['main_topic']}领域出现重要发展动态，相关技术创新和市场变化引发行业内外的深入思考和持续关注。"
-        else:
-            # 使用原描述的独特性生成不重复描述
-            import hashlib
-            desc_signature = hashlib.md5((description + title).encode()).hexdigest()[:8]
-            hash_num = int(desc_signature, 16) % 6
-            
-            unique_descriptions = [
-                f"【{desc_signature[:4].upper()}】最新技术发展动向引发市场关注，创新应用场景持续涌现，为用户体验带来显著改善和优化。",
-                f"【{desc_signature[:4].upper()}】重要产品功能升级正式发布，核心技术能力得到全面增强，市场竞争优势进一步巩固。",
-                f"【{desc_signature[:4].upper()}】前沿科技成果成功实现应用，产业数字化转型步伐加快，生态系统建设日趋完善且持续优化。",
-                f"【{desc_signature[:4].upper()}】创新解决方案广受市场认可，技术标准制定稳步推进，行业发展前景更加明朗和广阔。",
-                f"【{desc_signature[:4].upper()}】智能化服务能力大幅提升，用户需求响应速度显著加快，整体服务质量持续优化和改进。",
-                f"【{desc_signature[:4].upper()}】数字技术与传统行业深度融合，新兴业务模式持续创新，经济增长新动能加速形成。"
-            ]
-            return unique_descriptions[hash_num]
+        return translated_description
     
     def _generate_description_from_title(self, title, search_category):
         """从标题生成描述"""
@@ -506,6 +621,15 @@ class AINewsAccumulator:
                     search_category
                 )
                 
+                # 获取翻译元数据
+                translation_metadata = self._get_translation_metadata(
+                    article.get('title', ''), 
+                    article.get('description', ''),
+                    chinese_title,
+                    chinese_description,
+                    search_category
+                )
+                
                 news_item = {
                     "id": self.generate_news_id(article),
                     "title": chinese_title,
@@ -519,7 +643,8 @@ class AINewsAccumulator:
                     "category": self.categorize_news(chinese_title, search_category),
                     "importance": self.get_importance_score(chinese_title),
                     "added_time": datetime.now().isoformat(),
-                    "search_category": search_category
+                    "search_category": search_category,
+                    "translation_metadata": translation_metadata  # 新增翻译元数据
                 }
                 merged_news.append(news_item)
                 added_count += 1
@@ -1262,6 +1387,29 @@ class AINewsAccumulator:
             ai_analysis = self.generate_ai_analysis(news.get('original_title', news['title']), news.get('original_description', news['description']))
             investment_analysis = self.generate_investment_analysis(news.get('original_title', news['title']), news.get('original_description', news['description']))
             
+            # 获取翻译质量信息
+            translation_metadata = news.get('translation_metadata', {})
+            title_translation = translation_metadata.get('title_translation', {})
+            description_translation = translation_metadata.get('description_translation', {})
+            
+            # 计算整体翻译质量评分
+            title_quality = title_translation.get('quality_score', 0.0)
+            desc_quality = description_translation.get('quality_score', 0.0)
+            overall_quality = (title_quality + desc_quality) / 2 if title_quality and desc_quality else 0.0
+            
+            # 生成翻译质量指示器
+            def get_quality_indicator(score):
+                if score >= 0.8:
+                    return "🟢 优秀", "#10B981"
+                elif score >= 0.6:
+                    return "🟡 良好", "#F59E0B"
+                elif score >= 0.4:
+                    return "🟠 一般", "#F97316"
+                else:
+                    return "🔴 较差", "#EF4444"
+            
+            quality_text, quality_color = get_quality_indicator(overall_quality)
+            
             # 生成完整的详情页HTML
             detail_html = f'''<!DOCTYPE html>
 <html lang="zh-CN">
@@ -1272,34 +1420,48 @@ class AINewsAccumulator:
     <style>
         :root {{
             --color-primary: #007AFF;
+            --color-success: #10B981;
+            --color-warning: #F59E0B;
+            --color-error: #EF4444;
             --bg-primary: #FFFFFF;
             --bg-secondary: #F2F2F7;
+            --bg-tertiary: #E5E5EA;
             --text-primary: #000000;
             --text-secondary: #3C3C43;
+            --text-tertiary: #8E8E93;
+            --spacing-sm: 8px;
             --spacing-md: 16px;
             --spacing-lg: 24px;
+            --radius-small: 8px;
+            --radius-medium: 12px;
             --radius-large: 16px;
+            --shadow-light: 0 2px 8px rgba(0, 0, 0, 0.05);
+            --shadow-medium: 0 4px 16px rgba(0, 0, 0, 0.1);
         }}
         
         [data-theme="dark"] {{
             --color-primary: #0A84FF;
             --bg-primary: #000000;
             --bg-secondary: #1C1C1E;
+            --bg-tertiary: #2C2C2E;
             --text-primary: #FFFFFF;
             --text-secondary: #EBEBF5;
+            --text-tertiary: #8E8E93;
+            --shadow-light: 0 2px 8px rgba(255, 255, 255, 0.05);
+            --shadow-medium: 0 4px 16px rgba(255, 255, 255, 0.1);
         }}
         
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         
         body {{
-            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
             background-color: var(--bg-secondary);
             color: var(--text-primary);
             line-height: 1.6;
             transition: all 0.3s ease;
         }}
         
-        .container {{ max-width: 800px; margin: 0 auto; padding: 0 var(--spacing-md); }}
+        .container {{ max-width: 900px; margin: 0 auto; padding: 0 var(--spacing-md); }}
         
         .header {{
             background-color: var(--bg-primary);
@@ -1308,12 +1470,21 @@ class AINewsAccumulator:
             position: sticky;
             top: 0;
             z-index: 100;
+            box-shadow: var(--shadow-light);
         }}
         
         .back-button {{
             color: var(--color-primary);
             text-decoration: none;
             font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            margin-bottom: var(--spacing-sm);
+        }}
+        
+        .back-button:hover {{
+            opacity: 0.7;
         }}
         
         .article {{
@@ -1321,21 +1492,211 @@ class AINewsAccumulator:
             border-radius: var(--radius-large);
             margin: var(--spacing-lg) 0;
             padding: var(--spacing-lg);
+            box-shadow: var(--shadow-light);
         }}
         
-        .article-title {{
-            font-size: 1.5rem;
-            font-weight: 700;
-            margin-bottom: var(--spacing-md);
-            color: var(--text-primary);
+        /* 翻译控制面板 */
+        .translation-controls {{
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin-bottom: var(--spacing-lg);
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--spacing-md);
+            align-items: center;
+            justify-content: space-between;
         }}
         
-        .article-description {{
-            font-size: 1rem;
+        .language-toggle {{
+            display: flex;
+            background-color: var(--bg-tertiary);
+            border-radius: var(--radius-small);
+            padding: 4px;
+        }}
+        
+        .language-btn {{
+            padding: var(--spacing-sm) var(--spacing-md);
+            border: none;
+            background: transparent;
             color: var(--text-secondary);
+            cursor: pointer;
+            border-radius: var(--radius-small);
+            font-weight: 500;
+            transition: all 0.2s ease;
+        }}
+        
+        .language-btn.active {{
+            background-color: var(--color-primary);
+            color: white;
+        }}
+        
+        .quality-indicator {{
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            font-size: 0.875rem;
+            font-weight: 500;
+        }}
+        
+        .quality-score {{
+            background-color: var(--bg-primary);
+            padding: 4px 8px;
+            border-radius: var(--radius-small);
+            font-size: 0.75rem;
+            font-weight: 600;
+        }}
+        
+        /* 内容区域 */
+        .content-section {{
             margin-bottom: var(--spacing-lg);
         }}
         
+        .section-header {{
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            margin-bottom: var(--spacing-md);
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+        }}
+        
+        .article-title {{
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: var(--spacing-md);
+            color: var(--text-primary);
+            line-height: 1.3;
+        }}
+        
+        .article-description {{
+            font-size: 1.125rem;
+            color: var(--text-secondary);
+            margin-bottom: var(--spacing-lg);
+            line-height: 1.6;
+        }}
+        
+        /* 对照显示 */
+        .comparison-view {{
+            display: none;
+        }}
+        
+        .comparison-view.active {{
+            display: block;
+        }}
+        
+        .comparison-item {{
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin-bottom: var(--spacing-md);
+        }}
+        
+        .comparison-label {{
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-tertiary);
+            margin-bottom: var(--spacing-sm);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }}
+        
+        .comparison-content {{
+            font-size: 1rem;
+            line-height: 1.6;
+        }}
+        
+        .comparison-content.chinese {{
+            color: var(--text-primary);
+            font-weight: 500;
+        }}
+        
+        .comparison-content.english {{
+            color: var(--text-secondary);
+            font-style: italic;
+        }}
+        
+        /* 翻译详情 */
+        .translation-details {{
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin: var(--spacing-lg) 0;
+        }}
+        
+        .translation-details h4 {{
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: var(--spacing-md);
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+        }}
+        
+        .translation-meta {{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: var(--spacing-md);
+        }}
+        
+        .meta-item {{
+            background-color: var(--bg-primary);
+            padding: var(--spacing-sm) var(--spacing-md);
+            border-radius: var(--radius-small);
+        }}
+        
+        .meta-label {{
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            margin-bottom: 2px;
+        }}
+        
+        .meta-value {{
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: var(--text-primary);
+        }}
+        
+        /* 用户反馈 */
+        .feedback-section {{
+            background-color: var(--bg-secondary);
+            border-radius: var(--radius-medium);
+            padding: var(--spacing-md);
+            margin: var(--spacing-lg) 0;
+        }}
+        
+        .feedback-buttons {{
+            display: flex;
+            gap: var(--spacing-sm);
+            margin-top: var(--spacing-md);
+        }}
+        
+        .feedback-btn {{
+            padding: var(--spacing-sm) var(--spacing-md);
+            border: 1px solid var(--bg-tertiary);
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            border-radius: var(--radius-small);
+            cursor: pointer;
+            font-size: 0.875rem;
+            transition: all 0.2s ease;
+        }}
+        
+        .feedback-btn:hover {{
+            background-color: var(--color-primary);
+            color: white;
+            border-color: var(--color-primary);
+        }}
+        
+        .feedback-btn.selected {{
+            background-color: var(--color-primary);
+            color: white;
+            border-color: var(--color-primary);
+        }}
+        
+        /* AI分析和投资分析样式保持不变 */
         .ai-analysis, .investment-analysis {{
             margin: var(--spacing-lg) 0;
             padding: var(--spacing-lg);
@@ -1382,6 +1743,11 @@ class AINewsAccumulator:
             text-decoration: none;
             font-weight: 600;
             display: inline-block;
+            transition: opacity 0.2s ease;
+        }}
+        
+        .read-original:hover {{
+            opacity: 0.8;
         }}
         
         .theme-toggle {{
@@ -1395,6 +1761,48 @@ class AINewsAccumulator:
             color: var(--text-primary);
             cursor: pointer;
             z-index: 1000;
+            box-shadow: var(--shadow-light);
+            transition: all 0.2s ease;
+        }}
+        
+        .theme-toggle:hover {{
+            transform: scale(1.05);
+        }}
+        
+        /* 响应式设计 */
+        @media (max-width: 768px) {{
+            .container {{ padding: 0 var(--spacing-sm); }}
+            
+            .translation-controls {{
+                flex-direction: column;
+                align-items: stretch;
+            }}
+            
+            .quality-indicator {{
+                justify-content: center;
+            }}
+            
+            .translation-meta {{
+                grid-template-columns: 1fr;
+            }}
+            
+            .feedback-buttons {{
+                flex-wrap: wrap;
+            }}
+            
+            .article-title {{
+                font-size: 1.5rem;
+            }}
+            
+            .theme-toggle {{
+                padding: 8px;
+                border-radius: 50%;
+                width: 40px;
+                height: 40px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }}
         }}
     </style>
 </head>
@@ -1410,8 +1818,152 @@ class AINewsAccumulator:
     
     <div class="container">
         <article class="article">
-            <h1 class="article-title">{news['title']}</h1>
-            <p class="article-description">{news['description']}</p>
+            <!-- 翻译控制面板 -->
+            <div class="translation-controls">
+                <div class="language-toggle">
+                    <button class="language-btn active" onclick="showChinese()" id="chinese-btn">
+                        🇨🇳 中文
+                    </button>
+                    <button class="language-btn" onclick="showComparison()" id="comparison-btn">
+                        🔄 对照
+                    </button>
+                    <button class="language-btn" onclick="showEnglish()" id="english-btn">
+                        🇺🇸 英文
+                    </button>
+                </div>
+                
+                <div class="quality-indicator">
+                    <span style="color: {quality_color};">{quality_text}</span>
+                    <span class="quality-score" style="background-color: {quality_color}; color: white;">
+                        {overall_quality:.1%}
+                    </span>
+                </div>
+            </div>
+            
+            <!-- 中文内容（默认显示） -->
+            <div id="chinese-content" class="content-view">
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📰</span>
+                        <span>新闻标题</span>
+                    </div>
+                    <h1 class="article-title">{news['title']}</h1>
+                </div>
+                
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📝</span>
+                        <span>新闻描述</span>
+                    </div>
+                    <p class="article-description">{news['description']}</p>
+                </div>
+            </div>
+            
+            <!-- 英文内容 -->
+            <div id="english-content" class="content-view" style="display: none;">
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📰</span>
+                        <span>Original Title</span>
+                    </div>
+                    <h1 class="article-title">{news.get('original_title', news['title'])}</h1>
+                </div>
+                
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📝</span>
+                        <span>Original Description</span>
+                    </div>
+                    <p class="article-description">{news.get('original_description', news['description'])}</p>
+                </div>
+            </div>
+            
+            <!-- 对照内容 -->
+            <div id="comparison-content" class="content-view comparison-view">
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📰</span>
+                        <span>标题对照</span>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">中文翻译</div>
+                        <div class="comparison-content chinese">{news['title']}</div>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">英文原文</div>
+                        <div class="comparison-content english">{news.get('original_title', news['title'])}</div>
+                    </div>
+                </div>
+                
+                <div class="content-section">
+                    <div class="section-header">
+                        <span>📝</span>
+                        <span>描述对照</span>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">中文翻译</div>
+                        <div class="comparison-content chinese">{news['description']}</div>
+                    </div>
+                    <div class="comparison-item">
+                        <div class="comparison-label">英文原文</div>
+                        <div class="comparison-content english">{news.get('original_description', news['description'])}</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 翻译详情信息 -->
+            <div class="translation-details">
+                <h4>
+                    <span>🔍</span>
+                    <span>翻译详情</span>
+                </h4>
+                <div class="translation-meta">
+                    <div class="meta-item">
+                        <div class="meta-label">翻译服务</div>
+                        <div class="meta-value">{title_translation.get('service', '未知')}</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">标题置信度</div>
+                        <div class="meta-value">{title_translation.get('confidence', 0):.1%}</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">描述置信度</div>
+                        <div class="meta-value">{description_translation.get('confidence', 0):.1%}</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">翻译方法</div>
+                        <div class="meta-value">{title_translation.get('method', 'AI翻译')}</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 用户反馈区域 -->
+            <div class="feedback-section">
+                <h4>
+                    <span>💬</span>
+                    <span>翻译质量反馈</span>
+                </h4>
+                <p style="font-size: 0.875rem; color: var(--text-secondary); margin-bottom: var(--spacing-md);">
+                    您觉得这篇新闻的翻译质量如何？您的反馈将帮助我们改进翻译服务。
+                </p>
+                <div class="feedback-buttons">
+                    <button class="feedback-btn" onclick="submitFeedback('excellent', '{news['id']}')">
+                        😍 非常好
+                    </button>
+                    <button class="feedback-btn" onclick="submitFeedback('good', '{news['id']}')">
+                        👍 不错
+                    </button>
+                    <button class="feedback-btn" onclick="submitFeedback('average', '{news['id']}')">
+                        😐 一般
+                    </button>
+                    <button class="feedback-btn" onclick="submitFeedback('poor', '{news['id']}')">
+                        👎 较差
+                    </button>
+                </div>
+                <div id="feedback-message" style="margin-top: var(--spacing-sm); font-size: 0.875rem; color: var(--color-success); display: none;">
+                    感谢您的反馈！
+                </div>
+            </div>
             
             {ai_analysis}
             
@@ -1424,6 +1976,7 @@ class AINewsAccumulator:
     </div>
     
     <script>
+        // 主题切换功能
         function toggleTheme() {{
             const body = document.body;
             const themeToggle = document.querySelector('.theme-toggle');
@@ -1439,13 +1992,155 @@ class AINewsAccumulator:
             }}
         }}
         
+        // 语言切换功能
+        function showChinese() {{
+            // 隐藏所有内容视图
+            document.getElementById('chinese-content').style.display = 'block';
+            document.getElementById('english-content').style.display = 'none';
+            document.getElementById('comparison-content').style.display = 'none';
+            
+            // 更新按钮状态
+            updateLanguageButtons('chinese');
+            
+            // 保存用户偏好
+            localStorage.setItem('preferredLanguage', 'chinese');
+        }}
+        
+        function showEnglish() {{
+            document.getElementById('chinese-content').style.display = 'none';
+            document.getElementById('english-content').style.display = 'block';
+            document.getElementById('comparison-content').style.display = 'none';
+            
+            updateLanguageButtons('english');
+            localStorage.setItem('preferredLanguage', 'english');
+        }}
+        
+        function showComparison() {{
+            document.getElementById('chinese-content').style.display = 'none';
+            document.getElementById('english-content').style.display = 'none';
+            document.getElementById('comparison-content').style.display = 'block';
+            
+            updateLanguageButtons('comparison');
+            localStorage.setItem('preferredLanguage', 'comparison');
+        }}
+        
+        function updateLanguageButtons(activeMode) {{
+            const buttons = {{
+                'chinese': document.getElementById('chinese-btn'),
+                'english': document.getElementById('english-btn'),
+                'comparison': document.getElementById('comparison-btn')
+            }};
+            
+            // 移除所有active类
+            Object.values(buttons).forEach(btn => btn.classList.remove('active'));
+            
+            // 添加active类到当前按钮
+            if (buttons[activeMode]) {{
+                buttons[activeMode].classList.add('active');
+            }}
+        }}
+        
+        // 用户反馈功能
+        function submitFeedback(rating, newsId) {{
+            // 更新按钮状态
+            const feedbackButtons = document.querySelectorAll('.feedback-btn');
+            feedbackButtons.forEach(btn => btn.classList.remove('selected'));
+            
+            // 标记选中的按钮
+            event.target.classList.add('selected');
+            
+            // 显示感谢消息
+            const messageEl = document.getElementById('feedback-message');
+            messageEl.style.display = 'block';
+            
+            // 保存反馈到本地存储（实际应用中应该发送到服务器）
+            const feedback = {{
+                newsId: newsId,
+                rating: rating,
+                timestamp: new Date().toISOString()
+            }};
+            
+            let feedbackHistory = JSON.parse(localStorage.getItem('translationFeedback') || '[]');
+            feedbackHistory.push(feedback);
+            localStorage.setItem('translationFeedback', JSON.stringify(feedbackHistory));
+            
+            console.log('用户反馈已保存:', feedback);
+            
+            // 3秒后隐藏消息
+            setTimeout(() => {{
+                messageEl.style.display = 'none';
+            }}, 3000);
+        }}
+        
+        // 页面加载完成后的初始化
         document.addEventListener('DOMContentLoaded', function() {{
+            // 恢复主题设置
             const savedTheme = localStorage.getItem('theme') || 'light';
             const themeToggle = document.querySelector('.theme-toggle');
             
             if (savedTheme === 'dark') {{
                 document.body.setAttribute('data-theme', 'dark');
                 themeToggle.textContent = '☀️';
+            }}
+            
+            // 恢复语言偏好
+            const preferredLanguage = localStorage.getItem('preferredLanguage') || 'chinese';
+            switch(preferredLanguage) {{
+                case 'english':
+                    showEnglish();
+                    break;
+                case 'comparison':
+                    showComparison();
+                    break;
+                default:
+                    showChinese();
+                    break;
+            }}
+            
+            // 检查是否已经对此新闻提供过反馈
+            const newsId = '{news['id']}';
+            const feedbackHistory = JSON.parse(localStorage.getItem('translationFeedback') || '[]');
+            const existingFeedback = feedbackHistory.find(f => f.newsId === newsId);
+            
+            if (existingFeedback) {{
+                // 如果已经反馈过，显示之前的选择
+                const feedbackButtons = document.querySelectorAll('.feedback-btn');
+                feedbackButtons.forEach(btn => {{
+                    if (btn.textContent.includes(getRatingEmoji(existingFeedback.rating))) {{
+                        btn.classList.add('selected');
+                    }}
+                }});
+            }}
+        }});
+        
+        // 获取评分对应的emoji
+        function getRatingEmoji(rating) {{
+            const emojiMap = {{
+                'excellent': '😍',
+                'good': '👍',
+                'average': '😐',
+                'poor': '👎'
+            }};
+            return emojiMap[rating] || '';
+        }}
+        
+        // 键盘快捷键支持
+        document.addEventListener('keydown', function(e) {{
+            if (e.altKey) {{
+                switch(e.key) {{
+                    case '1':
+                        e.preventDefault();
+                        showChinese();
+                        break;
+                    case '2':
+                        e.preventDefault();
+                        showComparison();
+                        break;
+                    case '3':
+                        e.preventDefault();
+                        showEnglish();
+                        break;
+                }}
             }}
         }});
     </script>

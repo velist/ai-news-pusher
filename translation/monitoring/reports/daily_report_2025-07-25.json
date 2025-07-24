@@ -1,0 +1,73 @@
+{
+  "report_type": "daily",
+  "date": "2025-07-25",
+  "generated_at": "2025-07-25T02:08:54.722869",
+  "summary": {
+    "total_requests": 29,
+    "success_rate": 1.0,
+    "avg_response_time": 2.1639134680634244,
+    "total_cost": 0.8575589999999998,
+    "service_count": 4,
+    "best_performing_service": "baidu",
+    "worst_performing_service": "tencent",
+    "status": "excellent"
+  },
+  "detailed_stats": {
+    "date": "2025-07-25",
+    "overall": {
+      "total_requests": 29,
+      "success_count": 29,
+      "error_count": 0,
+      "success_rate": 1.0,
+      "avg_response_time": 2.1639134680634244,
+      "total_cost": 0.8575589999999998
+    },
+    "by_service": {
+      "baidu": {
+        "total_requests": 6,
+        "success_count": 6,
+        "error_count": 0,
+        "success_rate": 1.0,
+        "avg_response_time": 2.3089836662409895,
+        "avg_confidence": 0.8853320278215686,
+        "total_cost": 0.03012
+      },
+      "google": {
+        "total_requests": 10,
+        "success_count": 10,
+        "error_count": 0,
+        "success_rate": 1.0,
+        "avg_response_time": 2.7137210824442515,
+        "avg_confidence": 0.9094533498068891,
+        "total_cost": 0.70122
+      },
+      "siliconflow": {
+        "total_requests": 9,
+        "success_count": 9,
+        "error_count": 0,
+        "success_rate": 1.0,
+        "avg_response_time": 1.5751813142263584,
+        "avg_confidence": 0.9330965999304353,
+        "total_cost": 0.004303
+      },
+      "tencent": {
+        "total_requests": 4,
+        "success_count": 4,
+        "error_count": 0,
+        "success_rate": 1.0,
+        "avg_response_time": 1.896436480978407,
+        "avg_confidence": 0.9447981109633261,
+        "total_cost": 0.121916
+      }
+    }
+  },
+  "alerts": [],
+  "recommendations": [
+    "✅ 成功率表现良好(100.0%)",
+    "✅ 响应时间表现良好(2.16秒)"
+  ],
+  "charts": {
+    "hourly_success_rate": "",
+    "hourly_response_time": ""
+  }
+}

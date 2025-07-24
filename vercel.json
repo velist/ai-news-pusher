@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "name": "ai-news-pusher",
+  "builds": [
+    {
+      "src": "enhanced_news_accumulator.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/update-news",
+      "dest": "/enhanced_news_accumulator.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/docs/$1"
+    }
+  ],
+  "functions": {
+    "enhanced_news_accumulator.py": {
+      "runtime": "python3.9"
+    }
+  },
+  "env": {
+    "GNEWS_API_KEY": "@gnews_api_key",
+    "SILICONFLOW_API_KEY": "@siliconflow_api_key"
+  }
+}

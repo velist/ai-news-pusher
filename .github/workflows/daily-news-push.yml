@@ -25,14 +25,15 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         
-    - name: 运行AI新闻累积更新
+    - name: 运行增强版AI新闻累积更新
       env:
         GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
         FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
         FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
         FEISHU_TABLE_URL: ${{ secrets.FEISHU_TABLE_URL }}
       run: |
-        python news_accumulator.py
+        python enhanced_news_accumulator.py
         
     - name: 提交H5新闻页面
       if: always()
@@ -52,7 +53,7 @@ jobs:
     - name: 显示运行结果
       if: always()
       run: |
-        echo "=== AI新闻累积更新任务完成 ==="
+        echo "=== 增强版AI新闻累积更新任务完成 ==="
         if [ -f news_push.log ]; then
           echo "📋 运行日志:"
           tail -20 news_push.log
@@ -65,9 +66,10 @@ jobs:
           echo "📱 H5新闻页面: 已生成到 docs/index.html"
           echo "🌐 GitHub Pages: https://$(echo ${{ github.repository }} | cut -d'/' -f1).github.io/$(echo ${{ github.repository }} | cut -d'/' -f2)/"
           echo ""
-          echo "💡 累积更新机制已启用:"
-          echo "   ✅ 飞书多维表格 - 传统表格展示"
-          echo "   ✅ H5响应式页面 - 卡片式个性化展示" 
+          echo "💡 增强版AI翻译系统已启用:"
+          echo "   🤖 硅基流动AI翻译 - 成本降低80-95%"
+          echo "   ✅ 真实新闻中文翻译 - 告别模板内容"
+          echo "   🎯 智能质量评估 - 置信度评分"
           echo "   📈 3天新闻保留 - 累积式增长"
           echo "   ⏰ 每小时自动更新 - 持续追踪热点"
         fi
