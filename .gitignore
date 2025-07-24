@@ -49,3 +49,14 @@ htmlcov/
 venv/
 env/
 ENV/
+
+# Jekyll构建文件
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# 可能导致Jekyll构建问题的文件
+# (包含未转义的Liquid语法)
+0724进度.md
+0723进度-2.md

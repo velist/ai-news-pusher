@@ -1,0 +1,53 @@
+# Jekyll配置文件
+title: "AI新闻推送系统"
+description: "基于硅基流动AI的智能新闻翻译系统"
+
+# 排除不需要处理的文件和目录
+exclude:
+  - "*.py"
+  - "*.pyc"
+  - "__pycache__/"
+  - "translation/"
+  - "*.log"
+  - "requirements.txt"
+  - "vercel.json"
+  - "deploy.py"
+  - "test_*.py"
+  - "0724进度.md"
+  - "0723进度-2.md"
+  - "任务*.md"
+  - "翻译*.md"
+  - "硅基流动*.md"
+  - "integration_guide.md"
+  - ".kiro/"
+  - "demo_*.py"
+  - "enhanced_news_accumulator.py"
+  - "news_accumulator.py"
+
+# 包含的文件
+include:
+  - "docs/"
+
+# 插件
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+
+# 主题
+theme: jekyll-theme-primer
+
+# 基本设置
+baseurl: ""
+url: "https://velist.github.io"
+
+# Markdown处理器
+markdown: kramdown
+highlighter: rouge
+
+# 分页
+paginate: 10
+paginate_path: "/page:num/"
+
+# 其他设置
+timezone: Asia/Shanghai
+encoding: utf-8

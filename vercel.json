@@ -1,29 +1,38 @@
 {
   "version": 2,
   "name": "ai-news-pusher",
-  "builds": [
-    {
-      "src": "enhanced_news_accumulator.py",
-      "use": "@vercel/python"
-    }
-  ],
+  "public": true,
+  "github": {
+    "enabled": true,
+    "autoAlias": true
+  },
   "routes": [
     {
-      "src": "/api/update-news",
-      "dest": "/enhanced_news_accumulator.py"
+      "src": "/",
+      "dest": "/docs/index.html"
+    },
+    {
+      "src": "/news/(.*)",
+      "dest": "/docs/news/$1"
+    },
+    {
+      "src": "/(.*\\.(css|js|png|jpg|jpeg|gif|svg|ico))",
+      "dest": "/docs/$1"
     },
     {
       "src": "/(.*)",
       "dest": "/docs/$1"
     }
   ],
-  "functions": {
-    "enhanced_news_accumulator.py": {
-      "runtime": "python3.9"
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
     }
-  },
-  "env": {
-    "GNEWS_API_KEY": "@gnews_api_key",
-    "SILICONFLOW_API_KEY": "@siliconflow_api_key"
-  }
+  ]
 }
