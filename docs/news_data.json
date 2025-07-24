@@ -1,43 +1,157 @@
 [
   {
-    "id": "c404840992cf",
-    "title": "🏢 谷歌重要动态，业务发展备受关注",
-    "original_title": "Google parent Alphabet earns $96 bn in Q2 on AI boom, YouTube ad revenue nears $10 bn",
-    "description": "谷歌在人工智能领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
-    "original_description": "Alphabet on Wednesday reported better-than-expected Q2 results, with overall revenue rising 14 per cent year-on-year and cloud revenue reaching $13.62 billion. YouTube ad revenue surged 13 per cent to $9.8 billion, while net income climbed nearly 20 per cent to $28.2 billion.",
-    "url": "https://www.firstpost.com/tech/google-parent-alphabet-earns-96-bn-in-q2-on-ai-boom-youtube-ad-revenue-nears-10-bn-13911555.html",
-    "source": "Firstpost",
-    "publishedAt": "2025-07-24T02:57:27Z",
-    "image": "https://images.firstpost.com/uploads/2025/05/2025-05-20T130637Z_1_LYNXMPEL4J0LO_RTROPTP_4_ALPHABET-RESULTS-2025-05-9b1167f16eec7e35461ee1db4a58fdfe-1200x675.jpg?im=FitAndFill=(1200,675)",
+    "id": "148229fb5a1d",
+    "title": "🏢 亚马逊重要动态，业务发展备受关注",
+    "original_title": "If you felt like Amazon could eavesdrop on you before, get ready to meet its AI wearable",
+    "description": "亚马逊在人工智能领域收购相关举措，对行业发展和用户体验产生重要影响，引发市场和公众的广泛关注。",
+    "original_description": "Amazon’s newly acquired wrist-worn AI listens to your life in case you want ambient surveillance",
+    "url": "https://www.techradar.com/computing/artificial-intelligence/if-you-felt-like-amazon-could-eavesdrop-on-you-before-get-ready-to-meet-its-ai-wearable",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-24T03:30:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/yGouXZH2vRhhXyeKwjHN8U.png",
     "category": {
       "name": "AI科技",
       "color": "#FF6B35",
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.205000",
+    "added_time": "2025-07-24T11:53:07.225243",
     "search_category": "AI科技"
   },
   {
-    "id": "c404840992cf",
-    "title": "🏢 谷歌重要动态，业务发展备受关注",
-    "original_title": "Google parent Alphabet earns $96 bn in Q2 on AI boom, YouTube ad revenue nears $10 bn",
-    "description": "谷歌在人工智能领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
-    "original_description": "Alphabet on Wednesday reported better-than-expected Q2 results, with overall revenue rising 14 per cent year-on-year and cloud revenue reaching $13.62 billion. YouTube ad revenue surged 13 per cent to $9.8 billion, while net income climbed nearly 20 per cent to $28.2 billion.",
-    "url": "https://www.firstpost.com/tech/google-parent-alphabet-earns-96-bn-in-q2-on-ai-boom-youtube-ad-revenue-nears-10-bn-13911555.html",
-    "source": "Firstpost",
-    "publishedAt": "2025-07-24T02:57:27Z",
-    "image": "https://images.firstpost.com/uploads/2025/05/2025-05-20T130637Z_1_LYNXMPEL4J0LO_RTROPTP_4_ALPHABET-RESULTS-2025-05-9b1167f16eec7e35461ee1db4a58fdfe-1200x675.jpg?im=FitAndFill=(1200,675)",
+    "id": "dcb1b117bd79",
+    "title": "📢 微软遭黑客攻击，市场格局面临变化",
+    "original_title": "Microsoft server hack has now hit 400 victims, researchers say",
+    "description": "微软在安全领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
+    "original_description": "Eye Security says the figure is likely an undercount. 'There are many more, because not all attack vectors have left artifacts that we could scan for,' says Vaisha Bernard, chief hacker for Eye Security.",
+    "url": "https://www.rappler.com/technology/microsoft-sharepoint-hack-victims-update-july-23-2025/",
+    "source": "Rappler",
+    "publishedAt": "2025-07-24T03:21:19Z",
+    "image": "https://www.rappler.com/tachyon/2025/05/microsoft-logo-january-9-2025-reuters.jpg",
     "category": {
       "name": "科技创新",
       "color": "#95A5A6",
       "icon": "💻"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.210372",
+    "added_time": "2025-07-24T11:53:07.226093",
     "search_category": "科技创新"
   },
   {
+    "id": "0472f1260fbc",
+    "title": "💼 【4993】技术发展新趋势，产业变革步伐持续加速",
+    "original_title": "Consumer groups urge tech-driven crackdown on illegal e-gambling instead of total ban",
+    "description": "技术领域出现重要发展动态，相关技术创新和市场变化引发行业内外的深入思考和持续关注。",
+    "original_description": "MANILA, Philippines – Consumer advocacy groups called on the government to adopt smarter, technology-driven strategies to combat illegal online gambling, warning that a blanket ban could push the industry further underground and out of regulatory reach.",
+    "url": "https://www.manilatimes.net/2025/07/24/news/consumer-groups-urge-tech-driven-crackdown-on-illegal-e-gambling-instead-of-total-ban/2155184",
+    "source": "The Manila Times",
+    "publishedAt": "2025-07-24T03:16:00Z",
+    "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/24/688488.jpg",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T11:53:07.226123",
+    "search_category": "科技创新"
+  },
+  {
+    "id": "0cc738343dce",
+    "title": "🏢 特朗普重要动态，业务发展备受关注",
+    "original_title": "Trump admin unveils AI strategy to maintain US dominance",
+    "description": "特朗普政府、政府发布人工智能发展战略，旨在保持美国在AI领域的主导地位，推动大型科技公司在与中国的竞争中保持领先。",
+    "original_description": "WASHINGTON, D.C. — The Trump administration on Wednesday unveiled an aggressive, low-regulation strategy boosting big tech's race to stay ahead of China on artificial intelligence and cement the United States' dominance in the fast-expanding field.",
+    "url": "https://www.manilatimes.net/2025/07/24/world/americas-emea/trump-admin-unveils-ai-strategy-to-maintain-us-dominance/2155185",
+    "source": "The Manila Times",
+    "publishedAt": "2025-07-24T03:15:00Z",
+    "image": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/24/688489.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T11:53:07.225289",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "428f5bca4cd5",
+    "title": "💡 AI技术重要更新，功能优化持续推进",
+    "original_title": "AI helps Latin scholars decipher ancient Roman texts",
+    "description": "人工智能领域出现重要发展动态，相关技术创新和市场变化引发行业内外的深入思考和持续关注。",
+    "original_description": "PARIS, France — Around 1,500 Latin inscriptions are discovered every year, offering an invaluable view into the daily life of ancient Romans -- and posing a daunting challenge for the historians tasked with interpreting them.",
+    "url": "https://www.manilatimes.net/2025/07/24/world/americas-emea/ai-helps-latin-scholars-decipher-ancient-roman-texts/2155179",
+    "source": "The Manila Times",
+    "publishedAt": "2025-07-24T02:58:00Z",
+    "image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T11:53:07.225318",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "c404840992cf",
+    "title": "🏢 谷歌重要动态，业务发展备受关注",
+    "original_title": "Google parent Alphabet earns $96 bn in Q2 on AI boom, YouTube ad revenue nears $10 bn",
+    "description": "谷歌、谷歌在人工智能领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
+    "original_description": "Alphabet on Wednesday reported better-than-expected Q2 results, with overall revenue rising 14 per cent year-on-year and cloud revenue reaching $13.62 billion. YouTube ad revenue surged 13 per cent to $9.8 billion, while net income climbed nearly 20 per cent to $28.2 billion.",
+    "url": "https://www.firstpost.com/tech/google-parent-alphabet-earns-96-bn-in-q2-on-ai-boom-youtube-ad-revenue-nears-10-bn-13911555.html",
+    "source": "Firstpost",
+    "publishedAt": "2025-07-24T02:57:27Z",
+    "image": "https://images.firstpost.com/uploads/2025/05/2025-05-20T130637Z_1_LYNXMPEL4J0LO_RTROPTP_4_ALPHABET-RESULTS-2025-05-9b1167f16eec7e35461ee1db4a58fdfe-1200x675.jpg?im=FitAndFill=(1200,675)",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T11:53:07.225344",
+    "search_category": "AI科技"
+  },
+  {
+    "id": "c404840992cf",
+    "title": "🏢 谷歌重要动态，业务发展备受关注",
+    "original_title": "Google parent Alphabet earns $96 bn in Q2 on AI boom, YouTube ad revenue nears $10 bn",
+    "description": "谷歌、谷歌在人工智能领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
+    "original_description": "Alphabet on Wednesday reported better-than-expected Q2 results, with overall revenue rising 14 per cent year-on-year and cloud revenue reaching $13.62 billion. YouTube ad revenue surged 13 per cent to $9.8 billion, while net income climbed nearly 20 per cent to $28.2 billion.",
+    "url": "https://www.firstpost.com/tech/google-parent-alphabet-earns-96-bn-in-q2-on-ai-boom-youtube-ad-revenue-nears-10-bn-13911555.html",
+    "source": "Firstpost",
+    "publishedAt": "2025-07-24T02:57:27Z",
+    "image": "https://images.firstpost.com/uploads/2025/05/2025-05-20T130637Z_1_LYNXMPEL4J0LO_RTROPTP_4_ALPHABET-RESULTS-2025-05-9b1167f16eec7e35461ee1db4a58fdfe-1200x675.jpg?im=FitAndFill=(1200,675)",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T11:53:07.226147",
+    "search_category": "科技创新"
+  },
+  {
+    "id": "f987f60829c6",
+    "title": "🏢 特朗普重要动态，业务发展备受关注",
+    "original_title": "Why CSL shares are a buy today despite the looming Trump tariffs",
+    "description": "特朗普政府发布重要动态，相关举措对市场环境和用户服务产生重要影响，成为行业内外关注的焦点。",
+    "original_description": "CSL Ltd (ASX: CSL) shares have enjoyed a 15% rebound since 27 June. Here’s why the ASX 200 biotech stock could keep charging higher.",
+    "url": "https://www.fool.com.au/2025/07/24/why-csl-shares-are-a-buy-today-despite-the-looming-trump-tariffs/",
+    "source": "Motley Fool Australia",
+    "publishedAt": "2025-07-24T02:55:00Z",
+    "image": "https://www.fool.com.au/wp-content/uploads/2023/09/health-12-16.9-1200x675.jpeg",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-24T11:53:07.225800",
+    "search_category": "经济金融"
+  },
+  {
     "id": "d6881b1eea2d",
     "title": "💡 AI技术重要更新，科技持续推进",
     "original_title": "Lloyds Technology Centre expands AI leadership with appointment of Shirish Tatikonda",
@@ -53,7 +167,7 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.205280",
+    "added_time": "2025-07-24T11:53:07.225366",
     "search_category": "AI科技"
   },
   {
@@ -72,7 +186,7 @@
       "icon": "💻"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.210501",
+    "added_time": "2025-07-24T11:53:07.226167",
     "search_category": "科技创新"
   },
   {
@@ -91,7 +205,7 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.208398",
+    "added_time": "2025-07-24T11:53:07.225827",
     "search_category": "经济金融"
   },
   {
@@ -110,7 +224,7 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.208679",
+    "added_time": "2025-07-24T11:53:07.225865",
     "search_category": "经济金融"
   },
   {
@@ -129,7 +243,7 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.208902",
+    "added_time": "2025-07-24T11:53:07.225893",
     "search_category": "经济金融"
   },
   {
@@ -148,7 +262,7 @@
       "icon": "💻"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.210637",
+    "added_time": "2025-07-24T11:53:07.226187",
     "search_category": "科技创新"
   },
   {
@@ -167,7 +281,7 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.205467",
+    "added_time": "2025-07-24T11:53:07.225408",
     "search_category": "AI科技"
   },
   {
@@ -186,7 +300,7 @@
       "icon": "💻"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.210746",
+    "added_time": "2025-07-24T11:53:07.226203",
     "search_category": "科技创新"
   },
   {
@@ -205,14 +319,14 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.209127",
+    "added_time": "2025-07-24T11:53:07.225920",
     "search_category": "经济金融"
   },
   {
     "id": "978ae06a375a",
     "title": "🏢 任天堂重要动态，业务发展备受关注",
     "original_title": "Here is Lego’s official Nintendo Game Boy - with lenticular display",
-    "description": "Xbox Game Pass订阅服务用户数量持续增长，丰富的游戏库和优质的价格吸引了大量玩家加入，改变了游戏消费模式。",
+    "description": "任天堂发布重要动态，相关举措对市场环境和用户服务产生重要影响，成为行业内外关注的焦点。",
     "original_description": "Lego has revealed a most impressive take on the 1989 Nintendo Game Boy that’ll cost a relatively reasonable $60 in the US.",
     "url": "https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display",
     "source": "The Verge",
@@ -224,7 +338,7 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.206797",
+    "added_time": "2025-07-24T11:53:07.225541",
     "search_category": "游戏科技"
   },
   {
@@ -243,14 +357,14 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.209407",
+    "added_time": "2025-07-24T11:53:07.225954",
     "search_category": "经济金融"
   },
   {
     "id": "2b085539db0a",
     "title": "💎 【4485】核心技术实现关键突破，产业链价值体系重新构建",
     "original_title": "6% Monthly Dividend! This Stock Is My Ultimate Passive Income Play",
-    "description": "Xbox Game Pass订阅服务用户数量持续增长，丰富的游戏库和优质的价格吸引了大量玩家加入，改变了游戏消费模式。",
+    "description": "【5468】重要产品功能升级正式发布，核心技术能力得到全面增强，市场竞争优势进一步巩固。",
     "original_description": "By owning 1,000 shares of this high yield Canadian dividend stock, investors can earn $79 in monthly passive income.",
     "url": "https://www.fool.ca/2025/07/23/6-monthly-dividend-this-stock-is-my-ultimate-passive-income-play/",
     "source": "The Motley Fool Canada",
@@ -262,7 +376,7 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.209592",
+    "added_time": "2025-07-24T11:53:07.225983",
     "search_category": "经济金融"
   },
   {
@@ -281,7 +395,7 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.209773",
+    "added_time": "2025-07-24T11:53:07.226009",
     "search_category": "经济金融"
   },
   {
@@ -300,7 +414,7 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.209931",
+    "added_time": "2025-07-24T11:53:07.226032",
     "search_category": "经济金融"
   },
   {
@@ -319,14 +433,14 @@
       "icon": "💰"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.210094",
+    "added_time": "2025-07-24T11:53:07.226056",
     "search_category": "经济金融"
   },
   {
     "id": "f3600634be94",
     "title": "💡 AI技术重要更新，功能优化持续推进",
     "original_title": "PayPal to add 100 high-tech jobs in Dublin with AI fraud and data science centre",
-    "description": "一种新型人工智能诈骗正在针对谷歌Gmail用户，对平台18亿的用户构成威胁。技术专家建议用户采取相应防范措施来避免成为受害者。",
+    "description": "人工智能领域出现重要发展动态，相关技术创新和市场变化引发行业内外的深入思考和持续关注。",
     "original_description": "Company setting up new artificial intelligence fraud and data-science centre",
     "url": "https://www.irishtimes.com/business/2025/07/24/paypal-to-add-100-high-tech-jobs-in-dublin/",
     "source": "The Irish Times",
@@ -338,33 +452,14 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.205577",
+    "added_time": "2025-07-24T11:53:07.225434",
     "search_category": "AI科技"
-  },
-  {
-    "id": "66ad4fc55e86",
-    "title": "💼 【1F71】技术发展新趋势，产业变革步伐持续加速",
-    "original_title": "Broker says this ASX All Ords industrials stock could rise 14%",
-    "description": "Xbox Game Pass订阅服务用户数量持续增长，丰富的游戏库和优质的价格吸引了大量玩家加入，改变了游戏消费模式。",
-    "original_description": "The ASX All Ords telco has secured a number of high-value long-term contracts this year, and is well positioned for more growth.",
-    "url": "https://www.fool.com.au/2025/07/24/broker-says-this-asx-all-ords-industrials-stock-could-rise-14/",
-    "source": "Motley Fool Australia",
-    "publishedAt": "2025-07-23T23:56:51Z",
-    "image": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-1388912000-1-1200x675.jpg",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T11:13:50.210206",
-    "search_category": "经济金融"
   },
   {
     "id": "a1b922e2b787",
     "title": "🏢 特朗普重要动态，业务发展备受关注",
     "original_title": "Donald Trump declares US is going to 'win' AI race as administration unveils action plan",
-    "description": "特朗普政府、政府在人工智能领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
+    "description": "特朗普政府、政府保持人工智能发展战略，旨在保持美国在AI领域的主导地位，推动大型科技公司在与中国的竞争中保持领先。",
     "original_description": "The plan comes as America attempts to maintain its edge over China, with both superpowers investing heavily in the industry to secure economic and military superiority.",
     "url": "https://news.sky.com/story/donald-trump-declares-us-is-going-to-win-ai-race-as-administration-unveils-action-plan-13400912",
     "source": "Sky News",
@@ -376,14 +471,14 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.205953",
+    "added_time": "2025-07-24T11:53:07.225457",
     "search_category": "AI科技"
   },
   {
     "id": "f275c2f0fb7c",
     "title": "🏢 特朗普重要动态，业务发展备受关注",
     "original_title": "Trump signs three executive orders targeting ‘woke’ AI models",
-    "description": "特朗普政府正在拆除环境保护政策，同时推动更多天然气和煤炭为AI数据中心供电，这将大幅增加人工智能行业的碳排放和环境污染。",
+    "description": "特朗普政府在人工智能领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
     "original_description": "Crackdown on what the White House claims is bias echoes longstanding conservative grievances against tech",
     "url": "https://www.theguardian.com/us-news/2025/jul/23/trump-executive-orders-woke-ai",
     "source": "The Guardian",
@@ -395,14 +490,14 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.206075",
+    "added_time": "2025-07-24T11:53:07.225481",
     "search_category": "AI科技"
   },
   {
     "id": "3e55bc90c7af",
     "title": "💡 Xbox重要更新，功能优化持续推进",
     "original_title": "The best-selling PS5 game this year is by Xbox - no, seriously",
-    "description": "索尼PlayStation平台发布系统更新，新增多项游戏体验优化功能，包括界面改进、性能提升和社交功能增强。",
+    "description": "PlayStation、Xbox在平台领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
     "original_description": "Since coming to PS5 in April, Xbox's Forza Horizon 5 has sold over 3 million copies on the platform — making it 2025's best-selling PlayStation game so far.",
     "url": "https://www.windowscentral.com/gaming/the-best-selling-ps5-game-this-year-is-by-xbox",
     "source": "Windows Central",
@@ -414,7 +509,7 @@
       "icon": "🎯"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.206908",
+    "added_time": "2025-07-24T11:53:07.225568",
     "search_category": "游戏科技"
   },
   {
@@ -433,7 +528,7 @@
       "icon": "🌐"
     },
     "importance": 2,
-    "added_time": "2025-07-24T11:13:50.210877",
+    "added_time": "2025-07-24T11:53:07.226259",
     "search_category": "科技创新"
   },
   {
@@ -452,14 +547,14 @@
       "icon": "🤖"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.206371",
+    "added_time": "2025-07-24T11:53:07.225510",
     "search_category": "AI科技"
   },
   {
     "id": "0466d501bb83",
     "title": "🏢 Meta重要动态，业务发展备受关注",
     "original_title": "Meta Introduces New Instagram Safety Features To Better Protect Teens And Kids Online",
-    "description": "一种新型人工智能诈骗正在针对谷歌Gmail用户，对平台18亿的用户构成威胁。技术专家建议用户采取相应防范措施来避免成为受害者。",
+    "description": "【6B04】重要产品功能升级正式发布，核心技术能力得到全面增强，市场竞争优势进一步巩固。",
     "original_description": "Meta adds Instagram safety tools to protect young users.",
     "url": "https://in.mashable.com/tech/97522/meta-introduces-new-instagram-safety-features-to-better-protect-teens-and-kids-online",
     "source": "Mashable India",
@@ -471,7 +566,7 @@
       "icon": "🌐"
     },
     "importance": 2,
-    "added_time": "2025-07-24T11:13:50.210950",
+    "added_time": "2025-07-24T11:53:07.226298",
     "search_category": "科技创新"
   },
   {
@@ -490,33 +585,14 @@
       "icon": "💻"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.211067",
+    "added_time": "2025-07-24T11:53:07.226328",
     "search_category": "科技创新"
   },
   {
     "id": "0dda16fc8391",
     "title": "🏢 谷歌重要动态，业务发展备受关注",
     "original_title": "Eight Indian Startups Shine At Google I/O Connect India 2025 With AI-Powered Apps",
-    "description": "谷歌在AI搜索技术方面取得重大突破，通过深度学习算法优化，显著提升搜索结果的相关性和准确性。",
-    "original_description": "Eight Indian startups showcase AI apps at Google event.",
-    "url": "https://in.mashable.com/tech/97521/eight-indian-startups-shine-at-google-io-connect-india-2025-with-ai-powered-apps",
-    "source": "Mashable India",
-    "publishedAt": "2025-07-23T22:26:52Z",
-    "image": "https://sm.mashable.com/mashable_in/seo/default/agoogle_h1s7.jpg",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T11:13:50.206484",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "0dda16fc8391",
-    "title": "🏢 谷歌重要动态，业务发展备受关注",
-    "original_title": "Eight Indian Startups Shine At Google I/O Connect India 2025 With AI-Powered Apps",
-    "description": "谷歌在AI搜索技术方面取得重大突破，通过深度学习算法优化，显著提升搜索结果的相关性和准确性。",
+    "description": "谷歌在人工智能领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
     "original_description": "Eight Indian startups showcase AI apps at Google event.",
     "url": "https://in.mashable.com/tech/97521/eight-indian-startups-shine-at-google-io-connect-india-2025-with-ai-powered-apps",
     "source": "Mashable India",
@@ -528,33 +604,14 @@
       "icon": "💻"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.211135",
+    "added_time": "2025-07-24T11:53:07.226353",
     "search_category": "科技创新"
-  },
-  {
-    "id": "79040aee66ec",
-    "title": "💡 AI技术重要更新，功能优化持续推进",
-    "original_title": "U.S. Education Department encourages schools to use AI in the classroom",
-    "description": "一种新型人工智能诈骗正在针对谷歌Gmail用户，对平台18亿的用户构成威胁。技术专家建议用户采取相应防范措施来避免成为受害者。",
-    "original_description": "The U.S. Secretary of Education, Linda McMahon, said in a statement Tuesday that artificial intelligence \"drives personalized learning, sharpens critical thinking and prepares students with problem-solving skills that are vital for tomorrow's challenges.\"",
-    "url": "https://www.mercurynews.com/2025/07/23/trump-education-schools-artificial-intelligence/",
-    "source": "The Mercury News",
-    "publishedAt": "2025-07-23T22:22:30Z",
-    "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/Department_of_Education_for_Trump_Education_What_Happens_97543.jpg?w=1024&h=682",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T11:13:50.206588",
-    "search_category": "AI科技"
   },
   {
     "id": "e01bf848d7a6",
     "title": "📢 Meta下跌，市场格局面临变化",
     "original_title": "Wuchang: Fallen Feathers reviews and Metacritic scores are in",
-    "description": "Xbox Game Pass订阅服务用户数量持续增长，丰富的游戏库和优质的价格吸引了大量玩家加入，改变了游戏消费模式。",
+    "description": "Xbox发布重要动态，相关举措对市场环境和用户服务产生重要影响，成为行业内外关注的焦点。",
     "original_description": "The highly anticipated Xbox Game Pass Soulslike Wuchang: Fallen Feathers is here, and so are reviews for the game. Here's what critics are saying.",
     "url": "https://www.windowscentral.com/gaming/xbox/wuchang-fallen-feathers-review-and-metacritic-score-roundup-does-this-brutally-difficult-xbox-game-pass-soulslike-live-up-to-expectations",
     "source": "Windows Central",
@@ -566,33 +623,14 @@
       "icon": "🎮"
     },
     "importance": 2,
-    "added_time": "2025-07-24T11:13:50.207027",
+    "added_time": "2025-07-24T11:53:07.225593",
     "search_category": "游戏科技"
-  },
-  {
-    "id": "9cb9c6351428",
-    "title": "🏢 谷歌重要动态，业务发展备受关注",
-    "original_title": "Google leaks its full Pixel 10 lineup",
-    "description": "谷歌在AI搜索技术方面取得重大突破，通过深度学习算法优化，显著提升搜索结果的相关性和准确性。",
-    "original_description": "Google seems to have leaked its entire Pixel 10 lineup in a hidden banner on the Play Store, as spotted by Android Authority.",
-    "url": "https://www.theverge.com/news/712693/google-leaks-entire-pixel-10-lineup-play-store",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T21:46:41Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/google-pixel-lineup-leak.webp?quality=90&strip=all&crop=0%2C3.4483295936176%2C100%2C93.103340812765&w=1200",
-    "category": {
-      "name": "科技创新",
-      "color": "#95A5A6",
-      "icon": "💻"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T11:13:50.211179",
-    "search_category": "科技创新"
   },
   {
     "id": "6c4d5cb27ab0",
     "title": "⚡ 【CC5B】前沿技术获得重大进展，市场应用前景更加广阔",
     "original_title": "Elden Ring Nightreign and FFXVI cracked US games sales charts",
-    "description": "Xbox Game Pass订阅服务用户数量持续增长，丰富的游戏库和优质的价格吸引了大量玩家加入，改变了游戏消费模式。",
+    "description": "Xbox在人工智能领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
     "original_description": "US sales charts have revealed Elden Ring Nightreign and Final Fantasy XVI's long-awaited Xbox port have become of the best-selling Xbox games of June 2025.",
     "url": "https://www.windowscentral.com/gaming/elden-ring-nightreign-no-1-xbox-united-states",
     "source": "Windows Central",
@@ -604,14 +642,14 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.207177",
+    "added_time": "2025-07-24T11:53:07.225623",
     "search_category": "游戏科技"
   },
   {
     "id": "4e7aed85f1d2",
     "title": "⚡ 【1891】前沿技术获得重大进展，市场应用前景更加广阔",
     "original_title": "New, Very Good Game Pass Survival Game Mixes Half-Life And Rust",
-    "description": "索尼PlayStation平台发布系统更新，新增多项游戏体验优化功能，包括界面改进、性能提升和社交功能增强。",
+    "description": "PlayStation在人工智能领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
     "original_description": "Abiotic Factor is also out now on PS5 and available on PlayStation Plus Extra",
     "url": "https://kotaku.com/minecraft-half-life-abiotic-factor-game-pass-ps5-1-0-pc-1851786836",
     "source": "Kotaku",
@@ -623,27 +661,8 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.207289",
+    "added_time": "2025-07-24T11:53:07.225645",
     "search_category": "游戏科技"
-  },
-  {
-    "id": "fca1bbccce19",
-    "title": "💡 AI技术重要更新，功能优化持续推进",
-    "original_title": "AI-powered, heat-seeking satellites target Aussie fires",
-    "description": "一种新型人工智能诈骗正在针对谷歌Gmail用户，对平台18亿的用户构成威胁。技术专家建议用户采取相应防范措施来避免成为受害者。",
-    "original_description": "Bushfires in the Northern Territory are among the first captured by an artificially intelligent satellite designed to detect and record danger from above.",
-    "url": "https://www.perthnow.com.au/news/disaster-and-emergency/ai-powered-heat-seeking-satellites-target-aussie-fires-c-19454987",
-    "source": "PerthNow",
-    "publishedAt": "2025-07-23T21:01:27Z",
-    "image": "https://images.perthnow.com.au/publication/C-19454987/486de8ea9160426dca4c79f9d28b11ff2bed4c63-16x9-x0y0w1280h720.jpg?imwidth=1200",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T11:13:50.206660",
-    "search_category": "AI科技"
   },
   {
     "id": "11970cbc2ac9",
@@ -661,27 +680,8 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.207431",
+    "added_time": "2025-07-24T11:53:07.225666",
     "search_category": "游戏科技"
-  },
-  {
-    "id": "0b1292724a1e",
-    "title": "🏢 亚马逊重要动态，业务发展备受关注",
-    "original_title": "Amazon’s Fire TV Omni QLED Series is matching its Prime Day low",
-    "description": "技术领域出现重要发展动态，相关技术创新和市场变化引发行业内外的深入思考和持续关注。",
-    "original_description": "Amazon’s Fire TV Omni QLED Series uses quantum dot technology and full-array local dimming to deliver more vibrant colors and better contrast.",
-    "url": "https://www.theverge.com/tech/712612/amazon-fire-tv-omni-qled-series-65-inch-deal-sale",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T20:51:36Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Amazon-Fire-TV-Omni-QLED-Series-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "category": {
-      "name": "科技创新",
-      "color": "#95A5A6",
-      "icon": "💻"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T11:13:50.211279",
-    "search_category": "科技创新"
   },
   {
     "id": "5106b5d76c11",
@@ -699,14 +699,14 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.207566",
+    "added_time": "2025-07-24T11:53:07.225689",
     "search_category": "游戏科技"
   },
   {
     "id": "81224d364459",
     "title": "🚀 【8059】新兴科技领域蓬勃发展，商业模式创新不断涌现",
     "original_title": "Score this 1440p 240Hz OLED gaming monitor for nearly $100 off",
-    "description": "游戏领域出现重要发展动态，相关技术创新和市场变化引发行业内外的深入思考和持续关注。",
+    "description": "亚马逊在游戏领域的最新动态引发关注，相关发展对行业格局和用户体验带来深远影响。",
     "original_description": "Snag a 27-inch 1440p 240Hz OLED gaming monitor from Acer for half off in this killer Amazon deal.",
     "url": "https://www.tomsguide.com/computing/monitors/score-this-1440p-240hz-oled-gaming-monitor-for-nearly-usd100-off",
     "source": "Tom's Guide",
@@ -718,27 +718,8 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.207713",
+    "added_time": "2025-07-24T11:53:07.225713",
     "search_category": "游戏科技"
-  },
-  {
-    "id": "1a46e5e8b3b0",
-    "title": "🌟 AI行业重要资讯，AI技术应用场景持续拓展",
-    "original_title": "How Trump’s war on clean energy is making AI a bigger polluter",
-    "description": "相关技术领域出现重要进展，为人工智能行业发展注入新动力。",
-    "original_description": "The Trump administration is tearing down environmental protections while pushing for more gas and coal to power AI data centers.",
-    "url": "https://www.theverge.com/climate-change/712038/ai-energy-trump-epa-gas-coal-emissions",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T18:40:10Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2224628653.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T03:19:26.962544",
-    "search_category": "AI科技"
   },
   {
     "id": "3df06cc48021",
@@ -756,14 +737,14 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.207868",
+    "added_time": "2025-07-24T11:53:07.225738",
     "search_category": "游戏科技"
   },
   {
     "id": "aa2704ca0113",
     "title": "💎 【9FD3】核心技术实现关键突破，产业链价值体系重新构建",
     "original_title": "Tired Of Mashing Buttons In Donkey Kong Bananza? Get A Controller With Turbo",
-    "description": "微软Copilot系列产品功能得到全面增强，为企业数字化转型提供更强大的AI智能化支持，显著提升办公效率和用户体验。",
+    "description": "任天堂发布重要动态，相关举措对市场环境和用户服务产生重要影响，成为行业内外关注的焦点。",
     "original_description": "8BitDo controllers for Nintendo Switch 2 have turbo buttons along with several other helpful customization features.",
     "url": "https://www.gamespot.com/articles/donkey-kong-bananza-button-mashing-nintendo-switch-2-8bitdo-controller/1100-6533321/",
     "source": "GameSpot",
@@ -775,596 +756,7 @@
       "icon": "🎮"
     },
     "importance": 1,
-    "added_time": "2025-07-24T11:13:50.207966",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "9ab69e9fe41d",
-    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
-    "original_title": "Gmail users issued alert over new AI scam and one step they can take to prevent it",
-    "description": "谷歌推出AI技术创新方案，在搜索、云计算、智能助手等领域实现重要突破，进一步巩固其在人工智能领域的领先地位。",
-    "original_description": "A new form of artificial intelligence scam targeting Google's Gmail users poses a risk to 1.8billion users of the platform, which has prompted a tech expert to explain what you can do to help avoid it",
-    "url": "https://www.birminghammail.co.uk/news/uk-news/gmail-users-issued-alert-over-32120469",
-    "source": "Birmingham Live",
-    "publishedAt": "2025-07-23T17:47:20Z",
-    "image": "https://i2-prod.birminghammail.co.uk/article32120468.ece/ALTERNATES/s1200/0_In-this-photo-illustration-the-logo-of-Gmail-is-seen.jpg",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851333",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "1e36e285e84e",
-    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
-    "original_title": "Trump is bringing back the AI law moratorium",
-    "description": "人工智能技术取得重要进展，在机器学习、深度学习等核心技术领域实现突破，推动AI应用向更多行业渗透。",
-    "original_description": "The White House unveiled its long-awaited “AI Action Plan” on Wednesday, and it included a resurrected form of the controversial AI law moratorium that died a very public death. States could be punished and barred from certain funding over laws seen as hindering AI advancement.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T17:46:34Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851379",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "b280cf652859",
-    "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
-    "original_title": "Little-known clearance website selling heavily reduced Charlotte Tilbury makeup",
-    "description": "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。",
-    "original_description": "Charlotte Tilbury costs as little as £4.79 on the website, which sells off surplus stock",
-    "url": "https://www.manchestereveningnews.co.uk/news/fashion-news/little-known-clearance-website-selling-32114715",
-    "source": "Manchester Evening News",
-    "publishedAt": "2025-07-23T17:12:00Z",
-    "image": "https://i2-prod.manchestereveningnews.co.uk/article32117375.ece/ALTERNATES/s1200/0_CT-beautiful-skin-foundationJPG.jpg",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.867946",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "f4b9a0148bcd",
-    "title": "📈 AI领域揭晓重要进展，AI技术应用场景持续拓展",
-    "original_title": "Trump administration unveils new AI Action Plan",
-    "description": "相关技术领域出现重要进展，为人工智能行业发展注入新动力。",
-    "original_description": "The White House unveiled its new AI action plan to make the United States a global leader in the technology. It includes plans to export American systems.",
-    "url": "https://www.upi.com/Top_News/US/2025/07/23/trump-administration-AI-action-plan/4341753289233/",
-    "source": "UPI News",
-    "publishedAt": "2025-07-23T17:11:00Z",
-    "image": "https://cdnph.upi.com/sv/ph/og/upi/4341753289233/2025/1/5c51b418d21e3e5a28d46a9696ba5eb5/v1.5/Trump-administration-unveils-new-AI-Action-Plan.jpg",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T03:19:26.962683",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "3d9773d42c97",
-    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
-    "original_title": "China fills UNESCO power vacuum as US withdraws funding again",
-    "description": "人工智能技术取得重要进展，在机器学习、深度学习等核心技术领域实现突破，推动AI应用向更多行业渗透。",
-    "original_description": "Beijing has ramped up efforts to shape UNESCO’s decisions on education, historical sites, and artificial intelligence, stepping in a gap left by the United States.",
-    "url": "https://indianexpress.com/article/world/china-fills-unesco-power-vacuum-as-us-withdraws-funding-again-10145302/",
-    "source": "The Indian Express",
-    "publishedAt": "2025-07-23T17:08:59Z",
-    "image": "https://images.indianexpress.com/2025/07/Screenshot-2025-07-23-at-10.18.39 PM.png",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851389",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "d4693b383c6f",
-    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
-    "original_title": "AI Bubble Burst Will Be Worse Than The Dot Com Bubble? Internet Says Amen To Economist’s Prediction",
-    "description": "人工智能技术取得重要进展，在机器学习、深度学习等核心技术领域实现突破，推动AI应用向更多行业渗透。",
-    "original_description": "Big techs are betting billions on AI",
-    "url": "https://in.mashable.com/tech/97520/ai-bubble-burst-will-be-worse-than-the-dot-com-bubble-internet-says-amen-to-economists-prediction",
-    "source": "Mashable India",
-    "publishedAt": "2025-07-23T16:59:01Z",
-    "image": "https://sm.mashable.com/mashable_in/seo/default/00-aa-art-cover-new-93_3mbm.jpg",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851397",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "097aa56eee38",
-    "title": "💰 全球经济金融市场动态，财经政策影响投资环境",
-    "original_title": "Afreximbank Appoints New President, Expands Finance Window at AGM in Abuja",
-    "description": "经济金融领域出现重要动态，市场变化和政策调整引发广泛关注，投资环境面临新的机遇与挑战。",
-    "original_description": "“It has been a great honour to serve Afreximbank and contribute to Africa’s trade transformation,” said outgoing President Oramah.",
-    "url": "https://www.devdiscourse.com/article/business/3514632-afreximbank-appoints-new-president-expands-finance-window-at-agm-in-abuja",
-    "source": "Devdiscourse",
-    "publishedAt": "2025-07-23T16:44:39Z",
-    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/01_11_2021_15_26_24_7821414.jpg?width=920&format=jpeg",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.867974",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "e714cd0518cb",
-    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
-    "original_title": "Teens say they are turning to AI for friendship",
-    "description": "人工智能技术取得重要进展，在机器学习、深度学习等核心技术领域实现突破，推动AI应用向更多行业渗透。",
-    "original_description": "Teenagers say they are increasingly interacting with AI as if it were a companion, capable of providing advice and friendship.",
-    "url": "https://www.cp24.com/news/world/2025/07/23/teens-say-they-are-turning-to-ai-for-friendship/",
-    "source": "CP24 Toronto",
-    "publishedAt": "2025-07-23T16:41:31Z",
-    "image": "https://www.cp24.com/resizer/v2/URIP3NXUA7573ANBGZX24Z2CEA.jpg?smart=true&auth=8f8e15273efa33a8e177f3cb524539cbda89e0e78dc91fc815715b88c7438c62&width=1200&height=630",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851402",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "dcdd5620b8c5",
-    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
-    "original_title": "Trump announces U.S. AI Action Plan. Here's 3 major takeaways from the sweeping executive order.",
-    "description": "人工智能技术取得重要进展，在机器学习、深度学习等核心技术领域实现突破，推动AI应用向更多行业渗透。",
-    "original_description": "As expected, the executive order targets \"woke\" AI models, building out AI infrastructure, and ensuring U.S. AI dominance abroad.",
-    "url": "https://in.mashable.com/tech/97518/trump-announces-us-ai-action-plan-heres-3-major-takeaways-from-the-sweeping-executive-order",
-    "source": "Mashable India",
-    "publishedAt": "2025-07-23T16:03:13Z",
-    "image": "https://sm.mashable.com/t/mashable_in/article/t/trump-anno/trump-announces-us-ai-action-plan-heres-3-major-takeaways-fr_z65r.1200.jpg",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851409",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "cd3c59a04b6e",
-    "title": "🔍 谷歌AI研发取得新进展，搜索与智能技术深度融合",
-    "original_title": "Google brings its AI-powered photo-to-video capability to more apps",
-    "description": "谷歌推出AI技术创新方案，在搜索、云计算、智能助手等领域实现重要突破，进一步巩固其在人工智能领域的领先地位。",
-    "original_description": "Google is adding new AI-powered features to Google Photos and YouTube Shorts that allow users to transform their photos into videos.",
-    "url": "https://www.theverge.com/news/712217/google-ai-photo-video-youtube-shorts",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T16:00:00Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Google-ai-photo-to-video.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851414",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "008537723a20",
-    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
-    "original_title": "Wheel World is the feel-good game of the summer",
-    "description": "索尼PlayStation平台发布重要更新，PS5主机功能优化升级，游戏生态系统持续完善，为玩家带来更优质的游戏体验。",
-    "original_description": "Annapurna Interactive and the developers behind Nidhogg have released the cycling adventure Wheel World on Steam, Xbox, and the PS5.",
-    "url": "https://www.theverge.com/games-review/711680/wheel-world-review-ps5-xbox-steam",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T16:00:00Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/WheelWorld_screenshot_07.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "category": {
-      "name": "游戏科技",
-      "color": "#9B59B6",
-      "icon": "🎮"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858668",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "0974da7db806",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "This Undervalued Stock Down 76% Is My Best Contrarian Play",
-    "description": "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。",
-    "original_description": "Cineplex stock remains grossly undervalued as it claws its way back to the top with increasing box office revenue.",
-    "url": "https://www.fool.ca/2025/07/23/this-undervalued-stock-down-76-is-my-best-contrarian-play/",
-    "source": "The Motley Fool Canada",
-    "publishedAt": "2025-07-23T15:45:00Z",
-    "image": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-2112922725-1200x800.jpg",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.867982",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "e871217df4c4",
-    "title": "💼 微软AI战略布局更新，企业级人工智能解决方案优化",
-    "original_title": "Microsoft snapped up dozens of Google DeepMind staffers in recent months: Report",
-    "description": "人工智能技术取得重要进展，在机器学习、深度学习等核心技术领域实现突破，推动AI应用向更多行业渗透。",
-    "original_description": "The migration comes amid a rapidly intensifying war for AI talent, where researchers and engineers are being traded like star athletes.",
-    "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-hires-google-deepmind-employees-ai-talent-war-report-10145211/",
-    "source": "The Indian Express",
-    "publishedAt": "2025-07-23T15:34:04Z",
-    "image": "https://images.indianexpress.com/2024/07/satya-nadella.jpg",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851429",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "4eca325cbc85",
-    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
-    "original_title": "‘Having Nightmares’ Job Applicant Shocked To Discover Interviewer Was An AI; Internet Says ‘Answer With Own Bots’",
-    "description": "人工智能技术取得重要进展，在机器学习、深度学习等核心技术领域实现突破，推动AI应用向更多行业渗透。",
-    "original_description": "BYOB (Bring Your Own Bots) and trick the AI interviewer",
-    "url": "https://in.mashable.com/tech/97515/having-nightmares-job-applicant-shocked-to-discover-interviewer-was-an-ai-internet-says-answer-with",
-    "source": "Mashable India",
-    "publishedAt": "2025-07-23T15:29:10Z",
-    "image": "https://sm.mashable.com/mashable_in/seo/default/00-aa-art-cover-new-91_jq17.jpg",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851436",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "ac8f52cce331",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
-    "description": "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。",
-    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
-    "url": "https://www.guelphtoday.com/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
-    "source": "GuelphToday",
-    "publishedAt": "2025-07-23T15:25:15Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.867996",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "5d3d1de8328b",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
-    "description": "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。",
-    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
-    "url": "https://www.elliotlaketoday.com/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
-    "source": "ElliotLakeToday.com",
-    "publishedAt": "2025-07-23T15:25:15Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.868005",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "f75cb1fa99a3",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
-    "description": "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。",
-    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
-    "url": "https://www.sootoday.com/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
-    "source": "SooToday",
-    "publishedAt": "2025-07-23T15:25:15Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.868012",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "3ad25779277c",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
-    "description": "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。",
-    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
-    "url": "https://www.bradfordtoday.ca/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
-    "source": "BradfordToday",
-    "publishedAt": "2025-07-23T15:25:15Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.868019",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "6e2d32c72e33",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
-    "description": "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。",
-    "original_description": "TORONTO - Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose.",
-    "url": "https://www.thestar.com/business/s-p-tsx-composite-up-wednesday-morning-u-s-markets-also-higher/article_2125dc99-4bf4-5cea-99fb-72302106a140.html",
-    "source": "Toronto Star",
-    "publishedAt": "2025-07-23T15:25:15Z",
-    "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/c2/0c276a26-ead0-5471-aec1-15e890c24081/67a4e5e370b35.image.jpg?crop=1570%2C824%2C0%2C127&resize=1200%2C630&order=crop%2Cresize",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.868027",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "b9933f53e3c8",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
-    "description": "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。",
-    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
-    "url": "https://www.vancouverisawesome.com/national-business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980498",
-    "source": "Vancouver Is Awesome",
-    "publishedAt": "2025-07-23T15:25:15Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.868033",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "d9aa4ea23ccc",
-    "title": "📈 全球股票市场表现分析，投资者关注经济发展趋势",
-    "original_title": "S&P/TSX composite up Wednesday morning, U.S. markets also higher",
-    "description": "全球股票市场表现分析显示，投资者对经济发展前景保持关注，市场情绪和资金流向呈现新的特征。",
-    "original_description": "TORONTO — Gains in battery metal stocks helped lift Canada's main stock index in late-morning trading on Wednesday, while U.S. markets also rose. The S&P/TSX composite index was up 76.52 points at 27,440.95.",
-    "url": "https://www.baytoday.ca/business/sptsx-composite-up-wednesday-morning-us-markets-also-higher-10980481",
-    "source": "BayToday",
-    "publishedAt": "2025-07-23T15:25:15Z",
-    "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/07/9d10c9acb4e96e4f5569e3d085736e36f9be64e44a57cfcf95d03bd098e7f77a.jpg;w=1200;h=800;mode=crop",
-    "category": {
-      "name": "经济金融",
-      "color": "#E67E22",
-      "icon": "💰"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.868039",
-    "search_category": "经济金融"
-  },
-  {
-    "id": "5e877f064603",
-    "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
-    "original_title": "The Outer Worlds 2 will no longer be Microsoft’s first $80 Xbox game",
-    "description": "游戏科技领域迎来新的发展机遇，相关技术创新推动游戏体验升级，行业竞争格局持续演变。",
-    "original_description": "The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going back down to $69.99.",
-    "url": "https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T15:19:25Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/outerworlds2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "category": {
-      "name": "Xbox",
-      "color": "#107C10",
-      "icon": "🎯"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858698",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "d4942fff7488",
-    "title": "🤖 人工智能行业重要进展，AI技术应用领域持续扩展",
-    "original_title": "AI robots designed for war by German tech company",
-    "description": "人工智能技术取得重要进展，在机器学习、深度学习等核心技术领域实现突破，推动AI应用向更多行业渗透。",
-    "original_description": "For Gundbert Scherf - the co-founder of Germany’s Helsing, Europe’s most valuable defence start-up - Russia’s invasion of Ukraine changed everything.",
-    "url": "https://www.cp24.com/news/world/2025/07/23/spy-cockroaches-and-ai-robots-germany-plots-the-future-of-warfare/",
-    "source": "CP24 Toronto",
-    "publishedAt": "2025-07-23T15:12:06Z",
-    "image": "https://www.cp24.com/resizer/v2/IH6OKTZXCJBUFO34BSGZJBZHFA.jpg?smart=true&auth=25cd2d3004c6c366bc46d79640abf380ef50956692e9b377ddcf69c79879a5e0&width=1200&height=630",
-    "category": {
-      "name": "AI科技",
-      "color": "#FF6B35",
-      "icon": "🤖"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.851443",
-    "search_category": "AI科技"
-  },
-  {
-    "id": "cf7876033c51",
-    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
-    "original_title": "The Switch 2 had a very good launch month",
-    "description": "任天堂发布游戏产品最新动态，Switch平台内容生态不断丰富，独占游戏阵容持续扩展，保持在掌机市场的领先优势。",
-    "original_description": "According to market analyst firm Circana, the Nintendo Switch 2 was the fastest-selling console in US history when it launched in June.",
-    "url": "https://www.theverge.com/news/712362/nintendo-switch-2-june-2025-sales",
-    "source": "The Verge",
-    "publishedAt": "2025-07-23T15:06:04Z",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0185_b09cc1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "category": {
-      "name": "游戏科技",
-      "color": "#9B59B6",
-      "icon": "🎮"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858707",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "dc856b5a6eeb",
-    "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
-    "original_title": "Xbox Lowers The Outer Worlds 2's Price From $80 To $70",
-    "description": "微软Xbox游戏平台推出新功能，游戏服务体验全面提升，Game Pass订阅模式持续优化，扩大在游戏市场的影响力。",
-    "original_description": "In July, Xbox announced that Obsidian's sci-fi RPG would be the first Xbox-published game to cost $80",
-    "url": "https://kotaku.com/xbox-outer-worlds-2-price-80-lowered-70-pre-order-pc-1851786791",
-    "source": "Kotaku",
-    "publishedAt": "2025-07-23T14:25:00Z",
-    "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/876db48a7ad4aa6d37520e30f96d08b0.jpg",
-    "category": {
-      "name": "Xbox",
-      "color": "#107C10",
-      "icon": "🎯"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858713",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "7389cf1485fa",
-    "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
-    "original_title": "Obsidian already subtly teasing Grounded 2 will head to PS5",
-    "description": "索尼PlayStation平台发布重要更新，PS5主机功能优化升级，游戏生态系统持续完善，为玩家带来更优质的游戏体验。",
-    "original_description": "Grounded 2 is about to launch into Game Preview on Xbox and PC, but what about PS5 and Switch? Well, the first game went there, didn't it?",
-    "url": "https://www.windowscentral.com/gaming/grounded-2-will-only-be-on-xbox-and-pc-at-least-for-now-but-obsidian-is-already-subtly-hinting-it-wont-be-this-way-forever",
-    "source": "Windows Central",
-    "publishedAt": "2025-07-23T14:12:06Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/gTQC3kJSZWcgzc7V9tfQQH.jpg",
-    "category": {
-      "name": "PlayStation",
-      "color": "#003087",
-      "icon": "🎮"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858719",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "27b38bc4611a",
-    "title": "🎮 电子游戏行业创新发展，游戏技术与体验持续进步",
-    "original_title": "Microsoft concedes that The Outer Worlds 2 was too expensive",
-    "description": "微软Xbox游戏平台推出新功能，游戏服务体验全面提升，Game Pass订阅模式持续优化，扩大在游戏市场的影响力。",
-    "original_description": "Xbox controversially raised the base price of its mainline games to $80 in an announcement a few weeks ago. Now, it seems to be backtracking, at least for the rest of 2025. Good, I say.",
-    "url": "https://www.windowscentral.com/gaming/xbox/microsoft-concedes-that-the-outer-worlds-2-retail-price-was-too-high",
-    "source": "Windows Central",
-    "publishedAt": "2025-07-23T14:00:00Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/EzceAxuSeznxtv2U6BnkYb.jpg",
-    "category": {
-      "name": "游戏科技",
-      "color": "#9B59B6",
-      "icon": "🎮"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858725",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "e0c002eafdb6",
-    "title": "🎲 任天堂游戏新作发布，Switch平台内容生态丰富",
-    "original_title": "Nintendo Switch 2 Beat the PS4 to Become the Fastest-Selling Gaming Hardware In US History",
-    "description": "任天堂发布游戏产品最新动态，Switch平台内容生态不断丰富，独占游戏阵容持续扩展，保持在掌机市场的领先优势。",
-    "original_description": "The Nintendo Switch 2 is officially the fastest-selling piece of video game hardware in the U.S. in video game industry history.",
-    "url": "https://wccftech.com/nintendo-switch-2-fastest-selling-gaming-hardware-us-history/",
-    "source": "Wccftech",
-    "publishedAt": "2025-07-23T13:55:59Z",
-    "image": "https://cdn.wccftech.com/wp-content/uploads/2025/04/nintendo-switch-2-art-HD-scaled.jpeg",
-    "category": {
-      "name": "游戏科技",
-      "color": "#9B59B6",
-      "icon": "🎮"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858731",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "6c39cb8c49f9",
-    "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
-    "original_title": "The Steam Deck 2 and a home console are reportedly in the works – and Sony may be helping to turn the handheld into the portable PlayStation game device I really want",
-    "description": "游戏科技领域迎来新的发展机遇，相关技术创新推动游戏体验升级，行业竞争格局持续演变。",
-    "original_description": "Please don't get any PS Portal ideas from Sony, Valve...",
-    "url": "https://www.techradar.com/gaming/steam-deck/the-steam-deck-2-and-a-home-console-are-reportedly-in-the-works-and-sony-may-be-helping-to-turn-the-handheld-into-the-portable-playstation-game-device-i-really-want",
-    "source": "TechRadar",
-    "publishedAt": "2025-07-23T13:51:18Z",
-    "image": "https://cdn.mos.cms.futurecdn.net/Z73Zkrf7xzoRFK3BD468WM.jpg",
-    "category": {
-      "name": "PlayStation",
-      "color": "#003087",
-      "icon": "🎮"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858746",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "6f920efb31fa",
-    "title": "🎮 PlayStation游戏主机系统更新，索尼游戏生态优化升级",
-    "original_title": "PS5 System Update Lets DualSense Controllers Pair Across Multiple Devices",
-    "description": "索尼PlayStation平台发布重要更新，PS5主机功能优化升级，游戏生态系统持续完善，为玩家带来更优质的游戏体验。",
-    "original_description": "Fans of the Sony PlayStation and its excellent DualSense controller have some new features to explore in a beta update.",
-    "url": "https://hothardware.com/news/ps5-system-update-lets-dualsense-controllers-pair-across-multiple",
-    "source": "Hot Hardware",
-    "publishedAt": "2025-07-23T13:50:00Z",
-    "image": "https://images.hothardware.com/contentimages/newsitem/68185/content/ps5-dualsense.jpg",
-    "category": {
-      "name": "PlayStation",
-      "color": "#003087",
-      "icon": "🎮"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858751",
-    "search_category": "游戏科技"
-  },
-  {
-    "id": "652097b6b0e0",
-    "title": "🎯 Xbox游戏平台功能增强，微软游戏服务体验提升",
-    "original_title": "Seagate's 2TB Storage Expansion Card Is Still Priced to Move for Xbox Gamers Who Missed Prime Day",
-    "description": "微软Xbox游戏平台推出新功能，游戏服务体验全面提升，Game Pass订阅模式持续优化，扩大在游戏市场的影响力。",
-    "original_description": "The only officially licensed and fully compatible storage drive for the Xbox Series X and Series S is 36% off.",
-    "url": "https://gizmodo.com/seagates-2tb-storage-expansion-card-is-still-priced-to-move-for-xbox-gamers-who-missed-prime-day-2000632947",
-    "source": "Gizmodo",
-    "publishedAt": "2025-07-23T13:40:17Z",
-    "image": "https://gizmodo.com/app/uploads/2025/03/Seagate-Xbox-Storage-Expansion-Card-2TB-1200x675.jpg",
-    "category": {
-      "name": "Xbox",
-      "color": "#107C10",
-      "icon": "🎯"
-    },
-    "importance": 1,
-    "added_time": "2025-07-24T02:43:51.858756",
+    "added_time": "2025-07-24T11:53:07.225774",
     "search_category": "游戏科技"
   }
 ]
