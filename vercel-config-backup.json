@@ -1,0 +1,14 @@
+{
+  "project_name": "ai-news-pusher",
+  "github_repo": "https://github.com/velist/ai-news-pusher",
+  "domain": "ai-news-pusher.vercel.app",
+  "framework": "Other",
+  "build_command": "",
+  "output_directory": "docs",
+  "install_command": "",
+  "environment_variables": {
+    "GNEWS_API_KEY": "c3cb6fef0f86251ada2b515017b97143",
+    "SILICONFLOW_API_KEY": "sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa"
+  },
+  "backup_time": "2025-07-25T13:50:44.734478"
+}
