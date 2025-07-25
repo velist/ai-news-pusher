@@ -1,0 +1,2236 @@
+{
+  "last_updated": "2025-07-25T16:05:10.549049+08:00",
+  "total_count": 40,
+  "freshness_summary": {
+    "total_count": 40,
+    "fresh_count": 40,
+    "fresh_percentage": 100.0,
+    "average_age_hours": 4.397000025,
+    "newest_time": "2025-07-25 15:07:03+08:00",
+    "oldest_time": "2025-07-25 02:10:00+08:00"
+  },
+  "articles": [
+    {
+      "id": "209c56706d13",
+      "title": "Sundar Pichai Joins Billionaire Club As Google’s AI-Backed Profits Soars Stock; Elon Musk Calls It ‘Serious Money’",
+      "description": "Ati Sundar",
+      "content": "> Tech\nGoogle’s desi boss, Sundar Pichai, is officially a billionaire as the search engine giant’s parent, Alphabet, recorded profit.\nPichai, in his X/Twitter post, stated that the company added $75 billion in revenue since 2015. He wrote that YouTub... [1428 chars]",
+      "url": "https://in.mashable.com/tech/97578/sundar-pichai-joins-billionaire-club-as-googles-ai-backed-profits-soars-stock-elon-musk-calls-it-ser",
+      "image": "https://sm.mashable.com/mashable_in/seo/default/4cvr-33-1_2pw7.jpg",
+      "publishedAt": "2025-07-25T07:07:03Z",
+      "source": {
+        "id": "e894895ef041ab9c6cb7fe7223531f53",
+        "name": "Mashable India",
+        "url": "https://in.mashable.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 15:07:03+08:00",
+        "formatted": "2025年07月25日 15:07",
+        "relative": "58分钟前",
+        "is_fresh": true,
+        "freshness_score": 1.0
+      },
+      "beijing_time": "2025-07-25 15:07:03+08:00",
+      "ai_translation": {
+        "translated_title": "Sundar Pichai 加入亿万富翁行列，随着谷歌 AI 支撑的利润飙升，股价上涨；埃隆·马斯克称其为“巨额资金”",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "阿提·桑达尔"
+      },
+      "localized_summary": {
+        "title": "Sundar Pichai Joins Billionaire Club As Google’s AI-Backed Profits Soars Stock; Elon Musk Calls It ‘Serious Money’",
+        "description": "Ati Sundar",
+        "category": "AI科技",
+        "source": "Mashable India",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.9919999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：Sundar Pichai成为亿万富翁，反映了谷歌及其母公司Alphabet的强劲财务表现，尤其是AI技术的推动作用。\n2. **技术或商业层面分析**：谷歌AI业务的强劲增长，表明其在搜索、广告、云计算等领域的竞争力持续增强。Pichai的个人财富增长也反映了公司战略的成功。\n3. **对行业或用户的意义**：这提升了谷歌在AI领域的领导地位，可能吸引更多企业和用户采用其AI解决方案，增强市场竞争力。\n4. **未来发展趋势预测**：谷歌将继续加大AI研发投入，进一步扩大市场影响力。同时，AI技术的应用将更加广泛，用户将享受到更多智能化服务。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:17:08",
+        "word_count": 289,
+        "error": null
+      }
+    },
+    {
+      "id": "209c56706d13",
+      "title": "Sundar Pichai Joins Billionaire Club As Google’s AI-Backed Profits Soars Stock; Elon Musk Calls It ‘Serious Money’",
+      "description": "Ati Sundar",
+      "content": "> Tech\nGoogle’s desi boss, Sundar Pichai, is officially a billionaire as the search engine giant’s parent, Alphabet, recorded profit.\nPichai, in his X/Twitter post, stated that the company added $75 billion in revenue since 2015. He wrote that YouTub... [1428 chars]",
+      "url": "https://in.mashable.com/tech/97578/sundar-pichai-joins-billionaire-club-as-googles-ai-backed-profits-soars-stock-elon-musk-calls-it-ser",
+      "image": "https://sm.mashable.com/mashable_in/seo/default/4cvr-33-1_2pw7.jpg",
+      "publishedAt": "2025-07-25T07:07:03Z",
+      "source": {
+        "id": "e894895ef041ab9c6cb7fe7223531f53",
+        "name": "Mashable India",
+        "url": "https://in.mashable.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 15:07:03+08:00",
+        "formatted": "2025年07月25日 15:07",
+        "relative": "58分钟前",
+        "is_fresh": true,
+        "freshness_score": 1.0
+      },
+      "beijing_time": "2025-07-25 15:07:03+08:00",
+      "ai_translation": {
+        "translated_title": "Sundar Pichai 加入亿万富翁行列，随着谷歌人工智能支持的利润飙升，股价上涨；埃隆·马斯克称其为“serious money”",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "阿提·桑达尔"
+      },
+      "localized_summary": {
+        "title": "Sundar Pichai Joins Billionaire Club As Google’s AI-Backed Profits Soars Stock; Elon Musk Calls It ‘Serious Money’",
+        "description": "Ati Sundar",
+        "category": "AI科技",
+        "source": "Mashable India",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.9919999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：此消息显示谷歌母公司Alphabet的强劲财务表现，Sundar Pichai加入亿万富翁行列，反映了AI技术的商业成功。\n2. **技术或商业层面**：谷歌AI驱动的收入增长，特别是通过广告业务，显示出AI技术对提升公司盈利能力的关键作用。\n3. **行业或用户意义**：这表明AI技术正在重塑搜索引擎和广告行业，用户将享受到更个性化的服务和内容。\n4. **未来发展趋势**：预计AI将继续推动谷歌及其他科技巨头的收入增长，同时可能引发更多关于数据隐私和伦理的讨论。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:53:53",
+        "word_count": 249,
+        "error": null
+      }
+    },
+    {
+      "id": "209c56706d13",
+      "title": "Sundar Pichai Joins Billionaire Club As Google’s AI-Backed Profits Soars Stock; Elon Musk Calls It ‘Serious Money’",
+      "description": "Ati Sundar",
+      "content": "> Tech\nGoogle’s desi boss, Sundar Pichai, is officially a billionaire as the search engine giant’s parent, Alphabet, recorded profit.\nPichai, in his X/Twitter post, stated that the company added $75 billion in revenue since 2015. He wrote that YouTub... [1428 chars]",
+      "url": "https://in.mashable.com/tech/97578/sundar-pichai-joins-billionaire-club-as-googles-ai-backed-profits-soars-stock-elon-musk-calls-it-ser",
+      "image": "https://sm.mashable.com/mashable_in/seo/default/4cvr-33-1_2pw7.jpg",
+      "publishedAt": "2025-07-25T07:07:03Z",
+      "source": {
+        "id": "e894895ef041ab9c6cb7fe7223531f53",
+        "name": "Mashable India",
+        "url": "https://in.mashable.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 15:07:03+08:00",
+        "formatted": "2025年07月25日 15:07",
+        "relative": "58分钟前",
+        "is_fresh": true,
+        "freshness_score": 1.0
+      },
+      "beijing_time": "2025-07-25 15:07:03+08:00",
+      "ai_translation": {
+        "translated_title": "Sundar Pichai 加入亿万富翁行列，随着谷歌人工智能支持的利润飙升，股价上涨；埃隆·马斯克称之为“serious money”（大额资金）",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "阿提·桑达尔"
+      },
+      "localized_summary": {
+        "title": "Sundar Pichai Joins Billionaire Club As Google’s AI-Backed Profits Soars Stock; Elon Musk Calls It ‘Serious Money’",
+        "description": "Ati Sundar",
+        "category": "经济新闻",
+        "source": "Mashable India",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.972,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：Pichai成为亿万富翁反映了谷歌及Alphabet业绩的显著增长，显示了科技巨头在AI领域的强劲竞争力。\n2. **技术或商业层面**：谷歌AI技术的商业化取得重大进展，推动了公司利润增长，展现了AI在广告、搜索等核心业务中的巨大价值。\n3. **行业或用户**：这表明AI技术正在重塑互联网广告市场，用户将体验更个性化、更高效的搜索和广告服务。\n4. **未来发展趋势**：预计AI将进一步深化与用户交互，提升产品智能化水平，同时伴随数据安全与隐私保护的挑战。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:41:39",
+        "word_count": 246,
+        "error": null
+      }
+    },
+    {
+      "id": "ec88e5581608",
+      "title": "SHHEIKH Coin: A New Frontier in Web3 Wealth",
+      "description": "SHHEIKH Coin is emerging as a cornerstone of the Web3 wealth revolution, outpacing Ripple and Solana in gains. Priced initially at $0.0027, this AI-driven project enables co-ownership of luxury assets worldwide, promising significant returns for early investors. The movement is backed by real-world assets and proprietary AI analytics.",
+      "content": "SHHEIKH Coin is capturing the spotlight in the cryptocurrency market as it aims to outperform stalwarts like Ripple and Solana in percentage gains. With its unique AI-driven model, SHHEIKH Coin is setting the stage for a new era of wealth creation.\nW... [588 chars]",
+      "url": "https://www.devdiscourse.com/article/headlines/3516432-shheikh-coin-a-new-frontier-in-web3-wealth",
+      "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_07_2025_06_29_09_7946948.png?width=920&format=jpeg",
+      "publishedAt": "2025-07-25T06:29:10Z",
+      "source": {
+        "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 14:29:10+08:00",
+        "formatted": "2025年07月25日 14:29",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 14:29:10+08:00",
+      "ai_translation": {
+        "translated_title": "谢赫币：Web3 富裕的新前沿",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.9700000000000001
+        },
+        "translated_description": "SHHEIKH Coin 成为Web3财富革命的基石，涨幅超过Ripple和Solana。该项目初始定价为0.0027美元，是一款由人工智能驱动的项目，允许全球范围内共享奢侈品资产，为早期投资者带来显著回报。该运动得到了实际资产和专有人工智能分析的支持。"
+      },
+      "localized_summary": {
+        "title": "SHHEIKH Coin: A New Frontier in Web3 Wealth",
+        "description": "SHHEIKH Coin is emerging as a cornerstone of the Web3 wealth revolution, outpacing Ripple and Solana in gains. Priced initially at $0.0027, this AI-driven project enables co-ownership of luxury assets worldwide, promising significant returns for early investors. The movement is backed by real-world assets and proprietary AI analytics.",
+        "category": "AI科技",
+        "source": "Devdiscourse",
+        "reading_time": "2分钟",
+        "quality": {
+          "score": 0.9450000000000001,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "94%"
+        }
+      },
+      "freshness_score": 0.9245000000000001,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：SHHEIKH Coin的出现预示着Web3领域的新一轮竞争，可能改变现有市场格局，吸引大量投资兴趣。\n\n2. **技术或商业层面**：AI驱动的模型是其核心竞争力，有助于优化交易策略和市场预测，但技术成熟度和透明度仍需进一步验证。\n\n3. **行业或用户意义**：对于投资者来说，SHHEIKH Coin提供了新的财富创造机会，但需警惕市场泡沫和风险。对于Web3生态，这标志着AI技术的应用扩展，可能加速该领域的创新。\n\n4. **未来发展趋势预测**：预计SHHEIKH Coin将持续吸引关注，但需经受市场考验。其成功将推动更多创新项目采用AI技术，加速Web3的成熟与发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:22:24",
+        "word_count": 306,
+        "error": null
+      }
+    },
+    {
+      "id": "c244af0eb921",
+      "title": "Foreign Investors Eye Japanese Markets Amid Election Uncertainty",
+      "description": "Foreign investors show strong interest in Japanese stocks and AI-related technology stocks, driven by a weaker yen and robust quarterly earnings from TSMC. Despite apprehensions about upcoming elections, foreign demand propels the Topix index to record highs. Meanwhile, Japanese investors acquire substantial foreign assets.",
+      "content": "Foreign investors continued their buying spree of Japanese stocks for the fourth consecutive week, supported by a weaker yen and a rally in artificial intelligence-connected technology stocks. Concerns loomed large before an upper house election, yet... [1337 chars]",
+      "url": "https://www.devdiscourse.com/article/law-order/3516352-foreign-investors-eye-japanese-markets-amid-election-uncertainty",
+      "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/13_07_2025_03_40_57_0242525.png?width=920&format=jpeg",
+      "publishedAt": "2025-07-25T05:09:06Z",
+      "source": {
+        "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:09:06+08:00",
+        "formatted": "2025年07月25日 13:09",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:09:06+08:00",
+      "ai_translation": {
+        "translated_title": "在外选举不确定性背景下，外国投资者关注日本市场",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.9700000000000001
+        },
+        "translated_description": "外国投资者对日本股市和与人工智能相关的科技股表现出浓厚兴趣，这得益于日元贬值和台积电强劲的季度盈利。尽管对即将举行的选举有所担忧，外国需求仍推动东证指数创下历史新高。与此同时，日本投资者购入大量外国资产。"
+      },
+      "localized_summary": {
+        "title": "Foreign Investors Eye Japanese Markets Amid Election Uncertainty",
+        "description": "Foreign investors show strong interest in Japanese stocks and AI-related technology stocks, driven by a weaker yen and robust quarterly earnings from TSMC. Despite apprehensions about upcoming elections, foreign demand propels the Topix index to record highs. Meanwhile, Japanese investors acquire substantial foreign assets.",
+        "category": "AI科技",
+        "source": "Devdiscourse",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.9450000000000001,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "94%"
+        }
+      },
+      "freshness_score": 0.9245000000000001,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:24:27",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "c244af0eb921",
+      "title": "Foreign Investors Eye Japanese Markets Amid Election Uncertainty",
+      "description": "Foreign investors show strong interest in Japanese stocks and AI-related technology stocks, driven by a weaker yen and robust quarterly earnings from TSMC. Despite apprehensions about upcoming elections, foreign demand propels the Topix index to record highs. Meanwhile, Japanese investors acquire substantial foreign assets.",
+      "content": "Foreign investors continued their buying spree of Japanese stocks for the fourth consecutive week, supported by a weaker yen and a rally in artificial intelligence-connected technology stocks. Concerns loomed large before an upper house election, yet... [1337 chars]",
+      "url": "https://www.devdiscourse.com/article/law-order/3516352-foreign-investors-eye-japanese-markets-amid-election-uncertainty",
+      "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/13_07_2025_03_40_57_0242525.png?width=920&format=jpeg",
+      "publishedAt": "2025-07-25T05:09:06Z",
+      "source": {
+        "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:09:06+08:00",
+        "formatted": "2025年07月25日 13:09",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:09:06+08:00",
+      "ai_translation": {
+        "translated_title": "在外选举不确定性背景下，外国投资者关注日本市场",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.9700000000000001
+        },
+        "translated_description": "外国投资者对日本股市和与人工智能相关的科技股表现出强烈兴趣，这得益于日元贬值和台积电强劲的季度盈利。尽管对即将举行的选举有所担忧，外国需求仍推动东证指数创下历史新高。与此同时，日本投资者购入大量外国资产。"
+      },
+      "localized_summary": {
+        "title": "Foreign Investors Eye Japanese Markets Amid Election Uncertainty",
+        "description": "Foreign investors show strong interest in Japanese stocks and AI-related technology stocks, driven by a weaker yen and robust quarterly earnings from TSMC. Despite apprehensions about upcoming elections, foreign demand propels the Topix index to record highs. Meanwhile, Japanese investors acquire substantial foreign assets.",
+        "category": "AI科技",
+        "source": "Devdiscourse",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.9450000000000001,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "94%"
+        }
+      },
+      "freshness_score": 0.9245000000000001,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：新闻反映了外资对日本市场的持续兴趣，特别是在政治不确定性背景下。这表明市场预期日本经济基本面稳固，即使在选举前后仍具吸引力。\n\n2. **技术或商业层面分析**：外资买入科技股尤其是AI相关技术，显示出对日本技术实力的信心。同时，日元贬值降低了外国投资者的成本，增加了投资吸引力。\n\n3. **对行业或用户的意义**：这将促进日本科技行业的进一步发展和创新，增强全球市场对日本技术的认可。对投资者而言，提供了投资日本市场的良好机会。\n\n4. **未来发展趋势预测**：短期内，政治不确定性可能影响市场情绪。但长期来看，外资持续流入将支持日本股市，推动技术领域的发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 16:03:30",
+        "word_count": 297,
+        "error": null
+      }
+    },
+    {
+      "id": "705cfc0ca041",
+      "title": "Tourism, Trust, And A New Bridge: Inside Modi’s Maldives Reset Explained",
+      "description": "PM Modi’s July 2025 Maldives visit marks a reset- earned, negotiated, and now sealed. Welcomed as Guest of Honour just 18 months after major fallout.Ask ChatGPT",
+      "content": "Tourism, Trust, And A New Bridge: Inside Modi’s Maldives Reset Explained\nCurated By :\nNews18.com\nLast Updated: July 25, 2025, 12:32 IST\nPM Modi’s July 2025 Maldives visit marks a reset- earned, negotiated, and now sealed. Welcomed as Guest of Honour ... [8089 chars]",
+      "url": "https://www.news18.com/india/tourism-trust-and-a-new-bridge-inside-modis-maldives-reset-explained-9462850.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-34-2025-07-34240ed458637a26f17b5116192b676a-16x9.jpg",
+      "publishedAt": "2025-07-25T07:02:07Z",
+      "source": {
+        "id": "ca84296ef941bfa461f4239a2290cb99",
+        "name": "News18",
+        "url": "https://www.news18.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 15:02:07+08:00",
+        "formatted": "2025年07月25日 15:02",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 15:02:07+08:00",
+      "ai_translation": {
+        "translated_title": "旅游业、信任与一座新桥：莫迪重塑马尔代夫之行内幕解析",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "莫迪总理2025年7月对马尔代夫的访问标志着两国关系的重置，这一过程经过了争取和谈判，如今已正式确定。仅仅18个月前，两国关系还曾出现重大裂痕，此次莫迪总理作为贵宾受到欢迎。"
+      },
+      "localized_summary": {
+        "title": "Tourism, Trust, And A New Bridge: Inside Modi’s Maldives Reset Explained",
+        "description": "PM Modi’s July 2025 Maldives visit marks a reset- earned, negotiated, and now sealed. Welcomed as Guest of Honour just 18 months after major fallout.Ask ChatGPT",
+        "category": "AI科技",
+        "source": "News18",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:19:42",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "270a5e34c756",
+      "title": "Mphasis Invests in Aokah to Boost AI-Powered GCC Solutions",
+      "description": "The partnership aims to deliver AI-driven and human-led solutions that support the full lifecycle of global operations and GCCs, from setup to scaling and optimisation.",
+      "content": "IT services firm Mphasis has invested in Aokah, a platform-as-a-service (PaaS) company on July 25 that helps global businesses set up and run next-generation global capability centres (GCCs).\nOn July 10, Mphasis Corporation, USA, a wholly owned subsi... [1475 chars]",
+      "url": "https://analyticsindiamag.com/ai-news-updates/mphasis-invests-in-aokah-to-boost-ai-powered-gcc-solutions/",
+      "image": "https://analyticsindiamag.com/wp-content/uploads/2025/04/Mphasis_logo-image.jpg",
+      "publishedAt": "2025-07-25T06:42:40Z",
+      "source": {
+        "id": "628299239469ffa8b7dbb809aabbcc2e",
+        "name": "Analytics India Magazine",
+        "url": "https://analyticsindiamag.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 14:42:40+08:00",
+        "formatted": "2025年07月25日 14:42",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 14:42:40+08:00",
+      "ai_translation": {
+        "translated_title": "Mphasis投资Aokah以增强AI驱动的GCC解决方案",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "该合作伙伴关系旨在提供由人工智能驱动、以人为中心的解决方案，支持全球运营和GCC（通用计算架构）的整个生命周期，从初始设置到扩展和优化。"
+      },
+      "localized_summary": {
+        "title": "Mphasis Invests in Aokah to Boost AI-Powered GCC Solutions",
+        "description": "The partnership aims to deliver AI-driven and human-led solutions that support the full lifecycle of global operations and GCCs, from setup to scaling and optimisation.",
+        "category": "AI科技",
+        "source": "Analytics India Magazine",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：Mphasis投资Aokah旨在增强其在中东地区的AI解决方案能力，此举对扩大其市场影响力和业务范围具有重要意义。\n2. **技术或商业层面分析**：通过整合Aokah的PaaS平台，Mphasis能够更快速、灵活地为客户提供定制化的AI解决方案，提升其在竞争中的优势。\n3. **行业或用户意义**：此举有助于GCCs更高效地运行，提高服务质量和客户满意度，同时促进AI技术在该地区的应用与发展。\n4. **未来发展趋势预测**：随着AI技术的不断进步，Mphasis的这一举措预示着未来将有更多IT服务公司加强在AI领域的布局，以适应市场需求和技术趋势。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:20:54",
+        "word_count": 293,
+        "error": null
+      }
+    },
+    {
+      "id": "f4c248737834",
+      "title": "AR Rahman Met OpenAI CEO Sam Altman; Internet Requests Not To Generate Music With AI",
+      "description": "The Mozart of Madras also met with Perplexity AI’s Indian boss",
+      "content": "> Tech\nThe Mozart of Madras, AR Rahman, met with OpenAI co-founder and CEO Sam Altman at his office and posted a beaming picture on social media. He wrote, “It was a pleasure to meet Sam Altman at his office.” The two-time Academy Award-winning music... [2959 chars]",
+      "url": "https://in.mashable.com/tech/97573/ar-rahman-met-openai-ceo-sam-altman-internet-requests-not-to-generate-music-with-ai",
+      "image": "https://sm.mashable.com/mashable_in/seo/9/92602/92602_5csp.jpg",
+      "publishedAt": "2025-07-25T06:13:57Z",
+      "source": {
+        "id": "e894895ef041ab9c6cb7fe7223531f53",
+        "name": "Mashable India",
+        "url": "https://in.mashable.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 14:13:57+08:00",
+        "formatted": "2025年07月25日 14:13",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 14:13:57+08:00",
+      "ai_translation": {
+        "translated_title": "AR Rahman与OpenAI首席执行官萨姆·阿尔特曼会面；互联网请求不要使用AI生成音乐",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "马德拉斯的莫扎特也与 perplexity AI 的印度负责人会面了"
+      },
+      "localized_summary": {
+        "title": "AR Rahman Met OpenAI CEO Sam Altman; Internet Requests Not To Generate Music With AI",
+        "description": "The Mozart of Madras also met with Perplexity AI’s Indian boss",
+        "category": "AI科技",
+        "source": "Mashable India",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：此次会面展示了传统音乐大师与人工智能领域领导者的交流，象征着艺术与科技的融合，可能开启音乐创作的新篇章。\n2. **技术或商业层面**：AR Rahman的参与可能推动AI音乐生成技术的实际应用，提升其商业价值。OpenAI也可能借此增强技术的创造力和市场吸引力。\n3. **对行业或用户**：用户将有机会体验更多创新的音乐作品，行业将探索AI与传统艺术结合的新模式。\n4. **未来发展趋势**：未来AI音乐生成技术有望更加智能化，创作出更多独特且高质量的音乐作品，但同时也需关注版权和原创性问题。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:23:11",
+        "word_count": 264,
+        "error": null
+      }
+    },
+    {
+      "id": "9bb6d6562b3e",
+      "title": "The real winners from Trump’s ‘AI action plan’? Tech companies",
+      "description": "Millions spent by Alphabet, Meta, Microsoft and others appear to have paid off as president vows to cut red tape",
+      "content": "Donald Trump’s AI summit in Washington this week was a fanfare-filled event catered to the tech elite. The president took the stage on Wednesday evening, as the song God Bless the USA piped over the loudspeakers, and then he decreed: “America must on... [4338 chars]",
+      "url": "https://www.theguardian.com/technology/2025/jul/25/trump-ai-action-plan",
+      "image": "https://i.guim.co.uk/img/media/dbda5707f5a9497a805003b861dffeafca8c55de/0_0_4211_3369/master/4211.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a4b35bdb47b0154c42b05fea8fbef57",
+      "publishedAt": "2025-07-25T05:00:51Z",
+      "source": {
+        "id": "01558c024928d45cf320f6f75eede787",
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:00:51+08:00",
+        "formatted": "2025年07月25日 13:00",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:00:51+08:00",
+      "ai_translation": {
+        "translated_title": "特朗普的“人工智能行动计划”真正的赢家是谁？科技公司",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "据总统誓言削减繁琐手续来看，谷歌母公司 Alphabet、Meta、微软及其他公司投入的数百万资金似乎有了成效。"
+      },
+      "localized_summary": {
+        "title": "The real winners from Trump’s ‘AI action plan’? Tech companies",
+        "description": "Millions spent by Alphabet, Meta, Microsoft and others appear to have paid off as president vows to cut red tape",
+        "category": "AI科技",
+        "source": "The Guardian",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **新闻的重要性和影响**：特朗普的AI行动计划发布会主要吸引了科技巨头和行业精英，展现了政府对AI的重视，但更多是象征性意义，实际政策细节较少。\n2. **技术或商业层面的分析**：会议强调了私营部门的角色，但缺乏具体措施和资金支持，可能难以推动实质性技术进步或商业化。\n3. **对行业或用户的意义**：尽管会议提升了AI行业的声望，但缺乏具体政策支持，可能短期内对行业影响有限。\n4. **未来发展趋势预测**：未来需关注政府是否会出台更多实质性政策，以及私营部门如何填补政策空白，共同推动AI技术的发展和应用。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:26:03",
+        "word_count": 262,
+        "error": null
+      }
+    },
+    {
+      "id": "9564bdac6067",
+      "title": "Asian shares retreat after Alphabet and AI stocks nudge Wall Street to more records",
+      "description": "Asian shares are lower after Wall Street inched to more records as gains for Alphabet and artificial-intelligence stocks offset a steep tumble for EV-maker Tesla.",
+      "content": "People walk in front of an electronic stock board showing Japan's Nikkei index at a securities firm Friday, July 25, 2025, in Tokyo. (AP Photo/Eugene Hoshiko)\nMANILA – Asian shares retreated on Friday after Wall Street inched to more records as gains... [3667 chars]",
+      "url": "https://www.clickondetroit.com/business/2025/07/25/asian-shares-retreat-after-alphabet-and-ai-stocks-nudge-wall-street-to-more-records/",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DODYVA3UXNBBNOSZMQNP4YJTMM.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2025-07-25T04:55:29Z",
+      "source": {
+        "id": "35515662ec044d3f94b543cd8802d63f",
+        "name": "WDIV ClickOnDetroit",
+        "url": "https://www.clickondetroit.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 12:55:29+08:00",
+        "formatted": "2025年07月25日 12:55",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 12:55:29+08:00",
+      "ai_translation": {
+        "translated_title": "亚洲股市在 Alphabet 和人工智能股票推动华尔街再创纪录后回落",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "亚洲股市下跌，因为华尔街股市小幅攀升至新高， Alphabet 和人工智能股票的涨幅抵消了电动汽车制造商特斯拉的大幅下跌。"
+      },
+      "localized_summary": {
+        "title": "Asian shares retreat after Alphabet and AI stocks nudge Wall Street to more records",
+        "description": "Asian shares are lower after Wall Street inched to more records as gains for Alphabet and artificial-intelligence stocks offset a steep tumble for EV-maker Tesla.",
+        "category": "AI科技",
+        "source": "WDIV ClickOnDetroit",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：该新闻反映了全球市场动态，特别是亚洲股市对美国科技股表现的敏感性。美国Alphabet等AI相关股票的强劲表现推动了美国股市创新高，但同时也导致亚洲股市出现回调，显示出市场情绪的复杂性。\n\n2. **技术或商业层面的分析**：美国科技巨头如Alphabet在AI领域的持续创新和领先地位，推动了相关股票的上涨。这不仅反映了技术进步带来的市场机会，也凸显了投资者对AI技术商业应用前景的信心。\n\n3. **对行业或用户的意义**：对投资者而言，这一动态表明AI技术正成为推动市场的重要力量。对于AI行业内的企业来说，这既是机遇也是挑战，需要抓住市场机会，同时警惕市场波动带来的风险。\n\n4. **未来发展趋势预测**：未来，随着AI技术的进一步发展和应用，相关领域的股票可能会继续受到投资者关注。但同时，市场也可能出现更多波动，投资者需保持谨慎。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:26:43",
+        "word_count": 386,
+        "error": null
+      }
+    },
+    {
+      "id": "a68b6d32279f",
+      "title": "Apple iOS 26: Full list of iPhones that will be getting Liquid Glass treatment",
+      "description": "Apple iOS 26 iPhone list: Apple is expected to start rolling out iOS 26 update in September. Here's the full list of iPhones which will be getting the Liquid Glass treatment.",
+      "content": "With just around a month left before Apple unveils the iPhone 17 series alongside the highly anticipated and controversial iOS 26. Apple’s upcoming operating system for iPhones introduces a new design language called Liquid Glass, which, the company ... [554 chars]",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-ios-26-liquid-glass-full-list-iphones-update-10148375/",
+      "image": "https://images.indianexpress.com/2025/07/Apple-iOS-26.png",
+      "publishedAt": "2025-07-25T06:52:57Z",
+      "source": {
+        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 14:52:57+08:00",
+        "formatted": "2025年07月25日 14:52",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 14:52:57+08:00",
+      "ai_translation": {
+        "translated_title": "苹果iOS 26：将获得“液态玻璃”处理的全部iPhone列表",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "苹果iOS 26更新手机名单：苹果预计将于九月开始推送iOS 26更新。以下是将获得“液体玻璃”处理的全部iPhone型号名单。"
+      },
+      "localized_summary": {
+        "title": "Apple iOS 26: Full list of iPhones that will be getting Liquid Glass treatment",
+        "description": "Apple iOS 26 iPhone list: Apple is expected to start rolling out iOS 26 update in September. Here's the full list of iPhones which will be getting the Liquid Glass treatment.",
+        "category": "AI科技",
+        "source": "The Indian Express",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：此新闻重要性在于它预示了iOS 26将带来显著的用户界面变化，可能影响用户体验和用户忠诚度。\n2. **技术或商业层面**：Liquid Glass作为新设计语言，体现了苹果在用户界面设计上的创新尝试，但需关注其实用性和市场接受度。\n3. **对行业或用户**：此举可能引发Android阵营的模仿与竞争，同时影响iPhone用户对新系统的期待与评价。\n4. **未来发展趋势**：苹果持续的UI创新预示未来操作系统将更加注重视觉体验，但需平衡美观与实用，以满足用户需求。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:58:14",
+        "word_count": 250,
+        "error": null
+      }
+    },
+    {
+      "id": "216df4bc7887",
+      "title": "'Your System Is Infected': ED Busts Fake Call Centres In Chandigarh That Duped Foreign Nationals",
+      "description": "ED uncovers scam in Chandigarh’s Tricity: Fake call centres posed as tech support for companies like Microsoft, duping Americans and Canadians out of $450-$500 per call.",
+      "content": "'Your System Is Infected': ED Busts Fake Call Centres In Chandigarh That Duped Foreign Nationals\nReported By :\nNews18.com\nLast Updated: July 25, 2025, 10:54 IST\nFake call centres and shell companies posed as global tech troubleshooters of companies l... [3282 chars]",
+      "url": "https://www.news18.com/india/your-system-is-infected-ed-busts-fake-call-centres-in-chandigarh-that-duped-foreign-nationals-ws-l-9462512.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Deep-Fake-Call-2025-07-0555659c63a18ed4cba05cffbf92085e-16x9.png",
+      "publishedAt": "2025-07-25T05:24:38Z",
+      "source": {
+        "id": "ca84296ef941bfa461f4239a2290cb99",
+        "name": "News18",
+        "url": "https://www.news18.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:24:38+08:00",
+        "formatted": "2025年07月25日 13:24",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:24:38+08:00",
+      "ai_translation": {
+        "translated_title": "“您的系统已感染”：执法部门在昌迪加尔捣毁假冒呼叫中心，骗取消防国公民",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "ED 揭露昌迪加尔三城骗局：假冒技术支持的虚假呼叫中心以微软等公司名义行骗，每通电话骗取美国和加拿大民众 450 至 500 美元。"
+      },
+      "localized_summary": {
+        "title": "'Your System Is Infected': ED Busts Fake Call Centres In Chandigarh That Duped Foreign Nationals",
+        "description": "ED uncovers scam in Chandigarh’s Tricity: Fake call centres posed as tech support for companies like Microsoft, duping Americans and Canadians out of $450-$500 per call.",
+        "category": "AI科技",
+        "source": "News18",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：该事件揭示了跨境电信诈骗的严重性，对外国企业和个人造成经济损失和心理压力，影响社会稳定。\n2. **技术或商业层面分析**：假呼叫中心利用技术伪装，利用信息不对称，误导用户。需加强网络安全教育和技术防护。\n3. **对行业或用户的意义**：提醒企业和个人提高警惕，保护个人信息，选择正规服务渠道。同时，企业应加强内部安全审查。\n4. **未来发展趋势预测**：随着技术进步，诈骗手段可能更加隐蔽复杂，需政府、企业和个人共同构建多层次防护体系。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 16:00:59",
+        "word_count": 235,
+        "error": null
+      }
+    },
+    {
+      "id": "92e47b5abeae",
+      "title": "Apple iOS 26 Public Beta Released: List Of Supporting iPhones, New Features And How To Download?",
+      "description": "iOS 26 public beta has released and if you have one of the eligible iPhones you can sign up for the program and install the new version.",
+      "content": "Apple iOS 26 Public Beta Released: List Of Supporting iPhones, New Features And How To Download?\nReported By :\nNews18.com\nLast Updated: July 25, 2025, 10:33 IST\nApple IOS 26 Public beta released and here are the iPhones supported, how to download and... [3582 chars]",
+      "url": "https://www.news18.com/tech/ios-26-public-beta-is-finally-here-for-iphone-users-how-to-sign-up-for-beta-and-install-update-9462120.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/07/iOS-26-public-beta-2025-07-7148bafd4800e0b205474a050aade335-16x9.jpg",
+      "publishedAt": "2025-07-25T05:03:46Z",
+      "source": {
+        "id": "ca84296ef941bfa461f4239a2290cb99",
+        "name": "News18",
+        "url": "https://www.news18.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:03:46+08:00",
+        "formatted": "2025年07月25日 13:03",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:03:46+08:00",
+      "ai_translation": {
+        "translated_title": "苹果iOS 26公开测试版发布：支持的iPhone列表、新功能及下载指南？",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "iOS 26 公测版已发布，如果你有一款符合条件的 iPhone，可以注册该计划并安装新版本。"
+      },
+      "localized_summary": {
+        "title": "Apple iOS 26 Public Beta Released: List Of Supporting iPhones, New Features And How To Download?",
+        "description": "iOS 26 public beta has released and if you have one of the eligible iPhones you can sign up for the program and install the new version.",
+        "category": "AI科技",
+        "source": "News18",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：iOS 26公开测试版的发布标志着苹果新系统的重要更新，影响广泛，尤其是对iPhone用户。\n2. **技术或商业层面**：此版本新增多项功能，如改进的隐私保护和更强大的性能优化，展示了苹果在技术创新上的持续投入。\n3. **行业或用户意义**：对用户而言，新功能提升使用体验，对开发者而言，提供了新接口和API，利于应用创新。\n4. **未来发展趋势**：预计未来苹果将继续优化系统性能，加强隐私保护，满足用户需求，推动行业向更加安全、高效的方向发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 16:04:25",
+        "word_count": 241,
+        "error": null
+      }
+    },
+    {
+      "id": "9bb6d6562b3e",
+      "title": "The real winners from Trump’s ‘AI action plan’? Tech companies",
+      "description": "Millions spent by Alphabet, Meta, Microsoft and others appear to have paid off as president vows to cut red tape",
+      "content": "Donald Trump’s AI summit in Washington this week was a fanfare-filled event catered to the tech elite. The president took the stage on Wednesday evening, as the song God Bless the USA piped over the loudspeakers, and then he decreed: “America must on... [4338 chars]",
+      "url": "https://www.theguardian.com/technology/2025/jul/25/trump-ai-action-plan",
+      "image": "https://i.guim.co.uk/img/media/dbda5707f5a9497a805003b861dffeafca8c55de/0_0_4211_3369/master/4211.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a4b35bdb47b0154c42b05fea8fbef57",
+      "publishedAt": "2025-07-25T05:00:51Z",
+      "source": {
+        "id": "01558c024928d45cf320f6f75eede787",
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:00:51+08:00",
+        "formatted": "2025年07月25日 13:00",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:00:51+08:00",
+      "ai_translation": {
+        "translated_title": "特朗普的“人工智能行动计划”真正的赢家是谁？科技公司",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "据总统誓言削减繁琐手续来看，谷歌母公司 Alphabet、Meta、微软及其他公司投入的数百万资金似乎有了成效。"
+      },
+      "localized_summary": {
+        "title": "The real winners from Trump’s ‘AI action plan’? Tech companies",
+        "description": "Millions spent by Alphabet, Meta, Microsoft and others appear to have paid off as president vows to cut red tape",
+        "category": "AI科技",
+        "source": "The Guardian",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **新闻的重要性和影响**：特朗普的AI行动计划发布会主要面向科技巨头，这显示了政府对科技行业在AI领域重要性的认可和支持。然而，这也引发了关于政策导向是否真正惠及所有科技公司的质疑。\n\n2. **技术或商业层面的分析**：此次会议更多是象征性的宣传，而非实质性的政策推动。商业上，这可能加剧科技巨头之间的竞争，尤其是那些被选中参与计划的企业。\n\n3. **对行业或用户的意义**：虽然短期内可能提升相关企业的股价和市场关注度，但从长期来看，AI技术的真正进步需要更广泛的参与和合作，而非仅仅依靠少数几家公司。\n\n4. **未来发展趋势预测**：预计未来政府将更加注重制定公平的竞争环境，鼓励更多中小企业和初创企业参与到AI技术的研发中，以促进整个行业的健康发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 16:05:10",
+        "word_count": 335,
+        "error": null
+      }
+    },
+    {
+      "id": "f4dec91fe12e",
+      "title": "Google Launches AI Virtual Try-On for Clothes: Here’s How It Works",
+      "description": "Google’s latest leap into fashion",
+      "content": "> Tech\nGoogle is bringing a futuristic twist to online shopping with the rollout of new AI-powered features aimed at enhancing how users in the US discover fashion, track prices, and find deals. Central to this upgrade is Doppl, a newly launched virt... [2956 chars]",
+      "url": "https://in.mashable.com/tech/97575/google-launches-ai-virtual-try-on-for-clothes-heres-how-it-works",
+      "image": "https://sm.mashable.com/mashable_in/seo/default/z3wq-2025-07-25t120149001_kn14.jpg",
+      "publishedAt": "2025-07-25T07:04:08Z",
+      "source": {
+        "id": "e894895ef041ab9c6cb7fe7223531f53",
+        "name": "Mashable India",
+        "url": "https://in.mashable.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 15:04:08+08:00",
+        "formatted": "2025年07月25日 15:04",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 15:04:08+08:00",
+      "ai_translation": {
+        "translated_title": "谷歌推出AI虚拟试衣功能：这是如何运作的",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.77
+        },
+        "translated_description": "谷歌最新进军时尚界"
+      },
+      "localized_summary": {
+        "title": "Google Launches AI Virtual Try-On for Clothes: Here’s How It Works",
+        "description": "Google’s latest leap into fashion",
+        "category": "AI科技",
+        "source": "Mashable India",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.9145000000000001,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:18:38",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "76b384895453",
+      "title": "ACT Integrity Commission levels findings of 'serious corrupt conduct' against two former Canberra Institute of Technology officials",
+      "description": "The ACT Integrity Commission levels findings of \"serious corrupt conduct\" against two former Canberra Institute of Technology (CIT) officials over the handling of a controversial $5 million contract.",
+      "content": "The ACT Integrity Commission has levelled findings of serious corrupt conduct against two former Canberra Institute of Technology (CIT) officials over the handling of a controversial $5 million contract.\nThe investigation examined the behaviour of fo... [4696 chars]",
+      "url": "https://www.abc.net.au/news/2025-07-25/act-integrity-commission-former-cit-officials-corrupt-conduct/105571978",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4b3eeac5cbab2f7d78ea2db153d63373?impolicy=wcms_watermark_news&cropH=1070&cropW=1903&xPos=0&yPos=68&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-07-25T06:01:05Z",
+      "source": {
+        "id": "7b4f42ae3a5b2e91e272ab26ccca6128",
+        "name": "ABC News",
+        "url": "https://www.abc.net.au"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 14:01:05+08:00",
+        "formatted": "2025年07月25日 14:01",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 14:01:05+08:00",
+      "ai_translation": {
+        "translated_title": "ACT清廉委员会指控两名前堪培拉技术学院官员涉嫌严重腐败行为",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.92
+        },
+        "translated_description": "澳大利亚联邦公平委员会认定，两名前堪培拉技术学院（CIT）官员在处理一项有争议的500万美元合同事宜中存在“严重腐败行为”。"
+      },
+      "localized_summary": {
+        "title": "ACT Integrity Commission levels findings of 'serious corrupt conduct' against two former Canberra Institute of Technology officials",
+        "description": "The ACT Integrity Commission levels findings of \"serious corrupt conduct\" against two former Canberra Institute of Technology (CIT) officials over the handling of a controversial $5 million contract.",
+        "category": "AI科技",
+        "source": "ABC News",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.9145000000000001,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：此事件对教育行业影响重大，涉及高达500万澳元的合同，表明公共机构合同管理的透明度和诚信至关重要。\n2. **技术或商业层面**：事件揭示了内部管理与外部监管之间的鸿沟，需加强合同审查和内部审计，确保资金使用的正当性和合规性。\n3. **行业或用户**：对于教育机构而言，这是一次警示，需建立更为严格的内部控制机制，保障公共资源的合理使用，维护公众信任。\n4. **未来发展趋势**：未来，教育机构和相关监管部门将加强合作，提升合同管理的透明度和效率，以防止类似事件再次发生。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:58:52",
+        "word_count": 252,
+        "error": null
+      }
+    },
+    {
+      "id": "916fce3b8e4d",
+      "title": "Military Might at the Border: A New Era in Immigration Control",
+      "description": "An armoured Army unit patrols the US-Mexico border, using advanced technology and military tactics to deter illegal crossings. While the number of apprehensions has fallen to a 60-year low, the military's presence remains critical. The militarized zones raise questions regarding the Posse Comitatus Act's limits.",
+      "content": "In the Arizona frontier, Army scouts in armored vehicles use cutting-edge technology to monitor the US-Mexico border. Their mission: deter illegal crossings by mere presence, embodying a dramatic shift in immigration enforcement. President Trump's em... [889 chars]",
+      "url": "https://www.devdiscourse.com/article/politics/3516404-military-might-at-the-border-a-new-era-in-immigration-control",
+      "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_06_2025_12_58_57_2377951.png?width=920&format=jpeg",
+      "publishedAt": "2025-07-25T05:59:16Z",
+      "source": {
+        "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:59:16+08:00",
+        "formatted": "2025年07月25日 13:59",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:59:16+08:00",
+      "ai_translation": {
+        "translated_title": "边境军事力量展现：移民管控新时代",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.8200000000000001
+        },
+        "translated_description": "装甲部队的陆军单位巡逻美墨边境，运用先进技术和军事战术以阻止非法越境。尽管被捕人数降至60年来的最低点，军事存在依然至关重要。军事化区域引发了对《反军权干预法》限制的疑问。"
+      },
+      "localized_summary": {
+        "title": "Military Might at the Border: A New Era in Immigration Control",
+        "description": "An armoured Army unit patrols the US-Mexico border, using advanced technology and military tactics to deter illegal crossings. While the number of apprehensions has fallen to a 60-year low, the military's presence remains critical. The militarized zones raise questions regarding the Posse Comitatus Act's limits.",
+        "category": "AI科技",
+        "source": "Devdiscourse",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.795,
+          "text": "一般",
+          "detail": "翻译基本准确，可能存在一些表达不够自然的地方",
+          "color": "#F59E0B",
+          "percentage": "79%"
+        }
+      },
+      "freshness_score": 0.9095000000000001,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：此举标志着美国边境管控方式的重大转变，通过军事化手段增强威慑力，体现了对非法移民问题的严峻态度。\n2. **技术或商业层面**：运用先进科技如装甲车和监控技术，提升了边境监控效率，但高昂的成本和潜在的误报风险需谨慎评估。\n3. **对行业或用户**：这将对相关高科技企业形成利好，但同时也引发了人权和法治的担忧，用户需关注其长期影响。\n4. **未来发展趋势**：预计边境管控将进一步军事化和技术化，但如何平衡安全与人权将是关键挑战。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 16:00:18",
+        "word_count": 231,
+        "error": null
+      }
+    },
+    {
+      "id": "0fb51918f039",
+      "title": "Nvidia not permitted to sell its most advanced chips to China",
+      "description": "Nvidia has only just been allowed to recommence sales of its H20 AI chipset, which has been specifically developed for China to comply with U.S. restrictions.",
+      "content": "Demand in China has begun surging for a business that, in theory, shouldn’t exist: the repair of advanced Nvidia artificial intelligence chipsets that the U.S. has banned the export of to its trade and tech rival.\nAround a dozen boutique companies no... [4561 chars]",
+      "url": "https://indianexpress.com/article/technology/nvidia-not-permitted-to-sell-its-most-advanced-chips-to-china-10148295/",
+      "image": "https://images.indianexpress.com/2025/07/Image-37.jpg",
+      "publishedAt": "2025-07-25T04:51:50Z",
+      "source": {
+        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-25 12:51:50+08:00",
+        "formatted": "2025年07月25日 12:51",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 12:51:50+08:00",
+      "ai_translation": {
+        "translated_title": "英伟达被禁止向中国出售其最先进的芯片",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.77
+        },
+        "translated_description": "英伟达刚刚被允许重新向中国市场销售其专为中国设计的H20 AI芯片，以符合美国的限制规定。"
+      },
+      "localized_summary": {
+        "title": "Nvidia not permitted to sell its most advanced chips to China",
+        "description": "Nvidia has only just been allowed to recommence sales of its H20 AI chipset, which has been specifically developed for China to comply with U.S. restrictions.",
+        "category": "AI科技",
+        "source": "The Indian Express",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.77,
+          "text": "一般",
+          "detail": "翻译基本准确，可能存在一些表达不够自然的地方",
+          "color": "#F59E0B",
+          "percentage": "77%"
+        }
+      },
+      "freshness_score": 0.907,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. 重要性和影响：此禁令解除后，中国将能够修复被禁止进口的NVIDIA先进AI芯片，这直接关系到中国在AI技术领域的自主性和供应链安全，具有重大战略意义。\n2. 技术或商业层面：此举可能促使中国加速自主研发AI芯片，减少对外国技术的依赖，同时也可能促进国内芯片维修市场的专业化发展。\n3. 对行业或用户：对于AI用户而言，这将提高芯片的使用效率和生命周期，降低维修成本。对芯片制造商来说，这将激发更多技术创新和市场竞争。\n4. 未来发展趋势预测：预计未来中国将加大在AI芯片领域的投入，提升自主创新能力，同时可能形成新的产业链和商业模式。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:27:43",
+        "word_count": 270,
+        "error": null
+      }
+    },
+    {
+      "id": "88774ef607b5",
+      "title": "West Asia on the boil: The strategic fallout of Israel-Iran clashes",
+      "description": "The US and Israel’s collaboration in dismantling Iranian nuclear facilities through the use of critical and cutting-edge technology from the air has inflicted considerable damage on Iran",
+      "content": "The US and Israel’s collaboration in dismantling Iranian nuclear facilities through the use of critical and cutting-edge technology from the air has inflicted considerable damage on Iran read more\nThis handout satellite image provided by Maxar Techno... [12712 chars]",
+      "url": "https://www.firstpost.com/opinion/west-asia-on-the-boil-the-strategic-fallout-of-israel-iran-clashes-13912377.html",
+      "image": "https://images.firstpost.com/uploads/2025/06/AFP__20250629__648D7T2__v4__HighRes__IranUsIsraelConflictNuclearFordo-2025-06-3af3f86b2d21dd90856adb815e37e269-1200x675.jpg?im=FitAndFill=(1200,675)",
+      "publishedAt": "2025-07-25T05:19:35Z",
+      "source": {
+        "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+        "name": "Firstpost",
+        "url": "https://www.firstpost.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:19:35+08:00",
+        "formatted": "2025年07月25日 13:19",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:19:35+08:00",
+      "ai_translation": {
+        "translated_title": "中东局势升温：以色列与伊朗冲突的战略影响",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.77
+        },
+        "translated_description": "美国和以色列通过使用先进的空中关键技术合作拆除了伊朗核设施，对伊朗造成了重大损害。"
+      },
+      "localized_summary": {
+        "title": "West Asia on the boil: The strategic fallout of Israel-Iran clashes",
+        "description": "The US and Israel’s collaboration in dismantling Iranian nuclear facilities through the use of critical and cutting-edge technology from the air has inflicted considerable damage on Iran",
+        "category": "AI科技",
+        "source": "Firstpost",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.77,
+          "text": "一般",
+          "detail": "翻译基本准确，可能存在一些表达不够自然的地方",
+          "color": "#F59E0B",
+          "percentage": "77%"
+        }
+      },
+      "freshness_score": 0.907,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：以色列与美国联手打击伊朗核设施，表明地区安全局势紧张升级，可能引发中东地区的连锁反应，加剧地缘政治紧张。\n\n2. **技术或商业层面**：此次行动展示了先进空袭技术和情报共享的重要性，未来或推动相关技术进一步发展和应用，同时也可能引发技术出口管制。\n\n3. **对行业或用户的意义**：对于中东地区的能源和贸易用户来说，局势紧张可能增加不确定性，需重新评估风险和供应链管理策略。对于科技企业，这可能成为展示其技术能力的契机。\n\n4. **未来发展趋势预测**：预计未来该地区军事冲突风险增加，国际社会可能加强对话与合作，寻求和平解决争端的途径。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 16:02:43",
+        "word_count": 286,
+        "error": null
+      }
+    },
+    {
+      "id": "0ff460ec415b",
+      "title": "Bankrupt Pakistan finds it lost Rs 2.2 trillion in ‘fake’ and ‘flying’ invoices in two years",
+      "description": "Federal Board of Revenue (FBR) Member Hamid Atique Sarwar told the Senate Standing Committee on Finance and Revenue that over Rs 873 billion ‘fake’ and ‘flying’ invoices were found last year, which was an addition to the Rs 1.37 trillion that was already lost in the previous year",
+      "content": "Federal Board of Revenue (FBR) Member Hamid Atique Sarwar told the Senate Standing Committee on Finance and Revenue that over Rs 873 billion ‘fake’ and ‘flying’ invoices were found last year, which was an addition to the Rs 1.37 trillion that was alr... [1439 chars]",
+      "url": "https://www.firstpost.com/world/bankrupt-pakistan-finds-it-lost-rs-2-2-trillion-in-fake-and-flying-invoices-in-two-years-ws-e-13912374.html",
+      "image": "https://images.firstpost.com/uploads/2025/07/image-2025-07-599ee7becc99d9d4e091eacbf608c047-1200x675.jpg?im=FitAndFill=(1200,675)",
+      "publishedAt": "2025-07-25T06:13:03Z",
+      "source": {
+        "id": "a7ae5ecb2b2c41a3addf1d2e51ceb032",
+        "name": "Firstpost",
+        "url": "https://www.firstpost.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 14:13:03+08:00",
+        "formatted": "2025年07月25日 14:13",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 14:13:03+08:00",
+      "ai_translation": {
+        "translated_title": "破产的巴基斯坦在两年内发现丢失了2.2万亿卢比的“虚假”和“空头”发票",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.9700000000000001
+        },
+        "translated_description": "联邦税收委员会(FBR)成员哈米德·阿蒂que·萨尔瓦尔告知参议院财政与税收常设委员会，去年发现金额超过8730亿卢比的“虚假”和“飞行”发票，这使得前一年已经损失的1.37万亿卢比的数字又增加了。"
+      },
+      "localized_summary": {
+        "title": "Bankrupt Pakistan finds it lost Rs 2.2 trillion in ‘fake’ and ‘flying’ invoices in two years",
+        "description": "Federal Board of Revenue (FBR) Member Hamid Atique Sarwar told the Senate Standing Committee on Finance and Revenue that over Rs 873 billion ‘fake’ and ‘flying’ invoices were found last year, which was an addition to the Rs 1.37 trillion that was already lost in the previous year",
+        "category": "经济新闻",
+        "source": "Firstpost",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.9450000000000001,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "94%"
+        }
+      },
+      "freshness_score": 0.9045000000000001,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这一发现揭示了巴基斯坦税务体系的重大漏洞，对政府财政收入造成巨大损失。这不仅影响国家经济稳定，还可能引发信任危机。\n2. **技术或商业层面分析**：自动化发票管理系统和区块链技术的应用可以有效减少此类欺诈行为。加强数据验证和透明度是关键。\n3. **对行业或用户的意义**：此事件警示企业和个人，需更加警惕发票的真实性，采用先进的技术手段确保交易透明。\n4. **未来发展趋势预测**：预计政府将加大监管力度，推动技术革新以打击发票欺诈，同时提高公众对此类问题的认识。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:44:50",
+        "word_count": 249,
+        "error": null
+      }
+    },
+    {
+      "id": "58f1202d799f",
+      "title": "Entertainment News Highlights: Record Deals and Iconic Tributes",
+      "description": "The entertainment industry sees groundbreaking deals, iconic tributes, and record-setting events. Paramount secures 'South Park' episodes for $1.25 billion; American Eagle's campaign with Sydney Sweeney results in a stock surge; and Hulk Hogan's legacy is celebrated posthumously. Marvel's $80 popcorn bucket sets a new world record in Los Angeles.",
+      "content": "Amidst a flurry of entertainment news, Paramount Global extends its partnership with 'South Park' creators Trey Parker and Matt Stone, securing new episodes for $1.25 billion, one of television's most lucrative deals. This move solidifies Paramount's... [735 chars]",
+      "url": "https://www.devdiscourse.com/article/entertainment/3516327-entertainment-news-highlights-record-deals-and-iconic-tributes",
+      "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_07_2025_11_05_20_8285701.png?width=920&format=jpeg",
+      "publishedAt": "2025-07-25T05:00:12Z",
+      "source": {
+        "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:00:12+08:00",
+        "formatted": "2025年07月25日 13:00",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:00:12+08:00",
+      "ai_translation": {
+        "translated_title": "娱乐新闻 highlights：创纪录的唱片合约与致敬经典",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.9700000000000001
+        },
+        "translated_description": "娱乐行业见证了一系列开创性交易、标志性致敬和创纪录事件。派拉蒙以12.5亿美元的价格锁定了《南公园》的剧集；American Eagle与西德尼·斯威尼的合作导致股价飙升；而霍克·霍根的遗产在逝世后得到了庆祝。漫威的80美元爆米花桶在洛杉矶创下了新的世界纪录。"
+      },
+      "localized_summary": {
+        "title": "Entertainment News Highlights: Record Deals and Iconic Tributes",
+        "description": "The entertainment industry sees groundbreaking deals, iconic tributes, and record-setting events. Paramount secures 'South Park' episodes for $1.25 billion; American Eagle's campaign with Sydney Sweeney results in a stock surge; and Hulk Hogan's legacy is celebrated posthumously. Marvel's $80 popcorn bucket sets a new world record in Los Angeles.",
+        "category": "经济新闻",
+        "source": "Devdiscourse",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.9450000000000001,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "94%"
+        }
+      },
+      "freshness_score": 0.9045000000000001,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:50:34",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "eac5382517a4",
+      "title": "India-UK Free Trade Pact: A New Era in Global Finance",
+      "description": "India and the UK have inked a significant Free Trade Agreement, integrating India's fintech innovations with the UK's financial structuring expertise. NSE CEO Chauhan highlights this as a pivotal shift toward bilateralism, while envisioning enhanced global collaboration and innovation.",
+      "content": "India and the United Kingdom have officially cemented their economic ties by signing a transformative Free Trade Agreement. NSE CEO Ashish Chauhan emphasized the alliance's importance, citing the fusion of India's high-tech financial prowess with the... [799 chars]",
+      "url": "https://www.devdiscourse.com/article/business/3516394-india-uk-free-trade-pact-a-new-era-in-global-finance",
+      "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/25_07_2025_11_22_25_1834555.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-07-25T05:52:39Z",
+      "source": {
+        "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:52:39+08:00",
+        "formatted": "2025年07月25日 13:52",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:52:39+08:00",
+      "ai_translation": {
+        "translated_title": "印度-英国自由贸易协定：全球金融新时代",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92
+        }
+      },
+      "localized_summary": {
+        "title": "India-UK Free Trade Pact: A New Era in Global Finance",
+        "description": "India and the UK have inked a significant Free Trade Agreement, integrating India's fintech innovations with the UK's financial structuring expertise. NSE CEO Chauhan highlights this as a pivotal shift toward bilateralism, while envisioning enhanced global collaboration and innovation.",
+        "category": "经济新闻",
+        "source": "Devdiscourse",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.46,
+          "text": "需要改进",
+          "detail": "翻译质量较差，强烈建议查看原文",
+          "color": "#DC2626",
+          "percentage": "46%"
+        }
+      },
+      "freshness_score": 0.902,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：印英自由贸易协定标志着全球金融版图的重大变化，强化了两国经济关系，尤其是金融服务业的深度融合，有助于推动区域乃至全球贸易自由化。\n2. **技术或商业层面**：协定融合了印度的技术优势与英国的金融经验，有望促进金融科技合作，提升跨境支付效率，增强金融市场的透明度和竞争力。\n3. **对行业或用户**：对于投资者和企业而言，这将降低交易成本，增加市场准入机会，提高资金流动性和投资回报率。\n4. **未来发展趋势**：预计该协定将加速亚洲与欧洲之间的经济一体化，为金融科技、跨境支付和投资服务带来新的增长点，推动全球金融市场的创新与发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:47:18",
+        "word_count": 283,
+        "error": null
+      }
+    },
+    {
+      "id": "18d62a3c1653",
+      "title": "Intel is cutting more jobs as CEO Tan tries to fix manufacturing missteps",
+      "description": "As part of the job cuts, Intel attempted to take a “surgical” approach and remove layers of middle management, finance chief David Zinsner told Reuters.",
+      "content": "Intel is going to end the year with a workforce that is over a fifth smaller than last year, it said on Thursday, and new CEO Lip Bu Tan presented a blueprint for a more cost-disciplined, streamlined chipmaker that would issue “no more blank checks.”... [4664 chars]",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/intel-is-cutting-more-jobs-as-ceo-tan-tries-to-fix-manufacturing-missteps-10148333/",
+      "image": "https://images.indianexpress.com/2025/07/Intel-File-photo-2.jpg",
+      "publishedAt": "2025-07-25T04:56:26Z",
+      "source": {
+        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 12:56:26+08:00",
+        "formatted": "2025年07月25日 12:56",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 12:56:26+08:00",
+      "ai_translation": {
+        "translated_title": "英特尔正在裁员，首席执行官Tan正试图解决制造环节的问题。",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "作为裁员的一部分，英特尔试图采取“外科手术式”的方法，精简管理层级，财务 chief 大卫·金斯纳向路透社表示。"
+      },
+      "localized_summary": {
+        "title": "Intel is cutting more jobs as CEO Tan tries to fix manufacturing missteps",
+        "description": "As part of the job cuts, Intel attempted to take a “surgical” approach and remove layers of middle management, finance chief David Zinsner told Reuters.",
+        "category": "经济新闻",
+        "source": "The Indian Express",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.902,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：Intel大幅裁员表明其面临严峻的财务压力和市场挑战，这是半导体行业竞争加剧的信号。\n2. **技术或商业层面分析**：新CEO Tan的改革措施旨在提高效率和降低成本，这可能推动Intel优化产品线，专注于高利润市场。\n3. **对行业或用户的意义**：此次裁员和战略调整可能引发行业效仿，增加整个半导体行业的竞争压力，影响用户对Intel产品的预期。\n4. **未来发展趋势预测**：Intel可能加速转型，加强与合作伙伴的关系，以应对未来技术趋势如AI和5G的需求。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:51:32",
+        "word_count": 250,
+        "error": null
+      }
+    },
+    {
+      "id": "9bd14db8cc9e",
+      "title": "Stock Market Updates: Sensex Falls 400 Points, Nifty Below 25,950; Bajaj Twins, Nestle Top Drags",
+      "description": "Domestic equity markets may remain volatile on Friday, the final trading session of the week",
+      "content": "Stock Market Updates: Sensex Falls 400 Points, Nifty Below 25,950; Bajaj Twins, Nestle Top Drags\nReported By :\nNews18.com\nLast Updated: July 25, 2025, 10:21 IST\nDomestic equity markets may remain volatile on Friday, the final trading session of the w... [2808 chars]",
+      "url": "https://www.news18.com/business/markets/stock-market-updates-sensex-falls-350-points-nifty-below-25000-bajaj-twins-nestle-top-drags-9462412.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/stock-market-2025-05-a333d86e2e8d8516297b48335167d92b-16x9.png",
+      "publishedAt": "2025-07-25T04:51:17Z",
+      "source": {
+        "id": "ca84296ef941bfa461f4239a2290cb99",
+        "name": "News18",
+        "url": "https://www.news18.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 12:51:17+08:00",
+        "formatted": "2025年07月25日 12:51",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 12:51:17+08:00",
+      "ai_translation": {
+        "translated_title": "股市动态：Sensex下跌400点，Nifty跌破25950点； bajaj双子星、雀巢领跌",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "国内股市可能在本周最后一个交易日——周五——继续保持波动。"
+      },
+      "localized_summary": {
+        "title": "Stock Market Updates: Sensex Falls 400 Points, Nifty Below 25,950; Bajaj Twins, Nestle Top Drags",
+        "description": "Domestic equity markets may remain volatile on Friday, the final trading session of the week",
+        "category": "经济新闻",
+        "source": "News18",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.902,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：今日印度股市下跌，Sensex指数跌400点，Nifty指数跌破25,950点，表明市场情绪低迷。这一波动可能影响投资者信心，加剧市场不确定性。\n\n2. **技术或商业层面分析**：Bajaj Twins和Nestle成为主要拖累因素，反映出消费和制造业板块的疲软。这可能与经济放缓和消费需求下降有关。\n\n3. **对行业或用户的意义**：股市下跌将影响投资者资产价值，增加企业融资成本。消费者可能面临更高的产品价格，而企业则需调整策略以应对市场挑战。\n\n4. **未来发展趋势预测**：短期内市场可能继续波动，建议投资者保持谨慎，关注宏观经济数据和企业财报。长期来看，若经济复苏迹象明显，市场有望企稳回升。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:52:30",
+        "word_count": 318,
+        "error": null
+      }
+    },
+    {
+      "id": "e06b03cc3662",
+      "title": "China Stocks Slide: Investor Gains and Politburo Focus",
+      "description": "China's stock market experienced a slight decline on Friday as investors secured profits ahead of an important Politburo meeting. While the Shanghai Composite Index fell, it maintained a weekly gain trajectory. Key declines were seen in liquor distiller, consumer staples, and rare earth sectors, while Hong Kong's Hang Seng Index also weakened.",
+      "content": "China's stock market took a downturn on Friday, marking a pause in an ongoing rally as investors chose to lock in their gains before a crucial Politburo meeting. Despite this, the market appears set to enjoy a fifth consecutive weekly gain, providing... [667 chars]",
+      "url": "https://www.devdiscourse.com/article/headlines/3516350-china-stocks-slide-investor-gains-and-politburo-focus",
+      "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/04_07_2024_08_36_32_2887106.png?width=920&format=jpeg",
+      "publishedAt": "2025-07-25T05:06:56Z",
+      "source": {
+        "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:06:56+08:00",
+        "formatted": "2025年07月25日 13:06",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:06:56+08:00",
+      "ai_translation": {
+        "translated_title": "中国股市下滑：投资者获利与政治局关注",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.8200000000000001
+        },
+        "translated_description": "中国股市在周五出现小幅下跌，投资者在重要政治局会议前锁定利润。尽管上海综合指数下跌，但周线仍保持上涨态势。白酒、消费品和稀有 earth 产业板块领跌，香港恒生指数也出现下滑。"
+      },
+      "localized_summary": {
+        "title": "China Stocks Slide: Investor Gains and Politburo Focus",
+        "description": "China's stock market experienced a slight decline on Friday as investors secured profits ahead of an important Politburo meeting. While the Shanghai Composite Index fell, it maintained a weekly gain trajectory. Key declines were seen in liquor distiller, consumer staples, and rare earth sectors, while Hong Kong's Hang Seng Index also weakened.",
+        "category": "经济新闻",
+        "source": "Devdiscourse",
+        "reading_time": "2分钟",
+        "quality": {
+          "score": 0.8700000000000001,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "87%"
+        }
+      },
+      "freshness_score": 0.897,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **新闻重要性与影响**：此次股市回调虽短暂，但正值重要政治会议前，反映了市场对政策预期的敏感性，可能影响投资者情绪和决策。\n\n2. **技术或商业层面分析**：尽管短期内投资者选择获利了结，但周线仍维持上涨趋势，显示市场整体情绪积极。长期来看，经济基本面和政策导向仍是关键。\n\n3. **对行业或用户的意义**：对于普通投资者，短期内应关注市场情绪变化；对企业而言，需关注政策动态，把握投资机会。行业层面，科技和新能源等受政策支持的行业或将继续受益。\n\n4. **未来发展趋势预测**：随着重要会议临近，市场波动可能加剧，但长期看，中国经济结构转型和科技创新将推动股市稳步向好。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:48:16",
+        "word_count": 293,
+        "error": null
+      }
+    },
+    {
+      "id": "ca90a7d8b421",
+      "title": "Foreign Portfolio Investor Sell-Off Weighs on Indian Markets",
+      "description": "Indian stock markets dipped as Foreign Portfolio Investors sold off their holdings, affecting sentiment. Major indices fell, marked by weak earnings and no immediate US-India trade deal. Key supports are held by retail investors buying dips. Global cues and upcoming earnings reports heighten market uncertainty.",
+      "content": "On Friday, Indian stock markets faced pressure as Foreign Portfolio Investors (FPIs) offloaded their holdings, negatively impacting investor sentiment. At the time of reporting, the Nifty 50 slipped to 25,010.35, a decrease of 51.75 points or 0.21 pe... [2220 chars]",
+      "url": "https://www.devdiscourse.com/article/business/3516333-foreign-portfolio-investor-sell-off-weighs-on-indian-markets",
+      "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/25_07_2025_10_30_51_9014324.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-07-25T05:01:16Z",
+      "source": {
+        "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+        "name": "Devdiscourse",
+        "url": "https://www.devdiscourse.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 13:01:16+08:00",
+        "formatted": "2025年07月25日 13:01",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 13:01:16+08:00",
+      "ai_translation": {
+        "translated_title": "外国机构投资者抛售拖累印度股市",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.9700000000000001
+        },
+        "translated_description": "印度股市因外国机构投资者抛售而下跌，影响了市场情绪。主要指数下跌，反映出盈利疲软且短期内未达成美印贸易协议。零售投资者在低位买入支撑市场。全球市场走势和即将公布的财报加剧了市场的不确定性。"
+      },
+      "localized_summary": {
+        "title": "Foreign Portfolio Investor Sell-Off Weighs on Indian Markets",
+        "description": "Indian stock markets dipped as Foreign Portfolio Investors sold off their holdings, affecting sentiment. Major indices fell, marked by weak earnings and no immediate US-India trade deal. Key supports are held by retail investors buying dips. Global cues and upcoming earnings reports heighten market uncertainty.",
+        "category": "经济新闻",
+        "source": "Devdiscourse",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.8700000000000001,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "87%"
+        }
+      },
+      "freshness_score": 0.897,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：FPIs的抛售对印度股市构成压力，反映了全球市场情绪的波动对新兴市场的影响，可能影响投资者信心和市场稳定性。\n2. **技术或商业层面**：Nifty 50指数下跌，显示市场短期内的脆弱性，需关注后续FPI行为和本地投资者反应。\n3. **对行业或用户**：此事件提醒投资者注意国际市场动态，对依赖外资的行业构成挑战，需调整投资策略以应对不确定性。\n4. **未来发展趋势**：预计短期内市场波动将持续，长期需关注印度经济基本面和政策调整对吸引外资的成效。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:49:11",
+        "word_count": 242,
+        "error": null
+      }
+    },
+    {
+      "id": "f4dec91fe12e",
+      "title": "Google Launches AI Virtual Try-On for Clothes: Here’s How It Works",
+      "description": "Google’s latest leap into fashion",
+      "content": "> Tech\nGoogle is bringing a futuristic twist to online shopping with the rollout of new AI-powered features aimed at enhancing how users in the US discover fashion, track prices, and find deals. Central to this upgrade is Doppl, a newly launched virt... [2956 chars]",
+      "url": "https://in.mashable.com/tech/97575/google-launches-ai-virtual-try-on-for-clothes-heres-how-it-works",
+      "image": "https://sm.mashable.com/mashable_in/seo/default/z3wq-2025-07-25t120149001_kn14.jpg",
+      "publishedAt": "2025-07-25T07:04:08Z",
+      "source": {
+        "id": "e894895ef041ab9c6cb7fe7223531f53",
+        "name": "Mashable India",
+        "url": "https://in.mashable.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-25 15:04:08+08:00",
+        "formatted": "2025年07月25日 15:04",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 15:04:08+08:00",
+      "localized_summary": {
+        "title": "Google Launches AI Virtual Try-On for Clothes: Here’s How It Works",
+        "description": "Google’s latest leap into fashion",
+        "category": "AI科技",
+        "source": "Mashable India",
+        "reading_time": "1分钟"
+      },
+      "freshness_score": 0.8966666666666667,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：Google推出的AI虚拟试衣功能标志着在线购物体验的重大革新，提升了用户的购物便捷性和沉浸感，有望重塑电商市场。\n2. **技术或商业层面**：该功能依赖先进的人像识别和3D建模技术，体现了AI在零售领域的应用潜力。从商业角度看，这将增强用户粘性，提升转化率。\n3. **行业或用户意义**：对用户而言，无需实际购买即可预览服装效果，极大提升了购物体验。对行业来说，这或将推动更多品牌采用类似技术，加速零售业数字化转型。\n4. **未来发展趋势**：随着技术进步和用户习惯变化，AI虚拟试衣将成为常态，甚至可能催生新的商业模式和消费场景。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:56:10",
+        "word_count": 284,
+        "error": null
+      }
+    },
+    {
+      "id": "322332c7f1e3",
+      "title": "No tax relief for the gym: Officials say proposal will not work out",
+      "description": "Finance officials have said that Jack Chambers’s idea of a tax relief on gym membership is a non-starter.",
+      "content": "Finance officials have said that Jack Chambers’s idea of a tax relief on gym membership is a non-starter.\nThey say there is limited information to show that a tax incentive would ensure that people continue to visit the gym after joining it.\nToday's ... [2995 chars]",
+      "url": "https://extra.ie/2025/07/25/news/irish-news/gym-no-tax-relief",
+      "image": "https://extra.ie/wp-content/uploads/2025/07/gym-1.jpg",
+      "publishedAt": "2025-07-25T06:56:14Z",
+      "source": {
+        "id": "3e825dfa21d4478d2f961d27b2ebdc1c",
+        "name": "Extra.ie",
+        "url": "https://extra.ie"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 14:56:14+08:00",
+        "formatted": "2025年07月25日 14:56",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 14:56:14+08:00",
+      "ai_translation": {
+        "translated_title": "健身房无需税收减免：官员表示该提议行不通",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.92
+        },
+        "translated_description": "财经官员表示，杰克·查姆伯斯关于对健身房会员费给予税收减免的想法行不通。"
+      },
+      "localized_summary": {
+        "title": "No tax relief for the gym: Officials say proposal will not work out",
+        "description": "Finance officials have said that Jack Chambers’s idea of a tax relief on gym membership is a non-starter.",
+        "category": "经济新闻",
+        "source": "Extra.ie",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.8945000000000001,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:42:40",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "1670fdfb2300",
+      "title": "Why Is Stock Market Falling Today? Know Key Factors Behind Sensex, Nifty Decline On July 25",
+      "description": "The Indian stock market continued to reel under pressure for the second consecutive session on Friday; Why is Sensex, Nifty falling today?",
+      "content": "Why Is Stock Market Falling Today? Know Key Factors Behind Sensex, Nifty Decline On July 25\nReported By :\nNews18.com\nLast Updated: July 25, 2025, 11:57 IST\nThe Indian stock market continued to reel under pressure for the second consecutive session on... [4918 chars]",
+      "url": "https://www.news18.com/business/markets/sensex-falls-542-points-nifty-below-25100-key-reasons-why-market-is-down-today-9462675.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/02/Market-Crash-2025-02-00857e207c9fd9c1d360ed366af30fb3-16x9.jpg",
+      "publishedAt": "2025-07-25T06:27:20Z",
+      "source": {
+        "id": "ca84296ef941bfa461f4239a2290cb99",
+        "name": "News18",
+        "url": "https://www.news18.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-25 14:27:20+08:00",
+        "formatted": "2025年07月25日 14:27",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 14:27:20+08:00",
+      "ai_translation": {
+        "translated_title": "今天股市为何下跌？了解7月25日Sensex和Nifty下跌的关键因素",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.77
+        },
+        "translated_description": "印度股市在周五连续第二个交易日承压；为什么今日Sensex和Nifty指数下跌？"
+      },
+      "localized_summary": {
+        "title": "Why Is Stock Market Falling Today? Know Key Factors Behind Sensex, Nifty Decline On July 25",
+        "description": "The Indian stock market continued to reel under pressure for the second consecutive session on Friday; Why is Sensex, Nifty falling today?",
+        "category": "经济新闻",
+        "source": "News18",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.8945000000000001,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：今日印度股市连续下跌，反映了市场情绪的脆弱性，可能对投资者信心产生负面影响，进而影响经济活动。\n2. **技术或商业层面分析**：下跌可能与全球市场波动、经济增长放缓、企业盈利预期下调等有关，技术面上，MACD指标显示空头趋势。\n3. **对行业或用户的意义**：对投资者来说，短期内应谨慎操作，关注政策动向和企业财报；对企业而言，需调整策略以应对市场不确定性。\n4. **未来发展趋势预测**：短期内股市可能继续承压，但长期仍取决于经济基本面和政策支持，建议密切关注国内外宏观经济指标。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:43:19",
+        "word_count": 258,
+        "error": null
+      }
+    },
+    {
+      "id": "c21939f549f9",
+      "title": "Is Steam Deck 2 secretly the next-gen PlayStation handheld? Valve and Sony's rumored partnership could make it happen, and I'm all for it",
+      "description": "A Sony and Valve partnership could make the next-gen PlayStation gaming handheld I want, and the Steam Deck 2 could kick it all off.",
+      "content": "Rumors of Valve's most-wanted Steam Deck 2 are heating up, with the next-gen gaming handheld tipped to be in the works. But there's another conversation that's caught my attention — and it involves a rumored partnership between Sony and Valve.\nGaming... [3948 chars]",
+      "url": "https://www.tomsguide.com/gaming/handheld-gaming/is-steam-deck-2-secretly-the-next-gen-playstation-handheld-to-buy-valve-and-sonys-rumored-partnership-could-make-it-happen-and-im-all-for-it",
+      "image": "https://cdn.mos.cms.futurecdn.net/DFD7R5AAq92V2odAaUAfFM.jpg",
+      "publishedAt": "2025-07-25T04:30:00Z",
+      "source": {
+        "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
+        "name": "Tom's Guide",
+        "url": "https://www.tomsguide.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 12:30:00+08:00",
+        "formatted": "2025年07月25日 12:30",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-25 12:30:00+08:00",
+      "ai_translation": {
+        "translated_title": "Steam Deck 2 暗中是否会成为下一代 PlayStation 手持游戏机？Valve 和 Sony 的传言中的合作可能会让它成为现实，我非常支持这一想法",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "索尼和 Valve 的合作可能会让我拥有我梦寐以求的下一代 PlayStation 游戏掌机，而 Steam Decks 2 可能会拉开序幕。"
+      },
+      "localized_summary": {
+        "title": "Is Steam Deck 2 secretly the next-gen PlayStation handheld? Valve and Sony's rumored partnership could make it happen, and I'm all for it",
+        "description": "A Sony and Valve partnership could make the next-gen PlayStation gaming handheld I want, and the Steam Deck 2 could kick it all off.",
+        "category": "游戏资讯",
+        "source": "Tom's Guide",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.882,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:29:00",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "4906a3ea83ef",
+      "title": "Xbox's next-gen console wishlist: 10 features that could set it apart from PlayStation",
+      "description": "Microsoft's next Xbox console is on the horizon, but what groundbreaking features will it bring? From Steam integration to improved backward compatibility, here are 10 must-have features that could set the next Xbox apart.",
+      "content": "While Microsoft has seemingly been working towards killing off Xbox consoles in favor of turning every device you own into an Xbox, the company has reiterated multiple times that there is a next-gen console coming after the Xbox Series X|S. Microsoft... [9837 chars]",
+      "url": "https://www.xda-developers.com/features-want-see-next-xbox/",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/12/rog-ally-xbox-series-x.jpg",
+      "publishedAt": "2025-07-24T21:30:21Z",
+      "source": {
+        "id": "891063cd06eaab8a5cf530418fb4c0be",
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 05:30:21+08:00",
+        "formatted": "2025年07月25日 05:30",
+        "relative": "10小时前",
+        "is_fresh": true,
+        "freshness_score": 0.8
+      },
+      "beijing_time": "2025-07-25 05:30:21+08:00",
+      "ai_translation": {
+        "translated_title": "Xbox次世代主机愿望清单：10项可能使其与众不同的功能",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.9700000000000001
+        },
+        "translated_description": "微软的下一款 Xbox 主机即将面世，但它的哪些突破性功能将引领潮流？从 Steam 集成到增强的向后兼容性，以下是可能让下一款 Xbox 独树一帜的十大必备功能。"
+      },
+      "localized_summary": {
+        "title": "Xbox's next-gen console wishlist: 10 features that could set it apart from PlayStation",
+        "description": "Microsoft's next Xbox console is on the horizon, but what groundbreaking features will it bring? From Steam integration to improved backward compatibility, here are 10 must-have features that could set the next Xbox apart.",
+        "category": "游戏资讯",
+        "source": "XDA Developers",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.9450000000000001,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "94%"
+        }
+      },
+      "freshness_score": 0.8145,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这篇新闻揭示了微软在下一代Xbox主机上的规划，表明微软仍致力于传统游戏主机市场，尽管也推动了云游戏的发展。这将直接影响Xbox与PlayStation的竞争格局。\n\n2. **技术或商业层面分析**：微软可能在新主机上强化独占游戏、云游戏整合及AI技术应用，以增强用户粘性。这反映出微软试图通过技术差异化来吸引用户，同时利用现有设备生态增加用户基数。\n\n3. **行业或用户意义**：对玩家而言，意味着将有更多选择和体验，但需关注新主机是否能提供独特价值。对游戏开发者，意味着需评估不同平台的潜力与挑战。\n\n4. **未来发展趋势预测**：预计下一代Xbox将更侧重于跨平台体验和云游戏服务，以应对市场变化。同时，独占游戏仍是关键竞争点，需关注微软如何平衡这两者。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:31:32",
+        "word_count": 347,
+        "error": null
+      }
+    },
+    {
+      "id": "08c109c83e49",
+      "title": "6 games I'm picking up during the Xbox Summer Sale",
+      "description": "The Xbox Ultimate Sale features deep discounts on hundreds of games, here's what you should pick up.",
+      "content": "The Xbox Ultimate Sale, the equivalent of the Xbox Summer Sale, similar to the sales run by Steam and PlayStation this month, is officially live and running through the end of July. While the Xbox ecosystem is dominated by Xbox Game Pass, there are t... [7205 chars]",
+      "url": "https://www.xda-developers.com/6-games-im-picking-up-during-the-xbox-summer-sale/",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/07/copy-of-copy-of-copy-of-copy-of-white-aesthetic-weekend-routine-youtube-thumbnail-6.jpg",
+      "publishedAt": "2025-07-25T01:01:21Z",
+      "source": {
+        "id": "891063cd06eaab8a5cf530418fb4c0be",
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 09:01:21+08:00",
+        "formatted": "2025年07月25日 09:01",
+        "relative": "7小时前",
+        "is_fresh": true,
+        "freshness_score": 0.8
+      },
+      "beijing_time": "2025-07-25 09:01:21+08:00",
+      "ai_translation": {
+        "translated_title": "Xbox夏季促销期间我挑选的6款游戏",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "Xbox 极限特卖活动提供了数百款游戏的大幅折扣，以下是你应该入手的游戏。"
+      },
+      "localized_summary": {
+        "title": "6 games I'm picking up during the Xbox Summer Sale",
+        "description": "The Xbox Ultimate Sale features deep discounts on hundreds of games, here's what you should pick up.",
+        "category": "游戏资讯",
+        "source": "XDA Developers",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.8119999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：Xbox夏季促销活动标志着游戏市场的重要节点，吸引大量玩家关注和参与。\n2. **技术或商业层面分析**：此次促销展示了Xbox在游戏分发策略上的灵活性，通过限时优惠促进游戏销量和订阅服务的增长。\n3. **对行业或用户的意义**：对于用户而言，这是一次绝佳的机会以优惠价格获取心仪的游戏；对行业而言，促销活动促进了竞争，提升了玩家参与度。\n4. **未来发展趋势预测**：预计未来各大游戏平台将持续加大促销力度，以争夺市场份额，同时订阅服务将成为主流，为玩家提供更便捷的游戏体验。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:29:36",
+        "word_count": 255,
+        "error": null
+      }
+    },
+    {
+      "id": "f3e56b3574e6",
+      "title": "Here's when you can play Grounded 2 at launch time on its release date",
+      "description": "Xbox and Obsidian are about to launch Grounded 2, a sequel to the beloved survival game, in Early Access on Xbox, PC, and Game Pass. Here's when you can play.",
+      "content": "When Grounded 2 shrinks you down to the size of an ant, you'll realize the world looks a whole lot different with a ground's eye view.\nObsidian Entertainment was already planning to have a stacked 2025 between February's fantasy Pillars of Eternity R... [4551 chars]",
+      "url": "https://www.windowscentral.com/gaming/xbox/heres-exactly-when-you-can-play-grounded-2-xbox-announced-launch-times-for-its-release-date-and-the-game-pass-survival-game-is-coming-in-hot",
+      "image": "https://cdn.mos.cms.futurecdn.net/oFYJXf8zftj8izKGx4YgpX.jpg",
+      "publishedAt": "2025-07-24T21:07:51Z",
+      "source": {
+        "id": "15e838c11ec107f2fad197ea48c6cc48",
+        "name": "Windows Central",
+        "url": "https://www.windowscentral.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 05:07:51+08:00",
+        "formatted": "2025年07月25日 05:07",
+        "relative": "10小时前",
+        "is_fresh": true,
+        "freshness_score": 0.8
+      },
+      "beijing_time": "2025-07-25 05:07:51+08:00",
+      "ai_translation": {
+        "translated_title": "这是 Grounded 2 在发行当天启动时的游玩时间",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "Xbox和Obsidian即将在Xbox、PC和Game Pass平台上以抢先体验版的形式推出《Grounded 2》，这是备受喜爱的生存游戏的续作。以下是您可以开始游玩的时间。"
+      },
+      "localized_summary": {
+        "title": "Here's when you can play Grounded 2 at launch time on its release date",
+        "description": "Xbox and Obsidian are about to launch Grounded 2, a sequel to the beloved survival game, in Early Access on Xbox, PC, and Game Pass. Here's when you can play.",
+        "category": "游戏资讯",
+        "source": "Windows Central",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.8119999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：该新闻预告了《Grounded 2》的发售时间，对于玩家来说具有重要性，能提前规划游戏时间。\n2. **技术或商业层面**：游戏从人类视角转变为蚂蚁视角，这在技术上需要高度精细的场景建模和物理模拟，显示Obsidian Entertainment的技术实力。商业上，这种独特的视角可能吸引新玩家。\n3. **行业或用户意义**：该作提供新颖的视角体验，有望在小众市场取得成功，为玩家带来新鲜感。\n4. **未来发展趋势**：未来游戏将更多采用创新视角和玩法，增强沉浸感，满足玩家对新颖体验的追求。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:33:44",
+        "word_count": 262,
+        "error": null
+      }
+    },
+    {
+      "id": "572a44b536c2",
+      "title": "\"This is another attack on physical media\": Watchdog group finds that Super Mario Bros Wonder is suddenly unplayable on Switch 2 without an online update",
+      "description": "Nintendo crossed a line",
+      "content": "Physical media enthusiasts have been closely eyeing the Switch 2 as they try to figure out how viable the platform is as an entirely offline machine, and thus how easy it'll be to keep using it in not just the years, but the decades to come. The late... [2027 chars]",
+      "url": "https://www.gamesradar.com/games/super-mario/this-is-another-attack-on-physical-media-watchdog-group-finds-that-super-mario-bros-wonder-is-suddenly-unplayable-on-switch-2-without-an-online-update/",
+      "image": "https://cdn.mos.cms.futurecdn.net/zogxmRVuCmww9ra6bkVrkH.jpg",
+      "publishedAt": "2025-07-24T21:53:16Z",
+      "source": {
+        "id": "294addf97f5ee5fcc83a4cf0a07af54b",
+        "name": "GamesRadar+",
+        "url": "https://www.gamesradar.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 05:53:16+08:00",
+        "formatted": "2025年07月25日 05:53",
+        "relative": "10小时前",
+        "is_fresh": true,
+        "freshness_score": 0.8
+      },
+      "beijing_time": "2025-07-25 05:53:16+08:00",
+      "ai_translation": {
+        "translated_title": "“这又是对物理媒体的另一次攻击”：监督组织发现，《超级马里奥兄弟：奇遇》在不进行在线更新的情况下，突然无法在Switch 2上玩",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.77
+        },
+        "translated_description": "任天堂越界了"
+      },
+      "localized_summary": {
+        "title": "\"This is another attack on physical media\": Watchdog group finds that Super Mario Bros Wonder is suddenly unplayable on Switch 2 without an online update",
+        "description": "Nintendo crossed a line",
+        "category": "游戏资讯",
+        "source": "GamesRadar+",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.8045,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这则新闻揭示了Switch 2对物理介质的依赖，表明即使在数字化趋势下，实体游戏盘片仍具有重要价值。这可能影响玩家的购买决策和游戏收藏习惯。\n\n2. **技术或商业层面**：此事件反映了游戏主机对在线服务的依赖性增强，这可能促使厂商在设计下一代产品时更注重离线体验，以满足不同用户需求。\n\n3. **行业或用户的意义**：对实体游戏爱好者来说，这增加了他们对Switch 2的疑虑。同时，它也提醒游戏开发者需平衡数字化与实体介质的兼容性，以满足多元化的市场需求。\n\n4. **未来发展趋势预测**：预计未来游戏主机将更注重提供灵活的游玩模式，以适应玩家对离线与在线游戏的不同需求，同时也需确保实体游戏的长期可玩性。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:30:30",
+        "word_count": 321,
+        "error": null
+      }
+    },
+    {
+      "id": "b9327ea85f5a",
+      "title": "Here's why XMP alone could do more for your gaming PC than a new CPU",
+      "description": "It sounds crazy, but it's true.",
+      "content": "I already know some people will disagree with me, and that's OK. There are cases where memory speed alone can do more for your gaming performance than shelling out hundreds of dollars on a new CPU, and they're more common than you might imagine. It d... [7845 chars]",
+      "url": "https://www.xda-developers.com/heres-why-xmp-alone-could-do-more-for-your-gaming-pc-than-a-new-cpu/",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/proxmox-ram.jpg",
+      "publishedAt": "2025-07-24T19:00:26Z",
+      "source": {
+        "id": "891063cd06eaab8a5cf530418fb4c0be",
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 03:00:26+08:00",
+        "formatted": "2025年07月25日 03:00",
+        "relative": "13小时前",
+        "is_fresh": true,
+        "freshness_score": 0.7
+      },
+      "beijing_time": "2025-07-25 03:00:26+08:00",
+      "ai_translation": {
+        "translated_title": "这里为什么仅XMP就能比新CPU更能提升你的游戏PC性能",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "听起来很疯狂，但这却是事实。"
+      },
+      "localized_summary": {
+        "title": "Here's why XMP alone could do more for your gaming PC than a new CPU",
+        "description": "It sounds crazy, but it's true.",
+        "category": "游戏资讯",
+        "source": "XDA Developers",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. 重要性：该新闻揭示了内存性能在游戏PC性能中的关键作用，挑战了CPU作为唯一性能提升焦点的传统观点，对用户选择硬件有重要指导意义。\n2. 技术层面：XMP配置简化了内存超频过程，对于非专业用户尤其友好，能显著提升游戏帧率，性价比高。\n3. 行业意义：可能促使厂商在内存优化上下更多功夫，用户将有更多选择空间，市场将更加多样化。\n4. 发展趋势：未来内存技术（如DDR5）与CPU、显卡的协同优化将更为重要，用户需关注整体系统性能而非单一硬件。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:35:50",
+        "word_count": 224,
+        "error": null
+      }
+    },
+    {
+      "id": "2fba29892072",
+      "title": "Xbox Just Learned It Can’t Charge $80 For Every Big Game",
+      "description": "Xbox reversed the $80 asking price for The Outer Worlds 2, but its a reminder that this new standard can't be applied universally.",
+      "content": "Just six weeks after Xbox announced that The Outer Worlds 2 was going to be the first $80 Xbox Game Studios release, the troubled publisher said, actually, nevermind. Xbox plans to go back on its controversial decision, citing “current market conditi... [5344 chars]",
+      "url": "https://www.inverse.com/gaming/xbox-the-outer-worlds-2-80-dollars-decision-reverse",
+      "image": "https://imgix.bustle.com/uploads/image/2025/7/24/c420e239/outer-worlds-2-third.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "publishedAt": "2025-07-24T18:38:12Z",
+      "source": {
+        "id": "c1f2eb793f138f6e8a17d9160ed3ef53",
+        "name": "Inverse",
+        "url": "https://www.inverse.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 02:38:12+08:00",
+        "formatted": "2025年07月25日 02:38",
+        "relative": "13小时前",
+        "is_fresh": true,
+        "freshness_score": 0.7
+      },
+      "beijing_time": "2025-07-25 02:38:12+08:00",
+      "ai_translation": {
+        "translated_title": "Xbox刚刚意识到它不能再为每款大作游戏收取80美元了",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "Xbox 将《星界征途 2》的售价从 80 美元调回，但这提醒我们，这一新标准无法普遍适用。"
+      },
+      "localized_summary": {
+        "title": "Xbox Just Learned It Can’t Charge $80 For Every Big Game",
+        "description": "Xbox reversed the $80 asking price for The Outer Worlds 2, but its a reminder that this new standard can't be applied universally.",
+        "category": "游戏资讯",
+        "source": "Inverse",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：Xbox调整高价策略表明对市场反应的快速调整，体现了其对消费者接受度的重视，有助于修复品牌形象。\n2. **技术或商业层面**：此次调整显示了数字娱乐市场定价策略的灵活性，同时也反映了游戏成本与消费者支付意愿之间的微妙平衡。\n3. **行业或用户意义**：此举可能影响其他大型游戏开发商的定价策略，增强消费者对高价位游戏的接受度，促进游戏市场的健康发展。\n4. **未来发展趋势**：预计未来游戏定价将更加灵活，更注重用户体验和长期用户关系，而非单一的高价策略。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:36:53",
+        "word_count": 245,
+        "error": null
+      }
+    },
+    {
+      "id": "48adf14f2955",
+      "title": "Switch 2 Sells 1.6 Million Units in the U.S. in One Month - Could It Become America’s Leading Console",
+      "description": "According to market research firm Circana (formerly the NPD Group), the Nintendo Switch 2 has set a new record for first‑month sales among all consoles in U.S. history. Nintendo Switch 2 launched on J",
+      "content": "According to market research firm Circana (formerly the NPD Group), the Nintendo Switch 2 has set a new record for first‑month sales among all consoles in U.S. history. Nintendo Switch 2 launched on June 5 and sold 3.5 million units worldwide within ... [1797 chars]",
+      "url": "https://www.invenglobal.com/articles/19503/switch-2-sells-16%E2%80%AFmillion-units-in-the-us-in-one-month-could-it-become-americas-leading-console",
+      "image": "https://static.invenglobal.com/upload/image/2025/07/24/r1753381029657903.jpeg",
+      "publishedAt": "2025-07-24T18:20:35Z",
+      "source": {
+        "id": "e8d7ea30b7c7cf50d2b88be83a09a0fa",
+        "name": "InvenGlobal",
+        "url": "https://www.invenglobal.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 02:20:35+08:00",
+        "formatted": "2025年07月25日 02:20",
+        "relative": "13小时前",
+        "is_fresh": true,
+        "freshness_score": 0.7
+      },
+      "beijing_time": "2025-07-25 02:20:35+08:00",
+      "ai_translation": {
+        "translated_title": "Switch 2 在一个月内在美国售出 160 万台 - 它能成为美国领先的主机游戏平台吗？",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "根据市场研究公司Circana（原名NPD集团）的数据，任天堂Switch 2在美国家用游戏机首月销量中创下了新的纪录。任天堂Switch 2于J月上市。"
+      },
+      "localized_summary": {
+        "title": "Switch 2 Sells 1.6 Million Units in the U.S. in One Month - Could It Become America’s Leading Console",
+        "description": "According to market research firm Circana (formerly the NPD Group), the Nintendo Switch 2 has set a new record for first‑month sales among all consoles in U.S. history. Nintendo Switch 2 launched on J",
+        "category": "游戏资讯",
+        "source": "InvenGlobal",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. 新闻重要性：Switch 2首月销售数据打破记录，显示出其强劲市场表现，预示着可能成为美国市场销量领先的主机。\n2. 技术与商业分析：Switch 2在硬件与软件生态上持续优化，凭借独特的便携性与多样化的游戏内容吸引广泛用户群体。\n3. 行业与用户意义：Switch 2的成功进一步巩固了任天堂在游戏市场中的地位，为其他厂商带来竞争压力，同时也为玩家提供更多选择。\n4. 未来趋势预测：Switch 2的热销表明市场对创新主机的需求，预计任天堂将持续推出具有吸引力的新产品，而其他厂商可能加大在便携游戏机领域的投入。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:37:31",
+        "word_count": 261,
+        "error": null
+      }
+    },
+    {
+      "id": "1a867c7dbeeb",
+      "title": "Lego's new Game Boy set comes with swappable cartridges and gameplay screens",
+      "description": "The Lego Game Boy (model 72046) is a 421-piece kit that's a near 1:1 scale replica of Nintendo's original handheld. Despite the low piece count, the build...",
+      "content": "In a nutshell: Nintendo is slowly but surely bringing its classic game systems to the Lego universe. In 2020, the Japanese gaming giant partnered with the plastic construction toy company on a licensed version of the Nintendo Entertainment System. No... [1702 chars]",
+      "url": "https://www.techspot.com/news/108799-lego-new-game-boy-set-comes-swappable-cartridges.html",
+      "image": "https://www.techspot.com/images2/news/bigimage/2025/07/2025-07-24-image-24.jpg",
+      "publishedAt": "2025-07-24T18:11:00Z",
+      "source": {
+        "id": "18288dd33a2735f068925baac812ba0f",
+        "name": "TechSpot",
+        "url": "https://www.techspot.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 02:11:00+08:00",
+        "formatted": "2025年07月25日 02:11",
+        "relative": "13小时前",
+        "is_fresh": true,
+        "freshness_score": 0.7
+      },
+      "beijing_time": "2025-07-25 02:11:00+08:00",
+      "ai_translation": {
+        "translated_title": "乐高新款Game Boy套装配备可互换的游戏卡带和游戏画面屏",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "乐高Game Boy（型号72046）是一款包含421块积木的套装，几乎与任天堂原始掌上游戏机按1:1比例复刻。尽管积木数量较少，但搭建..."
+      },
+      "localized_summary": {
+        "title": "Lego's new Game Boy set comes with swappable cartridges and gameplay screens",
+        "description": "The Lego Game Boy (model 72046) is a 421-piece kit that's a near 1:1 scale replica of Nintendo's original handheld. Despite the low piece count, the build...",
+        "category": "游戏资讯",
+        "source": "TechSpot",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这标志着任天堂经典游戏系统的进一步数字化和玩具化，拓宽了其品牌影响力。\n2. **技术或商业层面**：Lego通过与任天堂的合作，利用其强大的品牌和分销网络，进一步丰富了其产品线，吸引更广泛的消费者群体。\n3. **行业或用户意义**：此举不仅为Lego增加了新的市场机会，也为任天堂提供了新的营销渠道，同时满足了怀旧玩家和年轻消费者的双重需求。\n4. **未来发展趋势预测**：预计未来会有更多跨界合作，将经典游戏系统和现代玩具结合，进一步推动游戏和玩具行业的融合创新。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:38:27",
+        "word_count": 250,
+        "error": null
+      }
+    },
+    {
+      "id": "9558343e2e02",
+      "title": "Nintendo And LEGO Team Up On A 421-Block Game Boy Set And It's Up For Preorder",
+      "description": "Nintendo's classic Game Boy is getting the LEGO treatment, chock full of awesome details.",
+      "content": "Nostalgia is big in the gaming space lately, with numerous companies revisiting back catalogs to remake classic titles or cook up impossibly thin devices for retro gaming on the go. Nintendo is looking to cash in on its own storied history, going bac... [1328 chars]",
+      "url": "https://hothardware.com/news/nintendo-lego-game-boy-set-preorder",
+      "image": "https://images.hothardware.com/contentimages/newsitem/68200/content/game-boy-lego-set-hero.jpg",
+      "publishedAt": "2025-07-24T18:10:00Z",
+      "source": {
+        "id": "047d6e639890c69a677fd83c37dac5c2",
+        "name": "Hot Hardware",
+        "url": "https://hothardware.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-25 02:10:00+08:00",
+        "formatted": "2025年07月25日 02:10",
+        "relative": "13小时前",
+        "is_fresh": true,
+        "freshness_score": 0.7
+      },
+      "beijing_time": "2025-07-25 02:10:00+08:00",
+      "ai_translation": {
+        "translated_title": "任天堂与乐高联手推出一款421块游戏 Boy 集换式套装，现已接受预订",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "任天堂的经典游戏机Game Boy将推出乐高版，细节满满，精彩纷呈。"
+      },
+      "localized_summary": {
+        "title": "Nintendo And LEGO Team Up On A 421-Block Game Boy Set And It's Up For Preorder",
+        "description": "Nintendo's classic Game Boy is getting the LEGO treatment, chock full of awesome details.",
+        "category": "游戏资讯",
+        "source": "Hot Hardware",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这款由Nintendo和LEGO合作的Game Boy积木套装，是对怀旧情怀的一次致敬，满足了玩家的复古需求，也提升了LEGO的品牌形象。\n2. **技术或商业层面的分析**：产品结合了Nintendo的经典游戏机和LEGO的积木玩具，创新性地将游戏机实体化，具有较高的收藏价值和市场潜力。\n3. **对行业或用户的意义**：此举不仅丰富了游戏周边市场，也为玩家提供了新的互动体验，满足了不同年龄段用户的需求。\n4. **未来发展趋势预测**：未来可能会看到更多传统游戏品牌与玩具品牌合作，推出更多结合怀旧与创意的产品，以吸引更广泛的消费者群体。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-25 15:40:58",
+        "word_count": 287,
+        "error": null
+      }
+    }
+  ]
+}

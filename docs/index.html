@@ -3,2667 +3,418 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🤖 AI科技日报 - 中文AI资讯门户</title>
+    <title>🤖 AI科技日报 - 中文智能新闻</title>
     <style>
-        :root {
-            --color-primary: #007AFF;
-            --color-success: #10B981;
-            --color-warning: #F59E0B;
-            --color-error: #EF4444;
-            --bg-primary: #FFFFFF;
-            --bg-secondary: #F2F2F7;
-            --bg-tertiary: #FFFFFF;
-            --text-primary: #000000;
-            --text-secondary: #3C3C43;
-            --text-tertiary: #8E8E93;
-            --spacing-sm: 8px;
-            --spacing-md: 16px;
-            --spacing-lg: 24px;
-            --radius-small: 8px;
-            --radius-medium: 12px;
-            --radius-large: 16px;
-            --shadow-light: 0 2px 8px rgba(0, 0, 0, 0.05);
-            --shadow-medium: 0 4px 16px rgba(0, 0, 0, 0.1);
-        }
-        
-        [data-theme="dark"] {
-            --color-primary: #0A84FF;
-            --bg-primary: #000000;
-            --bg-secondary: #1C1C1E;
-            --bg-tertiary: #2C2C2E;
-            --text-primary: #FFFFFF;
-            --text-secondary: #EBEBF5;
-            --text-tertiary: #8E8E93;
-            --shadow-light: 0 2px 8px rgba(255, 255, 255, 0.05);
-            --shadow-medium: 0 4px 16px rgba(255, 255, 255, 0.1);
-        }
-        
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-            background-color: var(--bg-secondary);
-            color: var(--text-primary);
+            font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
             line-height: 1.6;
-            transition: all 0.3s ease;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
         }
-        
-        .container { max-width: 1200px; margin: 0 auto; padding: 0 var(--spacing-md); }
-        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+        }
         .header {
-            background-color: var(--bg-primary);
-            padding: var(--spacing-lg) 0;
             text-align: center;
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            box-shadow: var(--shadow-light);
+            margin-bottom: 30px;
+            border-bottom: 2px solid #007AFF;
+            padding-bottom: 20px;
         }
-        
-        .theme-toggle {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background: var(--bg-secondary);
-            border: none;
-            border-radius: 20px;
-            padding: 8px 16px;
-            color: var(--text-primary);
-            cursor: pointer;
-            z-index: 1000;
+        .update-time {
+            color: #666;
             font-size: 14px;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            box-shadow: var(--shadow-light);
+            margin-top: 10px;
         }
-        
-        @media (max-width: 768px) {
-            .theme-toggle {
-                padding: 8px;
-                border-radius: 50%;
-                width: 40px;
-                height: 40px;
-                justify-content: center;
-            }
-            
-            .theme-toggle .theme-text {
-                display: none;
-            }
+        .news-item {
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            background: #fafafa;
         }
-        
-        .header h1 {
-            font-size: 2rem;
-            font-weight: 700;
-            margin-bottom: var(--spacing-sm);
-            color: var(--text-primary);
-        }
-        
-        .header-subtitle {
-            color: var(--text-secondary);
-            font-size: 1rem;
-        }
-        
-        .personal-info {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            text-align: center;
-            padding: var(--spacing-md);
-            margin: var(--spacing-lg) 0;
-            border-radius: var(--radius-large);
-        }
-        
-        .tabs {
-            background-color: var(--bg-primary);
-            padding: var(--spacing-md) 0;
-            overflow-x: auto;
-            white-space: nowrap;
-            box-shadow: var(--shadow-light);
-        }
-        
-        .tab-button {
-            display: inline-flex;
-            align-items: center;
-            gap: var(--spacing-sm);
-            padding: var(--spacing-sm) var(--spacing-md);
-            margin-right: var(--spacing-sm);
-            border: none;
-            border-radius: var(--radius-medium);
-            background-color: var(--bg-secondary);
-            color: var(--text-secondary);
-            cursor: pointer;
-            font-size: 0.875rem;
-            font-weight: 500;
-            transition: all 0.2s ease;
-            white-space: nowrap;
-        }
-        
-        .tab-button.active {
-            background-color: var(--color-primary);
-            color: white;
-        }
-        
-        .tab-count {
-            background-color: rgba(255, 255, 255, 0.2);
-            color: currentColor;
-            padding: 2px 6px;
-            border-radius: 10px;
-            font-size: 0.75rem;
-        }
-        
-        .content-area { padding: var(--spacing-lg) 0; }
-        
-        .news-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-            gap: var(--spacing-lg);
-        }
-        
-        .news-card {
-            background-color: var(--bg-tertiary);
-            border-radius: var(--radius-large);
-            box-shadow: var(--shadow-light);
-            transition: all 0.3s ease;
-            cursor: pointer;
-            overflow: hidden;
-            position: relative;
-        }
-        
-        .news-card:hover {
-            transform: translateY(-2px);
-            box-shadow: var(--shadow-medium);
-        }
-        
-        .news-card.hidden { display: none; }
-        
-        .importance-stars {
-            position: absolute;
-            top: var(--spacing-sm);
-            right: var(--spacing-sm);
-            display: flex;
-            gap: 2px;
-        }
-        
-        .star {
-            color: #FFD700;
-            font-size: 0.75rem;
-        }
-        
-        .card-header { padding: var(--spacing-md); }
-        
-        .category-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: var(--spacing-sm);
-            padding: var(--spacing-sm);
-            border-radius: var(--radius-medium);
-            font-size: 0.75rem;
-            font-weight: 600;
-            margin-bottom: var(--spacing-md);
-        }
-        
         .news-title {
-            font-size: 1.125rem;
-            font-weight: 600;
-            line-height: 1.4;
-            margin-bottom: var(--spacing-sm);
-            color: var(--text-primary);
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
         }
-        
-        .news-description {
-            color: var(--text-secondary);
-            font-size: 0.875rem;
-            line-height: 1.5;
-            margin-bottom: var(--spacing-md);
-        }
-        
-        .card-footer {
-            padding: 0 var(--spacing-md) var(--spacing-md);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        
         .news-meta {
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 10px;
         }
-        
-        .source, .publish-date {
-            font-size: 0.8125rem;
-            color: var(--text-tertiary);
+        .news-description {
+            color: #555;
+            margin-bottom: 15px;
         }
-        
-        .read-more {
-            background-color: var(--color-primary);
+        .ai-commentary {
+            background: #e8f4fd;
+            border-left: 4px solid #007AFF;
+            padding: 15px;
+            margin-top: 15px;
+            border-radius: 4px;
+        }
+        .freshness-score {
+            display: inline-block;
+            background: #10B981;
             color: white;
-            padding: var(--spacing-sm) var(--spacing-md);
-            border-radius: var(--radius-medium);
-            text-decoration: none;
-            font-size: 0.875rem;
-            font-weight: 600;
-            transition: opacity 0.2s ease;
-        }
-        
-        @media (max-width: 768px) {
-            .news-grid {
-                grid-template-columns: 1fr;
-                gap: var(--spacing-md);
-            }
-            
-            .container { padding: 0 var(--spacing-sm); }
-            
-            .header h1 { font-size: 1.5rem; }
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
         }
     </style>
 </head>
 <body>
-    <button class="theme-toggle" onclick="toggleTheme()">
-        <span class="theme-icon">🌙</span>
-        <span class="theme-text">夜间模式</span>
-    </button>
-    
-    <div class="header">
-        <div class="container">
+    <div class="container">
+        <div class="header">
             <h1>🤖 AI科技日报</h1>
-            <p class="header-subtitle">2025年07月25日 · 人工智能前沿资讯</p>
+            <p>智能翻译 · 中文本地化 · 实时更新</p>
+            <div class="update-time">最后更新：2025年07月25日 16:05</div>
         </div>
-    </div>
-    
-    <div class="container">
-        <div class="personal-info">
-            <div>👨‍💻 个人AI资讯整理 | 专注前沿技术分析</div>
-            <div style="margin-top: 8px;">💬 AI交流群 · 欢迎加入：forxy9</div>
-        </div>
-    </div>
-    
-    <div class="tabs">
-        <div class="container">
-        <button class="tab-button active" data-category="all">
-            <span class="tab-icon">📱</span>
-            <span class="tab-text">全部</span>
-            <span class="tab-count">116</span>
-        </button>
-        <button class="tab-button" data-category="AI科技">
-            <span class="tab-icon">🤖</span>
-            <span class="tab-text">AI科技</span>
-            <span class="tab-count">28</span>
-        </button>
-        <button class="tab-button" data-category="经济金融">
-            <span class="tab-icon">💰</span>
-            <span class="tab-text">经济金融</span>
-            <span class="tab-count">29</span>
-        </button>
-        <button class="tab-button" data-category="Xbox">
-            <span class="tab-icon">🎯</span>
-            <span class="tab-text">Xbox</span>
-            <span class="tab-count">1</span>
-        </button>
-        <button class="tab-button" data-category="PlayStation">
-            <span class="tab-icon">🎮</span>
-            <span class="tab-text">PlayStation</span>
-            <span class="tab-count">5</span>
-        </button>
-        <button class="tab-button" data-category="OpenAI">
-            <span class="tab-icon">🤖</span>
-            <span class="tab-text">OpenAI</span>
-            <span class="tab-count">4</span>
-        </button>
-        <button class="tab-button" data-category="游戏科技">
-            <span class="tab-icon">🎮</span>
-            <span class="tab-text">游戏科技</span>
-            <span class="tab-count">21</span>
-        </button>
-        <button class="tab-button" data-category="科技创新">
-            <span class="tab-icon">💻</span>
-            <span class="tab-text">科技创新</span>
-            <span class="tab-count">15</span>
-        </button>
-        <button class="tab-button" data-category="任天堂">
-            <span class="tab-icon">🎲</span>
-            <span class="tab-text">任天堂</span>
-            <span class="tab-count">3</span>
-        </button>
-        <button class="tab-button" data-category="Meta">
-            <span class="tab-icon">🌐</span>
-            <span class="tab-text">Meta</span>
-            <span class="tab-count">1</span>
-        </button>
-        <button class="tab-button" data-category="Steam">
-            <span class="tab-icon">🚂</span>
-            <span class="tab-text">Steam</span>
-            <span class="tab-count">1</span>
-        </button>
-        <button class="tab-button" data-category="谷歌AI">
-            <span class="tab-icon">🔍</span>
-            <span class="tab-text">谷歌AI</span>
-            <span class="tab-count">1</span>
-        </button>
-        <button class="tab-button" data-category="谷歌">
-            <span class="tab-icon">🔍</span>
-            <span class="tab-text">谷歌</span>
-            <span class="tab-count">2</span>
-        </button>
-        <button class="tab-button" data-category="苹果">
-            <span class="tab-icon">🍎</span>
-            <span class="tab-text">苹果</span>
-            <span class="tab-count">2</span>
-        </button>
-        <button class="tab-button" data-category="金融科技">
-            <span class="tab-icon">💳</span>
-            <span class="tab-text">金融科技</span>
-            <span class="tab-count">2</span>
-        </button>
-        <button class="tab-button" data-category="股市">
-            <span class="tab-icon">📈</span>
-            <span class="tab-text">股市</span>
-            <span class="tab-count">1</span>
-        </button>
-        </div>
-    </div>
-    
-    <div class="container">
-        <div class="content-area">
-            <div class="news-grid">
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/a5359ba31e99.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">人工智能设计蛋白质助力个性化癌症治疗</h2>
-                <p class="news-description">大规模个性化癌症治疗正逐渐成为现实，研究人员开发出一种人工智能平台，能够定制蛋白质成分，并武装患者的免疫细胞以对抗癌症。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 News-Medical.net</div>
-                    <div class="publish-date">🕒 2025-07-24 19:11</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/082379dea5ad.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">Love Island参赛者为何相似？节目海选过程中的秘密工具揭示</h2>
-                <p class="news-description">ITV高层承认，在真人秀节目《爱情岛》的选角过程中使用了人工智能技术。该恋爱真人秀的粉丝们得知这一消息后表示惊讶。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Irish Sun</div>
-                    <div class="publish-date">🕒 2025-07-24 19:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/df4e11e9628f.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">英伟达芯片再次流入中国——对人工智能 adoption trends 的影响</h2>
-                <p class="news-description">美国政府刚刚修改了相关规定，允许英伟达向中国出口H2O芯片。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Motley Fool Australia</div>
-                    <div class="publish-date">🕒 2025-07-24 19:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/d110c024247d.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">特朗普支持马斯克 特斯拉股价暴跌</h2>
-                <p class="news-description">美国总统唐纳德·特朗普通过社交媒体支持埃隆·马斯克的汽车公司，这一发展令人惊讶，因为两人之间存在着激烈的公开争端。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 CP24 Toronto</div>
-                    <div class="publish-date">🕒 2025-07-24 18:25</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="Xbox" 
-                 onclick="window.location.href='news/b9f501c7dd01.html'">
-            <div class="importance-stars"><span class="star">★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #107C10; color: white;">
-                    <span>🎯</span>
-                    <span>Xbox</span>
-                </div>
-                <h2 class="news-title">Meta Quest带来经典Xbox 360功能的现代升级</h2>
-                <p class="news-description">在游戏中播放自己喜欢的音乐，这无疑是自切片面包以来最好的事情。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Android Central</div>
-                    <div class="publish-date">🕒 2025-07-24 18:06</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/f3cabefa3d27.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">财政部预计预算中增税可增收5300万欧元</h2>
-                <p class="news-description">单次车辆注册税上调可能带来2800万欧元的收入，税务策略小组建议</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Irish Times</div>
-                    <div class="publish-date">🕒 2025-07-24 17:47</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/075321bae29d.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">华尔街股市接近纪录高位</h2>
-                <p class="news-description">华尔街在周四接近历史高位，尽管美国股市表面平静，但其下方仍有一些动荡的动态。谷歌股价上涨，而特斯拉则下跌，这背后是美国大型公司一系列盈利报告的影响。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 CP24 Toronto</div>
-                    <div class="publish-date">🕒 2025-07-24 17:40</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/f305b2c040d0.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">财政部澄清酒店增值税减免成本将低于部长预期的10亿欧元</h2>
-                <p class="news-description">政府内部对降低酒店业增值税税率一事出现了分歧。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TheJournal.ie</div>
-                    <div class="publish-date">🕒 2025-07-24 17:37</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/f92e6b8076fd.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">Radeon人工智能Pro R9700 GPU 7月23日发布 合作卡价1240-1277美元</h2>
-                <p class="news-description">预计来自ASRock、Asus、Gigabyte、Sapphire及其他厂商的配套显卡将在7月23日上市</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="publish-date">🕒 2025-07-24 17:32</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/8a1c3c3798a6.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">加拿大三巨头驱动人工智能革命</h2>
-                <p class="news-description">人工智能的能源消耗预计到2026年将翻一番，这些公司有望从这一增长中受益。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Motley Fool Canada</div>
-                    <div class="publish-date">🕒 2025-07-24 17:29</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/490e139a32b1.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">人工智能模型在不同人群诊断皮肤病时存在偏见</h2>
-                <p class="news-description">上海科技大学助理教授 Wan Zhiyu 领导的国际研究团队近期在《健康数据科学》杂志上发表了突破性研究成果，揭示了包括 ChatGPT-4 和 LLaVA 在内的多模态大型语言模型在从医学图像诊断皮肤疾病时存在的偏见问题。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 News-Medical.net</div>
-                    <div class="publish-date">🕒 2025-07-24 17:24</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/f1275f40fe6b.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">watchOS 26 预览：更细腻的人工智能体验</h2>
-                <p class="news-description">在测试完watchOS 26开发者测试版后，真正的亮点是Smart Stack和Wrist Flick，而非Workout Buddy。苹果人工智能的存在较为隐秘。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Verge</div>
-                    <div class="publish-date">🕒 2025-07-24 17:14</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/c9ad7df0c638.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">特朗普的人工智能计划将剥夺AI的智能与人性——没有人愿意看到</h2>
-                <p class="news-description">人工智能缺乏上下文
-
-人工智能的发展正面临一个关键问题：缺乏有效的上下文理解能力。这不仅限制了其在复杂场景中的应用，还可能导致误解和错误决策。例如，在医疗诊断中，缺乏上下文的理解可能导致错误的治疗方案；在自动驾驶领域，未能理解交通环境的复杂性可能引发安全问题。
-
-为了解决这一问题，研究人员正在探索多种方法，包括增强机器学习模型的上下文理解能力。一种方法是引入更多的训练数据，以覆盖更多样化的场景。另一种方法是开发更复杂的算法，能够更好地处理和分析上下文信息。此外，通过深度学习技术，模型可以学习到更深层次的特征，从而提高其在不同场景下的适应性。
-
-然而，尽管这些方法显示出一定的潜力，但要实现真正意义上的上下文理解，仍面临诸多挑战。首先，数据的多样性和质量直接影响模型的性能。其次，算法的复杂性增加了模型的训练和推理难度。最后，如何将这些技术集成到现有的系统中，以实现无缝的智能化，也是一个亟待解决的问题。
-
-总之，人工智能的上下文理解能力是其未来发展的重要方向。通过不断的技术创新和优化，有望在未来实现更加智能化和人性化的应用，为各行各业带来更大的价值。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="publish-date">🕒 2025-07-24 17:12</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/b3ce0c28a419.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">欧盟称美贸易协议谈判取得进展 15%关税前景可期</h2>
-                <p class="news-description">欧盟认为与美国达成贸易协议“指日可待”，即便在准备针对美国科技和金融企业实施反制关税和限制措施的情况下</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Firstpost</div>
-                    <div class="publish-date">🕒 2025-07-24 17:03</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/5939a6d658f9.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">特朗普支持特斯拉股价下跌后出人意料发声</h2>
-                <p class="news-description">电动汽车制造商的股价并未因马斯克警告未来可能面临“艰难的季度”而得到提振，社交媒体上的帖子也未能提供帮助。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Globe and Mail</div>
-                    <div class="publish-date">🕒 2025-07-24 16:52</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/b9ce4a37f432.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">Love Island采用智能算法提升用户体验</h2>
-                <p class="news-description">热门的恋爱真人秀节目确认使用人工智能来帮助整个 Casting 过程。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Manchester Evening News</div>
-                    <div class="publish-date">🕒 2025-07-24 16:32</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/5d368b3578b2.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">马斯克称Vine将以“人工智能形式”回归</h2>
-                <p class="news-description">埃隆·马斯克的社交媒体平台X将重新推出流行的短视频分享平台Vine，以“人工智能”形式回归，距离该应用停止运营已有近九年时间。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 CP24 Toronto</div>
-                    <div class="publish-date">🕒 2025-07-24 16:30</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="PlayStation" 
-                 onclick="window.location.href='news/4579bf8caeb5.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #003087; color: white;">
-                    <span>🎮</span>
-                    <span>PlayStation</span>
-                </div>
-                <h2 class="news-title">Xbox或将推出更多《星界公民》和《地面2》等PS5与Switch游戏</h2>
-                <p class="news-description">微软 reportedly planning to 推出更多 Xbox 自研游戏，面向 PlayStation 5 和 任天堂 Switch 2，可能包括《星界公民》和《地面2》等游戏的移植版本。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 AltChar</div>
-                    <div class="publish-date">🕒 2025-07-24 16:29</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="OpenAI" 
-                 onclick="window.location.href='news/bd00e9627ebe.html'">
-            <div class="importance-stars"><span class="star">★★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #34C759; color: white;">
-                    <span>🤖</span>
-                    <span>OpenAI</span>
-                </div>
-                <h2 class="news-title">卢卡·瓜达尼诺执导的OpenAI电影中，伊克·巴林霍茨饰演埃隆·马斯克</h2>
-                <p class="news-description">艾美奖提名演员伊克·巴林霍茨将出演OpenAI联合创始人，在由卢卡·瓜达尼诺执导的电影《人工智能》中饰演埃隆·马斯克。据报道，该电影背景设定在萨姆·阿尔特曼被解雇后重新被聘为CEO期间。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Guardian</div>
-                    <div class="publish-date">🕒 2025-07-24 16:28</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="OpenAI" 
-                 onclick="window.location.href='news/4f1a4956ff56.html'">
-            <div class="importance-stars"><span class="star">★★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #34C759; color: white;">
-                    <span>🤖</span>
-                    <span>OpenAI</span>
-                </div>
-                <h2 class="news-title">OpenAI计划于8月推出GPT-5</h2>
-                <p class="news-description">OpenAI 正在准备推出其新一代人工智能模型。GPT-5 预计将于今年8月初发布。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Verge</div>
-                    <div class="publish-date">🕒 2025-07-24 16:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/0b9a4b24d19f.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">印度民航局对靛蓝航空发出多份整改通知书因自愿披露的问题</h2>
-                <p class="news-description">自6月12日在艾哈迈达巴德坠毁导致260人遇难（包括机上241人和地面19人）的AI 171航班事故发生后，航空公司显然一直受到印度航空管理局（DGCA）的审查。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 15:50</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="PlayStation" 
-                 onclick="window.location.href='news/8af1d9fa841c.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #003087; color: white;">
-                    <span>🎮</span>
-                    <span>PlayStation</span>
-                </div>
-                <h2 class="news-title">PS5版露营冒险游戏即将上线</h2>
-                <p class="news-description">Square Glade Games备受期待的露营车冒险游戏《Outbound》宣布推出PlayStation 5版本，并公布了2026年初的发售窗口。
-
-游戏的画面效果细腻逼真，操作手感流畅自然，为玩家带来沉浸式的冒险体验。玩家将驾驶复古露营车穿越各种风景如画的地区，享受丰富的故事情节和趣味性的挑战。
-
-Square Glade Games还透露，《Outbound》将支持PlayStation 5的最新硬件配置，充分发挥主机的强大性能。游戏的兼容性良好，确保玩家能够流畅地体验游戏的每一个细节。
-
-《Outbound》的多人模式和竞技元素将为玩家带来更多的互动乐趣。玩家可以邀请朋友一起探索未知的冒险，或者与其他玩家在线竞技，争夺排行榜的高位。
-
-Square Glade Games表示，他们将继续为《Outbound》推出更新和扩展包，以保持游戏的新鲜感和可玩性。玩家可以期待更多有趣的内容和挑战，让游戏体验更加丰富。
-
-《Outbound》的发布标志着Square Glade Games在游戏市场上的又一重要里程碑。游戏的市场表现备受关注，Square Glade Games希望通过这款游戏吸引更多的玩家，进一步巩固其在游戏行业的地位。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 AltChar</div>
-                    <div class="publish-date">🕒 2025-07-24 15:46</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/bde002e54ed1.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">买入并持有：银行股投资机会</h2>
-                <p class="news-description">TD股票在过去几年中表现较为坎坷，但股价已回升至52周高位，未来走势如何？</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Motley Fool Canada</div>
-                    <div class="publish-date">🕒 2025-07-24 15:45</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/b5ee7705f7c7.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">TSX综合指数周四上午上涨 美股涨跌不一</h2>
-                <p class="news-description">Toronto — 在周四上午的交易中，能源股的上涨帮助加拿大主要股指小幅上涨。S&P/TSX综合指数上涨4.21点，报27,420.62点，而美国市场则呈现涨跌不一的态势。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 ElliotLakeToday.com</div>
-                    <div class="publish-date">🕒 2025-07-24 15:28</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/cc56f3f8fd6f.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">TSX综合指数周四上午上涨 美股涨跌不一</h2>
-                <p class="news-description">多伦多——在周四下午早些时候的交易中，能源股上涨帮助加拿大主要股指小幅上涨。与此同时，美国市场表现不一。S&P/TSX综合指数上涨4.21点，报27,420.62点。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Vancouver Is Awesome</div>
-                    <div class="publish-date">🕒 2025-07-24 15:28</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/9c2393976cf1.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">TSX综合指数周四上午上涨 美股涨跌不一</h2>
-                <p class="news-description">Toronto — 在周四上午的交易中，能源股的上涨帮助加拿大主要股指小幅上涨。同时，美国市场表现不一。S&P/TSX综合指数上涨4.21点，报27,420.62点。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 SooToday</div>
-                    <div class="publish-date">🕒 2025-07-24 15:28</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/58c1ae55bba4.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">TSX综合指数周四上午上涨 美股涨跌不一</h2>
-                <p class="news-description">Toronto — 在周四上午的交易中，能源股上涨帮助加拿大主要股指小幅上涨。S&P/TSX综合指数上涨4.21点，报27,420.62点，而美国市场表现参差不齐。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 BradfordToday</div>
-                    <div class="publish-date">🕒 2025-07-24 15:28</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/c7682f1e9990.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">TSX综合指数周四上午上涨 美股涨跌不一</h2>
-                <p class="news-description">Toronto — 在周四上午的交易中，能源股的上涨帮助加拿大主要股指小幅上涨。S&P/TSX综合指数上涨4.21点，报27,420.62点，而美国市场则呈现涨跌不一的态势。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 GuelphToday</div>
-                    <div class="publish-date">🕒 2025-07-24 15:28</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/06c69bafe522.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">Secretlab最新可调脚托震撼登场，兼容任何Secretlab游戏椅</h2>
-                <p class="news-description">Secretlab 正式发布了其新的 OTT 可调节脚托，专门设计用于桌边休闲，并可与任何 Secretlab 椅子搭配使用。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="publish-date">🕒 2025-07-24 15:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/8ddd40d6b17d.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">乐高Game Boy模型：掌中完美体验</h2>
-                <p class="news-description">为了以最时尚的方式开启2025年圣地亚哥动漫展（SDCC），乐高（Lego）发布了其最新的任天堂（Nintendo）合作款，同时还推出了《邪恶：为善》系列的新套装以及一款令人惊艳的新阿卡姆疯人院（Arkham Asylum）模型。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Gizmodo</div>
-                    <div class="publish-date">🕒 2025-07-24 14:30</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/45de804a1aeb.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">Switch 2震撼登场</h2>
-                <p class="news-description">预计微软将把更多游戏移植到其他主机，如任天堂Switch 2和PS5，分析师表示“我们已经远远超越了”平台跳票的现象。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Wccftech</div>
-                    <div class="publish-date">🕒 2025-07-24 14:30</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/bfbc27bbb8b7.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">RTX 5060游戏本惊爆400美元优惠</h2>
-                <p class="news-description">如果你正在寻找一款不会让你的银行账户压力山大的RTX 5060 游戏笔记本电脑，现在在百思买，Alienware 16X Aurora 正在享受400美元的优惠。
-
-这款游戏笔记本电脑提供了出色的图形效果和流畅的操作体验，让玩家能够沉浸在游戏世界中。Alienware 16X Aurora 配备了强大的硬件配置，包括RTX 5060 显卡，确保了卓越的游戏性能。此外，它还支持最新的游戏更新和扩展包，为玩家提供了丰富的游戏体验。
-
-目前，Alienware 16X Aurora 在市场上的表现非常抢眼，销量数据持续增长，得到了广大玩家的高度评价。用户反馈显示，这款笔记本电脑不仅在单人游戏模式下表现出色，在多人竞技模式下也同样表现出色，为玩家提供了高度的可玩性和社交性。
-
-总之，Alienware 16X Aurora 是一款值得购买的游戏笔记本电脑，无论是从游戏体验、硬件性能还是市场表现来看，都是一款极具吸引力的选择。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Tom's Guide</div>
-                    <div class="publish-date">🕒 2025-07-24 14:29</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/55ea38b39d34.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">Maingear 揭晓复古游戏PC梦想之作 将远超Windows 95经典游戏</h2>
-                <p class="news-description">The Maingear Retro95 是一款 sleeper-style 游戏 PC，它融合了90年代机箱的米白色外观，同时搭载了强大的 RTX 5080 等核心组件。这款机器不仅在视觉上让人回想起那个复古的时代，还在性能上提供了前所未有的体验。无论是画面效果还是操作感受，Retro95 都能带给玩家沉浸式的体验。它的发布标志着 Maingear 在复古游戏主机领域的又一力作，同时也展示了其在硬件配置和性能参数上的卓越表现。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 GamesRadar+</div>
-                    <div class="publish-date">🕒 2025-07-24 14:26</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/90d157b29781.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">Switch 2 成美国历史上销售最快的主机 游戏创历史新高</h2>
-                <p class="news-description">Switch 2 继续打破纪录，其中包括一项保持了十多年之久的纪录。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Hot Hardware</div>
-                    <div class="publish-date">🕒 2025-07-24 14:23</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/d35d7f776162.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">大金刚香蕉乐：任天堂最新3D平台游戏 instant classic 瞬间经典</h2>
-                <p class="news-description">一款 killer 游戏机制、一位愉快的伙伴和一个充满活力的世界让《Donkey Kong Bananza》成为一款即时经典。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Engadget</div>
-                    <div class="publish-date">🕒 2025-07-24 14:15</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/518d683868da.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">今日最佳游戏主机与PC优惠 - 新iPad M3立减100美元 RTX 5080游戏PC降价400美元附赠游戏显示器</h2>
-                <p class="news-description">今天的精选产品令人惊叹——M3 iPad Air 最高可省110美元，M2 Max Mac Studio 的价格比M4 Pro Mac mini 还要便宜，一台配备RTX 5080显卡的大型游戏PC最高可省400美元，还有更多优惠。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Tom's Guide</div>
-                    <div class="publish-date">🕒 2025-07-24 14:07</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/f53f438095f0.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">微软SharePoint攻击受害者增至400家组织，包括美国核能机构</h2>
-                <p class="news-description">SharePoint 漏洞现在被用于勒索软件
-
-SharePoint 漏洞现在被用于勒索软件攻击。安全研究人员发现，攻击者利用这些漏洞入侵企业网络，并将受影响的 SharePoint 站点作为勒索软件的传播媒介。攻击者首先通过钓鱼邮件或恶意软件感染目标系统，一旦获得访问权限，他们就会利用 SharePoint 的漏洞在受感染的网络中横向移动，最终锁定关键文件并要求支付赎金以恢复访问。
-
-这一发现凸显了企业需要加强其 SharePoint 环境的安全措施，包括定期更新和打补丁、实施严格的访问控制以及进行定期的安全审计。此外，提高员工的安全意识也是防范此类攻击的关键。企业应定期对员工进行安全培训，以识别潜在的威胁并采取适当的预防措施。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="publish-date">🕒 2025-07-24 13:38</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="OpenAI" 
-                 onclick="window.location.href='news/726e579b56e3.html'">
-            <div class="importance-stars"><span class="star">★★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #34C759; color: white;">
-                    <span>🤖</span>
-                    <span>OpenAI</span>
-                </div>
-                <h2 class="news-title">萨姆·阿尔特曼称“集体决定按照人工智能的方式生活感觉糟糕且危险”OpenAI CEO担忧人工智能主导的未来</h2>
-                <p class="news-description">过度依赖
-
-在人工智能（AI）技术日益普及的今天，过度依赖AI系统所带来的风险和挑战日益凸显。随着机器学习和深度学习算法在各个行业的广泛应用，人们对于AI系统的信任度不断提升，但同时也面临着数据安全、隐私保护以及算法偏见等多重问题。因此，如何在享受AI技术带来的便利的同时，确保系统的可靠性和安全性，成为了一个亟待解决的问题。未来，AI技术的发展不仅需要在技术创新上不断突破，还需要在伦理、法律和社会影响等方面进行深入探讨和规范。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="publish-date">🕒 2025-07-24 13:32</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/98cb804581c3.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">斯凯奇无须磨合两款配色凉鞋现打折</h2>
-                <p class="news-description">鞋带采用后交叉设计，中底则配备了减震技术。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Liverpool Echo</div>
-                    <div class="publish-date">🕒 2025-07-24 13:30</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/ed77808d5c20.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">GitHub 发布新工具 Spark：以简单提示构建全栈应用</h2>
-                <p class="news-description">GitHub Spark旨在让开发者通过简单描述自己的想法来构建应用程序，无需编写代码或了解编程知识。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 13:26</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/0ef3e7d35950.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">沃尔玛推出人工智能超级代理以推动电商增长</h2>
-                <p class="news-description">一系列人工智能代理将成为人们与零售商互动的主要方式，该零售商计划在未来五年内使在线销售占总销售额的50%。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Globe and Mail</div>
-                    <div class="publish-date">🕒 2025-07-24 13:20</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/57d9799c9aad.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">如何在代理人工智能时代打造以人为本的用户体验</h2>
-                <p class="news-description">Startek的阿比纳丹·贾恩就如何将人类同理心与人工智能效率相结合以提升客户体验提供了专家建议。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Siliconrepublic.com</div>
-                    <div class="publish-date">🕒 2025-07-24 13:20</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/95bc69793473.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">谷歌人工智能Mode将生成虚拟服装助你选购真实服饰</h2>
-                <p class="news-description">谷歌正在将其在线购物体验的搜索、购物、图片和人工智能模式中注入更多的生成型人工智能。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Verge</div>
-                    <div class="publish-date">🕒 2025-07-24 13:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/4a1a98ec0a0d.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">使用谷歌的虚拟AI试衣功能在线购物 美国用户在搜索中上线</h2>
-                <p class="news-description">加入我们，谷歌，我们去购物吧！</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Android Central</div>
-                    <div class="publish-date">🕒 2025-07-24 13:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="任天堂" 
-                 onclick="window.location.href='news/96a194de1ff3.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E60012; color: white;">
-                    <span>🎲</span>
-                    <span>任天堂</span>
-                </div>
-                <h2 class="news-title">KontrolFreek 推出新 Minecraft 手柄摇杆 包括一款适用于 Nintendo Switch 2 的型号</h2>
-                <p class="news-description">KontrolFreek 推出了新的 Minecraft 手柄摇杆。
-
-这款新品专为 Minecraft 游戏设计，旨在为玩家提供更出色的操控体验。KontrolFreek 在游戏手柄领域一直致力于提升玩家的游戏体验，这次的新产品更是针对 Minecraft 这一全球热门游戏进行了优化。通过改进摇杆的设计和响应速度，KontrolFreek 希望能够帮助玩家在游戏中获得更加流畅和精准的操作。
-
-KontrolFreek 的产品经理表示：“我们非常兴奋能够推出这款专门为 Minecraft 设计的手柄。通过深入研究玩家的需求和反馈，我们对摇杆进行了多项改进，以确保玩家能够享受到最佳的游戏体验。”
-
-这款新推出的 Minecraft 手柄摇杆预计将在下个月的 E3 游戏展上首次亮相，并计划在随后的几个月内正式上市。玩家可以期待这款产品为 Minecraft 游戏带来更加沉浸式的体验。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="publish-date">🕒 2025-07-24 13:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/95bc69793473.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">谷歌人工智能 Mode 将生成虚拟服装以助你购买真实服饰</h2>
-                <p class="news-description">谷歌正在将其在线购物体验中的搜索、购物、图片和人工智能模式中注入更多生成式人工智能技术。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Verge</div>
-                    <div class="publish-date">🕒 2025-07-24 13:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/4a1a98ec0a0d.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">使用谷歌的虚拟人工智能‘试穿’购物搜索推出美国用户</h2>
-                <p class="news-description">加入我们，谷歌，我们去购物吧！</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Android Central</div>
-                    <div class="publish-date">🕒 2025-07-24 13:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="Meta" 
-                 onclick="window.location.href='news/87c1da915840.html'">
-            <div class="importance-stars"><span class="star">★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #1877F2; color: white;">
-                    <span>🌐</span>
-                    <span>Meta</span>
-                </div>
-                <h2 class="news-title">Meta正在研发一款腕带产品，可通过手势控制设备</h2>
-                <p class="news-description">科幻手环成为现实？
-
-这款曾经只存在于科幻小说中的手环，如今已成为现实。这款手环不仅具备了科幻作品中所描述的诸多功能，还带来了前所未有的用户体验。它不仅能够监测健康数据，还能通过先进的传感器和人工智能技术，提供个性化的健康建议和预警。此外，这款手环还集成了虚拟现实功能，用户可以通过它进行沉浸式的游戏体验或远程会议。这一技术突破标志着可穿戴设备行业迈入了一个全新的时代，预示着未来科技将如何改变我们的生活方式。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Mashable India</div>
-                    <div class="publish-date">🕒 2025-07-24 12:53</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/334caab5d1cb.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">城市办公室REIT将以近11亿美元交易被 Elliott 投资关联公司私有化</h2>
-                <p class="news-description">MCME Carell 将收购其尚未持有的所有流通股，这比股票最近一次收盘价高出26%的溢价。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Globe and Mail</div>
-                    <div class="publish-date">🕒 2025-07-24 12:44</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/07b9b2d1babc.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">开源人工智能工具在医疗影像报告中媲美商业系统</h2>
-                <p class="news-description">一项来自科罗拉多大学安舒茨医学分校的新研究显示，免费开源的人工智能工具能够帮助医生报告医学影像，其效果与更昂贵的商业系统相当，同时不会对患者隐私造成风险。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 News-Medical.net</div>
-                    <div class="publish-date">🕒 2025-07-24 12:40</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/6c57cbdaba48.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">EaseMyTrip联合创始人普拉什ant·皮提誓言一年内减少班加罗尔30%的交通拥堵</h2>
-                <p class="news-description">自过去10天以来，班加罗尔交通警察局、布拉马普尔·班加罗尔大市议会、城市警察、谷歌印度分公司以及印度科学研究所的研究人员举行了一系列高层会议，讨论交通拥堵缓解计划。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 12:31</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/1af916d24dbd.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">谷歌以Sarvam AI、Soket AI、Gnani AI助力印度人工智能使命</h2>
-                <p class="news-description">谷歌坚定地将目光投向印度市场。它正着手帮助印度初创企业开发自己的基础模型。在谷歌 I/O India 2025 上，谷歌 DeepMind 高级总监曼尼什·古普塔宣布，三家初创企业——萨尔万姆、Soket 人工智能 和 Gnani 人工智能 正基于 Gemma 家族模型构建本地解决方案。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Analytics India Magazine</div>
-                    <div class="publish-date">🕒 2025-07-24 12:23</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/1af916d24dbd.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">谷歌以Sarvam AI、Socket AI、Gnani AI助力印度人工智能使命</h2>
-                <p class="news-description">谷歌坚定地将目光投向印度市场。它正在助力印度初创企业开发自己的基础模型。在谷歌 I/O India 2025 上，谷歌 DeepMind 高级总监曼尼什·古普塔宣布，三家初创企业——萨尔万、Soket 人工智能 和 Gnani 人工智能——正在基于 Gemma 家族模型构建本地解决方案。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Analytics India Magazine</div>
-                    <div class="publish-date">🕒 2025-07-24 12:23</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/389c3dab07c4.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">苹果粉丝抢购149英镑 iPhone 大促销</h2>
-                <p class="news-description">该网站大幅降低了多款翻新iPhone型号的价格。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Liverpool Echo</div>
-                    <div class="publish-date">🕒 2025-07-24 12:16</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/8fc347be30a4.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">印度航空艾哈迈达巴德空难后112名飞行员在几天内请了假：民航部长告知议会</h2>
-                <p class="news-description">6月12日，从艾哈迈达巴德起飞前往伦敦的印度航空AI171航班，一架波音787-8飞机在起飞后不久坠毁。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 12:13</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/03efe3a3e8d8.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">Ahmedabad空难致印度航空112名飞行员在4天内请病假</h2>
-                <p class="news-description">Air India 报告称，在 6 月 12 日发生 tragic crash 人工智能-171 事件后，其飞行员请病假的数量略有增加。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Firstpost</div>
-                    <div class="publish-date">🕒 2025-07-24 12:04</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/31a568b54456.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">微软宣称Windows 11 24H2是最可靠的Windows版本 但仍有PC gamers持不同意见</h2>
-                <p class="news-description">Has 版本 24H2 终于迎来转机？
-
-在经历了多个版本的迭代后，版本 24H2 是否终于迎来了转折点？这一版本带来了多项技术突破和产品创新，有望对行业产生深远影响。通过此次升级，产品不仅在性能上实现了显著提升，还在用户体验方面做出了重要改进。业界专家认为，这一版本的发布标志着行业变革的开始。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="publish-date">🕒 2025-07-24 11:49</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/859510814c62.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">前财政部长艾杰·塞斯担任IRDAI主席三年</h2>
-                <p class="news-description">Ajay Seth的任命出任IRDAI主席距Debasish Panda完成其任期并于今年3月离任已有近四个月的时间。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 News18</div>
-                    <div class="publish-date">🕒 2025-07-24 11:49</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/ac3fef1d4999.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">谷歌人工智能研究发现点击网站次数下降7%</h2>
-                <p class="news-description">谷歌人工智能概览页面内显示的网站链接的点击率也非常低，仅为1%。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 11:46</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/b774d53b06e3.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">bajaj金融一季度财报：净利润增长21.8%至476.53亿人民币，营收上升21.3%</h2>
-                <p class="news-description">巴贾伊金融第一季度财报：其营业收入同比增长21.3%，达到1952.39亿印度卢比，相比之下，去年同期为1610.01亿印度卢比。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 News18</div>
-                    <div class="publish-date">🕒 2025-07-24 11:35</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/7e85afa5b6b4.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">印度人均收入最高的前十大州</h2>
-                <p class="news-description">根据财政副部长潘卡杰·乔杜里在印度议会下院提交的报告，按不变价格计算，2014-15年度的人均国民净收入（NNI）为72,805印度 Rupee（卢比）。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 11:31</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/01241562f9cd.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">铁路中心挽救协议宣布避免关闭</h2>
-                <p class="news-description">Dudley区财政主管表示，购买Very Light Rail国家创新中心是一项投资节省兼并。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Birmingham Live</div>
-                    <div class="publish-date">🕒 2025-07-24 11:28</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/82515fa8dd9c.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">Chipotle股价下跌10%因外出就餐需求疲软</h2>
-                <p class="news-description">Chipotle Mexican Grill 的股价在周四盘前交易中下跌了约 10%，这主要是由于外出就餐消费疲软导致季度销售额降幅超出预期，使得这家碗和玉米卷生产商下调了年度销售目标。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 CP24 Toronto</div>
-                    <div class="publish-date">🕒 2025-07-24 11:25</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/d1c5566ce77c.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">马里奥香蕉大冒险：Switch 2玩家将疯狂不已</h2>
-                <p class="news-description">《大金刚》在任天堂Switch 2上推出全新单人冒险模式！值得玩吗？这是我们对《大金刚·丰收》的评测！</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 XDA Developers</div>
-                    <div class="publish-date">🕒 2025-07-24 11:01</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/eb64652f464b.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">SIWIQU Switch 2 适配器评测：“一个称职但让我感到不安的Dock站”</h2>
-                <p class="news-description">SIWIQU Switch 2 适配器是一款专为任天堂最新掌上游戏机设计的可更换适配器，但我也担心它存在几处设计缺陷。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 GamesRadar+</div>
-                    <div class="publish-date">🕒 2025-07-24 10:52</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/da04b6d92487.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">中国首款高端游戏GPU利算G100 benchmarks显示性能超越NVIDIA GeForce RTX 4060 略逊RTX 5060</h2>
-                <p class="news-description">中国GPU制造商在过去取得了巨大进展，如今已在消费级GPU市场实现了突破。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Wccftech</div>
-                    <div class="publish-date">🕒 2025-07-24 10:49</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/4d355a7bff0e.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">Alphabet表现亮眼而特斯拉发出警告美股期货涨跌不一</h2>
-                <p class="news-description">美国股市期货在周四波动，这主要是由于谷歌母公司Alphabet和特斯拉发布的财报影响，同时投资者也在关注与关键合作伙伴进行中的贸易协议进展。Alphabet的股价因强劲的投资计划而上涨，而特斯拉则警告前方存在挑战，这对其股价产生了负面影响。贸易谈判、地缘政治紧张局势以及货币政策会议仍是关注焦点。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Devdiscourse</div>
-                    <div class="publish-date">🕒 2025-07-24 10:25</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/29bc299394cf.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">谷歌 Gemini 2.5 将在印度本地处理推送</h2>
-                <p class="news-description">这尤其有助于开发者为受监管的行业（如医疗保健、银行和金融领域）以及公共部门构建应用，因为在这些领域，数据驻留和低延迟处理是至关重要的，该公司补充道。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Analytics India Magazine</div>
-                    <div class="publish-date">🕒 2025-07-24 10:17</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/d8086f2e4c6c.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">伦敦股市上涨 欧美贸易协议 optimism 带来乐观情绪</h2>
-                <p class="news-description">伦敦股市表现强劲，富时100指数创下历史新高，得益于乐观的企业盈利前景和潜在的欧盟与美国贸易谈判。个人护理和医疗保健等行业出现了显著增长，而贵金属价格则有所下跌。BT集团和ITV等公司也见证了股票的显著上涨。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Devdiscourse</div>
-                    <div class="publish-date">🕒 2025-07-24 10:14</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/c748579f9ca1.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">前财政部长阿杰伊·塞斯即将出任新任IRDAI主席</h2>
-                <p class="news-description">来自 Karnataka 班组的 1987 届印度行政服务（IAS）官员 Seth 曾在财政部担任多个关键职务。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 10:13</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/9ca85206482a.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">你的游戏PC未发挥最大潜能，4个迹象告诉你</h2>
-                <p class="news-description">没有人愿意在游戏体验中留下额外的性能潜力。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 XDA Developers</div>
-                    <div class="publish-date">🕒 2025-07-24 10:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/8acad7b5b9e7.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">2025年任天堂Switch最佳游戏阵容</h2>
-                <p class="news-description">任天堂Switch2仅上线几周，但已经积累了大量必玩的游戏。这些是Switch2上最佳的游戏。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Tom's Guide</div>
-                    <div class="publish-date">🕒 2025-07-24 10:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/07de4cab0ef1.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">乐高Game Boy的还原度让我惊艳 但价格出乎意料亲民</h2>
-                <p class="news-description">乐高游戏 Boy 现已开放预购，售价 59.99 美元，它内置了令人惊叹的细节，充分致敬了这款经典的复古游戏掌机。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 GamesRadar+</div>
-                    <div class="publish-date">🕒 2025-07-24 09:59</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="Steam" 
-                 onclick="window.location.href='news/e9313dfac38f.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #1B2838; color: white;">
-                    <span>🚂</span>
-                    <span>Steam</span>
-                </div>
-                <h2 class="news-title">itch.io效仿Steam下架成人游戏</h2>
-                <p class="news-description">专注于独立游戏的市场平台Itch.io突然从其浏览和搜索页面去除了成人内容，屈服于支付提供商的要求。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Verge</div>
-                    <div class="publish-date">🕒 2025-07-24 09:41</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="PlayStation" 
-                 onclick="window.location.href='news/ac5d4d9b9ce0.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #003087; color: white;">
-                    <span>🎮</span>
-                    <span>PlayStation</span>
-                </div>
-                <h2 class="news-title">PS5系统更新beta版将支持DualSense无线手柄跨设备配对并新增节能模式以降低功耗</h2>
-                <p class="news-description">索尼宣布了其最新PlayStation 5测试固件更新的新功能，其中包括在多个设备上同时配对DualSense手柄。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="publish-date">🕒 2025-07-24 09:34</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/2b422f26d27c.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">integrated度假 casino游戏营收2025年上半年达93亿</h2>
-                <p class="news-description">菲律宾的综合度假型赌场在2025年上半年创造了933.6亿比索的博彩总收入（GGR），继续保持强劲的增长势头。</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 manilastandard.net</div>
-                    <div class="publish-date">🕒 2025-07-24 09:33</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/3c13347bbf53.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">🤖 'Factories in China, workers in India and profits in Ireland': Trump slams Silicon Valley's 'radical globalism'</h2>
-                <p class="news-description">《英文原文》 Addressing an AI Summit in Washington on Wednesday, Trump slammed the "global radicalism" of Silicon Valley, accusing major tech companies of exploiting American freedoms and outsourcing workers from elsewhere</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Firstpost</div>
-                    <div class="publish-date">🕒 2025-07-24 09:21</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/05e6b9841509.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">🤖 Windows 11 migration could be the perfect time to get an AI PC</h2>
-                <p class="news-description">《英文原文》 Businesses are upgrading for two reasons, report claims</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 TechRadar</div>
-                    <div class="publish-date">🕒 2025-07-24 09:01</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/48649732d1ef.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">💰 NSE Sets Up Framework To Monitor Retail Algos, Empanel Providers For Investor Safety</h2>
-                <p class="news-description">《英文原文》 The National Stock Exchange (NSE) has released comprehensive operational guidelines for the empanelment of algo providers</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 News18</div>
-                    <div class="publish-date">🕒 2025-07-24 08:50</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/413f40cc779d.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">💰 Life in a Foreign University | ‘Returning to the UK at 31 was the best decision I made’</h2>
-                <p class="news-description">《英文原文》 Priya, a finance professional with director-level experience in India, is currently pursuing an MBA at Kingston University Business School in London. She aims to enhance her leadership capabilities, deepen her understanding of business strategy, and prepare for future strategic roles by building on her expertise in financial modelling and operations management.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 08:49</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="谷歌AI" 
-                 onclick="window.location.href='news/a97e5c922334.html'">
-            <div class="importance-stars"><span class="star">★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #007AFF; color: white;">
-                    <span>🔍</span>
-                    <span>谷歌AI</span>
-                </div>
-                <h2 class="news-title">🤖 Google I/O Connect India 2025: Tech giant deepens commitment to make India global leader in AI</h2>
-                <p class="news-description">《英文原文》 The I/O Connect India 2025 event offered an engaging experience along with live demos to over 1,800 developers.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 08:31</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="谷歌" 
-                 onclick="window.location.href='news/a97e5c922334.html'">
-            <div class="importance-stars"><span class="star">★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #4285F4; color: white;">
-                    <span>🔍</span>
-                    <span>谷歌</span>
-                </div>
-                <h2 class="news-title">💻 Google I/O Connect India 2025: Tech giant deepens commitment to make India global leader in AI</h2>
-                <p class="news-description">《英文原文》 The I/O Connect India 2025 event offered an engaging experience along with live demos to over 1,800 developers.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 08:31</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/c33454fd2757.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">🤖 'It's pure genius': Trump wants to rename 'artificial intelligence' because..</h2>
-                <p class="news-description">《英文原文》 President Trump suggests renaming AI to "genius" at a major summit, unveiling his AI Action Plan to enhance US leadership in artificial intelligence.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Firstpost</div>
-                    <div class="publish-date">🕒 2025-07-24 08:31</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="苹果" 
-                 onclick="window.location.href='news/7e1e2cddee03.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #000000; color: white;">
-                    <span>🍎</span>
-                    <span>苹果</span>
-                </div>
-                <h2 class="news-title">💻 AppleCare One: A new subscription to safeguard up to 3 Apple devices</h2>
-                <p class="news-description">《英文原文》 AppleCare One will cost $19.99 per month and cover up to three Apple products under a single plan.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 08:16</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="OpenAI" 
-                 onclick="window.location.href='news/4bdf460950a7.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #34C759; color: white;">
-                    <span>🤖</span>
-                    <span>OpenAI</span>
-                </div>
-                <h2 class="news-title">🤖 Teens outperform Gemini, ChatGPT at top international math Olympiad</h2>
-                <p class="news-description">《英文原文》 Held in Queensland, Australia, the 2025 edition of the global competition consisted of 641 young mathematicians under the age of 20 from 112 countries.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 07:56</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/0d51e39d0f11.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">🤖 ServiceNow’s 18 AI Deals, 23% Revenue is Yet Another Wakeup Call for Indian IT</h2>
-                <p class="news-description">《英文原文》 In its second-quarter earnings, ServiceNow posted $3.11 billion in AI subscription revenue, a 23% jump from last year.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Analytics India Magazine</div>
-                    <div class="publish-date">🕒 2025-07-24 07:41</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/69a72b7a9f3b.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">💻 Amit Shah Unveils Groundbreaking National Cooperative Policy 2025</h2>
-                <p class="news-description">《英文原文》 Union Home Minister Amit Shah launches the National Cooperative Policy 2025, aiming to modernize and energize India's cooperative sector. The policy, crafted with input from 648 stakeholder suggestions, seeks to foster innovation, technology adoption, and youth involvement, transforming cooperatives into pivotal drivers of employment and economic growth.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Devdiscourse</div>
-                    <div class="publish-date">🕒 2025-07-24 07:31</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="苹果" 
-                 onclick="window.location.href='news/c0907c024d8c.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #000000; color: white;">
-                    <span>🍎</span>
-                    <span>苹果</span>
-                </div>
-                <h2 class="news-title">💻 Apple Introduces AppleCare One Subscription for Multi-Device Protection</h2>
-                <p class="news-description">《英文原文》 Check out the multi-device plan</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Mashable India</div>
-                    <div class="publish-date">🕒 2025-07-24 07:23</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/0fb18884cb3f.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">🤖 'Those Days Are Over': Trump Slams US Tech Giants For Hiring Indians, Setting Factories In China</h2>
-                <p class="news-description">《英文原文》 At an AI Summit in Washington, Donald Trump slammed major US tech firms for outsourcing jobs to China and India, declaring that such practices are over under his leadership.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 News18</div>
-                    <div class="publish-date">🕒 2025-07-24 07:16</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/3806318534f4.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">💰 ED raids Anil Ambani group companies in Yes Bank loan diversion case, 35 premises searched</h2>
-                <p class="news-description">《英文原文》 ED probe stems from two CBI cases lodged in September 2022 against Rana Kapoor and Reliance Commercial Finance Limited and Reliance Home Finance Limited.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 ThePrint</div>
-                    <div class="publish-date">🕒 2025-07-24 07:15</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/90d00d4780ec.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">🤖 PayPal announces 100 new jobs in Dublin</h2>
-                <p class="news-description">《英文原文》 PayPal says the new AI team in Dublin will serve as a 'key spoke' in the firms global network.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 LMFM</div>
-                    <div class="publish-date">🕒 2025-07-24 07:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/31f58537fe1e.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">🎮 Currys brings the heat to Dublin Comic Con as 'Official Gaming Partner'</h2>
-                <p class="news-description">《英文原文》 Tech retailer Currys has announced its partnership with Dublin Comic Con as the Official Gaming Partner for the summer 2025 edition of Ireland’s biggest pop culture and fandom celebration.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Irish Mirror</div>
-                    <div class="publish-date">🕒 2025-07-24 07:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/6b5431683c39.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">🤖 100 Dublin jobs for new PayPal AI and Fraud Data Science Centre</h2>
-                <p class="news-description">《英文原文》 Paypal's new AI and Fraud Data Science Centre comes with 100 high-skilled jobs, a marked change in direction for the Irish operation.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Siliconrepublic.com</div>
-                    <div class="publish-date">🕒 2025-07-24 06:53</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="AI科技" 
-                 onclick="window.location.href='news/6fa58524c95d.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #FF6B35; color: white;">
-                    <span>🤖</span>
-                    <span>AI科技</span>
-                </div>
-                <h2 class="news-title">🤖 100 Dublin jobs for new PayPal AI and Fraud Data Science Centre</h2>
-                <p class="news-description">《英文原文》 Paypal's new AI and Fraud Data Science Centre comes with 100 high-skilled jobs, a marked change in direction for the Irish operation.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Siliconrepublic.com</div>
-                    <div class="publish-date">🕒 2025-07-24 06:53</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/d3028e1a1d1d.html'">
-            <div class="importance-stars"><span class="star">★★★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">💻 Pioneering Cyber Crime Investigation Centre Launched in Andaman & Nicobar Islands</h2>
-                <p class="news-description">《英文原文》 The Andaman and Nicobar Islands have inaugurated a cutting-edge Cyber Crime Investigation Centre. This facility, equipped with advanced technology and a quick response team, aims to address and prevent cybercrime effectively. Services include a dedicated helpline and coordination with national platforms to ensure prompt interventions.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Devdiscourse</div>
-                    <div class="publish-date">🕒 2025-07-24 06:50</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="PlayStation" 
-                 onclick="window.location.href='news/fd36e12205d3.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #003087; color: white;">
-                    <span>🎮</span>
-                    <span>PlayStation</span>
-                </div>
-                <h2 class="news-title">🎮 Bandai Namco and Sony Form Strategic Partnership to Expand Anime and Manga IP</h2>
-                <p class="news-description">《英文原文》 Sony acquires a 2.5% stake in Bandai Namco as both companies aim to expand anime and manga IP, sparking speculation about future PlayStation exclusives.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 AltChar</div>
-                    <div class="publish-date">🕒 2025-07-24 06:37</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/c49afa36fcc1.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">💰 The 'refreshingly different' M&S lamp that 'jazzes up boring rooms'</h2>
-                <p class="news-description">《英文原文》 The viral Checkerboard Lamp is back in stock and shoppers say it's 'so quirky' and makes a 'fabulous statement'</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Birmingham Live</div>
-                    <div class="publish-date">🕒 2025-07-24 06:34</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/d608e8943506.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">💻 Alphabet boosted by AI, cloud demand as spending needs skyrocket</h2>
-                <p class="news-description">《英文原文》 Google’s parent company said 2025 capital expenditures will be $85bn</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Irish Times</div>
-                    <div class="publish-date">🕒 2025-07-24 06:32</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/1cdff7e5eb1e.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">💰 Police raids BTS’ agency: What happens to group’s comeback if HYBE boss Bang Si Hyuk lands in prison?</h2>
-                <p class="news-description">《英文原文》 HYBE’s raid and Bang Si Hyuk’s legal trouble have fans worried. Will BTS’s 2025 comeback be delayed? As stock dips and pressure mounts, all eyes are on the agency’s next move.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 06:27</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="金融科技" 
-                 onclick="window.location.href='news/d43b55599cdc.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #3498DB; color: white;">
-                    <span>💳</span>
-                    <span>金融科技</span>
-                </div>
-                <h2 class="news-title">💰 Anupam Kher still hasn’t paid his actors and financers after Rs 50 crore Tanvi the Great underperforms with under Rs 2 crore amid Saiyaara wave</h2>
-                <p class="news-description">《英文原文》 Actor-director Anupam Kher said that his film Tanvi the Great was crowd-funded after the person who had initially promised to finance it dropped out. The actor worked for free, and the 10 producers to funded the project still haven't been paid back after the film's underperformance.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 06:25</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="金融科技" 
-                 onclick="window.location.href='news/2cb3a756280d.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #3498DB; color: white;">
-                    <span>💳</span>
-                    <span>金融科技</span>
-                </div>
-                <h2 class="news-title">💰 Bajaj Finance Q1 Results 2025 LIVE Updates: Net profit expected to grow at 19%, NII seen up 23% YoY; share price falls</h2>
-                <p class="news-description">《英文原文》 Bajaj Finance Q1 Results 2025 LIVE Updates: Bajaj Finance is expected to report steady Q1 results 2025, led by strong AUM and loan growth with healthy profitability. While margin is likely to remain stable or slightly contract sequentially, analysts expect credit costs to decline.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Livemint</div>
-                    <div class="publish-date">🕒 2025-07-24 06:20</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/727b3e6d8da9.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">💰 Money blog: 'The laziest ingredient of all' - Renowned chef thinks luxury item should be wiped off menus</h2>
-                <p class="news-description">《英文原文》 Welcome to the Money blog, Sky News' personal finance and consumer hub. Every day we kick off with a regular feature - on Thursdays it's Cheap Eats and today's chef interviewee is the acclaimed Doug McMaster, who runs a zero-waste restaurant in London and isn't a fan of caviar...</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Sky News</div>
-                    <div class="publish-date">🕒 2025-07-24 06:04</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/5ba00f3a0a20.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">💻 China Connects the Dots: National Computing Power Network in the Works</h2>
-                <p class="news-description">《英文原文》 China is planning to create a nationwide network to sell computing power by leveraging surplus capacity from data centers established in recent years. This initiative, spearheaded by the Ministry of Industry and Information Technology and Chinese telecoms, seeks to overcome technological hurdles and boost China's AI ambitions.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Devdiscourse</div>
-                    <div class="publish-date">🕒 2025-07-24 06:03</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/ff72ba43fe6b.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">💻 Chinese students turn to AI to outsmart AI ‘detection’ tools</h2>
-                <p class="news-description">《英文原文》 The strict academic crackdown has ironically triggered a surge in the use of the technology to help ‘dumb down’ essays and assignments.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Scroll.in</div>
-                    <div class="publish-date">🕒 2025-07-24 06:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="科技创新" 
-                 onclick="window.location.href='news/9ca8e16f6667.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #95A5A6; color: white;">
-                    <span>💻</span>
-                    <span>科技创新</span>
-                </div>
-                <h2 class="news-title">💻 Days of US tech companies building factories in China, hiring workers in India over: Trump</h2>
-                <p class="news-description">《英文原文》 Trump tariffs on tech imports: Trump emphasized the need for what he called “a new spirit of patriotism and national loyalty in Silicon Valley and long beyond Silicon Valley,” urging American technology companies to “be all in for America.”</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 05:41</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="谷歌" 
-                 onclick="window.location.href='news/c9ac3989d1fe.html'">
-            <div class="importance-stars"><span class="star">★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #4285F4; color: white;">
-                    <span>🔍</span>
-                    <span>谷歌</span>
-                </div>
-                <h2 class="news-title">💻 Google Shows Strong AI Growth in Q2, 980 Trillion Tokens Processed Monthly</h2>
-                <p class="news-description">《英文原文》 “To give a sense of progress, in 2015, all of Alphabet’s revenue added up to $75B YouTube and Cloud alone ended 2024 at an annual run rate of $110B,” CEO Sundar Pichai said.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Analytics India Magazine</div>
-                    <div class="publish-date">🕒 2025-07-24 05:41</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="经济金融" 
-                 onclick="window.location.href='news/1af5a55686e6.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E67E22; color: white;">
-                    <span>💰</span>
-                    <span>经济金融</span>
-                </div>
-                <h2 class="news-title">💰 Macquarie director still part of audit selection despite KPMG past</h2>
-                <p class="news-description">《英文原文》 Glenn Stevens, the chairman of the finance giant, said Michelle Hinchliffe would be involved and concerns about any conflict of interest was “silly talk”.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Australian Financial Review</div>
-                    <div class="publish-date">🕒 2025-07-24 05:27</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="任天堂" 
-                 onclick="window.location.href='news/7335cbaf0227.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E60012; color: white;">
-                    <span>🎲</span>
-                    <span>任天堂</span>
-                </div>
-                <h2 class="news-title">🎮 Nintendo’s Game Boy Lego set is proof that nostalgia is serious business</h2>
-                <p class="news-description">《英文原文》 Nintendo introduced the Game Boy system in Japan in April 1989, three months before selling it in the United States.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 05:18</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="股市" 
-                 onclick="window.location.href='news/ea8c35db3584.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #27AE60; color: white;">
-                    <span>📈</span>
-                    <span>股市</span>
-                </div>
-                <h2 class="news-title">💰 Stock Market Updates: Sensex Falls Over 200 Points, Nifty Below 25,200; IT Stocks Tumble</h2>
-                <p class="news-description">《英文原文》 A range of domestic and global factors is expected to influence the direction of Indian stock markets today</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 News18</div>
-                    <div class="publish-date">🕒 2025-07-24 04:33</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/1a43492a857b.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">🎮 After losing money on gaming app, BSF constable robs jewellery shop in Delhi</h2>
-                <p class="news-description">《英文原文》 The Delhi Police claimed the BSF constable developed an addiction to online gambling and gaming apps, and lost a significant amount of money.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Indian Express</div>
-                    <div class="publish-date">🕒 2025-07-24 04:24</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="任天堂" 
-                 onclick="window.location.href='news/978ae06a375a.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #E60012; color: white;">
-                    <span>🎲</span>
-                    <span>任天堂</span>
-                </div>
-                <h2 class="news-title">🎮 Here is Lego’s official Nintendo Game Boy - with lenticular display</h2>
-                <p class="news-description">《英文原文》 Lego has revealed a most impressive take on the 1989 Nintendo Game Boy that’ll cost a relatively reasonable $60 in the US.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 The Verge</div>
-                    <div class="publish-date">🕒 2025-07-24 01:19</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="PlayStation" 
-                 onclick="window.location.href='news/3e55bc90c7af.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #003087; color: white;">
-                    <span>🎮</span>
-                    <span>PlayStation</span>
-                </div>
-                <h2 class="news-title">🎮 The best-selling PS5 game this year is by Xbox - no, seriously</h2>
-                <p class="news-description">《英文原文》 Since coming to PS5 in April, Xbox's Forza Horizon 5 has sold over 3 million copies on the platform — making it 2025's best-selling PlayStation game so far.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Windows Central</div>
-                    <div class="publish-date">🕒 2025-07-23 23:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/e01bf848d7a6.html'">
-            <div class="importance-stars"><span class="star">★★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">🎮 Wuchang: Fallen Feathers reviews and Metacritic scores are in</h2>
-                <p class="news-description">《英文原文》 The highly anticipated Xbox Game Pass Soulslike Wuchang: Fallen Feathers is here, and so are reviews for the game. Here's what critics are saying.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Windows Central</div>
-                    <div class="publish-date">🕒 2025-07-23 22:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/6c4d5cb27ab0.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">🎮 Elden Ring Nightreign and FFXVI cracked US games sales charts</h2>
-                <p class="news-description">《英文原文》 US sales charts have revealed Elden Ring Nightreign and Final Fantasy XVI's long-awaited Xbox port have become of the best-selling Xbox games of June 2025.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Windows Central</div>
-                    <div class="publish-date">🕒 2025-07-23 21:30</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/4e7aed85f1d2.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">🎮 New, Very Good Game Pass Survival Game Mixes Half-Life And Rust</h2>
-                <p class="news-description">《英文原文》 Abiotic Factor is also out now on PS5 and available on PlayStation Plus Extra</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Kotaku</div>
-                    <div class="publish-date">🕒 2025-07-23 21:20</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-        <article class="news-card" data-category="游戏科技" 
-                 onclick="window.location.href='news/11970cbc2ac9.html'">
-            <div class="importance-stars"><span class="star">★</span></div>
-            <div class="card-header">
-                <div class="category-badge" style="background-color: #9B59B6; color: white;">
-                    <span>🎮</span>
-                    <span>游戏科技</span>
-                </div>
-                <h2 class="news-title">🎮 MSI's Claw 8 AI+ can't be the best handheld without changes</h2>
-                <p class="news-description">《英文原文》 MSI could dominate the gaming handheld scene with its Claw 8 AI+ and Intel's Core Ultra chips if it weren't so expensive, and it might be too late to backtrack.</p>
-            </div>
-            <div class="card-footer">
-                <div class="news-meta">
-                    <div class="source">📰 Windows Central</div>
-                    <div class="publish-date">🕒 2025-07-23 21:00</div>
-                </div>
-                <div class="read-more">查看详情</div>
-            </div>
-        </article>
-            </div>
-        </div>
-    </div>
-    
-    <script>
-        function toggleTheme() {
-            const body = document.body;
-            const themeIcon = document.querySelector('.theme-icon');
-            const themeText = document.querySelector('.theme-text');
-            
-            if (body.getAttribute('data-theme') === 'dark') {
-                body.setAttribute('data-theme', 'light');
-                themeIcon.textContent = '🌙';
-                themeText.textContent = '夜间模式';
-                localStorage.setItem('theme', 'light');
-            } else {
-                body.setAttribute('data-theme', 'dark');
-                themeIcon.textContent = '☀️';
-                themeText.textContent = '日间模式';
-                localStorage.setItem('theme', 'dark');
-            }
-        }
         
-        document.addEventListener('DOMContentLoaded', function() {
-            const savedTheme = localStorage.getItem('theme') || 'light';
-            const themeIcon = document.querySelector('.theme-icon');
-            const themeText = document.querySelector('.theme-text');
+        <div class="news-list">
+
+            <div class="news-item">
+                <div class="news-title">Sundar Pichai 加入亿万富翁行列，随着谷歌 AI 支撑的利润飙升，股价上涨；埃隆·马斯克称其为“巨额资金”</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.99</span>
+                    AI科技 · 58分钟前
+                </div>
+                <div class="news-description">阿提·桑达尔</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：Sundar Pichai成为亿万富翁，反映了谷歌及其母公司Alphabet的强劲财务表现，尤其是AI技术的推动作用。
+2. **技术或商业层面分析**：谷歌AI业务的强劲增长，表明其在搜索、广告、云计算等领域的竞争力持续增强。Pichai的个人财富增长也反映了公司战略的成功。
+3. **对行业或用户的意义**：这提升了谷歌在AI领域的领导地位，可能吸引更多企业和用户采用其AI解决方案，增强市场竞争力。
+4. **未来发展趋势预测**：谷歌将继续加大AI研发投入，进一步扩大市场影响力。同时，AI技术的应用将更加广泛，用户将享受到更多智能化服务。
+                </div>
+                
+            </div>
             
-            if (savedTheme === 'dark') {
-                document.body.setAttribute('data-theme', 'dark');
-                themeIcon.textContent = '☀️';
-                themeText.textContent = '日间模式';
-            }
+            <div class="news-item">
+                <div class="news-title">Sundar Pichai 加入亿万富翁行列，随着谷歌人工智能支持的利润飙升，股价上涨；埃隆·马斯克称其为“serious money”</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.99</span>
+                    科技创新 · 58分钟前
+                </div>
+                <div class="news-description">阿提·桑达尔</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：此消息显示谷歌母公司Alphabet的强劲财务表现，Sundar Pichai加入亿万富翁行列，反映了AI技术的商业成功。
+2. **技术或商业层面**：谷歌AI驱动的收入增长，特别是通过广告业务，显示出AI技术对提升公司盈利能力的关键作用。
+3. **行业或用户意义**：这表明AI技术正在重塑搜索引擎和广告行业，用户将享受到更个性化的服务和内容。
+4. **未来发展趋势**：预计AI将继续推动谷歌及其他科技巨头的收入增长，同时可能引发更多关于数据隐私和伦理的讨论。
+                </div>
+                
+            </div>
             
-            const tabButtons = document.querySelectorAll('.tab-button');
-            const newsCards = document.querySelectorAll('.news-card');
+            <div class="news-item">
+                <div class="news-title">Sundar Pichai 加入亿万富翁行列，随着谷歌人工智能支持的利润飙升，股价上涨；埃隆·马斯克称之为“serious money”（大额资金）</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.97</span>
+                    经济新闻 · 58分钟前
+                </div>
+                <div class="news-description">阿提·桑达尔</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：Pichai成为亿万富翁反映了谷歌及Alphabet业绩的显著增长，显示了科技巨头在AI领域的强劲竞争力。
+2. **技术或商业层面**：谷歌AI技术的商业化取得重大进展，推动了公司利润增长，展现了AI在广告、搜索等核心业务中的巨大价值。
+3. **行业或用户**：这表明AI技术正在重塑互联网广告市场，用户将体验更个性化、更高效的搜索和广告服务。
+4. **未来发展趋势**：预计AI将进一步深化与用户交互，提升产品智能化水平，同时伴随数据安全与隐私保护的挑战。
+                </div>
+                
+            </div>
             
-            tabButtons.forEach(button => {
-                button.addEventListener('click', function() {
-                    const category = this.dataset.category;
-                    
-                    tabButtons.forEach(btn => btn.classList.remove('active'));
-                    this.classList.add('active');
-                    
-                    newsCards.forEach(card => {
-                        if (category === 'all' || card.dataset.category === category) {
-                            card.classList.remove('hidden');
-                        } else {
-                            card.classList.add('hidden');
-                        }
-                    });
-                });
-            });
-        });
-    </script>
+            <div class="news-item">
+                <div class="news-title">谢赫币：Web3 富裕的新前沿</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    AI科技 · 1小时前
+                </div>
+                <div class="news-description">SHHEIKH Coin 成为Web3财富革命的基石，涨幅超过Ripple和Solana。该项目初始定价为0.0027美元，是一款由人工智能驱动的项目，允许全球范围内共享奢侈品资产，为早期投资者带来显著回报。该运动得到了实际资产和专有人工智能分析的支持。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：SHHEIKH Coin的出现预示着Web3领域的新一轮竞争，可能改变现有市场格局，吸引大量投资兴趣。
+
+2. **技术或商业层面**：AI驱动的模型是其核心竞争力，有助于优化交易策略和市场预测，但技术成熟度和透明度仍需进一步验证。
+
+3. **行业或用户意义**：对于投资者来说，SHHEIKH Coin提供了新的财富创造机会，但需警惕市场泡沫和风险。对于Web3生态，这标志着AI技术的应用扩展，可能加速该领域的创新。
+
+4. **未来发展趋势预测**：预计SHHEIKH Coin将持续吸引关注，但需经受市场考验。其成功将推动更多创新项目采用AI技术，加速Web3的成熟与发展。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">在外选举不确定性背景下，外国投资者关注日本市场</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    AI科技 · 2小时前
+                </div>
+                <div class="news-description">外国投资者对日本股市和与人工智能相关的科技股表现出浓厚兴趣，这得益于日元贬值和台积电强劲的季度盈利。尽管对即将举行的选举有所担忧，外国需求仍推动东证指数创下历史新高。与此同时，日本投资者购入大量外国资产。</div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">在外选举不确定性背景下，外国投资者关注日本市场</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    科技创新 · 2小时前
+                </div>
+                <div class="news-description">外国投资者对日本股市和与人工智能相关的科技股表现出强烈兴趣，这得益于日元贬值和台积电强劲的季度盈利。尽管对即将举行的选举有所担忧，外国需求仍推动东证指数创下历史新高。与此同时，日本投资者购入大量外国资产。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：新闻反映了外资对日本市场的持续兴趣，特别是在政治不确定性背景下。这表明市场预期日本经济基本面稳固，即使在选举前后仍具吸引力。
+
+2. **技术或商业层面分析**：外资买入科技股尤其是AI相关技术，显示出对日本技术实力的信心。同时，日元贬值降低了外国投资者的成本，增加了投资吸引力。
+
+3. **对行业或用户的意义**：这将促进日本科技行业的进一步发展和创新，增强全球市场对日本技术的认可。对投资者而言，提供了投资日本市场的良好机会。
+
+4. **未来发展趋势预测**：短期内，政治不确定性可能影响市场情绪。但长期来看，外资持续流入将支持日本股市，推动技术领域的发展。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">旅游业、信任与一座新桥：莫迪重塑马尔代夫之行内幕解析</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    AI科技 · 1小时前
+                </div>
+                <div class="news-description">莫迪总理2025年7月对马尔代夫的访问标志着两国关系的重置，这一过程经过了争取和谈判，如今已正式确定。仅仅18个月前，两国关系还曾出现重大裂痕，此次莫迪总理作为贵宾受到欢迎。</div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">Mphasis投资Aokah以增强AI驱动的GCC解决方案</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    AI科技 · 1小时前
+                </div>
+                <div class="news-description">该合作伙伴关系旨在提供由人工智能驱动、以人为中心的解决方案，支持全球运营和GCC（通用计算架构）的整个生命周期，从初始设置到扩展和优化。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：Mphasis投资Aokah旨在增强其在中东地区的AI解决方案能力，此举对扩大其市场影响力和业务范围具有重要意义。
+2. **技术或商业层面分析**：通过整合Aokah的PaaS平台，Mphasis能够更快速、灵活地为客户提供定制化的AI解决方案，提升其在竞争中的优势。
+3. **行业或用户意义**：此举有助于GCCs更高效地运行，提高服务质量和客户满意度，同时促进AI技术在该地区的应用与发展。
+4. **未来发展趋势预测**：随着AI技术的不断进步，Mphasis的这一举措预示着未来将有更多IT服务公司加强在AI领域的布局，以适应市场需求和技术趋势。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">AR Rahman与OpenAI首席执行官萨姆·阿尔特曼会面；互联网请求不要使用AI生成音乐</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    AI科技 · 1小时前
+                </div>
+                <div class="news-description">马德拉斯的莫扎特也与 perplexity AI 的印度负责人会面了</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：此次会面展示了传统音乐大师与人工智能领域领导者的交流，象征着艺术与科技的融合，可能开启音乐创作的新篇章。
+2. **技术或商业层面**：AR Rahman的参与可能推动AI音乐生成技术的实际应用，提升其商业价值。OpenAI也可能借此增强技术的创造力和市场吸引力。
+3. **对行业或用户**：用户将有机会体验更多创新的音乐作品，行业将探索AI与传统艺术结合的新模式。
+4. **未来发展趋势**：未来AI音乐生成技术有望更加智能化，创作出更多独特且高质量的音乐作品，但同时也需关注版权和原创性问题。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">特朗普的“人工智能行动计划”真正的赢家是谁？科技公司</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    AI科技 · 3小时前
+                </div>
+                <div class="news-description">据总统誓言削减繁琐手续来看，谷歌母公司 Alphabet、Meta、微软及其他公司投入的数百万资金似乎有了成效。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **新闻的重要性和影响**：特朗普的AI行动计划发布会主要吸引了科技巨头和行业精英，展现了政府对AI的重视，但更多是象征性意义，实际政策细节较少。
+2. **技术或商业层面的分析**：会议强调了私营部门的角色，但缺乏具体措施和资金支持，可能难以推动实质性技术进步或商业化。
+3. **对行业或用户的意义**：尽管会议提升了AI行业的声望，但缺乏具体政策支持，可能短期内对行业影响有限。
+4. **未来发展趋势预测**：未来需关注政府是否会出台更多实质性政策，以及私营部门如何填补政策空白，共同推动AI技术的发展和应用。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">亚洲股市在 Alphabet 和人工智能股票推动华尔街再创纪录后回落</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    AI科技 · 3小时前
+                </div>
+                <div class="news-description">亚洲股市下跌，因为华尔街股市小幅攀升至新高， Alphabet 和人工智能股票的涨幅抵消了电动汽车制造商特斯拉的大幅下跌。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：该新闻反映了全球市场动态，特别是亚洲股市对美国科技股表现的敏感性。美国Alphabet等AI相关股票的强劲表现推动了美国股市创新高，但同时也导致亚洲股市出现回调，显示出市场情绪的复杂性。
+
+2. **技术或商业层面的分析**：美国科技巨头如Alphabet在AI领域的持续创新和领先地位，推动了相关股票的上涨。这不仅反映了技术进步带来的市场机会，也凸显了投资者对AI技术商业应用前景的信心。
+
+3. **对行业或用户的意义**：对投资者而言，这一动态表明AI技术正成为推动市场的重要力量。对于AI行业内的企业来说，这既是机遇也是挑战，需要抓住市场机会，同时警惕市场波动带来的风险。
+
+4. **未来发展趋势预测**：未来，随着AI技术的进一步发展和应用，相关领域的股票可能会继续受到投资者关注。但同时，市场也可能出现更多波动，投资者需保持谨慎。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">苹果iOS 26：将获得“液态玻璃”处理的全部iPhone列表</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    科技创新 · 1小时前
+                </div>
+                <div class="news-description">苹果iOS 26更新手机名单：苹果预计将于九月开始推送iOS 26更新。以下是将获得“液体玻璃”处理的全部iPhone型号名单。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：此新闻重要性在于它预示了iOS 26将带来显著的用户界面变化，可能影响用户体验和用户忠诚度。
+2. **技术或商业层面**：Liquid Glass作为新设计语言，体现了苹果在用户界面设计上的创新尝试，但需关注其实用性和市场接受度。
+3. **对行业或用户**：此举可能引发Android阵营的模仿与竞争，同时影响iPhone用户对新系统的期待与评价。
+4. **未来发展趋势**：苹果持续的UI创新预示未来操作系统将更加注重视觉体验，但需平衡美观与实用，以满足用户需求。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">“您的系统已感染”：执法部门在昌迪加尔捣毁假冒呼叫中心，骗取消防国公民</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    科技创新 · 2小时前
+                </div>
+                <div class="news-description">ED 揭露昌迪加尔三城骗局：假冒技术支持的虚假呼叫中心以微软等公司名义行骗，每通电话骗取美国和加拿大民众 450 至 500 美元。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：该事件揭示了跨境电信诈骗的严重性，对外国企业和个人造成经济损失和心理压力，影响社会稳定。
+2. **技术或商业层面分析**：假呼叫中心利用技术伪装，利用信息不对称，误导用户。需加强网络安全教育和技术防护。
+3. **对行业或用户的意义**：提醒企业和个人提高警惕，保护个人信息，选择正规服务渠道。同时，企业应加强内部安全审查。
+4. **未来发展趋势预测**：随着技术进步，诈骗手段可能更加隐蔽复杂，需政府、企业和个人共同构建多层次防护体系。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">苹果iOS 26公开测试版发布：支持的iPhone列表、新功能及下载指南？</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    科技创新 · 3小时前
+                </div>
+                <div class="news-description">iOS 26 公测版已发布，如果你有一款符合条件的 iPhone，可以注册该计划并安装新版本。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：iOS 26公开测试版的发布标志着苹果新系统的重要更新，影响广泛，尤其是对iPhone用户。
+2. **技术或商业层面**：此版本新增多项功能，如改进的隐私保护和更强大的性能优化，展示了苹果在技术创新上的持续投入。
+3. **行业或用户意义**：对用户而言，新功能提升使用体验，对开发者而言，提供了新接口和API，利于应用创新。
+4. **未来发展趋势**：预计未来苹果将继续优化系统性能，加强隐私保护，满足用户需求，推动行业向更加安全、高效的方向发展。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">特朗普的“人工智能行动计划”真正的赢家是谁？科技公司</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.92</span>
+                    科技创新 · 3小时前
+                </div>
+                <div class="news-description">据总统誓言削减繁琐手续来看，谷歌母公司 Alphabet、Meta、微软及其他公司投入的数百万资金似乎有了成效。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **新闻的重要性和影响**：特朗普的AI行动计划发布会主要面向科技巨头，这显示了政府对科技行业在AI领域重要性的认可和支持。然而，这也引发了关于政策导向是否真正惠及所有科技公司的质疑。
+
+2. **技术或商业层面的分析**：此次会议更多是象征性的宣传，而非实质性的政策推动。商业上，这可能加剧科技巨头之间的竞争，尤其是那些被选中参与计划的企业。
+
+3. **对行业或用户的意义**：虽然短期内可能提升相关企业的股价和市场关注度，但从长期来看，AI技术的真正进步需要更广泛的参与和合作，而非仅仅依靠少数几家公司。
+
+4. **未来发展趋势预测**：预计未来政府将更加注重制定公平的竞争环境，鼓励更多中小企业和初创企业参与到AI技术的研发中，以促进整个行业的健康发展。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">谷歌推出AI虚拟试衣功能：这是如何运作的</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.91</span>
+                    AI科技 · 1小时前
+                </div>
+                <div class="news-description">谷歌最新进军时尚界</div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">ACT清廉委员会指控两名前堪培拉技术学院官员涉嫌严重腐败行为</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.91</span>
+                    科技创新 · 2小时前
+                </div>
+                <div class="news-description">澳大利亚联邦公平委员会认定，两名前堪培拉技术学院（CIT）官员在处理一项有争议的500万美元合同事宜中存在“严重腐败行为”。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：此事件对教育行业影响重大，涉及高达500万澳元的合同，表明公共机构合同管理的透明度和诚信至关重要。
+2. **技术或商业层面**：事件揭示了内部管理与外部监管之间的鸿沟，需加强合同审查和内部审计，确保资金使用的正当性和合规性。
+3. **行业或用户**：对于教育机构而言，这是一次警示，需建立更为严格的内部控制机制，保障公共资源的合理使用，维护公众信任。
+4. **未来发展趋势**：未来，教育机构和相关监管部门将加强合作，提升合同管理的透明度和效率，以防止类似事件再次发生。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">边境军事力量展现：移民管控新时代</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.91</span>
+                    科技创新 · 2小时前
+                </div>
+                <div class="news-description">装甲部队的陆军单位巡逻美墨边境，运用先进技术和军事战术以阻止非法越境。尽管被捕人数降至60年来的最低点，军事存在依然至关重要。军事化区域引发了对《反军权干预法》限制的疑问。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：此举标志着美国边境管控方式的重大转变，通过军事化手段增强威慑力，体现了对非法移民问题的严峻态度。
+2. **技术或商业层面**：运用先进科技如装甲车和监控技术，提升了边境监控效率，但高昂的成本和潜在的误报风险需谨慎评估。
+3. **对行业或用户**：这将对相关高科技企业形成利好，但同时也引发了人权和法治的担忧，用户需关注其长期影响。
+4. **未来发展趋势**：预计边境管控将进一步军事化和技术化，但如何平衡安全与人权将是关键挑战。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">英伟达被禁止向中国出售其最先进的芯片</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.91</span>
+                    AI科技 · 3小时前
+                </div>
+                <div class="news-description">英伟达刚刚被允许重新向中国市场销售其专为中国设计的H20 AI芯片，以符合美国的限制规定。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. 重要性和影响：此禁令解除后，中国将能够修复被禁止进口的NVIDIA先进AI芯片，这直接关系到中国在AI技术领域的自主性和供应链安全，具有重大战略意义。
+2. 技术或商业层面：此举可能促使中国加速自主研发AI芯片，减少对外国技术的依赖，同时也可能促进国内芯片维修市场的专业化发展。
+3. 对行业或用户：对于AI用户而言，这将提高芯片的使用效率和生命周期，降低维修成本。对芯片制造商来说，这将激发更多技术创新和市场竞争。
+4. 未来发展趋势预测：预计未来中国将加大在AI芯片领域的投入，提升自主创新能力，同时可能形成新的产业链和商业模式。
+                </div>
+                
+            </div>
+            
+            <div class="news-item">
+                <div class="news-title">中东局势升温：以色列与伊朗冲突的战略影响</div>
+                <div class="news-meta">
+                    <span class="freshness-score">新鲜度: 0.91</span>
+                    科技创新 · 2小时前
+                </div>
+                <div class="news-description">美国和以色列通过使用先进的空中关键技术合作拆除了伊朗核设施，对伊朗造成了重大损害。</div>
+                
+                <div class="ai-commentary">
+                    <strong>🤖 AI点评：</strong>1. **重要性和影响**：以色列与美国联手打击伊朗核设施，表明地区安全局势紧张升级，可能引发中东地区的连锁反应，加剧地缘政治紧张。
+
+2. **技术或商业层面**：此次行动展示了先进空袭技术和情报共享的重要性，未来或推动相关技术进一步发展和应用，同时也可能引发技术出口管制。
+
+3. **对行业或用户的意义**：对于中东地区的能源和贸易用户来说，局势紧张可能增加不确定性，需重新评估风险和供应链管理策略。对于科技企业，这可能成为展示其技术能力的契机。
+
+4. **未来发展趋势预测**：预计未来该地区军事冲突风险增加，国际社会可能加强对话与合作，寻求和平解决争端的途径。
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
 </body>
 </html>
