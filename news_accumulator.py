@@ -24,7 +24,7 @@ class AINewsAccumulator:
         self.news_data_file = 'docs/news_data.json'
         
         # 初始化翻译引擎
-        self.siliconflow_api_key = os.getenv('SILICONFLOW_API_KEY', 'sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa')
+        self.siliconflow_api_key = os.getenv('SILICONFLOW_API_KEY')
         self.primary_translator = None
         self.fallback_translators = []
         self._last_translation_result = None  # 存储最后的翻译结果用于元数据

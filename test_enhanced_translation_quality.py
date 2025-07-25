@@ -19,7 +19,7 @@ def test_title_translation():
     print("=" * 60)
     
     # 初始化翻译器
-    api_key = "sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa"
+    api_key = os.getenv('SILICONFLOW_API_KEY')
     translator = EnhancedNewsTranslator(api_key=api_key)
     
     # 测试用例
@@ -81,7 +81,7 @@ def test_description_translation():
     print("=" * 60)
     
     # 初始化翻译器
-    api_key = "sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa"
+    api_key = os.getenv('SILICONFLOW_API_KEY')
     translator = EnhancedNewsTranslator(api_key=api_key)
     
     # 测试用例
@@ -130,7 +130,7 @@ def test_long_description_segmentation():
     print("=" * 60)
     
     # 初始化翻译器
-    api_key = "sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa"
+    api_key = os.getenv('SILICONFLOW_API_KEY')
     translator = EnhancedNewsTranslator(api_key=api_key)
     
     # 长文本测试用例

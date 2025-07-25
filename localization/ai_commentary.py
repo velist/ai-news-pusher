@@ -12,7 +12,7 @@ from typing import Optional, Dict
 class AICommentary:
     """AI新闻点评生成器"""
     
-    def __init__(self, api_key: str = "sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa"):
+    def __init__(self, api_key: str = None):
         self.api_key = api_key
         self.base_url = "https://api.siliconflow.cn/v1/chat/completions"
         self.model = "Qwen/Qwen2.5-7B-Instruct"

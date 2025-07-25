@@ -21,7 +21,7 @@ class EnhancedAINewsAccumulator:
         self.news_data_file = 'docs/enhanced_news_data.json'
         
         # 初始化硅基流动翻译器
-        self.siliconflow_api_key = "sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa"
+        self.siliconflow_api_key = os.getenv('SILICONFLOW_API_KEY')
         self.translator = None
         self._init_translator()
         

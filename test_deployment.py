@@ -20,7 +20,7 @@ def test_translation_system():
         
         # 初始化翻译器
         translator = SiliconFlowTranslator(
-            api_key="sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa",
+            api_key=os.getenv('SILICONFLOW_API_KEY'),
             model="Qwen/Qwen2.5-7B-Instruct"
         )
         print("✅ 翻译器初始化成功")

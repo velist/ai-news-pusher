@@ -26,7 +26,7 @@ class EnhancedChineseNewsAccumulator:
         self.news_data_file = 'docs/enhanced_chinese_news_data.json'
         
         # 初始化各个组件
-        self.siliconflow_api_key = "sk-wvnbuucaiczandbauqvtnovrshvdmrupjgkdjfvadzqluhpa"
+        self.siliconflow_api_key = os.getenv('SILICONFLOW_API_KEY')
         self.translator = None
         self.timezone_converter = TimezoneConverter()
         self.chinese_localizer = ChineseLocalizer()
