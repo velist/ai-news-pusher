@@ -44,5 +44,7 @@
     }
   ],
   "functions": {},
-  "rewrites": []
+  "rewrites": [],
+  "_last_update": "2025-07-25 12:44:18",
+  "_deployment_fix": "Fresh commit to resolve redeploy error"
 }
