@@ -1,5 +1,98 @@
 [
   {
+    "id": "a5359ba31e99",
+    "title": "AI设计的蛋白质使个性化癌症治疗成为可能",
+    "original_title": "AI-designed proteins bring personalized cancer treatment within reach",
+    "description": "在研究人员开发出一种能够定制蛋白质成分并武装患者免疫细胞以对抗癌症的人工智能平台之后，大规模开展精准癌症治疗正逐渐成为现实。",
+    "original_description": "Precision cancer treatment on a larger scale is moving closer after researchers have developed an AI platform that can tailor protein components and arm the patient's immune cells to fight cancer.",
+    "url": "https://www.news-medical.net/news/20250724/AI-designed-proteins-bring-personalized-cancer-treatment-within-reach.aspx",
+    "source": "News-Medical.net",
+    "publishedAt": "2025-07-24T19:11:00Z",
+    "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-25T03:47:47.505814",
+    "search_category": "AI科技",
+    "ai_translation": {
+      "translated_title": "AI设计的蛋白质使个性化癌症治疗成为可能",
+      "translated_description": "在研究人员开发出一种能够定制蛋白质成分并武装患者免疫细胞以对抗癌症的人工智能平台之后，大规模开展精准癌症治疗正逐渐成为现实。",
+      "translation_confidence": {
+        "title": 0.77,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-25T03:47:47.502684",
+      "original_title": "AI-designed proteins bring personalized cancer treatment within reach",
+      "original_description": "Precision cancer treatment on a larger scale is moving closer after researchers have developed an AI platform that can tailor protein components and arm the patient's immune cells to fight cancer."
+    }
+  },
+  {
+    "id": "082379dea5ad",
+    "title": "“所有Love Island参赛者看起来都一样”的真正原因：节目海选过程使用的工具被揭示",
+    "original_title": "'Real reason' all Love Island contestants look the same as tool used in show casting process revealed",
+    "description": "ITV高层承认，在真人秀《爱情岛》的选角过程中使用了人工智能技术。该 dating 纪录片节目的粉丝们",
+    "original_description": "ITV bosses have admitted that they used artificial intelligence as part of the casting process for reality series Love Island.Fans of the dating show",
+    "url": "https://www.thesun.ie/tv/15592127/love-island-contestants-look-same-ai-tv/",
+    "source": "The Irish Sun",
+    "publishedAt": "2025-07-24T19:00:00Z",
+    "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2025/07/newspress-collage-gq5jh0wwk-1753381457380.jpg?1753387320&strip=all&quality=100&w=1920&h=1080&crop=1",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-25T03:47:47.505814",
+    "search_category": "AI科技",
+    "ai_translation": {
+      "translated_title": "“所有Love Island参赛者看起来都一样”的真正原因：节目海选过程使用的工具被揭示",
+      "translated_description": "ITV高层承认，在真人秀《爱情岛》的选角过程中使用了人工智能技术。该 dating 纪录片节目的粉丝们",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-25T03:47:47.502684",
+      "original_title": "'Real reason' all Love Island contestants look the same as tool used in show casting process revealed",
+      "original_description": "ITV bosses have admitted that they used artificial intelligence as part of the casting process for reality series Love Island.Fans of the dating show"
+    }
+  },
+  {
+    "id": "df4e11e9628f",
+    "title": "英伟达芯片再次流入中国——这对人工智能 adoption 趋势意味着什么",
+    "original_title": "Nvidia chips are flowing to China again — what that means for AI adoption trends",
+    "description": "美国政府刚刚修改了相关规定，允许英伟达向中国出口其H2O芯片。",
+    "original_description": "The U.S. government just changed its rules to allow Nvidia to ship its H2O chips to China.",
+    "url": "https://www.fool.com.au/2025/07/25/nvidia-chips-are-flowing-to-china-again-what-that-means-for-ai-adoption-trends-usfeed/",
+    "source": "Motley Fool Australia",
+    "publishedAt": "2025-07-24T19:00:00Z",
+    "image": "https://www.fool.com.au/wp-content/uploads/2024/08/chip-1200x675.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-25T03:47:47.505814",
+    "search_category": "AI科技",
+    "ai_translation": {
+      "translated_title": "英伟达芯片再次流入中国——这对人工智能 adoption 趋势意味着什么",
+      "translated_description": "美国政府刚刚修改了相关规定，允许英伟达向中国出口其H2O芯片。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-25T03:47:47.502684",
+      "original_title": "Nvidia chips are flowing to China again — what that means for AI adoption trends",
+      "original_description": "The U.S. government just changed its rules to allow Nvidia to ship its H2O chips to China."
+    }
+  },
+  {
     "id": "d110c024247d",
     "title": "特朗普支持马斯克的特斯拉公司，股价暴跌",
     "original_title": "Trump offers support to Musk's Tesla as stock plunges",

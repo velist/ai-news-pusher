@@ -1,5 +1,305 @@
 [
   {
+    "id": "a5359ba31e99",
+    "title": "人工智能设计蛋白质助力个性化癌症治疗",
+    "original_title": "AI-designed proteins bring personalized cancer treatment within reach",
+    "description": "大规模个性化癌症治疗正逐渐成为现实，研究人员开发出一种人工智能平台，能够定制蛋白质成分，并武装患者的免疫细胞以对抗癌症。",
+    "original_description": "Precision cancer treatment on a larger scale is moving closer after researchers have developed an AI platform that can tailor protein components and arm the patient's immune cells to fight cancer.",
+    "url": "https://www.news-medical.net/news/20250724/AI-designed-proteins-bring-personalized-cancer-treatment-within-reach.aspx",
+    "source": "News-Medical.net",
+    "publishedAt": "2025-07-24T19:11:00Z",
+    "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-25T03:48:16.665516",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-25T03:48:16.665516",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.9699111111111112,
+        "quality_score": 0.9699111111111112,
+        "method": "ai_translation",
+        "original_length": 69,
+        "translated_length": 18,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "description_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.9699111111111112,
+        "quality_score": 0.9699111111111112,
+        "method": "ai_translation",
+        "original_length": 196,
+        "translated_length": 60,
+        "is_segmented": false,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "overall_quality": {
+        "average_confidence": 0.9699111111111112,
+        "translation_success_rate": 1.0,
+        "has_ai_translation": true
+      }
+    }
+  },
+  {
+    "id": "082379dea5ad",
+    "title": "Love Island参赛者为何相似？节目海选过程中的秘密工具揭示",
+    "original_title": "'Real reason' all Love Island contestants look the same as tool used in show casting process revealed",
+    "description": "ITV高层承认，在真人秀节目《爱情岛》的选角过程中使用了人工智能技术。该恋爱真人秀的粉丝们得知这一消息后表示惊讶。",
+    "original_description": "ITV bosses have admitted that they used artificial intelligence as part of the casting process for reality series Love Island.Fans of the dating show",
+    "url": "https://www.thesun.ie/tv/15592127/love-island-contestants-look-same-ai-tv/",
+    "source": "The Irish Sun",
+    "publishedAt": "2025-07-24T19:00:00Z",
+    "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2025/07/newspress-collage-gq5jh0wwk-1753381457380.jpg?1753387320&strip=all&quality=100&w=1920&h=1080&crop=1",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-25T03:48:25.282999",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-25T03:48:25.282928",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 1.05,
+        "quality_score": 1.05,
+        "method": "ai_translation",
+        "original_length": 101,
+        "translated_length": 33,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "description_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 1.05,
+        "quality_score": 1.05,
+        "method": "ai_translation",
+        "original_length": 149,
+        "translated_length": 57,
+        "is_segmented": false,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "overall_quality": {
+        "average_confidence": 1.05,
+        "translation_success_rate": 1.0,
+        "has_ai_translation": true
+      }
+    }
+  },
+  {
+    "id": "df4e11e9628f",
+    "title": "英伟达芯片再次流入中国——对人工智能 adoption trends 的影响",
+    "original_title": "Nvidia chips are flowing to China again — what that means for AI adoption trends",
+    "description": "美国政府刚刚修改了相关规定，允许英伟达向中国出口H2O芯片。",
+    "original_description": "The U.S. government just changed its rules to allow Nvidia to ship its H2O chips to China.",
+    "url": "https://www.fool.com.au/2025/07/25/nvidia-chips-are-flowing-to-china-again-what-that-means-for-ai-adoption-trends-usfeed/",
+    "source": "Motley Fool Australia",
+    "publishedAt": "2025-07-24T19:00:00Z",
+    "image": "https://www.fool.com.au/wp-content/uploads/2024/08/chip-1200x675.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-25T03:48:42.704467",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-25T03:48:42.704467",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.9000000000000001,
+        "quality_score": 0.9000000000000001,
+        "method": "ai_translation",
+        "original_length": 80,
+        "translated_length": 38,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "description_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.9000000000000001,
+        "quality_score": 0.9000000000000001,
+        "method": "ai_translation",
+        "original_length": 90,
+        "translated_length": 30,
+        "is_segmented": false,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "overall_quality": {
+        "average_confidence": 0.9000000000000001,
+        "translation_success_rate": 1.0,
+        "has_ai_translation": true
+      }
+    }
+  },
+  {
+    "id": "d110c024247d",
+    "title": "特朗普支持马斯克 特斯拉股价暴跌",
+    "original_title": "Trump offers support to Musk's Tesla as stock plunges",
+    "description": "美国总统唐纳德·特朗普通过社交媒体支持埃隆·马斯克的汽车公司，这一发展令人惊讶，因为两人之间存在着激烈的公开争端。",
+    "original_description": "U.S. President Donald Trump took to social media to support Elon Musk’s car company, a startling development given their bitter public feud.",
+    "url": "https://www.cp24.com/news/world/2025/07/24/trump-offers-support-to-musks-car-company-in-a-surprising-post-as-tesla-stock-plunges/",
+    "source": "CP24 Toronto",
+    "publishedAt": "2025-07-24T18:25:54Z",
+    "image": "https://www.cp24.com/resizer/v2/TY3CDK3NR3JMHHPURBUHA5JRAA.jpg?smart=true&auth=1386932c34fe5f4cafc43b56dbbd42d0a5d9b5a20f264a7e3f3adb8651bf1759&width=1200&height=630",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-25T03:48:48.423111",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-25T03:48:48.423111",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 1.0,
+        "quality_score": 1.0,
+        "method": "ai_translation",
+        "original_length": 53,
+        "translated_length": 16,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "description_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 1.0,
+        "quality_score": 1.0,
+        "method": "ai_translation",
+        "original_length": 140,
+        "translated_length": 57,
+        "is_segmented": false,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "overall_quality": {
+        "average_confidence": 1.0,
+        "translation_success_rate": 1.0,
+        "has_ai_translation": true
+      }
+    }
+  },
+  {
+    "id": "b9f501c7dd01",
+    "title": "Meta Quest带来经典Xbox 360功能的现代升级",
+    "original_title": "The Meta Quest resurrects a classic Xbox 360 feature with a modern twist",
+    "description": "在游戏中播放自己喜欢的音乐，这无疑是自切片面包以来最好的事情。",
+    "original_description": "Jamming to tunes while playing your favorite game is the best thing since sliced bread.",
+    "url": "https://www.androidcentral.com/gaming/virtual-reality/meta-quest-full-spotify-app-integration-launch",
+    "source": "Android Central",
+    "publishedAt": "2025-07-24T18:06:14Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/dbGfTGfoee2EuwJeqGSovS.jpg",
+    "category": {
+      "name": "Xbox",
+      "color": "#107C10",
+      "icon": "🎯"
+    },
+    "importance": 2,
+    "added_time": "2025-07-25T03:48:44.432709",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-25T03:48:44.432709",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.9180000000000001,
+        "quality_score": 0.9180000000000001,
+        "method": "ai_translation",
+        "original_length": 72,
+        "translated_length": 29,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "description_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.9180000000000001,
+        "quality_score": 0.9180000000000001,
+        "method": "ai_translation",
+        "original_length": 87,
+        "translated_length": 31,
+        "is_segmented": false,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "overall_quality": {
+        "average_confidence": 0.9180000000000001,
+        "translation_success_rate": 1.0,
+        "has_ai_translation": true
+      }
+    }
+  },
+  {
+    "id": "f3cabefa3d27",
+    "title": "财政部预计预算中增税可增收5300万欧元",
+    "original_title": "Betting tax increase in budget could raise €53m, says Department of Finance",
+    "description": "单次车辆注册税上调可能带来2800万欧元的收入，税务策略小组建议",
+    "original_description": "Single-point increase in Vehicle Registration Tax could raise €28 million, Tax Strategy Group suggests",
+    "url": "https://www.irishtimes.com/business/2025/07/24/betting-tax-increase-in-budget-could-raise-53m-while-higher-vehicle-levies-also-examined-in-tax-strategy-papers/",
+    "source": "The Irish Times",
+    "publishedAt": "2025-07-24T17:47:00Z",
+    "image": "https://www.irishtimes.com/resizer/v2/FLH3HLFXJRSTA45XCDYBC73GVY.jpg?smart=true&auth=0b056ab3224e866acd1d4354a37c31a563d7e60621f1fde9f2b130cd01ce4a4b&width=1200&height=630",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-25T03:48:56.713110",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-25T03:48:56.713110",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.8600000000000001,
+        "quality_score": 0.8600000000000001,
+        "method": "ai_translation",
+        "original_length": 75,
+        "translated_length": 20,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "description_translation": {
+        "service": "enhanced_news_Qwen2.5-7B-Instruct",
+        "confidence": 0.8600000000000001,
+        "quality_score": 0.8600000000000001,
+        "method": "ai_translation",
+        "original_length": 102,
+        "translated_length": 32,
+        "is_segmented": false,
+        "is_ai_translated": true,
+        "translation_status": "success"
+      },
+      "overall_quality": {
+        "average_confidence": 0.8600000000000001,
+        "translation_success_rate": 1.0,
+        "has_ai_translation": true
+      }
+    }
+  },
+  {
     "id": "075321bae29d",
     "title": "华尔街股市接近纪录高位",
     "original_title": "Wall Street hangs near records",
