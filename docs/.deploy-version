@@ -1,0 +1,4 @@
+version: 20250725_133658
+type: force-sync
+target: vercel
+source: github-pages
