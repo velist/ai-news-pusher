@@ -1,5 +1,2005 @@
 [
   {
+    "id": "b8c4bd50d529",
+    "title": "🤖 Your ChatGPT therapy sessions are not private, warns Sam Altman",
+    "original_title": "Your ChatGPT therapy sessions are not private, warns Sam Altman",
+    "description": "《英文原文》 In a podcast with Theo Von, OpenAI CEO Sam Altman said that none of the conversations with ChatGPT about mental health, emotional advice, or companionship are private and can be shared with others in case of a lawsuit.",
+    "original_description": "In a podcast with Theo Von, OpenAI CEO Sam Altman said that none of the conversations with ChatGPT about mental health, emotional advice, or companionship are private and can be shared with others in case of a lawsuit.",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-therapy-sessions-not-private-openai-ceo-sam-altman-10149236/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T03:59:03Z",
+    "image": "https://images.indianexpress.com/2025/07/Sam-Altman.jpg",
+    "category": {
+      "name": "OpenAI",
+      "color": "#34C759",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.027965",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.026946",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 63,
+        "translated_length": 65,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 218,
+        "translated_length": 225,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "1198d54c4b82",
+    "title": "💰 Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…",
+    "original_title": "Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…",
+    "description": "《英文原文》 Wipro founder Azim Premji turns 80. His father, Mohamed Hasham Premji, declined Jinnah's offer to be Pakistan's Finance Minister, choosing to stay in India.",
+    "original_description": "Wipro founder Azim Premji turns 80. His father, Mohamed Hasham Premji, declined Jinnah's offer to be Pakistan's Finance Minister, choosing to stay in India.",
+    "url": "https://www.news18.com/viral/wipro-azim-premji-father-rejected-jinnah-offer-pakistan-first-finance-minister-ws-l-aa-aa-aa-9463766.html",
+    "source": "News18",
+    "publishedAt": "2025-07-26T03:58:10Z",
+    "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-26T092750.166-2025-07-b2b744e521965f82b6a4cf628610fde9-16x9.jpg",
+    "category": {
+      "name": "金融科技",
+      "color": "#3498DB",
+      "icon": "💳"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.041102",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.041102",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 94,
+        "translated_length": 96,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 156,
+        "translated_length": 163,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "c5a9e47ba4bf",
+    "title": "💻 Indian Railways: What is the status of Vande Bharat Sleeper trains?",
+    "original_title": "Indian Railways: What is the status of Vande Bharat Sleeper trains?",
+    "description": "《英文原文》 Vande Bharat Sleeper train: With a focus on comfort, speed and latest technology, the Vande Bharat Sleeper trains have been planned for long and medium distance journey.",
+    "original_description": "Vande Bharat Sleeper train: With a focus on comfort, speed and latest technology, the Vande Bharat Sleeper trains have been planned for long and medium distance journey.",
+    "url": "https://indianexpress.com/article/india/indian-railways-what-is-the-status-of-vande-bharat-sleeper-trains-10149896/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T03:34:48Z",
+    "image": "https://images.indianexpress.com/2025/07/vande-sleeper.jpg",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.045384",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.045384",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 67,
+        "translated_length": 69,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 169,
+        "translated_length": 176,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "ae6232528abf",
+    "title": "💰 Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…",
+    "original_title": "Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…",
+    "description": "《英文原文》 Wipro founder Azim Premji turns 80. His father, Mohamed Hasham Premji, declined Jinnah's offer to be Pakistan's Finance Minister, choosing to stay in India.",
+    "original_description": "Wipro founder Azim Premji turns 80. His father, Mohamed Hasham Premji, declined Jinnah's offer to be Pakistan's Finance Minister, choosing to stay in India.",
+    "url": "https://www.news18.com/viral/wipro-azim-premji-father-rejected-jinnah-offer-pakistan-first-finance-minister-ws-l-aa-aa-9463766.html",
+    "source": "News18",
+    "publishedAt": "2025-07-26T03:30:57Z",
+    "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-25T175614.600-2025-07-d1ae20a3f02af5e5bc5274ace973b10b-16x9.jpg",
+    "category": {
+      "name": "金融科技",
+      "color": "#3498DB",
+      "icon": "💳"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.041102",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.041102",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 94,
+        "translated_length": 96,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 156,
+        "translated_length": 163,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "904c536a7e9a",
+    "title": "🤖 Perplexity AI Picks Bharat Over Big Tech",
+    "original_title": "Perplexity AI Picks Bharat Over Big Tech",
+    "description": "《英文原文》 Perplexity AI is blowing up in India. The app has consistently dropped new features and has become increasingly visible owing to its aggressive marketing campaigns. Most recently, it teamed up with comedian Tanmay Bhat, who gave it a shout-out in his latest reaction video.",
+    "original_description": "Perplexity AI is blowing up in India. The app has consistently dropped new features and has become increasingly visible owing to its aggressive marketing campaigns. Most recently, it teamed up with comedian Tanmay Bhat, who gave it a shout-out in his latest reaction video.",
+    "url": "https://analyticsindiamag.com/global-tech/perplexity-ai-picks-bharat-over-big-tech/",
+    "source": "Analytics India Magazine",
+    "publishedAt": "2025-07-26T03:14:07Z",
+    "image": "https://analyticsindiamag.com/wp-content/uploads/2025/07/perplexity.jpg",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.027965",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.027965",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 40,
+        "translated_length": 42,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 273,
+        "translated_length": 280,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "db3b3d74824c",
+    "title": "🎮 8BitDo N64 Bluetooth Controller Launches Next Week For Switch & PC",
+    "original_title": "8BitDo N64 Bluetooth Controller Launches Next Week For Switch & PC",
+    "description": "《英文原文》 8BitDo's modernized Nintendo 64 controller was designed for Analogue 3D, but you can use it to play classic N64 games on Switch Online.",
+    "original_description": "8BitDo's modernized Nintendo 64 controller was designed for Analogue 3D, but you can use it to play classic N64 games on Switch Online.",
+    "url": "https://www.gamespot.com/articles/8bitdo-n64-bluetooth-controller-launches-next-week-for-switch-pc-analogue-3d/1100-6527185/",
+    "source": "GameSpot",
+    "publishedAt": "2025-07-26T02:43:31Z",
+    "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4387986-analogue-controllers.jpg",
+    "category": {
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
+    },
+    "importance": 4,
+    "added_time": "2025-07-26T12:06:20.034387",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.034387",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 66,
+        "translated_length": 68,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 135,
+        "translated_length": 142,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "80f295264e11",
+    "title": "💰 1 Dividend King Down 17% Is My Top Value Pick",
+    "original_title": "1 Dividend King Down 17% Is My Top Value Pick",
+    "description": "《英文原文》 Canadian Natural stock may be off 17%, but its solid fundamentals and rising dividends make it an attractive buy right now.",
+    "original_description": "Canadian Natural stock may be off 17%, but its solid fundamentals and rising dividends make it an attractive buy right now.",
+    "url": "https://www.fool.ca/2025/07/25/1-dividend-king-down-17-is-my-top-value-pick/",
+    "source": "The Motley Fool Canada",
+    "publishedAt": "2025-07-26T01:45:00Z",
+    "image": "https://www.fool.ca/wp-content/uploads/2024/06/GettyImages-531175920-1200x798.jpg",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.042099",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.042099",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 45,
+        "translated_length": 47,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 123,
+        "translated_length": 130,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "af974bc8843d",
+    "title": "💰 Taurus Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "original_title": "Taurus Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "description": "《英文原文》 Taurus Horoscope Today, 26 July 2025: Today's Taurus horoscope tells about your career growth and financial success.",
+    "original_description": "Taurus Horoscope Today, 26 July 2025: Today's Taurus horoscope tells about your career growth and financial success.",
+    "url": "https://indianexpress.com/article/horoscope/taurus-horoscope-today-26-july-2025-daily-astrology-prediction-for-taurus-career-finance-money-love-10148047/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T01:42:35Z",
+    "image": "https://images.indianexpress.com/2024/05/Taurus-2.jpg",
+    "category": {
+      "name": "金融科技",
+      "color": "#3498DB",
+      "icon": "💳"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.042099",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.042099",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 97,
+        "translated_length": 99,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 116,
+        "translated_length": 123,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "943748639785",
+    "title": "💰 Gemini Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "original_title": "Gemini Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "description": "《英文原文》 Gemini Horoscope Today, 26 July 2025: Today's Gemini horoscope tells about your career growth and financial success.",
+    "original_description": "Gemini Horoscope Today, 26 July 2025: Today's Gemini horoscope tells about your career growth and financial success.",
+    "url": "https://indianexpress.com/article/horoscope/gemini-horoscope-today-26-july-2025-daily-astrology-prediction-for-gemini-career-finance-money-love-10148049/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T01:42:32Z",
+    "image": "https://images.indianexpress.com/2024/05/Gemini-2.jpg",
+    "category": {
+      "name": "金融科技",
+      "color": "#3498DB",
+      "icon": "💳"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.043101",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.043101",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 97,
+        "translated_length": 99,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 116,
+        "translated_length": 123,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "64a23942bd32",
+    "title": "💰 Cancer Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "original_title": "Cancer Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "description": "《英文原文》 Cancer Horoscope Today, 26 July 2025: Today's Cancer horoscope tells about your career growth and financial success.",
+    "original_description": "Cancer Horoscope Today, 26 July 2025: Today's Cancer horoscope tells about your career growth and financial success.",
+    "url": "https://indianexpress.com/article/horoscope/cancer-horoscope-today-26-july-2025-daily-astrology-prediction-for-cancer-career-finance-money-love-10148051/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T01:42:28Z",
+    "image": "https://images.indianexpress.com/2024/05/Cancer-2.jpg",
+    "category": {
+      "name": "金融科技",
+      "color": "#3498DB",
+      "icon": "💳"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.043101",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.043101",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 97,
+        "translated_length": 99,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 116,
+        "translated_length": 123,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "93b43ddd7fad",
+    "title": "💰 Leo Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "original_title": "Leo Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "description": "《英文原文》 Leo Horoscope Today, 26 July 2025: Today's Leo horoscope tells about your career growth and financial success.",
+    "original_description": "Leo Horoscope Today, 26 July 2025: Today's Leo horoscope tells about your career growth and financial success.",
+    "url": "https://indianexpress.com/article/horoscope/leo-horoscope-today-26-july-2025-daily-astrology-prediction-for-leo-career-finance-money-love-10148053/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T01:42:25Z",
+    "image": "https://images.indianexpress.com/2024/05/Leo-2.jpg",
+    "category": {
+      "name": "金融科技",
+      "color": "#3498DB",
+      "icon": "💳"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.044100",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.044100",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 94,
+        "translated_length": 96,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 110,
+        "translated_length": 117,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "015042d9313a",
+    "title": "💰 Virgo Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "original_title": "Virgo Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "description": "《英文原文》 Virgo Horoscope Today, 26 July 2025: Today's Virgo horoscope tells about your career growth and financial success.",
+    "original_description": "Virgo Horoscope Today, 26 July 2025: Today's Virgo horoscope tells about your career growth and financial success.",
+    "url": "https://indianexpress.com/article/horoscope/virgo-horoscope-today-26-july-2025-daily-astrology-prediction-for-virgo-career-finance-money-love-10148055/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T01:42:22Z",
+    "image": "https://images.indianexpress.com/2024/05/Virgo-2.jpg",
+    "category": {
+      "name": "金融科技",
+      "color": "#3498DB",
+      "icon": "💳"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.044100",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.044100",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 96,
+        "translated_length": 98,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 114,
+        "translated_length": 121,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "eb39b4439a9a",
+    "title": "💰 Scorpio Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "original_title": "Scorpio Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "description": "《英文原文》 Scorpio Horoscope Today, 26 July 2025: Today's Scorpio horoscope tells about your career growth and financial success.",
+    "original_description": "Scorpio Horoscope Today, 26 July 2025: Today's Scorpio horoscope tells about your career growth and financial success.",
+    "url": "https://indianexpress.com/article/horoscope/scorpio-horoscope-today-26-july-2025-daily-astrology-prediction-for-scorpio-career-finance-money-love-10148059/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T01:42:16Z",
+    "image": "https://images.indianexpress.com/2024/05/Scorpio-2.jpg",
+    "category": {
+      "name": "金融科技",
+      "color": "#3498DB",
+      "icon": "💳"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.045384",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.045384",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 98,
+        "translated_length": 100,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 118,
+        "translated_length": 125,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "80857b606dd4",
+    "title": "💰 Sagittarius Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "original_title": "Sagittarius Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
+    "description": "《英文原文》 Sagittarius Horoscope Today, 26 July 2025: Today's Sagittarius horoscope tells about your career growth and financial success.",
+    "original_description": "Sagittarius Horoscope Today, 26 July 2025: Today's Sagittarius horoscope tells about your career growth and financial success.",
+    "url": "https://indianexpress.com/article/horoscope/sagittarius-horoscope-today-26-july-2025-daily-astrology-prediction-for-sagittarius-career-finance-money-love-10148061/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T01:42:11Z",
+    "image": "https://images.indianexpress.com/2024/05/Sagittarius-2.jpg",
+    "category": {
+      "name": "金融科技",
+      "color": "#3498DB",
+      "icon": "💳"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.045384",
+    "search_category": "经济金融",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.045384",
+      "category": "经济金融",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 102,
+        "translated_length": 104,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 126,
+        "translated_length": 133,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "1b28581b3317",
+    "title": "💻 Hackers prove age verification systems on pornography sites can be bypassed in seconds",
+    "original_title": "Hackers prove age verification systems on pornography sites can be bypassed in seconds",
+    "description": "《英文原文》 Using widely available technology, well-known ethical hackers Chris Kubecka and Paula Popovici quickly accessed numerous pornography sites without ever verifying their ages.",
+    "original_description": "Using widely available technology, well-known ethical hackers Chris Kubecka and Paula Popovici quickly accessed numerous pornography sites without ever verifying their ages.",
+    "url": "https://news.sky.com/story/hackers-prove-age-verification-systems-on-pornography-sites-can-be-bypassed-in-seconds-13401733",
+    "source": "Sky News",
+    "publishedAt": "2025-07-26T00:26:00Z",
+    "image": "https://e3.365dm.com/25/07/1600x900/skynews-age-verification_6974076.jpg?20250726012153",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.045384",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.045384",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 86,
+        "translated_length": 88,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 173,
+        "translated_length": 180,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "ae89a73e698b",
+    "title": "🎮 Sony is hiring to expand \"PlayStation Studios games beyond PlayStation hardware\" - partners including Xbox, Steam, Nintendo Switch, and more",
+    "original_title": "Sony is hiring to expand \"PlayStation Studios games beyond PlayStation hardware\" - partners including Xbox, Steam, Nintendo Switch, and more",
+    "description": "《英文原文》 Sony is following Microsoft's multiplatform strategy, looking to acquire a bigger third-party publishing footprint across PC and even rival consoles.",
+    "original_description": "Sony is following Microsoft's multiplatform strategy, looking to acquire a bigger third-party publishing footprint across PC and even rival consoles.",
+    "url": "https://www.windowscentral.com/gaming/sony-is-hiring-to-expand-playstation-studios-games-beyond-playstation-hardware-including-xbox-steam-nintendo-switch-and-more",
+    "source": "Windows Central",
+    "publishedAt": "2025-07-26T00:09:01Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/5y7DFaPNPFjegunXT482F3.jpg",
+    "category": {
+      "name": "PlayStation",
+      "color": "#003087",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.035605",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.035605",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 140,
+        "translated_length": 142,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 149,
+        "translated_length": 156,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "ae89a73e698b",
+    "title": "💻 Sony is hiring to expand \"PlayStation Studios games beyond PlayStation hardware\" - partners including Xbox, Steam, Nintendo Switch, and more",
+    "original_title": "Sony is hiring to expand \"PlayStation Studios games beyond PlayStation hardware\" - partners including Xbox, Steam, Nintendo Switch, and more",
+    "description": "《英文原文》 Sony is following Microsoft's multiplatform strategy, looking to acquire a bigger third-party publishing footprint across PC and even rival consoles.",
+    "original_description": "Sony is following Microsoft's multiplatform strategy, looking to acquire a bigger third-party publishing footprint across PC and even rival consoles.",
+    "url": "https://www.windowscentral.com/gaming/sony-is-hiring-to-expand-playstation-studios-games-beyond-playstation-hardware-including-xbox-steam-nintendo-switch-and-more",
+    "source": "Windows Central",
+    "publishedAt": "2025-07-26T00:09:01Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/5y7DFaPNPFjegunXT482F3.jpg",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.045384",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.045384",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 140,
+        "translated_length": 142,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 149,
+        "translated_length": 156,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "cf732fab5b2e",
+    "title": "💻 Students invited to take part in Skills Ontario summer camp",
+    "original_title": "Students invited to take part in Skills Ontario summer camp",
+    "description": "《英文原文》 Trades and Tech Camps program are designed for students entering Grades 7 to 9 giving them the chance to participate in skilled trade and technology workshops and tours",
+    "original_description": "Trades and Tech Camps program are designed for students entering Grades 7 to 9 giving them the chance to participate in skilled trade and technology workshops and tours",
+    "url": "https://www.sootoday.com/local-news/students-invited-to-take-part-in-skills-ontario-summer-camp-10969543",
+    "source": "SooToday",
+    "publishedAt": "2025-07-26T00:00:00Z",
+    "image": "https://www.vmcdn.ca/f/files/shared/miscellaneous-stock-images/woodworking-carpentry-stock.jpeg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.046377",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.046377",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 59,
+        "translated_length": 61,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 168,
+        "translated_length": 175,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "ac2f14587542",
+    "title": "🤖 GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger",
+    "original_title": "GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger",
+    "description": "《英文原文》 The GPD Win 5 will house the Ryzen AI Max+ 395 chip, with AMD’s most powerful integrated graphics, inside a PlayStation Vita-shaped machine.",
+    "original_description": "The GPD Win 5 will house the Ryzen AI Max+ 395 chip, with AMD’s most powerful integrated graphics, inside a PlayStation Vita-shaped machine.",
+    "url": "https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed",
+    "source": "The Verge",
+    "publishedAt": "2025-07-25T23:19:12Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/vlcsnap-2025-07-25-09h10m39s214.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.028953",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.028953",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 81,
+        "translated_length": 83,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 140,
+        "translated_length": 147,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "ac2f14587542",
+    "title": "🎮 GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger",
+    "original_title": "GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger",
+    "description": "《英文原文》 The GPD Win 5 will house the Ryzen AI Max+ 395 chip, with AMD’s most powerful integrated graphics, inside a PlayStation Vita-shaped machine.",
+    "original_description": "The GPD Win 5 will house the Ryzen AI Max+ 395 chip, with AMD’s most powerful integrated graphics, inside a PlayStation Vita-shaped machine.",
+    "url": "https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed",
+    "source": "The Verge",
+    "publishedAt": "2025-07-25T23:19:12Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/vlcsnap-2025-07-25-09h10m39s214.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "category": {
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.035605",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.035605",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 81,
+        "translated_length": 83,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 140,
+        "translated_length": 147,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "ed07cb5791a3",
+    "title": "🤖 What if Clippy and AI Cloud intelligence had a baby? It would probably look like Microsoft's new Copilot Appearance feature",
+    "original_title": "What if Clippy and AI Cloud intelligence had a baby? It would probably look like Microsoft's new Copilot Appearance feature",
+    "description": "《英文原文》 Microsoft is giving Copilot a smile, but that doesn't mean it will laugh at your jokes",
+    "original_description": "Microsoft is giving Copilot a smile, but that doesn't mean it will laugh at your jokes",
+    "url": "https://www.techradar.com/ai-platforms-assistants/what-if-clippy-and-ai-cloud-intelligence-had-a-baby-it-would-probably-look-like-microsofts-new-copilot-appearance-feature",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-25T23:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/6bLKPCpj4GZeYNYXnmR8GN.png",
+    "category": {
+      "name": "微软AI",
+      "color": "#5856D6",
+      "icon": "💼"
+    },
+    "importance": 2,
+    "added_time": "2025-07-26T12:06:20.028953",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.028953",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 123,
+        "translated_length": 125,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 86,
+        "translated_length": 93,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "ed07cb5791a3",
+    "title": "💻 What if Clippy and AI Cloud intelligence had a baby? It would probably look like Microsoft's new Copilot Appearance feature",
+    "original_title": "What if Clippy and AI Cloud intelligence had a baby? It would probably look like Microsoft's new Copilot Appearance feature",
+    "description": "《英文原文》 Microsoft is giving Copilot a smile, but that doesn't mean it will laugh at your jokes",
+    "original_description": "Microsoft is giving Copilot a smile, but that doesn't mean it will laugh at your jokes",
+    "url": "https://www.techradar.com/ai-platforms-assistants/what-if-clippy-and-ai-cloud-intelligence-had-a-baby-it-would-probably-look-like-microsofts-new-copilot-appearance-feature",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-25T23:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/6bLKPCpj4GZeYNYXnmR8GN.png",
+    "category": {
+      "name": "微软",
+      "color": "#00BCF2",
+      "icon": "💼"
+    },
+    "importance": 2,
+    "added_time": "2025-07-26T12:06:20.046377",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.046377",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 123,
+        "translated_length": 125,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 86,
+        "translated_length": 93,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "f9f7462abebe",
+    "title": "💻 UPDATE 1-Social media companies not liable for 2022 Buffalo mass shooting, New York court rules",
+    "original_title": "UPDATE 1-Social media companies not liable for 2022 Buffalo mass shooting, New York court rules",
+    "description": "《英文原文》 Reversing a lower court ruling, the state Appellate Division in Rochester said defendants including Meta Platforms' Facebook and Instagram, Google's YouTube, and Reddit were entitled to immunity under a federal law that protects online platforms from liability over user content. The case arose from Payton Gendron's racially motivated mass shooting at Tops Friendly Markets on May 14, 2022.",
+    "original_description": "Reversing a lower court ruling, the state Appellate Division in Rochester said defendants including Meta Platforms' Facebook and Instagram, Google's YouTube, and Reddit were entitled to immunity under a federal law that protects online platforms from liability over user content. The case arose from Payton Gendron's racially motivated mass shooting at Tops Friendly Markets on May 14, 2022.",
+    "url": "https://www.devdiscourse.com/article/technology/3517663-update-1-social-media-companies-not-liable-for-2022-buffalo-mass-shooting-new-york-court-rules",
+    "source": "Devdiscourse",
+    "publishedAt": "2025-07-25T22:51:07Z",
+    "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_35_2442501.png?width=920&format=jpeg",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.046377",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.046377",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 95,
+        "translated_length": 97,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 391,
+        "translated_length": 398,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "ca5fd14eb8ef",
+    "title": "🤖 artificial superintelligence",
+    "original_title": "artificial superintelligence",
+    "description": "《英文原文》 Meta CEO Mark Zuckerberg is on a mission for his company to be the first to reach so-called artificial superintelligence — generally considered to mean AI that’s better than all humans at all knowledge work.",
+    "original_description": "Meta CEO Mark Zuckerberg is on a mission for his company to be the first to reach so-called artificial superintelligence — generally considered to mean AI that’s better than all humans at all knowledge work.",
+    "url": "https://www.cp24.com/news/world/2025/07/25/meta-is-shelling-out-big-bucks-to-get-ahead-in-ai-heres-who-its-hiring/",
+    "source": "CP24 Toronto",
+    "publishedAt": "2025-07-25T22:33:25Z",
+    "image": "https://www.cp24.com/resizer/v2/YGMVDXIB3FHZNEY5DSOO3NVIZU.JPG?smart=true&auth=84a0ee970dba8a83b35672b256572b903f6c7efaa91890ef743c585d0fdacad3&width=1200&height=630",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.029952",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.029952",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 28,
+        "translated_length": 30,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 207,
+        "translated_length": 214,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "ca5fd14eb8ef",
+    "title": "💻 artificial superintelligence",
+    "original_title": "artificial superintelligence",
+    "description": "《英文原文》 Meta CEO Mark Zuckerberg is on a mission for his company to be the first to reach so-called artificial superintelligence — generally considered to mean AI that’s better than all humans at all knowledge work.",
+    "original_description": "Meta CEO Mark Zuckerberg is on a mission for his company to be the first to reach so-called artificial superintelligence — generally considered to mean AI that’s better than all humans at all knowledge work.",
+    "url": "https://www.cp24.com/news/world/2025/07/25/meta-is-shelling-out-big-bucks-to-get-ahead-in-ai-heres-who-its-hiring/",
+    "source": "CP24 Toronto",
+    "publishedAt": "2025-07-25T22:33:25Z",
+    "image": "https://www.cp24.com/resizer/v2/YGMVDXIB3FHZNEY5DSOO3NVIZU.JPG?smart=true&auth=84a0ee970dba8a83b35672b256572b903f6c7efaa91890ef743c585d0fdacad3&width=1200&height=630",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.047388",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.047388",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 28,
+        "translated_length": 30,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 207,
+        "translated_length": 214,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "58d099f7e1e7",
+    "title": "💻 Every legal question about the Tea dating app drama, answered",
+    "original_title": "Every legal question about the Tea dating app drama, answered",
+    "description": "《英文原文》 Tea Dating Advice app rocketed to the top of Apple’s app store this week — and now it’s suffered a data privacy breach. The app is for women to report issues with men. The point is helping keep women safe — but what about privacy and defamation? Our legal analyst Elliot Williams explains.",
+    "original_description": "Tea Dating Advice app rocketed to the top of Apple’s app store this week — and now it’s suffered a data privacy breach. The app is for women to report issues with men. The point is helping keep women safe — but what about privacy and defamation? Our legal analyst Elliot Williams explains.",
+    "url": "https://edition.cnn.com/2025/07/25/us/tea-app-dating-privacy-cec",
+    "source": "Cable News Network",
+    "publishedAt": "2025-07-25T22:33:11Z",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/rmw-0495.jpg?c=16x9&q=w_800,c_fill",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.047388",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.047388",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 61,
+        "translated_length": 63,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 289,
+        "translated_length": 296,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "1b74d87ecafb",
+    "title": "🤖 B.C. man files class action against Amazon for Alexa data collection",
+    "original_title": "B.C. man files class action against Amazon for Alexa data collection",
+    "description": "《英文原文》 B.C. Supreme Court proposed class action against Amazon claims privacy breaches and the retention of data to train AI.",
+    "original_description": "B.C. Supreme Court proposed class action against Amazon claims privacy breaches and the retention of data to train AI.",
+    "url": "https://www.vancouverisawesome.com/bc-news/bc-man-files-class-action-against-amazon-for-alexa-data-collection-10989437",
+    "source": "Vancouver Is Awesome",
+    "publishedAt": "2025-07-25T22:31:53Z",
+    "image": "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/echodotdevicealexa.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.030959",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.030959",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 68,
+        "translated_length": 70,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 118,
+        "translated_length": 125,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "c7437fb24169",
+    "title": "💻 1 in 3 US smartphone imports now made in India, China’s lead shrinks",
+    "original_title": "1 in 3 US smartphone imports now made in India, China’s lead shrinks",
+    "description": "《英文原文》 India’s growing share — now 1 in 3, driven largely by Apple iPhones — comes amid ongoing trade talks with the US. While smartphones are India’s top export to the US by value, President Donald Trump has threatened a 25 per cent tariff on Indian-made iPhones.",
+    "original_description": "India’s growing share — now 1 in 3, driven largely by Apple iPhones — comes amid ongoing trade talks with the US. While smartphones are India’s top export to the US by value, President Donald Trump has threatened a 25 per cent tariff on Indian-made iPhones.",
+    "url": "https://indianexpress.com/article/business/commodities/1-in-3-us-smartphone-imports-now-made-in-india-chinas-lead-shrinks-10150262/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-25T22:30:58Z",
+    "image": "https://images.indianexpress.com/2025/07/mobile-phone-apps-759_dab0f8.jpg",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.048384",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.048384",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 68,
+        "translated_length": 70,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 257,
+        "translated_length": 264,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "6dc092f7a395",
+    "title": "💻 Wright denied bail during appeal of Renée Sweeney murder case",
+    "original_title": "Wright denied bail during appeal of Renée Sweeney murder case",
+    "description": "《英文原文》 With the advance of DNA technology, Robert Steven Wright was convicted of second degree murder two years ago in the 1998 stabbing death of Sudbury student Renée Sweeney; on July 25, Wright applied for but was denied bail while he awaits an appeal",
+    "original_description": "With the advance of DNA technology, Robert Steven Wright was convicted of second degree murder two years ago in the 1998 stabbing death of Sudbury student Renée Sweeney; on July 25, Wright applied for but was denied bail while he awaits an appeal",
+    "url": "https://www.sootoday.com/city-police-beat/wright-denied-bail-during-appeal-of-renee-sweeney-murder-case-10991893",
+    "source": "SooToday",
+    "publishedAt": "2025-07-25T21:30:00Z",
+    "image": "https://www.vmcdn.ca/f/files/sudbury/images/LocalImages/180423_robert-steven-wright-2.jpg;w=1200;h=800;mode=crop",
+    "category": {
+      "name": "科技创新",
+      "color": "#95A5A6",
+      "icon": "💻"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.049382",
+    "search_category": "科技创新",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.049382",
+      "category": "科技创新",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 61,
+        "translated_length": 63,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 246,
+        "translated_length": 253,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "3c132cf2c5ad",
+    "title": "🤖 Weapon blueprints are flooding 3D sites, and police want your printer to block them automatically",
+    "original_title": "Weapon blueprints are flooding 3D sites, and police want your printer to block them automatically",
+    "description": "《英文原文》 3D printing’s dark side shows - but AI, cops, and forensic tools are fighting back",
+    "original_description": "3D printing’s dark side shows - but AI, cops, and forensic tools are fighting back",
+    "url": "https://www.techradar.com/pro/3d-printed-weapon-templates-have-gone-mainstream-and-its-as-bad-as-you-think",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-25T21:04:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/vCbcCrCFaY6YLyLTRGvbxC.png",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.030959",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.030959",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 97,
+        "translated_length": 99,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 82,
+        "translated_length": 89,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "bdc2d19f7301",
+    "title": "🎮 Xbox Game Pass' Oblivion Remastered hits huge milestone - but there's a problem",
+    "original_title": "Xbox Game Pass' Oblivion Remastered hits huge milestone - but there's a problem",
+    "description": "《英文原文》 One of Xbox's biggest Game Pass hits this year, Oblivion Remastered, just hit a massive milestone. However, \"Mixed\" PC reviews highlight a huge problem with it.",
+    "original_description": "One of Xbox's biggest Game Pass hits this year, Oblivion Remastered, just hit a massive milestone. However, \"Mixed\" PC reviews highlight a huge problem with it.",
+    "url": "https://www.windowscentral.com/gaming/xbox/xbox-game-pass-oblivion-remastered-hits-huge-milestone-but-theres-a-problem",
+    "source": "Windows Central",
+    "publishedAt": "2025-07-25T21:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/rAbq9RtrVjaW8yX8qGhCAZ.jpg",
+    "category": {
+      "name": "Xbox",
+      "color": "#107C10",
+      "icon": "🎯"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.036618",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.036618",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 79,
+        "translated_length": 81,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 160,
+        "translated_length": 167,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "4c5f0cc7867e",
+    "title": "🤖 Meta names Shengjia Zhao as chief scientist of AI superintelligence unit",
+    "original_title": "Meta names Shengjia Zhao as chief scientist of AI superintelligence unit",
+    "description": "《英文原文》 Shengjia Zhao, a former OpenAI researcher, will round out the leadership team at Meta's new AI lab.",
+    "original_description": "Shengjia Zhao, a former OpenAI researcher, will round out the leadership team at Meta's new AI lab.",
+    "url": "https://techcrunch.com/2025/07/25/meta-names-shengjia-zhao-as-chief-scientist-of-ai-superintelligence-unit/",
+    "source": "TechCrunch",
+    "publishedAt": "2025-07-25T20:58:37Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+    "category": {
+      "name": "Meta AI",
+      "color": "#1877F2",
+      "icon": "🌐"
+    },
+    "importance": 2,
+    "added_time": "2025-07-26T12:06:20.031954",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.031954",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 72,
+        "translated_length": 74,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 99,
+        "translated_length": 106,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "04d5ceacc79a",
+    "title": "🤖 King Gizzard and the Lizard Wizard Pulls Music Off Spotify",
+    "original_title": "King Gizzard and the Lizard Wizard Pulls Music Off Spotify",
+    "description": "《英文原文》 King Gizzard & the Lizard Wizard pulled their music off Spotify, citing CEO Daniel Ek's investment in 'AI military drone technology.'",
+    "original_description": "King Gizzard & the Lizard Wizard pulled their music off Spotify, citing CEO Daniel Ek's investment in 'AI military drone technology.'",
+    "url": "https://variety.com/2025/music/news/king-gizzard-and-the-lizard-wizard-pulls-music-off-spotify-1236470802/",
+    "source": "Variety",
+    "publishedAt": "2025-07-25T20:34:28Z",
+    "image": "https://variety.com/wp-content/uploads/2025/07/KGLW_PhotoCredit_MaclayHeriot.jpg?w=1000&h=563&crop=1",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.032961",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.032961",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 58,
+        "translated_length": 60,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 133,
+        "translated_length": 140,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "385f7d36db79",
+    "title": "🎮 Frostpunk 2 finally has a console release date for Xbox Series X|S and PS5 - and it's still coming to Xbox Game Pass",
+    "original_title": "Frostpunk 2 finally has a console release date for Xbox Series X|S and PS5 - and it's still coming to Xbox Game Pass",
+    "description": "《英文原文》 11 bit studios' Frostpunk 2 is finally headed to Xbox Series X|S and PlayStation 5 in September 2025, with the game still launching on Xbox Game Pass.",
+    "original_description": "11 bit studios' Frostpunk 2 is finally headed to Xbox Series X|S and PlayStation 5 in September 2025, with the game still launching on Xbox Game Pass.",
+    "url": "https://www.windowscentral.com/gaming/frostpunk-2-console-release-date-september-2025-xbox-game-pass",
+    "source": "Windows Central",
+    "publishedAt": "2025-07-25T20:30:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/hfgNa6YFWR7DsgqkGi6vkS.jpg",
+    "category": {
+      "name": "PlayStation",
+      "color": "#003087",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.036618",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.036618",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 116,
+        "translated_length": 118,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 150,
+        "translated_length": 157,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "c9cf412e9d78",
+    "title": "🤖 Switched to ChatGPT for search? Google wants to tempt you back with Web Guide - here’s how to try it",
+    "original_title": "Switched to ChatGPT for search? Google wants to tempt you back with Web Guide - here’s how to try it",
+    "description": "《英文原文》 AI search comes in many flavors",
+    "original_description": "AI search comes in many flavors",
+    "url": "https://www.techradar.com/ai-platforms-assistants/switched-to-chatgpt-for-search-google-wants-to-tempt-you-back-with-web-guide-heres-how-to-try-it",
+    "source": "TechRadar",
+    "publishedAt": "2025-07-25T20:00:00Z",
+    "image": "https://cdn.mos.cms.futurecdn.net/RudaT5Ksvv6TchPN2H7hxD.png",
+    "category": {
+      "name": "OpenAI",
+      "color": "#34C759",
+      "icon": "🤖"
+    },
+    "importance": 2,
+    "added_time": "2025-07-26T12:06:20.033877",
+    "search_category": "AI科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.033877",
+      "category": "AI科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 100,
+        "translated_length": 102,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 31,
+        "translated_length": 38,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "54ddb87f428a",
+    "title": "🎮 Regulator zeros in on Bally’s Star rescue deal",
+    "original_title": "Regulator zeros in on Bally’s Star rescue deal",
+    "description": "《英文原文》 The American giant’s plans to take control of the gaming group will need approval from the NSW casino commission, which has flagged concerns about finances.",
+    "original_description": "The American giant’s plans to take control of the gaming group will need approval from the NSW casino commission, which has flagged concerns about finances.",
+    "url": "https://www.afr.com/companies/games-and-wagering/regulator-zeros-in-on-bally-s-star-rescue-deal-20250724-p5mhfi",
+    "source": "The Australian Financial Review",
+    "publishedAt": "2025-07-25T19:00:00Z",
+    "image": "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_100/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/761b47e008a2b4b99a9c24eab36ffe452ed51fe2",
+    "category": {
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.038084",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.038084",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 46,
+        "translated_length": 48,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 156,
+        "translated_length": 163,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "02e625d8e0a8",
+    "title": "🎮 You can now easily buy a Switch 2 without jumping through hoops",
+    "original_title": "You can now easily buy a Switch 2 without jumping through hoops",
+    "description": "《英文原文》 The Nintendo Switch is the fastest-selling console in US history, and has repeatedly sold out. It’s now staying in stock much longer at stores.",
+    "original_description": "The Nintendo Switch is the fastest-selling console in US history, and has repeatedly sold out. It’s now staying in stock much longer at stores.",
+    "url": "https://www.theverge.com/tech/713828/nintendo-switch-in-stock-best-buy-amazon-target-walmart",
+    "source": "The Verge",
+    "publishedAt": "2025-07-25T18:00:00Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "category": {
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.039102",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.039102",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 63,
+        "translated_length": 65,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 143,
+        "translated_length": 150,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "d923671a3feb",
+    "title": "🎮 Netflix’s push into tie-in games now includes two weird Happy Gilmore titles",
+    "original_title": "Netflix’s push into tie-in games now includes two weird Happy Gilmore titles",
+    "description": "《英文原文》 With the premiere of Happy Gilmore 2 on Netflix comes a pair of tie-in video games that are part of the streamer’s new gaming strategy.",
+    "original_description": "With the premiere of Happy Gilmore 2 on Netflix comes a pair of tie-in video games that are part of the streamer’s new gaming strategy.",
+    "url": "https://www.theverge.com/games/713886/netflix-happy-gilmore-2-games",
+    "source": "The Verge",
+    "publishedAt": "2025-07-25T17:00:00Z",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Screenshot-2025-07-24-at-3.38.50%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+    "category": {
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.040092",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.039102",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 76,
+        "translated_length": 78,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 135,
+        "translated_length": 142,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "2d22e9f6bd8a",
+    "title": "🎮 Senior Financial Analyst",
+    "original_title": "Senior Financial Analyst",
+    "description": "《英文原文》 GAME ON – OLG needs you We’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming ch",
+    "original_description": "GAME ON – OLG needs you We’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming ch",
+    "url": "https://www.sootoday.com/classifieds/careers/professional-services/1992130",
+    "source": "SooToday",
+    "publishedAt": "2025-07-25T16:19:39Z",
+    "image": "https://www.vmcdn.ca/f/files/sootoday/images/corporate-logos/_logo_olg_1500x600.jpg",
+    "category": {
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.040092",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.040092",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 24,
+        "translated_length": 26,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 232,
+        "translated_length": 239,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
+    "id": "2fa1ec5de74c",
+    "title": "🎮 Lottery Project Portfolio Student",
+    "original_title": "Lottery Project Portfolio Student",
+    "description": "《英文原文》 GAME ON – OLG needs you We’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming ch",
+    "original_description": "GAME ON – OLG needs you We’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming ch",
+    "url": "https://www.sootoday.com/classifieds/careers/professional-services/1992128",
+    "source": "SooToday",
+    "publishedAt": "2025-07-25T16:16:46Z",
+    "image": "https://www.vmcdn.ca/f/files/sootoday/images/corporate-logos/_logo_olg_1500x600.jpg",
+    "category": {
+      "name": "游戏科技",
+      "color": "#9B59B6",
+      "icon": "🎮"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T12:06:20.040092",
+    "search_category": "游戏科技",
+    "translation_metadata": {
+      "translation_time": "2025-07-26T12:06:20.040092",
+      "category": "游戏科技",
+      "translation_engine": "enhanced_news_translator",
+      "title_translation": {
+        "service": "none",
+        "confidence": 0.3,
+        "quality_score": 0.0,
+        "method": "rule_based",
+        "original_length": 33,
+        "translated_length": 35,
+        "is_ai_translated": false,
+        "translation_status": "rule_fallback"
+      },
+      "description_translation": {
+        "service": "none",
+        "confidence": 0.1,
+        "quality_score": 0.0,
+        "method": "original_text",
+        "original_length": 232,
+        "translated_length": 239,
+        "is_segmented": false,
+        "is_ai_translated": false,
+        "translation_status": "original_fallback"
+      },
+      "overall_quality": {
+        "average_confidence": 0.2,
+        "translation_success_rate": 0.0,
+        "has_ai_translation": false
+      }
+    }
+  },
+  {
     "id": "a5359ba31e99",
     "title": "人工智能设计蛋白质助力个性化癌症治疗",
     "original_title": "AI-designed proteins bring personalized cancer treatment within reach",
