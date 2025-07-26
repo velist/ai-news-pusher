@@ -6,6 +6,8 @@
     "enabled": true,
     "autoAlias": true
   },
+  "buildCommand": "echo 'No build needed'",
+  "outputDirectory": "docs",
   "rewrites": [
     {
       "source": "/",
