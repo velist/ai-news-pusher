@@ -11,7 +11,11 @@ import urllib.parse
 import time
 import hashlib
 from datetime import datetime, timedelta
+from dotenv import load_dotenv
 from translation.services.siliconflow_translator import SiliconFlowTranslator
+
+# 加载环境变量
+load_dotenv()
 
 class EnhancedAINewsAccumulator:
     def __init__(self):
