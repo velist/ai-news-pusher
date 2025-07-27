@@ -1,5 +1,284 @@
 [
   {
+    "id": "07fb414d6fff",
+    "title": "“最佳使用人工智能”：德里学校帮助学生体验梦想职业",
+    "original_title": "‘Best Use Of AI’: Delhi School Helps Students Experience Their Dream Careers",
+    "description": "德里市的斯apphire国际学校利用人工智能将学生的梦想职业转化为逼真的投影，并记录下他们的反应，在社交媒体上赢得了广泛的心动。",
+    "original_description": "Delhi's Sapphire International School uses AI to turn students' dream careers into lifelike projections, capturing their reactions and winning hearts on social media.",
+    "url": "https://www.news18.com/viral/aspire-to-be-a-doctor-delhi-school-uses-ai-to-show-students-living-dream-jobs-ws-l-aa-aa-9464999.html",
+    "source": "News18",
+    "publishedAt": "2025-07-26T06:38:57Z",
+    "image": "https://images.news18.com/ibnlive/uploads/2025/07/DYK-Snakes-and-Ladders-was-originated-in-India-2025-07-26T120300.987-2025-07-7e8b6822e9ae6a9f52d9adbe163d0ba7-16x9.png",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "AI科技",
+    "ai_translation": {
+      "translated_title": "“最佳使用人工智能”：德里学校帮助学生体验梦想职业",
+      "translated_description": "德里市的斯apphire国际学校利用人工智能将学生的梦想职业转化为逼真的投影，并记录下他们的反应，在社交媒体上赢得了广泛的心动。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479406",
+      "original_title": "‘Best Use Of AI’: Delhi School Helps Students Experience Their Dream Careers",
+      "original_description": "Delhi's Sapphire International School uses AI to turn students' dream careers into lifelike projections, capturing their reactions and winning hearts on social media."
+    }
+  },
+  {
+    "id": "c618cc020daf",
+    "title": "Alphabet财报显示净利润增长，称刚推出的Google AI模式在印度进展顺利",
+    "original_title": "Alphabet sees increase in net profit, says recently launched AI Mode on Google 'going well' in India",
+    "description": "该公司营收同比增长14%，达到964亿美元，主要得益于强劲的谷歌云销售。云业务部门成为增长的主要驱动力，营收较上年增长32%，达到136.2亿美元。",
+    "original_description": "The company’s revenue grew 14 per cent year-over-year to $96.4 billion, largely fueled by strong Google Cloud sales. The cloud division proved to be a major driver of growth, with revenue increasing 32 per cent from the previous year to $13.62 billion",
+    "url": "https://www.firstpost.com/tech/alphabet-sees-increase-in-net-profit-says-recently-launched-ai-mode-on-google-going-well-in-india-13913145.html",
+    "source": "Firstpost",
+    "publishedAt": "2025-07-26T06:37:34Z",
+    "image": "https://images.firstpost.com/uploads/2025/05/2025-05-20T130637Z_1_LYNXMPEL4J0LO_RTROPTP_4_ALPHABET-RESULTS-2025-05-9b1167f16eec7e35461ee1db4a58fdfe-1200x675.jpg?im=FitAndFill=(1200,675)",
+    "category": {
+      "name": "谷歌AI",
+      "color": "#007AFF",
+      "icon": "🔍"
+    },
+    "importance": 2,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "AI科技",
+    "ai_translation": {
+      "translated_title": "Alphabet财报显示净利润增长，称刚推出的Google AI模式在印度进展顺利",
+      "translated_description": "该公司营收同比增长14%，达到964亿美元，主要得益于强劲的谷歌云销售。云业务部门成为增长的主要驱动力，营收较上年增长32%，达到136.2亿美元。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.8200000000000001
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479406",
+      "original_title": "Alphabet sees increase in net profit, says recently launched AI Mode on Google 'going well' in India",
+      "original_description": "The company’s revenue grew 14 per cent year-over-year to $96.4 billion, largely fueled by strong Google Cloud sales. The cloud division proved to be a major driver of growth, with revenue increasing 32 per cent from the previous year to $13.62 billion"
+    }
+  },
+  {
+    "id": "c618cc020daf",
+    "title": "Alphabet财报显示净利润增长，称刚推出的Google AI模式在印度进展顺利",
+    "original_title": "Alphabet sees increase in net profit, says recently launched AI Mode on Google 'going well' in India",
+    "description": "该公司营收同比增长14%，达到964亿美元，主要得益于强劲的谷歌云销售。云业务部门成为增长的重要驱动力，营收较上年增长32%，达到136.2亿美元。",
+    "original_description": "The company’s revenue grew 14 per cent year-over-year to $96.4 billion, largely fueled by strong Google Cloud sales. The cloud division proved to be a major driver of growth, with revenue increasing 32 per cent from the previous year to $13.62 billion",
+    "url": "https://www.firstpost.com/tech/alphabet-sees-increase-in-net-profit-says-recently-launched-ai-mode-on-google-going-well-in-india-13913145.html",
+    "source": "Firstpost",
+    "publishedAt": "2025-07-26T06:37:34Z",
+    "image": "https://images.firstpost.com/uploads/2025/05/2025-05-20T130637Z_1_LYNXMPEL4J0LO_RTROPTP_4_ALPHABET-RESULTS-2025-05-9b1167f16eec7e35461ee1db4a58fdfe-1200x675.jpg?im=FitAndFill=(1200,675)",
+    "category": {
+      "name": "科技资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 2,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "科技创新",
+    "ai_translation": {
+      "translated_title": "Alphabet财报显示净利润增长，称刚推出的Google AI模式在印度进展顺利",
+      "translated_description": "该公司营收同比增长14%，达到964亿美元，主要得益于强劲的谷歌云销售。云业务部门成为增长的重要驱动力，营收较上年增长32%，达到136.2亿美元。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.8200000000000001
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479851",
+      "original_title": "Alphabet sees increase in net profit, says recently launched AI Mode on Google 'going well' in India",
+      "original_description": "The company’s revenue grew 14 per cent year-over-year to $96.4 billion, largely fueled by strong Google Cloud sales. The cloud division proved to be a major driver of growth, with revenue increasing 32 per cent from the previous year to $13.62 billion"
+    }
+  },
+  {
+    "id": "135c073a962d",
+    "title": "中国呼吁全球人工智能合作，特朗普政府刚公布低监管策略几天后",
+    "original_title": "China calls for global AI cooperation days after Trump administration unveils low-regulation strategy",
+    "description": "中国总理在全球会议上警告，人工智能发展必须权衡安全风险，并呼吁全社会进一步达成共识",
+    "original_description": "Chinese premier warns at global conference AI development must be weighed against security risks, urges ‘further consensus from the entire society’",
+    "url": "https://www.theguardian.com/technology/2025/jul/26/china-calls-for-global-ai-cooperation-days-after-trump-administration-unveils-low-regulation-strategy",
+    "source": "The Guardian",
+    "publishedAt": "2025-07-26T06:25:39Z",
+    "image": "https://i.guim.co.uk/img/media/dea6a3719bec0d69b2c8a5d710dc44538eac9f70/243_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a56a925a576d35fa05ee48bab7669ae7",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "AI科技",
+    "ai_translation": {
+      "translated_title": "中国呼吁全球人工智能合作，特朗普政府刚公布低监管策略几天后",
+      "translated_description": "中国总理在全球会议上警告，人工智能发展必须权衡安全风险，并呼吁全社会进一步达成共识",
+      "translation_confidence": {
+        "title": 0.77,
+        "description": 0.77
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479406",
+      "original_title": "China calls for global AI cooperation days after Trump administration unveils low-regulation strategy",
+      "original_description": "Chinese premier warns at global conference AI development must be weighed against security risks, urges ‘further consensus from the entire society’"
+    }
+  },
+  {
+    "id": "4c8135933d0c",
+    "title": "微软小助手现在有了面貌：这是人工智能聊天机器人长啥样",
+    "original_title": "Microsoft Copilot now has a face: Here’s how the AI chatbot looks like",
+    "description": "副驾模式是一款新功能，它为AI聊天机器人带来了实时面部表情和非言语提示。",
+    "original_description": "Copilot Appearance is a new feature that brings real-time facial expressions and non-verbal cues to the AI chatbot.",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-copilot-appearance-visual-avatar-10150527/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T06:22:10Z",
+    "image": "https://images.indianexpress.com/2025/07/Microsoft-Copilot-Appearance-1.png",
+    "category": {
+      "name": "AI科技",
+      "color": "#FF6B35",
+      "icon": "🤖"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "AI科技",
+    "ai_translation": {
+      "translated_title": "微软小助手现在有了面貌：这是人工智能聊天机器人长啥样",
+      "translated_description": "副驾模式是一款新功能，它为AI聊天机器人带来了实时面部表情和非言语提示。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479406",
+      "original_title": "Microsoft Copilot now has a face: Here’s how the AI chatbot looks like",
+      "original_description": "Copilot Appearance is a new feature that brings real-time facial expressions and non-verbal cues to the AI chatbot."
+    }
+  },
+  {
+    "id": "4c8135933d0c",
+    "title": "微软小助手现在有了面貌：这是人工智能聊天机器人长啥样",
+    "original_title": "Microsoft Copilot now has a face: Here’s how the AI chatbot looks like",
+    "description": "副驾模式是一款新功能，它为AI聊天机器人带来了实时面部表情和非言语提示。",
+    "original_description": "Copilot Appearance is a new feature that brings real-time facial expressions and non-verbal cues to the AI chatbot.",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-copilot-appearance-visual-avatar-10150527/",
+    "source": "The Indian Express",
+    "publishedAt": "2025-07-26T06:22:10Z",
+    "image": "https://images.indianexpress.com/2025/07/Microsoft-Copilot-Appearance-1.png",
+    "category": {
+      "name": "科技资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "科技创新",
+    "ai_translation": {
+      "translated_title": "微软小助手现在有了面貌：这是人工智能聊天机器人长啥样",
+      "translated_description": "副驾模式是一款新功能，它为AI聊天机器人带来了实时面部表情和非言语提示。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479851",
+      "original_title": "Microsoft Copilot now has a face: Here’s how the AI chatbot looks like",
+      "original_description": "Copilot Appearance is a new feature that brings real-time facial expressions and non-verbal cues to the AI chatbot."
+    }
+  },
+  {
+    "id": "06605af7a76c",
+    "title": "谷歌地图错误导致汽车在那纳瓦姆邦坠入溪流，女性司机获救",
+    "original_title": "Google Maps Error Plunges Car Into Stream In Navi Mumbai, Woman Driver Rescued",
+    "description": "导航软件 reportedly 将其引导至桥下的路线，通往德鲁瓦塔拉码头，而不是指引她到正确的过桥位置。",
+    "original_description": "Instead of guiding her to the proper bridge, the navigation app reportedly directed her to a route beneath the bridge leading to the Dhruvatara Jetty.",
+    "url": "https://www.news18.com/india/google-maps-error-plunges-car-into-stream-in-navi-mumbai-woman-driver-rescued-9464959.html",
+    "source": "News18",
+    "publishedAt": "2025-07-26T06:19:56Z",
+    "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-26T114822.584-2025-07-eadacc89b1ce9955ec4d2ca58c0f31f1-16x9.jpg",
+    "category": {
+      "name": "科技资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "科技创新",
+    "ai_translation": {
+      "translated_title": "谷歌地图错误导致汽车在那纳瓦姆邦坠入溪流，女性司机获救",
+      "translated_description": "导航软件 reportedly 将其引导至桥下的路线，通往德鲁瓦塔拉码头，而不是指引她到正确的过桥位置。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479851",
+      "original_title": "Google Maps Error Plunges Car Into Stream In Navi Mumbai, Woman Driver Rescued",
+      "original_description": "Instead of guiding her to the proper bridge, the navigation app reportedly directed her to a route beneath the bridge leading to the Dhruvatara Jetty."
+    }
+  },
+  {
+    "id": "9ae65a38b551",
+    "title": "《教父》一课：华尔街如今支持它曾视为“欺诈”的加密资产",
+    "original_title": "A lesson from The Godfather as Wall Street backs crypto assets it once dismissed as a ‘fraud’",
+    "description": "比特币除了炒作之外别无支撑，但早期采用者因此积累了巨大财富。如今，他们希望保护自己的利益。",
+    "original_description": "Bitcoin is backed by nothing except hype but early adopters made vast wealth. Now they want to protect their own interests",
+    "url": "https://www.irishtimes.com/opinion/2025/07/26/a-lesson-from-the-godfather-as-wall-street-backs-crypto-assets-it-once-dismissed-as-a-fraud/",
+    "source": "The Irish Times",
+    "publishedAt": "2025-07-26T06:00:00Z",
+    "image": "https://www.irishtimes.com/resizer/v2/JEZDY4G7EJHINMKHLJCMQ7MVJU.jpg?smart=true&auth=60ed838659825c9248ff77bc3c3ac411d2ed51ddc265286caa66fccedd49084a&width=1200&height=630",
+    "category": {
+      "name": "经济金融",
+      "color": "#E67E22",
+      "icon": "💰"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "经济金融",
+    "ai_translation": {
+      "translated_title": "《教父》一课：华尔街如今支持它曾视为“欺诈”的加密资产",
+      "translated_description": "比特币除了炒作之外别无支撑，但早期采用者因此积累了巨大财富。如今，他们希望保护自己的利益。",
+      "translation_confidence": {
+        "title": 0.77,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479406",
+      "original_title": "A lesson from The Godfather as Wall Street backs crypto assets it once dismissed as a ‘fraud’",
+      "original_description": "Bitcoin is backed by nothing except hype but early adopters made vast wealth. Now they want to protect their own interests"
+    }
+  },
+  {
+    "id": "228d7a2bc4d4",
+    "title": "苹果粉丝抢购降价至170英镑的139英镑iPad Pro，超越亚马逊价格",
+    "original_title": "Apple fans snap up £139 iPad Pro in Amazon-beating £170 price cut",
+    "description": "沃契尔（Wowcher）将第二代 iPad Pro 价格砍掉57%，提供了一个比直接从苹果官网购买便宜得多的替代选择。",
+    "original_description": "Wowcher has slashed 57% off a second generation iPad Pro, offering a significantly cheaper alternative than buying direct from Apple.",
+    "url": "https://www.birminghammail.co.uk/whats-on/shopping/apple-fans-snap-up-139-32122311",
+    "source": "Birmingham Live",
+    "publishedAt": "2025-07-26T05:45:00Z",
+    "image": "https://i2-prod.birminghammail.co.uk/article32122401.ece/ALTERNATES/s1200/0_gettyimages-692676162-612x612-1.jpg",
+    "category": {
+      "name": "科技资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "科技创新",
+    "ai_translation": {
+      "translated_title": "苹果粉丝抢购降价至170英镑的139英镑iPad Pro，超越亚马逊价格",
+      "translated_description": "沃契尔（Wowcher）将第二代 iPad Pro 价格砍掉57%，提供了一个比直接从苹果官网购买便宜得多的替代选择。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479851",
+      "original_title": "Apple fans snap up £139 iPad Pro in Amazon-beating £170 price cut",
+      "original_description": "Wowcher has slashed 57% off a second generation iPad Pro, offering a significantly cheaper alternative than buying direct from Apple."
+    }
+  },
+  {
     "id": "435c4af901f9",
     "title": "UK households caught on Google Street View could get £9,000 compensation after ruling",
     "original_title": "UK households caught on Google Street View could get £9,000 compensation after ruling",
@@ -17,7 +296,18 @@
     "importance": 2,
     "added_time": "2025-07-26T13:41:19.671812",
     "search_category": "科技创新",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "英国家庭若被谷歌街景拍摄，判决后或可获9000英镑赔偿",
+      "translated_description": "一位男子因谷歌街景汽车在他花园中将其赤裸的照片上传至互联网而获得超过9000英镑的赔偿。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:32:31.990452",
+      "original_title": "UK households caught on Google Street View could get £9,000 compensation after ruling",
+      "original_description": "A man caught naked in his garden by a Google Street View car for all to see on the internet has won more than £9,000 in compensation."
+    }
   },
   {
     "id": "369a35ef709f",
@@ -37,7 +327,18 @@
     "importance": 1,
     "added_time": "2025-07-26T13:41:19.671812",
     "search_category": "科技创新",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "苹果粉丝以每月27英镑的价格抢购iPad Pro优惠，天空公司降价促销",
+      "translated_description": "搭载最新M4芯片的iPad Pro目前由Sky以月付方式销售",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:32:55.639088",
+      "original_title": "Apple fans snapping up iPad Pro deal for £27 a month as Sky cuts price",
+      "original_description": "The iPad Pro with the latest M4 chip is currently being offered by Sky for a monthly price"
+    }
   },
   {
     "id": "500c1afd23d5",
@@ -57,7 +358,49 @@
     "importance": 1,
     "added_time": "2025-07-26T13:41:19.671812",
     "search_category": "科技创新",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "预算23英镑的智能手表被购物者誉为“苹果和三星的优秀替代品”",
+      "translated_description": "智能手表在亚马逊售价为23.74英镑",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:33:17.963983",
+      "original_title": "Budget £23 smartwatch branded a 'great Apple and Samsung alternative' by shoppers",
+      "original_description": "The smartwatch is available on Amazon for £23.74"
+    }
+  },
+  {
+    "id": "c49bf7f2e188",
+    "title": "“ excellent 品相”：英国蓝莓产量在温暖的春天增长近四分之一",
+    "original_title": "‘Excellent size’: UK blueberry crop up nearly a quarter after warm spring",
+    "description": "新技术也有助于提高水果产量，而草莓、树莓和黑莓的产量也有所增加",
+    "original_description": "New technology also helps fruit yield, while strawberry, raspberry and blackberry output has risen",
+    "url": "https://www.theguardian.com/business/2025/jul/26/uk-blueberry-crop-up-fruit-yield",
+    "source": "The Guardian",
+    "publishedAt": "2025-07-26T05:00:47Z",
+    "image": "https://i.guim.co.uk/img/media/3601aba482bd49029dd8cd2a4cd8d54d2b9f2b38/22_0_4319_3456/master/4319.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6eaa443bdace7cd8b67af667aae50086",
+    "category": {
+      "name": "科技资讯",
+      "color": "#6B7280",
+      "icon": "📱"
+    },
+    "importance": 1,
+    "added_time": "2025-07-26T15:40:31.489241",
+    "search_category": "科技创新",
+    "ai_translation": {
+      "translated_title": "“ excellent 品相”：英国蓝莓产量在温暖的春天增长近四分之一",
+      "translated_description": "新技术也有助于提高水果产量，而草莓、树莓和黑莓的产量也有所增加",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "siliconflow_Qwen2.5-7B-Instruct",
+      "translation_time": "2025-07-26T15:40:31.479851",
+      "original_title": "‘Excellent size’: UK blueberry crop up nearly a quarter after warm spring",
+      "original_description": "New technology also helps fruit yield, while strawberry, raspberry and blackberry output has risen"
+    }
   },
   {
     "id": "a9fe96a78891",
@@ -77,7 +420,18 @@
     "importance": 1,
     "added_time": "2025-07-26T13:41:19.671812",
     "search_category": "经济金融",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "曼城转会动态：在做出2700万英镑的决定之际，佩普·瓜迪奥拉面临的三个位置让他头疼",
+      "translated_description": "曼城在夏季转会市场上动作频频，但必须精简球队阵容。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.77
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:34:09.134430",
+      "original_title": "Man City transfer stock take amid £27million decision as three positions give Pep Guardiola headache",
+      "original_description": "Manchester City have been busy in the summer transfer market but must trim their squad."
+    }
   },
   {
     "id": "de3c7b4ce545",
@@ -97,7 +451,18 @@
     "importance": 1,
     "added_time": "2025-07-26T13:41:19.671812",
     "search_category": "科技创新",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "iPhone粉丝们正以每月35英镑的价格抢购Apple iPhone 16 Pro Max的优惠活动",
+      "translated_description": "iPhone 16 Pro Max 是苹果的旗舰机型，目前天空公司正以较低的月度价格销售该产品。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:34:47.772519",
+      "original_title": "iPhone fans snapping up Apple iPhone 16 Pro Max deal for £35 a month",
+      "original_description": "The iPhone 16 Pro Max is the flagship device from Apple and for a limited time Sky is selling it for a cheaper monthly price"
+    }
   },
   {
     "id": "3c568bc92306",
@@ -117,7 +482,18 @@
     "importance": 2,
     "added_time": "2025-07-26T13:41:19.670810",
     "search_category": "AI科技",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "Meta宣布ChatGPT联合创始人担任超智能实验室首席科学家",
+      "translated_description": "Meta 提供了硅谷最丰厚的薪酬包和一些初创企业的合作协议，以吸引顶尖研究人员",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:35:15.584150",
+      "original_title": "Meta names ChatGPT co-creator as chief scientist of Superintelligence Lab",
+      "original_description": "Meta has been offering some of Silicon Valley's most lucrative pay packages and striking startup deals to attract top researchers"
+    }
   },
   {
     "id": "3c568bc92306",
@@ -137,7 +513,18 @@
     "importance": 2,
     "added_time": "2025-07-26T13:41:19.671812",
     "search_category": "科技创新",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "Meta宣布ChatGPT联合创始人担任超智能实验室首席科学家",
+      "translated_description": "Meta 为吸引顶尖研究人员提供了硅谷最为丰厚的薪酬包和颇具吸引力的初创公司合作机会。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:36:40.910465",
+      "original_title": "Meta names ChatGPT co-creator as chief scientist of Superintelligence Lab",
+      "original_description": "Meta has been offering some of Silicon Valley's most lucrative pay packages and striking startup deals to attract top researchers"
+    }
   },
   {
     "id": "11f34f969769",
@@ -157,7 +544,18 @@
     "importance": 1,
     "added_time": "2025-07-26T13:41:19.671812",
     "search_category": "AI科技",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "亲吻大屏幕风波后，天文学家聘请了克里斯·马丁的前妻格温妮斯·帕特罗：“这真是个狠招”",
+      "translated_description": "天文学家任命格温妮丝·帕特罗为临时发言人， amid 一起风波，幽默地谈及数据操作、AI 产品及即将召开的会议。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:37:12.682805",
+      "original_title": "After Kiss Cam Chaos, Astronomer Hires Chris Martin’s Ex-Wife Gwyneth Paltrow: ‘What A Savage Move’",
+      "original_description": "Astronomer names Gwyneth Paltrow as temporary spokesperson amid scandal, humorously addressing data operations, AI products, and upcoming conference."
+    }
   },
   {
     "id": "d986cbfb014d",
@@ -177,7 +575,18 @@
     "importance": 1,
     "added_time": "2025-07-26T13:41:19.671812",
     "search_category": "AI科技",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "在Kiss Cam事件之后，天文学家聘请了克里斯·马丁的前妻盖文妮丝·帕特洛：“这是多么野蛮的举动”",
+      "translated_description": "天文学家任命格温妮丝·帕特罗为临时发言人， amid 一起风波，幽默地涉及数据操作、人工智能产品及即将召开的会议。",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:37:45.741205",
+      "original_title": "After Kiss Cam Chaos, Astronomer Hires Chris Martin’s Ex-Wife Gwyneth Paltrow: ‘What A Savage Move’",
+      "original_description": "Astronomer names Gwyneth Paltrow as temporary spokesperson amid scandal, humorously addressing data operations, AI products, and upcoming conference."
+    }
   },
   {
     "id": "ae67c7e4e03e",
@@ -197,7 +606,18 @@
     "importance": 1,
     "added_time": "2025-07-26T13:41:19.671812",
     "search_category": "AI科技",
-    "ai_translation": {}
+    "ai_translation": {
+      "translated_title": "又有1200名司机因新 Midlands “智能”AI 速度摄像头而被捕捉到超速行为",
+      "translated_description": "使用的摄像头采用先进技术，帮助捕捉超速驾驶的车辆",
+      "translation_confidence": {
+        "title": 0.92,
+        "description": 0.92
+      },
+      "translation_service": "SiliconFlow",
+      "translation_time": "2025-07-26T15:38:18.328126",
+      "original_title": "1,200 more drivers caught out by new Midlands 'smart' AI speed cameras",
+      "original_description": "The cameras used advance technology to help them catch speeding motorists"
+    }
   },
   {
     "id": "ae67c7e4e03e",

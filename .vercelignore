@@ -1,0 +1,26 @@
+# 忽略不需要部署的文件
+test_*.html
+test_*.py
+*.py
+*.md
+*.bak
+translation/
+old_files/
+archive/
+.env*
+.git/
+.github/
+.claude/
+.kiro/
+*.png
+*.jpg
+*.jpeg
+*.gif
+素材/
+反馈*.png
+部署错误*.png
+重复错误*.png
+重建提示.png
+邮件提醒*.png
+内容模糊.png
+千篇一律引发关注.png

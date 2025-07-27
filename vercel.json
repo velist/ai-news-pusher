@@ -6,7 +6,7 @@
     "enabled": true,
     "autoAlias": true
   },
-  "buildCommand": "echo 'No build needed'",
+  "buildCommand": "echo 'Static site - no build needed'",
   "outputDirectory": "docs",
   "rewrites": [
     {
