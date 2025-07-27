@@ -33,7 +33,13 @@ jobs:
         FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
         FEISHU_TABLE_URL: ${{ secrets.FEISHU_TABLE_URL }}
       run: |
-        python enhanced_news_accumulator.py
+        # 首先尝试运行增强版（包含翻译功能）
+        if python enhanced_news_accumulator.py; then
+          echo "✅ 增强版新闻系统运行成功"
+        else
+          echo "⚠️ 增强版系统失败，使用简化版备用方案"
+          python simple_news_accumulator.py
+        fi
         
     - name: 提交H5新闻页面
       if: always()

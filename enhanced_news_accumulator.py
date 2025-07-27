@@ -11,16 +11,28 @@ import urllib.parse
 import time
 import hashlib
 from datetime import datetime, timedelta
-from dotenv import load_dotenv
-from translation.services.siliconflow_translator import SiliconFlowTranslator
 
-# 加载环境变量
-load_dotenv()
+# 尝试导入dotenv，如果失败则继续（GitHub Actions中环境变量已设置）
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    print("python-dotenv未安装，使用系统环境变量")
+
+# 导入翻译服务
+try:
+    from translation.services.siliconflow_translator import SiliconFlowTranslator
+except ImportError:
+    print("翻译服务模块未找到，将使用基础功能")
+    SiliconFlowTranslator = None
 
 class EnhancedAINewsAccumulator:
     def __init__(self):
-        # API配置
-        self.gnews_api_key = os.getenv('GNEWS_API_KEY', 'c3cb6fef0f86251ada2b515017b97143')
+        # API配置 - 从环境变量获取
+        self.gnews_api_key = os.getenv('GNEWS_API_KEY')
+        if not self.gnews_api_key:
+            raise ValueError("GNEWS_API_KEY环境变量未设置")
+        
         self.gnews_base_url = "https://gnews.io/api/v4"
         self.news_data_file = 'docs/enhanced_news_data.json'
         
@@ -31,15 +43,19 @@ class EnhancedAINewsAccumulator:
         
     def _init_translator(self):
         """初始化翻译器"""
-        try:
-            self.translator = SiliconFlowTranslator(
-                api_key=self.siliconflow_api_key,
-                model="Qwen/Qwen2.5-7B-Instruct"  # 使用性价比最高的模型
-            )
-            print("✅ 硅基流动翻译器初始化成功")
-        except Exception as e:
-            print(f"⚠️ 翻译器初始化失败: {e}")
-            self.translator = None
+        if SiliconFlowTranslator and self.siliconflow_api_key:
+            try:
+                self.translator = SiliconFlowTranslator(
+                    api_key=self.siliconflow_api_key,
+                    model="Qwen/Qwen2.5-7B-Instruct"  # 使用性价比最高的模型
+                )
+                print("✅ 硅基流动翻译器初始化成功")
+            except Exception as e:
+                print(f"⚠️ 翻译器初始化失败: {e}")
+                self.translator = None
+        else:
+            print("⚠️ 翻译服务不可用，将使用原始新闻内容")
+    
     
     def get_latest_news(self):
         """获取最新科技、游戏、经济新闻"""
