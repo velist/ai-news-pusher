@@ -10,6 +10,7 @@ on:
 jobs:
   push-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 5  # 设置超时限制
     
     steps:
     - name: 检出代码
@@ -20,28 +21,14 @@ jobs:
       with:
         python-version: '3.9'
         
-    - name: 安装依赖
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        
-    - name: 运行增强版AI新闻累积更新
+    - name: 运行超简化AI新闻推送
       env:
         GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
-        SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
-        FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
-        FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
-        FEISHU_TABLE_URL: ${{ secrets.FEISHU_TABLE_URL }}
       run: |
-        # 首先尝试运行增强版（包含翻译功能）
-        if python enhanced_news_accumulator.py; then
-          echo "✅ 增强版新闻系统运行成功"
-        else
-          echo "⚠️ 增强版系统失败，使用简化版备用方案"
-          python simple_news_accumulator.py
-        fi
+        # 直接运行超简化版本，无依赖，快速可靠
+        python ultra_simple_news.py
         
-    - name: 提交H5新闻页面
+    - name: 提交页面更新
       if: always()
       run: |
         git config --local user.email "action@github.com"
@@ -49,33 +36,20 @@ jobs:
         
         if [ -f "docs/index.html" ]; then
           git add docs/
-          git commit -m "📈 累积更新AI新闻 - $(date '+%Y-%m-%d %H:%M') | 保留3天历史" || echo "无需提交"
+          git commit -m "🚀 AI新闻推送更新 - $(date '+%Y-%m-%d %H:%M')" || echo "无需提交"
           git push || echo "推送失败"
-          echo "✅ H5新闻页面已更新到docs/"
+          echo "✅ 新闻页面已更新"
         else
-          echo "❌ docs/index.html 文件未生成"
+          echo "❌ 页面生成失败"
         fi
         
-    - name: 显示运行结果
+    - name: 显示结果
       if: always()
       run: |
-        echo "=== 增强版AI新闻累积更新任务完成 ==="
-        if [ -f news_push.log ]; then
-          echo "📋 运行日志:"
-          tail -20 news_push.log
-        else
-          echo "📋 日志文件未找到"
-        fi
-        echo "📊 飞书表格: https://jcnew7lc4a8b.feishu.cn/base/TXkMb0FBwaD52ese70ScPLn5n5b"
-        
+        echo "=== AI新闻推送任务完成 ==="
         if [ -f "docs/index.html" ]; then
-          echo "📱 H5新闻页面: 已生成到 docs/index.html"
-          echo "🌐 GitHub Pages: https://$(echo ${{ github.repository }} | cut -d'/' -f1).github.io/$(echo ${{ github.repository }} | cut -d'/' -f2)/"
-          echo ""
-          echo "💡 增强版AI翻译系统已启用:"
-          echo "   🤖 硅基流动AI翻译 - 成本降低80-95%"
-          echo "   ✅ 真实新闻中文翻译 - 告别模板内容"
-          echo "   🎯 智能质量评估 - 置信度评分"
-          echo "   📈 3天新闻保留 - 累积式增长"
-          echo "   ⏰ 每小时自动更新 - 持续追踪热点"
+          echo "✅ 页面已生成: docs/index.html"
+          echo "🌐 访问地址: https://$(echo ${{ github.repository }} | cut -d'/' -f1).github.io/$(echo ${{ github.repository }} | cut -d'/' -f2)/"
+        else
+          echo "❌ 页面生成失败"
         fi
