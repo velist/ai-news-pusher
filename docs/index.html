@@ -3,131 +3,179 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🤖 AI科技日报 - 智能新闻推送</title>
-    <meta name="description" content="AI科技日报提供最新的人工智能新闻，专注OpenAI、ChatGPT等前沿科技资讯">
-    <meta name="keywords" content="AI,人工智能,OpenAI,ChatGPT,科技新闻,机器学习">
+    <title>🤖 AI科技日报 - 专业AI资讯平台</title>
+    <meta name="description" content="专注AI前沿资讯，提供OpenAI、ChatGPT等最新动态，您的专业AI信息门户">
+    <meta name="keywords" content="AI新闻,人工智能,OpenAI,ChatGPT,AI投资,AI技术,AI应用">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
+        
         body { 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-            line-height: 1.6; 
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "SimSun", sans-serif;
+            line-height: 1.6; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh; color: #333;
         }
-        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        
         .header { 
             text-align: center; background: rgba(255,255,255,0.95); 
-            border-radius: 20px; padding: 30px; margin-bottom: 30px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1); backdrop-filter: blur(10px);
+            border-radius: 24px; padding: 40px 30px; margin-bottom: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.1); backdrop-filter: blur(20px);
+            border: 1px solid rgba(255,255,255,0.2);
         }
+        
         .header h1 { 
-            font-size: 2.5em; margin-bottom: 10px; font-weight: 700;
+            font-size: 3em; margin-bottom: 15px; font-weight: 800;
             background: linear-gradient(45deg, #667eea, #764ba2);
             -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+            background-clip: text; letter-spacing: -1px;
         }
-        .header p { color: #666; font-size: 1.1em; margin-bottom: 15px; }
+        
+        .header .subtitle { 
+            color: #666; font-size: 1.2em; margin-bottom: 25px; font-weight: 400;
+        }
+        
         .update-time { 
             background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white; padding: 8px 20px; border-radius: 25px; 
-            display: inline-block; font-weight: 500;
+            color: white; padding: 12px 28px; border-radius: 30px; 
+            display: inline-block; font-weight: 600; font-size: 1.1em;
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
         }
-        .alert { 
-            background: rgba(255, 193, 7, 0.1); border: 1px solid rgba(255, 193, 7, 0.5);
-            color: #856404; padding: 20px; border-radius: 12px; margin: 20px 0;
-            backdrop-filter: blur(10px);
-        }
-        .alert h3 { margin-bottom: 10px; }
-        .alert ul { margin-left: 20px; }
-        .alert a { color: #007aff; text-decoration: none; }
-        .alert a:hover { text-decoration: underline; }
-        .alert-warning { border-color: rgba(255, 193, 7, 0.5); }
-        .alert-info { 
-            background: rgba(0, 122, 255, 0.1); border-color: rgba(0, 122, 255, 0.5);
-            color: #004085;
-        }
-        .debug-info { 
-            background: rgba(0, 0, 0, 0.05); padding: 15px; border-radius: 8px;
-            margin: 20px 0; font-size: 0.9em;
-        }
-        .debug-info ul { list-style: none; }
-        .debug-info li { margin: 5px 0; }
+        
         .stats { 
-            display: flex; justify-content: center; gap: 30px; margin-top: 20px;
+            display: flex; justify-content: center; gap: 40px; margin-top: 30px;
             flex-wrap: wrap;
         }
+        
         .stat-item { 
-            background: rgba(102, 126, 234, 0.1); padding: 15px 25px; 
-            border-radius: 12px; text-align: center; min-width: 120px;
+            background: rgba(102, 126, 234, 0.1); padding: 20px 30px; 
+            border-radius: 16px; text-align: center; min-width: 140px;
+            border: 1px solid rgba(102, 126, 234, 0.2);
         }
-        .stat-number { font-size: 1.8em; font-weight: 700; color: #667eea; }
-        .stat-label { font-size: 0.9em; color: #666; margin-top: 5px; }
+        
+        .stat-number { 
+            font-size: 2.2em; font-weight: 800; color: #667eea; 
+            margin-bottom: 5px; display: block;
+        }
+        
+        .stat-label { font-size: 1em; color: #666; font-weight: 500; }
+        
+        .tabs { 
+            display: flex; gap: 15px; margin-bottom: 40px; 
+            flex-wrap: wrap; justify-content: center;
+            background: rgba(255,255,255,0.9); padding: 20px;
+            border-radius: 20px; backdrop-filter: blur(10px);
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+        }
+        
+        .tab { 
+            background: rgba(255,255,255,0.8); color: #555; border: 2px solid rgba(0,0,0,0.1);
+            padding: 15px 25px; border-radius: 25px; cursor: pointer; 
+            font-size: 1.1em; font-weight: 600; transition: all 0.3s ease;
+            display: flex; align-items: center; gap: 8px; white-space: nowrap;
+        }
+        
+        .tab:hover { 
+            background: rgba(102, 126, 234, 0.1); border-color: #667eea;
+            transform: translateY(-2px); box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2);
+        }
+        
+        .tab.active { 
+            background: linear-gradient(45deg, #667eea, #764ba2); 
+            color: white; border-color: transparent;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        }
+        
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        
         .news-grid { 
-            display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); 
-            gap: 25px; margin-top: 30px;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(420px, 1fr)); 
+            gap: 30px; margin-top: 20px;
         }
+        
         .news-card { 
-            background: rgba(255,255,255,0.95); border-radius: 16px; 
-            padding: 25px; box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-            transition: all 0.3s ease; cursor: pointer; position: relative;
-            backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.95); border-radius: 20px; 
+            padding: 30px; box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            transition: all 0.4s ease; cursor: pointer; position: relative;
+            backdrop-filter: blur(15px); border: 1px solid rgba(255,255,255,0.3);
+            overflow: hidden;
         }
+        
         .news-card:hover { 
-            transform: translateY(-5px); 
-            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+            transform: translateY(-8px); 
+            box-shadow: 0 25px 60px rgba(0,0,0,0.15);
         }
-        .news-card.sample { 
-            border: 2px solid #ffc107; 
-            background: rgba(255, 243, 205, 0.9);
-        }
+        
         .news-card::before { 
             content: ''; position: absolute; top: 0; left: 0; right: 0; 
-            height: 4px; background: linear-gradient(90deg, #667eea, #764ba2);
-            border-radius: 16px 16px 0 0;
+            height: 5px; background: linear-gradient(90deg, #667eea, #764ba2);
         }
-        .news-card.sample::before { 
-            background: linear-gradient(90deg, #ffc107, #ff8c00);
-        }
+        
         .category-tag { 
-            position: absolute; top: 15px; right: 15px;
+            position: absolute; top: 20px; right: 20px;
             background: linear-gradient(45deg, #667eea, #764ba2); color: white;
-            padding: 6px 12px; border-radius: 15px; font-size: 0.8em; 
-            font-weight: 600; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+            padding: 8px 16px; border-radius: 20px; font-size: 0.9em; 
+            font-weight: 700; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+            display: flex; align-items: center; gap: 5px;
         }
-        .category-tag.sample { 
-            background: linear-gradient(45deg, #ffc107, #ff8c00);
-        }
+        
         .news-title { 
-            font-size: 1.3em; font-weight: 600; color: #333; 
-            margin-bottom: 15px; line-height: 1.4; padding-right: 100px;
+            font-size: 1.4em; font-weight: 700; color: #333; 
+            margin-bottom: 15px; line-height: 1.4; padding-right: 120px;
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+            overflow: hidden;
         }
+        
         .news-summary { 
-            color: #666; margin-bottom: 20px; line-height: 1.6;
-            font-size: 0.95em;
+            color: #666; margin-bottom: 20px; line-height: 1.7;
+            font-size: 1em; display: -webkit-box; -webkit-line-clamp: 3; 
+            -webkit-box-orient: vertical; overflow: hidden;
         }
+        
         .news-meta { 
             display: flex; justify-content: space-between; align-items: center;
-            padding-top: 15px; border-top: 1px solid #eee;
+            padding-top: 20px; border-top: 2px solid #f0f0f0; margin-top: 20px;
         }
+        
         .news-source { 
-            font-weight: 600; color: #667eea; font-size: 0.9em;
+            font-weight: 700; color: #667eea; font-size: 1em;
+            background: rgba(102, 126, 234, 0.1); padding: 6px 12px;
+            border-radius: 15px;
         }
+        
         .news-time { 
-            color: #999; font-size: 0.85em;
+            color: #999; font-size: 0.9em; font-weight: 500;
         }
+        
+        .no-news { 
+            text-align: center; color: #666; padding: 60px 20px; 
+            font-size: 1.2em; background: rgba(255,255,255,0.9);
+            border-radius: 20px; margin: 20px 0;
+        }
+        
         .footer {
-            text-align: center; margin-top: 50px; padding: 30px;
-            background: rgba(255,255,255,0.1); border-radius: 20px;
-            backdrop-filter: blur(10px); color: rgba(255,255,255,0.8);
+            text-align: center; margin-top: 60px; padding: 40px;
+            background: rgba(255,255,255,0.1); border-radius: 25px;
+            backdrop-filter: blur(15px); color: rgba(255,255,255,0.9);
         }
-        .footer a { color: rgba(255,255,255,0.9); text-decoration: none; }
+        
+        .footer h3 { margin-bottom: 15px; font-size: 1.3em; }
+        .footer p { margin: 8px 0; font-size: 1em; }
+        .footer a { color: rgba(255,255,255,0.9); text-decoration: none; font-weight: 600; }
         .footer a:hover { text-decoration: underline; }
+        
         @media (max-width: 768px) {
             .container { padding: 15px; }
-            .header { padding: 20px; }
-            .header h1 { font-size: 2em; }
-            .news-grid { grid-template-columns: 1fr; }
-            .stats { gap: 15px; }
-            .news-title { padding-right: 80px; }
+            .header { padding: 25px 20px; }
+            .header h1 { font-size: 2.2em; }
+            .stats { gap: 20px; }
+            .tabs { gap: 10px; padding: 15px; }
+            .tab { padding: 12px 18px; font-size: 1em; }
+            .news-grid { grid-template-columns: 1fr; gap: 20px; }
+            .news-card { padding: 20px; }
+            .news-title { padding-right: 80px; font-size: 1.2em; }
         }
     </style>
 </head>
@@ -135,200 +183,1209 @@
     <div class="container">
         <div class="header">
             <h1>🤖 AI科技日报</h1>
-            <p>专注人工智能前沿资讯，每日精选优质内容</p>
-            <div class="update-time">最后更新: 2025年08月01日 22:26:35 UTC</div>
+            <p class="subtitle">专注人工智能前沿资讯 · 每日精选 · 分类浏览</p>
+            <div class="update-time">最后更新: 2025年08月01日 23:07</div>
             <div class="stats">
                 <div class="stat-item">
-                    <div class="stat-number">15</div>
-                    <div class="stat-label">总新闻数</div>
+                    <span class="stat-number">45</span>
+                    <span class="stat-label">今日资讯</span>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">15</div>
-                    <div class="stat-label">真实新闻</div>
+                    <span class="stat-number">6</span>
+                    <span class="stat-label">新闻分类</span>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">✅</div>
-                    <div class="stat-label">数据状态</div>
+                    <span class="stat-number">24/7</span>
+                    <span class="stat-label">自动更新</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">AI</span>
+                    <span class="stat-label">智能筛选</span>
                 </div>
             </div>
-            
-        <div class="debug-info">
-            <h3>🔧 系统状态</h3>
-            <ul>
-                <li>API密钥状态: ✅ 有效</li>
-                <li>网络连接: ✅ 正常</li>
-                <li>API测试: ✅ 通过</li>
-                <li>真实新闻: 15 条</li>
-                <li>示例数据: 0 条</li>
-            </ul>
         </div>
         
+        <div class="tabs">            <div class="tab active" onclick="showCategory('全部')">
+                <span>📊</span>
+                <span>全部</span>
+                <span>(45)</span>
+            </div>
+            <div class="tab" onclick="showCategory('热门')">
+                <span>🔥</span>
+                <span>热门</span>
+                <span>(8)</span>
+            </div>
+            <div class="tab" onclick="showCategory('公司动态')">
+                <span>🏢</span>
+                <span>公司动态</span>
+                <span>(8)</span>
+            </div>
+            <div class="tab" onclick="showCategory('技术突破')">
+                <span>🚀</span>
+                <span>技术突破</span>
+                <span>(8)</span>
+            </div>
+            <div class="tab" onclick="showCategory('行业应用')">
+                <span>⚡</span>
+                <span>行业应用</span>
+                <span>(6)</span>
+            </div>
+            <div class="tab" onclick="showCategory('投资并购')">
+                <span>💰</span>
+                <span>投资并购</span>
+                <span>(8)</span>
+            </div>
+            <div class="tab" onclick="showCategory('政策监管')">
+                <span>📋</span>
+                <span>政策监管</span>
+                <span>(7)</span>
+            </div>
         </div>
-        
-        
-        
-        <div class="news-grid">
-            <div class="news-card" onclick="openDetail('gnews_1754058362_0')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">OpenAI reportedly raises $8.3B at $300B valuation</h3>
-                <p class="news-summary">The oversubscribed round came months ahead of schedule, and is part of OpenAI's strategy to raise $40 billion.</p>
-                <div class="news-meta">
-                    <span class="news-source">TechCrunch</span>
-                    <span class="news-time">8小时前</span>
+        <div id="category-全部" class="tab-content active">
+            <div class="news-grid">
+                <div class="news-card" onclick="openDetail('4354a13c59a4')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">OpenAI raises $8.3 billion as paid ChatGPT users reach 5 million</h3>
+                    <p class="news-summary">OpenAI's competition with Anthropic and other AI model makers is driving record investor demand.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">8小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('09b431b96c4b')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">OpenAI reportedly raises $8.3B at $300B valuation</h3>
+                    <p class="news-summary">The oversubscribed round came months ahead of schedule, and is part of OpenAI's strategy to raise $40 billion.</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">8小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('1ea4d4a0714c')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">Human-AI relationships are no longer just science fiction</h3>
+                    <p class="news-summary">Since ChatGPT’s late 2022 launch, everyday people have formed emotional connections to chatbots, describing them as deep friendships and even life partnerships.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">12小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('42f92e45af70')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">Why it’s time to take AI-human relationships seriously</h3>
+                    <p class="news-summary">ChatGPT’s launch in 2022 ushered in a new era of AI chatbots from companies like Meta, Nomi and Character AI that have proven to be quick-witted, argumentative, helpful and sometimes aggressively romantic. While some people are falling in love with the AI companions, others are building deep friendships. The speedy development of AI chatbots presents a mountain of ethical and safety concerns that experts say will only intensify once AI begins to train itself. CNBC's Sal Rodriguez has the story.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">12小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('966d1763daa6')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">I use ChatGPT every day - and these 8 unusual prompts trick it into some great responses</h3>
+                    <p class="news-summary">ChatGPT has plenty of tricks up its sleeve. Some of the best come when you take an unconventional approach.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Tom's Guide</span>
+                        <span class="news-time">14小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c5465794fce1')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">I interviewed ChatGPT, Gemini and Claude for a real job - one AI blew me away</h3>
+                    <p class="news-summary">I put ChatGPT, Claude, and Gemini through a real job interview for a communications role. Only one AI stood out as the clear winner.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Tom's Guide</span>
+                        <span class="news-time">15小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('30ad905ab344')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">ChatGPT-Maker OpenAI’s Revenue Doubles to $12B Amid Soaring Demand for AI Tools</h3>
+                    <p class="news-summary">OpenAI, the artificial intelligence company backed by tech giant Microsoft (MSFT), has reached a major milestone with annual revenue h...</p>
+                    <div class="news-meta">
+                        <span class="news-source">Business Insider</span>
+                        <span class="news-time">18小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('e403d88bd567')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">What's Next With CoreWeave Stock?</h3>
+                    <p class="news-summary">CoreWeave is not your typical cloud company. It focuses on high-performance, GPU-based infrastructure specifically designed for artificial intelligence — think ChatGPT...</p>
+                    <div class="news-meta">
+                        <span class="news-source">Forbes</span>
+                        <span class="news-time">19小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('4354a13c59a4')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">OpenAI raises $8.3 billion as paid ChatGPT users reach 5 million</h3>
+                    <p class="news-summary">OpenAI's competition with Anthropic and other AI model makers is driving record investor demand.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">8小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('413b7995e8aa')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Gemini 2.5 Deep Think rolling out now for Google AI Ultra</h3>
+                    <p class="news-summary">After previewing at I/O 2025 in May, Google is now rolling out Gemini 2.5 Deep Think to AI Ultra subscribers.</p>
+                    <div class="news-meta">
+                        <span class="news-source">9to5Google</span>
+                        <span class="news-time">12小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('aa356896ff93')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel</h3>
+                    <p class="news-summary">Google released its first publicly available "multi-agent" AI system, which uses more computational resources, but produces better answers.</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">12小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('d2f4c687e93f')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Google is bringing image and PDF uploads to AI Mode</h3>
+                    <p class="news-summary">Google is updating AI Mode to add support for PDF uploads on desktop, which could help you digest lengthy course or work materials.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Engadget</span>
+                        <span class="news-time">13小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('402eaba21369')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">You can use Google's Math Olympiad-winning Deep Think AI model now - for a price</h3>
+                    <p class="news-summary">The $250-per-month Google Ultra subscription just got a lot more powerful.</p>
+                    <div class="news-meta">
+                        <span class="news-source">ZDNet</span>
+                        <span class="news-time">13小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c252281773af')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Google's Powerful New AI Model Can Solve Your Most Complex Problems. If You Can Afford It</h3>
+                    <p class="news-summary">Gemini 2.5 Deep Think has scored well in math competitions, and a version of it is now available for those who fork over $250 a month.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNET</span>
+                        <span class="news-time">15小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c31a5877a1df')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Nevoya's $9.3M Bet on AI-powered electric trucks</h3>
+                    <p class="news-summary">Nevoya, a San Francisco-based all-electric trucking company, has secured $9.3 million in seed funding led by Lowercarbon Capital. The investment positions the firm to redefine logistics via AI and automation, proving zero-emissions trucking can outperform diesel operations environmentally and economically.</p>
+                    <div class="news-meta">
+                        <span class="news-source">FreightWaves</span>
+                        <span class="news-time">6天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('e26490e912c1')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Former OpenAI CTO Mira Murati raises $2B for new AI startup Thinking Machines at $12B valuation</h3>
+                    <p class="news-summary">It hasn’t even been six months since Mira Murati left OpenAI. Now, she’s back in the spotlight with a jaw-dropping $2 billion raise for her new AI startup, Thinking Machines. The funding round, led by Andreessen Horowitz, values the company at a staggering $12 billion—even before it’s released a single product. The news lands just</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechStartups.com</span>
+                        <span class="news-time">07月15日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('76384dd2cd9f')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">YouTube is turning over age verification to AI</h3>
+                    <p class="news-summary">YouTube will start using machine learning to determine whether viewers should be on a teen account.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Engadget</span>
+                        <span class="news-time">3天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('919618f1104b')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">Humans Counted 8,600 Earthquakes in Yellowstone. AI Says We're Not Even Close</h3>
+                    <p class="news-summary">Researchers used machine learning to reanalyze Yellowstone's historical earthquake data, revealing that humans may have missed a few things.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Gizmodo</span>
+                        <span class="news-time">07月24日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('7170d73b6cf2')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">Snapchat's upcoming AR glasses beat the Meta Ray-Bans in a meaningful way</h3>
+                    <p class="news-summary">Snap's next-gen Specs AR glasses are lighter than ever and use advanced machine learning to offer AI assistance.</p>
+                    <div class="news-meta">
+                        <span class="news-source">ZDNet</span>
+                        <span class="news-time">06月12日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('8a007ebb0ff7')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">Ex-Meta engineer raises $14M for Lace AI, a revenue generation software startup</h3>
+                    <p class="news-summary">As an AI engineer at Meta, Boris Valkov helped build PyTorch, one of the world’s largest machine learning libraries. During his time there, Valkov</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">04月22日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('b033174e74b3')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">Google Is Helping the Trump Administration Deploy AI Along Border</h3>
+                    <p class="news-summary">Google is part of a Customs and Border Protection plan to use machine learning for surveillance, documents reviewed by The Intercept reveal.</p>
+                    <div class="news-meta">
+                        <span class="news-source">The Intercept</span>
+                        <span class="news-time">04月03日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('09ff3fdd61cb')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">AI model driving top-ranked fund flashes a warning on AI stocks</h3>
+                    <p class="news-summary">For years now, way before artificial intelligence became the hot new thing on Wall Street, Daniel Mahr has been making money on stocks, courtesy of his machine-learning model.</p>
+                    <div class="news-meta">
+                        <span class="news-source">The Boston Globe</span>
+                        <span class="news-time">03月24日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c6c1f29b9506')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">AI algorithm help spot 'anomalous' lunar rocks for first time</h3>
+                    <p class="news-summary">The research focused on the interactions between dust and rocks in the Reiner Gamma area, focusing on differences in their reflecting characteristics.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Interesting Engineering</span>
+                        <span class="news-time">01月19日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('60885efc8032')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">This new AI tool predicts what a mouse sees using brain signals</h3>
+                    <p class="news-summary">A research team from EPFL has developed an AI algorithm that can reveal the hidden structure in data recorded from the brain.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Interesting Engineering</span>
+                        <span class="news-time">05月04日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('d07e5de6a8fc')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">Amazon.com says combination of robotics and gen-AI just getting started</h3>
+                    <p class="news-summary">CEO Jassy says: “Automation and robotics are also important contributors to improving cost efficiencies and driving better customer experiences ...</p>
+                    <div class="news-meta">
+                        <span class="news-source">Business Insider</span>
+                        <span class="news-time">19小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('22ee0a1b4ea0')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">Top Startup and Tech Funding News - July 30, 2025</h3>
+                    <p class="news-summary">It’s Wednesday, July 30, 2025, and we’re back with today’s top startup and tech funding news from around the globe. Today’s roundup is packed with bold bets across AI, fintech, cybersecurity, climate tech, and enterprise automation—proof that VCs are still chasing velocity, even in a risk-sensitive market. From billion-dollar fintechs and stealth-mode cybersecurity players to</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechStartups.com</span>
+                        <span class="news-time">2天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('5c3715d54c51')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">How 2 UC Berkeley dropouts raised $28 million for their AI marketing automation startup</h3>
+                    <p class="news-summary">A marketing automation startup called Conversation has a founding story that sounds like it could have been an episode of the HBO show “Silicon Valley.”</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">2天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('70fec62aa8d8')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup</h3>
+                    <p class="news-summary">A marketing automation startup called Conversation has a founding story that sounds like it could have been an episode of the HBO show “Silicon Valley.”</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">2天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('26aee5b416df')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">Al Pacino's Only Sci-Fi Movie Gave Us A Startling Warning About Hollywood's Future</h3>
+                    <p class="news-summary">This Al Pacino-starring sci-fi film has proven to be eerily clairvoyant when it comes to Hollywood's fixation on AI and the automation of creativity.</p>
+                    <div class="news-meta">
+                        <span class="news-source">/FILM</span>
+                        <span class="news-time">3天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('4b515ebbadf6')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">Boston Dynamics founder shows off robots while institute cranks on AI</h3>
+                    <p class="news-summary">Boston Dynamics founder Marc Raibert is showing off the friendlier side of automation while his research institute cranks on robotics and AI.</p>
+                    <div class="news-meta">
+                        <span class="news-source">The Boston Globe</span>
+                        <span class="news-time">3天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('13a23cb70439')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">We’re about to see a $1 trillion ‘supercycle’ of investment in batteries to power the grid for AI</h3>
+                    <p class="news-summary">Large-scale battery storage is critical to meeting surging power demands.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Fortune</span>
+                        <span class="news-time">19小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('18054a0244d0')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">Top 10 Startup and Tech Funding News - July 31, 2025</h3>
+                    <p class="news-summary">It’s Thursday, July 31, 2025, and the funding spree shows no signs of slowing down. Today’s lineup puts a spotlight on where capital is flowing: into AI-native infrastructure, next-gen fintech, biotech breakthroughs, and robotics startups reimagining the way we build and move. From humanoid robots entering the workforce to AI agents running finance teams, startups</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechStartups.com</span>
+                        <span class="news-time">昨天</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('f36247b85319')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">Tim Cook: Apple is ‘significantly growing’ AI spend, M&A could accelerate roadmap</h3>
+                    <p class="news-summary">Timed with Apple’s latest quarterly earnings report, Tim Cook says the company is growing AI investment significantly, and hints at M&A.</p>
+                    <div class="news-meta">
+                        <span class="news-source">9to5Mac</span>
+                        <span class="news-time">昨天</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('929f1100025a')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">AI startup Anaconda raises $150M at $1.5B valuation, led by Insight Partners</h3>
+                    <p class="news-summary">Anaconda, the AI startup behind one of the most widely used open-source Python platforms for data science and AI development, has raised $150 million in a new funding round led by Insight Partners. The round, which included participation from Abu Dhabi’s Mubadala Capital, pushes Anaconda’s valuation to $1.5 billion, Bloomberg News reported, citing a person</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechStartups.com</span>
+                        <span class="news-time">昨天</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('623170d33646')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">Octup raises $12 million in seed funding to modernize 3PL operations</h3>
+                    <p class="news-summary">Octup, a Tel Aviv-based AI operations platform for third-party logistics providers, has raised $12 million in seed funding co-led by Shine Capital and JAL Ventures. The investment will fuel growth, AI enhancements and North American expansion in the $1.877 trillion industry.</p>
+                    <div class="news-meta">
+                        <span class="news-source">FreightWaves</span>
+                        <span class="news-time">昨天</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('3abc3a65c740')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">AI's $100 billion impact: 2024’s venture capital surge and the road ahead for startups</h3>
+                    <p class="news-summary">Equity is breaking down 2024’s venture capital landscape from AI’s $100B funding boom to the challenges facing startups, and what’s next for the IPO market.</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">01月22日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('0a836eb5602a')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">VCs say tech investing is 'tough' amid IPO lull and 'nuts' AI hype</h3>
+                    <p class="news-summary">Venture capitalists at Web Summit say the hunt for liquidity is getting harder, despite "nuts" funding rounds for AI firms like OpenAI.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">11月14日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c20dd5df48be')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">Astera Labs’ IPO pops 54%, showing that investor demand for tech with an AI-twist is high</h3>
+                    <p class="news-summary">Astera Labs is the first venture-backed IPO of 2024 and so far it seems investor demand could match 2021 levels.</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">03月20日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('cbbed7e5de54')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">Trump's AI plan pushes AI upskilling instead of worker protections - and 4 other key takeaways</h3>
+                    <p class="news-summary">The Trump administration's AI policy covers topics from the future of work to state regulation and censorship. Here's what you need to know.</p>
+                    <div class="news-meta">
+                        <span class="news-source">ZDNet</span>
+                        <span class="news-time">07月24日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('2cf6cccea1fa')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">US Senate votes to strike controversial AI regulation moratorium from Trump agenda bill</h3>
+                    <p class="news-summary">The US Senate has voted nearly unanimously to remove a 10-year moratorium on the enforcement of state artificial intelligence regulations from Republicans’ sweeping domestic policy bill.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Cable News Network</span>
+                        <span class="news-time">07月08日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('6bebe25c6e19')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">GOP Changes Provision on AI Regulation by States</h3>
+                    <p class="news-summary">Senate Republicans have made changes to their party's sweeping tax bill in hopes of preserving a new policy that would prevent states from regulating artificial intelligence...</p>
+                    <div class="news-meta">
+                        <span class="news-source">Newser</span>
+                        <span class="news-time">06月07日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('ce77a6e82e58')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">AI, crypto and data privacy: Comparing Harris, Trump on technology regulation</h3>
+                    <p class="news-summary">With artificial intelligence now widespread, governments worldwide are grappling with how to regulate various aspects of the technology. Kamala Harris and Donald Trump offer different visions for U.S. AI policy.</p>
+                    <div class="news-meta">
+                        <span class="news-source">UPI News</span>
+                        <span class="news-time">10月18日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('225b7ba4acda')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">Roberts warns of AI ‘dehumanizing the law’ in year-end report but avoids Trump legal disputes, Supreme Court ethics reform</h3>
+                    <p class="news-summary">Supreme Court Chief Justice John Roberts raised concerns about the increasing presence of artificial intelligence in the US judicial system in an annual report released Sunday, warning that the emerging technology could risk “dehumanizing the law” and imperiling fair treatment in the justice system.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Cable News Network</span>
+                        <span class="news-time">12月31日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c024c9577fd1')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">AI chatbot can pass national lawyer ethics exam</h3>
+                    <p class="news-summary">Popular AI chatbot GPT-4 outperforms most aspiring lawyers on the legal ethics exam required by nearly every state in order to practice law, a new study has found.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Reuters</span>
+                        <span class="news-time">11月18日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('0b7b32a2ee6c')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">The future of AI is unknown. That's the problem with tech 'prophets' influencing AI policy</h3>
+                    <p class="news-summary">Are Big Tech CEOs and VCs predicting future AI doom or utopia the ones who should have the most influence on AI regulation?</p>
+                    <div class="news-meta">
+                        <span class="news-source">VentureBeat</span>
+                        <span class="news-time">06月12日</span>
+                    </div>
                 </div>
             </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058362_1')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">Human-AI relationships are no longer just science fiction</h3>
-                <p class="news-summary">Since ChatGPT’s late 2022 launch, everyday people have formed emotional connections to chatbots, describing them as deep friendships and even life partnerships.</p>
-                <div class="news-meta">
-                    <span class="news-source">CNBC</span>
-                    <span class="news-time">11小时前</span>
+        </div>
+        <div id="category-热门" class="tab-content">
+            <div class="news-grid">
+                <div class="news-card" onclick="openDetail('4354a13c59a4')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">OpenAI raises $8.3 billion as paid ChatGPT users reach 5 million</h3>
+                    <p class="news-summary">OpenAI's competition with Anthropic and other AI model makers is driving record investor demand.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">8小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('09b431b96c4b')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">OpenAI reportedly raises $8.3B at $300B valuation</h3>
+                    <p class="news-summary">The oversubscribed round came months ahead of schedule, and is part of OpenAI's strategy to raise $40 billion.</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">8小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('1ea4d4a0714c')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">Human-AI relationships are no longer just science fiction</h3>
+                    <p class="news-summary">Since ChatGPT’s late 2022 launch, everyday people have formed emotional connections to chatbots, describing them as deep friendships and even life partnerships.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">12小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('42f92e45af70')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">Why it’s time to take AI-human relationships seriously</h3>
+                    <p class="news-summary">ChatGPT’s launch in 2022 ushered in a new era of AI chatbots from companies like Meta, Nomi and Character AI that have proven to be quick-witted, argumentative, helpful and sometimes aggressively romantic. While some people are falling in love with the AI companions, others are building deep friendships. The speedy development of AI chatbots presents a mountain of ethical and safety concerns that experts say will only intensify once AI begins to train itself. CNBC's Sal Rodriguez has the story.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">12小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('966d1763daa6')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">I use ChatGPT every day - and these 8 unusual prompts trick it into some great responses</h3>
+                    <p class="news-summary">ChatGPT has plenty of tricks up its sleeve. Some of the best come when you take an unconventional approach.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Tom's Guide</span>
+                        <span class="news-time">14小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c5465794fce1')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">I interviewed ChatGPT, Gemini and Claude for a real job - one AI blew me away</h3>
+                    <p class="news-summary">I put ChatGPT, Claude, and Gemini through a real job interview for a communications role. Only one AI stood out as the clear winner.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Tom's Guide</span>
+                        <span class="news-time">15小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('30ad905ab344')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">ChatGPT-Maker OpenAI’s Revenue Doubles to $12B Amid Soaring Demand for AI Tools</h3>
+                    <p class="news-summary">OpenAI, the artificial intelligence company backed by tech giant Microsoft (MSFT), has reached a major milestone with annual revenue h...</p>
+                    <div class="news-meta">
+                        <span class="news-source">Business Insider</span>
+                        <span class="news-time">18小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('e403d88bd567')">
+                    <div class="category-tag">
+                        <span>🔥</span>
+                        <span>热门</span>
+                    </div>
+                    <h3 class="news-title">What's Next With CoreWeave Stock?</h3>
+                    <p class="news-summary">CoreWeave is not your typical cloud company. It focuses on high-performance, GPU-based infrastructure specifically designed for artificial intelligence — think ChatGPT...</p>
+                    <div class="news-meta">
+                        <span class="news-source">Forbes</span>
+                        <span class="news-time">19小时前</span>
+                    </div>
                 </div>
             </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058362_2')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">Why it’s time to take AI-human relationships seriously</h3>
-                <p class="news-summary">ChatGPT’s launch in 2022 ushered in a new era of AI chatbots from companies like Meta, Nomi and Character AI that have proven to be quick-witted, argumentative, helpful and sometimes aggressively romantic. While some people are falling in love with the AI companions, others are building deep friendships. The speedy development of AI chatbots presents a mountain of ethical and safety concerns that experts say will only intensify once AI begins to train itself. CNBC's Sal Rodriguez has the story.</p>
-                <div class="news-meta">
-                    <span class="news-source">CNBC</span>
-                    <span class="news-time">11小时前</span>
+        </div>
+        <div id="category-公司动态" class="tab-content">
+            <div class="news-grid">
+                <div class="news-card" onclick="openDetail('4354a13c59a4')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">OpenAI raises $8.3 billion as paid ChatGPT users reach 5 million</h3>
+                    <p class="news-summary">OpenAI's competition with Anthropic and other AI model makers is driving record investor demand.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">8小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('413b7995e8aa')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Gemini 2.5 Deep Think rolling out now for Google AI Ultra</h3>
+                    <p class="news-summary">After previewing at I/O 2025 in May, Google is now rolling out Gemini 2.5 Deep Think to AI Ultra subscribers.</p>
+                    <div class="news-meta">
+                        <span class="news-source">9to5Google</span>
+                        <span class="news-time">12小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('aa356896ff93')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Google rolls out Gemini Deep Think AI, a reasoning model that tests multiple ideas in parallel</h3>
+                    <p class="news-summary">Google released its first publicly available "multi-agent" AI system, which uses more computational resources, but produces better answers.</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">12小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('d2f4c687e93f')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Google is bringing image and PDF uploads to AI Mode</h3>
+                    <p class="news-summary">Google is updating AI Mode to add support for PDF uploads on desktop, which could help you digest lengthy course or work materials.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Engadget</span>
+                        <span class="news-time">13小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('402eaba21369')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">You can use Google's Math Olympiad-winning Deep Think AI model now - for a price</h3>
+                    <p class="news-summary">The $250-per-month Google Ultra subscription just got a lot more powerful.</p>
+                    <div class="news-meta">
+                        <span class="news-source">ZDNet</span>
+                        <span class="news-time">13小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c252281773af')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Google's Powerful New AI Model Can Solve Your Most Complex Problems. If You Can Afford It</h3>
+                    <p class="news-summary">Gemini 2.5 Deep Think has scored well in math competitions, and a version of it is now available for those who fork over $250 a month.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNET</span>
+                        <span class="news-time">15小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c31a5877a1df')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Nevoya's $9.3M Bet on AI-powered electric trucks</h3>
+                    <p class="news-summary">Nevoya, a San Francisco-based all-electric trucking company, has secured $9.3 million in seed funding led by Lowercarbon Capital. The investment positions the firm to redefine logistics via AI and automation, proving zero-emissions trucking can outperform diesel operations environmentally and economically.</p>
+                    <div class="news-meta">
+                        <span class="news-source">FreightWaves</span>
+                        <span class="news-time">6天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('e26490e912c1')">
+                    <div class="category-tag">
+                        <span>🏢</span>
+                        <span>公司动态</span>
+                    </div>
+                    <h3 class="news-title">Former OpenAI CTO Mira Murati raises $2B for new AI startup Thinking Machines at $12B valuation</h3>
+                    <p class="news-summary">It hasn’t even been six months since Mira Murati left OpenAI. Now, she’s back in the spotlight with a jaw-dropping $2 billion raise for her new AI startup, Thinking Machines. The funding round, led by Andreessen Horowitz, values the company at a staggering $12 billion—even before it’s released a single product. The news lands just</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechStartups.com</span>
+                        <span class="news-time">07月15日</span>
+                    </div>
                 </div>
             </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058362_3')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">I use ChatGPT every day - and these 8 unusual prompts trick it into some great responses</h3>
-                <p class="news-summary">ChatGPT has plenty of tricks up its sleeve. Some of the best come when you take an unconventional approach.</p>
-                <div class="news-meta">
-                    <span class="news-source">Tom's Guide</span>
-                    <span class="news-time">13小时前</span>
+        </div>
+        <div id="category-技术突破" class="tab-content">
+            <div class="news-grid">
+                <div class="news-card" onclick="openDetail('76384dd2cd9f')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">YouTube is turning over age verification to AI</h3>
+                    <p class="news-summary">YouTube will start using machine learning to determine whether viewers should be on a teen account.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Engadget</span>
+                        <span class="news-time">3天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('919618f1104b')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">Humans Counted 8,600 Earthquakes in Yellowstone. AI Says We're Not Even Close</h3>
+                    <p class="news-summary">Researchers used machine learning to reanalyze Yellowstone's historical earthquake data, revealing that humans may have missed a few things.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Gizmodo</span>
+                        <span class="news-time">07月24日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('7170d73b6cf2')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">Snapchat's upcoming AR glasses beat the Meta Ray-Bans in a meaningful way</h3>
+                    <p class="news-summary">Snap's next-gen Specs AR glasses are lighter than ever and use advanced machine learning to offer AI assistance.</p>
+                    <div class="news-meta">
+                        <span class="news-source">ZDNet</span>
+                        <span class="news-time">06月12日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('8a007ebb0ff7')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">Ex-Meta engineer raises $14M for Lace AI, a revenue generation software startup</h3>
+                    <p class="news-summary">As an AI engineer at Meta, Boris Valkov helped build PyTorch, one of the world’s largest machine learning libraries. During his time there, Valkov</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">04月22日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('b033174e74b3')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">Google Is Helping the Trump Administration Deploy AI Along Border</h3>
+                    <p class="news-summary">Google is part of a Customs and Border Protection plan to use machine learning for surveillance, documents reviewed by The Intercept reveal.</p>
+                    <div class="news-meta">
+                        <span class="news-source">The Intercept</span>
+                        <span class="news-time">04月03日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('09ff3fdd61cb')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">AI model driving top-ranked fund flashes a warning on AI stocks</h3>
+                    <p class="news-summary">For years now, way before artificial intelligence became the hot new thing on Wall Street, Daniel Mahr has been making money on stocks, courtesy of his machine-learning model.</p>
+                    <div class="news-meta">
+                        <span class="news-source">The Boston Globe</span>
+                        <span class="news-time">03月24日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c6c1f29b9506')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">AI algorithm help spot 'anomalous' lunar rocks for first time</h3>
+                    <p class="news-summary">The research focused on the interactions between dust and rocks in the Reiner Gamma area, focusing on differences in their reflecting characteristics.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Interesting Engineering</span>
+                        <span class="news-time">01月19日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('60885efc8032')">
+                    <div class="category-tag">
+                        <span>🚀</span>
+                        <span>技术突破</span>
+                    </div>
+                    <h3 class="news-title">This new AI tool predicts what a mouse sees using brain signals</h3>
+                    <p class="news-summary">A research team from EPFL has developed an AI algorithm that can reveal the hidden structure in data recorded from the brain.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Interesting Engineering</span>
+                        <span class="news-time">05月04日</span>
+                    </div>
                 </div>
             </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058362_4')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">I interviewed ChatGPT, Gemini and Claude for a real job - one AI blew me away</h3>
-                <p class="news-summary">I put ChatGPT, Claude, and Gemini through a real job interview for a communications role. Only one AI stood out as the clear winner.</p>
-                <div class="news-meta">
-                    <span class="news-source">Tom's Guide</span>
-                    <span class="news-time">14小时前</span>
+        </div>
+        <div id="category-行业应用" class="tab-content">
+            <div class="news-grid">
+                <div class="news-card" onclick="openDetail('d07e5de6a8fc')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">Amazon.com says combination of robotics and gen-AI just getting started</h3>
+                    <p class="news-summary">CEO Jassy says: “Automation and robotics are also important contributors to improving cost efficiencies and driving better customer experiences ...</p>
+                    <div class="news-meta">
+                        <span class="news-source">Business Insider</span>
+                        <span class="news-time">19小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('22ee0a1b4ea0')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">Top Startup and Tech Funding News - July 30, 2025</h3>
+                    <p class="news-summary">It’s Wednesday, July 30, 2025, and we’re back with today’s top startup and tech funding news from around the globe. Today’s roundup is packed with bold bets across AI, fintech, cybersecurity, climate tech, and enterprise automation—proof that VCs are still chasing velocity, even in a risk-sensitive market. From billion-dollar fintechs and stealth-mode cybersecurity players to</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechStartups.com</span>
+                        <span class="news-time">2天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('5c3715d54c51')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">How 2 UC Berkeley dropouts raised $28 million for their AI marketing automation startup</h3>
+                    <p class="news-summary">A marketing automation startup called Conversation has a founding story that sounds like it could have been an episode of the HBO show “Silicon Valley.”</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">2天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('70fec62aa8d8')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">How 2 UC Berkeley dropouts raised $28M for their AI marketing automation startup</h3>
+                    <p class="news-summary">A marketing automation startup called Conversation has a founding story that sounds like it could have been an episode of the HBO show “Silicon Valley.”</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">2天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('26aee5b416df')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">Al Pacino's Only Sci-Fi Movie Gave Us A Startling Warning About Hollywood's Future</h3>
+                    <p class="news-summary">This Al Pacino-starring sci-fi film has proven to be eerily clairvoyant when it comes to Hollywood's fixation on AI and the automation of creativity.</p>
+                    <div class="news-meta">
+                        <span class="news-source">/FILM</span>
+                        <span class="news-time">3天前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('4b515ebbadf6')">
+                    <div class="category-tag">
+                        <span>⚡</span>
+                        <span>行业应用</span>
+                    </div>
+                    <h3 class="news-title">Boston Dynamics founder shows off robots while institute cranks on AI</h3>
+                    <p class="news-summary">Boston Dynamics founder Marc Raibert is showing off the friendlier side of automation while his research institute cranks on robotics and AI.</p>
+                    <div class="news-meta">
+                        <span class="news-source">The Boston Globe</span>
+                        <span class="news-time">3天前</span>
+                    </div>
                 </div>
             </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058378_5')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">Why Figma (FIG) CEO Doesn’t Think AI Is an Immediate Threat to the Business</h3>
-                <p class="news-summary">Figma (FIG) co‑founder and CEO Dylan Field said on Thursday that artificial intelligence, including the concept of “superintelligence,” is unlik...</p>
-                <div class="news-meta">
-                    <span class="news-source">Business Insider</span>
-                    <span class="news-time">16小时前</span>
+        </div>
+        <div id="category-投资并购" class="tab-content">
+            <div class="news-grid">
+                <div class="news-card" onclick="openDetail('13a23cb70439')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">We’re about to see a $1 trillion ‘supercycle’ of investment in batteries to power the grid for AI</h3>
+                    <p class="news-summary">Large-scale battery storage is critical to meeting surging power demands.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Fortune</span>
+                        <span class="news-time">19小时前</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('18054a0244d0')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">Top 10 Startup and Tech Funding News - July 31, 2025</h3>
+                    <p class="news-summary">It’s Thursday, July 31, 2025, and the funding spree shows no signs of slowing down. Today’s lineup puts a spotlight on where capital is flowing: into AI-native infrastructure, next-gen fintech, biotech breakthroughs, and robotics startups reimagining the way we build and move. From humanoid robots entering the workforce to AI agents running finance teams, startups</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechStartups.com</span>
+                        <span class="news-time">昨天</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('f36247b85319')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">Tim Cook: Apple is ‘significantly growing’ AI spend, M&A could accelerate roadmap</h3>
+                    <p class="news-summary">Timed with Apple’s latest quarterly earnings report, Tim Cook says the company is growing AI investment significantly, and hints at M&A.</p>
+                    <div class="news-meta">
+                        <span class="news-source">9to5Mac</span>
+                        <span class="news-time">昨天</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('929f1100025a')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">AI startup Anaconda raises $150M at $1.5B valuation, led by Insight Partners</h3>
+                    <p class="news-summary">Anaconda, the AI startup behind one of the most widely used open-source Python platforms for data science and AI development, has raised $150 million in a new funding round led by Insight Partners. The round, which included participation from Abu Dhabi’s Mubadala Capital, pushes Anaconda’s valuation to $1.5 billion, Bloomberg News reported, citing a person</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechStartups.com</span>
+                        <span class="news-time">昨天</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('623170d33646')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">Octup raises $12 million in seed funding to modernize 3PL operations</h3>
+                    <p class="news-summary">Octup, a Tel Aviv-based AI operations platform for third-party logistics providers, has raised $12 million in seed funding co-led by Shine Capital and JAL Ventures. The investment will fuel growth, AI enhancements and North American expansion in the $1.877 trillion industry.</p>
+                    <div class="news-meta">
+                        <span class="news-source">FreightWaves</span>
+                        <span class="news-time">昨天</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('3abc3a65c740')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">AI's $100 billion impact: 2024’s venture capital surge and the road ahead for startups</h3>
+                    <p class="news-summary">Equity is breaking down 2024’s venture capital landscape from AI’s $100B funding boom to the challenges facing startups, and what’s next for the IPO market.</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">01月22日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('0a836eb5602a')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">VCs say tech investing is 'tough' amid IPO lull and 'nuts' AI hype</h3>
+                    <p class="news-summary">Venture capitalists at Web Summit say the hunt for liquidity is getting harder, despite "nuts" funding rounds for AI firms like OpenAI.</p>
+                    <div class="news-meta">
+                        <span class="news-source">CNBC</span>
+                        <span class="news-time">11月14日</span>
+                    </div>
+                </div>
+                <div class="news-card" onclick="openDetail('c20dd5df48be')">
+                    <div class="category-tag">
+                        <span>💰</span>
+                        <span>投资并购</span>
+                    </div>
+                    <h3 class="news-title">Astera Labs’ IPO pops 54%, showing that investor demand for tech with an AI-twist is high</h3>
+                    <p class="news-summary">Astera Labs is the first venture-backed IPO of 2024 and so far it seems investor demand could match 2021 levels.</p>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <span class="news-time">03月20日</span>
+                    </div>
                 </div>
             </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058378_6')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">ChatGPT-Maker OpenAI’s Revenue Doubles to $12B Amid Soaring Demand for AI Tools</h3>
-                <p class="news-summary">OpenAI, the artificial intelligence company backed by tech giant Microsoft (MSFT), has reached a major milestone with annual revenue h...</p>
-                <div class="news-meta">
-                    <span class="news-source">Business Insider</span>
-                    <span class="news-time">17小时前</span>
+        </div>
+        <div id="category-政策监管" class="tab-content">
+            <div class="news-grid">
+                <div class="news-card" onclick="openDetail('cbbed7e5de54')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">Trump's AI plan pushes AI upskilling instead of worker protections - and 4 other key takeaways</h3>
+                    <p class="news-summary">The Trump administration's AI policy covers topics from the future of work to state regulation and censorship. Here's what you need to know.</p>
+                    <div class="news-meta">
+                        <span class="news-source">ZDNet</span>
+                        <span class="news-time">07月24日</span>
+                    </div>
                 </div>
-            </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058378_7')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">Inside The Fight To Align And Control Modern AI Systems</h3>
-                <p class="news-summary">AI can be aligned and controlled, if we choose to act. Explore the technical tools, ethical dilemmas, and policy choices shaping the future of artificial intelligence.</p>
-                <div class="news-meta">
-                    <span class="news-source">Forbes</span>
-                    <span class="news-time">18小时前</span>
+                <div class="news-card" onclick="openDetail('2cf6cccea1fa')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">US Senate votes to strike controversial AI regulation moratorium from Trump agenda bill</h3>
+                    <p class="news-summary">The US Senate has voted nearly unanimously to remove a 10-year moratorium on the enforcement of state artificial intelligence regulations from Republicans’ sweeping domestic policy bill.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Cable News Network</span>
+                        <span class="news-time">07月08日</span>
+                    </div>
                 </div>
-            </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058378_8')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">How AI Is Increasing User Engagement on Meta’s Social Media Platforms</h3>
-                <p class="news-summary">Artificial intelligence was the main theme of Meta Platforms’ (META) second‑quarter earnings call, as executives highlighted how AI is transform...</p>
-                <div class="news-meta">
-                    <span class="news-source">Business Insider</span>
-                    <span class="news-time">18小时前</span>
+                <div class="news-card" onclick="openDetail('6bebe25c6e19')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">GOP Changes Provision on AI Regulation by States</h3>
+                    <p class="news-summary">Senate Republicans have made changes to their party's sweeping tax bill in hopes of preserving a new policy that would prevent states from regulating artificial intelligence...</p>
+                    <div class="news-meta">
+                        <span class="news-source">Newser</span>
+                        <span class="news-time">06月07日</span>
+                    </div>
                 </div>
-            </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058378_9')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">What's Next With CoreWeave Stock?</h3>
-                <p class="news-summary">CoreWeave is not your typical cloud company. It focuses on high-performance, GPU-based infrastructure specifically designed for artificial intelligence — think ChatGPT...</p>
-                <div class="news-meta">
-                    <span class="news-source">Forbes</span>
-                    <span class="news-time">18小时前</span>
+                <div class="news-card" onclick="openDetail('ce77a6e82e58')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">AI, crypto and data privacy: Comparing Harris, Trump on technology regulation</h3>
+                    <p class="news-summary">With artificial intelligence now widespread, governments worldwide are grappling with how to regulate various aspects of the technology. Kamala Harris and Donald Trump offer different visions for U.S. AI policy.</p>
+                    <div class="news-meta">
+                        <span class="news-source">UPI News</span>
+                        <span class="news-time">10月18日</span>
+                    </div>
                 </div>
-            </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058393_10')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">The AI-Powered Consultancy: Leveraging Technology For Market Leadership</h3>
-                <p class="news-summary">In the very near future, the divide between AI-powered consultancies and those clinging to traditional methods will become starkly apparent.</p>
-                <div class="news-meta">
-                    <span class="news-source">Forbes</span>
-                    <span class="news-time">18小时前</span>
+                <div class="news-card" onclick="openDetail('225b7ba4acda')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">Roberts warns of AI ‘dehumanizing the law’ in year-end report but avoids Trump legal disputes, Supreme Court ethics reform</h3>
+                    <p class="news-summary">Supreme Court Chief Justice John Roberts raised concerns about the increasing presence of artificial intelligence in the US judicial system in an annual report released Sunday, warning that the emerging technology could risk “dehumanizing the law” and imperiling fair treatment in the justice system.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Cable News Network</span>
+                        <span class="news-time">12月31日</span>
+                    </div>
                 </div>
-            </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058393_11')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">Half of Students Say AI Is Most Important Skill They'll Learn in College</h3>
-                <p class="news-summary">The survey highlighted the rapid adoption of AI technology on campuses and its perceived necessity for future success.</p>
-                <div class="news-meta">
-                    <span class="news-source">Newsweek</span>
-                    <span class="news-time">1天前</span>
+                <div class="news-card" onclick="openDetail('c024c9577fd1')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">AI chatbot can pass national lawyer ethics exam</h3>
+                    <p class="news-summary">Popular AI chatbot GPT-4 outperforms most aspiring lawyers on the legal ethics exam required by nearly every state in order to practice law, a new study has found.</p>
+                    <div class="news-meta">
+                        <span class="news-source">Reuters</span>
+                        <span class="news-time">11月18日</span>
+                    </div>
                 </div>
-            </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058393_12')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">How to check if a song was generated by AI</h3>
-                <p class="news-summary">A fictitious rock group with AI-generated music, lyrics, and album art sparked debate about how the new technology is blurring the line between real and synthetic in the music world.</p>
-                <div class="news-meta">
-                    <span class="news-source">The Associated Press</span>
-                    <span class="news-time">1天前</span>
-                </div>
-            </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058393_13')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">AI superintelligence is not a looming threat</h3>
-                <p class="news-summary">Superintelligence isn't "out of the picture," but it would be "quite difficult" for AI to replicate Figma's technology, Field said.</p>
-                <div class="news-meta">
-                    <span class="news-source">CNBC</span>
-                    <span class="news-time">1天前</span>
-                </div>
-            </div>
-            <div class="news-card" onclick="openDetail('gnews_1754058393_14')">
-                <div class="category-tag">AI科技</div>
-                <h3 class="news-title">One Tech Tip: Is that song by AI or a human? Here are some things to check</h3>
-                <p class="news-summary">A fictitious rock group with AI-generated music, lyrics, and album art sparked debate about how the new technology is blurring the line between real and synthetic in the music world.</p>
-                <div class="news-meta">
-                    <span class="news-source">WDIV ClickOnDetroit</span>
-                    <span class="news-time">1天前</span>
+                <div class="news-card" onclick="openDetail('0b7b32a2ee6c')">
+                    <div class="category-tag">
+                        <span>📋</span>
+                        <span>政策监管</span>
+                    </div>
+                    <h3 class="news-title">The future of AI is unknown. That's the problem with tech 'prophets' influencing AI policy</h3>
+                    <p class="news-summary">Are Big Tech CEOs and VCs predicting future AI doom or utopia the ones who should have the most influence on AI regulation?</p>
+                    <div class="news-meta">
+                        <span class="news-source">VentureBeat</span>
+                        <span class="news-time">06月12日</span>
+                    </div>
                 </div>
             </div>
         </div>
         
         <div class="footer">
-            <p>🤖 本站由AI自动生成和更新 | 数据来源：GNews API</p>
-            <p>💡 <a href="https://github.com/velist/ai-news-pusher" target="_blank">查看源码</a> | 
-               📊 <a href="https://github.com/velist/ai-news-pusher/actions" target="_blank">查看日志</a></p>
-            <p style="margin-top: 15px; font-size: 0.9em; opacity: 0.8;">
-                ⚡ 系统状态: 🟢 正常运行 | 
-                🔄 每2小时自动更新 | 
-                📱 响应式设计
+            <h3>🤖 AI科技日报</h3>
+            <p>专注人工智能领域，为您提供最权威、最及时的AI资讯</p>
+            <p>分类精选 · 每日更新 · 全球视野 · 专业可信</p>
+            <p style="margin-top: 20px;">
+                <a href="https://github.com/velist/ai-news-pusher" target="_blank">GitHub开源</a> · 
+                <a href="mailto:contact@ai-daily.news">联系我们</a> · 
+                <a href="#" onclick="alert('RSS功能开发中...')">RSS订阅</a>
             </p>
-            
+            <p style="margin-top: 15px; font-size: 0.9em; opacity: 0.8;">
+                数据来源：GNews API | 更新频率：每2小时 | 响应式设计
+            </p>
         </div>
     </div>
     
     <script>
+        function showCategory(category) {
+            // 隐藏所有内容
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // 显示选中的内容
+            document.getElementById('category-' + category).classList.add('active');
+            event.target.closest('.tab').classList.add('active');
+            
+            // 滚动到顶部
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
         function openDetail(articleId) {
-            if (articleId && !articleId.startsWith('sample_')) {
+            if (articleId) {
                 window.open('news/' + articleId + '.html', '_blank');
-            } else {
-                // 示例文章处理
-                if (articleId.startsWith('sample_emergency_')) {
-                    alert('这是系统示例数据。\n\n如需查看真实新闻，请:\n1. 检查API密钥配置\n2. 查看GitHub Actions日志\n3. 确认API配额充足');
-                } else {
-                    window.open('news/' + articleId + '.html', '_blank');
-                }
             }
         }
         
@@ -337,19 +1394,33 @@
             const cards = document.querySelectorAll('.news-card');
             cards.forEach((card, index) => {
                 card.style.opacity = '0';
-                card.style.transform = 'translateY(20px)';
+                card.style.transform = 'translateY(30px)';
                 setTimeout(() => {
-                    card.style.transition = 'all 0.5s ease';
+                    card.style.transition = 'all 0.6s ease';
                     card.style.opacity = '1';
                     card.style.transform = 'translateY(0)';
                 }, index * 100);
             });
             
-            // 示例数据提示
-            const sampleCards = document.querySelectorAll('.news-card.sample');
-            if (sampleCards.length > 0) {
-                console.warn('检测到示例数据，请检查系统配置');
-            }
+            // 统计信息动画
+            const statNumbers = document.querySelectorAll('.stat-number');
+            statNumbers.forEach((stat, index) => {
+                const finalText = stat.textContent;
+                if (!isNaN(finalText)) {
+                    const finalNumber = parseInt(finalText);
+                    let currentNumber = 0;
+                    const increment = finalNumber / 30;
+                    const timer = setInterval(() => {
+                        currentNumber += increment;
+                        if (currentNumber >= finalNumber) {
+                            stat.textContent = finalNumber;
+                            clearInterval(timer);
+                        } else {
+                            stat.textContent = Math.floor(currentNumber);
+                        }
+                    }, 50);
+                }
+            });
         });
     </script>
 </body>

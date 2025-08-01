@@ -21,15 +21,18 @@ jobs:
       with:
         python-version: '3.9'
         
-    - name: 运行用户体验优化版AI新闻推送
+    - name: 运行用户体验最终优化版AI新闻推送
       env:
         GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
       run: |
-        echo "🎨 使用用户体验优化版脚本"
+        echo "🚀 使用用户体验最终优化版脚本"
         
-        # 优先级：界面优化版 > 修复版 > 原版
-        if [ -f "ui_optimized_news.py" ]; then
+        # 优先级：最终优化版 > 界面优化版 > 修复版 > 原版
+        if [ -f "user_experience_final.py" ]; then
+          echo "✅ 使用最终优化版: user_experience_final.py (含翻译+AI点评)"
+          python user_experience_final.py
+        elif [ -f "ui_optimized_news.py" ]; then
           echo "✅ 使用界面优化版: ui_optimized_news.py"
           python ui_optimized_news.py
         elif [ -f "github_pages_fix.py" ]; then
