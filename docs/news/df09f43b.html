@@ -6,155 +6,302 @@
     <title>基金研究实验室获3000多万美元，打造跨领域AI代理 - AI科技日报</title>
     <meta name="description" content="基础研究实验室将推出多款与游戏和 productivity 相关的 AI 产品。...">
     <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "SimSun", sans-serif;
-            line-height: 1.8; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh; margin: 0; padding: 20px; color: #333;
+            line-height: 1.7; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh; 
+            margin: 0; 
+            padding: 15px; 
+            color: #333;
         }
         
         .article-container {
-            max-width: 800px; margin: 0 auto; background: rgba(255,255,255,0.95);
-            border-radius: 24px; padding: 50px; box-shadow: 0 20px 60px rgba(0,0,0,0.1);
-            backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.2);
+            max-width: 800px; 
+            margin: 0 auto; 
+            background: rgba(255,255,255,0.96);
+            border-radius: 20px; 
+            padding: 25px; 
+            box-shadow: 0 15px 45px rgba(0,0,0,0.1);
+            backdrop-filter: blur(15px); 
+            border: 1px solid rgba(255,255,255,0.2);
         }
         
         .back-link {
-            display: inline-block; color: #667eea; text-decoration: none; 
-            font-weight: 600; margin-bottom: 30px; font-size: 1.1em;
+            display: inline-flex;
+            align-items: center;
+            color: #667eea; 
+            text-decoration: none; 
+            font-weight: 600; 
+            margin-bottom: 20px; 
+            font-size: 0.95em;
             transition: all 0.3s ease;
+            padding: 8px 12px;
+            border-radius: 20px;
+            background: rgba(102, 126, 234, 0.1);
         }
         
-        .back-link:hover { color: #764ba2; transform: translateX(-5px); }
+        .back-link:hover { 
+            color: #764ba2; 
+            background: rgba(118, 75, 162, 0.1);
+            transform: translateX(-3px); 
+        }
         
         .article-header {
-            border-bottom: 3px solid rgba(102, 126, 234, 0.1); 
-            padding-bottom: 30px; margin-bottom: 40px;
+            border-bottom: 2px solid rgba(102, 126, 234, 0.1); 
+            padding-bottom: 20px; 
+            margin-bottom: 25px;
         }
         
         .article-category {
-            display: inline-block; background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white; padding: 10px 20px; border-radius: 20px; 
-            font-weight: 600; margin-bottom: 20px; font-size: 1em;
+            display: inline-block; 
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white; 
+            padding: 6px 14px; 
+            border-radius: 15px; 
+            font-weight: 600; 
+            margin-bottom: 15px; 
+            font-size: 0.85em;
         }
         
         .article-title {
-            font-size: 2.5em; font-weight: 800; line-height: 1.2; 
-            margin-bottom: 20px; color: #333;
+            font-size: 1.6em; 
+            font-weight: 700; 
+            line-height: 1.3; 
+            margin-bottom: 15px; 
+            color: #333;
         }
         
         .article-meta {
-            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px; background: rgba(102, 126, 234, 0.05); 
-            padding: 20px; border-radius: 15px; margin-bottom: 30px;
+            display: grid; 
+            grid-template-columns: 1fr;
+            gap: 8px; 
+            background: rgba(102, 126, 234, 0.04); 
+            padding: 15px; 
+            border-radius: 12px; 
+            margin-bottom: 20px;
+            font-size: 0.9em;
         }
         
-        .meta-item {
-            display: flex; flex-direction: column; gap: 5px;
+        .meta-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 4px 0;
         }
         
         .meta-label {
-            font-size: 0.9em; color: #666; font-weight: 600;
+            color: #666; 
+            font-weight: 600;
+            font-size: 0.85em;
         }
         
         .meta-value {
-            font-size: 1em; color: #333; font-weight: 500;
+            color: #333; 
+            font-weight: 500;
+            text-align: right;
+            flex: 1;
+            margin-left: 10px;
         }
         
         .article-source {
-            background: rgba(102, 126, 234, 0.1); color: #667eea; 
-            padding: 8px 16px; border-radius: 20px; font-weight: 600;
-            display: inline-block; width: fit-content;
+            background: rgba(102, 126, 234, 0.1); 
+            color: #667eea; 
+            padding: 4px 10px; 
+            border-radius: 12px; 
+            font-weight: 600;
+            font-size: 0.8em;
+        }
+        
+        .key-info-compact {
+            background: rgba(118, 75, 162, 0.08);
+            padding: 12px 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            font-size: 0.85em;
+            color: #555;
+            border-left: 3px solid #764ba2;
         }
         
         .article-content {
-            font-size: 1.2em; line-height: 1.8; margin-bottom: 40px;
+            font-size: 1.05em; 
+            line-height: 1.7; 
+            margin-bottom: 25px;
         }
         
         .content-section {
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
         
         .content-section h3 {
-            color: #667eea; font-size: 1.4em; margin-bottom: 15px;
-            font-weight: 700; border-left: 4px solid #667eea;
-            padding-left: 15px;
+            color: #667eea; 
+            font-size: 1.1em; 
+            margin-bottom: 12px;
+            font-weight: 700; 
+            border-left: 3px solid #667eea;
+            padding-left: 12px;
         }
         
-        .key-info-section {
-            background: rgba(102, 126, 234, 0.08);
-            padding: 25px; border-radius: 15px; margin-bottom: 30px;
-            border-left: 4px solid #667eea;
-        }
-        
-        .key-info-list {
-            list-style: none; padding: 0; margin: 15px 0 0 0;
-        }
-        
-        .key-info-list li {
-            padding: 8px 0; border-bottom: 1px solid rgba(102, 126, 234, 0.1);
-            font-size: 1.1em; color: #555;
-        }
-        
-        .key-info-list li:last-child {
-            border-bottom: none;
-        }
-        
-        .extended-content {
-            background: rgba(118, 75, 162, 0.05);
-            padding: 25px; border-radius: 15px; margin-bottom: 30px;
-            border-left: 4px solid #764ba2;
+        .content-section p {
+            margin-bottom: 12px;
+            text-align: justify;
         }
         
         .ai-commentary {
-            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
-            border-left: 5px solid #667eea; padding: 30px; border-radius: 15px;
-            margin-bottom: 30px;
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.08), rgba(118, 75, 162, 0.08));
+            border-left: 4px solid #667eea; 
+            padding: 18px; 
+            border-radius: 12px;
+            margin-bottom: 25px;
         }
         
         .ai-commentary h4 {
-            color: #667eea; font-size: 1.3em; margin-bottom: 15px; 
-            font-weight: 700; display: flex; align-items: center; gap: 10px;
+            color: #667eea; 
+            font-size: 1.05em; 
+            margin-bottom: 10px; 
+            font-weight: 700; 
+            display: flex; 
+            align-items: center; 
+            gap: 8px;
         }
         
         .ai-commentary-content {
-            font-size: 1.1em; line-height: 1.7; color: #555;
+            font-size: 0.95em; 
+            line-height: 1.6; 
+            color: #555;
         }
         
         .article-actions {
-            text-align: center; padding-top: 30px; 
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            padding-top: 20px; 
             border-top: 2px solid rgba(102, 126, 234, 0.1);
-            display: flex; gap: 20px; justify-content: center;
             flex-wrap: wrap;
         }
         
-        .original-link {
-            display: inline-block; background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white; padding: 15px 30px; border-radius: 25px; 
-            text-decoration: none; font-weight: 600; font-size: 1.1em;
-            transition: all 0.3s ease; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+        .action-btn {
+            flex: 1;
+            min-width: 120px;
+            max-width: 160px;
+            text-align: center;
+            padding: 12px 20px; 
+            border-radius: 20px; 
+            text-decoration: none; 
+            font-weight: 600; 
+            font-size: 0.9em;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
         }
         
-        .original-link:hover {
-            transform: translateY(-3px); box-shadow: 0 12px 35px rgba(102, 126, 234, 0.4);
+        .primary-btn {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.3);
         }
         
-        .share-btn {
-            background: rgba(102, 126, 234, 0.1); color: #667eea;
-            padding: 15px 30px; border-radius: 25px; text-decoration: none;
-            font-weight: 600; font-size: 1.1em; transition: all 0.3s ease;
+        .primary-btn:hover {
+            transform: translateY(-2px); 
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+        }
+        
+        .secondary-btn {
+            background: rgba(102, 126, 234, 0.1); 
+            color: #667eea;
             border: 2px solid #667eea;
         }
         
-        .share-btn:hover {
-            background: #667eea; color: white;
-            transform: translateY(-3px);
+        .secondary-btn:hover {
+            background: #667eea; 
+            color: white;
+            transform: translateY(-2px);
         }
         
+        /* 移动端特殊优化 */
         @media (max-width: 768px) {
-            .article-container { padding: 30px 25px; }
-            .article-title { font-size: 2em; }
-            .article-meta { grid-template-columns: 1fr; }
-            .article-actions { flex-direction: column; align-items: center; }
+            body { padding: 10px; }
+            
+            .article-container { 
+                padding: 20px 18px; 
+                border-radius: 16px;
+            }
+            
+            .article-title { 
+                font-size: 1.4em;
+                line-height: 1.35;
+            }
+            
+            .article-meta {
+                padding: 12px;
+                font-size: 0.85em;
+            }
+            
+            .meta-row {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 2px;
+            }
+            
+            .meta-value {
+                text-align: left;
+                margin-left: 0;
+            }
+            
+            .article-content {
+                font-size: 1.02em;
+            }
+            
+            .content-section h3 {
+                font-size: 1.05em;
+                margin-bottom: 10px;
+            }
+            
+            .ai-commentary {
+                padding: 15px;
+            }
+            
+            .ai-commentary h4 {
+                font-size: 1em;
+            }
+            
+            .ai-commentary-content {
+                font-size: 0.92em;
+            }
+            
+            .article-actions {
+                gap: 10px;
+            }
+            
+            .action-btn {
+                padding: 10px 16px;
+                font-size: 0.85em;
+                min-width: 100px;
+            }
+        }
+        
+        /* 超小屏幕优化 */
+        @media (max-width: 480px) {
+            .article-container { 
+                padding: 16px 15px; 
+            }
+            
+            .article-title { 
+                font-size: 1.3em;
+            }
+            
+            .article-actions {
+                flex-direction: column;
+            }
+            
+            .action-btn {
+                max-width: none;
+                width: 100%;
+            }
         }
     </style>
 </head>
@@ -167,39 +314,39 @@
             <h1 class="article-title">基金研究实验室获3000多万美元，打造跨领域AI代理</h1>
             
             <div class="article-meta">
-                <div class="meta-item">
-                    <div class="meta-label">📰 新闻来源</div>
-                    <div class="meta-value article-source">TechCrunch</div>
+                <div class="meta-row">
+                    <span class="meta-label">📰 来源</span>
+                    <span class="meta-value article-source">TechCrunch</span>
                 </div>
-                <div class="meta-item">
-                    <div class="meta-label">⏰ 发布时间</div>
-                    <div class="meta-value">2025年08月01日 23:15 (北京时间)</div>
+                <div class="meta-row">
+                    <span class="meta-label">⏰ 时间</span>
+                    <span class="meta-value">2025年08月01日 23:15 (北京时间)</span>
                 </div>
-                <div class="meta-item">
-                    <div class="meta-label">🏷️ 新闻分类</div>
-                    <div class="meta-value">🚀 技术突破</div>
-                </div>
-                <div class="meta-item">
-                    <div class="meta-label">🌐 原文语言</div>
-                    <div class="meta-value">English (已翻译)</div>
+                <div class="meta-row">
+                    <span class="meta-label">🏷️ 分类</span>
+                    <span class="meta-value">🚀 技术突破</span>
                 </div>
             </div>
+            
+            
         </div>
         
         <div class="article-content">
             <div class="content-section">
-                <h3>📋 新闻摘要</h3>
-                <p>基础研究实验室将推出多款与游戏和 productivity 相关的 AI 产品。</p>
+                <h3>📋 新闻正文</h3>
+                <p>【最新消息】Fundamental Research Labs is releasing multiple AI products related to gaming and productivity.</p><p>这一发展体现了人工智能技术的快速演进，预计将对相关行业和用户体验产生积极影响。</p><p>随着AI技术的不断成熟，我们可以期待看到更多创新应用和服务的出现，为社会各个层面带来变革性的改进。</p><p>从行业发展角度看，这一消息进一步证实了人工智能正在从实验室走向实际应用，成为推动数字化转型的重要力量。</p>
             </div>
-            
-            
         </div>
         
         <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">这个消息意味着Fundamental Research Labs获得了超过3000万美元的投资，用于开发跨行业的AI产品，特别是游戏和生产力领域。这对AI行业来说是一大进步，表明AI技术正逐步深入日常生活，提升用户体验。对于普通用户来说，这预示着未来的AI产品将更加丰富多样，使用起来也会更加便捷高效。比如，更智能的游戏助手和办公工具，能够帮助我们更好地享受娱乐和提高工作效率。</div></div>
         
         <div class="article-actions">
-            <a href="https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-33-million-from-prosus-to-build-ai-agents-for-multiple-verticals/" target="_blank" class="original-link">查看英文原文 →</a>
-            <a href="#" onclick="navigator.share ? navigator.share({title: '基金研究实验室获3000多万美元，打造跨领域AI代理', url: window.location.href}) : alert('分享功能需要在移动设备上使用')" class="share-btn">📱 分享新闻</a>
+            <a href="https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-33-million-from-prosus-to-build-ai-agents-for-multiple-verticals/" target="_blank" class="action-btn primary-btn">
+                🔗 查看原文
+            </a>
+            <a href="#" onclick="navigator.share ? navigator.share({title: '基金研究实验室获3000多万美元，打造跨领域AI代理', url: window.location.href}) : alert('分享功能需要在移动设备上使用')" class="action-btn secondary-btn">
+                📱 分享新闻
+            </a>
         </div>
     </div>
 </body>

@@ -50,6 +50,12 @@ jobs:
           python ultra_simple_news.py
         fi
         
+        # 运行移动端优化脚本
+        if [ -f "mobile_optimize_details.py" ]; then
+          echo "📱 运行移动端详情页优化..."
+          python mobile_optimize_details.py
+        fi
+        
         # 运行详情页增强脚本
         if [ -f "enhance_article_details.py" ]; then
           echo "🔄 运行详情页内容增强..."
