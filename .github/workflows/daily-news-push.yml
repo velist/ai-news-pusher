@@ -29,8 +29,11 @@ jobs:
       run: |
         echo "🎯 使用里程碑02优化版脚本"
         
-        # 优先级：里程碑02优化版 > 最终优化版 > 界面优化版 > 修复版 > 原版
-        if [ -f "milestone02_optimized.py" ]; then
+        # 优先级：里程碑02.1优化版 > 里程碑02优化版 > 最终优化版 > 界面优化版 > 修复版 > 原版
+        if [ -f "milestone02_1_optimized.py" ]; then
+          echo "✅ 使用里程碑02.1优化版: milestone02_1_optimized.py (全部Tab+模型分类+丰富详情)"
+          python milestone02_1_optimized.py
+        elif [ -f "milestone02_optimized.py" ]; then
           echo "✅ 使用里程碑02优化版: milestone02_optimized.py (多API+北京时间+横向滑动)"
           python milestone02_optimized.py
         elif [ -f "user_experience_final.py" ]; then
@@ -45,6 +48,18 @@ jobs:
         else
           echo "⚠️ 使用原版: ultra_simple_news.py"
           python ultra_simple_news.py
+        fi
+        
+        # 运行详情页增强脚本
+        if [ -f "enhance_article_details.py" ]; then
+          echo "🔄 运行详情页内容增强..."
+          python enhance_article_details.py
+        fi
+        
+        # 运行快速优化脚本
+        if [ -f "quick_milestone02_1.py" ]; then
+          echo "🎯 应用里程碑02.1快速优化..."
+          python quick_milestone02_1.py
         fi
         
         # 显示生成文件的详细信息

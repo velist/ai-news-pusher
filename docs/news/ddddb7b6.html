@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>基础研究实验室获3000万美元，打造跨领域AI代理 - AI科技日报</title>
-    <meta name="description" content="基础研究实验室将推出多款与游戏和 productivity 相关的 AI 产品...">
+    <title>基金研究实验室获3000万美元，打造跨领域AI代理 - AI科技日报</title>
+    <meta name="description" content="基金研究实验室将推出多款与游戏和 productivity 相关的 AI 产品...">
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "SimSun", sans-serif;
@@ -43,17 +43,66 @@
         }
         
         .article-meta {
-            display: flex; justify-content: space-between; align-items: center;
-            color: #666; font-size: 1.1em; margin-bottom: 20px;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px; background: rgba(102, 126, 234, 0.05); 
+            padding: 20px; border-radius: 15px; margin-bottom: 30px;
+        }
+        
+        .meta-item {
+            display: flex; flex-direction: column; gap: 5px;
+        }
+        
+        .meta-label {
+            font-size: 0.9em; color: #666; font-weight: 600;
+        }
+        
+        .meta-value {
+            font-size: 1em; color: #333; font-weight: 500;
         }
         
         .article-source {
             background: rgba(102, 126, 234, 0.1); color: #667eea; 
             padding: 8px 16px; border-radius: 20px; font-weight: 600;
+            display: inline-block; width: fit-content;
         }
         
         .article-content {
             font-size: 1.2em; line-height: 1.8; margin-bottom: 40px;
+        }
+        
+        .content-section {
+            margin-bottom: 30px;
+        }
+        
+        .content-section h3 {
+            color: #667eea; font-size: 1.4em; margin-bottom: 15px;
+            font-weight: 700; border-left: 4px solid #667eea;
+            padding-left: 15px;
+        }
+        
+        .key-info-section {
+            background: rgba(102, 126, 234, 0.08);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .key-info-list {
+            list-style: none; padding: 0; margin: 15px 0 0 0;
+        }
+        
+        .key-info-list li {
+            padding: 8px 0; border-bottom: 1px solid rgba(102, 126, 234, 0.1);
+            font-size: 1.1em; color: #555;
+        }
+        
+        .key-info-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .extended-content {
+            background: rgba(118, 75, 162, 0.05);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #764ba2;
         }
         
         .ai-commentary {
@@ -74,6 +123,8 @@
         .article-actions {
             text-align: center; padding-top: 30px; 
             border-top: 2px solid rgba(102, 126, 234, 0.1);
+            display: flex; gap: 20px; justify-content: center;
+            flex-wrap: wrap;
         }
         
         .original-link {
@@ -87,10 +138,23 @@
             transform: translateY(-3px); box-shadow: 0 12px 35px rgba(102, 126, 234, 0.4);
         }
         
+        .share-btn {
+            background: rgba(102, 126, 234, 0.1); color: #667eea;
+            padding: 15px 30px; border-radius: 25px; text-decoration: none;
+            font-weight: 600; font-size: 1.1em; transition: all 0.3s ease;
+            border: 2px solid #667eea;
+        }
+        
+        .share-btn:hover {
+            background: #667eea; color: white;
+            transform: translateY(-3px);
+        }
+        
         @media (max-width: 768px) {
             .article-container { padding: 30px 25px; }
             .article-title { font-size: 2em; }
-            .article-meta { flex-direction: column; gap: 10px; align-items: flex-start; }
+            .article-meta { grid-template-columns: 1fr; }
+            .article-actions { flex-direction: column; align-items: center; }
         }
     </style>
 </head>
@@ -100,21 +164,44 @@
         
         <div class="article-header">
             <div class="article-category">🚀 技术突破</div>
-            <h1 class="article-title">基础研究实验室获3000万美元，打造跨领域AI代理</h1>
+            <h1 class="article-title">基金研究实验室获3000万美元，打造跨领域AI代理</h1>
+            
             <div class="article-meta">
-                <span class="article-source">TechCrunch</span>
-                <span class="article-time">2025年08月01日 23:15</span>
+                <div class="meta-item">
+                    <div class="meta-label">📰 新闻来源</div>
+                    <div class="meta-value article-source">TechCrunch</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">⏰ 发布时间</div>
+                    <div class="meta-value">2025年08月01日 23:15 (北京时间)</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🏷️ 新闻分类</div>
+                    <div class="meta-value">🚀 技术突破</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🌐 原文语言</div>
+                    <div class="meta-value">English (已翻译)</div>
+                </div>
             </div>
         </div>
         
         <div class="article-content">
-            <p>基础研究实验室将推出多款与游戏和 productivity 相关的 AI 产品</p>
+            <div class="content-section">
+                <h3>📋 新闻摘要</h3>
+                <p>基金研究实验室将推出多款与游戏和 productivity 相关的 AI 产品</p>
+            </div>
+            
+            
         </div>
         
-        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">这项资助对AI行业意义重大，意味着AI技术在不同垂直领域如游戏和生产力的广泛应用得到认可和支持，有助于推动AI技术的创新和普及。对普通用户来说，这意味着未来将有更多智能化的产品和服务，让生活更加便捷高效。例如，游戏将更加智能有趣，办公软件也会更懂用户需求，提高工作效率。整体而言，这将促进AI技术更好地服务于大众，提升用户体验。</div></div>
+        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">这个新闻意味着Fundamental Research Labs获得了3000万美元的投资，用于开发跨行业的AI产品，特别是游戏和生产力领域。这对于AI行业来说是一个积极的信号，表明投资界看好AI在不同领域的广泛应用。
+
+对普通用户而言，这意味着未来可能有更多的智能工具帮助提高工作效率，或让游戏体验更加丰富有趣。这样的进步将使我们的生活更加便捷和智能化。</div></div>
         
         <div class="article-actions">
-            <a href="https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-30-million-from-prosus-to-build-ai-agents-for-multiple-verticals/" target="_blank" class="original-link">查看原文 →</a>
+            <a href="https://techcrunch.com/2025/08/01/fundamental-research-labs-nabs-30-million-from-prosus-to-build-ai-agents-for-multiple-verticals/" target="_blank" class="original-link">查看英文原文 →</a>
+            <a href="#" onclick="navigator.share ? navigator.share({title: '基金研究实验室获3000万美元，打造跨领域AI代理', url: window.location.href}) : alert('分享功能需要在移动设备上使用')" class="share-btn">📱 分享新闻</a>
         </div>
     </div>
 </body>

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gemini 将超越谷歌新款 Pixel Buds 和 Pixel Watch 的最佳升级 - AI科技日报</title>
-    <meta name="description" content="Google的AI助手将成为焦点，但这并不意味着新款无线耳塞和智能手表不会在硬件上进行改进。...">
+    <title>Gemini 将超越谷歌新款 Pixel 耳机和 Pixel 手表的最佳升级 - AI科技日报</title>
+    <meta name="description" content="Google的AI助手将受到重点关注，但这并不意味着新款无线耳塞和智能手表不会在硬件上进行改进。...">
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "SimSun", sans-serif;
@@ -43,17 +43,66 @@
         }
         
         .article-meta {
-            display: flex; justify-content: space-between; align-items: center;
-            color: #666; font-size: 1.1em; margin-bottom: 20px;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px; background: rgba(102, 126, 234, 0.05); 
+            padding: 20px; border-radius: 15px; margin-bottom: 30px;
+        }
+        
+        .meta-item {
+            display: flex; flex-direction: column; gap: 5px;
+        }
+        
+        .meta-label {
+            font-size: 0.9em; color: #666; font-weight: 600;
+        }
+        
+        .meta-value {
+            font-size: 1em; color: #333; font-weight: 500;
         }
         
         .article-source {
             background: rgba(102, 126, 234, 0.1); color: #667eea; 
             padding: 8px 16px; border-radius: 20px; font-weight: 600;
+            display: inline-block; width: fit-content;
         }
         
         .article-content {
             font-size: 1.2em; line-height: 1.8; margin-bottom: 40px;
+        }
+        
+        .content-section {
+            margin-bottom: 30px;
+        }
+        
+        .content-section h3 {
+            color: #667eea; font-size: 1.4em; margin-bottom: 15px;
+            font-weight: 700; border-left: 4px solid #667eea;
+            padding-left: 15px;
+        }
+        
+        .key-info-section {
+            background: rgba(102, 126, 234, 0.08);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .key-info-list {
+            list-style: none; padding: 0; margin: 15px 0 0 0;
+        }
+        
+        .key-info-list li {
+            padding: 8px 0; border-bottom: 1px solid rgba(102, 126, 234, 0.1);
+            font-size: 1.1em; color: #555;
+        }
+        
+        .key-info-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .extended-content {
+            background: rgba(118, 75, 162, 0.05);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #764ba2;
         }
         
         .ai-commentary {
@@ -74,6 +123,8 @@
         .article-actions {
             text-align: center; padding-top: 30px; 
             border-top: 2px solid rgba(102, 126, 234, 0.1);
+            display: flex; gap: 20px; justify-content: center;
+            flex-wrap: wrap;
         }
         
         .original-link {
@@ -87,10 +138,23 @@
             transform: translateY(-3px); box-shadow: 0 12px 35px rgba(102, 126, 234, 0.4);
         }
         
+        .share-btn {
+            background: rgba(102, 126, 234, 0.1); color: #667eea;
+            padding: 15px 30px; border-radius: 25px; text-decoration: none;
+            font-weight: 600; font-size: 1.1em; transition: all 0.3s ease;
+            border: 2px solid #667eea;
+        }
+        
+        .share-btn:hover {
+            background: #667eea; color: white;
+            transform: translateY(-3px);
+        }
+        
         @media (max-width: 768px) {
             .article-container { padding: 30px 25px; }
             .article-title { font-size: 2em; }
-            .article-meta { flex-direction: column; gap: 10px; align-items: flex-start; }
+            .article-meta { grid-template-columns: 1fr; }
+            .article-actions { flex-direction: column; align-items: center; }
         }
     </style>
 </head>
@@ -99,22 +163,51 @@
         <a href="../index.html" class="back-link">← 返回首页</a>
         
         <div class="article-header">
-            <div class="article-category">🏢 公司动态</div>
-            <h1 class="article-title">Gemini 将超越谷歌新款 Pixel Buds 和 Pixel Watch 的最佳升级</h1>
+            <div class="article-category">🤖 模型</div>
+            <h1 class="article-title">Gemini 将超越谷歌新款 Pixel 耳机和 Pixel 手表的最佳升级</h1>
+            
             <div class="article-meta">
-                <span class="article-source">Gizmodo</span>
-                <span class="article-time">2025年08月01日 23:09</span>
+                <div class="meta-item">
+                    <div class="meta-label">📰 新闻来源</div>
+                    <div class="meta-value article-source">Gizmodo</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">⏰ 发布时间</div>
+                    <div class="meta-value">2025年08月01日 23:09 (北京时间)</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🏷️ 新闻分类</div>
+                    <div class="meta-value">🤖 模型</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🌐 原文语言</div>
+                    <div class="meta-value">English (已翻译)</div>
+                </div>
             </div>
         </div>
         
         <div class="article-content">
-            <p>Google的AI助手将成为焦点，但这并不意味着新款无线耳塞和智能手表不会在硬件上进行改进。</p>
+            <div class="content-section">
+                <h3>📋 新闻摘要</h3>
+                <p>Google的AI助手将受到重点关注，但这并不意味着新款无线耳塞和智能手表不会在硬件上进行改进。</p>
+            </div>
+            
+            
+        <div class="key-info-section">
+            <h3>🔍 关键信息</h3>
+            <ul class="key-info-list">
+                <li>🏢 涉及公司: Google</li>
+<li>🤖 相关产品: Gemini</li>
+            </ul>
         </div>
         
-        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">这个新闻表明，虽然Gemini（可能是指Google新的人工智能模型）是本次产品更新的重点，但Pixel Buds和Pixel Watch的硬件升级也不会被忽视。这对AI行业意味着AI技术在各类智能设备上的应用越来越广泛。对于普通用户来说，这意味着他们将享受到更智能、更高效的耳机和手表体验，无论是通话质量、健康管理还是智能化功能，都将有所提升。简单来说，这次更新能够让用户获得更好的智能穿戴体验，提升日常生活便捷性。</div></div>
+        </div>
+        
+        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">这款新闻意味着Google将把更多关注点放在其强大的AI助手Gemini上，但这也并不意味着新发布的Pixel Buds和Pixel Watch在硬件上没有改进。对于AI行业来说，这进一步展示了AI技术在智能穿戴设备中的重要性。对于普通用户而言，这意味着在享受Gemini带来的智能化服务的同时，这些新设备的性能和体验也会得到提升，提供了更全面的智能生活解决方案。</div></div>
         
         <div class="article-actions">
-            <a href="https://gizmodo.com/gemini-will-overshadow-the-best-upgrades-to-googles-new-pixel-buds-and-pixel-watch-2000637757" target="_blank" class="original-link">查看原文 →</a>
+            <a href="https://gizmodo.com/gemini-will-overshadow-the-best-upgrades-to-googles-new-pixel-buds-and-pixel-watch-2000637757" target="_blank" class="original-link">查看英文原文 →</a>
+            <a href="#" onclick="navigator.share ? navigator.share({title: 'Gemini 将超越谷歌新款 Pixel 耳机和 Pixel 手表的最佳升级', url: window.location.href}) : alert('分享功能需要在移动设备上使用')" class="share-btn">📱 分享新闻</a>
         </div>
     </div>
 </body>

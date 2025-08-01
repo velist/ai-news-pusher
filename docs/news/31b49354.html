@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HALO 智能眼镜利用AI增强记忆力 - AI科技日报</title>
+    <title>HALO智能眼镜利用AI增强记忆力 - AI科技日报</title>
     <meta name="description" content="Halo智能眼镜利用人工智能和硬件功能帮助你记住生活中发生的事情。...">
     <style>
         body {
@@ -43,17 +43,66 @@
         }
         
         .article-meta {
-            display: flex; justify-content: space-between; align-items: center;
-            color: #666; font-size: 1.1em; margin-bottom: 20px;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px; background: rgba(102, 126, 234, 0.05); 
+            padding: 20px; border-radius: 15px; margin-bottom: 30px;
+        }
+        
+        .meta-item {
+            display: flex; flex-direction: column; gap: 5px;
+        }
+        
+        .meta-label {
+            font-size: 0.9em; color: #666; font-weight: 600;
+        }
+        
+        .meta-value {
+            font-size: 1em; color: #333; font-weight: 500;
         }
         
         .article-source {
             background: rgba(102, 126, 234, 0.1); color: #667eea; 
             padding: 8px 16px; border-radius: 20px; font-weight: 600;
+            display: inline-block; width: fit-content;
         }
         
         .article-content {
             font-size: 1.2em; line-height: 1.8; margin-bottom: 40px;
+        }
+        
+        .content-section {
+            margin-bottom: 30px;
+        }
+        
+        .content-section h3 {
+            color: #667eea; font-size: 1.4em; margin-bottom: 15px;
+            font-weight: 700; border-left: 4px solid #667eea;
+            padding-left: 15px;
+        }
+        
+        .key-info-section {
+            background: rgba(102, 126, 234, 0.08);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .key-info-list {
+            list-style: none; padding: 0; margin: 15px 0 0 0;
+        }
+        
+        .key-info-list li {
+            padding: 8px 0; border-bottom: 1px solid rgba(102, 126, 234, 0.1);
+            font-size: 1.1em; color: #555;
+        }
+        
+        .key-info-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .extended-content {
+            background: rgba(118, 75, 162, 0.05);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #764ba2;
         }
         
         .ai-commentary {
@@ -74,6 +123,8 @@
         .article-actions {
             text-align: center; padding-top: 30px; 
             border-top: 2px solid rgba(102, 126, 234, 0.1);
+            display: flex; gap: 20px; justify-content: center;
+            flex-wrap: wrap;
         }
         
         .original-link {
@@ -87,10 +138,23 @@
             transform: translateY(-3px); box-shadow: 0 12px 35px rgba(102, 126, 234, 0.4);
         }
         
+        .share-btn {
+            background: rgba(102, 126, 234, 0.1); color: #667eea;
+            padding: 15px 30px; border-radius: 25px; text-decoration: none;
+            font-weight: 600; font-size: 1.1em; transition: all 0.3s ease;
+            border: 2px solid #667eea;
+        }
+        
+        .share-btn:hover {
+            background: #667eea; color: white;
+            transform: translateY(-3px);
+        }
+        
         @media (max-width: 768px) {
             .article-container { padding: 30px 25px; }
             .article-title { font-size: 2em; }
-            .article-meta { flex-direction: column; gap: 10px; align-items: flex-start; }
+            .article-meta { grid-template-columns: 1fr; }
+            .article-actions { flex-direction: column; align-items: center; }
         }
     </style>
 </head>
@@ -100,21 +164,42 @@
         
         <div class="article-header">
             <div class="article-category">🔥 热门</div>
-            <h1 class="article-title">HALO 智能眼镜利用AI增强记忆力</h1>
+            <h1 class="article-title">HALO智能眼镜利用AI增强记忆力</h1>
+            
             <div class="article-meta">
-                <span class="article-source">Android Police</span>
-                <span class="article-time">2025年08月01日 23:12</span>
+                <div class="meta-item">
+                    <div class="meta-label">📰 新闻来源</div>
+                    <div class="meta-value article-source">Android Police</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">⏰ 发布时间</div>
+                    <div class="meta-value">2025年08月01日 23:12 (北京时间)</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🏷️ 新闻分类</div>
+                    <div class="meta-value">🔥 热门</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🌐 原文语言</div>
+                    <div class="meta-value">English (已翻译)</div>
+                </div>
             </div>
         </div>
         
         <div class="article-content">
-            <p>Halo智能眼镜利用人工智能和硬件功能帮助你记住生活中发生的事情。</p>
+            <div class="content-section">
+                <h3>📋 新闻摘要</h3>
+                <p>Halo智能眼镜利用人工智能和硬件功能帮助你记住生活中发生的事情。</p>
+            </div>
+            
+            
         </div>
         
-        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">这款Halo智能眼镜利用AI技术帮助用户更好地记住生活中的点滴，这标志着AI技术在个人记忆辅助领域的创新应用。对AI行业而言，这一成果展示了AI在日常生活中的潜在价值，有望推动更多智能设备与AI技术的融合。对于普通用户来说，这些智能眼镜能够帮助提高记忆力，记录生活的重要时刻，使日常生活更加便捷和有意义。这项技术让记忆变得更加智能，提升了用户的生活质量。</div></div>
+        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">这款Halo智能眼镜利用AI技术帮助用户更好地记住日常生活中的细节，标志着AI在辅助记忆领域的重要应用。这对用户来说意义重大，特别是对于需要高效管理信息和回忆重要事件的人群，如学生、专业人士或老年人。通过简化记忆过程，这类创新不仅提高了个人效率，还改善了生活质量，使得日常记忆变得更加轻松。</div></div>
         
         <div class="article-actions">
-            <a href="https://www.androidpolice.com/halo-smartglasses-remember-your-life-as-it-happens/" target="_blank" class="original-link">查看原文 →</a>
+            <a href="https://www.androidpolice.com/halo-smartglasses-remember-your-life-as-it-happens/" target="_blank" class="original-link">查看英文原文 →</a>
+            <a href="#" onclick="navigator.share ? navigator.share({title: 'HALO智能眼镜利用AI增强记忆力', url: window.location.href}) : alert('分享功能需要在移动设备上使用')" class="share-btn">📱 分享新闻</a>
         </div>
     </div>
 </body>

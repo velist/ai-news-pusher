@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>谷歌推出迄今为止最强大的Gemini模型 - AI科技日报</title>
-    <meta name="description" content="谷歌推出了迄今为止最先进的Gemini版本，名为Deep Think。该版本仅向Gemini应用上的AI Ultra订阅用户开放。...">
+    <meta name="description" content="谷歌推出了其最先进版本的Gemini，名为Deep Think。目前该版本仅向Gemini应用上的AI Ultra订阅用户独家提供。...">
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "SimSun", sans-serif;
@@ -43,17 +43,66 @@
         }
         
         .article-meta {
-            display: flex; justify-content: space-between; align-items: center;
-            color: #666; font-size: 1.1em; margin-bottom: 20px;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px; background: rgba(102, 126, 234, 0.05); 
+            padding: 20px; border-radius: 15px; margin-bottom: 30px;
+        }
+        
+        .meta-item {
+            display: flex; flex-direction: column; gap: 5px;
+        }
+        
+        .meta-label {
+            font-size: 0.9em; color: #666; font-weight: 600;
+        }
+        
+        .meta-value {
+            font-size: 1em; color: #333; font-weight: 500;
         }
         
         .article-source {
             background: rgba(102, 126, 234, 0.1); color: #667eea; 
             padding: 8px 16px; border-radius: 20px; font-weight: 600;
+            display: inline-block; width: fit-content;
         }
         
         .article-content {
             font-size: 1.2em; line-height: 1.8; margin-bottom: 40px;
+        }
+        
+        .content-section {
+            margin-bottom: 30px;
+        }
+        
+        .content-section h3 {
+            color: #667eea; font-size: 1.4em; margin-bottom: 15px;
+            font-weight: 700; border-left: 4px solid #667eea;
+            padding-left: 15px;
+        }
+        
+        .key-info-section {
+            background: rgba(102, 126, 234, 0.08);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .key-info-list {
+            list-style: none; padding: 0; margin: 15px 0 0 0;
+        }
+        
+        .key-info-list li {
+            padding: 8px 0; border-bottom: 1px solid rgba(102, 126, 234, 0.1);
+            font-size: 1.1em; color: #555;
+        }
+        
+        .key-info-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .extended-content {
+            background: rgba(118, 75, 162, 0.05);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #764ba2;
         }
         
         .ai-commentary {
@@ -74,6 +123,8 @@
         .article-actions {
             text-align: center; padding-top: 30px; 
             border-top: 2px solid rgba(102, 126, 234, 0.1);
+            display: flex; gap: 20px; justify-content: center;
+            flex-wrap: wrap;
         }
         
         .original-link {
@@ -87,10 +138,23 @@
             transform: translateY(-3px); box-shadow: 0 12px 35px rgba(102, 126, 234, 0.4);
         }
         
+        .share-btn {
+            background: rgba(102, 126, 234, 0.1); color: #667eea;
+            padding: 15px 30px; border-radius: 25px; text-decoration: none;
+            font-weight: 600; font-size: 1.1em; transition: all 0.3s ease;
+            border: 2px solid #667eea;
+        }
+        
+        .share-btn:hover {
+            background: #667eea; color: white;
+            transform: translateY(-3px);
+        }
+        
         @media (max-width: 768px) {
             .article-container { padding: 30px 25px; }
             .article-title { font-size: 2em; }
-            .article-meta { flex-direction: column; gap: 10px; align-items: flex-start; }
+            .article-meta { grid-template-columns: 1fr; }
+            .article-actions { flex-direction: column; align-items: center; }
         }
     </style>
 </head>
@@ -99,22 +163,51 @@
         <a href="../index.html" class="back-link">← 返回首页</a>
         
         <div class="article-header">
-            <div class="article-category">🏢 公司动态</div>
+            <div class="article-category">🤖 模型</div>
             <h1 class="article-title">谷歌推出迄今为止最强大的Gemini模型</h1>
+            
             <div class="article-meta">
-                <span class="article-source">Engadget</span>
-                <span class="article-time">2025年08月01日 23:12</span>
+                <div class="meta-item">
+                    <div class="meta-label">📰 新闻来源</div>
+                    <div class="meta-value article-source">Engadget</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">⏰ 发布时间</div>
+                    <div class="meta-value">2025年08月01日 23:12 (北京时间)</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🏷️ 新闻分类</div>
+                    <div class="meta-value">🤖 模型</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🌐 原文语言</div>
+                    <div class="meta-value">English (已翻译)</div>
+                </div>
             </div>
         </div>
         
         <div class="article-content">
-            <p>谷歌推出了迄今为止最先进的Gemini版本，名为Deep Think。该版本仅向Gemini应用上的AI Ultra订阅用户开放。</p>
+            <div class="content-section">
+                <h3>📋 新闻摘要</h3>
+                <p>谷歌推出了其最先进版本的Gemini，名为Deep Think。目前该版本仅向Gemini应用上的AI Ultra订阅用户独家提供。</p>
+            </div>
+            
+            
+        <div class="key-info-section">
+            <h3>🔍 关键信息</h3>
+            <ul class="key-info-list">
+                <li>🏢 涉及公司: Google</li>
+<li>🤖 相关产品: Gemini</li>
+            </ul>
         </div>
         
-        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">Google推出最新的Deep Think模型，标志着其在AI领域的技术进步又迈出了重要一步。这不仅展示了Google在大模型训练上的强大能力，也为AI Ultra订阅用户提供更加先进和强大的AI服务。对于普通用户而言，这意味着未来在使用相关服务时，能够享受到更智能、更高效的功能，比如更精准的对话理解、更自然的语音交互等，进一步提升日常生活和工作效率。</div></div>
+        </div>
+        
+        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">这项发布对AI行业来说是一个重要进步，标志着模型性能的进一步提升，将有助于推动更复杂和精细的应用发展。对于普通用户而言，这意味着未来可能会享受到更加智能、精准的服务和体验，比如更自然的对话助手或更高效的搜索结果。这一更新让AI技术更贴近日常使用，提升了用户体验。</div></div>
         
         <div class="article-actions">
-            <a href="https://www.engadget.com/big-tech/google-rolls-out-its-most-powerful-gemini-model-yet-151205875.html" target="_blank" class="original-link">查看原文 →</a>
+            <a href="https://www.engadget.com/big-tech/google-rolls-out-its-most-powerful-gemini-model-yet-151205875.html" target="_blank" class="original-link">查看英文原文 →</a>
+            <a href="#" onclick="navigator.share ? navigator.share({title: '谷歌推出迄今为止最强大的Gemini模型', url: window.location.href}) : alert('分享功能需要在移动设备上使用')" class="share-btn">📱 分享新闻</a>
         </div>
     </div>
 </body>
