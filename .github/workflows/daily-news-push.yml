@@ -21,19 +21,22 @@ jobs:
       with:
         python-version: '3.9'
         
-    - name: 运行GitHub Pages修复版AI新闻推送
+    - name: 运行用户体验优化版AI新闻推送
       env:
         GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
       run: |
-        echo "🔧 使用GitHub Pages修复版脚本"
+        echo "🎨 使用用户体验优化版脚本"
         
-        # 检查修复版脚本是否存在
-        if [ -f "github_pages_fix.py" ]; then
-          echo "✅ 使用修复版脚本: github_pages_fix.py"
+        # 优先级：界面优化版 > 修复版 > 原版
+        if [ -f "ui_optimized_news.py" ]; then
+          echo "✅ 使用界面优化版: ui_optimized_news.py"
+          python ui_optimized_news.py
+        elif [ -f "github_pages_fix.py" ]; then
+          echo "✅ 使用修复版: github_pages_fix.py"
           python github_pages_fix.py
         else
-          echo "⚠️ 修复版脚本不存在，使用原版"
+          echo "⚠️ 使用原版: ultra_simple_news.py"
           python ultra_simple_news.py
         fi
         
@@ -41,7 +44,7 @@ jobs:
         echo "📁 检查生成的文件:"
         if [ -f "docs/index.html" ]; then
           echo "✅ index.html: $(wc -c < docs/index.html) 字符"
-          echo "📄 文件前100字符: $(head -c 100 docs/index.html)"
+          echo "📊 新闻分类检查: $(grep -c 'category-' docs/index.html || echo 0) 个分类"
         else
           echo "❌ index.html 不存在"
         fi
