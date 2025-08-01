@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Google is bringing image and PDF uploads to AI Mode - AI科技日报</title>
-    <meta name="description" content="Google is updating AI Mode to add support for PDF uploads on desktop, which could help you digest lengthy course or work materials....">
+    <title>Google将推出图像和PDF上传功能至AI模式 - AI科技日报</title>
+    <meta name="description" content="Google正在更新AI模式，增加对桌面端PDF上传的支持，这或将帮助您更好地消化长篇课程或工作资料。...">
     <style>
         body { 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
@@ -30,7 +30,12 @@
         }
         .article-title { 
             font-size: 2.5em; font-weight: 800; color: #2c3e50; 
-            margin-bottom: 25px; line-height: 1.3;
+            margin-bottom: 15px; line-height: 1.3;
+        }
+        .original-title {
+            font-size: 1.1em; color: #7f8c8d; font-style: italic;
+            margin-bottom: 25px; padding: 15px; background: rgba(0,0,0,0.03);
+            border-radius: 10px; border-left: 4px solid #bdc3c7;
         }
         .article-meta { 
             display: flex; justify-content: space-between; align-items: center;
@@ -53,6 +58,19 @@
             font-size: 1.2em; color: #2c3e50; line-height: 1.8; 
             margin-bottom: 35px; text-align: justify;
         }
+        .ai-commentary { 
+            background: linear-gradient(135deg, #e8f4fd 0%, #f0f8ff 100%);
+            border: 2px solid #667eea; padding: 30px; margin: 35px 0;
+            border-radius: 20px; position: relative;
+        }
+        .ai-commentary::before {
+            content: '🤖 AI专家点评'; position: absolute; top: -15px; left: 25px;
+            background: white; padding: 5px 15px; font-weight: 700;
+            color: #667eea; border-radius: 20px; font-size: 1.1em;
+        }
+        .ai-commentary-content { 
+            color: #2c3e50; line-height: 1.7; font-size: 1.1em; margin-top: 10px;
+        }
         .read-original { 
             background: linear-gradient(45deg, #667eea, #764ba2); color: white;
             padding: 18px 40px; border-radius: 35px; text-decoration: none;
@@ -64,6 +82,12 @@
             transform: translateY(-3px); 
             box-shadow: 0 15px 40px rgba(102, 126, 234, 0.4);
         }
+        .additional-info {
+            background: rgba(0,0,0,0.03); padding: 25px; border-radius: 15px;
+            margin: 30px 0; border-left: 5px solid #667eea;
+        }
+        .additional-info h4 { color: #667eea; margin-bottom: 15px; font-size: 1.3em; }
+        .additional-info p { color: #555; line-height: 1.6; }
         @media (max-width: 768px) {
             .container { padding: 15px; }
             .article { padding: 30px 25px; }
@@ -81,7 +105,9 @@
         </a>
         
         <div class="article">
-            <h1 class="article-title">Google is bringing image and PDF uploads to AI Mode</h1>
+            <h1 class="article-title">Google将推出图像和PDF上传功能至AI模式</h1>
+            
+            <div class="original-title">原文标题: Google is bringing image and PDF uploads to AI Mode</div>
             
             <div class="article-meta">
                 <div class="meta-left">
@@ -95,7 +121,18 @@
             </div>
             
             <div class="article-content">
-                <p>Google is updating AI Mode to add support for PDF uploads on desktop, which could help you digest lengthy course or work materials.</p>
+                <p>Google正在更新AI模式，增加对桌面端PDF上传的支持，这或将帮助您更好地消化长篇课程或工作资料。</p>
+            </div>
+            
+            <div class="ai-commentary"><div class="ai-commentary-content">Google此举旨在提升AI处理文档的能力，增强用户在工作学习中的应用体验。这反映了AI技术向更广泛的文档格式扩展的趋势，未来AI将在信息处理和分析中扮演更加关键的角色。对于用户来说，这意味着更高效地管理和理解复杂文档将成为可能。</div></div>
+            
+            <div class="additional-info">
+                <h4>📊 文章信息</h4>
+                <p><strong>新闻来源:</strong> Engadget</p>
+                <p><strong>发布时间:</strong> 2025-08-01T09:45:09Z</p>
+                <p><strong>新闻分类:</strong> 公司动态</p>
+                <p><strong>翻译状态:</strong> ✅ 已翻译</p>
+                <p><strong>AI点评:</strong> ✅ 已生成</p>
             </div>
             
             <a href="https://www.engadget.com/ai/google-is-bringing-image-and-pdf-uploads-to-ai-mode-160050646.html" target="_blank" class="read-original">
