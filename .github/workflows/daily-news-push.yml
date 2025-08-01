@@ -21,15 +21,19 @@ jobs:
       with:
         python-version: '3.9'
         
-    - name: 运行用户体验最终优化版AI新闻推送
+    - name: 运行里程碑02优化版AI新闻推送
       env:
         GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
       run: |
-        echo "🚀 使用用户体验最终优化版脚本"
+        echo "🎯 使用里程碑02优化版脚本"
         
-        # 优先级：最终优化版 > 界面优化版 > 修复版 > 原版
-        if [ -f "user_experience_final.py" ]; then
+        # 优先级：里程碑02优化版 > 最终优化版 > 界面优化版 > 修复版 > 原版
+        if [ -f "milestone02_optimized.py" ]; then
+          echo "✅ 使用里程碑02优化版: milestone02_optimized.py (多API+北京时间+横向滑动)"
+          python milestone02_optimized.py
+        elif [ -f "user_experience_final.py" ]; then
           echo "✅ 使用最终优化版: user_experience_final.py (含翻译+AI点评)"
           python user_experience_final.py
         elif [ -f "ui_optimized_news.py" ]; then
