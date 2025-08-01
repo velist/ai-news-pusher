@@ -4,304 +4,123 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>谷歌发布获奖的Gemini 2.5“深思”AI，但有个条件…… - AI科技日报</title>
-    <meta name="description" content="Gemini 2.5 Deep Think 的发布版本并非竞争模型，而是一个性能较低但显然更快的版本。...">
+    <meta name="description" content="Gemini 2.5 Deep Think 的发布版本并非与竞争对手直接竞争的模型，而是一个性能较低但显然更快的版本。...">
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "SimSun", sans-serif;
-            line-height: 1.7; 
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh; 
-            margin: 0; 
-            padding: 15px; 
-            color: #333;
+            line-height: 1.8; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh; margin: 0; padding: 20px; color: #333;
         }
         
         .article-container {
-            max-width: 800px; 
-            margin: 0 auto; 
-            background: rgba(255,255,255,0.96);
-            border-radius: 20px; 
-            padding: 25px; 
-            box-shadow: 0 15px 45px rgba(0,0,0,0.1);
-            backdrop-filter: blur(15px); 
-            border: 1px solid rgba(255,255,255,0.2);
+            max-width: 800px; margin: 0 auto; background: rgba(255,255,255,0.95);
+            border-radius: 24px; padding: 50px; box-shadow: 0 20px 60px rgba(0,0,0,0.1);
+            backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.2);
         }
         
         .back-link {
-            display: inline-flex;
-            align-items: center;
-            color: #667eea; 
-            text-decoration: none; 
-            font-weight: 600; 
-            margin-bottom: 20px; 
-            font-size: 0.95em;
+            display: inline-block; color: #667eea; text-decoration: none; 
+            font-weight: 600; margin-bottom: 30px; font-size: 1.1em;
             transition: all 0.3s ease;
-            padding: 8px 12px;
-            border-radius: 20px;
-            background: rgba(102, 126, 234, 0.1);
         }
         
-        .back-link:hover { 
-            color: #764ba2; 
-            background: rgba(118, 75, 162, 0.1);
-            transform: translateX(-3px); 
-        }
+        .back-link:hover { color: #764ba2; transform: translateX(-5px); }
         
         .article-header {
-            border-bottom: 2px solid rgba(102, 126, 234, 0.1); 
-            padding-bottom: 20px; 
-            margin-bottom: 25px;
+            border-bottom: 3px solid rgba(102, 126, 234, 0.1); 
+            padding-bottom: 30px; margin-bottom: 40px;
         }
         
         .article-category {
-            display: inline-block; 
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white; 
-            padding: 6px 14px; 
-            border-radius: 15px; 
-            font-weight: 600; 
-            margin-bottom: 15px; 
-            font-size: 0.85em;
+            display: inline-block; background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white; padding: 10px 20px; border-radius: 20px; 
+            font-weight: 600; margin-bottom: 20px; font-size: 1em;
         }
         
         .article-title {
-            font-size: 1.6em; 
-            font-weight: 700; 
-            line-height: 1.3; 
-            margin-bottom: 15px; 
-            color: #333;
+            font-size: 2.5em; font-weight: 800; line-height: 1.2; 
+            margin-bottom: 20px; color: #333;
         }
         
         .article-meta {
-            display: grid; 
-            grid-template-columns: 1fr;
-            gap: 8px; 
-            background: rgba(102, 126, 234, 0.04); 
-            padding: 15px; 
-            border-radius: 12px; 
-            margin-bottom: 20px;
-            font-size: 0.9em;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px; background: rgba(102, 126, 234, 0.05); 
+            padding: 20px; border-radius: 15px; margin-bottom: 30px;
         }
         
-        .meta-row {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 4px 0;
+        .meta-item {
+            display: flex; flex-direction: column; gap: 5px;
         }
         
         .meta-label {
-            color: #666; 
-            font-weight: 600;
-            font-size: 0.85em;
+            font-size: 0.9em; color: #666; font-weight: 600;
         }
         
         .meta-value {
-            color: #333; 
-            font-weight: 500;
-            text-align: right;
-            flex: 1;
-            margin-left: 10px;
+            font-size: 1em; color: #333; font-weight: 500;
         }
         
         .article-source {
-            background: rgba(102, 126, 234, 0.1); 
-            color: #667eea; 
-            padding: 4px 10px; 
-            border-radius: 12px; 
-            font-weight: 600;
-            font-size: 0.8em;
-        }
-        
-        .key-info-compact {
-            background: rgba(118, 75, 162, 0.08);
-            padding: 12px 15px;
-            border-radius: 10px;
-            margin-bottom: 20px;
-            font-size: 0.85em;
-            color: #555;
-            border-left: 3px solid #764ba2;
+            background: rgba(102, 126, 234, 0.1); color: #667eea; 
+            padding: 8px 16px; border-radius: 20px; font-weight: 600;
+            display: inline-block; width: fit-content;
         }
         
         .article-content {
-            font-size: 1.05em; 
-            line-height: 1.7; 
-            margin-bottom: 25px;
+            font-size: 1.2em; line-height: 1.8; margin-bottom: 40px;
         }
         
         .content-section {
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
         
         .content-section h3 {
-            color: #667eea; 
-            font-size: 1.1em; 
-            margin-bottom: 12px;
-            font-weight: 700; 
-            border-left: 3px solid #667eea;
-            padding-left: 12px;
+            color: #667eea; font-size: 1.4em; margin-bottom: 15px;
+            font-weight: 700; border-left: 4px solid #667eea;
+            padding-left: 15px;
         }
         
-        .content-section p {
-            margin-bottom: 12px;
-            text-align: justify;
+        .extended-content {
+            background: rgba(118, 75, 162, 0.05);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #764ba2;
         }
         
         .ai-commentary {
-            background: linear-gradient(135deg, rgba(102, 126, 234, 0.08), rgba(118, 75, 162, 0.08));
-            border-left: 4px solid #667eea; 
-            padding: 18px; 
-            border-radius: 12px;
-            margin-bottom: 25px;
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+            border-left: 5px solid #667eea; padding: 30px; border-radius: 15px;
+            margin-bottom: 30px;
         }
         
         .ai-commentary h4 {
-            color: #667eea; 
-            font-size: 1.05em; 
-            margin-bottom: 10px; 
-            font-weight: 700; 
-            display: flex; 
-            align-items: center; 
-            gap: 8px;
+            color: #667eea; font-size: 1.3em; margin-bottom: 15px; 
+            font-weight: 700; display: flex; align-items: center; gap: 10px;
         }
         
         .ai-commentary-content {
-            font-size: 0.95em; 
-            line-height: 1.6; 
-            color: #555;
+            font-size: 1.1em; line-height: 1.7; color: #555;
         }
         
         .article-actions {
-            display: flex;
-            gap: 12px;
-            justify-content: center;
-            padding-top: 20px; 
+            text-align: center; padding-top: 30px; 
             border-top: 2px solid rgba(102, 126, 234, 0.1);
-            flex-wrap: wrap;
         }
         
-        .action-btn {
-            flex: 1;
-            min-width: 120px;
-            max-width: 160px;
-            text-align: center;
-            padding: 12px 20px; 
-            border-radius: 20px; 
-            text-decoration: none; 
-            font-weight: 600; 
-            font-size: 0.9em;
-            transition: all 0.3s ease;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 6px;
+        .original-link {
+            display: inline-block; background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white; padding: 15px 30px; border-radius: 25px; 
+            text-decoration: none; font-weight: 600; font-size: 1.1em;
+            transition: all 0.3s ease; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
         }
         
-        .primary-btn {
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white;
-            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.3);
+        .original-link:hover {
+            transform: translateY(-3px); box-shadow: 0 12px 35px rgba(102, 126, 234, 0.4);
         }
         
-        .primary-btn:hover {
-            transform: translateY(-2px); 
-            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
-        }
-        
-        .secondary-btn {
-            background: rgba(102, 126, 234, 0.1); 
-            color: #667eea;
-            border: 2px solid #667eea;
-        }
-        
-        .secondary-btn:hover {
-            background: #667eea; 
-            color: white;
-            transform: translateY(-2px);
-        }
-        
-        /* 移动端特殊优化 */
         @media (max-width: 768px) {
-            body { padding: 10px; }
-            
-            .article-container { 
-                padding: 20px 18px; 
-                border-radius: 16px;
-            }
-            
-            .article-title { 
-                font-size: 1.4em;
-                line-height: 1.35;
-            }
-            
-            .article-meta {
-                padding: 12px;
-                font-size: 0.85em;
-            }
-            
-            .meta-row {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 2px;
-            }
-            
-            .meta-value {
-                text-align: left;
-                margin-left: 0;
-            }
-            
-            .article-content {
-                font-size: 1.02em;
-            }
-            
-            .content-section h3 {
-                font-size: 1.05em;
-                margin-bottom: 10px;
-            }
-            
-            .ai-commentary {
-                padding: 15px;
-            }
-            
-            .ai-commentary h4 {
-                font-size: 1em;
-            }
-            
-            .ai-commentary-content {
-                font-size: 0.92em;
-            }
-            
-            .article-actions {
-                gap: 10px;
-            }
-            
-            .action-btn {
-                padding: 10px 16px;
-                font-size: 0.85em;
-                min-width: 100px;
-            }
-        }
-        
-        /* 超小屏幕优化 */
-        @media (max-width: 480px) {
-            .article-container { 
-                padding: 16px 15px; 
-            }
-            
-            .article-title { 
-                font-size: 1.3em;
-            }
-            
-            .article-actions {
-                flex-direction: column;
-            }
-            
-            .action-btn {
-                max-width: none;
-                width: 100%;
-            }
+            .article-container { padding: 30px 25px; }
+            .article-title { font-size: 2em; }
+            .article-meta { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -314,39 +133,40 @@
             <h1 class="article-title">谷歌发布获奖的Gemini 2.5“深思”AI，但有个条件……</h1>
             
             <div class="article-meta">
-                <div class="meta-row">
-                    <span class="meta-label">📰 来源</span>
-                    <span class="meta-value article-source">VentureBeat</span>
+                <div class="meta-item">
+                    <div class="meta-label">📰 新闻来源</div>
+                    <div class="meta-value article-source">VentureBeat</div>
                 </div>
-                <div class="meta-row">
-                    <span class="meta-label">⏰ 时间</span>
-                    <span class="meta-value">2025年08月01日 23:39 (北京时间)</span>
+                <div class="meta-item">
+                    <div class="meta-label">⏰ 发布时间</div>
+                    <div class="meta-value">2025年08月01日 23:39 (北京时间)</div>
                 </div>
-                <div class="meta-row">
-                    <span class="meta-label">🏷️ 分类</span>
-                    <span class="meta-value">🤖 模型</span>
+                <div class="meta-item">
+                    <div class="meta-label">🏷️ 新闻分类</div>
+                    <div class="meta-value">🤖 模型</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🔗 原文链接</div>
+                    <div class="meta-value">
+                        <a href="https://venturebeat.com/ai/google-releases-olympiad-medal-winning-gemini-2-5-deep-think-ai-publicly-but-theres-a-catch/" target="_blank" style="color: #667eea; text-decoration: none;">查看原文</a>
+                    </div>
                 </div>
             </div>
-            
-            <div class="key-info-compact">🏢 Google • 🤖 Gemini</div>
         </div>
         
         <div class="article-content">
             <div class="content-section">
-                <h3>📋 新闻正文</h3>
-                <p>【最新消息】The Gemini 2.5 Deep Think released to users is not that same competition model, rather, a lower performing but apparently faster version.</p><p>这一新模型的发布代表了人工智能技术的又一重要突破，预计将在自然语言处理、代码生成、创意写作等多个领域带来显著改进。</p><p>对于普通用户而言，新模型意味着更准确的回答、更流畅的对话体验，以及更强大的问题解决能力。企业用户则可以期待更高效的自动化解决方案。</p><p>从行业发展角度看，这一消息进一步证实了人工智能正在从实验室走向实际应用，成为推动数字化转型的重要力量。</p>
+                <h3>📋 新闻摘要</h3>
+                <p>Gemini 2.5 Deep Think 的发布版本并非与竞争对手直接竞争的模型，而是一个性能较低但显然更快的版本。</p>
             </div>
+            
+            
         </div>
         
-        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">Google发布了改进版的Gemini 2.5“Deep Think”AI，但这是一个较弱版本，性能不如竞赛模型，却更快。这对AI行业来说，展示了技术的快速迭代与优化，但同时也说明了模型的实际应用和竞赛表现之间的差异。对于普通用户而言，这意味着未来可能有更快、更易用的AI工具，但性能可能有所妥协。总体来看，这是一次技术进步的尝试，既展示了AI的潜力，也提醒用户了解不同AI模型的适用场景。</div></div>
+        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">Google发布的Gemini 2.5 Deep Think虽然名为“奥林匹克金牌算法”，但实际提供给公众的版本性能较低，速度却更快。这对AI行业意味着在保持性能的同时，可能提高了可用性。普通用户可以更便捷地体验高级AI功能，享受更流畅的交互。不过，这也提醒用户了解技术背后的权衡，选择适合自己的AI工具。</div></div>
         
         <div class="article-actions">
-            <a href="https://venturebeat.com/ai/google-releases-olympiad-medal-winning-gemini-2-5-deep-think-ai-publicly-but-theres-a-catch/" target="_blank" class="action-btn primary-btn">
-                🔗 查看原文
-            </a>
-            <a href="#" onclick="navigator.share ? navigator.share({title: '谷歌发布获奖的Gemini 2.5“深思”AI，但有个条件……', url: window.location.href}) : alert('分享功能需要在移动设备上使用')" class="action-btn secondary-btn">
-                📱 分享新闻
-            </a>
+            <a href="https://venturebeat.com/ai/google-releases-olympiad-medal-winning-gemini-2-5-deep-think-ai-publicly-but-theres-a-catch/" target="_blank" class="original-link">查看英文原文 →</a>
         </div>
     </div>
 </body>

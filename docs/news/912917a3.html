@@ -3,305 +3,124 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>谷歌为AI超級訂閱者釋出Gemini 2.5深思版 - AI科技日报</title>
-    <meta name="description" content="这款超强大的AI极其昂贵。...">
+    <title>谷歌推出Gemini 2.5深思版，专为AI超級订阅用户 - AI科技日报</title>
+    <meta name="description" content="这款超强大的AI超昂贵。...">
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "SimSun", sans-serif;
-            line-height: 1.7; 
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh; 
-            margin: 0; 
-            padding: 15px; 
-            color: #333;
+            line-height: 1.8; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh; margin: 0; padding: 20px; color: #333;
         }
         
         .article-container {
-            max-width: 800px; 
-            margin: 0 auto; 
-            background: rgba(255,255,255,0.96);
-            border-radius: 20px; 
-            padding: 25px; 
-            box-shadow: 0 15px 45px rgba(0,0,0,0.1);
-            backdrop-filter: blur(15px); 
-            border: 1px solid rgba(255,255,255,0.2);
+            max-width: 800px; margin: 0 auto; background: rgba(255,255,255,0.95);
+            border-radius: 24px; padding: 50px; box-shadow: 0 20px 60px rgba(0,0,0,0.1);
+            backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.2);
         }
         
         .back-link {
-            display: inline-flex;
-            align-items: center;
-            color: #667eea; 
-            text-decoration: none; 
-            font-weight: 600; 
-            margin-bottom: 20px; 
-            font-size: 0.95em;
+            display: inline-block; color: #667eea; text-decoration: none; 
+            font-weight: 600; margin-bottom: 30px; font-size: 1.1em;
             transition: all 0.3s ease;
-            padding: 8px 12px;
-            border-radius: 20px;
-            background: rgba(102, 126, 234, 0.1);
         }
         
-        .back-link:hover { 
-            color: #764ba2; 
-            background: rgba(118, 75, 162, 0.1);
-            transform: translateX(-3px); 
-        }
+        .back-link:hover { color: #764ba2; transform: translateX(-5px); }
         
         .article-header {
-            border-bottom: 2px solid rgba(102, 126, 234, 0.1); 
-            padding-bottom: 20px; 
-            margin-bottom: 25px;
+            border-bottom: 3px solid rgba(102, 126, 234, 0.1); 
+            padding-bottom: 30px; margin-bottom: 40px;
         }
         
         .article-category {
-            display: inline-block; 
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white; 
-            padding: 6px 14px; 
-            border-radius: 15px; 
-            font-weight: 600; 
-            margin-bottom: 15px; 
-            font-size: 0.85em;
+            display: inline-block; background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white; padding: 10px 20px; border-radius: 20px; 
+            font-weight: 600; margin-bottom: 20px; font-size: 1em;
         }
         
         .article-title {
-            font-size: 1.6em; 
-            font-weight: 700; 
-            line-height: 1.3; 
-            margin-bottom: 15px; 
-            color: #333;
+            font-size: 2.5em; font-weight: 800; line-height: 1.2; 
+            margin-bottom: 20px; color: #333;
         }
         
         .article-meta {
-            display: grid; 
-            grid-template-columns: 1fr;
-            gap: 8px; 
-            background: rgba(102, 126, 234, 0.04); 
-            padding: 15px; 
-            border-radius: 12px; 
-            margin-bottom: 20px;
-            font-size: 0.9em;
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px; background: rgba(102, 126, 234, 0.05); 
+            padding: 20px; border-radius: 15px; margin-bottom: 30px;
         }
         
-        .meta-row {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 4px 0;
+        .meta-item {
+            display: flex; flex-direction: column; gap: 5px;
         }
         
         .meta-label {
-            color: #666; 
-            font-weight: 600;
-            font-size: 0.85em;
+            font-size: 0.9em; color: #666; font-weight: 600;
         }
         
         .meta-value {
-            color: #333; 
-            font-weight: 500;
-            text-align: right;
-            flex: 1;
-            margin-left: 10px;
+            font-size: 1em; color: #333; font-weight: 500;
         }
         
         .article-source {
-            background: rgba(102, 126, 234, 0.1); 
-            color: #667eea; 
-            padding: 4px 10px; 
-            border-radius: 12px; 
-            font-weight: 600;
-            font-size: 0.8em;
-        }
-        
-        .key-info-compact {
-            background: rgba(118, 75, 162, 0.08);
-            padding: 12px 15px;
-            border-radius: 10px;
-            margin-bottom: 20px;
-            font-size: 0.85em;
-            color: #555;
-            border-left: 3px solid #764ba2;
+            background: rgba(102, 126, 234, 0.1); color: #667eea; 
+            padding: 8px 16px; border-radius: 20px; font-weight: 600;
+            display: inline-block; width: fit-content;
         }
         
         .article-content {
-            font-size: 1.05em; 
-            line-height: 1.7; 
-            margin-bottom: 25px;
+            font-size: 1.2em; line-height: 1.8; margin-bottom: 40px;
         }
         
         .content-section {
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
         
         .content-section h3 {
-            color: #667eea; 
-            font-size: 1.1em; 
-            margin-bottom: 12px;
-            font-weight: 700; 
-            border-left: 3px solid #667eea;
-            padding-left: 12px;
+            color: #667eea; font-size: 1.4em; margin-bottom: 15px;
+            font-weight: 700; border-left: 4px solid #667eea;
+            padding-left: 15px;
         }
         
-        .content-section p {
-            margin-bottom: 12px;
-            text-align: justify;
+        .extended-content {
+            background: rgba(118, 75, 162, 0.05);
+            padding: 25px; border-radius: 15px; margin-bottom: 30px;
+            border-left: 4px solid #764ba2;
         }
         
         .ai-commentary {
-            background: linear-gradient(135deg, rgba(102, 126, 234, 0.08), rgba(118, 75, 162, 0.08));
-            border-left: 4px solid #667eea; 
-            padding: 18px; 
-            border-radius: 12px;
-            margin-bottom: 25px;
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+            border-left: 5px solid #667eea; padding: 30px; border-radius: 15px;
+            margin-bottom: 30px;
         }
         
         .ai-commentary h4 {
-            color: #667eea; 
-            font-size: 1.05em; 
-            margin-bottom: 10px; 
-            font-weight: 700; 
-            display: flex; 
-            align-items: center; 
-            gap: 8px;
+            color: #667eea; font-size: 1.3em; margin-bottom: 15px; 
+            font-weight: 700; display: flex; align-items: center; gap: 10px;
         }
         
         .ai-commentary-content {
-            font-size: 0.95em; 
-            line-height: 1.6; 
-            color: #555;
+            font-size: 1.1em; line-height: 1.7; color: #555;
         }
         
         .article-actions {
-            display: flex;
-            gap: 12px;
-            justify-content: center;
-            padding-top: 20px; 
+            text-align: center; padding-top: 30px; 
             border-top: 2px solid rgba(102, 126, 234, 0.1);
-            flex-wrap: wrap;
         }
         
-        .action-btn {
-            flex: 1;
-            min-width: 120px;
-            max-width: 160px;
-            text-align: center;
-            padding: 12px 20px; 
-            border-radius: 20px; 
-            text-decoration: none; 
-            font-weight: 600; 
-            font-size: 0.9em;
-            transition: all 0.3s ease;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            gap: 6px;
+        .original-link {
+            display: inline-block; background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white; padding: 15px 30px; border-radius: 25px; 
+            text-decoration: none; font-weight: 600; font-size: 1.1em;
+            transition: all 0.3s ease; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
         }
         
-        .primary-btn {
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white;
-            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.3);
+        .original-link:hover {
+            transform: translateY(-3px); box-shadow: 0 12px 35px rgba(102, 126, 234, 0.4);
         }
         
-        .primary-btn:hover {
-            transform: translateY(-2px); 
-            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
-        }
-        
-        .secondary-btn {
-            background: rgba(102, 126, 234, 0.1); 
-            color: #667eea;
-            border: 2px solid #667eea;
-        }
-        
-        .secondary-btn:hover {
-            background: #667eea; 
-            color: white;
-            transform: translateY(-2px);
-        }
-        
-        /* 移动端特殊优化 */
         @media (max-width: 768px) {
-            body { padding: 10px; }
-            
-            .article-container { 
-                padding: 20px 18px; 
-                border-radius: 16px;
-            }
-            
-            .article-title { 
-                font-size: 1.4em;
-                line-height: 1.35;
-            }
-            
-            .article-meta {
-                padding: 12px;
-                font-size: 0.85em;
-            }
-            
-            .meta-row {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 2px;
-            }
-            
-            .meta-value {
-                text-align: left;
-                margin-left: 0;
-            }
-            
-            .article-content {
-                font-size: 1.02em;
-            }
-            
-            .content-section h3 {
-                font-size: 1.05em;
-                margin-bottom: 10px;
-            }
-            
-            .ai-commentary {
-                padding: 15px;
-            }
-            
-            .ai-commentary h4 {
-                font-size: 1em;
-            }
-            
-            .ai-commentary-content {
-                font-size: 0.92em;
-            }
-            
-            .article-actions {
-                gap: 10px;
-            }
-            
-            .action-btn {
-                padding: 10px 16px;
-                font-size: 0.85em;
-                min-width: 100px;
-            }
-        }
-        
-        /* 超小屏幕优化 */
-        @media (max-width: 480px) {
-            .article-container { 
-                padding: 16px 15px; 
-            }
-            
-            .article-title { 
-                font-size: 1.3em;
-            }
-            
-            .article-actions {
-                flex-direction: column;
-            }
-            
-            .action-btn {
-                max-width: none;
-                width: 100%;
-            }
+            .article-container { padding: 30px 25px; }
+            .article-title { font-size: 2em; }
+            .article-meta { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -311,42 +130,64 @@
         
         <div class="article-header">
             <div class="article-category">🤖 模型</div>
-            <h1 class="article-title">谷歌为AI超級訂閱者釋出Gemini 2.5深思版</h1>
+            <h1 class="article-title">谷歌推出Gemini 2.5深思版，专为AI超級订阅用户</h1>
             
             <div class="article-meta">
-                <div class="meta-row">
-                    <span class="meta-label">📰 来源</span>
-                    <span class="meta-value article-source">Ars Technica</span>
+                <div class="meta-item">
+                    <div class="meta-label">📰 新闻来源</div>
+                    <div class="meta-value article-source">Ars Technica</div>
                 </div>
-                <div class="meta-row">
-                    <span class="meta-label">⏰ 时间</span>
-                    <span class="meta-value">2025年08月01日 23:36 (北京时间)</span>
+                <div class="meta-item">
+                    <div class="meta-label">⏰ 发布时间</div>
+                    <div class="meta-value">2025年08月01日 23:36 (北京时间)</div>
                 </div>
-                <div class="meta-row">
-                    <span class="meta-label">🏷️ 分类</span>
-                    <span class="meta-value">🤖 模型</span>
+                <div class="meta-item">
+                    <div class="meta-label">🏷️ 新闻分类</div>
+                    <div class="meta-value">🤖 模型</div>
+                </div>
+                <div class="meta-item">
+                    <div class="meta-label">🔗 原文链接</div>
+                    <div class="meta-value">
+                        <a href="https://arstechnica.com/ai/2025/08/google-releases-gemini-2-5-deep-think-for-ai-ultra-subscribers/" target="_blank" style="color: #667eea; text-decoration: none;">查看原文</a>
+                    </div>
                 </div>
             </div>
-            
-            <div class="key-info-compact">🏢 Google • 🤖 Gemini</div>
         </div>
         
         <div class="article-content">
             <div class="content-section">
-                <h3>📋 新闻正文</h3>
-                <p>【最新消息】This ultra-powerful AI is ultra-expensive.</p><p>这一新模型的发布代表了人工智能技术的又一重要突破，预计将在自然语言处理、代码生成、创意写作等多个领域带来显著改进。</p><p>对于普通用户而言，新模型意味着更准确的回答、更流畅的对话体验，以及更强大的问题解决能力。企业用户则可以期待更高效的自动化解决方案。</p><p>从行业发展角度看，这一消息进一步证实了人工智能正在从实验室走向实际应用，成为推动数字化转型的重要力量。</p>
+                <h3>📋 新闻摘要</h3>
+                <p>这款超强大的AI超昂贵。</p>
             </div>
+            
+            <div class="extended-content"><h3>📊 深度分析</h3>### Google发布Gemini 2.5 Deep Think，专为超高端用户设计
+
+#### 新闻背景与影响
+
+近日，Google宣布推出Gemini 2.5 Deep Think，这是一款专为高端用户设计的顶级AI工具。从新闻摘要中可以看出，这款AI工具的价格极为昂贵，这不仅反映了其强大的功能，也预示着它将成为少数用户的选择。这种高端化策略可能会影响整个AI行业的市场格局，促使其他公司考虑提供更高端的服务。
+
+#### 行业上下文与相关信息
+
+在人工智能领域，技术进步与市场需求一直在不断推高产品门槛。从基础的AI助手到复杂的深度学习模型，市场对AI功能的需求日益多样化。Google的Gemini 2.5 Deep Think正是在这种背景下应运而生，旨在为那些需要最先进AI技术的用户提供服务。这款AI工具的推出，不仅展示了Google在AI技术上的最新进展，也预示着未来AI产品将更加专业化和高端化。
+
+#### 技术术语解释
+
+- **深度学习**：一种机器学习技术，通过模拟人脑的工作方式来处理数据，实现复杂的模式识别和决策。
+- **超高端用户**：通常指对产品有极高要求，愿意为优质服务支付更高价格的用户群体。
+
+#### 对不同群体的影响
+
+- **AI开发者与研究者**：对于专业的AI开发者和研究者来说，Gemini 2.5 Deep Think提供了更强大的工具，有助于推动创新和研究。
+- **普通用户**：对于普通用户而言，这款AI工具的价格可能让他们望而却步，但其带来的技术进步可能最终惠及更广泛的用户群体。
+- **竞争对手**：对于其他提供AI服务的公司来说，Google的这一举措可能迫使他们开发更高端的产品来保持竞争力，从而推动整个行业的发展。
+
+总的来说，Google发布的Gemini 2.5 Deep Think不仅展示了其在AI领域的技术实力，也预示着未来AI产品将更加专业化和高端化。这一策略虽然可能限制了普通用户的使用，但长远来看，它将促进整个AI行业的进步和发展。</div>
         </div>
         
-        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">这个新闻意味着Google推出了一个极其强大的AI工具，专为付费用户提供。这对AI行业来说是一个重要的里程碑，标志着高端AI服务市场的进一步细分，可能会推动AI技术的更广泛应用和深度优化。对普通用户而言，虽然目前可能还无法直接使用，但长远看，这将促进AI技术的进步和成本的降低，未来可能会享受到更强大、更智能的服务和产品。</div></div>
+        <div class="ai-commentary"><h4>🤖 AI专家点评</h4><div class="ai-commentary-content">Google发布了面向Ultra订阅用户的Gemini 2.5大模型，这标志着AI技术的进一步发展，为高端用户提供了更强大的工具。对AI行业来说，这意味着市场竞争加剧和技术创新的加速。对于普通用户而言，这意味着未来可能会有更多强大的AI工具出现，尽管目前这类服务可能较为昂贵。尽管如此，随着技术进步，这些高级功能终将惠及更广泛的用户群体。</div></div>
         
         <div class="article-actions">
-            <a href="https://arstechnica.com/ai/2025/08/google-releases-gemini-2-5-deep-think-for-ai-ultra-subscribers/" target="_blank" class="action-btn primary-btn">
-                🔗 查看原文
-            </a>
-            <a href="#" onclick="navigator.share ? navigator.share({title: '谷歌为AI超級訂閱者釋出Gemini 2.5深思版', url: window.location.href}) : alert('分享功能需要在移动设备上使用')" class="action-btn secondary-btn">
-                📱 分享新闻
-            </a>
+            <a href="https://arstechnica.com/ai/2025/08/google-releases-gemini-2-5-deep-think-for-ai-ultra-subscribers/" target="_blank" class="original-link">查看英文原文 →</a>
         </div>
     </div>
 </body>
