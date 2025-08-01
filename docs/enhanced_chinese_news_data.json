@@ -1,943 +1,1535 @@
 {
-  "last_updated": "2025-07-26T13:54:27.916116+08:00",
+  "last_updated": "2025-07-27T20:20:19.178910+08:00",
   "total_count": 40,
   "freshness_summary": {
     "total_count": 40,
     "fresh_count": 40,
     "fresh_percentage": 100.0,
-    "average_age_hours": 3.8789141988888893,
-    "newest_time": "2025-07-26 13:15:51+08:00",
-    "oldest_time": "2025-07-26 00:16:46+08:00"
+    "average_age_hours": 5.408014974999999,
+    "newest_time": "2025-07-27 19:15:30+08:00",
+    "oldest_time": "2025-07-27 03:41:20+08:00"
   },
   "articles": [
     {
-      "id": "95311b0507e6",
-      "title": "UK households caught on Google Street View could get £9,000 compensation after ruling",
-      "description": "A man caught naked in his garden by a Google Street View car for all to see on the internet has won more than £9,000 in compensation.",
-      "content": "UK households caught on Google Street View could get £9,000 compensation after ruling\nA man caught naked in his garden by a Google Street View car for all to see on the internet has won more than £9,000 in compensation.\nUK households caught on Google... [2112 chars]",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/uk-households-caught-google-street-32140233",
-      "image": "https://i2-prod.birminghammail.co.uk/article32140235.ece/ALTERNATES/s1200/0_google.jpg",
-      "publishedAt": "2025-07-26T05:15:51Z",
+      "id": "5d58c993b3c4",
+      "title": "‘Better than original’: Musician uses AI to recreate ‘Saiyaara’ title song in Kishore Kumar’s voice, netizens react",
+      "description": "Produced by Yash Raj Films, \"Saiyaara\" hit the silver screen on July 18.",
+      "content": "The viral video features RJ Kisna and musician Anshuman Sharma recreating “Saiyaara” with a whole new feels (Image source: Pinterest)\nMohit Suri’s directorial Saiyaara has created a massive buzz among cinephiles, with fans recreating its songs and sc... [664 chars]",
+      "url": "https://indianexpress.com/article/trending/trending-in-india/saiyaara-kishore-kumar-ai-version-viral-10153088/",
+      "image": "https://images.indianexpress.com/2025/07/Saiyaara_9d863c.jpg",
+      "publishedAt": "2025-07-27T11:14:21Z",
       "source": {
-        "id": "cc0de8416f75329df7c88d7524745d12",
-        "name": "Birmingham Live",
-        "url": "https://www.birminghammail.co.uk"
+        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com"
       },
       "category": "technology",
-      "category_chinese": "科技创新",
+      "category_chinese": "AI科技",
       "time_info": {
-        "beijing_time": "2025-07-26 13:15:51+08:00",
-        "formatted": "2025年07月26日 13:15",
-        "relative": "38分钟前",
+        "beijing_time": "2025-07-27 19:14:21+08:00",
+        "formatted": "2025年07月27日 19:14",
+        "relative": "1小时前",
         "is_fresh": true,
-        "freshness_score": 1.0
+        "freshness_score": 0.9
       },
-      "beijing_time": "2025-07-26 13:15:51+08:00",
+      "beijing_time": "2025-07-27 19:14:21+08:00",
+      "ai_translation": {
+        "translated_title": "“超越原版”：音乐人使用AI以kishore kumar的声音重新创作《saiyaara》主题曲，网友反响热烈",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "由Yash Raj Films制作的电影《萨亚拉》于7月18日上映。"
+      },
       "localized_summary": {
-        "title": "UK households caught on Google Street View could get £9,000 compensation after ruling",
-        "description": "A man caught naked in his garden by a Google Street View car for all to see on the internet has won more than £9,000 in compensation.",
+        "title": "‘Better than original’: Musician uses AI to recreate ‘Saiyaara’ title song in Kishore Kumar’s voice, netizens react",
+        "description": "Produced by Yash Raj Films, \"Saiyaara\" hit the silver screen on July 18.",
         "category": "AI科技",
-        "source": "Birmingham Live",
-        "reading_time": "1分钟"
+        "source": "The Indian Express",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
       },
-      "freshness_score": 0.9999999999999999,
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：该新闻展示了AI技术在音乐创作中的应用潜力，通过AI技术重现经典歌曲，不仅致敬了原唱Kishore Kumar，也吸引了大量网民的关注，提升了电影《Saiyaara》的知名度。\n\n2. **技术或商业层面**：AI技术的应用降低了音乐创作的门槛，Anshuman Sharma利用AI模仿Kishore Kumar的歌声，体现了AI在音乐领域的商业价值和技术创新。同时，这种形式的翻唱可以作为一种新的商业模式，如版权合作、音乐营销等。\n\n3. **对行业或用户的意义**：此举为音乐爱好者提供了新的体验方式，用户可以重温经典歌曲的新版本，同时对AI技术的应用充满期待。对音乐行业而言，这是一次创新尝试，有助于探索新的创作和传播方式。\n\n4. **未来发展趋势**：随着AI技术的发展，未来音乐创作将更加个性化和便捷。AI不仅能模仿歌手的声音，还能根据用户喜好生成音乐，这将极大丰富音乐创作和欣赏的生态。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:38:31",
+        "word_count": 415,
+        "error": null
+      }
+    },
+    {
+      "id": "f5c6da213379",
+      "title": "This obscure, 80-year-old machine might be the key to unlocking the full potential of AI today",
+      "description": "Leading American engineer and scientist Vannevar Bush thought that the memex was the answer to information nightmare of the 1940s.",
+      "content": "Many years ago, long before the internet or artificial intelligence , an American engineer called Vannevar Bush was trying to solve a problem. He could see how difficult it had become for professionals to research anything, and saw the potential for ... [6005 chars]",
+      "url": "https://www.livescience.com/technology/computing/this-obscure-80-year-old-machine-might-be-the-key-to-unlocking-the-full-potential-of-ai-today",
+      "image": "https://cdn.mos.cms.futurecdn.net/zrDNN4f8ei6LnpnMzRf4wY.jpg",
+      "publishedAt": "2025-07-27T11:00:00Z",
+      "source": {
+        "id": "6534c1541b974602cc2ed040c2e4038f",
+        "name": "Livescience.com",
+        "url": "https://www.livescience.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-27 19:00:00+08:00",
+        "formatted": "2025年07月27日 19:00",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 19:00:00+08:00",
+      "ai_translation": {
+        "translated_title": "这款 obscure 的、已有 80 年历史的机器可能正是解锁当今人工智能全部潜力的关键",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "美国著名工程师和科学家范内瓦·布什认为，记忆选件机（Memex）是解决20世纪40年代信息噩梦的答案。"
+      },
+      "localized_summary": {
+        "title": "This obscure, 80-year-old machine might be the key to unlocking the full potential of AI today",
+        "description": "Leading American engineer and scientist Vannevar Bush thought that the memex was the answer to information nightmare of the 1940s.",
+        "category": "AI科技",
+        "source": "Livescience.com",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这篇新闻揭示了Vannevar Bush早年提出的概念——记忆扩展（Memex）系统，对现代AI技术具有重要启示意义。它强调了信息管理在AI发展中的核心作用。\n\n2. **技术或商业层面**：记忆扩展系统中的链接和索引技术，为现代搜索引擎和知识图谱的发展提供了灵感。从商业角度看，这提示企业需重视信息管理和知识共享，以提升决策效率和创新能力。\n\n3. **对行业或用户**：该新闻提醒AI行业关注信息处理与管理，加强数据互联与知识图谱建设，以更好地服务于用户需求。对用户而言，意味着未来AI系统将更加智能、高效地整合和呈现信息。\n\n4. **未来发展趋势**：记忆扩展系统预示着未来AI将更加注重知识的深度理解和高效检索。这将推动AI在医疗、科研等领域实现更大突破，促进知识经济的发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:38:56",
+        "word_count": 357,
+        "error": null
+      }
+    },
+    {
+      "id": "35a357018c37",
+      "title": "I used Character AI to bring my childhood imaginary friend to 'life' — here’s what happened",
+      "description": "I put Character AI to the test by turning my childhood imaginary friend into a chatbot and tried a few of the other character chatbots available on the site.",
+      "content": "Like many overwhelmingly shy kids with a lazy eye and an overactive imagination, I had a pretend friend growing up. Her name was Fifi.\nShe was everything I wasn’t at age 6: brave, talkative, wildly confident. But sometime around fourth grade she “mov... [4636 chars]",
+      "url": "https://www.tomsguide.com/ai/i-used-character-ai-to-bring-my-childhood-imaginary-friend-to-life-heres-what-happened",
+      "image": "https://cdn.mos.cms.futurecdn.net/xKtxYmMHQayDHvamZtg8sd.jpg",
+      "publishedAt": "2025-07-27T11:00:00Z",
+      "source": {
+        "id": "dcc4f4c6eb081eb8a9ee9cca215517f5",
+        "name": "Tom's Guide",
+        "url": "https://www.tomsguide.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-27 19:00:00+08:00",
+        "formatted": "2025年07月27日 19:00",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 19:00:00+08:00",
+      "ai_translation": {
+        "translated_title": "我使用Character AI将儿时的想象朋友“复活”——这是发生的故事",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "我将Character AI付诸测试，将其变成一个聊天机器人，将我儿时的想象中的朋友转化为聊天伙伴，并尝试了该网站上提供的其他几位角色聊天机器人。"
+      },
+      "localized_summary": {
+        "title": "I used Character AI to bring my childhood imaginary friend to 'life' — here’s what happened",
+        "description": "I put Character AI to the test by turning my childhood imaginary friend into a chatbot and tried a few of the other character chatbots available on the site.",
+        "category": "AI科技",
+        "source": "Tom's Guide",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. 重要性和影响：这篇新闻展示了虚拟现实技术在情感支持和心理治疗中的潜力，为孤独或社交障碍的儿童提供了新的互动方式。\n2. 技术或商业层面分析：Character AI等技术的进步使得创建个性化虚拟角色更为便捷，未来可能成为教育、心理治疗等领域的标配工具。\n3. 对行业或用户的意义：该技术有助于解决儿童心理健康问题，同时也为企业提供了新的市场机会，如虚拟陪伴机器人。\n4. 未来发展趋势预测：随着技术成熟，类似应用将更加普及，不仅限于儿童，还可能惠及成人用户，成为情感支持和减压的新方式。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:39:23",
+        "word_count": 246,
+        "error": null
+      }
+    },
+    {
+      "id": "203d22dd8663",
+      "title": "Tools for Humanity, Filipino developers team up to combat AI-fueled fraud",
+      "description": "Tools for Humanity, the organization behind World, is working with developers in the Philippines to create Mini Apps and proof-of-human tools. These",
+      "content": "Tools for Humanity, the organization behind World, is working with developers in the Philippines to create Mini Apps and proof-of-human tools. These initiatives aim to secure digital spaces amid the rising threat of artificial intelligence.\n“The Phil... [2545 chars]",
+      "url": "https://manilastandard.net/business/314622022/tools-for-humanity-filipino-developers-team-up-to-combat-ai-fueled-fraud.html",
+      "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/07/the-orb-tools-for-humanity-696x497-1.jpg",
+      "publishedAt": "2025-07-27T10:01:26Z",
+      "source": {
+        "id": "e9207083a357fb7e76b38e485888ebe7",
+        "name": "manilastandard.net",
+        "url": "https://manilastandard.net"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-27 18:01:26+08:00",
+        "formatted": "2025年07月27日 18:01",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 18:01:26+08:00",
+      "ai_translation": {
+        "translated_title": "为了人类，菲律宾开发者联手对抗AI驱动的欺诈",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "工具为人类组织（Tools for Humanity）正与菲律宾的开发者合作，共同开发迷你应用和身份验证工具。"
+      },
+      "localized_summary": {
+        "title": "Tools for Humanity, Filipino developers team up to combat AI-fueled fraud",
+        "description": "Tools for Humanity, the organization behind World, is working with developers in the Philippines to create Mini Apps and proof-of-human tools. These",
+        "category": "AI科技",
+        "source": "manilastandard.net",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
       "ai_commentary": {
         "success": false,
         "commentary": null,
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:53:01",
+        "timestamp": "2025-07-27 19:40:41",
         "word_count": 0,
         "error": "API响应格式错误"
       }
     },
     {
-      "id": "4de9bc826612",
-      "title": "Apple fans snapping up iPad Pro deal for £27 a month as Sky cuts price",
-      "description": "The iPad Pro with the latest M4 chip is currently being offered by Sky for a monthly price",
-      "content": "Apple fans snapping up iPad Pro deal for £27 a month as Sky cuts price\nThe iPad Pro with the latest M4 chip is currently being offered by Sky for a monthly price\nThere's a way to get the iPad for less (Image: Bloomberg, Bloomberg via Getty Images)\nAp... [3181 chars]",
-      "url": "https://www.birminghammail.co.uk/whats-on/shopping/apple-fans-snapping-up-ipad-32108086",
-      "image": "https://i2-prod.birminghammail.co.uk/article32108085.ece/ALTERNATES/s1200/1_Apple-Opens-Malaysia-Store-in-Southeast-Asia-Push.jpg",
-      "publishedAt": "2025-07-26T05:10:00Z",
+      "id": "7f622a58b762",
+      "title": "How AI is changing the way you book airline tickets",
+      "description": "Delta Air Lines is rolling out AI-powered ticket pricing that analyzes customer habits to set personalized fares with plans to price 20% of tickets dynamically by year's end.",
+      "content": "NEW You can now listen to Fox News articles!\nDelta Air Lines, one of the country's largest carriers, is making headlines for its ambitious rollout of artificial intelligence-powered ticket pricing. Instead of fixed fares, Delta is using AI to make ai... [6055 chars]",
+      "url": "https://www.foxnews.com/tech/how-ai-changing-way-you-book-airline-tickets",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/1-how-airlines-are-using-ai-to-charge-you-more.jpg",
+      "publishedAt": "2025-07-27T10:00:04Z",
       "source": {
-        "id": "cc0de8416f75329df7c88d7524745d12",
-        "name": "Birmingham Live",
-        "url": "https://www.birminghammail.co.uk"
+        "id": "8da923084554b2821233d6c5c5f02c97",
+        "name": "Fox News",
+        "url": "https://www.foxnews.com"
       },
       "category": "technology",
-      "category_chinese": "科技创新",
+      "category_chinese": "AI科技",
       "time_info": {
-        "beijing_time": "2025-07-26 13:10:00+08:00",
-        "formatted": "2025年07月26日 13:10",
-        "relative": "44分钟前",
+        "beijing_time": "2025-07-27 18:00:04+08:00",
+        "formatted": "2025年07月27日 18:00",
+        "relative": "2小时前",
         "is_fresh": true,
-        "freshness_score": 1.0
+        "freshness_score": 0.9
       },
-      "beijing_time": "2025-07-26 13:10:00+08:00",
+      "beijing_time": "2025-07-27 18:00:04+08:00",
+      "ai_translation": {
+        "translated_title": "AI如何改变您预订航空机票的方式",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "达美航空公司正在推出基于人工智能的票价系统，该系统会分析顾客习惯以设定个性化票价，并计划在今年年底前将20%的机票定价实现动态调整。"
+      },
       "localized_summary": {
-        "title": "Apple fans snapping up iPad Pro deal for £27 a month as Sky cuts price",
-        "description": "The iPad Pro with the latest M4 chip is currently being offered by Sky for a monthly price",
+        "title": "How AI is changing the way you book airline tickets",
+        "description": "Delta Air Lines is rolling out AI-powered ticket pricing that analyzes customer habits to set personalized fares with plans to price 20% of tickets dynamically by year's end.",
         "category": "AI科技",
-        "source": "Birmingham Live",
-        "reading_time": "1分钟"
+        "source": "Fox News",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
       },
-      "freshness_score": 0.9999999999999999,
+      "freshness_score": 0.922,
       "ai_commentary": {
         "success": false,
         "commentary": null,
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:53:10",
+        "timestamp": "2025-07-27 19:42:14",
         "word_count": 0,
         "error": "API响应格式错误"
       }
     },
     {
-      "id": "76763dbd3fa9",
-      "title": "iPhone fans snapping up Apple iPhone 16 Pro Max deal for £35 a month",
-      "description": "The iPhone 16 Pro Max is the flagship device from Apple and for a limited time Sky is selling it for a cheaper monthly price",
-      "content": "iPhone fans snapping up Apple iPhone 16 Pro Max deal for £35 a month\nThe iPhone 16 Pro Max is the flagship device from Apple and for a limited time Sky is selling it for a cheaper monthly price\nThe iPhone 16 Pro Max (Image: SOPA Images, SOPA Images/L... [2679 chars]",
-      "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/iphone-fans-snapping-up-apple-32102100",
-      "image": "https://i2-prod.liverpoolecho.co.uk/article32102099.ece/ALTERNATES/s1200/0_A-new-iPhone-16-Pro-Max-model-seen-displayed-at-an-Apple.jpg",
-      "publishedAt": "2025-07-26T04:55:00Z",
+      "id": "27a46348ab46",
+      "title": "Robots, ‘digital humans’ take center stage at China AI expo",
+      "description": "Shanghai, China—Serving craft beer, playing mahjong, stacking shelves and boxing, the dozens of humanoid robots at Shanghai's World AI Conference",
+      "content": "Shanghai, China—Serving craft beer, playing mahjong, stacking shelves and boxing, the dozens of humanoid robots at Shanghai’s World AI Conference (WAIC) this weekend were embodiments of China’s growing AI prowess and ambition.\nThe annual event is pri... [3586 chars]",
+      "url": "https://manilastandard.net/news/special-feature/314622016/robots-digital-humans-take-center-stage-at-china-ai-expo.html",
+      "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/07/human-robots-china.jpg",
+      "publishedAt": "2025-07-27T09:42:35Z",
       "source": {
-        "id": "36974e61b15eebfe76ce1a593d2ff278",
-        "name": "Liverpool Echo",
-        "url": "https://www.liverpoolecho.co.uk"
+        "id": "e9207083a357fb7e76b38e485888ebe7",
+        "name": "manilastandard.net",
+        "url": "https://manilastandard.net"
       },
       "category": "technology",
-      "category_chinese": "科技创新",
+      "category_chinese": "AI科技",
       "time_info": {
-        "beijing_time": "2025-07-26 12:55:00+08:00",
-        "formatted": "2025年07月26日 12:55",
-        "relative": "59分钟前",
+        "beijing_time": "2025-07-27 17:42:35+08:00",
+        "formatted": "2025年07月27日 17:42",
+        "relative": "2小时前",
         "is_fresh": true,
-        "freshness_score": 1.0
+        "freshness_score": 0.9
       },
-      "beijing_time": "2025-07-26 12:55:00+08:00",
+      "beijing_time": "2025-07-27 17:42:35+08:00",
+      "ai_translation": {
+        "translated_title": "机器人、“数字人类”在中国人工智能展览会上大放异彩",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "上海——在中国的世界人工智能大会现场，机器人服务员提供精酿啤酒，游客们玩着麻将，还有一些机器人在堆货架和打包货物。"
+      },
       "localized_summary": {
-        "title": "iPhone fans snapping up Apple iPhone 16 Pro Max deal for £35 a month",
-        "description": "The iPhone 16 Pro Max is the flagship device from Apple and for a limited time Sky is selling it for a cheaper monthly price",
+        "title": "Robots, ‘digital humans’ take center stage at China AI expo",
+        "description": "Shanghai, China—Serving craft beer, playing mahjong, stacking shelves and boxing, the dozens of humanoid robots at Shanghai's World AI Conference",
         "category": "AI科技",
-        "source": "Liverpool Echo",
-        "reading_time": "1分钟"
+        "source": "manilastandard.net",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
       },
-      "freshness_score": 0.9999999999999999,
+      "freshness_score": 0.922,
       "ai_commentary": {
         "success": false,
         "commentary": null,
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:53:29",
+        "timestamp": "2025-07-27 19:43:03",
         "word_count": 0,
         "error": "API响应格式错误"
       }
     },
     {
-      "id": "9101ba15bcc0",
-      "title": "Man City transfer stock take amid £27million decision as three positions give Pep Guardiola headache",
-      "description": "Manchester City have been busy in the summer transfer market but must trim their squad.",
-      "content": "Man City transfer stock take amid £27million decision as three positions give Pep Guardiola headache\nManchester City have been busy in the summer transfer market but must trim their squad.\nMan City manager Pep Guardiola (Image: (Hector Vivas - FIFA/F... [5286 chars]",
-      "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-city-transfer-stock-take-32129057",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article31968074.ece/ALTERNATES/s1200/1_GettyImages-2222993344.jpg",
-      "publishedAt": "2025-07-26T05:00:00Z",
+      "id": "9ac900a4fa19",
+      "title": "Humanoid robots embodiment of China’s AI ambitions",
+      "description": "Earlier, China announced it would set up a new organisation for cooperation on AI governance. Read more at straitstimes.com.",
+      "content": "Find out what’s new on ST website and app.\nA humanoid robot stands on stage after the opening ceremony of the WAIC 2025 in Shanghai, China.\nSHANGHAI - Serving craft beer, playing mahjong, stacking shelves and boxing, the dozens of humanoid robots at ... [3718 chars]",
+      "url": "https://www.straitstimes.com/asia/east-asia/humanoid-robots-embodiment-of-chinas-ai-ambitions",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/863733e26cbdfb6c81f3348ff49eb1c3a79cc485847c65cfe312930a2e142e83",
+      "publishedAt": "2025-07-27T09:40:00Z",
       "source": {
-        "id": "ae2702c2a2dec11fe1079f1a797d178a",
-        "name": "Manchester Evening News",
-        "url": "https://www.manchestereveningnews.co.uk"
+        "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+        "name": "The Straits Times",
+        "url": "https://www.straitstimes.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-27 17:40:00+08:00",
+        "formatted": "2025年07月27日 17:40",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 17:40:00+08:00",
+      "ai_translation": {
+        "translated_title": "类人机器人彰显中国人工智能雄心",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "此前，中国宣布将设立一个新的组织，专门合作开展人工智能治理工作。更多详情请访问straitstimes.com。"
+      },
+      "localized_summary": {
+        "title": "Humanoid robots embodiment of China’s AI ambitions",
+        "description": "Earlier, China announced it would set up a new organisation for cooperation on AI governance. Read more at straitstimes.com.",
+        "category": "AI科技",
+        "source": "The Straits Times",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **新闻的重要性和影响**：报道展示了中国在人工智能领域的最新进展，特别是人形机器人技术的应用。这不仅体现了中国在AI领域的雄心壮志，也预示着未来智能服务的新形态。\n\n2. **技术或商业层面的分析**：人形机器人能够执行多种任务，显示出高度的灵活性和适应性。商业上，这可能推动服务业自动化，减少人力成本，提升服务效率。\n\n3. **对行业或用户的意义**：人形机器人能够更好地模拟人类行为，提供更加人性化的服务体验，这将对零售、餐饮、娱乐等行业产生深远影响，为用户提供更智能、便捷的服务。\n\n4. **未来发展趋势预测**：随着技术进步和成本降低，人形机器人将更加普及，成为日常生活和工作中的重要助手。这将促进相关产业链的发展，包括机器人制造、AI算法优化、人机交互设计等。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:43:35",
+        "word_count": 341,
+        "error": null
+      }
+    },
+    {
+      "id": "a741fa64f701",
+      "title": "AI referrals to news websites up by 770% since June 2024: Report",
+      "description": "Over 1.13 billion referrals to the top 1,000 websites globally came from AI platforms in June this year, up by 357% from the year-ago period.",
+      "content": "As AI platforms like ChatGPT, Gemini, and Perplexity become increasingly popular for looking up information on the internet, concerns have grown, particularly among news publishers, about a potential collapse in online traffic to their websites. But ... [2860 chars]",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-referrals-news-websites-up-by-770-percent-similarweb-report-10152963/",
+      "image": "https://images.indianexpress.com/2025/07/Tech-feature-images19.jpg",
+      "publishedAt": "2025-07-27T09:32:15Z",
+      "source": {
+        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-27 17:32:15+08:00",
+        "formatted": "2025年07月27日 17:32",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 17:32:15+08:00",
+      "ai_translation": {
+        "translated_title": "自2024年6月以来，AI推荐至新闻网站的访问量增长770%：报告称",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "今年6月，全球前1000大网站的访问量中有超过11.3亿次来自AI平台的推荐，同比增长357%。"
+      },
+      "localized_summary": {
+        "title": "AI referrals to news websites up by 770% since June 2024: Report",
+        "description": "Over 1.13 billion referrals to the top 1,000 websites globally came from AI platforms in June this year, up by 357% from the year-ago period.",
+        "category": "AI科技",
+        "source": "The Indian Express",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:45:04",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "57b9585e01f0",
+      "title": "Gwyneth Paltrow becomes ‘temporary spokesperson’ of Astronomer",
+      "description": "Award-winning actress Gwyneth Paltrow has been named as the “temporary spokesperson” for AI and data company Astronomer, days after a viral video from a",
+      "content": "Award-winning actress Gwyneth Paltrow has been named as the “temporary spokesperson” for AI and data company Astronomer, days after a viral video from a Coldplay concert linked the firm to an alleged office affair.\nOn Saturday, July 26, Astronomer po... [813 chars]",
+      "url": "https://manilastandard.net/showbitz/digital-media/314622004/gwyneth-paltrow-becomes-temporary-spokesperson-of-astronomer.html",
+      "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/07/IMG_6539.jpeg",
+      "publishedAt": "2025-07-27T09:15:57Z",
+      "source": {
+        "id": "e9207083a357fb7e76b38e485888ebe7",
+        "name": "manilastandard.net",
+        "url": "https://manilastandard.net"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-27 17:15:57+08:00",
+        "formatted": "2025年07月27日 17:15",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 17:15:57+08:00",
+      "ai_translation": {
+        "translated_title": "盖文娜·皮特罗成为“临时发言人”为天文学家发声",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "获奖 actress Gwyneth Paltrow 被任命为人工智能和数据公司 Astronomer 的“临时代言人”，此事发生在一段病毒视频流传数天之后。"
+      },
+      "localized_summary": {
+        "title": "Gwyneth Paltrow becomes ‘temporary spokesperson’ of Astronomer",
+        "description": "Award-winning actress Gwyneth Paltrow has been named as the “temporary spokesperson” for AI and data company Astronomer, days after a viral video from a",
+        "category": "AI科技",
+        "source": "manilastandard.net",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:45:59",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "8060b3313b70",
+      "title": "Foundation Season 3's Exciting Addition To Isaac Asimov's Decades-Old Robot Lore Explained",
+      "description": "Isaac Asimov wrote a series of books built entirely around his robot lore, and Apple TV+'s Foundation adaptation just added a cool piece to the canon.",
+      "content": "Warning: Spoilers ahead for Foundation season 3, episode 3, \"When a Book Finds You.\"Foundation has only ever lightly addressed Issac Asimov's robot lore, but season 3 of Apple TV+'s adaptation of the sci-fi author's world is starting to pay more and ... [6128 chars]",
+      "url": "https://screenrant.com/foundation-season-3-inheritance-robot-lore-explained/",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/07/untitled-2025-07-14t162935-683.jpg",
+      "publishedAt": "2025-07-27T11:00:21Z",
+      "source": {
+        "id": "6b8b6fae575a37200ef9ef50109518f5",
+        "name": "Screen Rant",
+        "url": "https://screenrant.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 19:00:21+08:00",
+        "formatted": "2025年07月27日 19:00",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 19:00:21+08:00",
+      "ai_translation": {
+        "translated_title": "基金会第三季对伊萨克·阿西莫夫数十年前机器人传说的精彩补充解释如下",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "艾萨克·阿西莫夫撰写了一系列完全围绕其机器人学说的小说，而苹果电视+的《基地》改编剧又为这一经典系列增添了一件酷炫的新作品。"
+      },
+      "localized_summary": {
+        "title": "Foundation Season 3's Exciting Addition To Isaac Asimov's Decades-Old Robot Lore Explained",
+        "description": "Isaac Asimov wrote a series of books built entirely around his robot lore, and Apple TV+'s Foundation adaptation just added a cool piece to the canon.",
+        "category": "AI科技",
+        "source": "Screen Rant",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. 重要性和影响：该剧第三季深入探讨机器人学理论，是对原作深度挖掘的重要尝试，丰富了观众对机器人伦理和智能社会的理解。\n2. 技术或商业层面：展示了科技伦理议题在影视作品中的呈现，可能促进相关讨论与研究，但未必直接推动技术进步或市场变化。\n3. 对行业或用户意义：为科幻剧集提供了一个探讨复杂科技伦理问题的新视角，可能吸引对科技伦理感兴趣的观众。\n4. 未来发展趋势预测：预示着未来科幻作品将更加关注科技伦理，可能成为行业趋势，推动更多探讨科技影响的影视作品出现。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:12:17",
+        "word_count": 233,
+        "error": null
+      }
+    },
+    {
+      "id": "d4705ac86c35",
+      "title": "My week using Android without Google apps",
+      "description": "I ditched every Google app on Android—here's how it went",
+      "content": "Like most Android users, my phone was overflowing with Google apps I never thought twice about. Applications such as Gmail, Maps, Photos, and Chrome are as much a part of our phone experience as the hardware itself.\nHowever, I started wondering: coul... [4998 chars]",
+      "url": "https://www.androidpolice.com/i-tried-using-android-without-google-apps/",
+      "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/img_1021.jpg",
+      "publishedAt": "2025-07-27T10:16:10Z",
+      "source": {
+        "id": "3855a489b685d9599a636250ed950d3c",
+        "name": "Android Police",
+        "url": "https://www.androidpolice.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 18:16:10+08:00",
+        "formatted": "2025年07月27日 18:16",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 18:16:10+08:00",
+      "ai_translation": {
+        "translated_title": "我一周未使用谷歌应用的Android体验",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "我卸载了所有Android上的Google应用——效果如何"
+      },
+      "localized_summary": {
+        "title": "My week using Android without Google apps",
+        "description": "I ditched every Google app on Android—here's how it went",
+        "category": "AI科技",
+        "source": "Android Police",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这篇新闻展示了对主流科技应用依赖的反思，反映了用户对隐私和数据控制的日益关注，具有重要的社会意义。\n2. **技术或商业层面**：无Google应用的Android体验挑战了现有生态系统，推动开发者探索替代方案，促进技术革新和市场竞争。\n3. **行业或用户意义**：这促使用户重新审视数据所有权和隐私，对行业来说，意味着需要开发更多本地化或开源应用以满足用户需求。\n4. **未来发展趋势**：未来将出现更多非Google应用生态系统的开发，推动Android平台的多样性和创新，同时也可能促进跨平台应用和服务的发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:13:08",
+        "word_count": 274,
+        "error": null
+      }
+    },
+    {
+      "id": "4496e4ecbb81",
+      "title": "Why Did Boeing Build The 747 With 4 Engines?",
+      "description": "The Boeing 747's design requirements, paired with the engine technology of the 1960s, meant the aircraft was designed with four engines.",
+      "content": "The Boeing 747 Jumbo stands out for being the most popular quad-engined commercial passenger jet to exist. It also boasted the longest production run of any commercial jet in its class. But why was it designed with four engines and not two, three, or... [9693 chars]",
+      "url": "https://simpleflying.com/why-boeing-build-747-4-engines/",
+      "image": "https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2025/07/boeing-747-with-engines.jpg",
+      "publishedAt": "2025-07-27T10:01:18Z",
+      "source": {
+        "id": "d189a400ff1a62abfa361ca86e0f7142",
+        "name": "Simple Flying",
+        "url": "https://simpleflying.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 18:01:18+08:00",
+        "formatted": "2025年07月27日 18:01",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 18:01:18+08:00",
+      "ai_translation": {
+        "translated_title": "波音为何用四台发动机建造747？",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "波音747的设计要求与20世纪60年代的发动机技术相结合，使得该飞机采用了四引擎设计。"
+      },
+      "localized_summary": {
+        "title": "Why Did Boeing Build The 747 With 4 Engines?",
+        "description": "The Boeing 747's design requirements, paired with the engine technology of the 1960s, meant the aircraft was designed with four engines.",
+        "category": "AI科技",
+        "source": "Simple Flying",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:13:43",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "673a70ff6d67",
+      "title": "From Tesla to Microsoft, companies are going vertical again",
+      "description": "Political turmoil and the rise of ‘super-companies’ are pushing this trend Read more at straitstimes.com.",
+      "content": "Much of the history of the modern corporation could be written in terms of two slogans: Ford’s “from mine to finished car: one organisation”, and Apple’s “designed in California, assembled in China”. And much of its history in the coming years will b... [733 chars]",
+      "url": "https://www.straitstimes.com/opinion/from-tesla-to-microsoft-companies-are-going-vertical-again",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ffdbe6aead3ed81bef467f2579a78f7a372bbe607c24392f3254ae8f7c46406a",
+      "publishedAt": "2025-07-27T10:00:00Z",
+      "source": {
+        "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+        "name": "The Straits Times",
+        "url": "https://www.straitstimes.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 18:00:00+08:00",
+        "formatted": "2025年07月27日 18:00",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 18:00:00+08:00",
+      "ai_translation": {
+        "translated_title": "从特斯拉到微软，企业再次走向垂直发展",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "政治动荡和“超级公司”的崛起正推动这一趋势。更多详情请参阅海峡时报网站。"
+      },
+      "localized_summary": {
+        "title": "From Tesla to Microsoft, companies are going vertical again",
+        "description": "Political turmoil and the rise of ‘super-companies’ are pushing this trend Read more at straitstimes.com.",
+        "category": "AI科技",
+        "source": "The Straits Times",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：该新闻反映了企业战略的转变，从全球化生产转向更专注于垂直整合，这可能对供应链和市场竞争格局产生深远影响。\n\n2. **技术或商业层面**：垂直整合能增强企业的控制力和效率，但也会增加成本和风险。例如，特斯拉自建电池厂，以确保供应链稳定和降低成本。\n\n3. **行业或用户意义**：垂直整合有助于企业更好地控制产品质量和成本，但可能限制创新和外部合作。对消费者而言，这可能意味着更稳定的产品供应和价格。\n\n4. **未来发展趋势**：企业将更倾向于垂直整合，特别是在关键技术和供应链领域。这将推动技术创新和生产效率提升，但也可能加剧行业竞争和资源分配的不均衡。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:15:44",
+        "word_count": 293,
+        "error": null
+      }
+    },
+    {
+      "id": "b9ee383756c9",
+      "title": "Google Pixel 10 Pro Fold: News, rumors, release date, and pricing",
+      "description": "Everything we know about the Google Pixel 10 Pro Fold",
+      "content": "It's almost time for Made By Google 2025, and true to tradition, we have a good idea of what we can expect from Google's biggest event of the year.\nWhile there is room for Google to surprise us, we can expect the Pixel 10 series to headline the event... [4532 chars]",
+      "url": "https://www.androidpolice.com/google-pixel-10-pro-fold-news-rumors/",
+      "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/06/pixel-9-pro-fold-review-08-correct-ratio.jpg",
+      "publishedAt": "2025-07-27T09:49:10Z",
+      "source": {
+        "id": "3855a489b685d9599a636250ed950d3c",
+        "name": "Android Police",
+        "url": "https://www.androidpolice.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 17:49:10+08:00",
+        "formatted": "2025年07月27日 17:49",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 17:49:10+08:00",
+      "ai_translation": {
+        "translated_title": "谷歌Pixel 10 Pro折叠版：最新消息、传言、发布日期和价格",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "关于谷歌Pixel 10 Pro Fold的一切我们所知"
+      },
+      "localized_summary": {
+        "title": "Google Pixel 10 Pro Fold: News, rumors, release date, and pricing",
+        "description": "Everything we know about the Google Pixel 10 Pro Fold",
+        "category": "AI科技",
+        "source": "Android Police",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. 重要性和影响：Google年度盛会即将召开，Pixel 10 Pro Fold的发布备受关注，将引领Android旗舰市场的新趋势。\n2. 技术或商业层面分析：Pixel系列作为Google的高端产品线，此次发布会有望展示最新的影像技术和AI功能，增强竞争力。\n3. 对行业或用户意义：Pixel 10 Pro Fold的发布将影响整个Android阵营的竞争格局，为用户带来更先进的移动体验。\n4. 未来发展趋势预测：未来智能手机将更加注重影像能力与AI融合，Google此举将进一步推动行业技术进步和用户体验优化。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:17:29",
+        "word_count": 262,
+        "error": null
+      }
+    },
+    {
+      "id": "eb2401073cab",
+      "title": "If you're having problems searching for public transit routes on Google Maps, you're not alone",
+      "description": "A frustrating bug",
+      "content": "Public transit routes are buggy on Google Maps\nIt seems to be affecting some but not all users\nGoogle hasn't yet made any comment on the issue\nMillions of us rely on Google Maps to get from A to B every day, so when something goes wrong with the app ... [2064 chars]",
+      "url": "https://www.techradar.com/phones/android/if-youre-having-problems-searching-for-public-transit-routes-on-google-maps-youre-not-alone",
+      "image": "https://cdn.mos.cms.futurecdn.net/LK87X9vpr28nAaqVWQmYKG.jpg",
+      "publishedAt": "2025-07-27T09:30:00Z",
+      "source": {
+        "id": "76684855c5d801b81fd06490668d04fe",
+        "name": "TechRadar",
+        "url": "https://www.techradar.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 17:30:00+08:00",
+        "formatted": "2025年07月27日 17:30",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 17:30:00+08:00",
+      "ai_translation": {
+        "translated_title": "如果你在谷歌地图上查找公共交通路线时遇到问题，你不是一个人独行。",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "令人沮丧的bug"
+      },
+      "localized_summary": {
+        "title": "If you're having problems searching for public transit routes on Google Maps, you're not alone",
+        "description": "A frustrating bug",
+        "category": "AI科技",
+        "source": "TechRadar",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:18:35",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "33d657647666",
+      "title": "I built a self-hosted 2FA server so I don’t have to trust Google anymore",
+      "description": "Discover 2FAuth, an open-source, self-hosted 2FA solution that provides a secure alternative to Google Authenticator. Easy setup with Docker and support for TOTP, HOTP, and Steam Guard codes.",
+      "content": "I’ve been using Google Authenticator for as long as I can remember. It was one of those apps I installed once and never really questioned. Lately, I have been de-Googling my life, but there were still some services I hadn't gotten rid of yet.\nOf cour... [4810 chars]",
+      "url": "https://www.xda-developers.com/i-built-self-hosted-2fa-server/",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/2fauth-running-on-a-macbook.jpg",
+      "publishedAt": "2025-07-27T09:01:00Z",
+      "source": {
+        "id": "891063cd06eaab8a5cf530418fb4c0be",
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 17:01:00+08:00",
+        "formatted": "2025年07月27日 17:01",
+        "relative": "3小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 17:01:00+08:00",
+      "ai_translation": {
+        "translated_title": "我搭建了一个自主托管的双因素认证服务器，不再信任谷歌",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "发现 2FAuth，一个开源的自助托管双因素认证解决方案，提供了一种安全的替代方案，替代 Google Authenticator。通过 Docker 简单设置，并支持 TOTP、HOTP 和 Steam  guard 代码。"
+      },
+      "localized_summary": {
+        "title": "I built a self-hosted 2FA server so I don’t have to trust Google anymore",
+        "description": "Discover 2FAuth, an open-source, self-hosted 2FA solution that provides a secure alternative to Google Authenticator. Easy setup with Docker and support for TOTP, HOTP, and Steam Guard codes.",
+        "category": "AI科技",
+        "source": "XDA Developers",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": false,
+        "commentary": null,
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:18:45",
+        "word_count": 0,
+        "error": "API响应格式错误"
+      }
+    },
+    {
+      "id": "7c5e689de2ce",
+      "title": "Google said that some Pixel 6a units run the risk of catching on fire. They weren't kidding",
+      "description": "A Pixel 6a shows exactly why Google is offering a free battery replacement on some units.",
+      "content": "Pixel 6a user woke up Friday after hearing a loud noise. While his senses were returning to him, he noticed a bad smell. His Pixel 6a had already caught on fire . Pulling the device by the cord, he dropped it on the tile floor. The phone had been on ... [5290 chars]",
+      "url": "https://www.phonearena.com/news/google-said-that-some-pixel-6a-units-run-the-risk-of-catching-on-fire_id172656",
+      "image": "https://m-cdn.phonearena.com/images/article/172656-wide-two_1200/Google-said-that-some-Pixel-6a-units-run-the-risk-of-catching-on-fire.-They-werent-kidding.jpg",
+      "publishedAt": "2025-07-27T07:37:35Z",
+      "source": {
+        "id": "82dc94c51bef044035e3d16ef869c7a8",
+        "name": "PhoneArena",
+        "url": "https://www.phonearena.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 15:37:35+08:00",
+        "formatted": "2025年07月27日 15:37",
+        "relative": "4小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 15:37:35+08:00",
+      "ai_translation": {
+        "translated_title": "谷歌表示，部分Pixel 6a手机存在起火的风险。他们可不是在开玩笑。",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "一款Pixel 6a展示了为何部分机型将免费更换电池的原因。"
+      },
+      "localized_summary": {
+        "title": "Google said that some Pixel 6a units run the risk of catching on fire. They weren't kidding",
+        "description": "A Pixel 6a shows exactly why Google is offering a free battery replacement on some units.",
+        "category": "AI科技",
+        "source": "PhoneArena",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **新闻的重要性和影响**：这则新闻揭示了Pixel 6a存在电池安全问题，对用户生命财产构成直接威胁，影响广泛。\n2. **技术或商业层面的分析**：电池安全问题凸显了硬件制造的复杂性和挑战。Google需迅速召回受影响设备，修复问题，可能影响品牌形象和市场份额。\n3. **对行业或用户的意义**：此事件警示智能手机制造商需严格把控产品质量和安全性。用户应提高警惕，关注设备异常，及时报修。\n4. **未来发展趋势预测**：未来，电池安全将成为智能手机设计与制造的重要考量，制造商需加大研发投入，提升产品安全性，以增强用户信任。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:19:17",
+        "word_count": 269,
+        "error": null
+      }
+    },
+    {
+      "id": "a57f1753dcf7",
+      "title": "Promoting local livelihoods in Sagay, Camiguin through PORTASOL",
+      "description": "The Department of Science and Technology (DOST) Camiguin, led by Provincial Science and Technology director Joanne Katherine R. Banaag, conducted a",
+      "content": "The Department of Science and Technology (DOST) Camiguin, led by Provincial Science and Technology director Joanne Katherine R. Banaag, conducted a monitoring activity recently, to assess the performance and impact of the Portable Solar Speed Drying ... [914 chars]",
+      "url": "https://manilastandard.net/business/csr-mining/314621938/promoting-local-livelihoods-in-sagay-camiguin-through-portasol.html",
+      "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/07/PORTASOL.jpeg",
+      "publishedAt": "2025-07-27T07:27:41Z",
+      "source": {
+        "id": "e9207083a357fb7e76b38e485888ebe7",
+        "name": "manilastandard.net",
+        "url": "https://manilastandard.net"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 15:27:41+08:00",
+        "formatted": "2025年07月27日 15:27",
+        "relative": "4小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 15:27:41+08:00",
+      "ai_translation": {
+        "translated_title": "通过 PORTASOL 推动卡米güin 塞加伊地区的生计发展",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "科米古因省科技部(DOST-Camiguin)，由省科技主管乔安娜·卡瑟琳·R·巴纳格领导，开展了一项"
+      },
+      "localized_summary": {
+        "title": "Promoting local livelihoods in Sagay, Camiguin through PORTASOL",
+        "description": "The Department of Science and Technology (DOST) Camiguin, led by Provincial Science and Technology director Joanne Katherine R. Banaag, conducted a",
+        "category": "AI科技",
+        "source": "manilastandard.net",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.922,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：该活动有助于提升Camiguin地区的经济活力，促进当地就业和居民收入增长，对地方可持续发展具有积极意义。\n2. **技术或商业层面**：PORTASOL技术降低了生产成本，提高了农产品的保存质量，增强了当地农产品的市场竞争力。\n3. **行业或用户**：此项目为其他地区提供了可复制的模式，有助于推动农村地区的科技应用和产业升级。\n4. **未来发展趋势**：预计类似技术将进一步普及，助力更多地区实现绿色、可持续发展，同时促进农村电商和加工产业的发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:20:19",
+        "word_count": 242,
+        "error": null
+      }
+    },
+    {
+      "id": "8f48f7efc23c",
+      "title": "Spanish teen under investigation over nude AI images of classmates",
+      "description": "The probe was launched after 16 young women came forward to complain of AI-generated images of them. Read more at straitstimes.com.",
+      "content": "Find out what’s new on ST website and app.\nThe probe was launched after 16 young women came forward to complain of AI-generated images of them circulating on social media and the internet.\nMADRID – Spanish police said July 27 they were investigating ... [1168 chars]",
+      "url": "https://www.straitstimes.com/world/europe/spanish-teen-investigated-over-nude-ai-images-of-classmates",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e5020bba77328a99a667028731d5ab10ef1885e9c5e24b0254993c56fafb58b3",
+      "publishedAt": "2025-07-27T10:52:50Z",
+      "source": {
+        "id": "72bbcd9c095a3d51c97cdda7a97dba31",
+        "name": "The Straits Times",
+        "url": "https://www.straitstimes.com"
+      },
+      "category": "technology",
+      "category_chinese": "AI科技",
+      "time_info": {
+        "beijing_time": "2025-07-27 18:52:50+08:00",
+        "formatted": "2025年07月27日 18:52",
+        "relative": "1小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 18:52:50+08:00",
+      "ai_translation": {
+        "translated_title": "西班牙少年因涉及同学裸体AI图像被调查",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.92
+        },
+        "translated_description": "在16名年轻女性指控AI生成的她们的图像后，该探测器被发射。更多详情请见straitstimes.com。"
+      },
+      "localized_summary": {
+        "title": "Spanish teen under investigation over nude AI images of classmates",
+        "description": "The probe was launched after 16 young women came forward to complain of AI-generated images of them. Read more at straitstimes.com.",
+        "category": "AI科技",
+        "source": "The Straits Times",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.9145000000000001,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这起事件凸显了AI图像生成技术滥用的风险，对受害者造成了严重心理伤害。它也引发了公众对隐私保护和网络道德的广泛关注。\n2. **技术或商业层面**：AI图像生成技术的发展在带来便利的同时，也带来了前所未有的隐私挑战。企业需加强对此类技术使用的监管和伦理审查。\n3. **对行业或用户的意义**：该事件提醒用户提高警惕，谨慎分享个人信息。同时，行业需制定更严格的规范，确保技术的合理使用。\n4. **未来发展趋势预测**：未来，类似技术的监管和自律将成为重要议题，可能催生更多关于数据所有权和使用权的法律框架。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:39:49",
+        "word_count": 268,
+        "error": null
+      }
+    },
+    {
+      "id": "6b811ae8dc62",
+      "title": "Use technology to aid in investigation for fairness: Delhi HC to probe agencies",
+      "description": "Use technology to aid in investigation for fairness: Delhi HC to probe agencies",
+      "content": "Use technology to aid in investigation for fairness: Delhi HC to probe agencies\nLast Updated: July 27, 2025, 15:15 IST\nRepresentational image (Image: News18)\nNew Delhi, Jul 27 (PTI) The Delhi High Court has directed investigating agencies to make eve... [1643 chars]",
+      "url": "https://www.news18.com/agency-feeds/use-technology-to-aid-in-investigation-for-fairness-delhi-hc-to-probe-agencies-9466831.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+      "publishedAt": "2025-07-27T09:45:05Z",
+      "source": {
+        "id": "ca84296ef941bfa461f4239a2290cb99",
+        "name": "News18",
+        "url": "https://www.news18.com"
+      },
+      "category": "technology",
+      "category_chinese": "科技创新",
+      "time_info": {
+        "beijing_time": "2025-07-27 17:45:05+08:00",
+        "formatted": "2025年07月27日 17:45",
+        "relative": "2小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 17:45:05+08:00",
+      "ai_translation": {
+        "translated_title": "使用技术促进公平调查：德里高院调查相关部门",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.77
+        },
+        "translated_description": "使用技术促进公正调查：德里高院调查机构"
+      },
+      "localized_summary": {
+        "title": "Use technology to aid in investigation for fairness: Delhi HC to probe agencies",
+        "description": "Use technology to aid in investigation for fairness: Delhi HC to probe agencies",
+        "category": "AI科技",
+        "source": "News18",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.77,
+          "text": "一般",
+          "detail": "翻译基本准确，可能存在一些表达不够自然的地方",
+          "color": "#F59E0B",
+          "percentage": "77%"
+        }
+      },
+      "freshness_score": 0.907,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **新闻的重要性和影响**：此次判决强调了技术在提升调查公正性中的关键作用，标志着司法系统对技术应用的重视。这将推动相关技术的发展与应用，增强公众对司法公正的信心。\n\n2. **技术或商业层面的分析**：法院的这一决定将促进数据和人工智能技术在侦查中的应用，可能催生新的市场机会。同时，这要求调查机构提升技术能力，可能增加相关技术和服务的采购需求。\n\n3. **对行业或用户的意义**：对于科技公司而言，这是一个展示技术实力和合规性的机会。对于普通民众，这意味着未来可能有更多公正、高效的调查结果，提升社会安全感。\n\n4. **未来发展趋势预测**：预计未来会有更多司法机构采用技术辅助调查，推动相关技术标准和法规的完善。同时，数据隐私和安全将成为技术应用中的重要考量因素。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:18:25",
+        "word_count": 340,
+        "error": null
+      }
+    },
+    {
+      "id": "543efffb0f07",
+      "title": "Two brokers vie to be Asia’s Robinhood as Hong Kong expands crypto support",
+      "description": "Stock analysts are getting excited about the potential boost to Asian crypto trading after Hong Kong's stablecoin bill takes effect Friday.",
+      "content": "Stock analysts are getting excited about the potential boost to Asian crypto trading after Hong Kong's stablecoin bill takes effect on Friday. Stablecoins are virtual assets that reference government-issued, or fiat, currencies. Hong Kong's bill form... [3091 chars]",
+      "url": "https://www.cnbc.com/2025/07/27/two-brokers-vie-to-be-asias-robinhood-as-hong-kong-expands-crypto-support.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108176906-1753425987562-gettyimages-2224450122-HONG_KONG_CRYPTO.jpeg?v=1753426721&w=1920&h=1080",
+      "publishedAt": "2025-07-27T11:15:30Z",
+      "source": {
+        "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+        "name": "CNBC",
+        "url": "https://www.cnbc.com"
       },
       "category": "business",
       "category_chinese": "经济新闻",
       "time_info": {
-        "beijing_time": "2025-07-26 13:00:00+08:00",
-        "formatted": "2025年07月26日 13:00",
-        "relative": "54分钟前",
+        "beijing_time": "2025-07-27 19:15:30+08:00",
+        "formatted": "2025年07月27日 19:15",
+        "relative": "1小时前",
         "is_fresh": true,
-        "freshness_score": 1.0
+        "freshness_score": 0.9
       },
-      "beijing_time": "2025-07-26 13:00:00+08:00",
+      "beijing_time": "2025-07-27 19:15:30+08:00",
+      "ai_translation": {
+        "translated_title": "两家经纪商竞相成为亚洲的“罗宾汉” 随着香港扩大加密货币支持",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "亚洲加密交易有望在周五生效的香港稳定币法案实施后迎来潜在增长，股票分析师对此感到兴奋。"
+      },
       "localized_summary": {
-        "title": "Man City transfer stock take amid £27million decision as three positions give Pep Guardiola headache",
-        "description": "Manchester City have been busy in the summer transfer market but must trim their squad.",
+        "title": "Two brokers vie to be Asia’s Robinhood as Hong Kong expands crypto support",
+        "description": "Stock analysts are getting excited about the potential boost to Asian crypto trading after Hong Kong's stablecoin bill takes effect Friday.",
         "category": "经济新闻",
-        "source": "Manchester Evening News",
-        "reading_time": "1分钟"
+        "source": "CNBC",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
       },
-      "freshness_score": 0.98,
+      "freshness_score": 0.902,
       "ai_commentary": {
         "success": false,
         "commentary": null,
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:51:24",
+        "timestamp": "2025-07-27 19:56:29",
         "word_count": 0,
         "error": "API响应格式错误"
       }
     },
     {
-      "id": "79488bfb6033",
-      "title": "Budget £23 smartwatch branded a 'great Apple and Samsung alternative' by shoppers",
-      "description": "The smartwatch is available on Amazon for £23.74",
-      "content": "A smartwatch is the ideal gadget for carrying out a range of tasks from the ease of the wearer's wrist, including monitoring activity levels and heart rate. However, with so many different watches on the market, it can be hard to know how to get the ... [2926 chars]",
-      "url": "https://www.coventrytelegraph.net/whats-on/shopping/budget-23-smartwatch-branded-great-32124888",
-      "image": "https://i2-prod.walesonline.co.uk/incoming/article32135236.ece/ALTERNATES/s1200/0_Roman-dress-3.png",
-      "publishedAt": "2025-07-26T05:03:00Z",
+      "id": "0633d25298ee",
+      "title": "Tesla or Alphabet: Bank of America Picks the Superior ‘Magnificent 7’ Stock to Buy After Earnings",
+      "description": "Earnings season is in full swing, and the numbers are coming in strong. Roughly 83% of S&P 500 companies that have reported so far have topp...",
+      "content": "Earnings season is in full swing, and the numbers are coming in strong. Roughly 83% of S&P 500 companies that have reported so far have topped estimates – a pace we haven’t seen since Q2 of 2021. That strong showing has fueled bullish sentiment, push... [8270 chars]",
+      "url": "https://markets.businessinsider.com/news/stocks/tesla-or-alphabet-bank-of-america-picks-the-superior-magnificent-7-stock-to-buy-after-earnings-1034942696",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/07/image-1953-1024x546.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "publishedAt": "2025-07-27T06:49:17Z",
       "source": {
-        "id": "17d06d2327464ee1f805b0c84ad3954a",
-        "name": "Coventry Telegraph",
-        "url": "https://www.coventrytelegraph.net"
+        "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+        "name": "Business Insider",
+        "url": "https://markets.businessinsider.com"
       },
-      "category": "technology",
-      "category_chinese": "科技创新",
+      "category": "business",
+      "category_chinese": "经济新闻",
       "time_info": {
-        "beijing_time": "2025-07-26 13:03:00+08:00",
-        "formatted": "2025年07月26日 13:03",
-        "relative": "51分钟前",
-        "is_fresh": true,
-        "freshness_score": 1.0
-      },
-      "beijing_time": "2025-07-26 13:03:00+08:00",
-      "localized_summary": {
-        "title": "Budget £23 smartwatch branded a 'great Apple and Samsung alternative' by shoppers",
-        "description": "The smartwatch is available on Amazon for £23.74",
-        "category": "AI科技",
-        "source": "Coventry Telegraph",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.9666666666666666,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:53:20",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "ed024d9fd1b7",
-      "title": "Meta names ChatGPT co-creator as chief scientist of Superintelligence Lab",
-      "description": "Meta has been offering some of Silicon Valley's most lucrative pay packages and striking startup deals to attract top researchers",
-      "content": "Meta Platforms has appointed Shengjia Zhao, co-creator of ChatGPT, as chief scientist of its Superintelligence Lab, CEO Mark Zuckerberg said on Friday, as the company accelerates its push into advanced AI. “In this role, Shengjia will set the researc... [1112 chars]",
-      "url": "https://indianexpress.com/article/technology/meta-names-chatgpt-co-creator-as-chief-scientist-of-superintelligence-lab-10150615/",
-      "image": "https://images.indianexpress.com/2025/07/Image-43.jpg",
-      "publishedAt": "2025-07-26T04:53:42Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "technology",
-      "category_chinese": "AI科技",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:53:42+08:00",
-        "formatted": "2025年07月26日 12:53",
-        "relative": "1小时前",
+        "beijing_time": "2025-07-27 14:49:17+08:00",
+        "formatted": "2025年07月27日 14:49",
+        "relative": "5小时前",
         "is_fresh": true,
         "freshness_score": 0.9
       },
-      "beijing_time": "2025-07-26 12:53:42+08:00",
-      "localized_summary": {
-        "title": "Meta names ChatGPT co-creator as chief scientist of Superintelligence Lab",
-        "description": "Meta has been offering some of Silicon Valley's most lucrative pay packages and striking startup deals to attract top researchers",
-        "category": "AI科技",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 14:49:17+08:00",
+      "ai_translation": {
+        "translated_title": "特斯拉或谷歌母公司 alphabet：银行美国银行选出表现更优的“七大杰出公司”股票作为财报后购入选择",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "财报季如火如荼进行中，数据表现强劲。截至目前，已有约83%的标普500公司公布了财报，表现..."
       },
-      "freshness_score": 0.93,
+      "localized_summary": {
+        "title": "Tesla or Alphabet: Bank of America Picks the Superior ‘Magnificent 7’ Stock to Buy After Earnings",
+        "description": "Earnings season is in full swing, and the numbers are coming in strong. Roughly 83% of S&P 500 companies that have reported so far have topp...",
+        "category": "经济新闻",
+        "source": "Business Insider",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.902,
       "ai_commentary": {
         "success": false,
         "commentary": null,
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:48:11",
+        "timestamp": "2025-07-27 20:02:32",
         "word_count": 0,
         "error": "API响应格式错误"
       }
     },
     {
-      "id": "a8f148d43c1f",
-      "title": "After Kiss Cam Chaos, Astronomer Hires Chris Martin’s Ex-Wife Gwyneth Paltrow: ‘What A Savage Move’",
-      "description": "Astronomer names Gwyneth Paltrow as temporary spokesperson amid scandal, humorously addressing data operations, AI products, and upcoming conference.",
-      "content": "After Kiss Cam Chaos, Astronomer Hires Chris Martin’s Ex-Wife Gwyneth Paltrow: ‘What A Savage Move’\nCurated By :\nTrending Desk\nLast Updated: July 26, 2025, 10:21 IST\nAstronomer has roped in Gwyneth Paltrow as the \"temporary spokesperson\" of the compa... [4262 chars]",
-      "url": "https://www.news18.com/viral/after-kiss-cam-chaos-astronomer-hires-chris-martins-ex-wife-gwyneth-paltrow-what-a-savage-move-ws-l-aa-aa-9464740.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/07/DYK-Snakes-and-Ladders-was-originated-in-India-2025-07-26T101449.231-2025-07-9b1f41ef66ae478973a4951a266fdfaf-16x9.png",
-      "publishedAt": "2025-07-26T04:51:03Z",
+      "id": "60fa4bfc5f09",
+      "title": "How armed gangs hunt internet high rollers",
+      "description": "Kidnapping and extortion are a growing concern in the crypto world, with cases rising alongside the price of bitcoin.",
+      "content": "The Chainalysis report found that 2025 could potentially have “twice as many physical attacks as the next highest year on record,” based on the projected rise in the price of bitcoin. The report also noted that the number of previous attacks may be e... [6243 chars]",
+      "url": "https://www.nbcnews.com/tech/crypto/crypto-kidnapping-bitcoin-price-crime-rcna215047",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250717-crypto-kidnapping-pakistan-uganda-se-1235p-7f1857.jpg",
+      "publishedAt": "2025-07-27T10:00:00Z",
       "source": {
-        "id": "ca84296ef941bfa461f4239a2290cb99",
-        "name": "News18",
-        "url": "https://www.news18.com"
+        "id": "77b86639d1384ac68141803ec5db27c0",
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com"
       },
-      "category": "technology",
-      "category_chinese": "AI科技",
+      "category": "business",
+      "category_chinese": "经济新闻",
       "time_info": {
-        "beijing_time": "2025-07-26 12:51:03+08:00",
-        "formatted": "2025年07月26日 12:51",
-        "relative": "1小时前",
+        "beijing_time": "2025-07-27 18:00:00+08:00",
+        "formatted": "2025年07月27日 18:00",
+        "relative": "2小时前",
         "is_fresh": true,
         "freshness_score": 0.9
       },
-      "beijing_time": "2025-07-26 12:51:03+08:00",
-      "localized_summary": {
-        "title": "After Kiss Cam Chaos, Astronomer Hires Chris Martin’s Ex-Wife Gwyneth Paltrow: ‘What A Savage Move’",
-        "description": "Astronomer names Gwyneth Paltrow as temporary spokesperson amid scandal, humorously addressing data operations, AI products, and upcoming conference.",
-        "category": "AI科技",
-        "source": "News18",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 18:00:00+08:00",
+      "ai_translation": {
+        "translated_title": "武装团伙如何猎捕网络赌徒",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.92
+        },
+        "translated_description": "加密世界中，绑架和勒索事件日益引起关注，案件数量随比特币价格上升而增多。"
       },
-      "freshness_score": 0.93,
+      "localized_summary": {
+        "title": "How armed gangs hunt internet high rollers",
+        "description": "Kidnapping and extortion are a growing concern in the crypto world, with cases rising alongside the price of bitcoin.",
+        "category": "经济新闻",
+        "source": "NBC News",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.8945000000000001,
       "ai_commentary": {
-        "success": false,
-        "commentary": null,
+        "success": true,
+        "commentary": "1. **重要性和影响**：该新闻揭示了加密货币价格波动与实体暴力犯罪之间潜在的关联，强调了网络安全和金融风险的加剧，对公众安全构成威胁。\n2. **技术或商业层面**：随着比特币价格的上涨，犯罪分子可能利用加密货币洗钱和资助非法活动，增加了金融系统的不稳定性。企业需加强网络安全措施，防范潜在风险。\n3. **行业或用户意义**：此报告提醒投资者和用户，加密货币领域的高收益伴随着高风险，需谨慎投资。同时，金融机构和监管机构应加强对加密资产的监控，保护用户权益。\n4. **未来发展趋势预测**：预计未来加密货币市场将持续增长，但伴随而来的监管加强和安全威胁也将同步上升。行业需平衡创新与安全，以应对未来挑战。",
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:48:20",
-        "word_count": 0,
-        "error": "API响应格式错误"
+        "timestamp": "2025-07-27 19:57:51",
+        "word_count": 306,
+        "error": null
       }
     },
     {
-      "id": "370b2b62196a",
-      "title": "After Kiss Cam Chaos, Astronomer Hires Chris Martin’s Ex-Wife Gwyneth Paltrow: ‘What A Savage Move’",
-      "description": "Astronomer names Gwyneth Paltrow as temporary spokesperson amid scandal, humorously addressing data operations, AI products, and upcoming conference.",
-      "content": "After Kiss Cam Chaos, Astronomer Hires Chris Martin’s Ex-Wife Gwyneth Paltrow: ‘What A Savage Move’\nCurated By :\nTrending Desk\nLast Updated: July 26, 2025, 10:17 IST\nAstronomer has roped in Gwyneth Paltrow as the \"temporary spokesperson\" of the compa... [4262 chars]",
-      "url": "https://www.news18.com/viral/after-kiss-cam-chaos-astronomer-hires-chris-martins-ex-wife-gwyneth-paltrow-what-a-savage-move-ws-l-aa-9464740.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/07/DYK-Snakes-and-Ladders-was-originated-in-India-2025-07-26T101449.231-2025-07-9b1f41ef66ae478973a4951a266fdfaf-16x9.png",
-      "publishedAt": "2025-07-26T04:47:09Z",
-      "source": {
-        "id": "ca84296ef941bfa461f4239a2290cb99",
-        "name": "News18",
-        "url": "https://www.news18.com"
-      },
-      "category": "technology",
-      "category_chinese": "AI科技",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:47:09+08:00",
-        "formatted": "2025年07月26日 12:47",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:47:09+08:00",
-      "localized_summary": {
-        "title": "After Kiss Cam Chaos, Astronomer Hires Chris Martin’s Ex-Wife Gwyneth Paltrow: ‘What A Savage Move’",
-        "description": "Astronomer names Gwyneth Paltrow as temporary spokesperson amid scandal, humorously addressing data operations, AI products, and upcoming conference.",
-        "category": "AI科技",
-        "source": "News18",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:48:30",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "9cb367ab1853",
-      "title": "Your ChatGPT therapy sessions are not private, says OpenAI CEO Sam Altman",
-      "description": "OpenAI CEO Sam Altman, AI chat privacy concerns: In a podcast with Theo Von, OpenAI CEO Sam Altman said that none of the conversations with ChatGPT about mental health, emotional advice, or companionship are private and can be shared with others in case of a lawsuit.",
-      "content": "Ever since AI has taken over the internet, millions of people, including children, have turned to AI chatbots like ChatGPT for therapy and emotional support. Now, OpenAI CEO Sam Altman has warned that the tech industry is yet to figure out how to kee... [407 chars]",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-therapy-sessions-not-private-openai-ceo-sam-altman-10149236/",
-      "image": "https://images.indianexpress.com/2025/07/Sam-Altman.jpg",
-      "publishedAt": "2025-07-26T04:41:04Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "technology",
-      "category_chinese": "AI科技",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:41:04+08:00",
-        "formatted": "2025年07月26日 12:41",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:41:04+08:00",
-      "localized_summary": {
-        "title": "Your ChatGPT therapy sessions are not private, says OpenAI CEO Sam Altman",
-        "description": "OpenAI CEO Sam Altman, AI chat privacy concerns: In a podcast with Theo Von, OpenAI CEO Sam Altman said that none of the conversations with ChatGPT about mental health, emotional advice, or companionship are private and can be shared with others in case of a lawsuit.",
-        "category": "AI科技",
-        "source": "The Indian Express",
-        "reading_time": "2分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:48:40",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "1eec24b86157",
-      "title": "1,200 more drivers caught out by new Midlands 'smart' AI speed cameras",
-      "description": "The cameras used advance technology to help them catch speeding motorists",
-      "content": "1,200 more drivers caught out by new Midlands 'smart' AI speed cameras\nThe cameras used advance technology to help them catch speeding motorists\n(Image: Pete Stonier / Stoke Sentinel)\nOver 1,200 more speeding drivers have been caught by new digital c... [2120 chars]",
-      "url": "https://www.birminghammail.co.uk/black-country/1200-more-drivers-caught-out-32119343",
-      "image": "https://i2-prod.birminghammail.co.uk/article31534047.ece/ALTERNATES/s1200/0_PAS_STO_291223sc_002.jpg",
-      "publishedAt": "2025-07-26T04:39:00Z",
-      "source": {
-        "id": "cc0de8416f75329df7c88d7524745d12",
-        "name": "Birmingham Live",
-        "url": "https://www.birminghammail.co.uk"
-      },
-      "category": "technology",
-      "category_chinese": "AI科技",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:39:00+08:00",
-        "formatted": "2025年07月26日 12:39",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:39:00+08:00",
-      "localized_summary": {
-        "title": "1,200 more drivers caught out by new Midlands 'smart' AI speed cameras",
-        "description": "The cameras used advance technology to help them catch speeding motorists",
-        "category": "AI科技",
-        "source": "Birmingham Live",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:48:49",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "2091b65f7cf1",
-      "title": "Are AI tools making you forgetful and dull? Here’s how to prevent a brain burnout",
-      "description": "If you don’t go to the gym long enough, your muscles will weaken. Similarly, when we stop pushing our brains, they become less resilient",
-      "content": "Dr Prabash Prabhakaran\nThe other day, a 26-year-old software engineer from Bengaluru came to see me because she was worried about something I’m hearing more and more, “I feel mentally lazy,” she said. She didn’t have a memory problem. No headaches ei... [3475 chars]",
-      "url": "https://indianexpress.com/article/health-wellness/ai-tools-forgetful-dull-prevent-brain-burnout-10150552/",
-      "image": "https://images.indianexpress.com/2025/07/ai-tools.jpg",
-      "publishedAt": "2025-07-26T04:33:12Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "technology",
-      "category_chinese": "AI科技",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:33:12+08:00",
-        "formatted": "2025年07月26日 12:33",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:33:12+08:00",
-      "localized_summary": {
-        "title": "Are AI tools making you forgetful and dull? Here’s how to prevent a brain burnout",
-        "description": "If you don’t go to the gym long enough, your muscles will weaken. Similarly, when we stop pushing our brains, they become less resilient",
-        "category": "AI科技",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:48:59",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "72152416c1a6",
-      "title": "Study reveals stigmatizing responses in LLMs for addiction-related queries",
-      "description": "As artificial intelligence is rapidly developing and becoming a growing presence in healthcare communication, a new study addresses a concern that large language models (LLMs) can reinforce harmful stereotypes by using stigmatizing language.",
-      "content": "As artificial intelligence is rapidly developing and becoming a growing presence in healthcare communication, a new study addresses a concern that large language models (LLMs) can reinforce harmful stereotypes by using stigmatizing language.\nThe stud... [2852 chars]",
-      "url": "https://www.news-medical.net/news/20250726/Study-reveals-stigmatizing-responses-in-LLMs-for-addiction-related-queries.aspx",
-      "image": "https://www.news-medical.net/image-handler/picture/2018/7/Selection_of_alcoholic_drinks_on_rustic_wood_background_-_Oleksandra_Naumenko_A1_fe979bdaef3943969b200bceaf42b174-620x480.jpg",
-      "publishedAt": "2025-07-26T04:30:00Z",
-      "source": {
-        "id": "6fea3ee012f060c6309366516e8d00be",
-        "name": "News-Medical.net",
-        "url": "https://www.news-medical.net"
-      },
-      "category": "technology",
-      "category_chinese": "AI科技",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:30:00+08:00",
-        "formatted": "2025年07月26日 12:30",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:30:00+08:00",
-      "localized_summary": {
-        "title": "Study reveals stigmatizing responses in LLMs for addiction-related queries",
-        "description": "As artificial intelligence is rapidly developing and becoming a growing presence in healthcare communication, a new study addresses a concern that large language models (LLMs) can reinforce harmful stereotypes by using stigmatizing language.",
-        "category": "AI科技",
-        "source": "News-Medical.net",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:49:09",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "bd6d18f69b84",
-      "title": "China’s Premier Li proposes global AI cooperation organisation",
-      "description": "Washington has imposed export restrictions on advanced technology to China, including AI chips and chipmaking equipment.",
-      "content": "China has continued making AI breakthroughs that have drawn close scrutiny from U.S. officials. (Image: Reuters)\nChinese Premier Li Qiang proposed on Saturday establishing a world artificial intelligence cooperation organisation, calling on countries... [349 chars]",
-      "url": "https://indianexpress.com/article/technology/chinas-premier-li-proposes-global-ai-cooperation-organisation-10150558/",
-      "image": "https://images.indianexpress.com/2025/07/Image-41.jpg",
-      "publishedAt": "2025-07-26T04:26:38Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "technology",
-      "category_chinese": "AI科技",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:26:38+08:00",
-        "formatted": "2025年07月26日 12:26",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:26:38+08:00",
-      "localized_summary": {
-        "title": "China’s Premier Li proposes global AI cooperation organisation",
-        "description": "Washington has imposed export restrictions on advanced technology to China, including AI chips and chipmaking equipment.",
-        "category": "AI科技",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:49:18",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "3370c62e61d8",
-      "title": "China's premier proposes global co-operation on AI",
-      "description": "China's Premier Li Qiang has emphasised the need for more co-ordination between countries to form a globally recognised framework for artificial intelligence.",
-      "content": "Chinese Premier Li Qiang has proposed establishing an organisation to foster global co-operation on artificial intelligence, calling on countries to coordinate on the development and security of the fast-evolving technology.\nSpeaking at the opening o... [2389 chars]",
-      "url": "https://www.perthnow.com.au/news/politics/chinas-premier-proposes-global-co-operation-on-ai-c-19481380",
-      "image": "https://images.perthnow.com.au/publication/C-19481380/a79211b018122a858b96eaf8f9f1952adb5fc33b-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2025-07-26T04:17:06Z",
-      "source": {
-        "id": "7f6e8514e9d8f8376aaa9a7229861518",
-        "name": "PerthNow",
-        "url": "https://www.perthnow.com.au"
-      },
-      "category": "technology",
-      "category_chinese": "AI科技",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:17:06+08:00",
-        "formatted": "2025年07月26日 12:17",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:17:06+08:00",
-      "localized_summary": {
-        "title": "China's premier proposes global co-operation on AI",
-        "description": "China's Premier Li Qiang has emphasised the need for more co-ordination between countries to form a globally recognised framework for artificial intelligence.",
-        "category": "AI科技",
-        "source": "PerthNow",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:49:28",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "07de2ac51a42",
-      "title": "Who Needs Mars? AI Video Shows NASA Testing Rover On Mira Road’s Crater-Like Streets",
-      "description": "A viral AI video humorously shows NASA scientists testing the Mars Rover on Mira Road's pothole-filled streets in Mumbai, highlighting the area's road issues.",
-      "content": "Who Needs Mars? AI Video Shows NASA Testing Rover On Mira Road’s Crater-Like Streets\nCurated By :\nTrending Desk\nLast Updated: July 26, 2025, 09:35 IST\nThe footage shows a scene where a group of NASA scientists visit the Mira Road-Bhayandar to test th... [3645 chars]",
-      "url": "https://www.news18.com/viral/who-needs-mars-nasa-is-testing-mars-rover-on-mira-roads-crater-like-streets-ws-l-aa-aa-aa-aa-aa-9464634.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/07/DYK-Snakes-and-Ladders-was-originated-in-India-2025-07-26T092635.382-2025-07-f3e9d664a9f0127acaf1911e05cd611d-16x9.png",
-      "publishedAt": "2025-07-26T04:05:57Z",
-      "source": {
-        "id": "ca84296ef941bfa461f4239a2290cb99",
-        "name": "News18",
-        "url": "https://www.news18.com"
-      },
-      "category": "technology",
-      "category_chinese": "AI科技",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:05:57+08:00",
-        "formatted": "2025年07月26日 12:05",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:05:57+08:00",
-      "localized_summary": {
-        "title": "Who Needs Mars? AI Video Shows NASA Testing Rover On Mira Road’s Crater-Like Streets",
-        "description": "A viral AI video humorously shows NASA scientists testing the Mars Rover on Mira Road's pothole-filled streets in Mumbai, highlighting the area's road issues.",
-        "category": "AI科技",
-        "source": "News18",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:49:38",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "ed024d9fd1b7",
-      "title": "Meta names ChatGPT co-creator as chief scientist of Superintelligence Lab",
-      "description": "Meta has been offering some of Silicon Valley's most lucrative pay packages and striking startup deals to attract top researchers",
-      "content": "Meta Platforms has appointed Shengjia Zhao, co-creator of ChatGPT, as chief scientist of its Superintelligence Lab, CEO Mark Zuckerberg said on Friday, as the company accelerates its push into advanced AI. “In this role, Shengjia will set the researc... [1112 chars]",
-      "url": "https://indianexpress.com/article/technology/meta-names-chatgpt-co-creator-as-chief-scientist-of-superintelligence-lab-10150615/",
-      "image": "https://images.indianexpress.com/2025/07/Image-43.jpg",
-      "publishedAt": "2025-07-26T04:53:42Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "technology",
-      "category_chinese": "科技创新",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:53:42+08:00",
-        "formatted": "2025年07月26日 12:53",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:53:42+08:00",
-      "localized_summary": {
-        "title": "Meta names ChatGPT co-creator as chief scientist of Superintelligence Lab",
-        "description": "Meta has been offering some of Silicon Valley's most lucrative pay packages and striking startup deals to attract top researchers",
-        "category": "AI科技",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:53:39",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "1eec24b86157",
-      "title": "1,200 more drivers caught out by new Midlands 'smart' AI speed cameras",
-      "description": "The cameras used advance technology to help them catch speeding motorists",
-      "content": "1,200 more drivers caught out by new Midlands 'smart' AI speed cameras\nThe cameras used advance technology to help them catch speeding motorists\n(Image: Pete Stonier / Stoke Sentinel)\nOver 1,200 more speeding drivers have been caught by new digital c... [2120 chars]",
-      "url": "https://www.birminghammail.co.uk/black-country/1200-more-drivers-caught-out-32119343",
-      "image": "https://i2-prod.birminghammail.co.uk/article31534047.ece/ALTERNATES/s1200/0_PAS_STO_291223sc_002.jpg",
-      "publishedAt": "2025-07-26T04:39:00Z",
-      "source": {
-        "id": "cc0de8416f75329df7c88d7524745d12",
-        "name": "Birmingham Live",
-        "url": "https://www.birminghammail.co.uk"
-      },
-      "category": "technology",
-      "category_chinese": "科技创新",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:39:00+08:00",
-        "formatted": "2025年07月26日 12:39",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:39:00+08:00",
-      "localized_summary": {
-        "title": "1,200 more drivers caught out by new Midlands 'smart' AI speed cameras",
-        "description": "The cameras used advance technology to help them catch speeding motorists",
-        "category": "AI科技",
-        "source": "Birmingham Live",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:53:49",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "027a2044e9af",
-      "title": "Microsoft probing if Chinese hackers learned SharePoint flaws through alert: Reports",
-      "description": "The tech giant is probing if a leak from the Microsoft Active Protections Program (MAPP) led to the widespread exploitation of vulnerabilities in its SharePoint software globally over the past several days",
-      "content": "Microsoft is investigating whether a leak from its early alert system for cybersecurity companies allowed Chinese hackers to exploit flaws in its SharePoint service before they were patched, Bloomberg News reported on Friday. A security patch Microso... [3086 chars]",
-      "url": "https://indianexpress.com/article/technology/microsoft-probing-if-chinese-hackers-learned-sharepoint-flaws-through-alert-bloomberg-news-reports-10150580/",
-      "image": "https://images.indianexpress.com/2025/07/Image-19-1.jpg",
-      "publishedAt": "2025-07-26T04:36:33Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "technology",
-      "category_chinese": "科技创新",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:36:33+08:00",
-        "formatted": "2025年07月26日 12:36",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:36:33+08:00",
-      "localized_summary": {
-        "title": "Microsoft probing if Chinese hackers learned SharePoint flaws through alert: Reports",
-        "description": "The tech giant is probing if a leak from the Microsoft Active Protections Program (MAPP) led to the widespread exploitation of vulnerabilities in its SharePoint software globally over the past several days",
-        "category": "AI科技",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:53:58",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "bd6d18f69b84",
-      "title": "China’s Premier Li proposes global AI cooperation organisation",
-      "description": "Washington has imposed export restrictions on advanced technology to China, including AI chips and chipmaking equipment.",
-      "content": "China has continued making AI breakthroughs that have drawn close scrutiny from U.S. officials. (Image: Reuters)\nChinese Premier Li Qiang proposed on Saturday establishing a world artificial intelligence cooperation organisation, calling on countries... [349 chars]",
-      "url": "https://indianexpress.com/article/technology/chinas-premier-li-proposes-global-ai-cooperation-organisation-10150558/",
-      "image": "https://images.indianexpress.com/2025/07/Image-41.jpg",
-      "publishedAt": "2025-07-26T04:26:38Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "technology",
-      "category_chinese": "科技创新",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:26:38+08:00",
-        "formatted": "2025年07月26日 12:26",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:26:38+08:00",
-      "localized_summary": {
-        "title": "China’s Premier Li proposes global AI cooperation organisation",
-        "description": "Washington has imposed export restrictions on advanced technology to China, including AI chips and chipmaking equipment.",
-        "category": "AI科技",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:54:08",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "52b78b596961",
-      "title": "Valuing cherished heirlooms: ‘Google can be a good starting point but it’s best to ask a specialist",
-      "description": "Experts say people often have unrealistic expectations when it comes to the value of their jewellery, books and paintings",
-      "content": "Engagement rings are among the items for which valuations are frequently sought. Photograph: iStock\nAuctioneers regularly hear from members of the public seeking their opinion on the value of a piece of jewellery, a painting, a rare book or a piece o... [6434 chars]",
-      "url": "https://www.irishtimes.com/life-style/fine-art-antiques/2025/07/26/valuing-cherished-heirlooms-google-can-be-a-good-starting-point-but-its-a-bit-like-diagnosing-an-illness/",
-      "image": "https://www.irishtimes.com/resizer/v2/KRP7IOABRFENTJVTH6LYYPWGR4.jpg?smart=true&auth=3c8c57e15b9d093284c72d2b175f19daf53a49837064754efb0393c862e1a56b&width=1200&height=630",
-      "publishedAt": "2025-07-26T04:00:00Z",
-      "source": {
-        "id": "dd1d806725f45e4403e75c1bb23b447a",
-        "name": "The Irish Times",
-        "url": "https://www.irishtimes.com"
-      },
-      "category": "technology",
-      "category_chinese": "科技创新",
-      "time_info": {
-        "beijing_time": "2025-07-26 12:00:00+08:00",
-        "formatted": "2025年07月26日 12:00",
-        "relative": "1小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 12:00:00+08:00",
-      "localized_summary": {
-        "title": "Valuing cherished heirlooms: ‘Google can be a good starting point but it’s best to ask a specialist",
-        "description": "Experts say people often have unrealistic expectations when it comes to the value of their jewellery, books and paintings",
-        "category": "AI科技",
-        "source": "The Irish Times",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.93,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:54:18",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "0f6daca551ea",
-      "title": "Apple fans can enjoy deal as watch price drops to £99",
-      "description": "The Apple Watch Series 5 has been given a huge price cut on Wowcher in time for payday",
-      "content": "A new deal on Wowcher has slashed the price of a previously costly Apple device to £99 instead of £249. Apple fans can get more for their money with the refurbished Apple Watch Series 5.\nAlthough an older model in the company's range, it remains a ro... [2604 chars]",
-      "url": "https://www.nottinghampost.com/whats-on/shopping/apple-fans-can-enjoy-deal-10375771",
-      "image": "https://i2-prod.nottinghampost.com/whats-on/shopping/article10375770.ece/ALTERNATES/s1200/0_Appel-Watch.jpg",
-      "publishedAt": "2025-07-26T03:52:00Z",
+      "id": "5f766df93d56",
+      "title": "Nottingham Forest stock take as gaps in Nuno's squad highlight transfer challenge with clock ticking",
+      "description": "Latest Nottingham Forest transfer news as Nuno Espirito Santo's Reds squad in need of summer signings",
+      "content": "Something went wrong, please try again later.\nInvalid email Something went wrong, please try again later.\nSomething went wrong, please try again later.\nThe summer transfer window is proving slow going for Nottingham Forest as they search for new addi... [5717 chars]",
+      "url": "https://www.nottinghampost.com/sport/football/transfer-news/nottingham-forest-transfers-summer-signings-10376182",
+      "image": "https://i2-prod.nottinghampost.com/incoming/article10376232.ece/ALTERNATES/s1200/0_Nottingham-Forest-head-coach-Nuno-Espirito-Santo-against-Monaco.jpg",
+      "publishedAt": "2025-07-27T07:00:00Z",
       "source": {
         "id": "73221d003e50b98b88ddfd23e69d453d",
         "name": "Nottinghamshire Live",
         "url": "https://www.nottinghampost.com"
       },
-      "category": "technology",
-      "category_chinese": "科技创新",
+      "category": "business",
+      "category_chinese": "经济新闻",
       "time_info": {
-        "beijing_time": "2025-07-26 11:52:00+08:00",
-        "formatted": "2025年07月26日 11:52",
-        "relative": "2小时前",
+        "beijing_time": "2025-07-27 15:00:00+08:00",
+        "formatted": "2025年07月27日 15:00",
+        "relative": "5小时前",
         "is_fresh": true,
         "freshness_score": 0.9
       },
-      "beijing_time": "2025-07-26 11:52:00+08:00",
-      "localized_summary": {
-        "title": "Apple fans can enjoy deal as watch price drops to £99",
-        "description": "The Apple Watch Series 5 has been given a huge price cut on Wowcher in time for payday",
-        "category": "AI科技",
-        "source": "Nottinghamshire Live",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 15:00:00+08:00",
+      "ai_translation": {
+        "translated_title": "诺丁汉森林球员名单盘点：努诺的阵容短板凸显转会难题时间紧迫",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.92
+        },
+        "translated_description": "最新诺丁汉森林转会动态：努诺·埃斯皮里图·桑托的红队需要在夏季引援"
       },
-      "freshness_score": 0.93,
+      "localized_summary": {
+        "title": "Nottingham Forest stock take as gaps in Nuno's squad highlight transfer challenge with clock ticking",
+        "description": "Latest Nottingham Forest transfer news as Nuno Espirito Santo's Reds squad in need of summer signings",
+        "category": "经济新闻",
+        "source": "Nottinghamshire Live",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.8945000000000001,
       "ai_commentary": {
         "success": false,
         "commentary": null,
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:54:27",
+        "timestamp": "2025-07-27 20:00:12",
         "word_count": 0,
         "error": "API响应格式错误"
       }
     },
     {
-      "id": "88174fe77216",
-      "title": "Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…",
-      "description": "Wipro founder Azim Premji turns 80. His father, Mohamed Hasham Premji, declined Jinnah's offer to be Pakistan's Finance Minister, choosing to stay in India.",
-      "content": "Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…\nCurated By :\nTrending Desk\nLast Updated: July 26, 2025, 09:28 IST\nAzim Premji’s father, Mohamed Hasham Premji, founded Western India Products Ltd in 1945. ... [3425 chars]",
-      "url": "https://www.news18.com/viral/wipro-azim-premji-father-rejected-jinnah-offer-pakistan-first-finance-minister-ws-l-aa-aa-aa-9463766.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-26T092750.166-2025-07-b2b744e521965f82b6a4cf628610fde9-16x9.jpg",
-      "publishedAt": "2025-07-26T03:58:10Z",
+      "id": "df8d5d84f9a4",
+      "title": "Another High-End Chinese GPU Emerges Online - Moore Threads MTT S90 Reportedly Outperforms NVIDIA GeForce RTX 4060 With Solid Gaming Performance",
+      "description": "China's GPU industry has been making massive strides in recent days, and now, the Moore Threads S90 gaming GPU has been tested.",
+      "content": "The Chinese GPU industry has been making massive strides in recent days, and now, the Moore Threads S90 gaming GPU has been tested, revealing performance competitive with NVIDIA's mainstream offerings.\nMoore Threads MTT S90 Beats Out NVIDIA's RTX 406... [2748 chars]",
+      "url": "https://wccftech.com/another-chinese-gpu-emerges-online-moore-threads-mtt-s90-reportedly-outperforms-rtx-4060/",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2024/08/Moore-Threads-MTT-S50-GPU-_3.png",
+      "publishedAt": "2025-07-27T11:13:30Z",
       "source": {
-        "id": "ca84296ef941bfa461f4239a2290cb99",
-        "name": "News18",
-        "url": "https://www.news18.com"
+        "id": "9a68172fefded1b86fc9a95d43faf501",
+        "name": "Wccftech",
+        "url": "https://wccftech.com"
       },
-      "category": "business",
-      "category_chinese": "经济新闻",
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
       "time_info": {
-        "beijing_time": "2025-07-26 11:58:10+08:00",
-        "formatted": "2025年07月26日 11:58",
+        "beijing_time": "2025-07-27 19:13:30+08:00",
+        "formatted": "2025年07月27日 19:13",
         "relative": "1小时前",
         "is_fresh": true,
         "freshness_score": 0.9
       },
-      "beijing_time": "2025-07-26 11:58:10+08:00",
-      "localized_summary": {
-        "title": "Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…",
-        "description": "Wipro founder Azim Premji turns 80. His father, Mohamed Hasham Premji, declined Jinnah's offer to be Pakistan's Finance Minister, choosing to stay in India.",
-        "category": "经济新闻",
-        "source": "News18",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 19:13:30+08:00",
+      "ai_translation": {
+        "translated_title": "又一款高端国产GPU上线——据传Moore Threads MTT S90在游戏性能方面超越NVIDIA GeForce RTX 4060",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "中国GPU产业近日取得了重大进展，现在，Moore Threads S90游戏GPU已经通过了测试。"
       },
-      "freshness_score": 0.91,
+      "localized_summary": {
+        "title": "Another High-End Chinese GPU Emerges Online - Moore Threads MTT S90 Reportedly Outperforms NVIDIA GeForce RTX 4060 With Solid Gaming Performance",
+        "description": "China's GPU industry has been making massive strides in recent days, and now, the Moore Threads S90 gaming GPU has been tested.",
+        "category": "游戏资讯",
+        "source": "Wccftech",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.882,
       "ai_commentary": {
-        "success": false,
-        "commentary": null,
+        "success": true,
+        "commentary": "1. 重要性和影响：这标志着中国GPU技术的显著进步，可能打破国际技术垄断，提升国内游戏和计算市场的竞争力。\n2. 技术或商业层面：MTT S90在性能上超越NVIDIA RTX 4060，显示了中国在高端GPU研发上的实力，可能吸引更多客户转向国产GPU。\n3. 对行业或用户的意义：此举将促进GPU市场的多元化，为用户提供更多选择，提高产品质量和降低价格。\n4. 未来发展趋势预测：预计未来中国GPU市场将加速发展，国际大厂可能会加强市场布局以应对竞争。",
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:51:33",
-        "word_count": 0,
-        "error": "API响应格式错误"
+        "timestamp": "2025-07-27 19:46:31",
+        "word_count": 229,
+        "error": null
       }
     },
     {
-      "id": "caf9d7bc77d7",
-      "title": "Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…",
-      "description": "Wipro founder Azim Premji turns 80. His father, Mohamed Hasham Premji, declined Jinnah's offer to be Pakistan's Finance Minister, choosing to stay in India.",
-      "content": "Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…\nCurated By :\nTrending Desk\nLast Updated: July 26, 2025, 09:00 IST\nAzim Premji’s father, Mohamed Hasham Premji, founded Western India Products Ltd in 1945. ... [3425 chars]",
-      "url": "https://www.news18.com/viral/wipro-azim-premji-father-rejected-jinnah-offer-pakistan-first-finance-minister-ws-l-aa-aa-9463766.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/07/Untitled-design-2025-07-25T175614.600-2025-07-d1ae20a3f02af5e5bc5274ace973b10b-16x9.jpg",
-      "publishedAt": "2025-07-26T03:30:57Z",
+      "id": "bd77dba6c986",
+      "title": "PAGCOR sends over P30-m worth of aid to typhoon victims",
+      "description": "The Philippine Amusement and Gaming Corporation (PAGCOR) has distributed food and non-food relief items worth P30.41-million to communities affected by",
+      "content": "The Philippine Amusement and Gaming Corporation (PAGCOR) has distributed food and non-food relief items worth P30.41-million to communities affected by heavy rains and flooding in various parts of the country.\nAccording to PAGCOR, a total of 33,250 r... [1644 chars]",
+      "url": "https://manilastandard.net/news/314621916/pagcor-sends-over-p30-m-worth-of-aid-to-typhoon-victims.html",
+      "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/07/pagcor-pr-photo-typhoon-relief.jpeg",
+      "publishedAt": "2025-07-27T06:46:29Z",
       "source": {
-        "id": "ca84296ef941bfa461f4239a2290cb99",
-        "name": "News18",
-        "url": "https://www.news18.com"
+        "id": "e9207083a357fb7e76b38e485888ebe7",
+        "name": "manilastandard.net",
+        "url": "https://manilastandard.net"
       },
-      "category": "business",
-      "category_chinese": "经济新闻",
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
       "time_info": {
-        "beijing_time": "2025-07-26 11:30:57+08:00",
-        "formatted": "2025年07月26日 11:30",
+        "beijing_time": "2025-07-27 14:46:29+08:00",
+        "formatted": "2025年07月27日 14:46",
+        "relative": "5小时前",
+        "is_fresh": true,
+        "freshness_score": 0.9
+      },
+      "beijing_time": "2025-07-27 14:46:29+08:00",
+      "ai_translation": {
+        "translated_title": "PAGCOR 向台风受害者捐赠价值 3000 万比索的援助",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "菲律宾娱乐和赌博公司（PAGCOR）已向受疫情影响的社区分发了价值3041万比索的食品和非食品救济物资。"
+      },
+      "localized_summary": {
+        "title": "PAGCOR sends over P30-m worth of aid to typhoon victims",
+        "description": "The Philippine Amusement and Gaming Corporation (PAGCOR) has distributed food and non-food relief items worth P30.41-million to communities affected by",
+        "category": "游戏资讯",
+        "source": "manilastandard.net",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.882,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **新闻的重要性和影响**：PAGCOR的援助行动体现了企业社会责任，对受灾社区具有直接的经济和心理支持作用，有助于缓解灾害带来的负面影响。\n\n2. **技术或商业层面的分析**：PAGCOR利用自身的资源和渠道进行快速响应，展现了良好的危机管理能力。这种做法不仅提升了企业的社会形象，也可能增强其品牌忠诚度。\n\n3. **对行业或用户的意义**：此举树立了行业典范，鼓励其他企业和组织效仿，共同参与到社会救助中来。同时，也提醒相关企业关注社会责任，提升公众形象。\n\n4. **未来发展趋势预测**：预计未来会有更多企业将社会责任融入日常运营中，通过数字化手段更高效地进行援助工作，同时增强与公众的互动，提升透明度和信任度。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:47:45",
+        "word_count": 315,
+        "error": null
+      }
+    },
+    {
+      "id": "d00da9518e54",
+      "title": "A jack of all trades",
+      "description": "Dell's 32 Plus QD-OLED ditches the gaming aesthetic for a multimedia focus, and it's succeeds on most fronts.",
+      "content": "It's not easy to find Dell's 32 Plus 4K QD-OLED monitor. Unless you're talking about the world of TVs, OLED, and especially QD-OLED, is synonymous with PC gaming. The first OLED monitors were gaming monitors, and they've continued to focus almost exc... [11764 chars]",
+      "url": "https://www.xda-developers.com/dell-32-plus-4k-qd-oled-review/",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/dell-32-plus-qd-oled-review-04.jpg",
+      "publishedAt": "2025-07-27T10:00:20Z",
+      "source": {
+        "id": "891063cd06eaab8a5cf530418fb4c0be",
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-27 18:00:20+08:00",
+        "formatted": "2025年07月27日 18:00",
         "relative": "2小时前",
         "is_fresh": true,
         "freshness_score": 0.9
       },
-      "beijing_time": "2025-07-26 11:30:57+08:00",
-      "localized_summary": {
-        "title": "Gujarati Bizman Rejected Jinnah’s Offer To Become Pakistan’s 1st Finance Minister. His Son Is…",
-        "description": "Wipro founder Azim Premji turns 80. His father, Mohamed Hasham Premji, declined Jinnah's offer to be Pakistan's Finance Minister, choosing to stay in India.",
-        "category": "经济新闻",
-        "source": "News18",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 18:00:20+08:00",
+      "ai_translation": {
+        "translated_title": "一专多能者",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.92
+        },
+        "translated_description": "戴尔的32 Plus QD-OLED放弃了游戏风格，转向多媒体重点，总体来说表现不错。"
       },
-      "freshness_score": 0.91,
+      "localized_summary": {
+        "title": "A jack of all trades",
+        "description": "Dell's 32 Plus QD-OLED ditches the gaming aesthetic for a multimedia focus, and it's succeeds on most fronts.",
+        "category": "游戏资讯",
+        "source": "XDA Developers",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.8745,
       "ai_commentary": {
-        "success": false,
-        "commentary": null,
+        "success": true,
+        "commentary": "1. **重要性和影响**：这篇新闻揭示了Dell 32 Plus 4K QD-OLED显示器在PC游戏市场中的独特地位，凸显了其在高端显示器领域的稀缺性和独特性。\n\n2. **技术或商业层面分析**：QD-OLED技术结合了OLED的色彩优势和QLED的寿命优势，为高端显示器市场带来了新的突破。然而，其高昂的成本和生产难度限制了市场的普及。\n\n3. **对行业或用户的意义**：对于PC游戏用户而言，这款显示器提供了卓越的画质体验和色彩表现，满足了高端玩家的需求。但对于普通消费者，高昂的价格可能使其难以触及。\n\n4. **未来发展趋势预测**：随着技术的进步和生产规模的扩大，QD-OLED显示器有望在未来降低价格，吸引更多消费者关注，推动市场进一步发展。",
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:51:43",
-        "word_count": 0,
-        "error": "API响应格式错误"
+        "timestamp": "2025-07-27 19:47:18",
+        "word_count": 331,
+        "error": null
       }
     },
     {
-      "id": "7a9bea009aef",
-      "title": "Paschal Donohoe on books that advise how to run our economies and save the planet",
-      "description": "The Minister for Finance on Nature Capital: The Value of the World Around Us by Partha Dasgupta and Slow Down or Die: The Economics of Degrowth by Timothée Parrique, translated by Claire Benoit",
-      "content": "A member of the Mothers Rise Up climate action group carry a giant melting planet ice cream cone outside of Downing Street in London earlier this month. Photograph: Ben Montgomery/Getty Images\nSlow Down or Die: The Economics of Degrowth Author : Timo... [10826 chars]",
-      "url": "https://www.irishtimes.com/culture/books/review/2025/07/23/paschal-donohoe-reviews-books-that-can-help-us-rebuild-a-consensus-on-how-to-run-our-economies-and-preserve-the-planet/",
-      "image": "https://www.irishtimes.com/resizer/v2/SDRBIIFIZE5543N6ULYAEJZ3VI.jpg?smart=true&auth=189ec4d298b975013669a88cced52d0ddf3b46b3497df2fbc4075045394bd6a5&width=1200&height=630",
-      "publishedAt": "2025-07-26T03:28:00Z",
+      "id": "8f6643fab923",
+      "title": "Tracing the real people in Brian Friel’s ‘first great Irish play’",
+      "description": "'Stock characters' in Philadelphia, Here I Come! were not only familiar Irish small-town figures, but inspired by real people",
+      "content": "Brian Friel had a healthy suspicion of journalists. A reporter once described how, when asked to reflect on the success of one of his plays, he did “a touching impersonation of an opossum playing dead at the approach of danger”.\nStill, in February 19... [11424 chars]",
+      "url": "https://www.irishtimes.com/culture/stage/2025/07/27/tracing-the-real-people-in-brian-friels-first-great-irish-play/",
+      "image": "https://www.irishtimes.com/resizer/v2/2OTE6GZXMZOIBGMNTEWKHN67QU.jpg?smart=true&auth=41940c21878c0f1589f01b0afb0cf13b106b26b090220facab2992270a46ee2c&width=1200&height=630",
+      "publishedAt": "2025-07-27T05:00:00Z",
       "source": {
         "id": "dd1d806725f45e4403e75c1bb23b447a",
         "name": "The Irish Times",
@@ -946,668 +1538,716 @@
       "category": "business",
       "category_chinese": "经济新闻",
       "time_info": {
-        "beijing_time": "2025-07-26 11:28:00+08:00",
-        "formatted": "2025年07月26日 11:28",
-        "relative": "2小时前",
+        "beijing_time": "2025-07-27 13:00:00+08:00",
+        "formatted": "2025年07月27日 13:00",
+        "relative": "7小时前",
         "is_fresh": true,
-        "freshness_score": 0.9
+        "freshness_score": 0.8
       },
-      "beijing_time": "2025-07-26 11:28:00+08:00",
+      "beijing_time": "2025-07-27 13:00:00+08:00",
+      "ai_translation": {
+        "translated_title": "追溯布莱恩·弗利尔的“第一部伟大爱尔兰剧作”中的人物原型",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "《Philadelphia, Here I Come!》中的“老套角色”不仅借鉴了典型的爱尔兰小镇人物形象，还受到了真实人物的启发"
+      },
       "localized_summary": {
-        "title": "Paschal Donohoe on books that advise how to run our economies and save the planet",
-        "description": "The Minister for Finance on Nature Capital: The Value of the World Around Us by Partha Dasgupta and Slow Down or Die: The Economics of Degrowth by Timothée Parrique, translated by Claire Benoit",
+        "title": "Tracing the real people in Brian Friel’s ‘first great Irish play’",
+        "description": "'Stock characters' in Philadelphia, Here I Come! were not only familiar Irish small-town figures, but inspired by real people",
         "category": "经济新闻",
         "source": "The Irish Times",
-        "reading_time": "1分钟"
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
       },
-      "freshness_score": 0.91,
+      "freshness_score": 0.832,
       "ai_commentary": {
-        "success": false,
-        "commentary": null,
+        "success": true,
+        "commentary": "1. **新闻的重要性和影响**：这篇报道揭示了Brian Friel在创作《第一部伟大爱尔兰剧作》时对真实人物的深刻描绘，反映了剧作家对社会现实的关注和批判精神，具有重要的文学价值和社会意义。\n\n2. **技术或商业层面的分析**：虽然新闻未直接涉及技术或商业内容，但从剧作创作的角度来看，了解剧作家如何将现实人物融入作品，可以为编剧提供创作灵感，提高剧本的真实感和吸引力。\n\n3. **对行业或用户的意义**：此报道为戏剧爱好者和研究者提供了深入了解剧作家创作背景的机会，有助于更全面地理解剧作的内涵。对于剧作家和编剧而言，这是一次学习如何将现实与艺术相结合的宝贵案例。\n\n4. **未来发展趋势预测**：随着虚拟现实和增强现实技术的发展，未来戏剧创作可能会更加注重现实与虚拟的融合，这种趋势将为观众带来更丰富的沉浸式体验。",
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:51:53",
-        "word_count": 0,
-        "error": "API响应格式错误"
+        "timestamp": "2025-07-27 20:07:10",
+        "word_count": 364,
+        "error": null
       }
     },
     {
-      "id": "290e1f4d9cc9",
-      "title": "1 Dividend King Down 17% Is My Top Value Pick",
-      "description": "Canadian Natural stock may be off 17%, but its solid fundamentals and rising dividends make it an attractive buy right now.",
-      "content": "Canadian Natural stock may be off 17%, but its solid fundamentals and rising dividends make it an attractive buy right now.\nDividend investing mainly requires patience, and sometimes, that patience gets tested. That’s exactly what’s happening with Ca... [3405 chars]",
-      "url": "https://www.fool.ca/2025/07/25/1-dividend-king-down-17-is-my-top-value-pick/",
-      "image": "https://www.fool.ca/wp-content/uploads/2024/06/GettyImages-531175920-1200x798.jpg",
-      "publishedAt": "2025-07-26T01:45:00Z",
-      "source": {
-        "id": "19d1f502a5658ccbfaaa50f77b89993f",
-        "name": "The Motley Fool Canada",
-        "url": "https://www.fool.ca"
-      },
-      "category": "business",
-      "category_chinese": "经济新闻",
-      "time_info": {
-        "beijing_time": "2025-07-26 09:45:00+08:00",
-        "formatted": "2025年07月26日 09:45",
-        "relative": "4小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 09:45:00+08:00",
-      "localized_summary": {
-        "title": "1 Dividend King Down 17% Is My Top Value Pick",
-        "description": "Canadian Natural stock may be off 17%, but its solid fundamentals and rising dividends make it an attractive buy right now.",
-        "category": "经济新闻",
-        "source": "The Motley Fool Canada",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.91,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:52:03",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "2176995148ee",
-      "title": "Taurus Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-      "description": "Taurus Horoscope Today, 26 July 2025: Today's Taurus horoscope tells about your career growth and financial success.",
-      "content": "Taurus Horoscope Prediction Today, 26 July 2025: Family matters dominate the day, with discussions focused on resolving key domestic issues. This engagement will feel both productive and emotionally fulfilling. Ganesha sees potential career openings ... [1514 chars]",
-      "url": "https://indianexpress.com/article/horoscope/taurus-horoscope-today-26-july-2025-daily-astrology-prediction-for-taurus-career-finance-money-love-10148047/",
-      "image": "https://images.indianexpress.com/2024/05/Taurus-2.jpg",
-      "publishedAt": "2025-07-26T01:42:35Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "business",
-      "category_chinese": "经济新闻",
-      "time_info": {
-        "beijing_time": "2025-07-26 09:42:35+08:00",
-        "formatted": "2025年07月26日 09:42",
-        "relative": "4小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 09:42:35+08:00",
-      "localized_summary": {
-        "title": "Taurus Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-        "description": "Taurus Horoscope Today, 26 July 2025: Today's Taurus horoscope tells about your career growth and financial success.",
-        "category": "经济新闻",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.91,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:52:12",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "9ec78d5300ba",
-      "title": "Gemini Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-      "description": "Gemini Horoscope Today, 26 July 2025: Today's Gemini horoscope tells about your career growth and financial success.",
-      "content": "Gemini Horoscope Prediction Today, 26 July 2025: Today brings a balance of logic and emotion, with your charm and intelligence winning admiration. Academic pursuits shine, and your ability to blend rationality with sensitivity sets you apart. As even... [1492 chars]",
-      "url": "https://indianexpress.com/article/horoscope/gemini-horoscope-today-26-july-2025-daily-astrology-prediction-for-gemini-career-finance-money-love-10148049/",
-      "image": "https://images.indianexpress.com/2024/05/Gemini-2.jpg",
-      "publishedAt": "2025-07-26T01:42:32Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "business",
-      "category_chinese": "经济新闻",
-      "time_info": {
-        "beijing_time": "2025-07-26 09:42:32+08:00",
-        "formatted": "2025年07月26日 09:42",
-        "relative": "4小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 09:42:32+08:00",
-      "localized_summary": {
-        "title": "Gemini Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-        "description": "Gemini Horoscope Today, 26 July 2025: Today's Gemini horoscope tells about your career growth and financial success.",
-        "category": "经济新闻",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.91,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:52:22",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "64bee5ce1545",
-      "title": "Cancer Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-      "description": "Cancer Horoscope Today, 26 July 2025: Today's Cancer horoscope tells about your career growth and financial success.",
-      "content": "Cancer Horoscope Prediction Today, 26 July 2025: Deadlines loom, and a reality check pushes you into action. Ganesha notes that time you once spent complaining about timelines now feels like a luxury you can’t afford. Your productivity depends on enl... [1461 chars]",
-      "url": "https://indianexpress.com/article/horoscope/cancer-horoscope-today-26-july-2025-daily-astrology-prediction-for-cancer-career-finance-money-love-10148051/",
-      "image": "https://images.indianexpress.com/2024/05/Cancer-2.jpg",
-      "publishedAt": "2025-07-26T01:42:28Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "business",
-      "category_chinese": "经济新闻",
-      "time_info": {
-        "beijing_time": "2025-07-26 09:42:28+08:00",
-        "formatted": "2025年07月26日 09:42",
-        "relative": "4小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 09:42:28+08:00",
-      "localized_summary": {
-        "title": "Cancer Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-        "description": "Cancer Horoscope Today, 26 July 2025: Today's Cancer horoscope tells about your career growth and financial success.",
-        "category": "经济新闻",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.91,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:52:32",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "8ad0d87ca91e",
-      "title": "Leo Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-      "description": "Leo Horoscope Today, 26 July 2025: Today's Leo horoscope tells about your career growth and financial success.",
-      "content": "Leo Horoscope Prediction Today, 26 July 2025: Work dominates your day, leaving little room for rest. Ganesha notes that intense focus may even blunt your appetite. Don’t neglect your well-being in the rush. By evening, your mood shifts—expect renewed... [1449 chars]",
-      "url": "https://indianexpress.com/article/horoscope/leo-horoscope-today-26-july-2025-daily-astrology-prediction-for-leo-career-finance-money-love-10148053/",
-      "image": "https://images.indianexpress.com/2024/05/Leo-2.jpg",
-      "publishedAt": "2025-07-26T01:42:25Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "business",
-      "category_chinese": "经济新闻",
-      "time_info": {
-        "beijing_time": "2025-07-26 09:42:25+08:00",
-        "formatted": "2025年07月26日 09:42",
-        "relative": "4小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 09:42:25+08:00",
-      "localized_summary": {
-        "title": "Leo Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-        "description": "Leo Horoscope Today, 26 July 2025: Today's Leo horoscope tells about your career growth and financial success.",
-        "category": "经济新闻",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.91,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:52:41",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "f59a439466f0",
-      "title": "Virgo Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-      "description": "Virgo Horoscope Today, 26 July 2025: Today's Virgo horoscope tells about your career growth and financial success.",
-      "content": "Virgo Horoscope Prediction Today, 26 July 2025: Today, you reveal a generous side not often on display. Selflessness guides your actions, and by evening, the universe reciprocates. Collaborative efforts with a friend or partner begin to show results.... [1429 chars]",
-      "url": "https://indianexpress.com/article/horoscope/virgo-horoscope-today-26-july-2025-daily-astrology-prediction-for-virgo-career-finance-money-love-10148055/",
-      "image": "https://images.indianexpress.com/2024/05/Virgo-2.jpg",
-      "publishedAt": "2025-07-26T01:42:22Z",
-      "source": {
-        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-        "name": "The Indian Express",
-        "url": "https://indianexpress.com"
-      },
-      "category": "business",
-      "category_chinese": "经济新闻",
-      "time_info": {
-        "beijing_time": "2025-07-26 09:42:22+08:00",
-        "formatted": "2025年07月26日 09:42",
-        "relative": "4小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 09:42:22+08:00",
-      "localized_summary": {
-        "title": "Virgo Horoscope Today, 26 July 2025: Discover what stars say about your career, finance and love",
-        "description": "Virgo Horoscope Today, 26 July 2025: Today's Virgo horoscope tells about your career growth and financial success.",
-        "category": "经济新闻",
-        "source": "The Indian Express",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.91,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:52:51",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "9a0a937ebe6b",
-      "title": "8BitDo N64 Bluetooth Controller Launches Next Week For Switch & PC",
-      "description": "8BitDo's modernized Nintendo 64 controller was designed for Analogue 3D, but you can use it to play classic N64 games on Switch Online.",
-      "content": "The 8BitDo 64 Controller is a wireless Bluetooth gamepad that sports all the buttons you'd expect from a device designed to play N64 games but reorganized into a contemporary form factor that resembles the 8BitDo Ultimate Controller series.\nThe rewor... [1671 chars]",
-      "url": "https://www.gamespot.com/articles/8bitdo-n64-bluetooth-controller-launches-next-week-for-switch-pc-analogue-3d/1100-6527185/",
-      "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4387986-analogue-controllers.jpg",
-      "publishedAt": "2025-07-26T02:43:31Z",
-      "source": {
-        "id": "e53736ff18480c9f11f5ff720de4c66a",
-        "name": "GameSpot",
-        "url": "https://www.gamespot.com"
-      },
-      "category": "gaming",
-      "category_chinese": "游戏资讯",
-      "time_info": {
-        "beijing_time": "2025-07-26 10:43:31+08:00",
-        "formatted": "2025年07月26日 10:43",
-        "relative": "3小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 10:43:31+08:00",
-      "localized_summary": {
-        "title": "8BitDo N64 Bluetooth Controller Launches Next Week For Switch & PC",
-        "description": "8BitDo's modernized Nintendo 64 controller was designed for Analogue 3D, but you can use it to play classic N64 games on Switch Online.",
-        "category": "游戏资讯",
-        "source": "GameSpot",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.89,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:49:47",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "147f02e197d3",
-      "title": "Sony is hiring to expand \"PlayStation Studios games beyond PlayStation hardware\" - partners including Xbox, Steam, Nintendo Switch, and more",
-      "description": "Sony is following Microsoft's multiplatform strategy, looking to acquire a bigger third-party publishing footprint across PC and even rival consoles.",
-      "content": "PlayStation and Xbox go head to head, but also collaborate too more than ever.\nOver the past year, Microsoft leapt first into some controversial decisions regarding its first party Xbox games output, putting previously exclusive titles like Forza Hor... [5037 chars]",
-      "url": "https://www.windowscentral.com/gaming/sony-is-hiring-to-expand-playstation-studios-games-beyond-playstation-hardware-including-xbox-steam-nintendo-switch-and-more",
-      "image": "https://cdn.mos.cms.futurecdn.net/5y7DFaPNPFjegunXT482F3.jpg",
-      "publishedAt": "2025-07-26T00:09:01Z",
-      "source": {
-        "id": "15e838c11ec107f2fad197ea48c6cc48",
-        "name": "Windows Central",
-        "url": "https://www.windowscentral.com"
-      },
-      "category": "gaming",
-      "category_chinese": "游戏资讯",
-      "time_info": {
-        "beijing_time": "2025-07-26 08:09:01+08:00",
-        "formatted": "2025年07月26日 08:09",
-        "relative": "5小时前",
-        "is_fresh": true,
-        "freshness_score": 0.9
-      },
-      "beijing_time": "2025-07-26 08:09:01+08:00",
-      "localized_summary": {
-        "title": "Sony is hiring to expand \"PlayStation Studios games beyond PlayStation hardware\" - partners including Xbox, Steam, Nintendo Switch, and more",
-        "description": "Sony is following Microsoft's multiplatform strategy, looking to acquire a bigger third-party publishing footprint across PC and even rival consoles.",
-        "category": "游戏资讯",
-        "source": "Windows Central",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.89,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:49:57",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "f40979f7d446",
-      "title": "GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger",
-      "description": "The GPD Win 5 will house the Ryzen AI Max+ 395 chip, with AMD’s most powerful integrated graphics, inside a PlayStation Vita-shaped machine.",
-      "content": "is a senior editor and founding member of The Verge who covers gadgets, games, and toys. He spent 15 years editing the likes of CNET, Gizmodo, and Engadget.\nYesterday, I mentioned how GPD is teasing the most potent handheld yet made — a GPD Win 5 tha... [2351 chars]",
-      "url": "https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/vlcsnap-2025-07-25-09h10m39s214.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-07-25T23:19:12Z",
-      "source": {
-        "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-        "name": "The Verge",
-        "url": "https://www.theverge.com"
-      },
-      "category": "gaming",
-      "category_chinese": "游戏资讯",
-      "time_info": {
-        "beijing_time": "2025-07-26 07:19:12+08:00",
-        "formatted": "2025年07月26日 07:19",
-        "relative": "6小时前",
-        "is_fresh": true,
-        "freshness_score": 0.8
-      },
-      "beijing_time": "2025-07-26 07:19:12+08:00",
-      "localized_summary": {
-        "title": "GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger",
-        "description": "The GPD Win 5 will house the Ryzen AI Max+ 395 chip, with AMD’s most powerful integrated graphics, inside a PlayStation Vita-shaped machine.",
-        "category": "游戏资讯",
-        "source": "The Verge",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.82,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:50:07",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "41b818689307",
-      "title": "Xbox Game Pass' Oblivion Remastered hits huge milestone - but there's a problem",
-      "description": "One of Xbox's biggest Game Pass hits this year, Oblivion Remastered, just hit a massive milestone. However, \"Mixed\" PC reviews highlight a huge problem with it.",
-      "content": "There have been quite a few great new games made available on Microsoft's widely used subscription service Xbox Game Pass this summer, ranging from Xbox's own DOOM: The Dark Ages to critically acclaimed surprises like Clair Obscur: Expedition 33 and ... [4577 chars]",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-game-pass-oblivion-remastered-hits-huge-milestone-but-theres-a-problem",
-      "image": "https://cdn.mos.cms.futurecdn.net/rAbq9RtrVjaW8yX8qGhCAZ.jpg",
-      "publishedAt": "2025-07-25T21:00:00Z",
-      "source": {
-        "id": "15e838c11ec107f2fad197ea48c6cc48",
-        "name": "Windows Central",
-        "url": "https://www.windowscentral.com"
-      },
-      "category": "gaming",
-      "category_chinese": "游戏资讯",
-      "time_info": {
-        "beijing_time": "2025-07-26 05:00:00+08:00",
-        "formatted": "2025年07月26日 05:00",
-        "relative": "8小时前",
-        "is_fresh": true,
-        "freshness_score": 0.8
-      },
-      "beijing_time": "2025-07-26 05:00:00+08:00",
-      "localized_summary": {
-        "title": "Xbox Game Pass' Oblivion Remastered hits huge milestone - but there's a problem",
-        "description": "One of Xbox's biggest Game Pass hits this year, Oblivion Remastered, just hit a massive milestone. However, \"Mixed\" PC reviews highlight a huge problem with it.",
-        "category": "游戏资讯",
-        "source": "Windows Central",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.82,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:50:16",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "8309e18beb1c",
-      "title": "Frostpunk 2 finally has a console release date for Xbox Series X|S and PS5 - and it's still coming to Xbox Game Pass",
-      "description": "11 bit studios' Frostpunk 2 is finally headed to Xbox Series X|S and PlayStation 5 in September 2025, with the game still launching on Xbox Game Pass.",
-      "content": "11 bit studios' survival city-builder Frostpunk 2 is coming to consoles and has a release date of Sept. 18, 2025, the developer announced on Friday.\nWhile plans for a console version of the game were announced back before the launch of the PC version... [3180 chars]",
-      "url": "https://www.windowscentral.com/gaming/frostpunk-2-console-release-date-september-2025-xbox-game-pass",
-      "image": "https://cdn.mos.cms.futurecdn.net/hfgNa6YFWR7DsgqkGi6vkS.jpg",
-      "publishedAt": "2025-07-25T20:30:00Z",
-      "source": {
-        "id": "15e838c11ec107f2fad197ea48c6cc48",
-        "name": "Windows Central",
-        "url": "https://www.windowscentral.com"
-      },
-      "category": "gaming",
-      "category_chinese": "游戏资讯",
-      "time_info": {
-        "beijing_time": "2025-07-26 04:30:00+08:00",
-        "formatted": "2025年07月26日 04:30",
-        "relative": "9小时前",
-        "is_fresh": true,
-        "freshness_score": 0.8
-      },
-      "beijing_time": "2025-07-26 04:30:00+08:00",
-      "localized_summary": {
-        "title": "Frostpunk 2 finally has a console release date for Xbox Series X|S and PS5 - and it's still coming to Xbox Game Pass",
-        "description": "11 bit studios' Frostpunk 2 is finally headed to Xbox Series X|S and PlayStation 5 in September 2025, with the game still launching on Xbox Game Pass.",
-        "category": "游戏资讯",
-        "source": "Windows Central",
-        "reading_time": "1分钟"
-      },
-      "freshness_score": 0.82,
-      "ai_commentary": {
-        "success": false,
-        "commentary": null,
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:50:26",
-        "word_count": 0,
-        "error": "API响应格式错误"
-      }
-    },
-    {
-      "id": "57bfb373b788",
-      "title": "Regulator zeros in on Bally’s Star rescue deal",
-      "description": "The American giant’s plans to take control of the gaming group will need approval from the NSW casino commission, which has flagged concerns about finances.",
-      "content": "Star Entertainment’s rescue plan could be under threat with the NSW casino regulator warning it will closely examine the finances and leadership of Bally’s Corporation before allowing it to take control.\nThe American gaming giant will control Star, w... [314 chars]",
-      "url": "https://www.afr.com/companies/games-and-wagering/regulator-zeros-in-on-bally-s-star-rescue-deal-20250724-p5mhfi",
-      "image": "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_100/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/761b47e008a2b4b99a9c24eab36ffe452ed51fe2",
-      "publishedAt": "2025-07-25T19:00:00Z",
+      "id": "c956e5f646b8",
+      "title": "Charlie Youakim’s unlikely comeback king of buy now pay later",
+      "description": "Charlie Youakim was always an underdog in the hottest new sector in finance. But after a multitude of near-death experiences, he’s now the top dog.",
+      "content": "It’s the ultimate corporate comeback story. This is a company that was constantly targeted on social media as a worthless sham, abandoned at the altar by its merger partner, and had its price target cut to 1¢ by a research analyst who, like many, bel... [399 chars]",
+      "url": "https://www.afr.com/companies/financial-services/sezzle-sizzles-at-7b-the-unlikely-comeback-king-of-buy-now-pay-later-20250724-p5mhng",
+      "image": "https://static.ffx.io/images/$zoom_0.5972%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_84%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/f3c23485d88758c06281a8ed80d60803e8698bd62d941368191334f780648724",
+      "publishedAt": "2025-07-27T03:48:49Z",
       "source": {
         "id": "9be5b4bbb9f248b07ea426a1fb9ba55c",
         "name": "The Australian Financial Review",
         "url": "https://www.afr.com"
       },
-      "category": "gaming",
-      "category_chinese": "游戏资讯",
+      "category": "business",
+      "category_chinese": "经济新闻",
       "time_info": {
-        "beijing_time": "2025-07-26 03:00:00+08:00",
-        "formatted": "2025年07月26日 03:00",
+        "beijing_time": "2025-07-27 11:48:49+08:00",
+        "formatted": "2025年07月27日 11:48",
+        "relative": "8小时前",
+        "is_fresh": true,
+        "freshness_score": 0.8
+      },
+      "beijing_time": "2025-07-27 11:48:49+08:00",
+      "ai_translation": {
+        "translated_title": "Charlie Youakim的买现在付后来的意外归来之王",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "查理·尤阿基姆在金融领域最炙手可热的新领域中始终是个 outsiders。但经历了多次濒临绝境的经历后，他如今成了行业的领头羊。"
+      },
+      "localized_summary": {
+        "title": "Charlie Youakim’s unlikely comeback king of buy now pay later",
+        "description": "Charlie Youakim was always an underdog in the hottest new sector in finance. But after a multitude of near-death experiences, he’s now the top dog.",
+        "category": "经济新闻",
+        "source": "The Australian Financial Review",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.832,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. 重要性和影响：Charlie Youakim领导的BNPL（买现在付后来）公司逆袭的故事极具戏剧性，展示了市场情绪的快速转变和企业韧性的重要性。\n\n2. 技术或商业层面：BNPL技术在疫情期间迅速普及，但该公司的成功在于精准的市场定位和用户信任的重建。商业上，它克服了合作伙伴退出和股价被严重低估的挑战。\n\n3. 对行业或用户意义：此次逆袭为BNPL行业注入信心，证明了该模式的长期潜力。对用户而言，它展示了消费者信贷服务的多样性和灵活性。\n\n4. 未来发展趋势预测：预计BNPL将继续增长，但需更加注重风险管理和用户教育，以确保可持续发展。市场可能更加集中，但仍有机会在细分市场脱颖而出。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:07:47",
+        "word_count": 298,
+        "error": null
+      }
+    },
+    {
+      "id": "ae593aff531f",
+      "title": "Dividend, Bonus, and Stock Split Announcements: July 28 - August 2",
+      "description": "Wipro, Maruti Suzuki, Bosch, Hawkins, CRISIL, and DLF announce dividends and corporate actions. Hold shares by record dates to benefit.",
+      "content": "Big Firms Reveal Dividends, Stock Splits, and Bonuses This Week\nReported By :\nNews18.com\nLast Updated: July 27, 2025, 09:18 IST\nUpcoming Dividend, Bonus and Split: Wipro, Maruti, Bosch, Hawkins lead key dividend actions this week (Jul 28–Aug 2)\nUpcom... [10863 chars]",
+      "url": "https://www.news18.com/business/markets/big-firms-reveal-dividends-stock-splits-and-bonuses-this-week-ws-l-9466302.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/06/dividend-splits-2025-06-b9f5c1743a5c95206b9a5b93090ec371.png",
+      "publishedAt": "2025-07-27T03:48:13Z",
+      "source": {
+        "id": "ca84296ef941bfa461f4239a2290cb99",
+        "name": "News18",
+        "url": "https://www.news18.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-27 11:48:13+08:00",
+        "formatted": "2025年07月27日 11:48",
+        "relative": "8小时前",
+        "is_fresh": true,
+        "freshness_score": 0.8
+      },
+      "beijing_time": "2025-07-27 11:48:13+08:00",
+      "ai_translation": {
+        "translated_title": "分红、派息及股票拆分公告：7月28日至8月2日",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "惠普公司、马鲁蒂铃木、博世、霍金斯、CRISIL 和 DLF 宣布派发股息和公司行动。在登记日持有股票即可受益。"
+      },
+      "localized_summary": {
+        "title": "Dividend, Bonus, and Stock Split Announcements: July 28 - August 2",
+        "description": "Wipro, Maruti Suzuki, Bosch, Hawkins, CRISIL, and DLF announce dividends and corporate actions. Hold shares by record dates to benefit.",
+        "category": "经济新闻",
+        "source": "News18",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.832,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：本周多家知名企业宣布分红、股票拆分和奖金计划，对投资者决策有直接影响。\n2. **技术或商业层面分析**：这些措施有助于提升公司股价流动性，增强股东信心。例如，股票拆分能吸引更多小额投资者。\n3. **对行业或用户的意义**：对于投资者而言，这提供了参与公司成长的机会；对于消费者，可能预示着产品或服务的潜在改进。\n4. **未来发展趋势预测**：随着市场对分红和股票拆分的持续关注，预计更多企业将采取此类策略以增强市场吸引力。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:08:29",
+        "word_count": 228,
+        "error": null
+      }
+    },
+    {
+      "id": "cb855dc0ce51",
+      "title": "Sagittarius Horoscope Today, 27 July 2025: Discover what stars say about your career, finance and love",
+      "description": "Sagittarius Horoscope Today, 27 July 2025: Today's Sagittarius horoscope tells about your career growth and financial success.",
+      "content": "Sagittarius Horoscope Prediction Today, 27 July 2025: Your multitasking abilities take the spotlight today. Ganesha suggests trusting your instincts—they’ll guide you through complex decisions. Though challenges may arise, your bold spirit welcomes t... [1628 chars]",
+      "url": "https://indianexpress.com/article/horoscope/sagittarius-horoscope-today-27-july-2025-daily-astrology-prediction-for-sagittarius-career-finance-money-love-10150378/",
+      "image": "https://images.indianexpress.com/2024/05/Sagittarius-3.jpg",
+      "publishedAt": "2025-07-27T01:46:25Z",
+      "source": {
+        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-27 09:46:25+08:00",
+        "formatted": "2025年07月27日 09:46",
         "relative": "10小时前",
         "is_fresh": true,
         "freshness_score": 0.8
       },
-      "beijing_time": "2025-07-26 03:00:00+08:00",
-      "localized_summary": {
-        "title": "Regulator zeros in on Bally’s Star rescue deal",
-        "description": "The American giant’s plans to take control of the gaming group will need approval from the NSW casino commission, which has flagged concerns about finances.",
-        "category": "游戏资讯",
-        "source": "The Australian Financial Review",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 09:46:25+08:00",
+      "ai_translation": {
+        "translated_title": "射手座今日 horoscope：探索星辰对你事业、财务和爱情的预示",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "射手座今日 horoscope（注：horoscope 在中文新闻中通常翻译为“星象”或直接音译为“ horoscope”）：2025年7月27日的射手座星象预示着你的职业发展和财务成功。"
       },
-      "freshness_score": 0.82,
+      "localized_summary": {
+        "title": "Sagittarius Horoscope Today, 27 July 2025: Discover what stars say about your career, finance and love",
+        "description": "Sagittarius Horoscope Today, 27 July 2025: Today's Sagittarius horoscope tells about your career growth and financial success.",
+        "category": "经济新闻",
+        "source": "The Indian Express",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.832,
       "ai_commentary": {
-        "success": false,
-        "commentary": null,
+        "success": true,
+        "commentary": "1. 新闻重要性：这篇关于射手座今日星象的预测虽具娱乐性质，但对占星爱好者有一定参考价值，但对科技新闻读者影响有限。\n2. 技术或商业层面：无直接关联，占星学并非基于科学原理，缺乏技术或商业应用基础。\n3. 对行业或用户意义：对占星学从业者或爱好者可能提供心理安慰或决策参考，但对科技行业用户无实际意义。\n4. 未来发展趋势：占星学在科学界的权威性依然存疑，但作为一种文化现象，它可能会继续吸引特定群体的关注。科技与占星学的结合点可能仅限于娱乐或个性化服务，如基于大数据的占星应用。",
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:50:35",
-        "word_count": 0,
-        "error": "API响应格式错误"
+        "timestamp": "2025-07-27 20:10:57",
+        "word_count": 241,
+        "error": null
       }
     },
     {
-      "id": "2967bba265f4",
-      "title": "You can now easily buy a Switch 2 without jumping through hoops",
-      "description": "The Nintendo Switch is the fastest-selling console in US history, and has repeatedly sold out. It’s now staying in stock much longer at stores.",
-      "content": "Perhaps we’ve been thinking the same thing, you and I. That there won’t be a long-standing drought of Nintendo Switch 2 availability after all. The console has been easy to buy online from several retailers this week, including Best Buy, Target, and ... [1826 chars]",
-      "url": "https://www.theverge.com/tech/713828/nintendo-switch-in-stock-best-buy-amazon-target-walmart",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-07-25T18:00:00Z",
+      "id": "22c264da37db",
+      "title": "Trump calls for prosecution of Kamala Harris, celebrities over ‘totally Illegal’ 2024 endorsements",
+      "description": "The US president alleged that the Democrats used campaign funds to buy endorsements from high-profile public figures, in violation of campaign finance laws.",
+      "content": "US President Donald Trump has demanded that Kamala Harris and several top American celebrities be prosecuted for allegedly receiving and paying millions of dollars in what he called “totally illegal” endorsements during the 2024 presidential election... [1586 chars]",
+      "url": "https://indianexpress.com/article/world/trump-prosecution-kamala-harris-illegal-endorsements-10152367/",
+      "image": "https://images.indianexpress.com/2025/07/Trump-Harris.jpg",
+      "publishedAt": "2025-07-27T05:58:15Z",
       "source": {
-        "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-        "name": "The Verge",
-        "url": "https://www.theverge.com"
+        "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-27 13:58:15+08:00",
+        "formatted": "2025年07月27日 13:58",
+        "relative": "6小时前",
+        "is_fresh": true,
+        "freshness_score": 0.8
+      },
+      "beijing_time": "2025-07-27 13:58:15+08:00",
+      "ai_translation": {
+        "translated_title": "特朗普呼吁对哈里斯和名人因“完全非法”的2024年竞选背书进行起诉",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.77
+        },
+        "translated_description": "美国总统指控民主党使用竞选资金购买知名公众人物的支持，违反了竞选财务法律。"
+      },
+      "localized_summary": {
+        "title": "Trump calls for prosecution of Kamala Harris, celebrities over ‘totally Illegal’ 2024 endorsements",
+        "description": "The US president alleged that the Democrats used campaign funds to buy endorsements from high-profile public figures, in violation of campaign finance laws.",
+        "category": "经济新闻",
+        "source": "The Indian Express",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.845,
+          "text": "良好",
+          "detail": "翻译较为准确，偶有小瑕疵，整体质量良好",
+          "color": "#059669",
+          "percentage": "84%"
+        }
+      },
+      "freshness_score": 0.8245,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **新闻的重要性和影响**：特朗普的这一声明可能引发2024年美国总统选举的法律争议，增加选举不确定性。它也可能影响公众对选举过程的信任。\n\n2. **技术或商业层面的分析**：尽管特朗普的指控缺乏具体证据，但其言论可能促使社交媒体平台加强选举期间的广告审核，以防止类似行为。\n\n3. **对行业或用户的意义**：此事件可能促使品牌和明星更加谨慎处理政治相关广告，以避免法律风险。同时，公众对名人和政治人物的商业行为的关注度可能上升。\n\n4. **未来发展趋势预测**：未来选举期间，法律和监管机构可能加强对政治广告的审查，以确保公平竞争和透明度。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:05:13",
+        "word_count": 277,
+        "error": null
+      }
+    },
+    {
+      "id": "7c232abfaeb0",
+      "title": "What Does Drive Size Mean For Tool Sockets & How Does The Size Itself Matter?",
+      "description": "If you're going to stock up on tool sockets or you need one for a job, you'll need to make sure you understand what the drive size for the sockets are.",
+      "content": "Tools come in a virtually unlimited number of different shapes, sizes, and applications. If you work in the trades or are a hardcore DIY enthusiast, you probably know that a big part of performing any given task properly and efficiently involves sele... [1389 chars]",
+      "url": "https://www.slashgear.com/1920316/tool-sockets-drive-size-meaning-does-size-matter-explained/",
+      "image": "https://www.slashgear.com/img/gallery/what-does-drive-size-mean-for-tool-sockets-how-does-the-size-itself-matter/l-intro-1753298653.jpg",
+      "publishedAt": "2025-07-27T02:15:00Z",
+      "source": {
+        "id": "ca35c66a2b26e8274365e937357cf9c5",
+        "name": "SlashGear",
+        "url": "https://www.slashgear.com"
+      },
+      "category": "business",
+      "category_chinese": "经济新闻",
+      "time_info": {
+        "beijing_time": "2025-07-27 10:15:00+08:00",
+        "formatted": "2025年07月27日 10:15",
+        "relative": "10小时前",
+        "is_fresh": true,
+        "freshness_score": 0.8
+      },
+      "beijing_time": "2025-07-27 10:15:00+08:00",
+      "ai_translation": {
+        "translated_title": "工具套筒的尺寸意味着什么？尺寸本身又为何重要？",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.77,
+          "description": 0.77
+        },
+        "translated_description": "如果你打算购买扳手套筒或工作需要一个套筒，你必须确保了解套筒的驱动尺寸。"
+      },
+      "localized_summary": {
+        "title": "What Does Drive Size Mean For Tool Sockets & How Does The Size Itself Matter?",
+        "description": "If you're going to stock up on tool sockets or you need one for a job, you'll need to make sure you understand what the drive size for the sockets are.",
+        "category": "经济新闻",
+        "source": "SlashGear",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.77,
+          "text": "一般",
+          "detail": "翻译基本准确，可能存在一些表达不够自然的地方",
+          "color": "#F59E0B",
+          "percentage": "77%"
+        }
+      },
+      "freshness_score": 0.817,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这篇新闻揭示了工具尺寸对使用效率和安全性的重要性，对于专业技工和DIY爱好者尤为重要。\n2. **技术或商业层面分析**：合适的工具尺寸直接影响工作效率和产品品质，因此，制造商需注重工具尺寸的精准设计和标准化，以满足不同用户需求。\n3. **对行业或用户的意义**：正确选择工具尺寸不仅提升工作质量，还能减少工具损坏和安全事故。对用户而言，合理选购工具可显著提升DIY或施工效率。\n4. **未来发展趋势预测**：随着智能工具的普及，未来工具尺寸的匹配将更加智能化，通过数据和算法实现个性化推荐，进一步提高用户体验和效率。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 20:08:55",
+        "word_count": 275,
+        "error": null
+      }
+    },
+    {
+      "id": "4c833f9b3733",
+      "title": "DigiPlus says operations strong despite regulatory concerns, share drop",
+      "description": "Online gaming operator DigiPlus Interactive Corp said its operations remain strong and user interest is \"as usual,\" despite regulatory headwinds and a",
+      "content": "Online gaming operator DigiPlus Interactive Corp said its operations remain strong and user interest is “as usual,” despite regulatory headwinds and a recent drop in its share price.\nDigiPlus chairman Eusebio Tanco told a recent news briefing that he... [2068 chars]",
+      "url": "https://manilastandard.net/business/314621877/digiplus-says-operations-strong-despite-regulatory-concerns-share-drop.html",
+      "image": "https://cdn.manilastandard.net/wp-content/uploads/2025/07/digiplus.jpg",
+      "publishedAt": "2025-07-27T02:29:53Z",
+      "source": {
+        "id": "e9207083a357fb7e76b38e485888ebe7",
+        "name": "manilastandard.net",
+        "url": "https://manilastandard.net"
       },
       "category": "gaming",
       "category_chinese": "游戏资讯",
       "time_info": {
-        "beijing_time": "2025-07-26 02:00:00+08:00",
-        "formatted": "2025年07月26日 02:00",
+        "beijing_time": "2025-07-27 10:29:53+08:00",
+        "formatted": "2025年07月27日 10:29",
+        "relative": "9小时前",
+        "is_fresh": true,
+        "freshness_score": 0.8
+      },
+      "beijing_time": "2025-07-27 10:29:53+08:00",
+      "ai_translation": {
+        "translated_title": "DigiPlus称尽管存在监管担忧，运营依然强劲，股价下跌",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "在线游戏运营商DigiPlus互动股份有限公司表示，尽管面临监管压力和不利因素，其业务运营依然强劲，用户兴趣也“一如既往”。"
+      },
+      "localized_summary": {
+        "title": "DigiPlus says operations strong despite regulatory concerns, share drop",
+        "description": "Online gaming operator DigiPlus Interactive Corp said its operations remain strong and user interest is \"as usual,\" despite regulatory headwinds and a",
+        "category": "游戏资讯",
+        "source": "manilastandard.net",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.8119999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：该新闻揭示了DigiPlus在面对监管压力和股价下跌的情况下，业务依然稳健，显示出公司在复杂市场环境中的韧性和适应能力。\n2. **技术或商业层面**：DigiPlus强调用户兴趣未减，表明其产品或服务仍受市场欢迎，但股价下跌可能反映了市场对监管风险的担忧，需关注其长期策略是否能有效应对。\n3. **行业或用户意义**：对于整个在线游戏行业来说，DigiPlus的表现可能预示着监管环境的不确定性，用户对游戏质量的持续认可是其核心竞争力。\n4. **未来发展趋势预测**：DigiPlus需加强与监管机构的沟通，寻求合规方案，同时通过创新和优化用户体验来提升市场地位。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:48:18",
+        "word_count": 299,
+        "error": null
+      }
+    },
+    {
+      "id": "f95bc3b1614d",
+      "title": "6 reasons why the Switch 2 will dominate the next console generation",
+      "description": "The Nintendo Switch was one of the best-selling consoles of all-time, and I think the Switch 2 will dominate in similar fashion.",
+      "content": "The Nintendo Switch 2 has been out for over a month, with two major first-party releases in that time, Mario Kart World and Donkey Kong Bananza. While the Switch 2 has already run into some performance issues with Donkey Kong Bananza, it's already th... [6811 chars]",
+      "url": "https://www.xda-developers.com/6-reasons-why-switch-2-dominate-next-console-generation/",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/06/nintendo-switch-2-1-3.jpg",
+      "publishedAt": "2025-07-27T01:00:22Z",
+      "source": {
+        "id": "891063cd06eaab8a5cf530418fb4c0be",
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-27 09:00:22+08:00",
+        "formatted": "2025年07月27日 09:00",
         "relative": "11小时前",
         "is_fresh": true,
         "freshness_score": 0.8
       },
-      "beijing_time": "2025-07-26 02:00:00+08:00",
-      "localized_summary": {
-        "title": "You can now easily buy a Switch 2 without jumping through hoops",
-        "description": "The Nintendo Switch is the fastest-selling console in US history, and has repeatedly sold out. It’s now staying in stock much longer at stores.",
-        "category": "游戏资讯",
-        "source": "The Verge",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 09:00:22+08:00",
+      "ai_translation": {
+        "translated_title": "Switch 2 将主导下一世代主机的原因有六点",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "任天堂Switch是有史以来最畅销的游戏机之一，我认为Switch 2也将以类似的方式占据主导地位。"
       },
-      "freshness_score": 0.82,
+      "localized_summary": {
+        "title": "6 reasons why the Switch 2 will dominate the next console generation",
+        "description": "The Nintendo Switch was one of the best-selling consoles of all-time, and I think the Switch 2 will dominate in similar fashion.",
+        "category": "游戏资讯",
+        "source": "XDA Developers",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.8119999999999999,
       "ai_commentary": {
         "success": false,
         "commentary": null,
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:50:45",
+        "timestamp": "2025-07-27 19:49:32",
         "word_count": 0,
         "error": "API响应格式错误"
       }
     },
     {
-      "id": "75a321be3ef4",
-      "title": "Netflix’s push into tie-in games now includes two weird Happy Gilmore titles",
-      "description": "With the premiere of Happy Gilmore 2 on Netflix comes a pair of tie-in video games that are part of the streamer’s new gaming strategy.",
-      "content": "Netflix seems to have finally settled on something resembling a strategy for its gaming efforts, and one of the key pillars is games tied to its shows and movies. That’s how we got the likes of Squid Game: Unleashed and Black Mirror’s Thronglets. Now... [3272 chars]",
-      "url": "https://www.theverge.com/games/713886/netflix-happy-gilmore-2-games",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Screenshot-2025-07-24-at-3.38.50%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
-      "publishedAt": "2025-07-25T17:00:00Z",
+      "id": "19b59fdc266e",
+      "title": "One Of 2024’s Best Games Is FREE On Xbox Game Pass - But Only For A Few More Days",
+      "description": "An absolutely incredible game from 2024 that absolutely everyone needs to play is available on Xbox Game Pass, but only for a short while longer.",
+      "content": "It can be very easy to see a game on Xbox Game Pass and feel like you'll get around to it eventually. We all have that stack of games in our Game Pass backlog that we will play one day, but just not today as we sink a dozen more hours into Call of Du... [3346 chars]",
+      "url": "https://screenrant.com/kunitsu-gami-xbox-game-pass-leaving-july-31/",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/xbox-game-pass-logo.jpg",
+      "publishedAt": "2025-07-27T00:00:21Z",
       "source": {
-        "id": "cb749b89c7dc92dc2d517a49bb9a43ab",
-        "name": "The Verge",
-        "url": "https://www.theverge.com"
+        "id": "6b8b6fae575a37200ef9ef50109518f5",
+        "name": "Screen Rant",
+        "url": "https://screenrant.com"
       },
       "category": "gaming",
       "category_chinese": "游戏资讯",
       "time_info": {
-        "beijing_time": "2025-07-26 01:00:00+08:00",
-        "formatted": "2025年07月26日 01:00",
+        "beijing_time": "2025-07-27 08:00:21+08:00",
+        "formatted": "2025年07月27日 08:00",
         "relative": "12小时前",
         "is_fresh": true,
         "freshness_score": 0.7
       },
-      "beijing_time": "2025-07-26 01:00:00+08:00",
-      "localized_summary": {
-        "title": "Netflix’s push into tie-in games now includes two weird Happy Gilmore titles",
-        "description": "With the premiere of Happy Gilmore 2 on Netflix comes a pair of tie-in video games that are part of the streamer’s new gaming strategy.",
-        "category": "游戏资讯",
-        "source": "The Verge",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 08:00:21+08:00",
+      "ai_translation": {
+        "translated_title": "2024年最佳游戏之一免费登陆Xbox Game Pass - 但仅剩几天时间",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "2024年的一款绝对精彩的游戏，每个人都需要玩，目前仅在 Xbox Game Pass 平台上提供，但时间有限。"
       },
-      "freshness_score": 0.7499999999999999,
+      "localized_summary": {
+        "title": "One Of 2024’s Best Games Is FREE On Xbox Game Pass - But Only For A Few More Days",
+        "description": "An absolutely incredible game from 2024 that absolutely everyone needs to play is available on Xbox Game Pass, but only for a short while longer.",
+        "category": "游戏资讯",
+        "source": "Screen Rant",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
       "ai_commentary": {
-        "success": false,
-        "commentary": null,
+        "success": true,
+        "commentary": "1. **重要性和影响**：这则新闻揭示了一款备受期待的游戏即将免费提供给Xbox Game Pass用户，强调了限时免费游戏的吸引力和对玩家的即时诱惑。\n2. **技术或商业层面分析**：免费游戏策略是Xbox Game Pass维持用户粘性和市场竞争力的关键。通过限时免费游戏，微软不仅增加了用户的游戏库，还可能通过后续的购买或订阅转化更多用户。\n3. **对行业或用户的意义**：对用户而言，这是一次难得的低成本试玩机会；对行业而言，这展示了游戏分发平台的竞争策略，即通过限时免费游戏吸引用户。\n4. **未来发展趋势预测**：未来，限时免费游戏将成为游戏分发平台竞争的重要手段，平台将更频繁地推出此类活动以吸引和留住用户。",
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:50:55",
-        "word_count": 0,
-        "error": "API响应格式错误"
+        "timestamp": "2025-07-27 19:49:59",
+        "word_count": 315,
+        "error": null
       }
     },
     {
-      "id": "1088e7d01bab",
-      "title": "Senior Financial Analyst",
-      "description": "GAME ON – OLG needs you We’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming ch",
-      "content": "GAME ON – OLG needs you\nWe’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming channels. Over the c... [6870 chars]",
-      "url": "https://www.sootoday.com/classifieds/careers/professional-services/1992130",
-      "image": "https://www.vmcdn.ca/f/files/sootoday/images/corporate-logos/_logo_olg_1500x600.jpg",
-      "publishedAt": "2025-07-25T16:19:39Z",
+      "id": "0ae9de6ee555",
+      "title": "No Matter Who Wins The Nintendo Palworld Lawsuit, We Lose",
+      "description": "The Palworld lawsuit between Nintendo and Pocketpair has reached a new stage, and no matter which company wins, the fans will ultimately lose.",
+      "content": "Palworld caused a stir in the Pokémon community after finally providing some competition to Game Freak, experiencing an explosive surge in popularity. Many players took to the game, jokingly referring to it as 'Pokémon with guns' and the comparisons ... [6211 chars]",
+      "url": "https://screenrant.com/nintendo-palworld-lawsuit-stakes-who-will-win/",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/05/palworld-tides-of-terraria-2-1.jpg",
+      "publishedAt": "2025-07-26T23:31:20Z",
       "source": {
-        "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-        "name": "SooToday",
-        "url": "https://www.sootoday.com"
+        "id": "6b8b6fae575a37200ef9ef50109518f5",
+        "name": "Screen Rant",
+        "url": "https://screenrant.com"
       },
       "category": "gaming",
       "category_chinese": "游戏资讯",
       "time_info": {
-        "beijing_time": "2025-07-26 00:19:39+08:00",
-        "formatted": "2025年07月26日 00:19",
-        "relative": "13小时前",
+        "beijing_time": "2025-07-27 07:31:20+08:00",
+        "formatted": "2025年07月27日 07:31",
+        "relative": "12小时前",
         "is_fresh": true,
         "freshness_score": 0.7
       },
-      "beijing_time": "2025-07-26 00:19:39+08:00",
-      "localized_summary": {
-        "title": "Senior Financial Analyst",
-        "description": "GAME ON – OLG needs you We’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming ch",
-        "category": "游戏资讯",
-        "source": "SooToday",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 07:31:20+08:00",
+      "ai_translation": {
+        "translated_title": "无论 Nintendo Palworld 诉讼案结果如何，我们都会输",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "任天堂与口袋对对碰之间的《Palworld》诉讼案已进入新阶段，无论哪家公司胜诉，最终受损的都是粉丝们。"
       },
-      "freshness_score": 0.7499999999999999,
+      "localized_summary": {
+        "title": "No Matter Who Wins The Nintendo Palworld Lawsuit, We Lose",
+        "description": "The Palworld lawsuit between Nintendo and Pocketpair has reached a new stage, and no matter which company wins, the fans will ultimately lose.",
+        "category": "游戏资讯",
+        "source": "Screen Rant",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
       "ai_commentary": {
-        "success": false,
-        "commentary": null,
+        "success": true,
+        "commentary": "1. 重要性和影响：这起诉讼事件凸显了Palworld与《宝可梦》系列之间的竞争关系，影响了玩家社区的情绪和市场动态。\n2. 技术或商业层面：诉讼反映了游戏市场竞争的激烈，尤其是角色扮演游戏领域。Palworld通过引入枪战元素吸引新玩家，但这也引发了版权和知识产权争议。\n3. 对行业或用户：此事件可能抑制玩家对新游戏的期待，同时促使游戏开发商更加谨慎地处理跨IP合作和竞争。\n4. 未来发展趋势：未来游戏市场竞争将更加激烈，同时也需更加注重知识产权保护，避免类似法律纠纷。",
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:51:04",
-        "word_count": 0,
-        "error": "API响应格式错误"
+        "timestamp": "2025-07-27 19:51:31",
+        "word_count": 238,
+        "error": null
       }
     },
     {
-      "id": "e1a5aa6f48fa",
-      "title": "Lottery Project Portfolio Student",
-      "description": "GAME ON – OLG needs you We’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming ch",
-      "content": "GAME ON – OLG needs you\nWe’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming channels. Over the c... [6042 chars]",
-      "url": "https://www.sootoday.com/classifieds/careers/professional-services/1992128",
-      "image": "https://www.vmcdn.ca/f/files/sootoday/images/corporate-logos/_logo_olg_1500x600.jpg",
-      "publishedAt": "2025-07-25T16:16:46Z",
+      "id": "cb13a8e4d90c",
+      "title": "7 forgotten PS2 classics that deserve a modern remake",
+      "description": "The PlayStation 2 has multiple games that should get a modern remake. Here are 7 PS2 classics that should make a comeback.",
+      "content": "The library of games for the PlayStation 2 is populated with many classic and iconic titles that people remember vividly. Companies developed and released a ton of games for the console, mostly because the installation base was so massive. In the ear... [10627 chars]",
+      "url": "https://www.xda-developers.com/7-forgotten-ps2-classics-that-deserve-a-modern-remake/",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/07/forgottenps2classicsforremakes_featuredpic.jpg",
+      "publishedAt": "2025-07-26T23:30:20Z",
       "source": {
-        "id": "0ce70f407e0fa82ddaeeb29243aa8210",
-        "name": "SooToday",
-        "url": "https://www.sootoday.com"
+        "id": "891063cd06eaab8a5cf530418fb4c0be",
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com"
       },
       "category": "gaming",
       "category_chinese": "游戏资讯",
       "time_info": {
-        "beijing_time": "2025-07-26 00:16:46+08:00",
-        "formatted": "2025年07月26日 00:16",
-        "relative": "13小时前",
+        "beijing_time": "2025-07-27 07:30:20+08:00",
+        "formatted": "2025年07月27日 07:30",
+        "relative": "12小时前",
         "is_fresh": true,
         "freshness_score": 0.7
       },
-      "beijing_time": "2025-07-26 00:16:46+08:00",
-      "localized_summary": {
-        "title": "Lottery Project Portfolio Student",
-        "description": "GAME ON – OLG needs you We’ve said GAME ON, and we mean it – OLG is rapidly transforming its organization to better serve Ontarians by delivering great gaming experiences through our digital, retail lottery, and land-based gaming ch",
-        "category": "游戏资讯",
-        "source": "SooToday",
-        "reading_time": "1分钟"
+      "beijing_time": "2025-07-27 07:30:20+08:00",
+      "ai_translation": {
+        "translated_title": "7 被遗忘的 PlayStation 2 经典游戏，值得进行现代重制",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "PlayStation 2有多款游戏值得进行现代重制。以下是7款本应重见天日的PS2经典游戏。"
       },
-      "freshness_score": 0.7499999999999999,
+      "localized_summary": {
+        "title": "7 forgotten PS2 classics that deserve a modern remake",
+        "description": "The PlayStation 2 has multiple games that should get a modern remake. Here are 7 PS2 classics that should make a comeback.",
+        "category": "游戏资讯",
+        "source": "XDA Developers",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
       "ai_commentary": {
-        "success": false,
-        "commentary": null,
+        "success": true,
+        "commentary": "1. **重要性和影响**：这篇新闻提醒人们回顾PS2时代的经典游戏，这些游戏不仅是游戏史上的重要里程碑，也反映了当时的技术水平和创意高度。重新制作这些游戏可以吸引新老玩家，重燃经典记忆。\n\n2. **技术或商业层面**：重新制作PS2经典游戏需要考虑现代技术的运用，如图形优化和新增功能。这不仅能提升游戏体验，还能吸引新玩家。商业上，这可能为开发者带来新的收入来源，同时增强品牌忠诚度。\n\n3. **行业或用户意义**：此举有助于传承游戏文化，激发新创意，同时为玩家提供怀旧体验和高质量的新内容。对于行业来说，这展示了游戏的持久魅力和不断进化的潜力。\n\n4. **未来发展趋势**：随着技术进步和市场需求变化，经典游戏的重新制作将成为一种趋势。这不仅限于PS2，也适用于其他经典游戏平台，有助于推动游戏行业的持续创新和发展。",
         "model": "Qwen/Qwen2.5-7B-Instruct",
-        "timestamp": "2025-07-26 13:51:14",
-        "word_count": 0,
-        "error": "API响应格式错误"
+        "timestamp": "2025-07-27 19:52:06",
+        "word_count": 363,
+        "error": null
+      }
+    },
+    {
+      "id": "32e68a7e3b93",
+      "title": "I tried using a gaming handheld as a laptop replacement for 3 days, and here's how it went",
+      "description": "Gaming handhelds are a lot like laptops, but there are a few pain points",
+      "content": "Handheld gaming PCs like the Steam Deck, Lenovo Legion Go, and Asus ROG Ally have become the hottest new gaming gear, and in a lot of ways they're similar to laptops. Whether your handheld is running SteamOS or Windows, you can use it for general lap... [4561 chars]",
+      "url": "https://www.xda-developers.com/gaming-handheld-as-a-laptop/",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/07/msi-claw-7-ai-minipc-1.jpg",
+      "publishedAt": "2025-07-26T20:30:21Z",
+      "source": {
+        "id": "891063cd06eaab8a5cf530418fb4c0be",
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-27 04:30:21+08:00",
+        "formatted": "2025年07月27日 04:30",
+        "relative": "15小时前",
+        "is_fresh": true,
+        "freshness_score": 0.7
+      },
+      "beijing_time": "2025-07-27 04:30:21+08:00",
+      "ai_translation": {
+        "translated_title": "我尝试将游戏掌机作为笔记本电脑的替代品使用了3天，以下是使用体验：",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "掌上游戏机与笔记本电脑有很多相似之处，但还有一些痛点。"
+      },
+      "localized_summary": {
+        "title": "I tried using a gaming handheld as a laptop replacement for 3 days, and here's how it went",
+        "description": "Gaming handhelds are a lot like laptops, but there are a few pain points",
+        "category": "游戏资讯",
+        "source": "XDA Developers",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. 重要性与影响：该新闻揭示了便携游戏设备在日常生活中的潜力，预示着移动计算的新趋势。\n2. 技术与商业分析：手持游戏设备融合了高性能与便携性，挑战传统笔记本市场。Steam Deck等产品的成功，表明市场需求强劲。\n3. 行业与用户意义：这将促使笔记本制造商创新，推出更便携、性能更强的产品，同时为用户提供更多选择。\n4. 未来趋势预测：手持设备将进一步优化，成为轻办公、游戏和娱乐的全能终端，推动移动计算生态的发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:52:46",
+        "word_count": 211,
+        "error": null
+      }
+    },
+    {
+      "id": "4ef4f60c01f6",
+      "title": "Xbox Game Pass Has A FREE Fantasy Game Fans Praise As A \"Masterpiece\"",
+      "description": "There is a fantasy game on Xbox Game Pass, praised as a “masterpiece” by players, that you can play for free now, while it's still in the catalog.",
+      "content": "There’s a free fantasy game on Xbox Game Pass, which is praised as a “masterpiece” by fans, that you should definitely check out, especially if you like a good challenge. The subscription service by Microsoft is continuously seeing changes to its cat... [2941 chars]",
+      "url": "https://screenrant.com/celeste-free-game-pass-metacritic-reviews-great/",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/07/xbox-game-pass-logo-1.jpg",
+      "publishedAt": "2025-07-26T19:41:20Z",
+      "source": {
+        "id": "6b8b6fae575a37200ef9ef50109518f5",
+        "name": "Screen Rant",
+        "url": "https://screenrant.com"
+      },
+      "category": "gaming",
+      "category_chinese": "游戏资讯",
+      "time_info": {
+        "beijing_time": "2025-07-27 03:41:20+08:00",
+        "formatted": "2025年07月27日 03:41",
+        "relative": "16小时前",
+        "is_fresh": true,
+        "freshness_score": 0.7
+      },
+      "beijing_time": "2025-07-27 03:41:20+08:00",
+      "ai_translation": {
+        "translated_title": "Xbox Game Pass 上有一款免费的奇幻游戏，受到玩家赞誉，堪称“杰作”",
+        "translation_service": "siliconflow_Qwen/Qwen2.5-7B-Instruct",
+        "translation_confidence": {
+          "title": 0.92,
+          "description": 0.92
+        },
+        "translated_description": "Xbox Game Pass现正免费提供一款备受玩家赞誉的“杰作”级幻想游戏，您可以在游戏目录中继续畅玩。"
+      },
+      "localized_summary": {
+        "title": "Xbox Game Pass Has A FREE Fantasy Game Fans Praise As A \"Masterpiece\"",
+        "description": "There is a fantasy game on Xbox Game Pass, praised as a “masterpiece” by players, that you can play for free now, while it's still in the catalog.",
+        "category": "游戏资讯",
+        "source": "Screen Rant",
+        "reading_time": "1分钟",
+        "quality": {
+          "score": 0.92,
+          "text": "优秀",
+          "detail": "翻译准确，语言流畅，完全符合中文表达习惯",
+          "color": "#10B981",
+          "percentage": "92%"
+        }
+      },
+      "freshness_score": 0.7419999999999999,
+      "ai_commentary": {
+        "success": true,
+        "commentary": "1. **重要性和影响**：这款游戏的出现提升了Xbox Game Pass的吸引力，尤其是对奇幻游戏爱好者而言。它证明了订阅制服务可以提供高质量的免费游戏，增强了玩家的参与度和忠诚度。\n\n2. **技术或商业层面**：微软通过引入高质量的免费游戏，展示了其在内容生态上的竞争力。这不仅提升了订阅服务的用户粘性，也为吸引新用户提供了有力支撑。\n\n3. **行业或用户意义**：对用户来说，这是一款值得尝试的高质量奇幻游戏；对行业来说，它展示了订阅制服务在提供高质量免费内容方面的潜力，预示着未来游戏分发模式的变革。\n\n4. **未来发展趋势预测**：随着更多高质量免费游戏的加入，订阅制服务有望成为主流，推动游戏行业向更加灵活和多样化的分发模式发展。",
+        "model": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "2025-07-27 19:55:03",
+        "word_count": 325,
+        "error": null
       }
     }
   ]

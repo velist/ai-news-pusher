@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "public": true,
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "buildCommand": "echo 'Static site - no build needed'",
+  "installCommand": "echo 'No install needed'",
+  "outputDirectory": ".",
+  "framework": null
+}

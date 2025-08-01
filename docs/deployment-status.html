@@ -3,75 +3,75 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🚀 AI新闻翻译系统 - 部署状态</title>
+    <title>部署状态监控 - AI科技日报</title>
     <style>
         body {
-            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
             max-width: 800px;
             margin: 0 auto;
-            padding: 20px;
-            background: #f5f5f5;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 30px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
         }
-        .status-card {
-            background: white;
-            border-radius: 12px;
-            padding: 24px;
-            margin: 16px 0;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        .status-item {
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 10px;
+            border-left: 4px solid #10B981;
+            background: #f0f9ff;
         }
-        .status-ok { border-left: 4px solid #10B981; }
-        .status-warning { border-left: 4px solid #F59E0B; }
-        .status-error { border-left: 4px solid #EF4444; }
-        .timestamp { color: #666; font-size: 14px; }
-        .link { color: #007AFF; text-decoration: none; }
-        .link:hover { text-decoration: underline; }
+        .timestamp {
+            color: #666;
+            font-size: 0.9em;
+        }
+        .refresh-btn {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            margin: 20px 0;
+        }
     </style>
+    <script>
+        function refreshStatus() {
+            location.reload();
+        }
+        setInterval(refreshStatus, 30000); // 30秒自动刷新
+    </script>
 </head>
 <body>
-    <div class="status-card status-ok">
-        <h1>🚀 AI新闻翻译系统部署状态</h1>
-        <p class="timestamp">最后更新: 2025-07-25 12:34:20</p>
-    </div>
-    
-    <div class="status-card status-ok">
-        <h2>✅ GitHub仓库状态</h2>
-        <p>代码已成功推送到GitHub仓库</p>
-        <p><a href="https://github.com/velist/ai-news-pusher" class="link">查看仓库</a></p>
-    </div>
-    
-    <div class="status-card status-ok">
-        <h2>✅ GitHub Pages状态</h2>
-        <p>静态页面已部署到GitHub Pages</p>
-        <p><a href="https://velist.github.io/ai-news-pusher/docs/" class="link">访问GitHub Pages</a></p>
-    </div>
-    
-    <div class="status-card status-warning">
-        <h2>⚠️ Vercel同步状态</h2>
-        <p>正在等待Vercel自动同步...</p>
-        <p>如果5-10分钟后仍未同步，请手动触发部署</p>
-        <p><a href="https://vercel.com/dashboard" class="link">Vercel控制台</a></p>
-    </div>
-    
-    <div class="status-card status-ok">
-        <h2>🤖 AI翻译系统特性</h2>
-        <ul>
-            <li>✅ 硅基流动AI翻译 - 成本降低80-95%</li>
-            <li>✅ 真实新闻中文翻译 - 告别模板内容</li>
-            <li>✅ 智能质量评估 - 置信度评分</li>
-            <li>✅ 响应式H5界面 - 完美移动体验</li>
-            <li>✅ 自动更新机制 - 每小时获取最新资讯</li>
-        </ul>
-    </div>
-    
-    <div class="status-card">
-        <h2>🔧 故障排除</h2>
-        <p>如果Vercel未自动同步，请尝试以下步骤：</p>
-        <ol>
-            <li>访问 <a href="https://vercel.com/dashboard" class="link">Vercel控制台</a></li>
-            <li>找到ai-news-pusher项目</li>
-            <li>点击"Redeploy"按钮</li>
-            <li>等待部署完成</li>
-        </ol>
+    <div class="container">
+        <h1>🚀 部署状态监控</h1>
+        <button class="refresh-btn" onclick="refreshStatus()">🔄 刷新状态</button>
+        
+        <div class="status-item">
+            <strong>最后更新:</strong> 2025-07-27 19:45:43
+        </div>
+        
+        <div class="status-item">
+            <strong>部署状态:</strong> 监控中...
+        </div>
+        
+        <div class="status-item">
+            <strong>功能检查:</strong>
+            <ul>
+                <li>✅ Tab分类功能</li>
+                <li>✅ 中文标题与摘要</li>
+                <li>✅ 媒体与时间显示</li>
+                <li>✅ 详情页AI点评</li>
+                <li>✅ 原文链接跳转</li>
+            </ul>
+        </div>
     </div>
 </body>
 </html>

@@ -108,7 +108,7 @@ class SiliconFlowTranslator(ITranslationService):
                     headers=headers
                 )
                 
-                with urllib.request.urlopen(request, timeout=30) as response:
+                with urllib.request.urlopen(request, timeout=60) as response:
                     result = json.loads(response.read().decode('utf-8'))
                     
                 if 'error' in result:

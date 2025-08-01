@@ -1,0 +1,173 @@
+[2025-07-27 20:11:31] [INFO] ==================================================
+[2025-07-27 20:11:31] [INFO] 开始Vercel部署流程
+[2025-07-27 20:11:31] [INFO] ==================================================
+[2025-07-27 20:11:31] [INFO] 检查项目大小...
+[2025-07-27 20:11:31] [INFO] 项目总大小: 1.23 MB
+[2025-07-27 20:11:31] [INFO] 文件总数: 173
+[2025-07-27 20:11:31] [INFO] 开始部署到Vercel...
+[2025-07-27 20:11:31] [ERROR] 部署过程中发生错误: [WinError 2] 系统找不到指定的文件。
+[2025-07-27 20:11:31] [INFO] 部署报告已保存: deployment_report_20250727_201131.json
+[2025-07-27 20:11:31] [INFO] ==================================================
+[2025-07-27 20:11:31] [INFO] 部署流程完成，状态: failed
+[2025-07-27 20:11:31] [INFO] ==================================================
+[2025-07-27 20:12:01] [INFO] ==================================================
+[2025-07-27 20:12:01] [INFO] 开始Vercel部署流程
+[2025-07-27 20:12:01] [INFO] ==================================================
+[2025-07-27 20:12:01] [INFO] 检查项目大小...
+[2025-07-27 20:12:01] [INFO] 项目总大小: 1.23 MB
+[2025-07-27 20:12:01] [INFO] 文件总数: 173
+[2025-07-27 20:12:01] [INFO] 开始部署到Vercel...
+[2025-07-27 20:12:01] [ERROR] 部署过程中发生错误: [WinError 2] 系统找不到指定的文件。
+[2025-07-27 20:12:01] [INFO] 部署报告已保存: deployment_report_20250727_201201.json
+[2025-07-27 20:12:01] [INFO] ==================================================
+[2025-07-27 20:12:01] [INFO] 部署流程完成，状态: failed
+[2025-07-27 20:12:01] [INFO] ==================================================
+[2025-07-27 20:12:46] [INFO] ==================================================
+[2025-07-27 20:12:46] [INFO] 开始Vercel部署流程
+[2025-07-27 20:12:46] [INFO] ==================================================
+[2025-07-27 20:12:46] [INFO] 检查项目大小...
+[2025-07-27 20:12:46] [INFO] 项目总大小: 1.23 MB
+[2025-07-27 20:12:46] [INFO] 文件总数: 173
+[2025-07-27 20:12:46] [INFO] 开始部署到Vercel...
+[2025-07-27 20:12:47] [INFO] 执行部署命令: vercel --prod --yes
+[2025-07-27 20:12:59] [INFO] Vercel输出: https://docs-pa4l5rofh-velists-projects.vercel.app
+[2025-07-27 20:12:59] [ERROR] Vercel错误: Vercel CLI 44.6.3
+Retrieving project…
+Deploying velists-projects/docs
+Inspect: https://vercel.com/velists-projects/docs/24cFo7hED92K4Dfy6tBHWPP3pBm1 [1s]
+Production: https://docs-pa4l5rofh-velists-projects.vercel.app [1s]
+Queued
+2025-07-27T12:12:51.477Z  Running build in Washington, D.C., USA (East) – iad1
+2025-07-27T12:12:51.478Z  Build machine configuration: 2 cores, 8 GB
+2025-07-27T12:12:51.502Z  Retrieving list of deployment files...
+2025-07-27T12:12:51.896Z  Downloading 170 deployment files...
+2025-07-27T12:12:52.787Z  Restored build cache from previous deployment (8swrax5JDGcAnPGdQhaftebaFPiq)
+2025-07-27T12:12:54.202Z  Running "vercel build"
+2025-07-27T12:12:55.470Z  Vercel CLI 44.5.0
+2025-07-27T12:12:56.186Z  Running "install" command: `echo 'No install needed'`...
+2025-07-27T12:12:56.190Z  No install needed
+2025-07-27T12:12:56.333Z  Static site - no build needed
+2025-07-27T12:12:56.476Z  Build Completed in /vercel/output [301ms]
+2025-07-27T12:12:56.513Z  Deploying outputs...
+
+[2025-07-27 20:12:59] [SUCCESS] 部署成功！
+[2025-07-27 20:12:59] [SUCCESS] 部署地址: https://docs-pa4l5rofh-velists-projects.vercel.app
+[2025-07-27 20:13:06] [WARNING] 网站访问异常，状态码: 401
+[2025-07-27 20:13:06] [INFO] 部署报告已保存: deployment_report_20250727_201306.json
+[2025-07-27 20:13:06] [INFO] ==================================================
+[2025-07-27 20:13:06] [INFO] 部署流程完成，状态: success
+[2025-07-27 20:13:06] [INFO] 部署地址: https://docs-pa4l5rofh-velists-projects.vercel.app
+[2025-07-27 20:13:06] [INFO] ==================================================
+[2025-07-27 20:18:57] [INFO] ==================================================
+[2025-07-27 20:18:57] [INFO] 开始Vercel部署流程
+[2025-07-27 20:18:57] [INFO] ==================================================
+[2025-07-27 20:18:57] [INFO] 检查项目大小...
+[2025-07-27 20:18:57] [INFO] 项目总大小: 1.23 MB
+[2025-07-27 20:18:57] [INFO] 文件总数: 173
+[2025-07-27 20:18:57] [INFO] 开始部署到Vercel...
+[2025-07-27 20:18:58] [INFO] 执行部署命令: vercel --prod --yes
+[2025-07-27 20:19:10] [INFO] Vercel输出: https://docs-grt4qkrmg-velists-projects.vercel.app
+[2025-07-27 20:19:10] [ERROR] Vercel错误: Vercel CLI 44.6.3
+Retrieving project…
+Deploying velists-projects/docs
+Inspect: https://vercel.com/velists-projects/docs/HX4kX6hgW3G5knF5cgtrEx67tC9o [1s]
+Production: https://docs-grt4qkrmg-velists-projects.vercel.app [1s]
+Queued
+2025-07-27T12:19:02.315Z  Running build in Washington, D.C., USA (East) – iad1
+2025-07-27T12:19:02.315Z  Build machine configuration: 2 cores, 8 GB
+2025-07-27T12:19:02.327Z  Retrieving list of deployment files...
+2025-07-27T12:19:02.651Z  Downloading 170 deployment files...
+2025-07-27T12:19:03.333Z  Restored build cache from previous deployment (A956oeLRKSesFqGwFGAeNi3LpGPg)
+2025-07-27T12:19:03.682Z  Running "vercel build"
+2025-07-27T12:19:05.243Z  Vercel CLI 44.5.0
+2025-07-27T12:19:06.968Z  Running "install" command: `echo 'No install needed'`...
+2025-07-27T12:19:06.972Z  No install needed
+2025-07-27T12:19:07.090Z  Static site - no build needed
+2025-07-27T12:19:07.244Z  Build Completed in /vercel/output [287ms]
+2025-07-27T12:19:07.282Z  Deploying outputs...
+
+[2025-07-27 20:19:10] [SUCCESS] 部署成功！
+[2025-07-27 20:19:10] [SUCCESS] 部署地址: https://docs-grt4qkrmg-velists-projects.vercel.app
+[2025-07-27 20:19:16] [WARNING] 网站访问异常，状态码: 401
+[2025-07-27 20:19:16] [INFO] 部署报告已保存: deployment_report_20250727_201916.json
+[2025-07-27 20:19:16] [INFO] ==================================================
+[2025-07-27 20:19:16] [INFO] 部署流程完成，状态: success
+[2025-07-27 20:19:16] [INFO] 部署地址: https://docs-grt4qkrmg-velists-projects.vercel.app
+[2025-07-27 20:19:16] [INFO] ==================================================
+[2025-07-27 20:50:09] [INFO] ==================================================
+[2025-07-27 20:50:09] [INFO] 开始Vercel部署流程
+[2025-07-27 20:50:09] [INFO] ==================================================
+[2025-07-27 20:50:09] [INFO] 检查项目大小...
+[2025-07-27 20:50:09] [INFO] 项目总大小: 1.48 MB
+[2025-07-27 20:50:09] [INFO] 文件总数: 213
+[2025-07-27 20:50:09] [INFO] 开始部署到Vercel...
+[2025-07-27 20:50:11] [INFO] 执行部署命令: vercel --prod --yes
+[2025-07-27 20:50:29] [INFO] Vercel输出: https://docs-l4keez80d-velists-projects.vercel.app
+[2025-07-27 20:50:29] [ERROR] Vercel错误: Vercel CLI 44.6.3
+Retrieving project…
+Deploying velists-projects/docs
+Uploading [--------------------] (0.0B/282KB)
+Uploading [=====---------------] (74.9KB/282KB)
+Uploading [==========----------] (141.8KB/282KB)
+Uploading [===============-----] (213.7KB/282KB)
+Uploading [====================] (282.0KB/282KB)
+Inspect: https://vercel.com/velists-projects/docs/3SBUTp2uUC27ZUaVE9aFhoYF9xkD [8s]
+Production: https://docs-l4keez80d-velists-projects.vercel.app [8s]
+Queued
+2025-07-27T12:50:22.707Z  Running build in Washington, D.C., USA (East) – iad1
+2025-07-27T12:50:22.708Z  Build machine configuration: 2 cores, 8 GB
+2025-07-27T12:50:22.721Z  Retrieving list of deployment files...
+2025-07-27T12:50:23.039Z  Downloading 210 deployment files...
+2025-07-27T12:50:23.793Z  Restored build cache from previous deployment (HX4kX6hgW3G5knF5cgtrEx67tC9o)
+2025-07-27T12:50:23.986Z  Running "vercel build"
+2025-07-27T12:50:24.860Z  Vercel CLI 44.5.0
+2025-07-27T12:50:26.351Z  Running "install" command: `echo 'No install needed'`...
+2025-07-27T12:50:26.355Z  No install needed
+2025-07-27T12:50:26.457Z  Static site - no build needed
+2025-07-27T12:50:26.617Z  Build Completed in /vercel/output [276ms]
+2025-07-27T12:50:26.654Z  Deploying outputs...
+
+[2025-07-27 20:50:29] [SUCCESS] 部署成功！
+[2025-07-27 20:50:29] [SUCCESS] 部署地址: https://docs-l4keez80d-velists-projects.vercel.app
+[2025-07-27 20:50:39] [WARNING] 网站访问异常，状态码: 401
+[2025-07-27 20:50:39] [INFO] 部署报告已保存: deployment_report_20250727_205039.json
+[2025-07-27 20:50:39] [INFO] ==================================================
+[2025-07-27 20:50:39] [INFO] 部署流程完成，状态: success
+[2025-07-27 20:50:39] [INFO] 部署地址: https://docs-l4keez80d-velists-projects.vercel.app
+[2025-07-27 20:50:39] [INFO] ==================================================
+[2025-07-27 21:56:42] [INFO] ==================================================
+[2025-07-27 21:56:42] [INFO] 开始Vercel部署流程
+[2025-07-27 21:56:42] [INFO] ==================================================
+[2025-07-27 21:56:42] [INFO] 检查项目大小...
+[2025-07-27 21:56:42] [INFO] 项目总大小: 1.49 MB
+[2025-07-27 21:56:42] [INFO] 文件总数: 213
+[2025-07-27 21:56:42] [INFO] 开始部署到Vercel...
+[2025-07-27 21:56:43] [INFO] 执行部署命令: vercel --prod --yes
+[2025-07-27 21:56:58] [INFO] Vercel输出: https://docs-h1voub5en-velists-projects.vercel.app
+[2025-07-27 21:56:58] [ERROR] Vercel错误: Vercel CLI 44.6.3
+Retrieving project…
+Deploying velists-projects/docs
+Uploading [--------------------] (0.0B/258.4KB)
+Uploading [=====---------------] (70.1KB/258.4KB)
+Uploading [==========----------] (134.8KB/258.4KB)
+Uploading [===============-----] (199.6KB/258.4KB)
+Uploading [====================] (258.4KB/258.4KB)
+Inspect: https://vercel.com/velists-projects/docs/B8fxKUXrktLeCEpK3yteoP7NF9ZX [3s]
+Production: https://docs-h1voub5en-velists-projects.vercel.app [3s]
+Queued
+2025-07-27T13:56:49.995Z  Running build in Washington, D.C., USA (East) – iad1
+2025-07-27T13:56:49.996Z  Build machine configuration: 2 cores, 8 GB
+2025-07-27T13:56:50.015Z  Retrieving list of deployment files...
+2025-07-27T13:56:50.383Z  Downloading 210 deployment files...
+2025-07-27T13:56:51.388Z  Restored build cache from previous deployment (CNDnzMusFVh8DgmYeejiDEw9B9vM)
+2025-07-27T13:56:53.141Z  Running "vercel build"
+2025-07-27T13:56:53.647Z  Vercel CLI 44.5.0
+
+[2025-07-27 21:56:58] [SUCCESS] 部署成功！
+[2025-07-27 21:56:58] [SUCCESS] 部署地址: https://docs-h1voub5en-velists-projects.vercel.app
+[2025-07-27 21:57:05] [WARNING] 网站访问异常，状态码: 401
+[2025-07-27 21:57:05] [INFO] 部署报告已保存: deployment_report_20250727_215705.json
+[2025-07-27 21:57:05] [INFO] ==================================================
+[2025-07-27 21:57:05] [INFO] 部署流程完成，状态: success
+[2025-07-27 21:57:05] [INFO] 部署地址: https://docs-h1voub5en-velists-projects.vercel.app
+[2025-07-27 21:57:05] [INFO] ==================================================

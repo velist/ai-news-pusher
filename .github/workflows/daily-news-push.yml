@@ -21,12 +21,36 @@ jobs:
       with:
         python-version: '3.9'
         
-    - name: 运行超简化AI新闻推送
+    - name: 运行GitHub Pages修复版AI新闻推送
       env:
         GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
       run: |
-        # 直接运行超简化版本，无依赖，快速可靠
-        python ultra_simple_news.py
+        echo "🔧 使用GitHub Pages修复版脚本"
+        
+        # 检查修复版脚本是否存在
+        if [ -f "github_pages_fix.py" ]; then
+          echo "✅ 使用修复版脚本: github_pages_fix.py"
+          python github_pages_fix.py
+        else
+          echo "⚠️ 修复版脚本不存在，使用原版"
+          python ultra_simple_news.py
+        fi
+        
+        # 显示生成文件的详细信息
+        echo "📁 检查生成的文件:"
+        if [ -f "docs/index.html" ]; then
+          echo "✅ index.html: $(wc -c < docs/index.html) 字符"
+          echo "📄 文件前100字符: $(head -c 100 docs/index.html)"
+        else
+          echo "❌ index.html 不存在"
+        fi
+        
+        if [ -f "docs/news_data.json" ]; then
+          echo "✅ news_data.json: $(wc -c < docs/news_data.json) 字符"
+        else
+          echo "❌ news_data.json 不存在"
+        fi
         
     - name: 提交页面更新
       if: always()

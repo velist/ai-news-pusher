@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "start_time": "2025-07-27T21:56:42.300973",
+  "end_time": "2025-07-27T21:56:58.197836",
+  "deployment_url": "https://docs-h1voub5en-velists-projects.vercel.app",
+  "errors": [
+    "Vercel CLI 44.6.3\nRetrieving project…\nDeploying velists-projects/docs\nUploading [--------------------] (0.0B/258.4KB)\nUploading [=====---------------] (70.1KB/258.4KB)\nUploading [==========----------] (134.8KB/258.4KB)\nUploading [===============-----] (199.6KB/258.4KB)\nUploading [====================] (258.4KB/258.4KB)\nInspect: https://vercel.com/velists-projects/docs/B8fxKUXrktLeCEpK3yteoP7NF9ZX [3s]\nProduction: https://docs-h1voub5en-velists-projects.vercel.app [3s]\nQueued\n2025-07-27T13:56:49.995Z  Running build in Washington, D.C., USA (East) – iad1\n2025-07-27T13:56:49.996Z  Build machine configuration: 2 cores, 8 GB\n2025-07-27T13:56:50.015Z  Retrieving list of deployment files...\n2025-07-27T13:56:50.383Z  Downloading 210 deployment files...\n2025-07-27T13:56:51.388Z  Restored build cache from previous deployment (CNDnzMusFVh8DgmYeejiDEw9B9vM)\n2025-07-27T13:56:53.141Z  Running \"vercel build\"\n2025-07-27T13:56:53.647Z  Vercel CLI 44.5.0\n"
+  ],
+  "logs": [
+    "[2025-07-27 21:56:42] [INFO] ==================================================",
+    "[2025-07-27 21:56:42] [INFO] 开始Vercel部署流程",
+    "[2025-07-27 21:56:42] [INFO] ==================================================",
+    "[2025-07-27 21:56:42] [INFO] 检查项目大小...",
+    "[2025-07-27 21:56:42] [INFO] 项目总大小: 1.49 MB",
+    "[2025-07-27 21:56:42] [INFO] 文件总数: 213",
+    "[2025-07-27 21:56:42] [INFO] 开始部署到Vercel...",
+    "[2025-07-27 21:56:43] [INFO] 执行部署命令: vercel --prod --yes",
+    "[2025-07-27 21:56:58] [INFO] Vercel输出: https://docs-h1voub5en-velists-projects.vercel.app",
+    "[2025-07-27 21:56:58] [ERROR] Vercel错误: Vercel CLI 44.6.3\nRetrieving project…\nDeploying velists-projects/docs\nUploading [--------------------] (0.0B/258.4KB)\nUploading [=====---------------] (70.1KB/258.4KB)\nUploading [==========----------] (134.8KB/258.4KB)\nUploading [===============-----] (199.6KB/258.4KB)\nUploading [====================] (258.4KB/258.4KB)\nInspect: https://vercel.com/velists-projects/docs/B8fxKUXrktLeCEpK3yteoP7NF9ZX [3s]\nProduction: https://docs-h1voub5en-velists-projects.vercel.app [3s]\nQueued\n2025-07-27T13:56:49.995Z  Running build in Washington, D.C., USA (East) – iad1\n2025-07-27T13:56:49.996Z  Build machine configuration: 2 cores, 8 GB\n2025-07-27T13:56:50.015Z  Retrieving list of deployment files...\n2025-07-27T13:56:50.383Z  Downloading 210 deployment files...\n2025-07-27T13:56:51.388Z  Restored build cache from previous deployment (CNDnzMusFVh8DgmYeejiDEw9B9vM)\n2025-07-27T13:56:53.141Z  Running \"vercel build\"\n2025-07-27T13:56:53.647Z  Vercel CLI 44.5.0\n",
+    "[2025-07-27 21:56:58] [SUCCESS] 部署成功！",
+    "[2025-07-27 21:56:58] [SUCCESS] 部署地址: https://docs-h1voub5en-velists-projects.vercel.app",
+    "[2025-07-27 21:57:05] [WARNING] 网站访问异常，状态码: 401"
+  ]
+}

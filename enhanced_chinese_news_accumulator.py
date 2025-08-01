@@ -5,6 +5,23 @@
 集成时区转换、中文本地化、新鲜度管理和AI点评功能
 """
 
+
+def load_env_file():
+    """加载环境变量"""
+    env_path = '.env'
+    if os.path.exists(env_path):
+        with open(env_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    key, value = line.split('=', 1)
+                    os.environ[key.strip()] = value.strip()
+        print("环境变量加载成功")
+        return True
+    else:
+        print("警告: .env文件不存在")
+        return False
+
 import os
 import json
 import urllib.request
@@ -432,6 +449,9 @@ class EnhancedChineseNewsAccumulator:
 
 def main():
     """主函数"""
+    # 加载环境变量
+    load_env_file()
+    
     accumulator = EnhancedChineseNewsAccumulator()
     accumulator.run()
 

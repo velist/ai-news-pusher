@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "start_time": "2025-07-27T20:18:57.672163",
+  "end_time": "2025-07-27T20:19:10.594764",
+  "deployment_url": "https://docs-grt4qkrmg-velists-projects.vercel.app",
+  "errors": [
+    "Vercel CLI 44.6.3\nRetrieving project…\nDeploying velists-projects/docs\nInspect: https://vercel.com/velists-projects/docs/HX4kX6hgW3G5knF5cgtrEx67tC9o [1s]\nProduction: https://docs-grt4qkrmg-velists-projects.vercel.app [1s]\nQueued\n2025-07-27T12:19:02.315Z  Running build in Washington, D.C., USA (East) – iad1\n2025-07-27T12:19:02.315Z  Build machine configuration: 2 cores, 8 GB\n2025-07-27T12:19:02.327Z  Retrieving list of deployment files...\n2025-07-27T12:19:02.651Z  Downloading 170 deployment files...\n2025-07-27T12:19:03.333Z  Restored build cache from previous deployment (A956oeLRKSesFqGwFGAeNi3LpGPg)\n2025-07-27T12:19:03.682Z  Running \"vercel build\"\n2025-07-27T12:19:05.243Z  Vercel CLI 44.5.0\n2025-07-27T12:19:06.968Z  Running \"install\" command: `echo 'No install needed'`...\n2025-07-27T12:19:06.972Z  No install needed\n2025-07-27T12:19:07.090Z  Static site - no build needed\n2025-07-27T12:19:07.244Z  Build Completed in /vercel/output [287ms]\n2025-07-27T12:19:07.282Z  Deploying outputs...\n"
+  ],
+  "logs": [
+    "[2025-07-27 20:18:57] [INFO] ==================================================",
+    "[2025-07-27 20:18:57] [INFO] 开始Vercel部署流程",
+    "[2025-07-27 20:18:57] [INFO] ==================================================",
+    "[2025-07-27 20:18:57] [INFO] 检查项目大小...",
+    "[2025-07-27 20:18:57] [INFO] 项目总大小: 1.23 MB",
+    "[2025-07-27 20:18:57] [INFO] 文件总数: 173",
+    "[2025-07-27 20:18:57] [INFO] 开始部署到Vercel...",
+    "[2025-07-27 20:18:58] [INFO] 执行部署命令: vercel --prod --yes",
+    "[2025-07-27 20:19:10] [INFO] Vercel输出: https://docs-grt4qkrmg-velists-projects.vercel.app",
+    "[2025-07-27 20:19:10] [ERROR] Vercel错误: Vercel CLI 44.6.3\nRetrieving project…\nDeploying velists-projects/docs\nInspect: https://vercel.com/velists-projects/docs/HX4kX6hgW3G5knF5cgtrEx67tC9o [1s]\nProduction: https://docs-grt4qkrmg-velists-projects.vercel.app [1s]\nQueued\n2025-07-27T12:19:02.315Z  Running build in Washington, D.C., USA (East) – iad1\n2025-07-27T12:19:02.315Z  Build machine configuration: 2 cores, 8 GB\n2025-07-27T12:19:02.327Z  Retrieving list of deployment files...\n2025-07-27T12:19:02.651Z  Downloading 170 deployment files...\n2025-07-27T12:19:03.333Z  Restored build cache from previous deployment (A956oeLRKSesFqGwFGAeNi3LpGPg)\n2025-07-27T12:19:03.682Z  Running \"vercel build\"\n2025-07-27T12:19:05.243Z  Vercel CLI 44.5.0\n2025-07-27T12:19:06.968Z  Running \"install\" command: `echo 'No install needed'`...\n2025-07-27T12:19:06.972Z  No install needed\n2025-07-27T12:19:07.090Z  Static site - no build needed\n2025-07-27T12:19:07.244Z  Build Completed in /vercel/output [287ms]\n2025-07-27T12:19:07.282Z  Deploying outputs...\n",
+    "[2025-07-27 20:19:10] [SUCCESS] 部署成功！",
+    "[2025-07-27 20:19:10] [SUCCESS] 部署地址: https://docs-grt4qkrmg-velists-projects.vercel.app",
+    "[2025-07-27 20:19:16] [WARNING] 网站访问异常，状态码: 401"
+  ]
+}

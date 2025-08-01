@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "start_time": "2025-07-27T20:50:09.945167",
+  "end_time": "2025-07-27T20:50:29.922547",
+  "deployment_url": "https://docs-l4keez80d-velists-projects.vercel.app",
+  "errors": [
+    "Vercel CLI 44.6.3\nRetrieving project…\nDeploying velists-projects/docs\nUploading [--------------------] (0.0B/282KB)\nUploading [=====---------------] (74.9KB/282KB)\nUploading [==========----------] (141.8KB/282KB)\nUploading [===============-----] (213.7KB/282KB)\nUploading [====================] (282.0KB/282KB)\nInspect: https://vercel.com/velists-projects/docs/3SBUTp2uUC27ZUaVE9aFhoYF9xkD [8s]\nProduction: https://docs-l4keez80d-velists-projects.vercel.app [8s]\nQueued\n2025-07-27T12:50:22.707Z  Running build in Washington, D.C., USA (East) – iad1\n2025-07-27T12:50:22.708Z  Build machine configuration: 2 cores, 8 GB\n2025-07-27T12:50:22.721Z  Retrieving list of deployment files...\n2025-07-27T12:50:23.039Z  Downloading 210 deployment files...\n2025-07-27T12:50:23.793Z  Restored build cache from previous deployment (HX4kX6hgW3G5knF5cgtrEx67tC9o)\n2025-07-27T12:50:23.986Z  Running \"vercel build\"\n2025-07-27T12:50:24.860Z  Vercel CLI 44.5.0\n2025-07-27T12:50:26.351Z  Running \"install\" command: `echo 'No install needed'`...\n2025-07-27T12:50:26.355Z  No install needed\n2025-07-27T12:50:26.457Z  Static site - no build needed\n2025-07-27T12:50:26.617Z  Build Completed in /vercel/output [276ms]\n2025-07-27T12:50:26.654Z  Deploying outputs...\n"
+  ],
+  "logs": [
+    "[2025-07-27 20:50:09] [INFO] ==================================================",
+    "[2025-07-27 20:50:09] [INFO] 开始Vercel部署流程",
+    "[2025-07-27 20:50:09] [INFO] ==================================================",
+    "[2025-07-27 20:50:09] [INFO] 检查项目大小...",
+    "[2025-07-27 20:50:09] [INFO] 项目总大小: 1.48 MB",
+    "[2025-07-27 20:50:09] [INFO] 文件总数: 213",
+    "[2025-07-27 20:50:09] [INFO] 开始部署到Vercel...",
+    "[2025-07-27 20:50:11] [INFO] 执行部署命令: vercel --prod --yes",
+    "[2025-07-27 20:50:29] [INFO] Vercel输出: https://docs-l4keez80d-velists-projects.vercel.app",
+    "[2025-07-27 20:50:29] [ERROR] Vercel错误: Vercel CLI 44.6.3\nRetrieving project…\nDeploying velists-projects/docs\nUploading [--------------------] (0.0B/282KB)\nUploading [=====---------------] (74.9KB/282KB)\nUploading [==========----------] (141.8KB/282KB)\nUploading [===============-----] (213.7KB/282KB)\nUploading [====================] (282.0KB/282KB)\nInspect: https://vercel.com/velists-projects/docs/3SBUTp2uUC27ZUaVE9aFhoYF9xkD [8s]\nProduction: https://docs-l4keez80d-velists-projects.vercel.app [8s]\nQueued\n2025-07-27T12:50:22.707Z  Running build in Washington, D.C., USA (East) – iad1\n2025-07-27T12:50:22.708Z  Build machine configuration: 2 cores, 8 GB\n2025-07-27T12:50:22.721Z  Retrieving list of deployment files...\n2025-07-27T12:50:23.039Z  Downloading 210 deployment files...\n2025-07-27T12:50:23.793Z  Restored build cache from previous deployment (HX4kX6hgW3G5knF5cgtrEx67tC9o)\n2025-07-27T12:50:23.986Z  Running \"vercel build\"\n2025-07-27T12:50:24.860Z  Vercel CLI 44.5.0\n2025-07-27T12:50:26.351Z  Running \"install\" command: `echo 'No install needed'`...\n2025-07-27T12:50:26.355Z  No install needed\n2025-07-27T12:50:26.457Z  Static site - no build needed\n2025-07-27T12:50:26.617Z  Build Completed in /vercel/output [276ms]\n2025-07-27T12:50:26.654Z  Deploying outputs...\n",
+    "[2025-07-27 20:50:29] [SUCCESS] 部署成功！",
+    "[2025-07-27 20:50:29] [SUCCESS] 部署地址: https://docs-l4keez80d-velists-projects.vercel.app",
+    "[2025-07-27 20:50:39] [WARNING] 网站访问异常，状态码: 401"
+  ]
+}

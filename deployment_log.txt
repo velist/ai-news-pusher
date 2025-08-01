@@ -1,0 +1,19 @@
+[2025-07-27 19:45:43] === 开始完整部署流程 ===
+[2025-07-27 19:45:43] 环境变量加载完成
+[2025-07-27 19:45:43] 开始生成增强版HTML页面...
+[2025-07-27 19:45:43] HTML页面生成完成
+[2025-07-27 19:45:43] Vercel配置检查完成
+[2025-07-27 19:45:43] 开始监控部署状态...
+[2025-07-27 19:45:43] 部署监控页面已创建
+[2025-07-27 19:45:43] 开始部署到Vercel...
+[2025-07-27 19:45:43] 安装Vercel CLI...
+[2025-07-27 19:45:53] 执行Vercel部署...
+[2025-07-27 19:45:55] Vercel部署失败: Vercel CLI 44.6.3
+> NOTE: The Vercel CLI now collects telemetry regarding usage of the CLI.
+> This information is used to shape the CLI roadmap and prioritize features.
+> You can learn more, including how to opt-out if you'd not like to participate in this program, by visiting the following URL:
+> https://vercel.com/docs/cli/about-telemetry
+Retrieving project…
+Error: The specified token is not valid. Use `vercel login` to generate a new token.
+
+[2025-07-27 19:45:55] === 部署失败 ===
