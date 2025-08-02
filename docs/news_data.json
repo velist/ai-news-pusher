@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-02T08:30:58.267700",
+  "last_updated": "2025-08-02T09:27:13.426529",
   "total_count": 10,
   "articles": [
+    {
+      "id": "396dce825fb5",
+      "title": "This Is How Much AMZN, GOOGL, MSFT, and META Will Spend on AI This Year",
+      "summary": "Big Tech companies are ramping up their spending on artificial intelligence, with Amazon (AMZN), Alphabet (GOOGL), Microsoft (MSFT), and Meta (M...",
+      "source": "Business Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/this-is-how-much-amzn-googl-msft-and-meta-will-spend-on-ai-this-year-1034974930",
+      "publishedAt": "2025-08-02T06:33:00Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-37-1024x410.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "This Is How Much AMZN, GOOGL, MSFT, and META Will Spend on AI This Year",
+      "translated_summary": "Big Tech companies are ramping up their spending on artificial intelligence, with Amazon (AMZN), Alphabet (GOOGL), Microsoft (MSFT), and Meta (M...",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "2小时前"
+    },
     {
       "id": "2b04ac273f41",
       "title": "Tim Cook Says He’s “Open to M&A that Accelerates” Apple’s AI Plans",
@@ -14,7 +28,7 @@
       "translated_summary": "Tech giant Apple (AAPL) is changing its strategy on artificial intelligence, with CEO Tim Cook saying that the company is now willing to spend m...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "a64278cc9fbd",
@@ -28,7 +42,7 @@
       "translated_summary": "Meta CEO Mark Zuckerberg is on a mission for his company to be the first to reach so-called artificial superintelligence — generally considered to mean AI that’s better than all humans at all knowledge work.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "a5946c1902e5",
@@ -42,7 +56,7 @@
       "translated_summary": "Social media firm Meta Platforms (META) is continuing its aggressive push into artificial intelligence by targeting startups that specialize in ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "1c4dfa78a04b",
@@ -56,7 +70,7 @@
       "translated_summary": "Tech giant IBM (IBM) recently released its 2025 Cost of a Data Breach Report, which showed that companies are adopting artificial intelligence f...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "366693ebb26d",
@@ -70,7 +84,7 @@
       "translated_summary": "The bidding war for artificial intelligence talent is looking less like a job market and more like NBA free agency, minus the salary cap. Take 24-year-old Matt Deitke, per the...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "8374dfe55b1d",
@@ -84,7 +98,7 @@
       "translated_summary": "Delta Air Lines said Friday it will not use artificial intelligence to set personalized ticket prices for passengers after facing sharp criticism from lawmakers.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "271d2b7af4b5",
@@ -98,7 +112,7 @@
       "translated_summary": "Palantir has been a key beneficiary of President Donald Trump's clampdown on cost efficiencies using artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "d4088d2a74c7",
@@ -126,20 +140,6 @@
       "translated_summary": "OpenAI, the artificial intelligence company backed by tech giant Microsoft (MSFT), has reached a major milestone with annual revenue h...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1天前"
-    },
-    {
-      "id": "f1c496bc49e5",
-      "title": "How AI Is Increasing User Engagement on Meta’s Social Media Platforms",
-      "summary": "Artificial intelligence was the main theme of Meta Platforms’ (META) second‑quarter earnings call, as executives highlighted how AI is transform...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/how-ai-is-increasing-user-engagement-on-meta-s-social-media-platforms-1034968667",
-      "publishedAt": "2025-08-01T04:00:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/07/image-2418-1024x764.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "How AI Is Increasing User Engagement on Meta’s Social Media Platforms",
-      "translated_summary": "Artificial intelligence was the main theme of Meta Platforms’ (META) second‑quarter earnings call, as executives highlighted how AI is transform...",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "1天前"
     }
   ]
