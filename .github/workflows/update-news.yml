@@ -1,0 +1,45 @@
+name: 更新AI新闻
+on:
+  schedule:
+    # 每小时执行一次
+    - cron: '0 * * * *'
+  workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write  # 给予写入权限
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: 设置Python环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: 安装依赖
+      run: |
+        pip install requests beautifulsoup4 python-dateutil pytz
+        
+    - name: 更新新闻
+      env:
+        GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+      run: |
+        python simple_update.py
+        
+    - name: 提交更改
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/
+        if git diff --staged --quiet; then
+          echo "没有新内容需要提交"
+        else
+          git commit -m "🤖 自动更新AI新闻 $(date '+%Y-%m-%d %H:%M')"
+          git push
+        fi

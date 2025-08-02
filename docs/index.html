@@ -3,643 +3,71 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🤖 AI科技日报 - 专业AI资讯平台</title>
-    <meta name="description" content="专注AI前沿资讯，提供OpenAI、ChatGPT、AI模型等最新动态，智能翻译+专家点评，您的AI信息门户">
-    <meta name="keywords" content="AI新闻,人工智能,OpenAI,ChatGPT,AI投资,AI技术,AI应用,AI模型,Gemini,Claude">
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <title>🤖 AI科技日报</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        
         body { 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "SimSun", sans-serif;
-            line-height: 1.6; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh; color: #333;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh; padding: 20px;
         }
-        
-        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
-        
-        .header { 
-            text-align: center; background: rgba(255,255,255,0.95); 
-            border-radius: 24px; padding: 40px 30px; margin-bottom: 30px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.1); backdrop-filter: blur(20px);
-            border: 1px solid rgba(255,255,255,0.2);
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header {
+            text-align: center; background: rgba(255,255,255,0.95);
+            border-radius: 20px; padding: 40px; margin-bottom: 30px;
         }
-        
-        .header h1 { 
-            font-size: 3em; margin-bottom: 15px; font-weight: 800;
+        .header h1 {
+            font-size: 2.5em; margin-bottom: 15px;
             background: linear-gradient(45deg, #667eea, #764ba2);
             -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-            background-clip: text; letter-spacing: -1px;
         }
-        
-        .header .subtitle { 
-            color: #666; font-size: 1.2em; margin-bottom: 25px; font-weight: 400;
-        }
-        
-        .update-time { 
+        .update-time {
             background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white; padding: 12px 28px; border-radius: 30px; 
-            display: inline-block; font-weight: 600; font-size: 1.1em;
-            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+            color: white; padding: 10px 20px; border-radius: 20px;
         }
-        
-        /* 横向滑动的Tab样式 */
-        .tabs-container {
-            background: rgba(255,255,255,0.9); 
-            border-radius: 20px; 
-            margin-bottom: 40px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
-            backdrop-filter: blur(10px);
+        .news-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 25px;
         }
-        
-        .tabs { 
-            display: flex; 
-            overflow-x: auto; 
-            padding: 20px;
-            gap: 15px;
-            scrollbar-width: none; /* Firefox */
-            -ms-overflow-style: none; /* IE 10+ */
+        .news-card {
+            background: rgba(255,255,255,0.95); border-radius: 15px;
+            padding: 25px; transition: transform 0.3s ease;
         }
-        
-        .tabs::-webkit-scrollbar { display: none; } /* Chrome/Safari */
-        
-        .tab { 
-            background: rgba(255,255,255,0.8); 
-            color: #555; 
-            border: 2px solid rgba(0,0,0,0.1);
-            padding: 15px 25px; 
-            border-radius: 25px; 
-            cursor: pointer; 
-            font-size: 1.1em; 
-            font-weight: 600; 
-            transition: all 0.3s ease;
-            display: flex; 
-            align-items: center; 
-            gap: 8px; 
-            white-space: nowrap;
-            flex-shrink: 0; /* 防止Tab收缩 */
-            min-width: fit-content;
-        }
-        
-        .tab:hover { 
-            background: rgba(102, 126, 234, 0.1); 
-            border-color: #667eea;
-            transform: translateY(-2px); 
-            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2);
-        }
-        
-        .tab.active { 
-            background: linear-gradient(45deg, #667eea, #764ba2); 
-            color: white; 
-            border-color: transparent;
-            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
-        }
-        
-        .tab-content { display: none; }
-        .tab-content.active { display: block; }
-        
-        .news-grid { 
-            display: grid; 
-            grid-template-columns: repeat(auto-fit, minmax(420px, 1fr)); 
-            gap: 30px; 
-            margin-top: 20px;
-        }
-        
-        .news-card { 
-            background: rgba(255,255,255,0.95); 
-            border-radius: 20px; 
-            padding: 30px; 
-            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
-            backdrop-filter: blur(10px); 
-            border: 1px solid rgba(255,255,255,0.2);
-            transition: all 0.3s ease; 
-            height: fit-content;
-        }
-        
-        .news-card:hover { 
-            transform: translateY(-5px); 
-            box-shadow: 0 20px 60px rgba(0,0,0,0.15);
-        }
-        
-        .news-meta { 
-            display: flex; 
-            justify-content: space-between; 
-            align-items: center;
-            margin-bottom: 15px; 
-            font-size: 0.9em; 
-            color: #666;
-            flex-wrap: wrap;
-            gap: 8px;
-        }
-        
-        .news-source { 
-            background: rgba(102, 126, 234, 0.1); 
-            color: #667eea; 
-            padding: 6px 12px; 
-            border-radius: 15px; 
-            font-weight: 600;
-        }
-        
-        .news-category {
-            background: rgba(118, 75, 162, 0.1);
-            color: #764ba2;
-            padding: 4px 10px;
-            border-radius: 12px;
-            font-size: 0.85em;
-            font-weight: 500;
-        }
-        
-        .news-time { font-weight: 500; }
-        
-        .news-title { 
-            font-size: 1.4em; 
-            margin-bottom: 15px; 
-            font-weight: 700; 
-            line-height: 1.3;
-        }
-        
-        .news-title a { 
-            color: #333; 
-            text-decoration: none; 
-            transition: color 0.3s ease;
-        }
-        
-        .news-title a:hover { color: #667eea; }
-        
-        .news-summary { 
-            color: #666; 
-            margin-bottom: 20px; 
-            line-height: 1.6;
-        }
-        
-        .news-footer { 
-            display: flex; 
-            justify-content: space-between; 
-            align-items: center;
-        }
-        
-        .read-more { 
-            color: #667eea; 
-            text-decoration: none; 
-            font-weight: 600; 
-            font-size: 1.1em;
-            transition: all 0.3s ease;
-        }
-        
-        .read-more:hover { 
-            color: #764ba2; 
-            transform: translateX(5px);
-        }
-        
-        /* 移动端优化 */
-        @media (max-width: 768px) {
-            .container { padding: 15px; }
-            
-            .header { padding: 30px 20px; }
-            
-            .header h1 { font-size: 2.2em; }
-            
-            .tabs { padding: 15px; gap: 10px; }
-            
-            .tab { 
-                padding: 12px 20px; 
-                font-size: 1em;
-                min-width: 120px;
-            }
-            
-            .news-grid { 
-                grid-template-columns: 1fr; 
-                gap: 20px;
-            }
-            
-            .news-card { padding: 25px; }
-            
-            .news-title { font-size: 1.2em; }
-            
-            .news-meta {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 8px;
-            }
-        }
-        
-        /* 超小屏幕优化 */
-        @media (max-width: 480px) {
-            .header h1 { font-size: 1.8em; }
-            
-            .header .subtitle { font-size: 1em; }
-            
-            .update-time { 
-                padding: 10px 20px; 
-                font-size: 1em;
-            }
-            
-            .tab { 
-                padding: 10px 16px; 
-                min-width: 100px;
-            }
-            
-            .news-card { padding: 20px; }
-        }
+        .news-card:hover { transform: translateY(-5px); }
+        .news-meta { color: #666; margin-bottom: 15px; }
+        .source { background: #f0f0f0; padding: 4px 8px; border-radius: 10px; }
+        .news-card h3 { margin-bottom: 15px; }
+        .news-card a { color: #333; text-decoration: none; }
+        .news-card a:hover { color: #667eea; }
+        .read-more { color: #667eea; text-decoration: none; font-weight: 600; }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
             <h1>🤖 AI科技日报</h1>
-            <p class="subtitle">专注人工智能前沿资讯，每日精选优质内容</p>
-            <div class="update-time">最后更新：2025年08月02日 02:09</div>
+            <p>专注人工智能前沿资讯</p>
+            <div class="update-time">最后更新：2025年08月02日 15:25</div>
         </div>
-        
-        <div class="tabs-container">
-            <div class="tabs">
-                
-                <div class="tab active" data-category="全部">
-                    📰 全部 (45)
-                </div>
-            
-                <div class="tab " data-category="热门">
-                    🔥 热门 (8)
-                </div>
-            
-                <div class="tab " data-category="模型">
-                    🤖 模型 (5)
-                </div>
-            
-                <div class="tab " data-category="公司动态">
-                    🏢 公司动态 (8)
-                </div>
-            
-                <div class="tab " data-category="技术突破">
-                    🚀 技术突破 (8)
-                </div>
-            
-                <div class="tab " data-category="投资并购">
-                    💰 投资并购 (8)
-                </div>
-            
+        <div class="news-grid">
+        <div class="news-card">
+            <div class="news-meta">
+                <span class="source">Tech News</span>
+                <span class="time">0分钟前</span>
             </div>
+            <h3><a href="news/example1.html">OpenAI发布新AI模型</a></h3>
+            <p>OpenAI宣布推出功能改进的新AI模型。</p>
+            <a href="news/example1.html" class="read-more">阅读全文 →</a>
         </div>
-        
-        
-                <div class="tab-content active" id="全部">
-                    <div class="news-grid">
-                        
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">CBS News</span>
-                            <span class="news-time">18分钟前</span>
-                            <span class="news-category">🔥 热门</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/c28427e8.html">AI导致数千工作岗位流失，报告发现</a>
-                        </h3>
-                        <p class="news-summary">今年的新就业数据显示，工作场所人工智能的应用是今年裁员数量激增的一个因素。</p>
-                        <div class="news-footer">
-                            <a href="news/c28427e8.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">TechStartups.com</span>
-                            <span class="news-time">25分钟前</span>
-                            <span class="news-category">🤖 模型</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/4ecf0ef4.html">英伟达和alphabet旗下CapitalG正与估值达300亿美元的存储创业公司Vast Data进行洽谈，以提供支持，正值人工智能基础设施热潮之际。</a>
-                        </h3>
-                        <p class="news-summary">人工智能的淘金热不仅推动了模型构建者的发展，还为支撑其基础设施的公司提供了动力。据路透社援引两名消息人士的话报道，专注于存储领域的初创公司Vast Data正就筹集数十亿美元的新资金进行谈判，这可能使其估值高达300亿美元。</p>
-                        <div class="news-footer">
-                            <a href="news/4ecf0ef4.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">Wccftech</span>
-                            <span class="news-time">27分钟前</span>
-                            <span class="news-category">💰 投资并购</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/ffbcfe0c.html">OpenAI以300亿美元估值筹集83亿美元，投资者蜂拥而至使其提前关闭轮融资，显示出高涨的信心并悄然迈向未来首次公开募股之路</a>
-                        </h3>
-                        <p class="news-summary">OpenAI已经以300亿美元的估值筹集了83亿美元，并且其目标是达到400亿美元的估值。</p>
-                        <div class="news-footer">
-                            <a href="news/ffbcfe0c.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">Ars Technica</span>
-                            <span class="news-time">35分钟前</span>
-                            <span class="news-category">🤖 模型</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/bec15b83.html">ChatGPT 用户惊讶地发现他们的对话出现在了谷歌搜索结果中</a>
-                        </h3>
-                        <p class="news-summary">OpenAI 迅速删除谷歌搜索结果中的个人 ChatGPT 对话</p>
-                        <div class="news-footer">
-                            <a href="news/bec15b83.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">WIS10</span>
-                            <span class="news-time">39分钟前</span>
-                            <span class="news-category">🚀 技术突破</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/6fcf93c5.html">伊莫消防局计划通过AI减少消防员交通违规行为</a>
-                        </h3>
-                        <p class="news-summary">伊莫火区已实施新技术，以审查其消防员的驾驶历史并减少交通违规行为。</p>
-                        <div class="news-footer">
-                            <a href="news/6fcf93c5.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">GIVEMESPORT</span>
-                            <span class="news-time">58分钟前</span>
-                            <span class="news-category">🤖 模型</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/3ea57111.html">AI被评为当前最佳英超11人阵容（2025年版）</a>
-                        </h3>
-                        <p class="news-summary">包括埃林·哈兰德和莫哈默德·萨拉赫在内，ChatGPT选出了英超最佳十一人阵容。</p>
-                        <div class="news-footer">
-                            <a href="news/3ea57111.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">Fox News</span>
-                            <span class="news-time">59分钟前</span>
-                            <span class="news-category">🏢 公司动态</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/cae0d5a9.html">Meta为Instagram和Facebook添加青少年安全功能</a>
-                        </h3>
-                        <p class="news-summary">Meta 在Instagram和Facebook上推出了新的青少年安全功能，包括显示账号创建日期、更便捷的屏蔽工具以及AI检测系统。</p>
-                        <div class="news-footer">
-                            <a href="news/cae0d5a9.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">CBS News</span>
-                            <span class="news-time">1小时前</span>
-                            <span class="news-category">🤖 模型</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/88c29079.html">一款应用程序利用人工智能帮助家长追踪孩子的在线行为和福祉。以下是其工作方式。</a>
-                        </h3>
-                        <p class="news-summary">Aura的CEO表示，他利用医疗专家的帮助开发了这款应用程序。专业人士训练AI模型分析孩子的语言模式、在线语气、情绪状态以及夜间活动情况。</p>
-                        <div class="news-footer">
-                            <a href="news/88c29079.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">Hot Hardware</span>
-                            <span class="news-time">1小时前</span>
-                            <span class="news-category">🏢 公司动态</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/18092ebc.html">英特尔XeSS 2.1更新邀请AMD和NVIDIA显卡加入其帧生成派对</a>
-                        </h3>
-                        <p class="news-summary">最新的XeSS 2.1 SDK扩展了对AI驱动的帧生成的支持，甚至包括更古老的AMD和NVIDIA GPU。</p>
-                        <div class="news-footer">
-                            <a href="news/18092ebc.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">The Dallas Morning News</span>
-                            <span class="news-time">1小时前</span>
-                            <span class="news-category">💰 投资并购</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/6202f102.html">人工智能驱动的酒店及会展中心计划落户25亿美元曼斯菲尔德开发项目</a>
-                        </h3>
-                        <p class="news-summary">德克萨斯州达拉斯的开发商唐GRAM之家已在美国曼斯菲尔德的25亿美元Staybolt街区购得30英亩土地，计划建设一个会展中心和...</p>
-                        <div class="news-footer">
-                            <a href="news/6202f102.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    </div>
-                </div>
-            
-                <div class="tab-content " id="热门">
-                    <div class="news-grid">
-                        
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">CBS News</span>
-                            <span class="news-time">18分钟前</span>
-                            <span class="news-category">🔥 热门</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/c28427e8.html">AI导致数千工作岗位流失，报告发现</a>
-                        </h3>
-                        <p class="news-summary">今年的新就业数据显示，工作场所人工智能的应用是今年裁员数量激增的一个因素。</p>
-                        <div class="news-footer">
-                            <a href="news/c28427e8.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    </div>
-                </div>
-            
-                <div class="tab-content " id="模型">
-                    <div class="news-grid">
-                        
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">TechStartups.com</span>
-                            <span class="news-time">25分钟前</span>
-                            <span class="news-category">🤖 模型</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/4ecf0ef4.html">英伟达和alphabet旗下CapitalG正与估值达300亿美元的存储创业公司Vast Data进行洽谈，以提供支持，正值人工智能基础设施热潮之际。</a>
-                        </h3>
-                        <p class="news-summary">人工智能的淘金热不仅推动了模型构建者的发展，还为支撑其基础设施的公司提供了动力。据路透社援引两名消息人士的话报道，专注于存储领域的初创公司Vast Data正就筹集数十亿美元的新资金进行谈判，这可能使其估值高达300亿美元。</p>
-                        <div class="news-footer">
-                            <a href="news/4ecf0ef4.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">Ars Technica</span>
-                            <span class="news-time">35分钟前</span>
-                            <span class="news-category">🤖 模型</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/bec15b83.html">ChatGPT 用户惊讶地发现他们的对话出现在了谷歌搜索结果中</a>
-                        </h3>
-                        <p class="news-summary">OpenAI 迅速删除谷歌搜索结果中的个人 ChatGPT 对话</p>
-                        <div class="news-footer">
-                            <a href="news/bec15b83.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">GIVEMESPORT</span>
-                            <span class="news-time">58分钟前</span>
-                            <span class="news-category">🤖 模型</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/3ea57111.html">AI被评为当前最佳英超11人阵容（2025年版）</a>
-                        </h3>
-                        <p class="news-summary">包括埃林·哈兰德和莫哈默德·萨拉赫在内，ChatGPT选出了英超最佳十一人阵容。</p>
-                        <div class="news-footer">
-                            <a href="news/3ea57111.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">CBS News</span>
-                            <span class="news-time">1小时前</span>
-                            <span class="news-category">🤖 模型</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/88c29079.html">一款应用程序利用人工智能帮助家长追踪孩子的在线行为和福祉。以下是其工作方式。</a>
-                        </h3>
-                        <p class="news-summary">Aura的CEO表示，他利用医疗专家的帮助开发了这款应用程序。专业人士训练AI模型分析孩子的语言模式、在线语气、情绪状态以及夜间活动情况。</p>
-                        <div class="news-footer">
-                            <a href="news/88c29079.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    </div>
-                </div>
-            
-                <div class="tab-content " id="公司动态">
-                    <div class="news-grid">
-                        
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">Fox News</span>
-                            <span class="news-time">59分钟前</span>
-                            <span class="news-category">🏢 公司动态</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/cae0d5a9.html">Meta为Instagram和Facebook添加青少年安全功能</a>
-                        </h3>
-                        <p class="news-summary">Meta 在Instagram和Facebook上推出了新的青少年安全功能，包括显示账号创建日期、更便捷的屏蔽工具以及AI检测系统。</p>
-                        <div class="news-footer">
-                            <a href="news/cae0d5a9.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">Hot Hardware</span>
-                            <span class="news-time">1小时前</span>
-                            <span class="news-category">🏢 公司动态</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/18092ebc.html">英特尔XeSS 2.1更新邀请AMD和NVIDIA显卡加入其帧生成派对</a>
-                        </h3>
-                        <p class="news-summary">最新的XeSS 2.1 SDK扩展了对AI驱动的帧生成的支持，甚至包括更古老的AMD和NVIDIA GPU。</p>
-                        <div class="news-footer">
-                            <a href="news/18092ebc.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    </div>
-                </div>
-            
-                <div class="tab-content " id="技术突破">
-                    <div class="news-grid">
-                        
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">WIS10</span>
-                            <span class="news-time">39分钟前</span>
-                            <span class="news-category">🚀 技术突破</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/6fcf93c5.html">伊莫消防局计划通过AI减少消防员交通违规行为</a>
-                        </h3>
-                        <p class="news-summary">伊莫火区已实施新技术，以审查其消防员的驾驶历史并减少交通违规行为。</p>
-                        <div class="news-footer">
-                            <a href="news/6fcf93c5.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    </div>
-                </div>
-            
-                <div class="tab-content " id="投资并购">
-                    <div class="news-grid">
-                        
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">Wccftech</span>
-                            <span class="news-time">27分钟前</span>
-                            <span class="news-category">💰 投资并购</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/ffbcfe0c.html">OpenAI以300亿美元估值筹集83亿美元，投资者蜂拥而至使其提前关闭轮融资，显示出高涨的信心并悄然迈向未来首次公开募股之路</a>
-                        </h3>
-                        <p class="news-summary">OpenAI已经以300亿美元的估值筹集了83亿美元，并且其目标是达到400亿美元的估值。</p>
-                        <div class="news-footer">
-                            <a href="news/ffbcfe0c.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    <div class="news-card">
-                        <div class="news-meta">
-                            <span class="news-source">The Dallas Morning News</span>
-                            <span class="news-time">1小时前</span>
-                            <span class="news-category">💰 投资并购</span>
-                        </div>
-                        <h3 class="news-title">
-                            <a href="news/6202f102.html">人工智能驱动的酒店及会展中心计划落户25亿美元曼斯菲尔德开发项目</a>
-                        </h3>
-                        <p class="news-summary">德克萨斯州达拉斯的开发商唐GRAM之家已在美国曼斯菲尔德的25亿美元Staybolt街区购得30英亩土地，计划建设一个会展中心和...</p>
-                        <div class="news-footer">
-                            <a href="news/6202f102.html" class="read-more">阅读全文 →</a>
-                        </div>
-                    </div>
-                
-                    </div>
-                </div>
-            
+        <div class="news-card">
+            <div class="news-meta">
+                <span class="source">Business Daily</span>
+                <span class="time">0分钟前</span>
+            </div>
+            <h3><a href="news/example2.html">AI行业迎来重大投资</a></h3>
+            <p>风险投资对AI公司的资金投入达到新高。</p>
+            <a href="news/example2.html" class="read-more">阅读全文 →</a>
+        </div></div>
     </div>
-    
-    <script>
-        // Tab切换功能
-        document.addEventListener('DOMContentLoaded', function() {
-            const tabs = document.querySelectorAll('.tab');
-            const contents = document.querySelectorAll('.tab-content');
-            
-            tabs.forEach(tab => {
-                tab.addEventListener('click', function() {
-                    const category = this.dataset.category;
-                    
-                    // 移除所有active类
-                    tabs.forEach(t => t.classList.remove('active'));
-                    contents.forEach(c => c.classList.remove('active'));
-                    
-                    // 添加active类到当前选中的
-                    this.classList.add('active');
-                    document.getElementById(category).classList.add('active');
-                });
-            });
-        });
-    </script>
 </body>
 </html>
