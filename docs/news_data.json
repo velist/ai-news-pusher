@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-03T09:25:38.300590",
+  "last_updated": "2025-08-03T10:25:39.532181",
   "total_count": 10,
   "articles": [
+    {
+      "id": "0af5c2cca1cb",
+      "title": "Silicon Valley’s AI Spend Goes Berserk as Microsoft Starts Cashing In",
+      "summary": "Tech giants reported eye-watering figures linked to artificial intelligence investment.",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/silicon-valleys-ai-spend-goes-berserk-as-microsoft-starts-cashing-in-2000638318",
+      "publishedAt": "2025-08-03T10:00:27Z",
+      "image": "https://gizmodo.com/app/uploads/2025/07/GettyImages-2153471300-1200x675.jpg",
+      "translated_title": "Silicon Valley’s AI Spend Goes Berserk as Microsoft Starts Cashing In",
+      "translated_summary": "Tech giants reported eye-watering figures linked to artificial intelligence investment.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "25分钟前"
+    },
     {
       "id": "2b04ac273f41",
       "title": "Tim Cook Says He’s “Open to M&A that Accelerates” Apple’s AI Plans",
@@ -14,7 +28,7 @@
       "translated_summary": "Tech giant Apple (AAPL) is changing its strategy on artificial intelligence, with CEO Tim Cook saying that the company is now willing to spend m...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "a5946c1902e5",
@@ -28,7 +42,7 @@
       "translated_summary": "Social media firm Meta Platforms (META) is continuing its aggressive push into artificial intelligence by targeting startups that specialize in ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "502a71ec49d6",
@@ -42,7 +56,7 @@
       "translated_summary": "WASHINGTON - Delta Air Lines said on Friday it will not use artificial intelligence to set personalized ticket prices for passengers after facing sharp criticism from U.S. lawmakers and broad public concern",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "f6583a66bde5",
@@ -56,7 +70,7 @@
       "translated_summary": "Artificial intelligence (AI) is still one of the most exciting investment themes of the decade. Two such companies, SoundHound AI (SOUN) and Big...",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "396dce825fb5",
@@ -70,7 +84,7 @@
       "translated_summary": "Big Tech companies are ramping up their spending on artificial intelligence, with Amazon (AMZN), Alphabet (GOOGL), Microsoft (MSFT), and Meta (M...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "34a55fb5d60a",
@@ -84,7 +98,7 @@
       "translated_summary": "Major technology companies are reassessing the way they promote artificial intelligence features after increased scrutiny from industry and federal regulators. Over the past year, Apple, Google, Microsoft,...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "a64278cc9fbd",
@@ -124,20 +138,6 @@
       "image": "https://img1-azrcdn.newser.com/image/1625736-12-20250801095401.jpeg",
       "translated_title": "Bidding Wars for AI's Top Talent Would Make an NBA Star Blush",
       "translated_summary": "The bidding war for artificial intelligence talent is looking less like a job market and more like NBA free agency, minus the salary cap. Take 24-year-old Matt Deitke, per the...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "8374dfe55b1d",
-      "title": "Delta Air Lines says it won't use AI to set ticket prices",
-      "summary": "Delta Air Lines said Friday it will not use artificial intelligence to set personalized ticket prices for passengers after facing sharp criticism from lawmakers.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/01/business/delta-air-lines-says-it-wont-use-ai-to-set-ticket-prices/",
-      "publishedAt": "2025-08-01T19:01:25Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/delta-artificial-intelligence-tickets.jpg?quality=75&strip=all&1754057544&w=1024",
-      "translated_title": "Delta Air Lines says it won't use AI to set ticket prices",
-      "translated_summary": "Delta Air Lines said Friday it will not use artificial intelligence to set personalized ticket prices for passengers after facing sharp criticism from lawmakers.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
