@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-03T22:24:36.610739",
+  "last_updated": "2025-08-03T23:25:03.984092",
   "total_count": 10,
   "articles": [
+    {
+      "id": "1291320158f5",
+      "title": "Artificial intelligence could end disease, lead to \"radical abundance,\" Google DeepMind CEO Demis Hassabis says",
+      "summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/texas/news/artificial-intelligence-google-deepmind-ceo-demis-hassabis-60-minutes-transcript/",
+      "publishedAt": "2025-08-03T23:00:18Z",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/18/3855672c-c9c1-4e80-8544-9289a8c332ce/thumbnail/1200x630/c6dd5aa4ac3718f3d6a6dd7b58571d5b/deepmind-video-pelley.jpg",
+      "translated_title": "Artificial intelligence could end disease, lead to \"radical abundance,\" Google DeepMind CEO Demis Hassabis says",
+      "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "24分钟前"
+    },
+    {
+      "id": "2d4475b6d6a1",
+      "title": "Artificial intelligence could end disease, lead to \"radical abundance,\" Google DeepMind CEO Demis Hassabis says",
+      "summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/artificial-intelligence-google-deepmind-ceo-demis-hassabis-60-minutes-transcript/",
+      "publishedAt": "2025-08-03T23:00:18Z",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/18/3855672c-c9c1-4e80-8544-9289a8c332ce/thumbnail/1200x630/c6dd5aa4ac3718f3d6a6dd7b58571d5b/deepmind-video-pelley.jpg",
+      "translated_title": "Artificial intelligence could end disease, lead to \"radical abundance,\" Google DeepMind CEO Demis Hassabis says",
+      "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "24分钟前"
+    },
     {
       "id": "0af5c2cca1cb",
       "title": "Silicon Valley’s AI Spend Goes Berserk as Microsoft Starts Cashing In",
@@ -14,7 +42,7 @@
       "translated_summary": "Tech giants reported eye-watering figures linked to artificial intelligence investment.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "2b04ac273f41",
@@ -28,7 +56,7 @@
       "translated_summary": "Tech giant Apple (AAPL) is changing its strategy on artificial intelligence, with CEO Tim Cook saying that the company is now willing to spend m...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21小时前"
+      "time": "22小时前"
     },
     {
       "id": "a5946c1902e5",
@@ -42,7 +70,7 @@
       "translated_summary": "Social media firm Meta Platforms (META) is continuing its aggressive push into artificial intelligence by targeting startups that specialize in ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21小时前"
+      "time": "22小时前"
     },
     {
       "id": "502a71ec49d6",
@@ -113,34 +141,6 @@
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
-    },
-    {
-      "id": "1c4dfa78a04b",
-      "title": "IBM’s Data Breach Report Warns that AI Tools Are Growing Hacker Targets",
-      "summary": "Tech giant IBM (IBM) recently released its 2025 Cost of a Data Breach Report, which showed that companies are adopting artificial intelligence f...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/ibm-s-data-breach-report-warns-that-ai-tools-are-growing-hacker-targets-1034974788",
-      "publishedAt": "2025-08-02T02:03:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-49-1024x764.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "IBM’s Data Breach Report Warns that AI Tools Are Growing Hacker Targets",
-      "translated_summary": "Tech giant IBM (IBM) recently released its 2025 Cost of a Data Breach Report, which showed that companies are adopting artificial intelligence f...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "366693ebb26d",
-      "title": "Bidding Wars for AI's Top Talent Would Make an NBA Star Blush",
-      "summary": "The bidding war for artificial intelligence talent is looking less like a job market and more like NBA free agency, minus the salary cap. Take 24-year-old Matt Deitke, per the...",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/372846/ai-talent-wars-heat-up-with-nba-level-pay-packages.html",
-      "publishedAt": "2025-08-01T19:16:00Z",
-      "image": "https://img1-azrcdn.newser.com/image/1625736-12-20250801095401.jpeg",
-      "translated_title": "Bidding Wars for AI's Top Talent Would Make an NBA Star Blush",
-      "translated_summary": "The bidding war for artificial intelligence talent is looking less like a job market and more like NBA free agency, minus the salary cap. Take 24-year-old Matt Deitke, per the...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2天前"
     }
   ]
 }
