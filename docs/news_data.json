@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-04T14:29:39.183730",
+  "last_updated": "2025-08-04T15:29:50.951812",
   "total_count": 10,
   "articles": [
+    {
+      "id": "75f4456faf71",
+      "title": "Hertz rival also uses AI scanners to charge for bogus claims: report",
+      "summary": "Hertz customers aren't the only ones getting burned by artificial intelligence-powered damage scanners.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/04/business/hertz-rival-also-uses-ai-scanners-to-charge-for-bogus-claims-report/",
+      "publishedAt": "2025-08-04T14:27:59Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109202602-1.jpg?quality=75&strip=all&w=1024",
+      "translated_title": "Hertz rival also uses AI scanners to charge for bogus claims: report",
+      "translated_summary": "Hertz customers aren't the only ones getting burned by artificial intelligence-powered damage scanners.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "a45f02b35028",
       "title": "How AI Can Raise Airline Ticket Prices",
@@ -14,7 +28,7 @@
       "translated_summary": "Airlines, including Delta, are testing artificial intelligence in pricing. Get ready for what one startup calls the “exploitation phase.”",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "c4fe4f49ae8e",
@@ -28,7 +42,7 @@
       "translated_summary": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "00e428f27a1b",
@@ -42,7 +56,7 @@
       "translated_summary": "An Austin private school is off on an ambitious experiment in artificial intelligence. Alpha School has already graduated its first class of students schooled...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "571e5a18acea",
@@ -56,7 +70,7 @@
       "translated_summary": "Spending on artificial intelligence infrastructure is increasing across the largest U.S. technology companies. According to Bloomberg, Microsoft...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "1291320158f5",
@@ -70,7 +84,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "2d4475b6d6a1",
@@ -84,7 +98,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "0af5c2cca1cb",
@@ -124,20 +138,6 @@
       "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-27-1024x765.png?utm_source=markets.businessinsider.com&utm_medium=referral",
       "translated_title": "Meta Is Now Targeting Startups that Specialize in AI Videos",
       "translated_summary": "Social media firm Meta Platforms (META) is continuing its aggressive push into artificial intelligence by targeting startups that specialize in ...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "502a71ec49d6",
-      "title": "Delta Air Lines assures U.S. lawmakers it won't personalize fares using AI",
-      "summary": "WASHINGTON — Delta Air Lines said on Friday it will not use artificial intelligence to set personalized ticket prices for passengers after facing sharp criticism from U.S. lawmakers and broad public concern",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/travel/delta-air-lines-assures-us-lawmakers-will-not-personalize-fares-using-rcna222579",
-      "publishedAt": "2025-08-02T22:18:41Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241026-delta-ch-1016-17a27b.jpg",
-      "translated_title": "Delta Air Lines assures U.S. lawmakers it won't personalize fares using AI",
-      "translated_summary": "WASHINGTON — Delta Air Lines said on Friday it will not use artificial intelligence to set personalized ticket prices for passengers after facing sharp criticism from U.S. lawmakers and broad public concern",
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
