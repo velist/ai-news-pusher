@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-04T19:23:22.211412",
+  "last_updated": "2025-08-04T20:29:35.735921",
   "total_count": 10,
   "articles": [
+    {
+      "id": "a1b0956b0037",
+      "title": "Noted Tesla analyst Adam Jonas moving into new role at Morgan Stanley",
+      "summary": "Morgan Stanley auto analyst Adam Jonas will transition into a new internal role focusing on the artificial intelligence theme.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/04/noted-tesla-analyst-adam-jonas-moving-into-new-role-at-morgan-stanley.html",
+      "publishedAt": "2025-08-04T20:04:35Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/105585169-1542737297267untitled-2.jpg?v=1542737376&w=1920&h=1080",
+      "translated_title": "Noted Tesla analyst Adam Jonas moving into new role at Morgan Stanley",
+      "translated_summary": "Morgan Stanley auto analyst Adam Jonas will transition into a new internal role focusing on the artificial intelligence theme.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "25分钟前"
+    },
     {
       "id": "05249b9a3965",
       "title": "Apple CEO Tells Staff AI 'Ours to Grab'",
@@ -14,7 +28,7 @@
       "translated_summary": "Apple Inc. Chief Executive Officer Tim Cook, holding a rare all-hands meeting following earnings results, rallied employees around the company’s artificial intelligence prospects and an “amazing” pipeline of products. The executive gathered staff at Apple’s on-campus auditorium Friday in Cupertino, California, telling them that the AI revolution is “as big or bigger” as the internet, smartphones, cloud computing and apps. “Apple must do this. Apple will do this. This is sort of ours to grab,” Cook told employees, according to people aware of the meeting. “We will make the investment to do it.” The iPhone maker has been late to AI, debuting Apple Intelligence months after OpenAI, Alphabet Inc.’s Google, Microsoft Corp. and others flooded the market with products like ChatGPT. And when Apple finally released its AI tools, they fell flat. Bloomberg's Mark Gurman reports. (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "48分钟前"
+      "time": "1小时前"
     },
     {
       "id": "3de165e82050",
@@ -28,7 +42,7 @@
       "translated_summary": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "4d6b3a3693a9",
@@ -42,7 +56,7 @@
       "translated_summary": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "22b210d2dc96",
@@ -56,7 +70,7 @@
       "translated_summary": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e0ea2ae64dfb",
@@ -70,7 +84,7 @@
       "translated_summary": "Tesla Inc. approved an interim stock award worth about $30 billion for Chief Executive Officer Elon Musk, a massive payout meant to keep the billionaire’s attention on the automaker as a legal fight over a 2018 pay package drags on.\nThe new agreement includes 96 million shares of the automaker that will vest if Musk continues to serve in the top post for another two years, the company said Monday in a regulatory filing. The restricted stock has an exercise price of $23.34, equal to the price in the prior compensation plan.\nThe move underscores Musk’s grip on the company, even as it struggles with falling electric vehicle sales and a slumping stock price. The world’s richest person has said he wants a greater stake in Tesla as he reorients it around futuristic pursuits including artificial intelligence and driverless vehicles.\nBloomberg's Steve Man reports. (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "75f4456faf71",
@@ -84,7 +98,7 @@
       "translated_summary": "Hertz customers aren't the only ones getting burned by artificial intelligence-powered damage scanners.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "a45f02b35028",
@@ -98,7 +112,7 @@
       "translated_summary": "Airlines, including Delta, are testing artificial intelligence in pricing. Get ready for what one startup calls the “exploitation phase.”",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "c4fe4f49ae8e",
@@ -112,7 +126,7 @@
       "translated_summary": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "00e428f27a1b",
@@ -126,21 +140,7 @@
       "translated_summary": "An Austin private school is off on an ambitious experiment in artificial intelligence. Alpha School has already graduated its first class of students schooled...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
-    },
-    {
-      "id": "571e5a18acea",
-      "title": "Microsoft and Meta Drive Big Tech’s AI Spend Toward $400 Billion",
-      "summary": "Spending on artificial intelligence infrastructure is increasing across the largest U.S. technology companies. According to Bloomberg, Microsoft...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/microsoft-and-meta-drive-big-tech-s-ai-spend-toward-400-billion-1034975575",
-      "publishedAt": "2025-08-04T02:30:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/ai_investment_charts_combined-499x1024.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Microsoft and Meta Drive Big Tech’s AI Spend Toward $400 Billion",
-      "translated_summary": "Spending on artificial intelligence infrastructure is increasing across the largest U.S. technology companies. According to Bloomberg, Microsoft...",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "16小时前"
+      "time": "13小时前"
     }
   ]
 }
