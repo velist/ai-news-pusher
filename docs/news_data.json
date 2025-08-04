@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-04T13:47:45.022591",
+  "last_updated": "2025-08-04T14:29:39.183730",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,21 @@
       "translated_summary": "Airlines, including Delta, are testing artificial intelligence in pricing. Get ready for what one startup calls the “exploitation phase.”",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
+    },
+    {
+      "id": "c4fe4f49ae8e",
+      "title": "A.I. Has Ushered in Silicon Valley’s ‘Hard Tech’ Era",
+      "summary": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/04/technology/ai-silicon-valley-hard-tech.html",
+      "publishedAt": "2025-08-04T09:00:11Z",
+      "image": "https://static01.nyt.com/images/2025/07/01/01visualUploader-67056-cover/01visualUploader-67056-cover-facebookJumbo.jpg",
+      "translated_title": "A.I. Has Ushered in Silicon Valley’s ‘Hard Tech’ Era",
+      "translated_summary": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "5小时前"
     },
     {
       "id": "00e428f27a1b",
@@ -28,7 +42,7 @@
       "translated_summary": "An Austin private school is off on an ambitious experiment in artificial intelligence. Alpha School has already graduated its first class of students schooled...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "571e5a18acea",
@@ -56,7 +70,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "2d4475b6d6a1",
@@ -70,7 +84,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "0af5c2cca1cb",
@@ -126,20 +140,6 @@
       "translated_summary": "WASHINGTON — Delta Air Lines said on Friday it will not use artificial intelligence to set personalized ticket prices for passengers after facing sharp criticism from U.S. lawmakers and broad public concern",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "f6583a66bde5",
-      "title": "SOUN or BBAI: Which AI Stock Deserves a Spot in Your 2025 Portfolio?",
-      "summary": "Artificial intelligence (AI) is still one of the most exciting investment themes of the decade. Two such companies, SoundHound AI (SOUN) and Big...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/soun-or-bbai-which-ai-stock-deserves-a-spot-in-your-2025-portfolio-1034960729",
-      "publishedAt": "2025-08-02T19:12:46Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/07/Picture-1-43.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "SOUN or BBAI: Which AI Stock Deserves a Spot in Your 2025 Portfolio?",
-      "translated_summary": "Artificial intelligence (AI) is still one of the most exciting investment themes of the decade. Two such companies, SoundHound AI (SOUN) and Big...",
-      "category": "投资并购",
-      "category_icon": "💰",
       "time": "1天前"
     }
   ]
