@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-04T06:45:20.523601",
+  "last_updated": "2025-08-04T07:33:07.818672",
   "total_count": 10,
   "articles": [
+    {
+      "id": "00e428f27a1b",
+      "title": "Are AI-powered schools the future? Not so fast",
+      "summary": "An Austin private school is off on an ambitious experiment in artificial intelligence. Alpha School has already graduated its first class of students schooled...",
+      "source": "The Dallas Morning News",
+      "url": "https://www.dallasnews.com/opinion/editorials/2025/08/04/are-ai-powered-schools-the-future-not-so-fast/",
+      "publishedAt": "2025-08-04T07:00:00Z",
+      "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/MYNPM4NNA5E4BGOAIWXCKOMQMY.jpg?auth=52ebb0f77e6634ac35e2682c87b03cd4d9eca4181c73b008823ef086f2181e04&quality=80&width=1200&height=630&smart=true",
+      "translated_title": "Are AI-powered schools the future? Not so fast",
+      "translated_summary": "An Austin private school is off on an ambitious experiment in artificial intelligence. Alpha School has already graduated its first class of students schooled...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "33分钟前"
+    },
     {
       "id": "571e5a18acea",
       "title": "Microsoft and Meta Drive Big Tech’s AI Spend Toward $400 Billion",
@@ -14,7 +28,7 @@
       "translated_summary": "Spending on artificial intelligence infrastructure is increasing across the largest U.S. technology companies. According to Bloomberg, Microsoft...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "1291320158f5",
@@ -28,7 +42,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "2d4475b6d6a1",
@@ -42,7 +56,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "0af5c2cca1cb",
@@ -56,7 +70,7 @@
       "translated_summary": "Tech giants reported eye-watering figures linked to artificial intelligence investment.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "2b04ac273f41",
@@ -124,20 +138,6 @@
       "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-37-1024x410.png?utm_source=markets.businessinsider.com&utm_medium=referral",
       "translated_title": "This Is How Much AMZN, GOOGL, MSFT, and META Will Spend on AI This Year",
       "translated_summary": "Big Tech companies are ramping up their spending on artificial intelligence, with Amazon (AMZN), Alphabet (GOOGL), Microsoft (MSFT), and Meta (M...",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "1天前"
-    },
-    {
-      "id": "34a55fb5d60a",
-      "title": "Apple, Google, Microsoft, and Samsung revise advertising over exaggerated AI claims after regulator scrutiny",
-      "summary": "Major technology companies are reassessing the way they promote artificial intelligence features after increased scrutiny from industry and federal regulators. Over the past year, Apple, Google, Microsoft,...",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/108904-apple-google-microsoft-samsung-revise-advertising-over-exaggerated.html",
-      "publishedAt": "2025-08-02T12:40:30Z",
-      "image": "https://www.techspot.com/images2/news/bigimage/2025/08/2025-08-01-image-17.jpg",
-      "translated_title": "Apple, Google, Microsoft, and Samsung revise advertising over exaggerated AI claims after regulator scrutiny",
-      "translated_summary": "Major technology companies are reassessing the way they promote artificial intelligence features after increased scrutiny from industry and federal regulators. Over the past year, Apple, Google, Microsoft,...",
       "category": "公司动态",
       "category_icon": "🏢",
       "time": "1天前"
