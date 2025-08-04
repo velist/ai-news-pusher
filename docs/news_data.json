@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-04T02:23:55.477826",
+  "last_updated": "2025-08-04T04:18:01.322247",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "2d4475b6d6a1",
@@ -28,7 +28,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "0af5c2cca1cb",
@@ -42,7 +42,7 @@
       "translated_summary": "Tech giants reported eye-watering figures linked to artificial intelligence investment.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "16小时前"
+      "time": "18小时前"
     },
     {
       "id": "2b04ac273f41",
@@ -140,7 +140,7 @@
       "translated_summary": "Meta CEO Mark Zuckerberg is on a mission for his company to be the first to reach so-called artificial superintelligence — generally considered to mean AI that’s better than all humans at all knowledge work.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1天前"
+      "time": "2天前"
     }
   ]
 }
