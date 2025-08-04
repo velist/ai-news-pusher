@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-04T04:18:01.322247",
+  "last_updated": "2025-08-04T05:39:19.606170",
   "total_count": 10,
   "articles": [
+    {
+      "id": "571e5a18acea",
+      "title": "Microsoft and Meta Drive Big Tech’s AI Spend Toward $400 Billion",
+      "summary": "Spending on artificial intelligence infrastructure is increasing across the largest U.S. technology companies. According to Bloomberg, Microsoft...",
+      "source": "Business Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/microsoft-and-meta-drive-big-tech-s-ai-spend-toward-400-billion-1034975575",
+      "publishedAt": "2025-08-04T02:30:00Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/ai_investment_charts_combined-499x1024.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Microsoft and Meta Drive Big Tech’s AI Spend Toward $400 Billion",
+      "translated_summary": "Spending on artificial intelligence infrastructure is increasing across the largest U.S. technology companies. According to Bloomberg, Microsoft...",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "3小时前"
+    },
     {
       "id": "1291320158f5",
       "title": "Artificial intelligence could end disease, lead to \"radical abundance,\" Google DeepMind CEO Demis Hassabis says",
@@ -14,7 +28,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "2d4475b6d6a1",
@@ -28,7 +42,7 @@
       "translated_summary": "At Google DeepMind, researchers are chasing what's called artificial general intelligence: a silicon intellect as versatile as a human's, but with superhuman speed and knowledge.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "0af5c2cca1cb",
@@ -42,7 +56,7 @@
       "translated_summary": "Tech giants reported eye-watering figures linked to artificial intelligence investment.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "2b04ac273f41",
@@ -127,20 +141,6 @@
       "category": "公司动态",
       "category_icon": "🏢",
       "time": "1天前"
-    },
-    {
-      "id": "a64278cc9fbd",
-      "title": "Meta is shelling out big bucks to get ahead in AI. Here’s who it’s hiring",
-      "summary": "Meta CEO Mark Zuckerberg is on a mission for his company to be the first to reach so-called artificial superintelligence — generally considered to mean AI that’s better than all humans at all knowledge work.",
-      "source": "Cable News Network",
-      "url": "https://edition.cnn.com/2025/07/25/tech/meta-ai-superintelligence-team-who-its-hiring",
-      "publishedAt": "2025-08-02T04:00:00Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-07-14t100407z-1055504771-rc2udca35s86-rtrmadp-3-meta-platforms-privacy-trial.JPG?c=16x9&q=w_800,c_fill",
-      "translated_title": "Meta is shelling out big bucks to get ahead in AI. Here’s who it’s hiring",
-      "translated_summary": "Meta CEO Mark Zuckerberg is on a mission for his company to be the first to reach so-called artificial superintelligence — generally considered to mean AI that’s better than all humans at all knowledge work.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2天前"
     }
   ]
 }
