@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-05T12:56:34.130331",
+  "last_updated": "2025-08-05T13:47:21.234863",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,21 @@
       "translated_summary": "President Donald Trump told Breitbart News concerns over entry-level job losses due to the rise of artificial intelligence (AI) are misplaced, and there will be a surge in new jobs meant to build out the AI future.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "5111a89a68d4",
+      "title": "OpenAI, Google and Anthropic Win US Approval for Civilian AI Contracts",
+      "summary": "The US government’s central purchasing arm is adding OpenAI, Alphabet Inc.’s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-05/openai-google-and-anthropic-win-us-approval-for-civilian-ai-contracts",
+      "publishedAt": "2025-08-05T12:30:00Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHMqa.qKbEaQ/v0/1200x788.jpg",
+      "translated_title": "OpenAI, Google and Anthropic Win US Approval for Civilian AI Contracts",
+      "translated_summary": "The US government’s central purchasing arm is adding OpenAI, Alphabet Inc.’s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
     },
     {
       "id": "de872ff4aa58",
@@ -28,7 +42,7 @@
       "translated_summary": "Abu Dhabi-based MGX is considering plans to raise billions of dollars in third-party capital as it looks to ramp up investments in artificial intelligence, according to people familiar with the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "03af74bb5c65",
@@ -42,7 +56,7 @@
       "translated_summary": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race. The question is whether it’s enough to justify a rally that has outpaced Nvidia Corp.’s performance this year.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "d52970c7da7b",
@@ -56,7 +70,7 @@
       "translated_summary": "It's possible to ask artificial intelligence to enhance online dating profiles. But the question isn't can we, it's should we?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "5c149f3ed1af",
@@ -70,7 +84,7 @@
       "translated_summary": "SoftBank Group Corp. is building up stakes in Nvidia Corp. and Taiwan Semiconductor Manufacturing Co., the latest reflection of Masayoshi Son’s focus on the tools and hardware underpinning artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "42b626f6889b",
@@ -84,7 +98,7 @@
       "translated_summary": "Billie Lourd is set to join the cast of the Amazon MGM Studios AI pic 'Artificial'",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "518e56bc18db",
@@ -98,7 +112,7 @@
       "translated_summary": "'Star Wars' has had a contentious relationship with artificial intelligences for a very long time—and now that we find ourselves staring down the barrel of generative AI, the galaxy far, far away has given us the surprising language to denigrate it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "50a2b7924c48",
@@ -112,7 +126,7 @@
       "translated_summary": "Palantir Technologies Inc. reported a 48% increase in revenue for the second quarter to more than $1 billion, citing the “astonishing impact” of artificial technology on its business.  \nThe data software company also raised its revenue outlook for the full year to $4.14 billion to $4.15 billion, exceeding analysts’ prior expectation of $3.91 billion. \nThe shares gained about 4% in extended trading after closing at $160.66 in New York. Denver-based Palantir has seen its stock price surge more than 500% over the past year — buoyed by high expectations from investors, growth in demand for AI tools and a deep reach into both the private and public sectors. The company’s $1 billion revenue in the period ended June 30 exceeded analysts’ average estimate of $939 million. It said growth was particularly strong in the US, where sales jumped 68% to $733 million. (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "c4fe4f49ae8e",
@@ -124,20 +138,6 @@
       "image": "https://static01.nyt.com/images/2025/07/01/01visualUploader-67056-cover/01visualUploader-67056-cover-facebookJumbo.jpg",
       "translated_title": "A.I. Has Ushered in Silicon Valley’s ‘Hard Tech’ Era",
       "translated_summary": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "16小时前"
-    },
-    {
-      "id": "a1b0956b0037",
-      "title": "Noted Tesla analyst Adam Jonas moving into new role at Morgan Stanley",
-      "summary": "Morgan Stanley auto analyst Adam Jonas will transition into a new internal role focusing on the artificial intelligence theme.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/04/noted-tesla-analyst-adam-jonas-moving-into-new-role-at-morgan-stanley.html",
-      "publishedAt": "2025-08-04T20:04:35Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/105585169-1542737297267untitled-2.jpg?v=1542737376&w=1920&h=1080",
-      "translated_title": "Noted Tesla analyst Adam Jonas moving into new role at Morgan Stanley",
-      "translated_summary": "Morgan Stanley auto analyst Adam Jonas will transition into a new internal role focusing on the artificial intelligence theme.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "16小时前"
