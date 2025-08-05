@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-05T17:24:28.051740",
+  "last_updated": "2025-08-05T18:40:08.619991",
   "total_count": 10,
   "articles": [
+    {
+      "id": "d0751e741bc8",
+      "title": "Microsoft, EA, and other publishers should give up on artificial intelligence: We peaked 21 years ago, when Resident Evil 4 devs were thrilled AI enemies could think \"like a smart person\" by using \"we",
+      "summary": "Chainsaws? I think you mean \"undeniable genius\"",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/resident-evil/microsoft-ea-and-other-publishers-should-give-up-on-artificial-intelligence-we-peaked-21-years-ago-when-resident-evil-4-devs-were-thrilled-ai-enemies-could-think-like-a-smart-person-by-using-weapons-of-course/",
+      "publishedAt": "2025-08-05T17:46:03Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TQfsLxJWUhvRsSPfEbXUy3.jpg",
+      "translated_title": "Microsoft, EA, and other publishers should give up on artificial intelligence: We peaked 21 years ago, when Resident Evil 4 devs were thrilled AI enemies could think \"like a smart person\" by using \"we",
+      "translated_summary": "Chainsaws? I think you mean \"undeniable genius\"",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "54分钟前"
+    },
+    {
+      "id": "5fe4624b5e26",
+      "title": "OpenAI, Google and Anthropic win US approval for civilian AI contracts",
+      "summary": "The US government's central purchasing arm is adding OpenAI, Alphabet Inc.'s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/05/openai-google-and-anthropic-win-us-approval-for-civilian-ai-contracts/",
+      "publishedAt": "2025-08-05T17:16:21Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/04/Alphabet-Results_96727-1.jpg?w=1024&h=683",
+      "translated_title": "OpenAI, Google and Anthropic win US approval for civilian AI contracts",
+      "translated_summary": "The US government's central purchasing arm is adding OpenAI, Alphabet Inc.'s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
+    {
+      "id": "a51f95cfdf17",
+      "title": "AMD under pressure to show AI gains with stock beating Nvidia",
+      "summary": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/05/amd-under-pressure-to-show-ai-gains-with-stock-beating-nvidia/",
+      "publishedAt": "2025-08-05T17:15:20Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2024/08/AMD_ZT_Systems_26615.jpg?w=1024&h=682",
+      "translated_title": "AMD under pressure to show AI gains with stock beating Nvidia",
+      "translated_summary": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "b81352006bbc",
       "title": "OpenAI Releases Open-Weight Models After DeepSeek’s Success",
@@ -14,7 +56,7 @@
       "translated_summary": "OpenAI is releasing a pair of open and freely available artificial intelligence models that can mimic the human process of reasoning, months after China’s DeepSeek gained global attention with its own open AI software.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "23分钟前"
+      "time": "1小时前"
     },
     {
       "id": "0d7e79179ce5",
@@ -28,7 +70,7 @@
       "translated_summary": "Zosia Mamet has joined 'Artificial,' Amazon MGM's AI movie, where she'll star alongside Andrew Garfield, 'Anora's Yura Borisov and more.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "54分钟前"
+      "time": "2小时前"
     },
     {
       "id": "eb3eea1b5850",
@@ -42,7 +84,7 @@
       "translated_summary": "The European Union’s Artificial Intelligence Act, known as the EU AI Act, has been described as “the world's first comprehensive AI law” by the European Commission.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "70c06c8fdb7f",
@@ -56,7 +98,7 @@
       "translated_summary": "A relationship expert has warned about the use of AI when it comes to emotional connection after a man was spotted treating ChatGPT like his lover.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "df3d2472050c",
@@ -70,7 +112,7 @@
       "translated_summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "9f1df0fb77c8",
@@ -84,7 +126,7 @@
       "translated_summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "799a75da806c",
@@ -98,49 +140,7 @@
       "translated_summary": "Frustrated by how expensive college counselors can be, two students in Loudoun County, Virginia, used artificial intelligence to launch a college prep website.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "35c09853bc9b",
-      "title": "Wall Street Continues to Underestimates Palantir, Ives Says",
-      "summary": "Dan Ives, Wedbush Securities global head of tech research, Wall Street continues to underestimate Palantir. The data software company says revenue rose by 48% in the second quarter thanks to the \"astonishing impact\" of artificial intelligence on its business. Ives is on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-05/wall-street-underestimates-palantir-ives-says-video",
-      "publishedAt": "2025-08-05T13:16:12Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXdmnWsH7uUE/v3/-1x-1.jpg",
-      "translated_title": "Wall Street Continues to Underestimates Palantir, Ives Says",
-      "translated_summary": "Dan Ives, Wedbush Securities global head of tech research, Wall Street continues to underestimate Palantir. The data software company says revenue rose by 48% in the second quarter thanks to the \"astonishing impact\" of artificial intelligence on its business. Ives is on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "4小时前"
-    },
-    {
-      "id": "3e7d712db266",
-      "title": "Exclusive -- President Trump Dismisses AI Economic Disruption Concerns",
-      "summary": "President Donald Trump told Breitbart News concerns over entry-level job losses due to the rise of artificial intelligence (AI) are misplaced, and there will be a surge in new jobs meant to build out the AI future.",
-      "source": "Breitbart News Network",
-      "url": "https://www.breitbart.com/politics/2025/08/05/exclusive-president-trump-dismisses-ai-economic-disruption-concerns-end-result-is-youre-going-to-need-jobs-even-more/",
-      "publishedAt": "2025-08-05T12:39:50Z",
-      "image": "https://media.breitbart.com/media/2025/08/Screenshot-2025-08-04-at-11.05.30 AM-640x335.png",
-      "translated_title": "Exclusive -- President Trump Dismisses AI Economic Disruption Concerns",
-      "translated_summary": "President Donald Trump told Breitbart News concerns over entry-level job losses due to the rise of artificial intelligence (AI) are misplaced, and there will be a surge in new jobs meant to build out the AI future.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "5111a89a68d4",
-      "title": "OpenAI, Google and Anthropic Win US Approval for Civilian AI Contracts",
-      "summary": "The US government’s central purchasing arm is adding OpenAI, Alphabet Inc.’s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-05/openai-google-and-anthropic-win-us-approval-for-civilian-ai-contracts",
-      "publishedAt": "2025-08-05T12:30:00Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHMqa.qKbEaQ/v0/1200x788.jpg",
-      "translated_title": "OpenAI, Google and Anthropic Win US Approval for Civilian AI Contracts",
-      "translated_summary": "The US government’s central purchasing arm is adding OpenAI, Alphabet Inc.’s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     }
   ]
 }
