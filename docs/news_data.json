@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-05T04:10:29.341261",
+  "last_updated": "2025-08-05T05:33:31.932910",
   "total_count": 10,
   "articles": [
+    {
+      "id": "5c149f3ed1af",
+      "title": "SoftBank Builds Nvidia, TSMC Stakes Under Son’s Focus on AI Gear",
+      "summary": "SoftBank Group Corp. is building up stakes in Nvidia Corp. and Taiwan Semiconductor Manufacturing Co., the latest reflection of Masayoshi Son’s focus on the tools and hardware underpinning artificial intelligence.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-05/softbank-builds-nvidia-tsmc-stakes-under-son-s-focus-on-ai-gear",
+      "publishedAt": "2025-08-05T03:30:16Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igpJinjsqHg4/v0/1200x800.jpg",
+      "translated_title": "SoftBank Builds Nvidia, TSMC Stakes Under Son’s Focus on AI Gear",
+      "translated_summary": "SoftBank Group Corp. is building up stakes in Nvidia Corp. and Taiwan Semiconductor Manufacturing Co., the latest reflection of Masayoshi Son’s focus on the tools and hardware underpinning artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
+    },
     {
       "id": "42b626f6889b",
       "title": "Billie Lourd Joins AI Movie 'Artificial' At Amazon MGM",
@@ -14,7 +28,7 @@
       "translated_summary": "Billie Lourd is set to join the cast of the Amazon MGM Studios AI pic 'Artificial'",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "518e56bc18db",
@@ -28,7 +42,7 @@
       "translated_summary": "'Star Wars' has had a contentious relationship with artificial intelligences for a very long time—and now that we find ourselves staring down the barrel of generative AI, the galaxy far, far away has given us the surprising language to denigrate it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "50a2b7924c48",
@@ -42,7 +56,7 @@
       "translated_summary": "Palantir Technologies Inc. reported a 48% increase in revenue for the second quarter to more than $1 billion, citing the “astonishing impact” of artificial technology on its business.  \nThe data software company also raised its revenue outlook for the full year to $4.14 billion to $4.15 billion, exceeding analysts’ prior expectation of $3.91 billion. \nThe shares gained about 4% in extended trading after closing at $160.66 in New York. Denver-based Palantir has seen its stock price surge more than 500% over the past year — buoyed by high expectations from investors, growth in demand for AI tools and a deep reach into both the private and public sectors. The company’s $1 billion revenue in the period ended June 30 exceeded analysts’ average estimate of $939 million. It said growth was particularly strong in the US, where sales jumped 68% to $733 million. (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "c4fe4f49ae8e",
@@ -56,7 +70,7 @@
       "translated_summary": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "a1b0956b0037",
@@ -70,7 +84,7 @@
       "translated_summary": "Morgan Stanley auto analyst Adam Jonas will transition into a new internal role focusing on the artificial intelligence theme.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "05249b9a3965",
@@ -84,7 +98,7 @@
       "translated_summary": "Apple Inc. Chief Executive Officer Tim Cook, holding a rare all-hands meeting following earnings results, rallied employees around the company’s artificial intelligence prospects and an “amazing” pipeline of products. The executive gathered staff at Apple’s on-campus auditorium Friday in Cupertino, California, telling them that the AI revolution is “as big or bigger” as the internet, smartphones, cloud computing and apps. “Apple must do this. Apple will do this. This is sort of ours to grab,” Cook told employees, according to people aware of the meeting. “We will make the investment to do it.” The iPhone maker has been late to AI, debuting Apple Intelligence months after OpenAI, Alphabet Inc.’s Google, Microsoft Corp. and others flooded the market with products like ChatGPT. And when Apple finally released its AI tools, they fell flat. Bloomberg's Mark Gurman reports. (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "3de165e82050",
@@ -98,7 +112,7 @@
       "translated_summary": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "4d6b3a3693a9",
@@ -112,7 +126,7 @@
       "translated_summary": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "22b210d2dc96",
@@ -126,20 +140,6 @@
       "translated_summary": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "10小时前"
-    },
-    {
-      "id": "e0ea2ae64dfb",
-      "title": "Tesla Gives Musk $30 Billion Award, Saying ‘Deal Is a Deal’",
-      "summary": "Tesla Inc. approved an interim stock award worth about $30 billion for Chief Executive Officer Elon Musk, a massive payout meant to keep the billionaire’s attention on the automaker as a legal fight over a 2018 pay package drags on.\nThe new agreement includes 96 million shares of the automaker that will vest if Musk continues to serve in the top post for another two years, the company said Monday in a regulatory filing. The restricted stock has an exercise price of $23.34, equal to the price in the prior compensation plan.\nThe move underscores Musk’s grip on the company, even as it struggles with falling electric vehicle sales and a slumping stock price. The world’s richest person has said he wants a greater stake in Tesla as he reorients it around futuristic pursuits including artificial intelligence and driverless vehicles.\nBloomberg's Steve Man reports. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-04/tesla-gives-musk-30b-award-saying-deal-is-a-deal-video",
-      "publishedAt": "2025-08-04T16:28:34Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBeDsawss5o4/v3/-1x-1.jpg",
-      "translated_title": "Tesla Gives Musk $30 Billion Award, Saying ‘Deal Is a Deal’",
-      "translated_summary": "Tesla Inc. approved an interim stock award worth about $30 billion for Chief Executive Officer Elon Musk, a massive payout meant to keep the billionaire’s attention on the automaker as a legal fight over a 2018 pay package drags on.\nThe new agreement includes 96 million shares of the automaker that will vest if Musk continues to serve in the top post for another two years, the company said Monday in a regulatory filing. The restricted stock has an exercise price of $23.34, equal to the price in the prior compensation plan.\nThe move underscores Musk’s grip on the company, even as it struggles with falling electric vehicle sales and a slumping stock price. The world’s richest person has said he wants a greater stake in Tesla as he reorients it around futuristic pursuits including artificial intelligence and driverless vehicles.\nBloomberg's Steve Man reports. (Source: Bloomberg)",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "11小时前"
     }
   ]
