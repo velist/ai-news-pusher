@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-05T20:27:03.239466",
+  "last_updated": "2025-08-05T21:25:16.227649",
   "total_count": 10,
   "articles": [
+    {
+      "id": "0272315fa287",
+      "title": "US Considers More Chip Tariffs | Bloomberg Tech 8/5/2025",
+      "summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss President Donald Trump’s comments that more chip tariffs may be coming soon. Plus, booming demand for artificial intelligence led Palantir’s revenue to climb above $1 billion. And AMD is under pressure to show benefits from the AI race as the chipmaker prepares to release earnings after markets close. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-05/bloomberg-tech-8-5-2025-video",
+      "publishedAt": "2025-08-05T20:45:14Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTD4hUEii6GI/v3/-1x-1.jpg",
+      "translated_title": "US Considers More Chip Tariffs | Bloomberg Tech 8/5/2025",
+      "translated_summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss President Donald Trump’s comments that more chip tariffs may be coming soon. Plus, booming demand for artificial intelligence led Palantir’s revenue to climb above $1 billion. And AMD is under pressure to show benefits from the AI race as the chipmaker prepares to release earnings after markets close. (Source: Bloomberg)",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "40分钟前"
+    },
+    {
+      "id": "2b16db8c35fc",
+      "title": "Super Micro (SMCI) Q4 earnings report 2025",
+      "summary": "The server maker's business is still getting a big boost from artificial intelligence, but growth is slowing.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/05/super-micro-smci-q4-earnings-report-2025.html",
+      "publishedAt": "2025-08-05T20:42:19Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108182023-1754425755270-gettyimages-1258355965-TAIWAN-COMPUTEX2023-01062023-032JPG.jpeg?v=1754425894&w=1920&h=1080",
+      "translated_title": "Super Micro (SMCI) Q4 earnings report 2025",
+      "translated_summary": "The server maker's business is still getting a big boost from artificial intelligence, but growth is slowing.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "42分钟前"
+    },
+    {
+      "id": "ccc6e8e2ae47",
+      "title": "AI Boom Leads to Exploding Valuations",
+      "summary": "Demand for artificial intelligence has led to soaring valuations for some tech companies, even as US policy uncertainty remains. Stephanie Aliaga, global market strategist from JPMorgan’s Asset Management Market Insights Team, joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-05/ai-boom-leads-to-exploding-valuations-video",
+      "publishedAt": "2025-08-05T20:17:13Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii5mrfZ7hZpo/v3/-1x-1.jpg",
+      "translated_title": "AI Boom Leads to Exploding Valuations",
+      "translated_summary": "Demand for artificial intelligence has led to soaring valuations for some tech companies, even as US policy uncertainty remains. Stephanie Aliaga, global market strategist from JPMorgan’s Asset Management Market Insights Team, joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "d0751e741bc8",
       "title": "Microsoft, EA, and other publishers should give up on artificial intelligence: We peaked 21 years ago, when Resident Evil 4 devs were thrilled AI enemies could think \"like a smart person\" by using \"we",
@@ -14,7 +56,7 @@
       "translated_summary": "Chainsaws? I think you mean \"undeniable genius\"",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "5fe4624b5e26",
@@ -28,7 +70,7 @@
       "translated_summary": "The US government's central purchasing arm is adding OpenAI, Alphabet Inc.'s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "a51f95cfdf17",
@@ -42,7 +84,7 @@
       "translated_summary": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "b81352006bbc",
@@ -56,7 +98,7 @@
       "translated_summary": "OpenAI is releasing a pair of open and freely available artificial intelligence models that can mimic the human process of reasoning, months after China’s DeepSeek gained global attention with its own open AI software.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "0d7e79179ce5",
@@ -70,7 +112,7 @@
       "translated_summary": "Zosia Mamet has joined 'Artificial,' Amazon MGM's AI movie, where she'll star alongside Andrew Garfield, 'Anora's Yura Borisov and more.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "eb3eea1b5850",
@@ -84,7 +126,7 @@
       "translated_summary": "The European Union’s Artificial Intelligence Act, known as the EU AI Act, has been described as “the world's first comprehensive AI law” by the European Commission.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "70c06c8fdb7f",
@@ -96,48 +138,6 @@
       "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109234951.jpg?quality=75&strip=all&w=1024",
       "translated_title": "Dating expert reveals huge issue sparked by artificial intelligence — and what made it worse",
       "translated_summary": "A relationship expert has warned about the use of AI when it comes to emotional connection after a man was spotted treating ChatGPT like his lover.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "df3d2472050c",
-      "title": "DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI",
-      "summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/08/05/deepmind-thinks-genie-3-world-model-presents-stepping-stone-towards-agi/",
-      "publishedAt": "2025-08-05T14:10:14Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Google-DeepMind.jpg?w=1024",
-      "translated_title": "DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI",
-      "translated_summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "9f1df0fb77c8",
-      "title": "DeepMind reveals Genie 3, a world model that could be the key to reaching AGI",
-      "summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2025/08/05/deepmind-reveals-genie-3-a-world-model-that-could-be-the-key-to-reaching-agi/",
-      "publishedAt": "2025-08-05T14:10:14Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Google-DeepMind.jpg?w=1024",
-      "translated_title": "DeepMind reveals Genie 3, a world model that could be the key to reaching AGI",
-      "translated_summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "799a75da806c",
-      "title": "Loudoun Co. students launch site to make college prep more accessible",
-      "summary": "Frustrated by how expensive college counselors can be, two students in Loudoun County, Virginia, used artificial intelligence to launch a college prep website.",
-      "source": "WTOP",
-      "url": "https://wtop.com/education/2025/08/loudoun-co-students-launch-site-to-make-college-prep-more-accessible/",
-      "publishedAt": "2025-08-05T13:32:36Z",
-      "image": "https://wtop.com/wp-content/uploads/2025/08/IMG_5410.jpeg",
-      "translated_title": "Loudoun Co. students launch site to make college prep more accessible",
-      "translated_summary": "Frustrated by how expensive college counselors can be, two students in Loudoun County, Virginia, used artificial intelligence to launch a college prep website.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "6小时前"
