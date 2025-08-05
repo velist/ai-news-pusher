@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-05T14:29:36.963027",
+  "last_updated": "2025-08-05T15:29:58.396523",
   "total_count": 10,
   "articles": [
+    {
+      "id": "70c06c8fdb7f",
+      "title": "Dating expert reveals huge issue sparked by artificial intelligence — and what made it worse",
+      "summary": "A relationship expert has warned about the use of AI when it comes to emotional connection after a man was spotted treating ChatGPT like his lover.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/05/lifestyle/dating-expert-reveals-huge-issue-sparked-by-artificial-intelligence-and-what-made-it-worse/",
+      "publishedAt": "2025-08-05T14:51:10Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109234951.jpg?quality=75&strip=all&w=1024",
+      "translated_title": "Dating expert reveals huge issue sparked by artificial intelligence — and what made it worse",
+      "translated_summary": "A relationship expert has warned about the use of AI when it comes to emotional connection after a man was spotted treating ChatGPT like his lover.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "38分钟前"
+    },
+    {
+      "id": "df3d2472050c",
+      "title": "DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI",
+      "summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/08/05/deepmind-thinks-genie-3-world-model-presents-stepping-stone-towards-agi/",
+      "publishedAt": "2025-08-05T14:10:14Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Google-DeepMind.jpg?w=1024",
+      "translated_title": "DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI",
+      "translated_summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
+    {
+      "id": "9f1df0fb77c8",
+      "title": "DeepMind reveals Genie 3, a world model that could be the key to reaching AGI",
+      "summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/08/05/deepmind-reveals-genie-3-a-world-model-that-could-be-the-key-to-reaching-agi/",
+      "publishedAt": "2025-08-05T14:10:14Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Google-DeepMind.jpg?w=1024",
+      "translated_title": "DeepMind reveals Genie 3, a world model that could be the key to reaching AGI",
+      "translated_summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "799a75da806c",
       "title": "Loudoun Co. students launch site to make college prep more accessible",
@@ -14,7 +56,7 @@
       "translated_summary": "Frustrated by how expensive college counselors can be, two students in Loudoun County, Virginia, used artificial intelligence to launch a college prep website.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "57分钟前"
+      "time": "1小时前"
     },
     {
       "id": "35c09853bc9b",
@@ -28,7 +70,7 @@
       "translated_summary": "Dan Ives, Wedbush Securities global head of tech research, Wall Street continues to underestimate Palantir. The data software company says revenue rose by 48% in the second quarter thanks to the \"astonishing impact\" of artificial intelligence on its business. Ives is on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "3e7d712db266",
@@ -42,7 +84,7 @@
       "translated_summary": "President Donald Trump told Breitbart News concerns over entry-level job losses due to the rise of artificial intelligence (AI) are misplaced, and there will be a surge in new jobs meant to build out the AI future.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "5111a89a68d4",
@@ -56,7 +98,7 @@
       "translated_summary": "The US government’s central purchasing arm is adding OpenAI, Alphabet Inc.’s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "de872ff4aa58",
@@ -70,7 +112,7 @@
       "translated_summary": "Abu Dhabi-based MGX is considering plans to raise billions of dollars in third-party capital as it looks to ramp up investments in artificial intelligence, according to people familiar with the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "03af74bb5c65",
@@ -84,7 +126,7 @@
       "translated_summary": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race. The question is whether it’s enough to justify a rally that has outpaced Nvidia Corp.’s performance this year.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "d52970c7da7b",
@@ -98,49 +140,7 @@
       "translated_summary": "It's possible to ask artificial intelligence to enhance online dating profiles. But the question isn't can we, it's should we?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "5c149f3ed1af",
-      "title": "SoftBank Builds Nvidia, TSMC Stakes to Back AI Push Under Masayoshi Son",
-      "summary": "SoftBank Group Corp. is building up stakes in Nvidia Corp. and Taiwan Semiconductor Manufacturing Co., the latest reflection of Masayoshi Son’s focus on the tools and hardware underpinning artificial intelligence.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-05/softbank-builds-nvidia-tsmc-stakes-under-son-s-focus-on-ai-gear",
-      "publishedAt": "2025-08-05T03:30:16Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igpJinjsqHg4/v0/1200x800.jpg",
-      "translated_title": "SoftBank Builds Nvidia, TSMC Stakes to Back AI Push Under Masayoshi Son",
-      "translated_summary": "SoftBank Group Corp. is building up stakes in Nvidia Corp. and Taiwan Semiconductor Manufacturing Co., the latest reflection of Masayoshi Son’s focus on the tools and hardware underpinning artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "42b626f6889b",
-      "title": "Billie Lourd Joins AI Movie 'Artificial' At Amazon MGM",
-      "summary": "Billie Lourd is set to join the cast of the Amazon MGM Studios AI pic 'Artificial'",
-      "source": "Deadline",
-      "url": "https://deadline.com/2025/08/billie-lourd-andrew-garfield-film-artificial-1236478213/",
-      "publishedAt": "2025-08-04T22:00:00Z",
-      "image": "https://deadline.com/wp-content/uploads/2025/08/Billie-Lourd-and-Andrew-Garfield_1a3ae0.jpg?w=1024",
-      "translated_title": "Billie Lourd Joins AI Movie 'Artificial' At Amazon MGM",
-      "translated_summary": "Billie Lourd is set to join the cast of the Amazon MGM Studios AI pic 'Artificial'",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "16小时前"
-    },
-    {
-      "id": "518e56bc18db",
-      "title": "The 'Star Wars' Slur That Has Been Mainstreamed by Anti-AI Discourse",
-      "summary": "'Star Wars' has had a contentious relationship with artificial intelligences for a very long time—and now that we find ourselves staring down the barrel of generative AI, the galaxy far, far away has given us the surprising language to denigrate it.",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/clanker-explained-star-wars-ai-droids-memes-2000638737",
-      "publishedAt": "2025-08-04T21:30:52Z",
-      "image": "https://gizmodo.com/app/uploads/2025/08/star-wars-mandalorian-season-3-droid-kick-1200x675.jpg",
-      "translated_title": "The 'Star Wars' Slur That Has Been Mainstreamed by Anti-AI Discourse",
-      "translated_summary": "'Star Wars' has had a contentious relationship with artificial intelligences for a very long time—and now that we find ourselves staring down the barrel of generative AI, the galaxy far, far away has given us the surprising language to denigrate it.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "11小时前"
     }
   ]
 }
