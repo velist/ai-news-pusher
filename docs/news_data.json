@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-05T16:27:45.520732",
+  "last_updated": "2025-08-05T17:24:28.051740",
   "total_count": 10,
   "articles": [
+    {
+      "id": "b81352006bbc",
+      "title": "OpenAI Releases Open-Weight Models After DeepSeek’s Success",
+      "summary": "OpenAI is releasing a pair of open and freely available artificial intelligence models that can mimic the human process of reasoning, months after China’s DeepSeek gained global attention with its own open AI software.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-05/openai-releases-open-weight-models-after-deepseek-s-success",
+      "publishedAt": "2025-08-05T17:00:30Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itTtVGtsRZ68/v1/1200x800.jpg",
+      "translated_title": "OpenAI Releases Open-Weight Models After DeepSeek’s Success",
+      "translated_summary": "OpenAI is releasing a pair of open and freely available artificial intelligence models that can mimic the human process of reasoning, months after China’s DeepSeek gained global attention with its own open AI software.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "23分钟前"
+    },
+    {
+      "id": "0d7e79179ce5",
+      "title": "Zosia Mamet Joins Amazon MGM’s ‘Artificial’",
+      "summary": "Zosia Mamet has joined 'Artificial,' Amazon MGM's AI movie, where she'll star alongside Andrew Garfield, 'Anora's Yura Borisov and more.",
+      "source": "Deadline",
+      "url": "https://deadline.com/2025/08/zosia-mamet-joins-artificial-andrew-garfield-amazon-mgm-1236478889/",
+      "publishedAt": "2025-08-05T16:30:00Z",
+      "image": "https://deadline.com/wp-content/uploads/2025/08/Zosia-PC-Tommy-Agriodimas2.jpg.jpeg?w=1024",
+      "translated_title": "Zosia Mamet Joins Amazon MGM’s ‘Artificial’",
+      "translated_summary": "Zosia Mamet has joined 'Artificial,' Amazon MGM's AI movie, where she'll star alongside Andrew Garfield, 'Anora's Yura Borisov and more.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "54分钟前"
+    },
+    {
+      "id": "eb3eea1b5850",
+      "title": "The EU AI Act aims to create a level playing field for AI innovation. Here's what it is.",
+      "summary": "The European Union’s Artificial Intelligence Act, known as the EU AI Act, has been described as “the world's first comprehensive AI law” by the European Commission.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2025/08/05/the-eu-ai-act-aims-to-create-a-level-playing-field-for-ai-innovation-heres-what-it-is/",
+      "publishedAt": "2025-08-05T16:24:10Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1146371917.jpg?w=1024",
+      "translated_title": "The EU AI Act aims to create a level playing field for AI innovation. Here's what it is.",
+      "translated_summary": "The European Union’s Artificial Intelligence Act, known as the EU AI Act, has been described as “the world's first comprehensive AI law” by the European Commission.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "70c06c8fdb7f",
       "title": "Dating expert reveals huge issue sparked by artificial intelligence — and what made it worse",
@@ -14,7 +56,7 @@
       "translated_summary": "A relationship expert has warned about the use of AI when it comes to emotional connection after a man was spotted treating ChatGPT like his lover.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "df3d2472050c",
@@ -28,7 +70,7 @@
       "translated_summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "9f1df0fb77c8",
@@ -42,7 +84,7 @@
       "translated_summary": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says presents a crucial stepping stone on the path to artificial general intelligence, or human-like intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "799a75da806c",
@@ -56,7 +98,7 @@
       "translated_summary": "Frustrated by how expensive college counselors can be, two students in Loudoun County, Virginia, used artificial intelligence to launch a college prep website.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "35c09853bc9b",
@@ -70,7 +112,7 @@
       "translated_summary": "Dan Ives, Wedbush Securities global head of tech research, Wall Street continues to underestimate Palantir. The data software company says revenue rose by 48% in the second quarter thanks to the \"astonishing impact\" of artificial intelligence on its business. Ives is on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "3e7d712db266",
@@ -84,7 +126,7 @@
       "translated_summary": "President Donald Trump told Breitbart News concerns over entry-level job losses due to the rise of artificial intelligence (AI) are misplaced, and there will be a surge in new jobs meant to build out the AI future.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "5111a89a68d4",
@@ -98,49 +140,7 @@
       "translated_summary": "The US government’s central purchasing arm is adding OpenAI, Alphabet Inc.’s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
-    },
-    {
-      "id": "de872ff4aa58",
-      "title": "Abu Dhabi’s MGX Weighs Raising Billions for AI Investment Fund",
-      "summary": "Abu Dhabi-based MGX is considering plans to raise billions of dollars in third-party capital as it looks to ramp up investments in artificial intelligence, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-05/uae-s-ai-push-abu-dhabi-s-mgx-weighs-multibillion-dollar-investment-fund",
-      "publishedAt": "2025-08-05T10:21:14Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifuoUycB3yRY/v0/1200x800.jpg",
-      "translated_title": "Abu Dhabi’s MGX Weighs Raising Billions for AI Investment Fund",
-      "translated_summary": "Abu Dhabi-based MGX is considering plans to raise billions of dollars in third-party capital as it looks to ramp up investments in artificial intelligence, according to people familiar with the matter.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "6小时前"
-    },
-    {
-      "id": "03af74bb5c65",
-      "title": "AMD Under Pressure to Show AI Gains With Stock Beating Nvidia",
-      "summary": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race. The question is whether it’s enough to justify a rally that has outpaced Nvidia Corp.’s performance this year.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-05/amd-under-pressure-to-show-ai-gains-with-stock-beating-nvidia",
-      "publishedAt": "2025-08-05T09:45:08Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJQIkRY4wMUQ/v1/1200x800.jpg",
-      "translated_title": "AMD Under Pressure to Show AI Gains With Stock Beating Nvidia",
-      "translated_summary": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race. The question is whether it’s enough to justify a rally that has outpaced Nvidia Corp.’s performance this year.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "d52970c7da7b",
-      "title": "Can AI help me get a date? That's the wrong question",
-      "summary": "It's possible to ask artificial intelligence to enhance online dating profiles. But the question isn't can we, it's should we?",
-      "source": "USA TODAY",
-      "url": "https://www.usatoday.com/story/opinion/columnist/2025/08/05/ai-dating-profile-app-fake/85460292007/",
-      "publishedAt": "2025-08-05T04:00:00Z",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/22/USAT/83214764007-ai-assist-relationship-tech-7.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
-      "translated_title": "Can AI help me get a date? That's the wrong question",
-      "translated_summary": "It's possible to ask artificial intelligence to enhance online dating profiles. But the question isn't can we, it's should we?",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "4小时前"
     }
   ]
 }
