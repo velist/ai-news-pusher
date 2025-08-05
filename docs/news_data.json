@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-05T08:35:45.660453",
+  "last_updated": "2025-08-05T09:32:06.492475",
   "total_count": 10,
   "articles": [
+    {
+      "id": "d52970c7da7b",
+      "title": "Can AI help me get a date? That's the wrong question",
+      "summary": "It's possible to ask artificial intelligence to enhance online dating profiles. But the question isn't can we, it's should we?",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/opinion/columnist/2025/08/05/ai-dating-profile-app-fake/85460292007/",
+      "publishedAt": "2025-08-05T04:00:00Z",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/22/USAT/83214764007-ai-assist-relationship-tech-7.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+      "translated_title": "Can AI help me get a date? That's the wrong question",
+      "translated_summary": "It's possible to ask artificial intelligence to enhance online dating profiles. But the question isn't can we, it's should we?",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "5小时前"
+    },
     {
       "id": "5c149f3ed1af",
       "title": "SoftBank Builds Nvidia, TSMC Stakes Under Son’s Focus on AI Gear",
@@ -14,7 +28,7 @@
       "translated_summary": "SoftBank Group Corp. is building up stakes in Nvidia Corp. and Taiwan Semiconductor Manufacturing Co., the latest reflection of Masayoshi Son’s focus on the tools and hardware underpinning artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "42b626f6889b",
@@ -28,7 +42,7 @@
       "translated_summary": "Billie Lourd is set to join the cast of the Amazon MGM Studios AI pic 'Artificial'",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "518e56bc18db",
@@ -42,7 +56,7 @@
       "translated_summary": "'Star Wars' has had a contentious relationship with artificial intelligences for a very long time—and now that we find ourselves staring down the barrel of generative AI, the galaxy far, far away has given us the surprising language to denigrate it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "50a2b7924c48",
@@ -56,7 +70,7 @@
       "translated_summary": "Palantir Technologies Inc. reported a 48% increase in revenue for the second quarter to more than $1 billion, citing the “astonishing impact” of artificial technology on its business.  \nThe data software company also raised its revenue outlook for the full year to $4.14 billion to $4.15 billion, exceeding analysts’ prior expectation of $3.91 billion. \nThe shares gained about 4% in extended trading after closing at $160.66 in New York. Denver-based Palantir has seen its stock price surge more than 500% over the past year — buoyed by high expectations from investors, growth in demand for AI tools and a deep reach into both the private and public sectors. The company’s $1 billion revenue in the period ended June 30 exceeded analysts’ average estimate of $939 million. It said growth was particularly strong in the US, where sales jumped 68% to $733 million. (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "c4fe4f49ae8e",
@@ -70,7 +84,7 @@
       "translated_summary": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "a1b0956b0037",
@@ -84,7 +98,7 @@
       "translated_summary": "Morgan Stanley auto analyst Adam Jonas will transition into a new internal role focusing on the artificial intelligence theme.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "05249b9a3965",
@@ -112,7 +126,7 @@
       "translated_summary": "Oscar-nominated screenwriter Billy Ray is warning about the dangers that generative artificial intelligence represents to his industry. \"The result will inevitably be chaos, bad movies, bad TV shows and a lot of people out of work,\" he warns",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "4d6b3a3693a9",
@@ -126,21 +140,7 @@
       "translated_summary": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "14小时前"
-    },
-    {
-      "id": "22b210d2dc96",
-      "title": "Naver Cloud, UpStage, SK Telecom, NC AI and LG AI Research Team Up to Build South Korea’s First Homegrown AI Foundation Models",
-      "summary": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
-      "source": "InvenGlobal",
-      "url": "https://www.invenglobal.com/valorant/articles/19534/naver-cloud-upstage-sk-telecom-nc-ai-and-lg-ai-research-team-up-to-build-south-koreas-first-homegrown-ai-foundation-models",
-      "publishedAt": "2025-08-04T17:40:32Z",
-      "image": "https://static.invenglobal.com/upload/image/2025/08/04/r1754329018549832.jpeg",
-      "translated_title": "Naver Cloud, UpStage, SK Telecom, NC AI and LG AI Research Team Up to Build South Korea’s First Homegrown AI Foundation Models",
-      "translated_summary": "Five elite teams have been finally selected to participate in the “Independent Artificial Intelligence Foundation Model (AI Foundation Model)” project, overseen by the Ministry of Science",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "14小时前"
+      "time": "15小时前"
     }
   ]
 }
