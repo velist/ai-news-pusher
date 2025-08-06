@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-06T20:28:26.996103",
+  "last_updated": "2025-08-06T21:22:37.557653",
   "total_count": 10,
   "articles": [
+    {
+      "id": "730a6af37219",
+      "title": "Researchers hacked Google Gemini to take control of a smart home",
+      "summary": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/cybersecurity/researchers-hacked-google-gemini-to-take-control-of-a-smart-home-201926464.html",
+      "publishedAt": "2025-08-06T20:19:26Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/WdDnLynnrE04hRcrZOXKRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njk-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/5937f8c0-7300-11f0-bb6b-f4cd782ec9fa",
+      "translated_title": "Researchers hacked Google Gemini to take control of a smart home",
+      "translated_summary": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
+    {
+      "id": "13d19bf67620",
+      "title": "Can US Become Robotics Capital of the World?",
+      "summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
+      "source": "Newsmax",
+      "url": "https://www.newsmax.com/dugganflanakin/david-sacks-ai-elon-musk/2025/08/06/id/1221530/",
+      "publishedAt": "2025-08-06T20:17:03Z",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6bdc94c3-1f5f-4940-8924-1a0f91b74c2c&SiteName=Newsmax",
+      "translated_title": "Can US Become Robotics Capital of the World?",
+      "translated_summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "2a9fe8813fc7",
       "title": "How DeepSeek and Open-Source Models Are Shaking Up AI",
@@ -28,7 +56,21 @@
       "translated_summary": "Artificial intelligence, very real vulnerabilities.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "9cdadd2a7e5b",
+      "title": "Google invests $1 billion in AI education training over 3 years in US",
+      "summary": "Google announces $1 billion investment in artificial intelligence training and education initiatives across U.S. universities over the next three years.",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/economy/google-commits-1b-train-us-college-students-artificial-intelligence-over-three-years",
+      "publishedAt": "2025-08-06T16:40:00Z",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/um-2.jpg?ve=1&tl=1",
+      "translated_title": "Google invests $1 billion in AI education training over 3 years in US",
+      "translated_summary": "Google announces $1 billion investment in artificial intelligence training and education initiatives across U.S. universities over the next three years.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "4小时前"
     },
     {
       "id": "51839c9d79b4",
@@ -42,7 +84,7 @@
       "translated_summary": "After adding $65 billion in market value over the past four months, the fate of SoftBank Group Corp. shares is more firmly attached to the global artificial intelligence boom than ever before.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "22de29958bf7",
@@ -56,7 +98,7 @@
       "translated_summary": "In the artificial intelligence gold rush, even pick-and-shovel companies like Arista Networks Inc. are seeing their fortunes swell. The hardware provider’s shares have more than doubled since April, reaching an all-time high on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "e52634116509",
@@ -70,7 +112,7 @@
       "translated_summary": "The law came amid increased concerns about the quick advancement of artificial intelligence and its effects on political candidates.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "e403f1d3fb0b",
@@ -84,7 +126,7 @@
       "translated_summary": "The AI deepfakes law came as there's been increased concerns about the quick advancement of artificial intelligence and its impacts on political candidates.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "7856fa33f1e7",
@@ -98,49 +140,7 @@
       "translated_summary": "OpenAI is in early talks about a potential sale of stock for current and former employees at a valuation of about $500 billion, people briefed on the investment discussions said, marking an enormous gain in value for the artificial intelligence leader. The company is targeting a secondary stock sale in the billions of dollars, the people said, asking to remain anonymous because they weren’t authorized to discuss the matter publicly. If the deal goes ahead, it would elevate OpenAI’s on-paper price tag by roughly two-thirds. In trade news, President Donald Trump said he’d impose increased tariffs on countries buying energy from Russia while clarifying that levies on semiconductor and pharmaceutical imports would be announced “within the next week or so.” \nToday's guests: Kim Crawford, JPMorgan Asset Management Global Rates Portfolio Manager, Karsten Munk Knudsen, Novo Nordisk CFO (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "10小时前"
-    },
-    {
-      "id": "554ed4083997",
-      "title": "'Skeevy' Epstein gave us the creeps: AI experts recall bizarre island visit",
-      "summary": "Twenty-three years ago, pioneers in artificial intelligence received an invitation to a Caribbean conference funded by “some rich guy.”Now there is dismay among those who attended the three-day St. Thomas Common Sense Symposium in the U.S. Virgin Islands in April 2002 — because that “rich guy” was J...",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/raw-investigates/2673860453/",
-      "publishedAt": "2025-08-06T10:09:59Z",
-      "image": "https://www.rawstory.com/media-library/image.jpg?id=61429815&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
-      "translated_title": "'Skeevy' Epstein gave us the creeps: AI experts recall bizarre island visit",
-      "translated_summary": "Twenty-three years ago, pioneers in artificial intelligence received an invitation to a Caribbean conference funded by “some rich guy.”Now there is dismay among those who attended the three-day St. Thomas Common Sense Symposium in the U.S. Virgin Islands in April 2002 — because that “rich guy” was J...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "fe2a384797c6",
-      "title": "A politician made an AI clone of himself. The outrage was real.",
-      "summary": "British lawmaker Mark Sewards released an artificial intelligence prototype of himself to help deal with a backlog of queries from constituents. Some weren’t impressed.",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2025/08/06/ai-chatbot-mp-britain-labour/",
-      "publishedAt": "2025-08-06T08:28:35Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-06-2025/t_9d57fa52fce04d3980f56655550d8369_name_MP.png&w=1440",
-      "translated_title": "A politician made an AI clone of himself. The outrage was real.",
-      "translated_summary": "British lawmaker Mark Sewards released an artificial intelligence prototype of himself to help deal with a backlog of queries from constituents. Some weren’t impressed.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "11小时前"
-    },
-    {
-      "id": "19f2bc89ce75",
-      "title": "U.S. charges Chinese nationals with illegally exporting chips to China",
-      "summary": "Two Chinese nationals residing in California have been arrested and charged with violating export control laws by allegedly shipping advanced microchips used in artificial intelligence to China.",
-      "source": "UPI News",
-      "url": "https://www.upi.com/Top_News/US/2025/08/06/Chinese-charged-chips-export-China/2691754463252/",
-      "publishedAt": "2025-08-06T07:23:00Z",
-      "image": "https://cdnph.upi.com/sv/ph/og/upi/2691754463252/2025/1/5fd5ff533e99d8fa93f73850573f25a0/v1.5/US-charges-Chinese-nationals-with-illegally-exporting-chips-to-China.jpg",
-      "translated_title": "U.S. charges Chinese nationals with illegally exporting chips to China",
-      "translated_summary": "Two Chinese nationals residing in California have been arrested and charged with violating export control laws by allegedly shipping advanced microchips used in artificial intelligence to China.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "13小时前"
     }
   ]
 }
