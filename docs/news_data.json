@@ -1,20 +1,48 @@
 {
-  "last_updated": "2025-08-06T07:30:18.914658",
+  "last_updated": "2025-08-06T08:35:37.987401",
   "total_count": 10,
   "articles": [
     {
+      "id": "fe2a384797c6",
+      "title": "A politician made an AI clone of himself. The outrage was real.",
+      "summary": "British lawmaker Mark Sewards released an artificial intelligence prototype of himself to help deal with a backlog of queries from constituents. Some weren’t impressed.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2025/08/06/ai-chatbot-mp-britain-labour/",
+      "publishedAt": "2025-08-06T08:28:35Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-06-2025/t_9d57fa52fce04d3980f56655550d8369_name_MP.png&w=1440",
+      "translated_title": "A politician made an AI clone of himself. The outrage was real.",
+      "translated_summary": "British lawmaker Mark Sewards released an artificial intelligence prototype of himself to help deal with a backlog of queries from constituents. Some weren’t impressed.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7分钟前"
+    },
+    {
+      "id": "19f2bc89ce75",
+      "title": "U.S. charges Chinese nationals with illegally exporting chips to China",
+      "summary": "Two Chinese nationals residing in California have been arrested and charged with violating export control laws by allegedly shipping advanced microchips used in artificial intelligence to China.",
+      "source": "UPI News",
+      "url": "https://www.upi.com/Top_News/US/2025/08/06/Chinese-charged-chips-export-China/2691754463252/",
+      "publishedAt": "2025-08-06T07:23:00Z",
+      "image": "https://cdnph.upi.com/sv/ph/og/upi/2691754463252/2025/1/5fd5ff533e99d8fa93f73850573f25a0/v1.5/US-charges-Chinese-nationals-with-illegally-exporting-chips-to-China.jpg",
+      "translated_title": "U.S. charges Chinese nationals with illegally exporting chips to China",
+      "translated_summary": "Two Chinese nationals residing in California have been arrested and charged with violating export control laws by allegedly shipping advanced microchips used in artificial intelligence to China.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
       "id": "a76b4dbe50b7",
-      "title": "OpenAI in Talks for Share Sale Valuing Startup at $500 Billion",
-      "summary": "OpenAI is in early talks about a potential secondary sale of stock for current and former employees at a valuation of about $500 billion, people briefed on the investment discussions said, marking an enormous gain in value for the artificial intelligence leader.",
+      "title": "OpenAI in Talks for Share Sale at $500 Billion Valuation",
+      "summary": "OpenAI is in early talks about a potential sale of stock for current and former employees at a valuation of about $500 billion, people briefed on the investment discussions said, marking an enormous gain in value for the artificial intelligence leader.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2025-08-06/openai-in-talks-for-share-sale-valuing-startup-at-500-billion",
       "publishedAt": "2025-08-06T01:23:37Z",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL8nnNHbS7lE/v0/1200x793.jpg",
-      "translated_title": "OpenAI in Talks for Share Sale Valuing Startup at $500 Billion",
-      "translated_summary": "OpenAI is in early talks about a potential secondary sale of stock for current and former employees at a valuation of about $500 billion, people briefed on the investment discussions said, marking an enormous gain in value for the artificial intelligence leader.",
+      "translated_title": "OpenAI in Talks for Share Sale at $500 Billion Valuation",
+      "translated_summary": "OpenAI is in early talks about a potential sale of stock for current and former employees at a valuation of about $500 billion, people briefed on the investment discussions said, marking an enormous gain in value for the artificial intelligence leader.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "dbed1695099c",
@@ -28,7 +56,7 @@
       "translated_summary": "Artificial intelligence is advancing so quickly that some Silicon Valley bigwigs are betting it will lead to what might seem unthinkable at the moment: a world in which people...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "0272315fa287",
@@ -42,7 +70,7 @@
       "translated_summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss President Donald Trump’s comments that more chip tariffs may be coming soon. Plus, booming demand for artificial intelligence led Palantir’s revenue to climb above $1 billion. And AMD is under pressure to show benefits from the AI race as the chipmaker prepares to release earnings after markets close. (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "2b16db8c35fc",
@@ -56,7 +84,7 @@
       "translated_summary": "The server maker's business is still getting a big boost from artificial intelligence, but growth is slowing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "f8016a96567c",
@@ -70,7 +98,7 @@
       "translated_summary": "Advanced Micro Devices Inc., the second-largest maker of artificial intelligence processors, said the chipmaker’s return to the crucial China market is difficult to predict, overshadowing a generally upbeat forecast for its AI business.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "ccc6e8e2ae47",
@@ -84,7 +112,7 @@
       "translated_summary": "Demand for artificial intelligence has led to soaring valuations for some tech companies, even as US policy uncertainty remains. Stephanie Aliaga, global market strategist from JPMorgan’s Asset Management Market Insights Team, joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "d0751e741bc8",
@@ -98,7 +126,7 @@
       "translated_summary": "Chainsaws? I think you mean \"undeniable genius\"",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "5fe4624b5e26",
@@ -112,35 +140,7 @@
       "translated_summary": "The US government's central purchasing arm is adding OpenAI, Alphabet Inc.'s Google and Anthropic to a list of approved artificial intelligence vendors, opening the door to widespread adoption of the technology across civilian federal agencies.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "14小时前"
-    },
-    {
-      "id": "a51f95cfdf17",
-      "title": "AMD under pressure to show AI gains with stock beating Nvidia",
-      "summary": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/08/05/amd-under-pressure-to-show-ai-gains-with-stock-beating-nvidia/",
-      "publishedAt": "2025-08-05T17:15:20Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2024/08/AMD_ZT_Systems_26615.jpg?w=1024&h=682",
-      "translated_title": "AMD under pressure to show AI gains with stock beating Nvidia",
-      "translated_summary": "Advanced Micro Devices Inc. earnings are expected to show the chipmaker is increasingly benefiting from the artificial intelligence arms race.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "14小时前"
-    },
-    {
-      "id": "b81352006bbc",
-      "title": "OpenAI Releases Open-Weight Models After DeepSeek’s Success",
-      "summary": "OpenAI is releasing a pair of open and freely available artificial intelligence models that can mimic the human process of reasoning, months after China’s DeepSeek gained global attention with its own open AI software.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-05/openai-releases-open-weight-models-after-deepseek-s-success",
-      "publishedAt": "2025-08-05T17:00:30Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itTtVGtsRZ68/v1/1200x800.jpg",
-      "translated_title": "OpenAI Releases Open-Weight Models After DeepSeek’s Success",
-      "translated_summary": "OpenAI is releasing a pair of open and freely available artificial intelligence models that can mimic the human process of reasoning, months after China’s DeepSeek gained global attention with its own open AI software.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "14小时前"
+      "time": "15小时前"
     }
   ]
 }
