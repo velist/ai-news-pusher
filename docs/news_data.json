@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-06T21:22:37.557653",
+  "last_updated": "2025-08-06T22:26:04.191397",
   "total_count": 10,
   "articles": [
+    {
+      "id": "8fd10c6d55d4",
+      "title": "Google to spend $1 billion on AI education and job training in the U.S.",
+      "summary": "Google is partnering with colleges to give students free access to its artificial intelligence tools.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/google-ai-education-college-job-training-1-billion/",
+      "publishedAt": "2025-08-06T21:29:21Z",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/06/014a75fd-e588-40c6-bc8f-d092da38a949/thumbnail/1200x630/8966272ae1ba273821d0cbd0418dcd43/gettyimages-2226280945.jpg",
+      "translated_title": "Google to spend $1 billion on AI education and job training in the U.S.",
+      "translated_summary": "Google is partnering with colleges to give students free access to its artificial intelligence tools.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "56分钟前"
+    },
+    {
+      "id": "44faaa732469",
+      "title": "Former Tesla Leaders Start AI-Focused Automotive Company",
+      "summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on the automotive industry, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-06/former-tesla-executives-start-automotive-ai-company-densityai",
+      "publishedAt": "2025-08-06T21:17:55Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRm2SXr2Lta4/v0/1200x799.jpg",
+      "translated_title": "Former Tesla Leaders Start AI-Focused Automotive Company",
+      "translated_summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on the automotive industry, according to people familiar with the matter.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "730a6af37219",
       "title": "Researchers hacked Google Gemini to take control of a smart home",
@@ -14,7 +42,7 @@
       "translated_summary": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "13d19bf67620",
@@ -28,7 +56,7 @@
       "translated_summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "2a9fe8813fc7",
@@ -42,7 +70,7 @@
       "translated_summary": "Tech companies and academics have long wrestled with the risks and rewards of building open-source software. But the frenzy around generative artificial intelligence has lent new significance to the debate.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "7b6b3928ab7d",
@@ -56,7 +84,7 @@
       "translated_summary": "Artificial intelligence, very real vulnerabilities.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "9cdadd2a7e5b",
@@ -70,7 +98,7 @@
       "translated_summary": "Google announces $1 billion investment in artificial intelligence training and education initiatives across U.S. universities over the next three years.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "51839c9d79b4",
@@ -84,7 +112,7 @@
       "translated_summary": "After adding $65 billion in market value over the past four months, the fate of SoftBank Group Corp. shares is more firmly attached to the global artificial intelligence boom than ever before.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "22de29958bf7",
@@ -98,21 +126,7 @@
       "translated_summary": "In the artificial intelligence gold rush, even pick-and-shovel companies like Arista Networks Inc. are seeing their fortunes swell. The hardware provider’s shares have more than doubled since April, reaching an all-time high on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "e52634116509",
-      "title": "Court strikes down California law on election-related AI deepfakes",
-      "summary": "The law came amid increased concerns about the quick advancement of artificial intelligence and its effects on political candidates.",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/news/justice/3492053/court-musk-x-california-law-election-related-ai-deepfakes/",
-      "publishedAt": "2025-08-06T13:01:30Z",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/Elon-Musk-yy771123.webp",
-      "translated_title": "Court strikes down California law on election-related AI deepfakes",
-      "translated_summary": "The law came amid increased concerns about the quick advancement of artificial intelligence and its effects on political candidates.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "7小时前"
     },
     {
       "id": "e403f1d3fb0b",
@@ -126,21 +140,7 @@
       "translated_summary": "The AI deepfakes law came as there's been increased concerns about the quick advancement of artificial intelligence and its impacts on political candidates.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "7856fa33f1e7",
-      "title": "OpenAI Eyes $500 Billion Valuation in Share Sale Talks | The Pulse 8/06/2025",
-      "summary": "OpenAI is in early talks about a potential sale of stock for current and former employees at a valuation of about $500 billion, people briefed on the investment discussions said, marking an enormous gain in value for the artificial intelligence leader. The company is targeting a secondary stock sale in the billions of dollars, the people said, asking to remain anonymous because they weren’t authorized to discuss the matter publicly. If the deal goes ahead, it would elevate OpenAI’s on-paper price tag by roughly two-thirds. In trade news, President Donald Trump said he’d impose increased tariffs on countries buying energy from Russia while clarifying that levies on semiconductor and pharmaceutical imports would be announced “within the next week or so.” \nToday's guests: Kim Crawford, JPMorgan Asset Management Global Rates Portfolio Manager, Karsten Munk Knudsen, Novo Nordisk CFO (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-06/the-pulse-8-06-2025-video",
-      "publishedAt": "2025-08-06T10:17:08Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilMKfsC29mgg/v3/-1x-1.png",
-      "translated_title": "OpenAI Eyes $500 Billion Valuation in Share Sale Talks | The Pulse 8/06/2025",
-      "translated_summary": "OpenAI is in early talks about a potential sale of stock for current and former employees at a valuation of about $500 billion, people briefed on the investment discussions said, marking an enormous gain in value for the artificial intelligence leader. The company is targeting a secondary stock sale in the billions of dollars, the people said, asking to remain anonymous because they weren’t authorized to discuss the matter publicly. If the deal goes ahead, it would elevate OpenAI’s on-paper price tag by roughly two-thirds. In trade news, President Donald Trump said he’d impose increased tariffs on countries buying energy from Russia while clarifying that levies on semiconductor and pharmaceutical imports would be announced “within the next week or so.” \nToday's guests: Kim Crawford, JPMorgan Asset Management Global Rates Portfolio Manager, Karsten Munk Knudsen, Novo Nordisk CFO (Source: Bloomberg)",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "11小时前"
+      "time": "9小时前"
     }
   ]
 }
