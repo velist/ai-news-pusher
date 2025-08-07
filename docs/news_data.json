@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-07T17:26:05.265642",
+  "last_updated": "2025-08-07T18:39:08.961935",
   "total_count": 10,
   "articles": [
+    {
+      "id": "ce456bdffe67",
+      "title": "David Ellison Meets the Press",
+      "summary": "\"We're ready to move past the noise,\" the CEO said, despite the lobbed questions geared toward Trump, '60 Minutes' independence, artificial intelligence and FCC maneuvering.",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-skydance-1236339514/",
+      "publishedAt": "2025-08-07T17:38:08Z",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2199293779-1.jpg?w=1440&h=810&crop=1",
+      "translated_title": "David Ellison Meets the Press",
+      "translated_summary": "\"We're ready to move past the noise,\" the CEO said, despite the lobbed questions geared toward Trump, '60 Minutes' independence, artificial intelligence and FCC maneuvering.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "416b191a08bc",
       "title": "OpenAI releases GPT-5, a potential barometer for whether artificial intelligence hype is justified",
@@ -14,7 +28,21 @@
       "translated_summary": "OpenAI has released the fifth generation of the AI technology behind ChatGPT.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "22分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "fefa6f13a8a8",
+      "title": "OpenAI launches GPT-5 as the AI industry seeks a return on investment",
+      "summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/openai-launches-gpt-5-ai-industry-seeks-return-investment-2025-08-07/",
+      "publishedAt": "2025-08-07T17:02:16Z",
+      "image": "https://www.reuters.com/resizer/v2/DE764WJDLROJHLQO3WICIVSUXA.jpg?auth=2d17c4832a09a13f1cea75a999a940bc0536ee190dfe774218d742e8146c743f&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "OpenAI launches GPT-5 as the AI industry seeks a return on investment",
+      "translated_summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
     },
     {
       "id": "82745545df3b",
@@ -28,7 +56,7 @@
       "translated_summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "26分钟前"
+      "time": "1小时前"
     },
     {
       "id": "53003001c623",
@@ -42,7 +70,7 @@
       "translated_summary": "President Donald Trump celebrates 200-day milestone featuring passage of massive tax bill, trade deals, artificial intelligence advances and bombshell Russia probe documents.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "53分钟前"
+      "time": "2小时前"
     },
     {
       "id": "9b32242ce5df",
@@ -56,7 +84,7 @@
       "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "64d56e938834",
@@ -70,7 +98,7 @@
       "translated_summary": "Educators say the artificial intelligence, technology has saved lives. But it also brings risk that a thoughtless statement could upend a child’s life.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "6f020c046915",
@@ -84,7 +112,7 @@
       "translated_summary": "Apple Inc.’s two-day surge has it on the cusp of ending a prolonged run under a key technical threshold that’s been symbolic of its struggle to convince investors that it can deliver on artificial intelligence and manage its tariff risks.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "f66008d70e4d",
@@ -98,7 +126,7 @@
       "translated_summary": "Duolingo shares skyrocketed after the language learning platform boosted its guidance due to strong user growth driven by artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "e561e1982651",
@@ -110,34 +138,6 @@
       "image": "https://parade.com/.image/w_1200,h_630,g_auto,c_fill/ODowMDAwMDAwMDAwOTU5OTkz/gettyimages-457286444.jpg",
       "translated_title": "James Cameron Shares 'Terminator'-Style Vision for A.I.",
       "translated_summary": "Addressing the growing fears surrounding artificial intelligence, James Cameron shared some stark views about humanity's relationship with A.I.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "dff473e2389c",
-      "title": "Japan tech giant SoftBank Group sees better fortunes on surging AI stocks",
-      "summary": "Japanese technology conglomerate SoftBank Group has reported a $2.9 billion profit for the April-June quarter, rebounding from a loss a year earlier, as its investments benefited from the craze for artificial intelligence.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/softbank-japan-technology-ai-investments-8694f9a3b981b9f127f92e2ea23b5034",
-      "publishedAt": "2025-08-07T12:51:48Z",
-      "image": "https://dims.apnews.com/dims4/default/36babe8/2147483647/strip/true/crop/5480x3083+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3f%2F30%2Fdeab6c271f239630f3a2c0686dd2%2Fdb91d362092c414aaf15b1f3539f9b8f",
-      "translated_title": "Japan tech giant SoftBank Group sees better fortunes on surging AI stocks",
-      "translated_summary": "Japanese technology conglomerate SoftBank Group has reported a $2.9 billion profit for the April-June quarter, rebounding from a loss a year earlier, as its investments benefited from the craze for artificial intelligence.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "4小时前"
-    },
-    {
-      "id": "05caefb115b6",
-      "title": "Apple's Real AI Crisis Isn't Siri, But the Talent It's Losing to Rivals",
-      "summary": "Apple has hemorrhaged around a dozen artificial intelligence staff to rivals since January, making it one of the prime victims in Silicon...",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2025/08/07/apples-ai-problem-not-just-siri-talent-leaving/",
-      "publishedAt": "2025-08-07T12:22:34Z",
-      "image": "https://images.macrumors.com/t/bDSnDh5rJkwhN6iKwOzp-X_CeWo=/2500x/article-new/2025/08/Apple-Intelligence-Comes-Under-Fire-Feature.jpg",
-      "translated_title": "Apple's Real AI Crisis Isn't Siri, But the Talent It's Losing to Rivals",
-      "translated_summary": "Apple has hemorrhaged around a dozen artificial intelligence staff to rivals since January, making it one of the prime victims in Silicon...",
       "category": "热门",
       "category_icon": "🔥",
       "time": "5小时前"
