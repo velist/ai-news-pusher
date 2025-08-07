@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-07T04:07:44.482920",
+  "last_updated": "2025-08-07T05:32:41.732247",
   "total_count": 10,
   "articles": [
+    {
+      "id": "34391f0243f5",
+      "title": "AI Helps Rapidly Crack Yearlong Mystery in Alps",
+      "summary": "The search for the body of a hiker who vanished in Italy's Alps last September ended up being a remarkably quick one, thanks to artificial intelligence. The National Alpine...",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/373103/ai-and-drones-crack-yearlong-mystery-in-italian-alps.html",
+      "publishedAt": "2025-08-07T04:00:00Z",
+      "image": "https://img2-azrcdn.newser.com/image/1626695-12-20250806182517.jpeg",
+      "translated_title": "AI Helps Rapidly Crack Yearlong Mystery in Alps",
+      "translated_summary": "The search for the body of a hiker who vanished in Italy's Alps last September ended up being a remarkably quick one, thanks to artificial intelligence. The National Alpine...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "8fd10c6d55d4",
       "title": "Google to spend $1 billion on AI education and job training in the U.S.",
@@ -14,21 +28,21 @@
       "translated_summary": "Google is partnering with colleges to give students free access to its artificial intelligence tools.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "44faaa732469",
       "title": "Former Tesla Leaders Start AI-Focused Automotive Company",
-      "summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on the automotive industry, according to people familiar with the matter.",
+      "summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2025-08-06/former-tesla-executives-start-automotive-ai-company-densityai",
       "publishedAt": "2025-08-06T21:17:55Z",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRm2SXr2Lta4/v0/1200x799.jpg",
       "translated_title": "Former Tesla Leaders Start AI-Focused Automotive Company",
-      "translated_summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on the automotive industry, according to people familiar with the matter.",
+      "translated_summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "730a6af37219",
@@ -42,7 +56,7 @@
       "translated_summary": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "9小时前"
     },
     {
       "id": "13d19bf67620",
@@ -56,7 +70,7 @@
       "translated_summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "9小时前"
     },
     {
       "id": "2a9fe8813fc7",
@@ -70,7 +84,7 @@
       "translated_summary": "Tech companies and academics have long wrestled with the risks and rewards of building open-source software. But the frenzy around generative artificial intelligence has lent new significance to the debate.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "8小时前"
+      "time": "10小时前"
     },
     {
       "id": "7b6b3928ab7d",
@@ -84,7 +98,7 @@
       "translated_summary": "Artificial intelligence, very real vulnerabilities.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "11小时前"
     },
     {
       "id": "9cdadd2a7e5b",
@@ -98,21 +112,21 @@
       "translated_summary": "Google announces $1 billion investment in artificial intelligence training and education initiatives across U.S. universities over the next three years.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "51839c9d79b4",
       "title": "AI Investments Key for SoftBank Shares After $65 Billion Rally",
-      "summary": "After adding $65 billion in market value over the past four months, the fate of SoftBank Group Corp. shares is more firmly attached to the global artificial intelligence boom than ever before.",
+      "summary": "After adding more than $65 billion in market value over the past four months, the fate of SoftBank Group Corp. shares is more firmly attached to the global artificial intelligence boom than ever before.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2025-08-06/ai-investments-key-for-softbank-shares-after-65-billion-rally",
       "publishedAt": "2025-08-06T16:00:00Z",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2y8daUoyqZ4/v1/1200x800.jpg",
       "translated_title": "AI Investments Key for SoftBank Shares After $65 Billion Rally",
-      "translated_summary": "After adding $65 billion in market value over the past four months, the fate of SoftBank Group Corp. shares is more firmly attached to the global artificial intelligence boom than ever before.",
+      "translated_summary": "After adding more than $65 billion in market value over the past four months, the fate of SoftBank Group Corp. shares is more firmly attached to the global artificial intelligence boom than ever before.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "22de29958bf7",
@@ -126,21 +140,7 @@
       "translated_summary": "In the artificial intelligence gold rush, even pick-and-shovel companies like Arista Networks Inc. are seeing their fortunes swell. The hardware provider’s shares have more than doubled since April, reaching an all-time high on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "e403f1d3fb0b",
-      "title": "Court sides strikes down California law on election-related AI deepfakes",
-      "summary": "The AI deepfakes law came as there's been increased concerns about the quick advancement of artificial intelligence and its impacts on political candidates.",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/news/3492053/court-musk-x-california-law-election-related-ai-deepfakes/",
-      "publishedAt": "2025-08-06T13:01:30Z",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/Elon-Musk-yy771123.webp",
-      "translated_title": "Court sides strikes down California law on election-related AI deepfakes",
-      "translated_summary": "The AI deepfakes law came as there's been increased concerns about the quick advancement of artificial intelligence and its impacts on political candidates.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "15小时前"
+      "time": "14小时前"
     }
   ]
 }
