@@ -1,7 +1,63 @@
 {
-  "last_updated": "2025-08-07T16:34:08.084242",
+  "last_updated": "2025-08-07T17:26:05.265642",
   "total_count": 10,
   "articles": [
+    {
+      "id": "416b191a08bc",
+      "title": "OpenAI releases GPT-5, a potential barometer for whether artificial intelligence hype is justified",
+      "summary": "OpenAI has released the fifth generation of the AI technology behind ChatGPT.",
+      "source": "WDIV ClickOnDetroit",
+      "url": "https://www.clickondetroit.com/business/2025/08/07/openai-releases-gpt-5-a-potential-barometer-for-whether-artificial-intelligence-hype-is-justified/",
+      "publishedAt": "2025-08-07T17:03:29Z",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4VBIVYKYTFBCHCYPRO3YUQKMXM.jpg?_a=DATAg1eAZAA0",
+      "translated_title": "OpenAI releases GPT-5, a potential barometer for whether artificial intelligence hype is justified",
+      "translated_summary": "OpenAI has released the fifth generation of the AI technology behind ChatGPT.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "22分钟前"
+    },
+    {
+      "id": "82745545df3b",
+      "title": "OpenAI releases GPT-5, calling it a ‘team of Ph.D. level experts in your pocket’",
+      "summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-releases-chatgpt-5-rcna223265",
+      "publishedAt": "2025-08-07T17:00:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250805-sam-altman-aa-520-3f10fc.jpg",
+      "translated_title": "OpenAI releases GPT-5, calling it a ‘team of Ph.D. level experts in your pocket’",
+      "translated_summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "26分钟前"
+    },
+    {
+      "id": "53003001c623",
+      "title": "Trump White House celebrates latest chapter of wins at 200-day mark",
+      "summary": "President Donald Trump celebrates 200-day milestone featuring passage of massive tax bill, trade deals, artificial intelligence advances and bombshell Russia probe documents.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-white-house-celebrates-latest-chapter-wins-200-day-mark",
+      "publishedAt": "2025-08-07T16:32:56Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/trump-waves-white-house.jpg",
+      "translated_title": "Trump White House celebrates latest chapter of wins at 200-day mark",
+      "translated_summary": "President Donald Trump celebrates 200-day milestone featuring passage of massive tax bill, trade deals, artificial intelligence advances and bombshell Russia probe documents.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "53分钟前"
+    },
+    {
+      "id": "9b32242ce5df",
+      "title": "Roblox opens up AI system that helps detect predatory language in chats",
+      "summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
+      "source": "The Associated Press",
+      "url": "https://apnews.com/article/roblox-grooming-messages-ai-kids-teens-9e9d4131d46b80eead3e57b1110d48eb",
+      "publishedAt": "2025-08-07T16:16:25Z",
+      "image": "https://dims.apnews.com/dims4/default/9113df2/2147483647/strip/true/crop/3260x1834+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F10%2Fd0b1b4c70caeffb3279b8a1438b0%2F7fbcab172730411281b76187d7ee3446",
+      "translated_title": "Roblox opens up AI system that helps detect predatory language in chats",
+      "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "64d56e938834",
       "title": "Students have been called to the office for AI surveillance false alarms",
@@ -14,7 +70,7 @@
       "translated_summary": "Educators say the artificial intelligence, technology has saved lives. But it also brings risk that a thoughtless statement could upend a child’s life.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "6f020c046915",
@@ -28,7 +84,7 @@
       "translated_summary": "Apple Inc.’s two-day surge has it on the cusp of ending a prolonged run under a key technical threshold that’s been symbolic of its struggle to convince investors that it can deliver on artificial intelligence and manage its tariff risks.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "f66008d70e4d",
@@ -42,7 +98,7 @@
       "translated_summary": "Duolingo shares skyrocketed after the language learning platform boosted its guidance due to strong user growth driven by artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "e561e1982651",
@@ -70,7 +126,7 @@
       "translated_summary": "Japanese technology conglomerate SoftBank Group has reported a $2.9 billion profit for the April-June quarter, rebounding from a loss a year earlier, as its investments benefited from the craze for artificial intelligence.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "05caefb115b6",
@@ -84,63 +140,7 @@
       "translated_summary": "Apple has hemorrhaged around a dozen artificial intelligence staff to rivals since January, making it one of the prime victims in Silicon...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "e7d361c81ba2",
-      "title": "Roblox rolls out open-source AI system to protect kids from predators in chats",
-      "summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it…",
-      "source": "WTOP",
-      "url": "https://wtop.com/national/2025/08/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats/",
-      "publishedAt": "2025-08-07T12:18:42Z",
-      "image": "https://wtop.com/wp-content/uploads/2025/07/Roblox-Grow_a_Garden_54920-scaled.jpg",
-      "translated_title": "Roblox rolls out open-source AI system to protect kids from predators in chats",
-      "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it…",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "0484820a6364",
-      "title": "Roblox rolls out open-source AI system to protect kids from predators in chats",
-      "summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
-      "source": "WDIV ClickOnDetroit",
-      "url": "https://www.clickondetroit.com/business/2025/08/07/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats/",
-      "publishedAt": "2025-08-07T12:16:24Z",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2Z5NM3Q7FBGE7BPFRLAOYQ4DXI.jpg?_a=DATAg1eAZAA0",
-      "translated_title": "Roblox rolls out open-source AI system to protect kids from predators in chats",
-      "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "0c1d5531b8bc",
-      "title": "Scientists want to prevent AI from going bad by “vaccinating” it",
-      "summary": "Researchers are trying to “vaccinate” artificial intelligence systems against developing harmful personality traits.",
-      "source": "NBC10 Boston",
-      "url": "https://www.nbcboston.com/news/national-international/scientists-prevent-ai-going-rogue-teaching/3785655/",
-      "publishedAt": "2025-08-07T10:42:08Z",
-      "image": "https://media.nbcboston.com/2025/08/AI-convention.jpg?quality=85&strip=all&resize=1200%2C675",
-      "translated_title": "Scientists want to prevent AI from going bad by “vaccinating” it",
-      "translated_summary": "Researchers are trying to “vaccinate” artificial intelligence systems against developing harmful personality traits.",
-      "category": "技术突破",
-      "category_icon": "🚀",
       "time": "5小时前"
-    },
-    {
-      "id": "bb9a4e1a79fc",
-      "title": "Scientists want to prevent AI from going bad by “vaccinating” it",
-      "summary": "Researchers are trying to “vaccinate” artificial intelligence systems against developing harmful personality traits.",
-      "source": "NBC 5 Chicago",
-      "url": "https://www.nbcchicago.com/news/national-international/scientists-prevent-ai-going-rogue-teaching/3806049/",
-      "publishedAt": "2025-08-07T09:42:08Z",
-      "image": "https://media.nbcchicago.com/2025/08/AI-convention.jpg?quality=85&strip=all&resize=1200%2C675",
-      "translated_title": "Scientists want to prevent AI from going bad by “vaccinating” it",
-      "translated_summary": "Researchers are trying to “vaccinate” artificial intelligence systems against developing harmful personality traits.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "6小时前"
     }
   ]
 }
