@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-07T09:31:42.147941",
+  "last_updated": "2025-08-07T10:28:12.294356",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,21 @@
       "translated_summary": "Researchers are trying to “vaccinate” artificial intelligence systems against developing evil, overly flattering or otherwise harmful personality traits in a seemingly counterintuitive way: by giving them a small dose of those problematic traits.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "31分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "b04602d3e7c9",
+      "title": "SoftBank Concedes Stargate Project With OpenAI Needs More Time",
+      "summary": "SoftBank Group Corp. said it’s taking longer than anticipated to get Stargate off the ground, conceding for the first time that the $500 billion artificial intelligence tie-up in the US with OpenAI is bogging down.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-07/softbank-concedes-stargate-project-with-openai-needs-more-time",
+      "publishedAt": "2025-08-07T08:54:07Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io4lm5MfFcs4/v1/1200x800.jpg",
+      "translated_title": "SoftBank Concedes Stargate Project With OpenAI Needs More Time",
+      "translated_summary": "SoftBank Group Corp. said it’s taking longer than anticipated to get Stargate off the ground, conceding for the first time that the $500 billion artificial intelligence tie-up in the US with OpenAI is bogging down.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
     },
     {
       "id": "859f2f014329",
@@ -28,7 +42,7 @@
       "translated_summary": "Japanese technology conglomerate SoftBank Group has reported a $2.9 billion profit for the April-June quarter, rebounding from a loss a year earlier, as its investments benefited from the craze for artificial intelligence.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "39分钟前"
+      "time": "1小时前"
     },
     {
       "id": "4d6687841c8e",
@@ -42,7 +56,7 @@
       "translated_summary": "In a strategic move, Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG) subsidiary Google has committed $1 billion to provide artificial intelligence (AI) offering educational resources and technical assistance to U.S. colleges and nonprofits.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "46分钟前"
+      "time": "1小时前"
     },
     {
       "id": "9c20cf8dc7f3",
@@ -56,7 +70,7 @@
       "translated_summary": "SoftBank Group Corp. swung to a bigger-than-expected profit in the June quarter, riding on gains from its bets on Nvidia Corp. and startups in a boost for founder Masayoshi Son’s bets on artificial intelligence technologies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "34391f0243f5",
@@ -70,7 +84,7 @@
       "translated_summary": "The search for the body of a hiker who vanished in Italy's Alps last September ended up being a remarkably quick one, thanks to artificial intelligence. The National Alpine...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "8fd10c6d55d4",
@@ -98,7 +112,7 @@
       "translated_summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "730a6af37219",
@@ -112,7 +126,7 @@
       "translated_summary": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "13d19bf67620",
@@ -126,20 +140,6 @@
       "translated_summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "2a9fe8813fc7",
-      "title": "How DeepSeek and Open-Source Models Are Shaking Up AI",
-      "summary": "Tech companies and academics have long wrestled with the risks and rewards of building open-source software. But the frenzy around generative artificial intelligence has lent new significance to the debate.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-06/how-deepseek-and-open-source-ai-models-are-disrupting-big-tech",
-      "publishedAt": "2025-08-06T19:27:37Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3lIiWD5bkIM/v2/1200x798.jpg",
-      "translated_title": "How DeepSeek and Open-Source Models Are Shaking Up AI",
-      "translated_summary": "Tech companies and academics have long wrestled with the risks and rewards of building open-source software. But the frenzy around generative artificial intelligence has lent new significance to the debate.",
-      "category": "技术突破",
-      "category_icon": "🚀",
       "time": "14小时前"
     }
   ]
