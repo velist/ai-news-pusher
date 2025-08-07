@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-07T07:29:23.817411",
+  "last_updated": "2025-08-07T08:35:31.708472",
   "total_count": 10,
   "articles": [
+    {
+      "id": "9c20cf8dc7f3",
+      "title": "SoftBank Swings to Profit on Vision Fund Gains Ahead of AI Push",
+      "summary": "SoftBank Group Corp. swung to a bigger-than-expected profit in the June quarter, riding on gains from its bets on Nvidia Corp. and startups in a boost for founder Masayoshi Son’s bets on artificial intelligence technologies.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-07/softbank-swings-to-profit-on-nvidia-bet-ahead-of-big-ai-campaign",
+      "publishedAt": "2025-08-07T06:36:13Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBTXyAldOqbk/v0/1200x800.jpg",
+      "translated_title": "SoftBank Swings to Profit on Vision Fund Gains Ahead of AI Push",
+      "translated_summary": "SoftBank Group Corp. swung to a bigger-than-expected profit in the June quarter, riding on gains from its bets on Nvidia Corp. and startups in a boost for founder Masayoshi Son’s bets on artificial intelligence technologies.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "34391f0243f5",
       "title": "AI Helps Rapidly Crack Yearlong Mystery in Alps",
@@ -14,7 +28,7 @@
       "translated_summary": "The search for the body of a hiker who vanished in Italy's Alps last September ended up being a remarkably quick one, thanks to artificial intelligence. The National Alpine...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "8fd10c6d55d4",
@@ -28,7 +42,7 @@
       "translated_summary": "Google is partnering with colleges to give students free access to its artificial intelligence tools.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "44faaa732469",
@@ -42,7 +56,7 @@
       "translated_summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "730a6af37219",
@@ -56,7 +70,7 @@
       "translated_summary": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "13d19bf67620",
@@ -70,7 +84,7 @@
       "translated_summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "2a9fe8813fc7",
@@ -84,7 +98,7 @@
       "translated_summary": "Tech companies and academics have long wrestled with the risks and rewards of building open-source software. But the frenzy around generative artificial intelligence has lent new significance to the debate.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "7b6b3928ab7d",
@@ -98,7 +112,7 @@
       "translated_summary": "Artificial intelligence, very real vulnerabilities.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "9cdadd2a7e5b",
@@ -112,7 +126,7 @@
       "translated_summary": "Google announces $1 billion investment in artificial intelligence training and education initiatives across U.S. universities over the next three years.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "51839c9d79b4",
@@ -126,20 +140,6 @@
       "translated_summary": "After adding more than $65 billion in market value over the past four months, the fate of SoftBank Group Corp. shares is more firmly attached to the global artificial intelligence boom than ever before.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "15小时前"
-    },
-    {
-      "id": "22de29958bf7",
-      "title": "Arista’s Stock Jump Pushes CEO Ullal’s Wealth to $6.4 Billion",
-      "summary": "In the artificial intelligence gold rush, even pick-and-shovel companies like Arista Networks Inc. are seeing their fortunes swell. The hardware provider’s shares have more than doubled since April, reaching an all-time high on Wednesday.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-06/arista-s-stock-jump-pushes-ceo-ullal-s-wealth-to-6-4-billion",
-      "publishedAt": "2025-08-06T14:36:31Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKIzPIsDk1jQ/v0/1200x800.jpg",
-      "translated_title": "Arista’s Stock Jump Pushes CEO Ullal’s Wealth to $6.4 Billion",
-      "translated_summary": "In the artificial intelligence gold rush, even pick-and-shovel companies like Arista Networks Inc. are seeing their fortunes swell. The hardware provider’s shares have more than doubled since April, reaching an all-time high on Wednesday.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "16小时前"
     }
   ]
