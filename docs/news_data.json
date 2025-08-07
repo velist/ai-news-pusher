@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-07T21:23:40.212772",
+  "last_updated": "2025-08-07T22:26:02.031403",
   "total_count": 10,
   "articles": [
+    {
+      "id": "cf5cd86da4d6",
+      "title": "Accel Leading Round for AI Startup n8n at $2.3 Billion Valuation",
+      "summary": "The venture capital firm Accel is leading a funding round for the German artificial intelligence startup n8n that would exponentially raise the valuation of the company to $2.3 billion, people familiar with the situation said.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-07/accel-leading-round-for-ai-startup-n8n-at-2-3-billion-valuation",
+      "publishedAt": "2025-08-07T20:26:13Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id6BCwGZEmTc/v1/1200x800.jpg",
+      "translated_title": "Accel Leading Round for AI Startup n8n at $2.3 Billion Valuation",
+      "translated_summary": "The venture capital firm Accel is leading a funding round for the German artificial intelligence startup n8n that would exponentially raise the valuation of the company to $2.3 billion, people familiar with the situation said.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "941464c661b3",
       "title": "An AI version of you could live forever",
@@ -14,7 +28,7 @@
       "translated_summary": "New developments in artificial intelligence are allowing people to live forever, via versions of themselves that can converse with the living through companies such as You, Only Virtual and StoryFile.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "a1a9e562f691",
@@ -28,7 +42,7 @@
       "translated_summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "ce456bdffe67",
@@ -42,7 +56,7 @@
       "translated_summary": "\"We're ready to move past the noise,\" the CEO said, despite the lobbed questions geared toward Trump, '60 Minutes' independence, artificial intelligence and FCC maneuvering.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "416b191a08bc",
@@ -56,7 +70,7 @@
       "translated_summary": "OpenAI has released the fifth generation of the AI technology behind ChatGPT.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "fefa6f13a8a8",
@@ -70,7 +84,21 @@
       "translated_summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
+    },
+    {
+      "id": "82745545df3b",
+      "title": "OpenAI releases GPT-5, calling it a ‘team of Ph.D. level experts in your pocket’",
+      "summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-releases-chatgpt-5-rcna223265",
+      "publishedAt": "2025-08-07T17:00:40Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250805-sam-altman-aa-520-3f10fc.jpg",
+      "translated_title": "OpenAI releases GPT-5, calling it a ‘team of Ph.D. level experts in your pocket’",
+      "translated_summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "5小时前"
     },
     {
       "id": "410dd7497626",
@@ -84,21 +112,7 @@
       "translated_summary": "OpenAI is rolling out a more powerful and long-awaited new artificial intelligence model called GPT-5, vying to stay ahead of increased competition from rivals in the US and China.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
-    },
-    {
-      "id": "82745545df3b",
-      "title": "OpenAI releases GPT-5, calling it a ‘team of Ph.D. level experts in your pocket’",
-      "summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/tech-news/openai-releases-chatgpt-5-rcna223265",
-      "publishedAt": "2025-08-07T17:00:00Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250805-sam-altman-aa-520-3f10fc.jpg",
-      "translated_title": "OpenAI releases GPT-5, calling it a ‘team of Ph.D. level experts in your pocket’",
-      "translated_summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "53003001c623",
@@ -112,7 +126,7 @@
       "translated_summary": "President Donald Trump celebrates 200-day milestone featuring passage of massive tax bill, trade deals, artificial intelligence advances and bombshell Russia probe documents.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "9b32242ce5df",
@@ -126,21 +140,7 @@
       "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "c602725c9dbf",
-      "title": "OpenAI releases hotly anticipated GPT-5 update",
-      "summary": "Expectations are high for the newest version of OpenAI's flagship model because the San Francisco company has long positioned its technical advancements as a path toward artificial general intelligence, or AGI, a technology that is supposed to surpass humans at economically valuable work.",
-      "source": "PBS News",
-      "url": "https://www.pbs.org/newshour/economy/openai-releases-hotly-anticipated-gpt-5-update",
-      "publishedAt": "2025-08-07T15:59:11Z",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2025-08-06T021942Z_1374809076_RC2LU7AYUNM6_RTRMADP_3_OPENAI-SHARE-SALE-1024x626.jpg",
-      "translated_title": "OpenAI releases hotly anticipated GPT-5 update",
-      "translated_summary": "Expectations are high for the newest version of OpenAI's flagship model because the San Francisco company has long positioned its technical advancements as a path toward artificial general intelligence, or AGI, a technology that is supposed to surpass humans at economically valuable work.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
