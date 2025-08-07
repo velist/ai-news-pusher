@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-07T12:55:49.323498",
+  "last_updated": "2025-08-07T13:45:14.953407",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f66008d70e4d",
+      "title": "Duolingo (DUOL) Q2 earnings 2025",
+      "summary": "Duolingo shares skyrocketed after the language learning platform boosted its guidance due to strong user growth driven by artificial intelligence.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/07/duolingo-duol-q2-earnings-2025.html",
+      "publishedAt": "2025-08-07T13:37:37Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/106917760-1627423922126-gettyimages-1234066521-PGONCHAR_W0181.jpeg?v=1754571346&w=1920&h=1080",
+      "translated_title": "Duolingo (DUOL) Q2 earnings 2025",
+      "translated_summary": "Duolingo shares skyrocketed after the language learning platform boosted its guidance due to strong user growth driven by artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7分钟前"
+    },
     {
       "id": "05caefb115b6",
       "title": "Apple's Real AI Crisis Isn't Siri, But the Talent It's Losing to Rivals",
@@ -14,7 +28,21 @@
       "translated_summary": "Apple has hemorrhaged around a dozen artificial intelligence staff to rivals since January, making it one of the prime victims in Silicon...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "33分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "e7d361c81ba2",
+      "title": "Roblox rolls out open-source AI system to protect kids from predators in chats",
+      "summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it…",
+      "source": "WTOP",
+      "url": "https://wtop.com/national/2025/08/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats/",
+      "publishedAt": "2025-08-07T12:18:42Z",
+      "image": "https://wtop.com/wp-content/uploads/2025/07/Roblox-Grow_a_Garden_54920-scaled.jpg",
+      "translated_title": "Roblox rolls out open-source AI system to protect kids from predators in chats",
+      "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it…",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
     },
     {
       "id": "0484820a6364",
@@ -28,7 +56,7 @@
       "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "39分钟前"
+      "time": "1小时前"
     },
     {
       "id": "9b8835c9f13c",
@@ -42,7 +70,7 @@
       "translated_summary": "Researchers are trying to “vaccinate” artificial intelligence systems against developing evil, overly flattering or otherwise harmful personality traits in a seemingly counterintuitive way: by giving them a small dose of those problematic traits.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "b04602d3e7c9",
@@ -84,7 +112,7 @@
       "translated_summary": "In a strategic move, Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG) subsidiary Google has committed $1 billion to provide artificial intelligence (AI) offering educational resources and technical assistance to U.S. colleges and nonprofits.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "9c20cf8dc7f3",
@@ -98,7 +126,7 @@
       "translated_summary": "SoftBank Group Corp. swung to a bigger-than-expected profit in the June quarter, riding on gains from its bets on Nvidia Corp. and startups in a boost for founder Masayoshi Son’s bets on artificial intelligence technologies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "34391f0243f5",
@@ -112,35 +140,7 @@
       "translated_summary": "The search for the body of a hiker who vanished in Italy's Alps last September ended up being a remarkably quick one, thanks to artificial intelligence. The National Alpine...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "80cde7bf881f",
-      "title": "Roblox Rolls Out Open-Source AI System to Protect Kids From Predators in Chats",
-      "summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/technology/articles/2025-08-07/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats",
-      "publishedAt": "2025-08-07T04:00:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/731872d/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F39%2F750d1e7c711d3b43e10a0061c4c6c1%2F7fbcab172730411281b76187d7ee3446Roblox-Grow_a_Garden_54920.jpg",
-      "translated_title": "Roblox Rolls Out Open-Source AI System to Protect Kids From Predators in Chats",
-      "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "8fd10c6d55d4",
-      "title": "Google to spend $1 billion on AI education and job training in the U.S.",
-      "summary": "Google is partnering with colleges to give students free access to its artificial intelligence tools.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/google-ai-education-college-job-training-1-billion/",
-      "publishedAt": "2025-08-06T21:29:21Z",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/06/014a75fd-e588-40c6-bc8f-d092da38a949/thumbnail/1200x630/8966272ae1ba273821d0cbd0418dcd43/gettyimages-2226280945.jpg",
-      "translated_title": "Google to spend $1 billion on AI education and job training in the U.S.",
-      "translated_summary": "Google is partnering with colleges to give students free access to its artificial intelligence tools.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "15小时前"
+      "time": "9小时前"
     }
   ]
 }
