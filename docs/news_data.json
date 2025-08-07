@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-07T22:26:02.031403",
+  "last_updated": "2025-08-07T23:25:45.963169",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e36d30382837",
+      "title": "OpenAI launches GPT-5, a potential barometer for whether AI hype is justified",
+      "summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as",
+      "source": "WJLA",
+      "url": "https://wjla.com/news/nation-world/open-ai-chat-gpt-5-artifical-intelligence-computer-data-flagship-advancing-progress-claud-google-competitors-technical-general-technology-energy-data-limits-coding-studies-students-learning-impacts-health-benchmarks",
+      "publishedAt": "2025-08-07T22:19:00Z",
+      "image": "https://wjla.com/resources/media2/16x9/612/986/0x32/90/9fb7fe22-123d-4b8b-b0c8-b93d560d2ac1-gettyimages2215606013612x612.jpg",
+      "translated_title": "OpenAI launches GPT-5, a potential barometer for whether AI hype is justified",
+      "translated_summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "cf5cd86da4d6",
       "title": "Accel Leading Round for AI Startup n8n at $2.3 Billion Valuation",
@@ -14,7 +28,7 @@
       "translated_summary": "The venture capital firm Accel is leading a funding round for the German artificial intelligence startup n8n that would exponentially raise the valuation of the company to $2.3 billion, people familiar with the situation said.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "941464c661b3",
@@ -28,7 +42,7 @@
       "translated_summary": "New developments in artificial intelligence are allowing people to live forever, via versions of themselves that can converse with the living through companies such as You, Only Virtual and StoryFile.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "a1a9e562f691",
@@ -42,7 +56,21 @@
       "translated_summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "fefa6f13a8a8",
+      "title": "OpenAI launches GPT-5 as the AI industry seeks a return on investment",
+      "summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/openai-launches-gpt-5-ai-industry-seeks-return-investment-2025-08-07/",
+      "publishedAt": "2025-08-07T19:50:02Z",
+      "image": "https://www.reuters.com/resizer/v2/DE764WJDLROJHLQO3WICIVSUXA.jpg?auth=2d17c4832a09a13f1cea75a999a940bc0536ee190dfe774218d742e8146c743f&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "OpenAI launches GPT-5 as the AI industry seeks a return on investment",
+      "translated_summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "3小时前"
     },
     {
       "id": "ce456bdffe67",
@@ -51,12 +79,12 @@
       "source": "The Hollywood Reporter",
       "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-skydance-1236339514/",
       "publishedAt": "2025-08-07T17:38:08Z",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2199293779-1.jpg?w=1440&h=810&crop=1",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/3099145_0257b2.jpg?w=1440&h=810&crop=1",
       "translated_title": "David Ellison Meets the Press",
       "translated_summary": "\"We're ready to move past the noise,\" the CEO said, despite the lobbed questions geared toward Trump, '60 Minutes' independence, artificial intelligence and FCC maneuvering.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "416b191a08bc",
@@ -70,21 +98,7 @@
       "translated_summary": "OpenAI has released the fifth generation of the AI technology behind ChatGPT.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
-    },
-    {
-      "id": "fefa6f13a8a8",
-      "title": "OpenAI launches GPT-5 as the AI industry seeks a return on investment",
-      "summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/openai-launches-gpt-5-ai-industry-seeks-return-investment-2025-08-07/",
-      "publishedAt": "2025-08-07T17:02:16Z",
-      "image": "https://www.reuters.com/resizer/v2/DE764WJDLROJHLQO3WICIVSUXA.jpg?auth=2d17c4832a09a13f1cea75a999a940bc0536ee190dfe774218d742e8146c743f&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "OpenAI launches GPT-5 as the AI industry seeks a return on investment",
-      "translated_summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "82745545df3b",
@@ -98,7 +112,7 @@
       "translated_summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "410dd7497626",
@@ -112,7 +126,7 @@
       "translated_summary": "OpenAI is rolling out a more powerful and long-awaited new artificial intelligence model called GPT-5, vying to stay ahead of increased competition from rivals in the US and China.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "53003001c623",
@@ -124,20 +138,6 @@
       "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/trump-waves-white-house.jpg",
       "translated_title": "Trump White House celebrates latest chapter of wins at 200-day mark",
       "translated_summary": "President Donald Trump celebrates 200-day milestone featuring passage of massive tax bill, trade deals, artificial intelligence advances and bombshell Russia probe documents.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "9b32242ce5df",
-      "title": "Roblox opens up AI system that helps detect predatory language in chats",
-      "summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/roblox-grooming-messages-ai-kids-teens-9e9d4131d46b80eead3e57b1110d48eb",
-      "publishedAt": "2025-08-07T16:16:25Z",
-      "image": "https://dims.apnews.com/dims4/default/9113df2/2147483647/strip/true/crop/3260x1834+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F10%2Fd0b1b4c70caeffb3279b8a1438b0%2F7fbcab172730411281b76187d7ee3446",
-      "translated_title": "Roblox opens up AI system that helps detect predatory language in chats",
-      "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "6小时前"
