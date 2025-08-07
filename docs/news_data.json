@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-07T11:23:19.873560",
+  "last_updated": "2025-08-07T12:55:49.323498",
   "total_count": 10,
   "articles": [
+    {
+      "id": "05caefb115b6",
+      "title": "Apple's Real AI Crisis Isn't Siri, But the Talent It's Losing to Rivals",
+      "summary": "Apple has hemorrhaged around a dozen artificial intelligence staff to rivals since January, making it one of the prime victims in Silicon...",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2025/08/07/apples-ai-problem-not-just-siri-talent-leaving/",
+      "publishedAt": "2025-08-07T12:22:34Z",
+      "image": "https://images.macrumors.com/t/bDSnDh5rJkwhN6iKwOzp-X_CeWo=/2500x/article-new/2025/08/Apple-Intelligence-Comes-Under-Fire-Feature.jpg",
+      "translated_title": "Apple's Real AI Crisis Isn't Siri, But the Talent It's Losing to Rivals",
+      "translated_summary": "Apple has hemorrhaged around a dozen artificial intelligence staff to rivals since January, making it one of the prime victims in Silicon...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "33分钟前"
+    },
+    {
+      "id": "0484820a6364",
+      "title": "Roblox rolls out open-source AI system to protect kids from predators in chats",
+      "summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
+      "source": "WDIV ClickOnDetroit",
+      "url": "https://www.clickondetroit.com/business/2025/08/07/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats/",
+      "publishedAt": "2025-08-07T12:16:24Z",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2Z5NM3Q7FBGE7BPFRLAOYQ4DXI.jpg?_a=DATAg1eAZAA0",
+      "translated_title": "Roblox rolls out open-source AI system to protect kids from predators in chats",
+      "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "39分钟前"
+    },
     {
       "id": "9b8835c9f13c",
       "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first",
@@ -14,7 +42,7 @@
       "translated_summary": "Researchers are trying to “vaccinate” artificial intelligence systems against developing evil, overly flattering or otherwise harmful personality traits in a seemingly counterintuitive way: by giving them a small dose of those problematic traits.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "b04602d3e7c9",
@@ -28,7 +56,7 @@
       "translated_summary": "SoftBank Group Corp. said it’s taking longer than anticipated to get Stargate off the ground, conceding for the first time that the $500 billion artificial intelligence tie-up in the US with OpenAI is bogging down.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "859f2f014329",
@@ -42,7 +70,7 @@
       "translated_summary": "Japanese technology conglomerate SoftBank Group has reported a $2.9 billion profit for the April-June quarter, rebounding from a loss a year earlier, as its investments benefited from the craze for artificial intelligence.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "4d6687841c8e",
@@ -56,7 +84,7 @@
       "translated_summary": "In a strategic move, Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG) subsidiary Google has committed $1 billion to provide artificial intelligence (AI) offering educational resources and technical assistance to U.S. colleges and nonprofits.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "9c20cf8dc7f3",
@@ -70,7 +98,7 @@
       "translated_summary": "SoftBank Group Corp. swung to a bigger-than-expected profit in the June quarter, riding on gains from its bets on Nvidia Corp. and startups in a boost for founder Masayoshi Son’s bets on artificial intelligence technologies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "34391f0243f5",
@@ -84,7 +112,21 @@
       "translated_summary": "The search for the body of a hiker who vanished in Italy's Alps last September ended up being a remarkably quick one, thanks to artificial intelligence. The National Alpine...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
+    },
+    {
+      "id": "80cde7bf881f",
+      "title": "Roblox Rolls Out Open-Source AI System to Protect Kids From Predators in Chats",
+      "summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/technology/articles/2025-08-07/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats",
+      "publishedAt": "2025-08-07T04:00:00Z",
+      "image": "https://www.usnews.com/dims4/USNEWS/731872d/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F39%2F750d1e7c711d3b43e10a0061c4c6c1%2F7fbcab172730411281b76187d7ee3446Roblox-Grow_a_Garden_54920.jpg",
+      "translated_title": "Roblox Rolls Out Open-Source AI System to Protect Kids From Predators in Chats",
+      "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "8小时前"
     },
     {
       "id": "8fd10c6d55d4",
@@ -98,48 +140,6 @@
       "translated_summary": "Google is partnering with colleges to give students free access to its artificial intelligence tools.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "13小时前"
-    },
-    {
-      "id": "44faaa732469",
-      "title": "Former Tesla Leaders Start AI-Focused Automotive Company",
-      "summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-06/former-tesla-executives-start-automotive-ai-company-densityai",
-      "publishedAt": "2025-08-06T21:17:55Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRm2SXr2Lta4/v0/1200x799.jpg",
-      "translated_title": "Former Tesla Leaders Start AI-Focused Automotive Company",
-      "translated_summary": "Former leaders of Tesla Inc.’s supercomputer program have started a new artificial intelligence company focused on data center services for industries from automotive to robotics, according to people familiar with the matter.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "14小时前"
-    },
-    {
-      "id": "730a6af37219",
-      "title": "Researchers hacked Google Gemini to take control of a smart home",
-      "summary": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/cybersecurity/researchers-hacked-google-gemini-to-take-control-of-a-smart-home-201926464.html",
-      "publishedAt": "2025-08-06T20:19:26Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/WdDnLynnrE04hRcrZOXKRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njk-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/5937f8c0-7300-11f0-bb6b-f4cd782ec9fa",
-      "translated_title": "Researchers hacked Google Gemini to take control of a smart home",
-      "translated_summary": "Cybersecurity researchers were able to control smart home devices by hacking the Google Gemini artificial intelligence assistant.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "15小时前"
-    },
-    {
-      "id": "13d19bf67620",
-      "title": "Can US Become Robotics Capital of the World?",
-      "summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
-      "source": "Newsmax",
-      "url": "https://www.newsmax.com/dugganflanakin/david-sacks-ai-elon-musk/2025/08/06/id/1221530/",
-      "publishedAt": "2025-08-06T20:17:03Z",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6bdc94c3-1f5f-4940-8924-1a0f91b74c2c&SiteName=Newsmax",
-      "translated_title": "Can US Become Robotics Capital of the World?",
-      "translated_summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "15小时前"
     }
   ]
