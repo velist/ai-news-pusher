@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-07T18:39:08.961935",
+  "last_updated": "2025-08-07T19:23:22.088966",
   "total_count": 10,
   "articles": [
     {
@@ -28,7 +28,7 @@
       "translated_summary": "OpenAI has released the fifth generation of the AI technology behind ChatGPT.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "fefa6f13a8a8",
@@ -42,7 +42,21 @@
       "translated_summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
+    },
+    {
+      "id": "410dd7497626",
+      "title": "OpenAI Launches More Powerful GPT-5 Model Aimed at Better Coding",
+      "summary": "OpenAI is rolling out a more powerful and long-awaited new artificial intelligence model called GPT-5, vying to stay ahead of increased competition from rivals in the US and China.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-07/openai-launches-more-powerful-gpt-5-model-aimed-at-better-coding",
+      "publishedAt": "2025-08-07T17:00:30Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI8Hl20.ax.8/v1/1200x800.jpg",
+      "translated_title": "OpenAI Launches More Powerful GPT-5 Model Aimed at Better Coding",
+      "translated_summary": "OpenAI is rolling out a more powerful and long-awaited new artificial intelligence model called GPT-5, vying to stay ahead of increased competition from rivals in the US and China.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "2小时前"
     },
     {
       "id": "82745545df3b",
@@ -56,7 +70,7 @@
       "translated_summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "53003001c623",
@@ -84,7 +98,7 @@
       "translated_summary": "Roblox, the online gaming platform wildly popular with children and teenagers, is rolling out an open-source version of an artificial intelligence system it says can help preemptively detect predatory language in game chats.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "64d56e938834",
@@ -115,31 +129,17 @@
       "time": "5小时前"
     },
     {
-      "id": "f66008d70e4d",
-      "title": "Duolingo (DUOL) Q2 earnings 2025",
-      "summary": "Duolingo shares skyrocketed after the language learning platform boosted its guidance due to strong user growth driven by artificial intelligence.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/07/duolingo-duol-q2-earnings-2025.html",
-      "publishedAt": "2025-08-07T13:37:37Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/106917760-1627423922126-gettyimages-1234066521-PGONCHAR_W0181.jpeg?v=1754571346&w=1920&h=1080",
-      "translated_title": "Duolingo (DUOL) Q2 earnings 2025",
-      "translated_summary": "Duolingo shares skyrocketed after the language learning platform boosted its guidance due to strong user growth driven by artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "e561e1982651",
-      "title": "James Cameron Shares 'Terminator'-Style Vision for A.I.",
-      "summary": "Addressing the growing fears surrounding artificial intelligence, James Cameron shared some stark views about humanity's relationship with A.I.",
-      "source": "Parade",
-      "url": "https://parade.com/news/terminator-director-shares-bleak-outlook-on-apocalyptic-future-of-a-i",
-      "publishedAt": "2025-08-07T13:33:40Z",
-      "image": "https://parade.com/.image/w_1200,h_630,g_auto,c_fill/ODowMDAwMDAwMDAwOTU5OTkz/gettyimages-457286444.jpg",
-      "translated_title": "James Cameron Shares 'Terminator'-Style Vision for A.I.",
-      "translated_summary": "Addressing the growing fears surrounding artificial intelligence, James Cameron shared some stark views about humanity's relationship with A.I.",
-      "category": "热门",
-      "category_icon": "🔥",
+      "id": "dd51714ac0f4",
+      "title": "Students have been called to the office for AI surveillance false alarms",
+      "summary": "Educators say the artificial intelligence, technology has saved lives. But it also brings risk that a thoughtless statement could upend a child’s life.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/07/us-education-digital-surveillance/",
+      "publishedAt": "2025-08-07T13:38:29Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/08/Education_Digital_Surveillance_67984-1.jpg?w=1024&h=682",
+      "translated_title": "Students have been called to the office for AI surveillance false alarms",
+      "translated_summary": "Educators say the artificial intelligence, technology has saved lives. But it also brings risk that a thoughtless statement could upend a child’s life.",
+      "category": "技术突破",
+      "category_icon": "🚀",
       "time": "5小时前"
     }
   ]
