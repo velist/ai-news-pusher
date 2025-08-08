@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-08T18:34:45.247304",
+  "last_updated": "2025-08-08T19:19:09.688499",
   "total_count": 10,
   "articles": [
+    {
+      "id": "d5b71ccfbc03",
+      "title": "Our ChatGPT Overlords Have an Update",
+      "summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as a measure...",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/373227/our-chatgpt-overlords-have-an-update.html",
+      "publishedAt": "2025-08-08T18:23:00Z",
+      "image": "https://img2-azrcdn.newser.com/image/1627071-12-20250808084401.jpeg",
+      "translated_title": "Our ChatGPT Overlords Have an Update",
+      "translated_summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as a measure...",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "56分钟前"
+    },
     {
       "id": "df04a2494d38",
       "title": "Meta picks Pimco, Blue Owl for $29 billion data center deal",
@@ -14,7 +28,7 @@
       "translated_summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "b6c3334abbd4",
@@ -28,7 +42,7 @@
       "translated_summary": "Tesla's move to shut down its Dojo supercomputer team likely increases its usage of general purpose GPUs for artificial intelligence, Wells Fargo said.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "6b6c4ff5525e",
@@ -37,12 +51,12 @@
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2025-08-08/ai-money-is-raining-down-on-clean-tech-firms",
       "publishedAt": "2025-08-08T12:00:30Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il8g41IXpQmE/v1/1200x800.jpg",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izElsusgbQFc/v1/1200x800.jpg",
       "translated_title": "AI Money Is Raining Down on Clean Tech Firms",
       "translated_summary": "Long-unloved nuclear and geothermal are experiencing a boom in interest as data center developers seek carbon-free resources capable of delivering round-the-clock electricity to power artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "9ffb9fb9feba",
@@ -84,7 +98,7 @@
       "translated_summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "e36d30382837",
@@ -98,7 +112,7 @@
       "translated_summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "02ee92df8ad7",
@@ -126,21 +140,7 @@
       "translated_summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21小时前"
-    },
-    {
-      "id": "0c5f68d62a11",
-      "title": "James Cameron Warns of '",
-      "summary": "James Cameron, the visionary behind the Terminator franchise, is again sounding the alarm on the dangers of artificial intelligence—warning that its weaponization...",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/373157/james-cameron-warns-of-terminator-style-apocalypse.html",
-      "publishedAt": "2025-08-07T20:45:00Z",
-      "image": "https://img2-azrcdn.newser.com/image/1626885-12-20250807110047.jpeg",
-      "translated_title": "James Cameron Warns of '",
-      "translated_summary": "James Cameron, the visionary behind the Terminator franchise, is again sounding the alarm on the dangers of artificial intelligence—warning that its weaponization...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "21小时前"
+      "time": "22小时前"
     }
   ]
 }
