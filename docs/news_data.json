@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-07T23:25:45.963169",
+  "last_updated": "2025-08-08T02:09:57.671552",
   "total_count": 10,
   "articles": [
+    {
+      "id": "a583660a75d8",
+      "title": "Meta Picks Pimco, Blue Owl for $29 Billion Data Center Financing",
+      "summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the artificial intelligence race heats up, according to people with knowledge of the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-08/meta-picks-pimco-blue-owl-for-29-billion-data-center-financing",
+      "publishedAt": "2025-08-08T00:57:04Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieD8ycmzLgpE/v0/1200x799.jpg",
+      "translated_title": "Meta Picks Pimco, Blue Owl for $29 Billion Data Center Financing",
+      "translated_summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the artificial intelligence race heats up, according to people with knowledge of the matter.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "e36d30382837",
       "title": "OpenAI launches GPT-5, a potential barometer for whether AI hype is justified",
@@ -14,7 +28,21 @@
       "translated_summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "0c5f68d62a11",
+      "title": "James Cameron Warns of '",
+      "summary": "James Cameron, the visionary behind the Terminator franchise, is again sounding the alarm on the dangers of artificial intelligence—warning that its weaponization...",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/373157/james-cameron-warns-of-terminator-style-apocalypse.html",
+      "publishedAt": "2025-08-07T20:45:00Z",
+      "image": "https://img2-azrcdn.newser.com/image/1626885-12-20250807110047.jpeg",
+      "translated_title": "James Cameron Warns of '",
+      "translated_summary": "James Cameron, the visionary behind the Terminator franchise, is again sounding the alarm on the dangers of artificial intelligence—warning that its weaponization...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "5小时前"
     },
     {
       "id": "cf5cd86da4d6",
@@ -28,7 +56,7 @@
       "translated_summary": "The venture capital firm Accel is leading a funding round for the German artificial intelligence startup n8n that would exponentially raise the valuation of the company to $2.3 billion, people familiar with the situation said.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "5小时前"
     },
     {
       "id": "941464c661b3",
@@ -42,7 +70,7 @@
       "translated_summary": "New developments in artificial intelligence are allowing people to live forever, via versions of themselves that can converse with the living through companies such as You, Only Virtual and StoryFile.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "a1a9e562f691",
@@ -56,7 +84,7 @@
       "translated_summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "6小时前"
     },
     {
       "id": "fefa6f13a8a8",
@@ -70,7 +98,7 @@
       "translated_summary": "OpenAI launched on Thursday its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "6小时前"
     },
     {
       "id": "ce456bdffe67",
@@ -84,7 +112,7 @@
       "translated_summary": "\"We're ready to move past the noise,\" the CEO said, despite the lobbed questions geared toward Trump, '60 Minutes' independence, artificial intelligence and FCC maneuvering.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "8小时前"
     },
     {
       "id": "416b191a08bc",
@@ -98,7 +126,7 @@
       "translated_summary": "OpenAI has released the fifth generation of the AI technology behind ChatGPT.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "9小时前"
     },
     {
       "id": "82745545df3b",
@@ -112,35 +140,7 @@
       "translated_summary": "OpenAI on Thursday released the newest version of the artificial intelligence model that powers its popular ChatGPT chatbot, with CEO Sam Altman promoting it as like having a “team of Ph.D.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "410dd7497626",
-      "title": "OpenAI Launches More Powerful GPT-5 Model Aimed at Better Coding",
-      "summary": "OpenAI is rolling out a more powerful and long-awaited new artificial intelligence model called GPT-5, vying to stay ahead of increased competition from rivals in the US and China.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-07/openai-launches-more-powerful-gpt-5-model-aimed-at-better-coding",
-      "publishedAt": "2025-08-07T17:00:30Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI8Hl20.ax.8/v1/1200x800.jpg",
-      "translated_title": "OpenAI Launches More Powerful GPT-5 Model Aimed at Better Coding",
-      "translated_summary": "OpenAI is rolling out a more powerful and long-awaited new artificial intelligence model called GPT-5, vying to stay ahead of increased competition from rivals in the US and China.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "53003001c623",
-      "title": "Trump White House celebrates latest chapter of wins at 200-day mark",
-      "summary": "President Donald Trump celebrates 200-day milestone featuring passage of massive tax bill, trade deals, artificial intelligence advances and bombshell Russia probe documents.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trump-white-house-celebrates-latest-chapter-wins-200-day-mark",
-      "publishedAt": "2025-08-07T16:32:56Z",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/trump-waves-white-house.jpg",
-      "translated_title": "Trump White House celebrates latest chapter of wins at 200-day mark",
-      "translated_summary": "President Donald Trump celebrates 200-day milestone featuring passage of massive tax bill, trade deals, artificial intelligence advances and bombshell Russia probe documents.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "9小时前"
     }
   ]
 }
