@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-08T19:19:09.688499",
+  "last_updated": "2025-08-08T20:27:35.966029",
   "total_count": 10,
   "articles": [
+    {
+      "id": "7e02a7df32b0",
+      "title": "Tesla Disbands Dojo Supercomputer Team",
+      "summary": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-08/tesla-disbands-dojo-supercomputer-team-video",
+      "publishedAt": "2025-08-08T19:52:43Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i18NbpravOLc/v3/-1x-1.jpg",
+      "translated_title": "Tesla Disbands Dojo Supercomputer Team",
+      "translated_summary": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "34分钟前"
+    },
+    {
+      "id": "0c7bf6ff03c5",
+      "title": "OpenAI’s latest step towards advanced artificial intelligence",
+      "summary": "Its new model is an update, not a revolution. But it keeps AI on a trajectory with profound implications | Science & technology",
+      "source": "The Economist",
+      "url": "https://www.economist.com/science-and-technology/2025/08/08/openais-latest-step-towards-advanced-artificial-intelligence",
+      "publishedAt": "2025-08-08T19:51:44Z",
+      "image": "https://www.economist.com/content-assets/images/20250809_STP506.jpg",
+      "translated_title": "OpenAI’s latest step towards advanced artificial intelligence",
+      "translated_summary": "Its new model is an update, not a revolution. But it keeps AI on a trajectory with profound implications | Science & technology",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "35分钟前"
+    },
     {
       "id": "d5b71ccfbc03",
       "title": "Our ChatGPT Overlords Have an Update",
@@ -14,7 +42,7 @@
       "translated_summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as a measure...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "56分钟前"
+      "time": "2小时前"
     },
     {
       "id": "df04a2494d38",
@@ -28,7 +56,7 @@
       "translated_summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "b6c3334abbd4",
@@ -42,7 +70,7 @@
       "translated_summary": "Tesla's move to shut down its Dojo supercomputer team likely increases its usage of general purpose GPUs for artificial intelligence, Wells Fargo said.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "6b6c4ff5525e",
@@ -56,7 +84,7 @@
       "translated_summary": "Long-unloved nuclear and geothermal are experiencing a boom in interest as data center developers seek carbon-free resources capable of delivering round-the-clock electricity to power artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "9ffb9fb9feba",
@@ -70,7 +98,7 @@
       "translated_summary": "At a rooftop bar on Manhattan’s Lower East Side, roughly 150 quant researchers met with employees at the artificial-intelligence startup Anthropic who implored them to consider a life away from Wall Street.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "c692c90c5113",
@@ -84,7 +112,7 @@
       "translated_summary": "Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which will be free to users.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "15小时前"
+      "time": "17小时前"
     },
     {
       "id": "a583660a75d8",
@@ -98,7 +126,7 @@
       "translated_summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "e36d30382837",
@@ -112,34 +140,6 @@
       "translated_summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "21小时前"
-    },
-    {
-      "id": "02ee92df8ad7",
-      "title": "OpenAI releases GPT-5, free to users",
-      "summary": "Aug. 7 (UPI) -- Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which",
-      "source": "Breitbart News Network",
-      "url": "https://www.breitbart.com/news/openai-releases-gpt-5-free-to-users/",
-      "publishedAt": "2025-08-07T21:25:00Z",
-      "image": "https://media.breitbart.com/media/2025/08/wi/upi/openai-offers-federal-agencies-of-chatgpt-openai-offers-federal-agencies-of-chatgpt.jpg",
-      "translated_title": "OpenAI releases GPT-5, free to users",
-      "translated_summary": "Aug. 7 (UPI) -- Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "21小时前"
-    },
-    {
-      "id": "13d19bf67620",
-      "title": "Can US Become Robotics Capital of the World?",
-      "summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
-      "source": "Newsmax",
-      "url": "https://www.newsmax.com/dugganflanakin/david-sacks-ai-elon-musk/2025/08/06/id/1221530/",
-      "publishedAt": "2025-08-07T21:02:23Z",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6bdc94c3-1f5f-4940-8924-1a0f91b74c2c&SiteName=Newsmax",
-      "translated_title": "Can US Become Robotics Capital of the World?",
-      "translated_summary": "White House artificial intelligence and crypto czar David Sacks is today but one of many who believe that America and much of the world will soon fall in love with actual robots that assist them in chores from folding laundry — as Tesla's Optimus apparently can already do — to taking out the trash, washing dishes, and performing other household chores. Robotic machines already are performing major functions in fields from manufacturing to land mine and bomb removal.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "22小时前"
     }
   ]
