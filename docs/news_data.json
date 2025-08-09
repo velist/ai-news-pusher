@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-09T13:32:28.358702",
+  "last_updated": "2025-08-09T14:21:49.821291",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,21 @@
       "translated_summary": "Artificial intelligence’s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "32分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "374b0a5303eb",
+      "title": "AI Boom, Entry-Level Bust: Why College Grads Are Struggling to Land Jobs",
+      "summary": "As artificial intelligence transforms the job market, recent college graduates are finding it harder to land entry-level roles in competitive fields like tech and finance — even with strong résumés and top internships. Economists point to a surge in AI adoption, along with a slowdown in post-pandemic hiring, as key factors driving unemployment among college grads above the national average. Financial leaders like Centerview Partners’ Blair Effron warn that although the AI revolution will boost long-term productivity, short-term impacts on employment will be swift and dramatic. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-09/ai-boom-entry-level-bust-grads-struggle-to-land-jobs-video",
+      "publishedAt": "2025-08-09T12:06:00Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYtg5zS.y3oc/v3/-1x-1.jpg",
+      "translated_title": "AI Boom, Entry-Level Bust: Why College Grads Are Struggling to Land Jobs",
+      "translated_summary": "As artificial intelligence transforms the job market, recent college graduates are finding it harder to land entry-level roles in competitive fields like tech and finance — even with strong résumés and top internships. Economists point to a surge in AI adoption, along with a slowdown in post-pandemic hiring, as key factors driving unemployment among college grads above the national average. Financial leaders like Centerview Partners’ Blair Effron warn that although the AI revolution will boost long-term productivity, short-term impacts on employment will be swift and dramatic. (Source: Bloomberg)",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
     },
     {
       "id": "cdefa72159a4",
@@ -28,7 +42,7 @@
       "translated_summary": "Venture firm Andreessen Horowitz has agreed to lead a $200 million investment in Periodic Labs, a startup building artificial intelligence for material science, according to people familiar with the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "537d45f7f78c",
@@ -42,7 +56,7 @@
       "translated_summary": "A Web3 project combining artificial intelligence and blockchain in the automotive industry is in talks with global automakers for integration into prototype projects",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "bc5be85ea08a",
@@ -70,7 +84,7 @@
       "translated_summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "7e02a7df32b0",
@@ -84,7 +98,7 @@
       "translated_summary": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "0c7bf6ff03c5",
@@ -98,7 +112,7 @@
       "translated_summary": "GPT-5 is an update, not a revolution. But revolution may still be on the way | Science & technology",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "d5b71ccfbc03",
@@ -127,20 +141,6 @@
       "category": "热门",
       "category_icon": "🔥",
       "time": "20小时前"
-    },
-    {
-      "id": "df04a2494d38",
-      "title": "Meta picks Pimco, Blue Owl for $29 billion data center deal",
-      "summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/08/08/meta-picks-pimco-blue-owl-for-29-billion-data-center-deal/",
-      "publishedAt": "2025-08-08T15:41:37Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/SJM-L-HYDRODATA-07XX-5.jpg?w=1024&h=683",
-      "translated_title": "Meta picks Pimco, Blue Owl for $29 billion data center deal",
-      "translated_summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "21小时前"
     }
   ]
 }
