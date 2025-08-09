@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-08T23:23:25.749579",
+  "last_updated": "2025-08-09T01:58:55.222011",
   "total_count": 10,
   "articles": [
     {
@@ -14,21 +14,21 @@
       "translated_summary": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "6小时前"
     },
     {
       "id": "0c7bf6ff03c5",
       "title": "OpenAI’s latest step towards advanced artificial intelligence",
-      "summary": "Its new model is an update, not a revolution. But it keeps AI on a trajectory with profound implications | Science & technology",
+      "summary": "GPT-5 is an update, not a revolution. But revolution may still be on the way | Science & technology",
       "source": "The Economist",
       "url": "https://www.economist.com/science-and-technology/2025/08/08/openais-latest-step-towards-advanced-artificial-intelligence",
       "publishedAt": "2025-08-08T19:51:44Z",
       "image": "https://www.economist.com/content-assets/images/20250809_STP506.jpg",
       "translated_title": "OpenAI’s latest step towards advanced artificial intelligence",
-      "translated_summary": "Its new model is an update, not a revolution. But it keeps AI on a trajectory with profound implications | Science & technology",
+      "translated_summary": "GPT-5 is an update, not a revolution. But revolution may still be on the way | Science & technology",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "6小时前"
     },
     {
       "id": "d5b71ccfbc03",
@@ -42,7 +42,7 @@
       "translated_summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as a measure...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "cb4555c3bc7e",
@@ -56,7 +56,7 @@
       "translated_summary": "Delta is using artificial intelligence to help set some airfare prices. That has sparked fears that the airline, or any airline in the future, could create a custom price for you, using your data to find how much you would be willing to pay for a ticket.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "8小时前"
     },
     {
       "id": "df04a2494d38",
@@ -70,7 +70,7 @@
       "translated_summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "7小时前"
+      "time": "10小时前"
     },
     {
       "id": "b6c3334abbd4",
@@ -84,7 +84,7 @@
       "translated_summary": "Tesla's move to shut down its Dojo supercomputer team likely increases its usage of general purpose GPUs for artificial intelligence, Wells Fargo said.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "12小时前"
     },
     {
       "id": "6b6c4ff5525e",
@@ -98,7 +98,7 @@
       "translated_summary": "Long-unloved nuclear and geothermal are experiencing a boom in interest as data center developers seek carbon-free resources capable of delivering round-the-clock electricity to power artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "13小时前"
     },
     {
       "id": "9ffb9fb9feba",
@@ -112,7 +112,7 @@
       "translated_summary": "At a rooftop bar on Manhattan’s Lower East Side, roughly 150 quant researchers met with employees at the artificial-intelligence startup Anthropic who implored them to consider a life away from Wall Street.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "11小时前"
+      "time": "14小时前"
     },
     {
       "id": "c692c90c5113",
@@ -126,7 +126,7 @@
       "translated_summary": "Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which will be free to users.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "20小时前"
+      "time": "22小时前"
     },
     {
       "id": "a583660a75d8",
@@ -140,7 +140,7 @@
       "translated_summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "22小时前"
+      "time": "1天前"
     }
   ]
 }
