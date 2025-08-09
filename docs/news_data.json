@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-09T05:23:51.178242",
+  "last_updated": "2025-08-09T06:34:56.358017",
   "total_count": 10,
   "articles": [
+    {
+      "id": "537d45f7f78c",
+      "title": "Decentralized data economy to start from the driver’s seat",
+      "summary": "A Web3 project combining artificial intelligence and blockchain in the automotive industry is in talks with global automakers for integration into prototype projects",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/decentralized-data-economy-to-start-from-the-driver-s-seat",
+      "publishedAt": "2025-08-09T06:00:00Z",
+      "image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-08/01988aef-af44-7369-beaa-b3e8dfddfb28",
+      "translated_title": "Decentralized data economy to start from the driver’s seat",
+      "translated_summary": "A Web3 project combining artificial intelligence and blockchain in the automotive industry is in talks with global automakers for integration into prototype projects",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "34分钟前"
+    },
+    {
+      "id": "bc5be85ea08a",
+      "title": "M&A News: Meta Acquires WaveForms AI",
+      "summary": "Social media firm Meta Platforms (META) has acquired a small startup called WaveForms AI, which builds artificial intelligence tools that can un...",
+      "source": "Business Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/m-a-news-meta-acquires-waveforms-ai-1035012571",
+      "publishedAt": "2025-08-09T03:28:01Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-538-1024x766.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "M&A News: Meta Acquires WaveForms AI",
+      "translated_summary": "Social media firm Meta Platforms (META) has acquired a small startup called WaveForms AI, which builds artificial intelligence tools that can un...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "3小时前"
+    },
     {
       "id": "3815c7a7ac4c",
       "title": "Nvidia Stock (NVDA) Closes at Record High",
@@ -14,7 +42,7 @@
       "translated_summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "7e02a7df32b0",
@@ -28,7 +56,7 @@
       "translated_summary": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "0c7bf6ff03c5",
@@ -42,7 +70,7 @@
       "translated_summary": "GPT-5 is an update, not a revolution. But revolution may still be on the way | Science & technology",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "d5b71ccfbc03",
@@ -56,7 +84,7 @@
       "translated_summary": "OpenAI on Thursday released the fifth generation of the artificial intelligence technology that powers ChatGPT, a product update that's being closely watched as a measure...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "cb4555c3bc7e",
@@ -70,7 +98,7 @@
       "translated_summary": "Delta is using artificial intelligence to help set some airfare prices. That has sparked fears that the airline, or any airline in the future, could create a custom price for you, using your data to find how much you would be willing to pay for a ticket.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "13小时前"
     },
     {
       "id": "df04a2494d38",
@@ -84,7 +112,7 @@
       "translated_summary": "Meta Platforms Inc. has selected Pacific Investment Management Co. and Blue Owl Capital Inc. to lead a $29 billion financing for its data center expansion in rural Louisiana as the race for artificial intelligence infrastructure heats up, according to people with knowledge of the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "b6c3334abbd4",
@@ -98,7 +126,7 @@
       "translated_summary": "Tesla's move to shut down its Dojo supercomputer team likely increases its usage of general purpose GPUs for artificial intelligence, Wells Fargo said.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "6b6c4ff5525e",
@@ -112,35 +140,7 @@
       "translated_summary": "Long-unloved nuclear and geothermal are experiencing a boom in interest as data center developers seek carbon-free resources capable of delivering round-the-clock electricity to power artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17小时前"
-    },
-    {
-      "id": "9ffb9fb9feba",
-      "title": "Wall Street and AI Startups Are Fighting Over Entry-Level Quants",
-      "summary": "At a rooftop bar on Manhattan’s Lower East Side, roughly 150 quant researchers met with employees at the artificial-intelligence startup Anthropic who implored them to consider a life away from Wall Street.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-08/open-ai-perplexity-make-pitch-to-recruit-quant-traders-from-banks",
-      "publishedAt": "2025-08-08T11:31:06Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA4VWcKtAMAw/v0/1200x818.jpg",
-      "translated_title": "Wall Street and AI Startups Are Fighting Over Entry-Level Quants",
-      "translated_summary": "At a rooftop bar on Manhattan’s Lower East Side, roughly 150 quant researchers met with employees at the artificial-intelligence startup Anthropic who implored them to consider a life away from Wall Street.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "17小时前"
-    },
-    {
-      "id": "c692c90c5113",
-      "title": "OpenAI releases GPT-5, free to users",
-      "summary": "Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which will be free to users.",
-      "source": "UPI News",
-      "url": "https://www.upi.com/Top_News/US/2025/08/07/OpenAI-releases-GPT-5/2931754622135/",
-      "publishedAt": "2025-08-08T03:23:00Z",
-      "image": "https://cdnph.upi.com/sv/ph/og/upi/2931754622135/2025/1/6ca7bc987fd34d1ad82ce7e3cb47a565/v1.5/OpenAI-releases-GPT-5-free-to-users.jpg",
-      "translated_title": "OpenAI releases GPT-5, free to users",
-      "translated_summary": "Open AI announced Thursday the release of GPT-5, the latest and most-advanced iteration of its artificial intelligence technology, which will be free to users.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "1天前"
+      "time": "18小时前"
     }
   ]
 }
