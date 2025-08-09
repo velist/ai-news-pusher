@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-09T22:23:05.158417",
+  "last_updated": "2025-08-09T23:23:10.533481",
   "total_count": 10,
   "articles": [
+    {
+      "id": "5159e06f7e17",
+      "title": "Wall Street Is Cautious on CoreWeave (CRWV) Stock Ahead of Q2 Earnings",
+      "summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
+      "source": "Business Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/wall-street-is-cautious-on-coreweave-crwv-stock-ahead-of-q2-earnings-1035013604",
+      "publishedAt": "2025-08-09T20:22:21Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-567.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Wall Street Is Cautious on CoreWeave (CRWV) Stock Ahead of Q2 Earnings",
+      "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "3小时前"
+    },
     {
       "id": "ffa075a0f124",
       "title": "Traders Are Fleeing Stocks Feared to Be Under Threat From AI",
@@ -14,7 +28,7 @@
       "translated_summary": "Artificial intelligence’s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "374b0a5303eb",
@@ -28,7 +42,7 @@
       "translated_summary": "As artificial intelligence transforms the job market, recent college graduates are finding it harder to land entry-level roles in competitive fields like tech and finance — even with strong résumés and top internships. Economists point to a surge in AI adoption, along with a slowdown in post-pandemic hiring, as key factors driving unemployment among college grads above the national average. Financial leaders like Centerview Partners’ Blair Effron warn that although the AI revolution will boost long-term productivity, short-term impacts on employment will be swift and dramatic. (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "5f7d08751d09",
@@ -42,7 +56,7 @@
       "translated_summary": "Like all things in life, the pain isn’t evenly distributed.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "711c3aa7d01d",
@@ -56,7 +70,7 @@
       "translated_summary": "It took Amazon several years to overcome technical hurdles as it remade its voice assistant with new artificial intelligence technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "cdefa72159a4",
@@ -70,7 +84,7 @@
       "translated_summary": "Venture firm Andreessen Horowitz has agreed to lead a $200 million investment in Periodic Labs, a startup building artificial intelligence for material science, according to people familiar with the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "537d45f7f78c",
@@ -84,7 +98,7 @@
       "translated_summary": "A Web3 project combining artificial intelligence and blockchain in the automotive industry is in talks with global automakers for integration into prototype projects",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "bc5be85ea08a",
@@ -98,7 +112,7 @@
       "translated_summary": "Social media firm Meta Platforms (META) has acquired a small startup called WaveForms AI, which builds artificial intelligence tools that can un...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "3815c7a7ac4c",
@@ -112,7 +126,7 @@
       "translated_summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "7e02a7df32b0",
@@ -126,20 +140,6 @@
       "translated_summary": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "0c7bf6ff03c5",
-      "title": "OpenAI’s latest step towards advanced artificial intelligence",
-      "summary": "GPT-5 is an update, not a revolution. But revolution may still be on the way | Science & technology",
-      "source": "The Economist",
-      "url": "https://www.economist.com/science-and-technology/2025/08/08/openais-latest-step-towards-advanced-artificial-intelligence",
-      "publishedAt": "2025-08-08T19:51:44Z",
-      "image": "https://www.economist.com/content-assets/images/20250809_STP506.jpg",
-      "translated_title": "OpenAI’s latest step towards advanced artificial intelligence",
-      "translated_summary": "GPT-5 is an update, not a revolution. But revolution may still be on the way | Science & technology",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "1天前"
     }
   ]
