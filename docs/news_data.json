@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-10T15:24:06.086861",
+  "last_updated": "2025-08-10T16:29:14.477082",
   "total_count": 10,
   "articles": [
+    {
+      "id": "9384605bb550",
+      "title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence",
+      "summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/25/08/47021272/investors-flee-companies-seen-as-most-at-risk-from-artificial-intelligence",
+      "publishedAt": "2025-08-10T15:16:00Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/10/Close--Up-Of-Computer-Chip-With-Ai-Sign-.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence",
+      "translated_summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "8785185102b7",
       "title": "AI is changing the lucrative search business. Here's how to pick the winners - and avoid the losers",
@@ -14,7 +28,7 @@
       "translated_summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "9a00de97aa01",
@@ -28,7 +42,7 @@
       "translated_summary": "China wants the United States to ease export controls on chips critical for artificial intelligence as part of a trade deal before a possible summit between Presidents Donald Trump and Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "37fa8e052eac",
@@ -42,7 +56,7 @@
       "translated_summary": "China wants the United States to ease export controls on a critical component for artificial intelligence chips as part of a trade deal ahead of a possible summit between U.S. President Donald Trump and Chinese President Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "5159e06f7e17",
@@ -56,7 +70,7 @@
       "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
+      "time": "20小时前"
     },
     {
       "id": "ffa075a0f124",
@@ -126,20 +140,6 @@
       "translated_summary": "Venture firm Andreessen Horowitz has agreed to lead a $200 million investment in Periodic Labs, a startup building artificial intelligence for material science, according to people familiar with the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1天前"
-    },
-    {
-      "id": "537d45f7f78c",
-      "title": "Decentralized data economy to start from the driver’s seat",
-      "summary": "A Web3 project combining artificial intelligence and blockchain in the automotive industry is in talks with global automakers for integration into prototype projects",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/decentralized-data-economy-to-start-from-the-driver-s-seat",
-      "publishedAt": "2025-08-09T06:00:00Z",
-      "image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-08/01988aef-af44-7369-beaa-b3e8dfddfb28",
-      "translated_title": "Decentralized data economy to start from the driver’s seat",
-      "translated_summary": "A Web3 project combining artificial intelligence and blockchain in the automotive industry is in talks with global automakers for integration into prototype projects",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "1天前"
     }
   ]
