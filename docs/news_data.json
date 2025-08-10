@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-10T11:19:31.643419",
+  "last_updated": "2025-08-10T12:49:21.505843",
   "total_count": 10,
   "articles": [
+    {
+      "id": "8785185102b7",
+      "title": "AI is changing the lucrative search business. Here's how to pick the winners - and avoid the losers",
+      "summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/10/ai-is-changing-the-lucrative-search-business-heres-how-to-pick-the-winners-and-avoid-the-losers.html",
+      "publishedAt": "2025-08-10T11:56:06Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108182663-1754516086028-gettyimages-2162021891-72_ai.jpeg?v=1754516107&w=1920&h=1080",
+      "translated_title": "AI is changing the lucrative search business. Here's how to pick the winners - and avoid the losers",
+      "translated_summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "53分钟前"
+    },
     {
       "id": "9a00de97aa01",
       "title": "China wants US to relax AI chip-export controls for trade deal, FT reports",
@@ -14,7 +28,7 @@
       "translated_summary": "China wants the United States to ease export controls on chips critical for artificial intelligence as part of a trade deal before a possible summit between Presidents Donald Trump and Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "37fa8e052eac",
@@ -28,7 +42,7 @@
       "translated_summary": "China wants the United States to ease export controls on a critical component for artificial intelligence chips as part of a trade deal ahead of a possible summit between U.S. President Donald Trump and Chinese President Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "5159e06f7e17",
@@ -42,7 +56,7 @@
       "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "16小时前"
     },
     {
       "id": "ffa075a0f124",
@@ -56,7 +70,7 @@
       "translated_summary": "Artificial intelligence’s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "22小时前"
+      "time": "23小时前"
     },
     {
       "id": "374b0a5303eb",
@@ -70,7 +84,7 @@
       "translated_summary": "As artificial intelligence transforms the job market, recent college graduates are finding it harder to land entry-level roles in competitive fields like tech and finance — even with strong résumés and top internships. Economists point to a surge in AI adoption, along with a slowdown in post-pandemic hiring, as key factors driving unemployment among college grads above the national average. Financial leaders like Centerview Partners’ Blair Effron warn that although the AI revolution will boost long-term productivity, short-term impacts on employment will be swift and dramatic. (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "23小时前"
+      "time": "1天前"
     },
     {
       "id": "5f7d08751d09",
@@ -84,7 +98,7 @@
       "translated_summary": "Like all things in life, the pain isn’t evenly distributed.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "23小时前"
+      "time": "1天前"
     },
     {
       "id": "711c3aa7d01d",
@@ -124,20 +138,6 @@
       "image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-08/01988aef-af44-7369-beaa-b3e8dfddfb28",
       "translated_title": "Decentralized data economy to start from the driver’s seat",
       "translated_summary": "A Web3 project combining artificial intelligence and blockchain in the automotive industry is in talks with global automakers for integration into prototype projects",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "bc5be85ea08a",
-      "title": "M&A News: Meta Acquires WaveForms AI",
-      "summary": "Social media firm Meta Platforms (META) has acquired a small startup called WaveForms AI, which builds artificial intelligence tools that can un...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/m-a-news-meta-acquires-waveforms-ai-1035012571",
-      "publishedAt": "2025-08-09T03:28:01Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-538-1024x766.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "M&A News: Meta Acquires WaveForms AI",
-      "translated_summary": "Social media firm Meta Platforms (META) has acquired a small startup called WaveForms AI, which builds artificial intelligence tools that can un...",
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
