@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-10T04:05:42.981917",
+  "last_updated": "2025-08-10T05:27:17.387650",
   "total_count": 10,
   "articles": [
+    {
+      "id": "9a00de97aa01",
+      "title": "China wants US to relax AI chip-export controls for trade deal, FT reports",
+      "summary": "China wants the United States to ease export controls on chips critical for artificial intelligence as part of a trade deal before a possible summit between Presidents Donald Trump and Xi Jinping, the Financial Times reported on Sunday.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-wants-us-relax-ai-chip-export-controls-trade-deal-ft-reports-2025-08-10/",
+      "publishedAt": "2025-08-10T04:54:01Z",
+      "image": "https://www.reuters.com/resizer/v2/VGD4E5VUFVJHZIX24RSM2ROLBY.jpg?auth=7e3221276ceb93c9772ceca47a9d81e9eb8455184e0dbf1b3d00de53b6ab0572&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "China wants US to relax AI chip-export controls for trade deal, FT reports",
+      "translated_summary": "China wants the United States to ease export controls on chips critical for artificial intelligence as part of a trade deal before a possible summit between Presidents Donald Trump and Xi Jinping, the Financial Times reported on Sunday.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "33分钟前"
+    },
+    {
+      "id": "37fa8e052eac",
+      "title": "China wants US to relax chip-export controls as part of trade deal, FT reports",
+      "summary": "China wants the United States to ease export controls on a critical component for artificial intelligence chips as part of a trade deal ahead of a possible summit between U.S. President Donald Trump and Chinese President Xi Jinping, the Financial Times reported on Sunday.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-wants-us-relax-chip-export-controls-part-trade-deal-ft-reports-2025-08-10/",
+      "publishedAt": "2025-08-10T04:15:57Z",
+      "image": "https://www.reuters.com/resizer/v2/VGD4E5VUFVJHZIX24RSM2ROLBY.jpg?auth=7e3221276ceb93c9772ceca47a9d81e9eb8455184e0dbf1b3d00de53b6ab0572&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "China wants US to relax chip-export controls as part of trade deal, FT reports",
+      "translated_summary": "China wants the United States to ease export controls on a critical component for artificial intelligence chips as part of a trade deal ahead of a possible summit between U.S. President Donald Trump and Chinese President Xi Jinping, the Financial Times reported on Sunday.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "5159e06f7e17",
       "title": "Wall Street Is Cautious on CoreWeave (CRWV) Stock Ahead of Q2 Earnings",
@@ -14,7 +42,7 @@
       "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "ffa075a0f124",
@@ -28,7 +56,7 @@
       "translated_summary": "Artificial intelligence’s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "374b0a5303eb",
@@ -42,7 +70,7 @@
       "translated_summary": "As artificial intelligence transforms the job market, recent college graduates are finding it harder to land entry-level roles in competitive fields like tech and finance — even with strong résumés and top internships. Economists point to a surge in AI adoption, along with a slowdown in post-pandemic hiring, as key factors driving unemployment among college grads above the national average. Financial leaders like Centerview Partners’ Blair Effron warn that although the AI revolution will boost long-term productivity, short-term impacts on employment will be swift and dramatic. (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15小时前"
+      "time": "17小时前"
     },
     {
       "id": "5f7d08751d09",
@@ -56,7 +84,7 @@
       "translated_summary": "Like all things in life, the pain isn’t evenly distributed.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "711c3aa7d01d",
@@ -70,7 +98,7 @@
       "translated_summary": "It took Amazon several years to overcome technical hurdles as it remade its voice assistant with new artificial intelligence technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "19小时前"
+      "time": "20小时前"
     },
     {
       "id": "cdefa72159a4",
@@ -84,7 +112,7 @@
       "translated_summary": "Venture firm Andreessen Horowitz has agreed to lead a $200 million investment in Periodic Labs, a startup building artificial intelligence for material science, according to people familiar with the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "21小时前"
+      "time": "22小时前"
     },
     {
       "id": "537d45f7f78c",
@@ -98,7 +126,7 @@
       "translated_summary": "A Web3 project combining artificial intelligence and blockchain in the automotive industry is in talks with global automakers for integration into prototype projects",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22小时前"
+      "time": "23小时前"
     },
     {
       "id": "bc5be85ea08a",
@@ -110,34 +138,6 @@
       "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-538-1024x766.png?utm_source=markets.businessinsider.com&utm_medium=referral",
       "translated_title": "M&A News: Meta Acquires WaveForms AI",
       "translated_summary": "Social media firm Meta Platforms (META) has acquired a small startup called WaveForms AI, which builds artificial intelligence tools that can un...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "3815c7a7ac4c",
-      "title": "Nvidia Stock (NVDA) Closes at Record High",
-      "summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/nvidia-stock-nvda-closes-at-record-high-1035013128",
-      "publishedAt": "2025-08-09T02:08:14Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-561.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Nvidia Stock (NVDA) Closes at Record High",
-      "translated_summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "7e02a7df32b0",
-      "title": "Tesla Disbands Dojo Supercomputer Team",
-      "summary": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-08/tesla-disbands-dojo-supercomputer-team-video",
-      "publishedAt": "2025-08-08T19:52:43Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i18NbpravOLc/v3/-1x-1.jpg",
-      "translated_title": "Tesla Disbands Dojo Supercomputer Team",
-      "translated_summary": "In a blow to Tesla’s efforts in artificial intelligence, the company has decided to disband its Dojo supercomputer team. Bloomberg’s Max Chafkin discusses what’s behind the move and how the company will pivot with Caroline Hyde on “Bloomberg Tech.” (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
