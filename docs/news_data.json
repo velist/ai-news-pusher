@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-10T18:32:44.290242",
+  "last_updated": "2025-08-10T19:18:49.613690",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "8785185102b7",
@@ -28,7 +28,7 @@
       "translated_summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "9a00de97aa01",
@@ -42,7 +42,7 @@
       "translated_summary": "China wants the United States to ease export controls on chips critical for artificial intelligence as part of a trade deal before a possible summit between Presidents Donald Trump and Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "37fa8e052eac",
@@ -56,7 +56,21 @@
       "translated_summary": "China wants the United States to ease export controls on a critical component for artificial intelligence chips as part of a trade deal ahead of a possible summit between U.S. President Donald Trump and Chinese President Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
+    },
+    {
+      "id": "3815c7a7ac4c",
+      "title": "Nvidia Stock (NVDA) Closes at Record High",
+      "summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
+      "source": "Business Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/nvidia-stock-nvda-closes-at-record-high-1035013128",
+      "publishedAt": "2025-08-10T01:14:34Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-561.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Nvidia Stock (NVDA) Closes at Record High",
+      "translated_summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "18小时前"
     },
     {
       "id": "5159e06f7e17",
@@ -126,20 +140,6 @@
       "translated_summary": "It took Amazon several years to overcome technical hurdles as it remade its voice assistant with new artificial intelligence technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1天前"
-    },
-    {
-      "id": "cdefa72159a4",
-      "title": "Ex-OpenAI, DeepMind staffers set for $1 billion value in Andreessen-led round",
-      "summary": "Venture firm Andreessen Horowitz has agreed to lead a $200 million investment in Periodic Labs, a startup building artificial intelligence for material science, according to people familiar with the matter.",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/business/story/2025-08-08/ex-openai-deepmind-staffers-set-for-1-billion-value-in-andreessen-led-round",
-      "publishedAt": "2025-08-09T06:55:04Z",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/a30c78c/2147483647/strip/true/crop/2000x1050+0+172/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2Ffb%2F8337f4884a289c346dbc848e928d%2F1x-1.jpg",
-      "translated_title": "Ex-OpenAI, DeepMind staffers set for $1 billion value in Andreessen-led round",
-      "translated_summary": "Venture firm Andreessen Horowitz has agreed to lead a $200 million investment in Periodic Labs, a startup building artificial intelligence for material science, according to people familiar with the matter.",
-      "category": "投资并购",
-      "category_icon": "💰",
       "time": "1天前"
     }
   ]
