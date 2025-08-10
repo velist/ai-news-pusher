@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-10T19:18:49.613690",
+  "last_updated": "2025-08-10T20:26:10.027705",
   "total_count": 10,
   "articles": [
+    {
+      "id": "fe0c962294cb",
+      "title": "Nvidia China H20 chips",
+      "summary": "Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/10/nvidia-china-h20-chips.html",
+      "publishedAt": "2025-08-10T19:47:28Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108180927-1754288633016-gettyimages-2227849607-vcg111562335270.jpeg?v=1754849058&w=1920&h=1080",
+      "translated_title": "Nvidia China H20 chips",
+      "translated_summary": "Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "38分钟前"
+    },
     {
       "id": "9384605bb550",
       "title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence",
@@ -14,7 +28,7 @@
       "translated_summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "8785185102b7",
@@ -28,7 +42,7 @@
       "translated_summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "9a00de97aa01",
@@ -42,7 +56,7 @@
       "translated_summary": "China wants the United States to ease export controls on chips critical for artificial intelligence as part of a trade deal before a possible summit between Presidents Donald Trump and Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "37fa8e052eac",
@@ -56,7 +70,7 @@
       "translated_summary": "China wants the United States to ease export controls on a critical component for artificial intelligence chips as part of a trade deal ahead of a possible summit between U.S. President Donald Trump and Chinese President Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "3815c7a7ac4c",
@@ -70,7 +84,7 @@
       "translated_summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "5159e06f7e17",
@@ -84,7 +98,7 @@
       "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22小时前"
+      "time": "1天前"
     },
     {
       "id": "ffa075a0f124",
@@ -126,20 +140,6 @@
       "translated_summary": "Like all things in life, the pain isn’t evenly distributed.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "711c3aa7d01d",
-      "title": "Alexa Got an A.I. Brain Transplant. How Smart Is It Now?",
-      "summary": "It took Amazon several years to overcome technical hurdles as it remade its voice assistant with new artificial intelligence technology.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/08/09/business/alexa-artificial-intelligence-amazon.html",
-      "publishedAt": "2025-08-09T09:02:35Z",
-      "image": "https://static01.nyt.com/images/2025/08/09/multimedia/09biz-roose-tcpv/09biz-roose-tcpv-facebookJumbo-v2.jpg",
-      "translated_title": "Alexa Got an A.I. Brain Transplant. How Smart Is It Now?",
-      "translated_summary": "It took Amazon several years to overcome technical hurdles as it remade its voice assistant with new artificial intelligence technology.",
-      "category": "技术突破",
-      "category_icon": "🚀",
       "time": "1天前"
     }
   ]
