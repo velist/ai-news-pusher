@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-11T07:28:58.102775",
+  "last_updated": "2025-08-11T08:35:53.035456",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "58分钟前"
+      "time": "2小时前"
     },
     {
       "id": "b9da9ee0e09e",
@@ -28,7 +28,7 @@
       "translated_summary": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "e4c3f948a3e3",
@@ -42,7 +42,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "2a254e8e9cf6",
@@ -56,7 +56,7 @@
       "translated_summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "fbc34f9e3206",
@@ -68,20 +68,6 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108139110-1746049018921-gettyimages-2212801534-ah805109_ovha5wzr.jpeg?v=1754872044&w=1920&h=1080",
       "translated_title": "CNBC Daily Open: Chipping away at semiconductor revenues",
       "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "61e99f9625b6",
-      "title": "Nvidia, AMD to pay 15% of China chip sale revenues to US, official says",
-      "summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/nvidia-amd-pay-15-china-chip-sale-revenues-us-official-says-2025-08-10/",
-      "publishedAt": "2025-08-11T00:57:59Z",
-      "image": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Nvidia, AMD to pay 15% of China chip sale revenues to US, official says",
-      "translated_summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "6小时前"
@@ -98,7 +84,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "5159e06f7e17",
@@ -112,7 +98,7 @@
       "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "12小时前"
     },
     {
       "id": "fe0c962294cb",
@@ -126,7 +112,7 @@
       "translated_summary": "Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "9384605bb550",
@@ -140,7 +126,21 @@
       "translated_summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
+    },
+    {
+      "id": "8785185102b7",
+      "title": "AI is changing the lucrative search business. Here's how to pick the winners - and avoid the losers",
+      "summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/10/ai-is-changing-the-lucrative-search-business-heres-how-to-pick-the-winners-and-avoid-the-losers.html",
+      "publishedAt": "2025-08-10T11:56:06Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108182663-1754516086028-gettyimages-2162021891-72_ai.jpeg?v=1754516107&w=1920&h=1080",
+      "translated_title": "AI is changing the lucrative search business. Here's how to pick the winners - and avoid the losers",
+      "translated_summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "20小时前"
     }
   ]
 }
