@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-11T14:26:33.528344",
+  "last_updated": "2025-08-11T15:27:50.787376",
   "total_count": 10,
   "articles": [
+    {
+      "id": "139d83bdbb40",
+      "title": "Hollywood Rocked by Amazon-Backed AI Tool, Showrunner, that Allows Viewers to Create Their Own Shows",
+      "summary": "Filmmakers, educators, and other entertainment industry professionals are reacting in alarm at a new Amazon-backed tool that will allow viewers to create their own TV shows using an artificial intelligence system called Showrunner.",
+      "source": "Breitbart News Network",
+      "url": "https://www.breitbart.com/entertainment/2025/08/11/hollywood-artists-blasting-amazon-backed-ai-tool-that-allows-viewers-to-create-their-own-shows/",
+      "publishedAt": "2025-08-11T14:39:58Z",
+      "image": "https://media.breitbart.com/media/2025/08/showrunner-640x335.jpg",
+      "translated_title": "Hollywood Rocked by Amazon-Backed AI Tool, Showrunner, that Allows Viewers to Create Their Own Shows",
+      "translated_summary": "Filmmakers, educators, and other entertainment industry professionals are reacting in alarm at a new Amazon-backed tool that will allow viewers to create their own TV shows using an artificial intelligence system called Showrunner.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "47分钟前"
+    },
     {
       "id": "dcf72d5c3ce2",
       "title": "Micron raises forecasts as AI boosts memory chip demand",
@@ -14,7 +28,7 @@
       "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares around 5% higher before the bell.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "4452c0f5a49a",
@@ -28,7 +42,7 @@
       "translated_summary": "Masayoshi Son is once again swinging for the fences. The billionaire founder of SoftBank believes his company will sit at the center of the next big shift in technology—a shift he says will arrive within a decade. For Son, the endgame is artificial superintelligence (ASI), a form of AI he describes as being “10,000 times",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e6386590cd46",
@@ -42,7 +56,7 @@
       "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up 5% before the bell.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "124c7172418a",
@@ -56,7 +70,7 @@
       "translated_summary": "Authorities overseeing the development of artificial intelligence in Indonesia have proposed a \"sovereign AI fund\" to finance the archipelago's ambitions to become a regional hub for the fast-growing technology, a government document showed.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "36eb6dabeff2",
@@ -70,7 +84,7 @@
       "translated_summary": "Artificial intelligence apps generating fake nudes, amid other privacy concerns, make “sharenting” far riskier than it was just a few years ago.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "1c08531e3aff",
@@ -84,7 +98,7 @@
       "translated_summary": "Working professionals and young people are investing in artificial intelligence courses, programs and degrees as the technology promises to transform jobs.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "e4c3f948a3e3",
@@ -98,7 +112,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "933920f5a38e",
@@ -112,7 +126,7 @@
       "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "cb3bef971d27",
@@ -126,21 +140,7 @@
       "translated_summary": "An artificial intelligence breakthrough uses reinforcement learning to tackle the Andrews-Curtis conjecture, solving long-standing counterexamples and hinting at tools for forecasting stock crashes, diseases and climate disasters",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "b9da9ee0e09e",
-      "title": "Meta And Microsoft Are Betting Big On AI - So Is The C-Suite",
-      "summary": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/forbes-research/2025/08/11/meta-and-microsoft-are-betting-big-on-ai---so-is-the-c-suite/",
-      "publishedAt": "2025-08-11T04:00:00Z",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6893e755dc79ee157c8c3b15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "translated_title": "Meta And Microsoft Are Betting Big On AI - So Is The C-Suite",
-      "translated_summary": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "10小时前"
+      "time": "11小时前"
     }
   ]
 }
