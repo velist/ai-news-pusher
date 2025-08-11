@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-11T13:41:03.492754",
+  "last_updated": "2025-08-11T14:26:33.528344",
   "total_count": 10,
   "articles": [
+    {
+      "id": "dcf72d5c3ce2",
+      "title": "Micron raises forecasts as AI boosts memory chip demand",
+      "summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares around 5% higher before the bell.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/micron-raises-forecasts-ai-boosts-memory-chip-demand-2025-08-11/",
+      "publishedAt": "2025-08-11T13:14:59Z",
+      "image": "https://www.reuters.com/resizer/v2/AAYGEAAVLFJSTMZJQG7NDKPHDA.jpg?auth=f79420cf90935826e27d612f74a186376512be3c9199c5f277dd813c14e31992&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Micron raises forecasts as AI boosts memory chip demand",
+      "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares around 5% higher before the bell.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "4452c0f5a49a",
       "title": "SoftBank’s billion-dollar AI bet: Masayoshi Son’s mission to build artificial superintelligence",
@@ -14,7 +28,7 @@
       "translated_summary": "Masayoshi Son is once again swinging for the fences. The billionaire founder of SoftBank believes his company will sit at the center of the next big shift in technology—a shift he says will arrive within a decade. For Son, the endgame is artificial superintelligence (ASI), a form of AI he describes as being “10,000 times",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "40分钟前"
+      "time": "1小时前"
     },
     {
       "id": "e6386590cd46",
@@ -28,7 +42,7 @@
       "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up 5% before the bell.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "124c7172418a",
@@ -42,7 +56,7 @@
       "translated_summary": "Authorities overseeing the development of artificial intelligence in Indonesia have proposed a \"sovereign AI fund\" to finance the archipelago's ambitions to become a regional hub for the fast-growing technology, a government document showed.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "36eb6dabeff2",
@@ -56,7 +70,7 @@
       "translated_summary": "Artificial intelligence apps generating fake nudes, amid other privacy concerns, make “sharenting” far riskier than it was just a few years ago.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "1c08531e3aff",
@@ -70,7 +84,7 @@
       "translated_summary": "Working professionals and young people are investing in artificial intelligence courses, programs and degrees as the technology promises to transform jobs.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "e4c3f948a3e3",
@@ -84,7 +98,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "933920f5a38e",
@@ -112,7 +126,7 @@
       "translated_summary": "An artificial intelligence breakthrough uses reinforcement learning to tackle the Andrews-Curtis conjecture, solving long-standing counterexamples and hinting at tools for forecasting stock crashes, diseases and climate disasters",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "b9da9ee0e09e",
@@ -126,21 +140,7 @@
       "translated_summary": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "9小时前"
-    },
-    {
-      "id": "2a254e8e9cf6",
-      "title": "Nvidia, AMD To Pay 15% Of China Chip Sale Revenues To U.S., Official Says",
-      "summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
-      "source": "The Huffington Post",
-      "url": "https://www.huffpost.com/entry/nvidia-amd-china-chip-sale-usa_n_68994c60e4b07a70fa08c7af",
-      "publishedAt": "2025-08-11T01:58:25Z",
-      "image": "https://img.huffingtonpost.com/asset/68994e26180000f5cd8c51da.jpeg?ops=1200_630",
-      "translated_title": "Nvidia, AMD To Pay 15% Of China Chip Sale Revenues To U.S., Official Says",
-      "translated_summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "10小时前"
     }
   ]
 }
