@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-11T20:25:38.667430",
+  "last_updated": "2025-08-11T21:21:08.122393",
   "total_count": 10,
   "articles": [
+    {
+      "id": "2d3ea5c22048",
+      "title": "GitHub CEO Thomas Dohmke steps down to launch new startup",
+      "summary": "Thomas Dohmke is leaving GitHub at the end of the year, closing a chapter that saw the Microsoft-owned platform double down on artificial intelligence and grow its global footprint, Axios said in an exclusive report. His next move? Going back to his roots as a founder. \"GitHub CEO Thomas Dohmke announced Monday that he plans",
+      "source": "TechStartups.com",
+      "url": "https://techstartups.com/2025/08/11/github-ceo-thomas-dohmke-steps-down-to-launch-new-startup-after-ai-driven-tenure/",
+      "publishedAt": "2025-08-11T20:08:51Z",
+      "image": "https://techstartups.com/wp-content/uploads/2025/08/Thomas-Dohmke.jpg",
+      "translated_title": "GitHub CEO Thomas Dohmke steps down to launch new startup",
+      "translated_summary": "Thomas Dohmke is leaving GitHub at the end of the year, closing a chapter that saw the Microsoft-owned platform double down on artificial intelligence and grow its global footprint, Axios said in an exclusive report. His next move? Going back to his roots as a founder. \"GitHub CEO Thomas Dohmke announced Monday that he plans",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
+    {
+      "id": "14ceb1a9287e",
+      "title": "Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit",
+      "summary": "MARA Holdings Inc. is in advanced talks to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-11/bitcoin-miner-mara-said-to-near-168-million-deal-for-edf-unit",
+      "publishedAt": "2025-08-11T20:03:22Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijB6r.LjfVIw/v0/1200x800.jpg",
+      "translated_title": "Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit",
+      "translated_summary": "MARA Holdings Inc. is in advanced talks to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider, according to people familiar with the matter.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "db1487e4fd91",
       "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
@@ -14,7 +42,7 @@
       "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness American artificial intelligence capabilities to supercharge its military.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "49分钟前"
+      "time": "1小时前"
     },
     {
       "id": "dcf72d5c3ce2",
@@ -28,7 +56,7 @@
       "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, banking on surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up about 3%.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "e296e6b3d1e8",
@@ -42,21 +70,21 @@
       "translated_summary": "Timothy Olyphant told UPI playing Kirsh on \"Alien: Earth\" made him realize just how fast artificial intelligence technology is advancing in the real world.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "e55b95c01c59",
-      "title": "Medicare Update: Lawmakers Sound Alarm About Major Change to Program",
+      "title": "Medicare Update: Major Change Sparks Alarm from Lawmakers",
       "summary": "The new model incorporates artificial intelligence to help make decisions and is being tested in six states beginning in January.",
       "source": "Newsweek",
       "url": "https://www.newsweek.com/medicare-update-lawmakers-sound-alarm-about-major-change-program-2111784",
       "publishedAt": "2025-08-11T15:41:13Z",
       "image": "https://d.newsweek.com/en/full/2700353/suzan-delbene.jpg",
-      "translated_title": "Medicare Update: Lawmakers Sound Alarm About Major Change to Program",
+      "translated_title": "Medicare Update: Major Change Sparks Alarm from Lawmakers",
       "translated_summary": "The new model incorporates artificial intelligence to help make decisions and is being tested in six states beginning in January.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "139d83bdbb40",
@@ -70,7 +98,7 @@
       "translated_summary": "Filmmakers, educators, and other entertainment industry professionals are reacting in alarm at a new Amazon-backed tool that will allow viewers to create their own TV shows using an artificial intelligence system called Showrunner.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "4452c0f5a49a",
@@ -84,7 +112,7 @@
       "translated_summary": "Masayoshi Son is once again swinging for the fences. The billionaire founder of SoftBank believes his company will sit at the center of the next big shift in technology—a shift he says will arrive within a decade. For Son, the endgame is artificial superintelligence (ASI), a form of AI he describes as being “10,000 times",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "e6386590cd46",
@@ -98,7 +126,7 @@
       "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up 5% before the bell.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "1cff7aa1f05c",
@@ -112,35 +140,7 @@
       "translated_summary": "If President Donald Trump succeeds in unleashing a new era of energy abundance and securing America's leadership in artificial intelligence, the economic gains will be profound.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "124c7172418a",
-      "title": "Indonesia eyes 'sovereign AI fund' to drive development, document shows",
-      "summary": "Authorities overseeing the development of artificial intelligence in Indonesia have proposed a \"sovereign AI fund\" to finance the archipelago's ambitions to become a regional hub for the fast-growing technology, a government document showed.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/indonesia-eyes-sovereign-ai-fund-drive-development-document-shows-2025-08-11/",
-      "publishedAt": "2025-08-11T10:06:00Z",
-      "image": "https://www.reuters.com/resizer/v2/PENMWE7ZX5II3ODXQ5ORVZAH4Y.jpg?auth=0f15252981e635403fdf32933f12366b3eea1f655bdeb7ca565faa929e762222&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Indonesia eyes 'sovereign AI fund' to drive development, document shows",
-      "translated_summary": "Authorities overseeing the development of artificial intelligence in Indonesia have proposed a \"sovereign AI fund\" to finance the archipelago's ambitions to become a regional hub for the fast-growing technology, a government document showed.",
-      "category": "技术突破",
-      "category_icon": "🚀",
       "time": "10小时前"
-    },
-    {
-      "id": "36eb6dabeff2",
-      "title": "Why A.I. Should Make Parents Rethink Posting Photos of Their Children Online",
-      "summary": "Artificial intelligence apps generating fake nudes, amid other privacy concerns, make “sharenting” far riskier than it was just a few years ago.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/08/11/technology/personaltech/ai-kids-photos.html",
-      "publishedAt": "2025-08-11T09:01:21Z",
-      "image": "https://static01.nyt.com/images/2025/07/31/business/00techfix/00techfix-facebookJumbo.jpg",
-      "translated_title": "Why A.I. Should Make Parents Rethink Posting Photos of Their Children Online",
-      "translated_summary": "Artificial intelligence apps generating fake nudes, amid other privacy concerns, make “sharenting” far riskier than it was just a few years ago.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "11小时前"
     }
   ]
 }
