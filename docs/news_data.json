@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-10T23:22:57.775559",
+  "last_updated": "2025-08-11T02:09:59.817855",
   "total_count": 10,
   "articles": [
+    {
+      "id": "fbc34f9e3206",
+      "title": "CNBC Daily Open: Chipping away at semiconductor revenues",
+      "summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/11/cnbc-daily-open-chipping-away-at-semiconductor-revenues.html",
+      "publishedAt": "2025-08-11T01:39:37Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108139110-1746049018921-gettyimages-2212801534-ah805109_ovha5wzr.jpeg?v=1754872044&w=1920&h=1080",
+      "translated_title": "CNBC Daily Open: Chipping away at semiconductor revenues",
+      "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "30分钟前"
+    },
+    {
+      "id": "61e99f9625b6",
+      "title": "Nvidia, AMD to pay 15% of China chip sale revenues to US, official says",
+      "summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/nvidia-amd-pay-15-china-chip-sale-revenues-us-official-says-2025-08-10/",
+      "publishedAt": "2025-08-11T00:57:59Z",
+      "image": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Nvidia, AMD to pay 15% of China chip sale revenues to US, official says",
+      "translated_summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "df3344085661",
       "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
@@ -14,7 +42,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "4小时前"
     },
     {
       "id": "5159e06f7e17",
@@ -28,7 +56,7 @@
       "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "5小时前"
     },
     {
       "id": "fe0c962294cb",
@@ -42,7 +70,7 @@
       "translated_summary": "Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "6小时前"
     },
     {
       "id": "9384605bb550",
@@ -56,7 +84,7 @@
       "translated_summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "10小时前"
     },
     {
       "id": "8785185102b7",
@@ -70,7 +98,7 @@
       "translated_summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "14小时前"
     },
     {
       "id": "9a00de97aa01",
@@ -84,7 +112,7 @@
       "translated_summary": "China wants the United States to ease export controls on chips critical for artificial intelligence as part of a trade deal before a possible summit between Presidents Donald Trump and Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
+      "time": "21小时前"
     },
     {
       "id": "37fa8e052eac",
@@ -98,7 +126,7 @@
       "translated_summary": "China wants the United States to ease export controls on a critical component for artificial intelligence chips as part of a trade deal ahead of a possible summit between U.S. President Donald Trump and Chinese President Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
+      "time": "21小时前"
     },
     {
       "id": "3815c7a7ac4c",
@@ -110,34 +138,6 @@
       "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-561.png?utm_source=markets.businessinsider.com&utm_medium=referral",
       "translated_title": "Nvidia Stock (NVDA) Closes at Record High",
       "translated_summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "22小时前"
-    },
-    {
-      "id": "ffa075a0f124",
-      "title": "Traders Are Fleeing Stocks Feared to Be Under Threat From AI",
-      "summary": "Artificial intelligence’s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-09/traders-are-fleeing-stocks-feared-to-be-under-threat-from-ai",
-      "publishedAt": "2025-08-09T13:00:01Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izIxRapN0V28/v1/1200x800.jpg",
-      "translated_title": "Traders Are Fleeing Stocks Feared to Be Under Threat From AI",
-      "translated_summary": "Artificial intelligence’s imprint on US financial markets is unmistakable. Nvidia Corp. is the most valuable company in the world at nearly $4.5 trillion. Startups from OpenAI to Anthropic have raised tens of billions of dollars.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "1天前"
-    },
-    {
-      "id": "374b0a5303eb",
-      "title": "AI Boom, Entry-Level Bust: Why College Grads Are Struggling to Land Jobs",
-      "summary": "As artificial intelligence transforms the job market, recent college graduates are finding it harder to land entry-level roles in competitive fields like tech and finance — even with strong résumés and top internships. Economists point to a surge in AI adoption, along with a slowdown in post-pandemic hiring, as key factors driving unemployment among college grads above the national average. Financial leaders like Centerview Partners’ Blair Effron warn that although the AI revolution will boost long-term productivity, short-term impacts on employment will be swift and dramatic. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-09/ai-boom-entry-level-bust-grads-struggle-to-land-jobs-video",
-      "publishedAt": "2025-08-09T12:06:00Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYtg5zS.y3oc/v3/-1x-1.jpg",
-      "translated_title": "AI Boom, Entry-Level Bust: Why College Grads Are Struggling to Land Jobs",
-      "translated_summary": "As artificial intelligence transforms the job market, recent college graduates are finding it harder to land entry-level roles in competitive fields like tech and finance — even with strong résumés and top internships. Economists point to a surge in AI adoption, along with a slowdown in post-pandemic hiring, as key factors driving unemployment among college grads above the national average. Financial leaders like Centerview Partners’ Blair Effron warn that although the AI revolution will boost long-term productivity, short-term impacts on employment will be swift and dramatic. (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
