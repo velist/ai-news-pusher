@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-11T12:54:14.676403",
+  "last_updated": "2025-08-11T13:41:03.492754",
   "total_count": 10,
   "articles": [
+    {
+      "id": "4452c0f5a49a",
+      "title": "SoftBank’s billion-dollar AI bet: Masayoshi Son’s mission to build artificial superintelligence",
+      "summary": "Masayoshi Son is once again swinging for the fences. The billionaire founder of SoftBank believes his company will sit at the center of the next big shift in technology—a shift he says will arrive within a decade. For Son, the endgame is artificial superintelligence (ASI), a form of AI he describes as being “10,000 times",
+      "source": "TechStartups.com",
+      "url": "https://techstartups.com/2025/08/11/softbanks-32-billion-ai-bet-masayoshi-sons-mission-to-build-artificial-superintelligence/",
+      "publishedAt": "2025-08-11T13:00:41Z",
+      "image": "https://techstartups.com/wp-content/uploads/2025/08/SoftBank-artificial-superintelligence.jpg",
+      "translated_title": "SoftBank’s billion-dollar AI bet: Masayoshi Son’s mission to build artificial superintelligence",
+      "translated_summary": "Masayoshi Son is once again swinging for the fences. The billionaire founder of SoftBank believes his company will sit at the center of the next big shift in technology—a shift he says will arrive within a decade. For Son, the endgame is artificial superintelligence (ASI), a form of AI he describes as being “10,000 times",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "40分钟前"
+    },
+    {
+      "id": "e6386590cd46",
+      "title": "Micron Technology raises quarterly results forecast on AI-driven demand",
+      "summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up 5% before the bell.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/micron-technology-raises-quarterly-results-forecast-ai-driven-demand-2025-08-11/",
+      "publishedAt": "2025-08-11T12:17:56Z",
+      "image": "https://www.reuters.com/resizer/v2/AAYGEAAVLFJSTMZJQG7NDKPHDA.jpg?auth=f79420cf90935826e27d612f74a186376512be3c9199c5f277dd813c14e31992&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Micron Technology raises quarterly results forecast on AI-driven demand",
+      "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up 5% before the bell.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
+    {
+      "id": "124c7172418a",
+      "title": "Indonesia eyes 'sovereign AI fund' to drive development, document shows",
+      "summary": "Authorities overseeing the development of artificial intelligence in Indonesia have proposed a \"sovereign AI fund\" to finance the archipelago's ambitions to become a regional hub for the fast-growing technology, a government document showed.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/indonesia-eyes-sovereign-ai-fund-drive-development-document-shows-2025-08-11/",
+      "publishedAt": "2025-08-11T10:06:00Z",
+      "image": "https://www.reuters.com/resizer/v2/PENMWE7ZX5II3ODXQ5ORVZAH4Y.jpg?auth=0f15252981e635403fdf32933f12366b3eea1f655bdeb7ca565faa929e762222&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Indonesia eyes 'sovereign AI fund' to drive development, document shows",
+      "translated_summary": "Authorities overseeing the development of artificial intelligence in Indonesia have proposed a \"sovereign AI fund\" to finance the archipelago's ambitions to become a regional hub for the fast-growing technology, a government document showed.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "3小时前"
+    },
     {
       "id": "36eb6dabeff2",
       "title": "Why A.I. Should Make Parents Rethink Posting Photos of Their Children Online",
@@ -14,7 +56,7 @@
       "translated_summary": "Artificial intelligence apps generating fake nudes, amid other privacy concerns, make “sharenting” far riskier than it was just a few years ago.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "1c08531e3aff",
@@ -28,7 +70,7 @@
       "translated_summary": "Working professionals and young people are investing in artificial intelligence courses, programs and degrees as the technology promises to transform jobs.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "e4c3f948a3e3",
@@ -42,7 +84,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "933920f5a38e",
@@ -56,7 +98,7 @@
       "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "cb3bef971d27",
@@ -70,7 +112,7 @@
       "translated_summary": "An artificial intelligence breakthrough uses reinforcement learning to tackle the Andrews-Curtis conjecture, solving long-standing counterexamples and hinting at tools for forecasting stock crashes, diseases and climate disasters",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "b9da9ee0e09e",
@@ -84,7 +126,7 @@
       "translated_summary": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "2a254e8e9cf6",
@@ -98,49 +140,7 @@
       "translated_summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "fbc34f9e3206",
-      "title": "CNBC Daily Open: Chipping away at semiconductor revenues",
-      "summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/11/cnbc-daily-open-chipping-away-at-semiconductor-revenues.html",
-      "publishedAt": "2025-08-11T01:39:37Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108139110-1746049018921-gettyimages-2212801534-ah805109_ovha5wzr.jpeg?v=1754912938&w=1920&h=1080",
-      "translated_title": "CNBC Daily Open: Chipping away at semiconductor revenues",
-      "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "11小时前"
-    },
-    {
-      "id": "df3344085661",
-      "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
-      "summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-expects-ai-memory-market-grow-30-year-2030-2025-08-10/",
-      "publishedAt": "2025-08-10T22:04:39Z",
-      "image": "https://www.reuters.com/resizer/v2/EIVOPWF2OJMBBJCSZSVTVQPLVQ.jpg?auth=287bed4d531c75033de3d3c9c54d2507b8a49a4f1105c3c662c4f5e2470e9000&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
-      "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "14小时前"
-    },
-    {
-      "id": "5159e06f7e17",
-      "title": "Wall Street Is Cautious on CoreWeave (CRWV) Stock Ahead of Q2 Earnings",
-      "summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/wall-street-is-cautious-on-coreweave-crwv-stock-ahead-of-q2-earnings-1035013604",
-      "publishedAt": "2025-08-10T20:30:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-567.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Wall Street Is Cautious on CoreWeave (CRWV) Stock Ahead of Q2 Earnings",
-      "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "16小时前"
     }
   ]
 }
