@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-11T02:09:59.817855",
+  "last_updated": "2025-08-11T04:06:43.525705",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e4c3f948a3e3",
+      "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
+      "summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-expects-ai-memory-market-grow-30-year-2030-2025-08-11/",
+      "publishedAt": "2025-08-11T03:13:31Z",
+      "image": "https://www.reuters.com/resizer/v2/ZQROWB6POZP4JFSQ3WWXWBNVVY.jpg?auth=73c458927fceef819561197e75753cdfb109ad7c0282e1ae0662133703a0631b&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
+      "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "53分钟前"
+    },
+    {
+      "id": "2a254e8e9cf6",
+      "title": "Nvidia, AMD To Pay 15% Of China Chip Sale Revenues To U.S., Official Says",
+      "summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
+      "source": "The Huffington Post",
+      "url": "https://www.huffpost.com/entry/nvidia-amd-china-chip-sale-usa_n_68994c60e4b07a70fa08c7af",
+      "publishedAt": "2025-08-11T01:58:25Z",
+      "image": "https://img.huffingtonpost.com/asset/68994e26180000f5cd8c51da.jpeg?ops=1200_630",
+      "translated_title": "Nvidia, AMD To Pay 15% Of China Chip Sale Revenues To U.S., Official Says",
+      "translated_summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
+    },
     {
       "id": "fbc34f9e3206",
       "title": "CNBC Daily Open: Chipping away at semiconductor revenues",
@@ -14,7 +42,7 @@
       "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "30分钟前"
+      "time": "2小时前"
     },
     {
       "id": "61e99f9625b6",
@@ -28,7 +56,7 @@
       "translated_summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "df3344085661",
@@ -42,7 +70,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "5159e06f7e17",
@@ -56,7 +84,7 @@
       "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "fe0c962294cb",
@@ -70,7 +98,7 @@
       "translated_summary": "Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "9384605bb550",
@@ -84,7 +112,7 @@
       "translated_summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "12小时前"
     },
     {
       "id": "8785185102b7",
@@ -98,7 +126,7 @@
       "translated_summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "16小时前"
     },
     {
       "id": "9a00de97aa01",
@@ -112,35 +140,7 @@
       "translated_summary": "China wants the United States to ease export controls on chips critical for artificial intelligence as part of a trade deal before a possible summit between Presidents Donald Trump and Xi Jinping, the Financial Times reported on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21小时前"
-    },
-    {
-      "id": "37fa8e052eac",
-      "title": "China wants US to relax chip-export controls as part of trade deal, FT reports",
-      "summary": "China wants the United States to ease export controls on a critical component for artificial intelligence chips as part of a trade deal ahead of a possible summit between U.S. President Donald Trump and Chinese President Xi Jinping, the Financial Times reported on Sunday.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-wants-us-relax-chip-export-controls-part-trade-deal-ft-reports-2025-08-10/",
-      "publishedAt": "2025-08-10T04:15:57Z",
-      "image": "https://www.reuters.com/resizer/v2/VGD4E5VUFVJHZIX24RSM2ROLBY.jpg?auth=7e3221276ceb93c9772ceca47a9d81e9eb8455184e0dbf1b3d00de53b6ab0572&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "China wants US to relax chip-export controls as part of trade deal, FT reports",
-      "translated_summary": "China wants the United States to ease export controls on a critical component for artificial intelligence chips as part of a trade deal ahead of a possible summit between U.S. President Donald Trump and Chinese President Xi Jinping, the Financial Times reported on Sunday.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "21小时前"
-    },
-    {
-      "id": "3815c7a7ac4c",
-      "title": "Nvidia Stock (NVDA) Closes at Record High",
-      "summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/nvidia-stock-nvda-closes-at-record-high-1035013128",
-      "publishedAt": "2025-08-10T01:14:34Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-561.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Nvidia Stock (NVDA) Closes at Record High",
-      "translated_summary": "Shares of Nvidia (NVDA) finished the trading week on Aug. 8 at an all-time high as investors continue to push the artificial intelligence (AI) t...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
+      "time": "23小时前"
     }
   ]
 }
