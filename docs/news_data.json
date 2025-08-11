@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-11T10:28:27.433385",
+  "last_updated": "2025-08-11T11:22:32.795025",
   "total_count": 10,
   "articles": [
+    {
+      "id": "36eb6dabeff2",
+      "title": "Why A.I. Should Make Parents Rethink Posting Photos of Their Children Online",
+      "summary": "Artificial intelligence apps generating fake nudes, amid other privacy concerns, make “sharenting” far riskier than it was just a few years ago.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/11/technology/personaltech/ai-kids-photos.html",
+      "publishedAt": "2025-08-11T09:01:21Z",
+      "image": "https://static01.nyt.com/images/2025/07/31/business/00techfix/00techfix-facebookJumbo.jpg",
+      "translated_title": "Why A.I. Should Make Parents Rethink Posting Photos of Their Children Online",
+      "translated_summary": "Artificial intelligence apps generating fake nudes, amid other privacy concerns, make “sharenting” far riskier than it was just a few years ago.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
+    },
     {
       "id": "1c08531e3aff",
       "title": "Workers are seeking out AI training to prepare for the jobs of tomorrow",
@@ -14,7 +28,21 @@
       "translated_summary": "Working professionals and young people are investing in artificial intelligence courses, programs and degrees as the technology promises to transform jobs.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
+    },
+    {
+      "id": "e4c3f948a3e3",
+      "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
+      "summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-expects-ai-memory-market-grow-30-year-2030-2025-08-11/",
+      "publishedAt": "2025-08-11T08:23:26Z",
+      "image": "https://www.reuters.com/resizer/v2/ZQROWB6POZP4JFSQ3WWXWBNVVY.jpg?auth=73c458927fceef819561197e75753cdfb109ad7c0282e1ae0662133703a0631b&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
+      "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
     },
     {
       "id": "933920f5a38e",
@@ -28,7 +56,21 @@
       "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
+    },
+    {
+      "id": "cb3bef971d27",
+      "title": "How This AI Breakthrough with Pure Mathematics and Reinforcement Learning Could Help Predict Future Crises",
+      "summary": "An artificial intelligence breakthrough uses reinforcement learning to tackle the Andrews-Curtis conjecture, solving long-standing counterexamples and hinting at tools for forecasting stock crashes, diseases and climate disasters",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/how-this-ai-breakthrough-with-pure-mathematics-and-reinforcement-learning/",
+      "publishedAt": "2025-08-11T04:00:00Z",
+      "image": "https://static.scientificamerican.com/dam/m/1bd6ef8bdaf31968/original/Breakwater-in-sea.jpg?m=1754868497.29&w=1200",
+      "translated_title": "How This AI Breakthrough with Pure Mathematics and Reinforcement Learning Could Help Predict Future Crises",
+      "translated_summary": "An artificial intelligence breakthrough uses reinforcement learning to tackle the Andrews-Curtis conjecture, solving long-standing counterexamples and hinting at tools for forecasting stock crashes, diseases and climate disasters",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7小时前"
     },
     {
       "id": "b9da9ee0e09e",
@@ -42,20 +84,6 @@
       "translated_summary": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "e4c3f948a3e3",
-      "title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
-      "summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-expects-ai-memory-market-grow-30-year-2030-2025-08-11/",
-      "publishedAt": "2025-08-11T03:13:31Z",
-      "image": "https://www.reuters.com/resizer/v2/ZQROWB6POZP4JFSQ3WWXWBNVVY.jpg?auth=73c458927fceef819561197e75753cdfb109ad7c0282e1ae0662133703a0631b&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Exclusive: SK Hynix expects AI memory market to grow 30% a year to 2030",
-      "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "7小时前"
     },
     {
@@ -70,7 +98,7 @@
       "translated_summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "fbc34f9e3206",
@@ -84,7 +112,7 @@
       "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "df3344085661",
@@ -98,7 +126,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "5159e06f7e17",
@@ -112,35 +140,7 @@
       "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "fe0c962294cb",
-      "title": "Nvidia China H20 chips",
-      "summary": "Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/10/nvidia-china-h20-chips.html",
-      "publishedAt": "2025-08-10T19:47:28Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108180927-1754288633016-gettyimages-2227849607-vcg111562335270.jpeg?v=1754849058&w=1920&h=1080",
-      "translated_title": "Nvidia China H20 chips",
-      "translated_summary": "Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "14小时前"
-    },
-    {
-      "id": "9384605bb550",
-      "title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence",
-      "summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/25/08/47021272/investors-flee-companies-seen-as-most-at-risk-from-artificial-intelligence",
-      "publishedAt": "2025-08-10T15:16:00Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/08/10/Close--Up-Of-Computer-Chip-With-Ai-Sign-.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence",
-      "translated_summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "19小时前"
     }
   ]
 }
