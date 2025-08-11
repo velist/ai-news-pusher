@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-11T08:35:53.035456",
+  "last_updated": "2025-08-11T09:31:20.052635",
   "total_count": 10,
   "articles": [
+    {
+      "id": "1c08531e3aff",
+      "title": "Workers are seeking out AI training to prepare for the jobs of tomorrow",
+      "summary": "Working professionals and young people are investing in artificial intelligence courses, programs and degrees as the technology promises to transform jobs.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2025/08/11/ai-degree-education/",
+      "publishedAt": "2025-08-11T09:00:00Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RTKUQODDPHKGKIPDNP7YWOMSL4.jpg&w=1440",
+      "translated_title": "Workers are seeking out AI training to prepare for the jobs of tomorrow",
+      "translated_summary": "Working professionals and young people are investing in artificial intelligence courses, programs and degrees as the technology promises to transform jobs.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "31分钟前"
+    },
     {
       "id": "933920f5a38e",
       "title": "CNBC Daily Open: The U.S. government gets a slice of the AI pie",
@@ -14,7 +28,7 @@
       "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "b9da9ee0e09e",
@@ -28,7 +42,7 @@
       "translated_summary": "Like Meta and Microsoft, CxOs are fast-tracking artificial intelligence not as a future play, but as a present-day growth lever.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "e4c3f948a3e3",
@@ -42,7 +56,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "2a254e8e9cf6",
@@ -56,7 +70,7 @@
       "translated_summary": "Nvidia and AMD have agreed to give the U.S. government 15% of revenue from sales to China of advanced computer chips like Nvidia's H20 that are used for artificial intelligence applications, a U.S. official told Reuters on Sunday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "fbc34f9e3206",
@@ -70,7 +84,7 @@
       "translated_summary": "U.S. stocks have received a strong boost from the artificial intelligence boom, ending the week on a high note.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "df3344085661",
@@ -84,7 +98,7 @@
       "translated_summary": "South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "5159e06f7e17",
@@ -98,7 +112,7 @@
       "translated_summary": "Artificial intelligence (AI)-powered cloud computing company CoreWeave (CRWV) is scheduled to announce its second-quarter results on August 12. ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "fe0c962294cb",
@@ -112,7 +126,7 @@
       "translated_summary": "Nvidia pushed back Sunday in response to allegations from Chinese state media that its H20 artificial intelligence chips are a national security risk for China.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "9384605bb550",
@@ -126,21 +140,7 @@
       "translated_summary": "Investors are exhibiting growing concerns over the potential upheaval caused by AI in various sectors.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17小时前"
-    },
-    {
-      "id": "8785185102b7",
-      "title": "AI is changing the lucrative search business. Here's how to pick the winners - and avoid the losers",
-      "summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/10/ai-is-changing-the-lucrative-search-business-heres-how-to-pick-the-winners-and-avoid-the-losers.html",
-      "publishedAt": "2025-08-10T11:56:06Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108182663-1754516086028-gettyimages-2162021891-72_ai.jpeg?v=1754516107&w=1920&h=1080",
-      "translated_title": "AI is changing the lucrative search business. Here's how to pick the winners - and avoid the losers",
-      "translated_summary": "Concerns over a potential plunge in web traffic due to artificial intelligence — and its impact on many businesses — may have been overblown.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "20小时前"
+      "time": "18小时前"
     }
   ]
 }
