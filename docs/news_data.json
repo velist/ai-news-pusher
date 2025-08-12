@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-12T22:22:51.960714",
+  "last_updated": "2025-08-12T23:23:04.723491",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "Meta has brought on right-wing influencer Robby Starbuck to join an internal board purportedly focused on rooting out bias from its artificial intelligence models.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "40分钟前"
+      "time": "1小时前"
     },
     {
       "id": "970ae04de484",
@@ -28,7 +28,7 @@
       "translated_summary": "As employers and tech companies rush to deploy artificial intelligence software into workplaces to improve efficiency, labor unions are stepping up work with state lawmakers across the nation to restrict its use.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "7693ee8760da",
@@ -42,7 +42,7 @@
       "translated_summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "63b02179748e",
@@ -56,7 +56,21 @@
       "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "5e26177d484a",
+      "title": "Lawyer for CHA who used ChatGPT sanctioned in separate case",
+      "summary": "Cook County Circuit Judge William Sullivan sanctioned attorney Danielle Malaty with a fine of $10 on July 16 for her improper use of artificial intelligence.",
+      "source": "Chicago Tribune",
+      "url": "https://www.chicagotribune.com/2025/08/12/cha-lawyer-chatgpt-sanctions/",
+      "publishedAt": "2025-08-12T19:34:54Z",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/2025/08/CTC-L-CHA-attorneys-AI-lead-05_231460786.jpg?w=1024&h=783",
+      "translated_title": "Lawyer for CHA who used ChatGPT sanctioned in separate case",
+      "translated_summary": "Cook County Circuit Judge William Sullivan sanctioned attorney Danielle Malaty with a fine of $10 on July 16 for her improper use of artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "3小时前"
     },
     {
       "id": "18ed44df25c5",
@@ -70,7 +84,7 @@
       "translated_summary": "Green firms in the US have found something of a lifeline in artificial intelligence after being bogged down by high interest rates, shrinking funding and, more recently, President Donald Trump’s sharp rollback of support. Clean technology companies that have inked deals to support data centers have seen their stocks soar this year, outperforming the S&P 500.. Even as some clean energy firms struggle to convince investors that they can thrive during Trump’s second term, the AI-driven surge in electric demand — the most in decades — is providing clear tailwinds for others.  KR Sridhar, Bloom Energy, founder and CEO tells Bloomberg Businessweek Daily says AI will drive the need for energy, including fuel cells. (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "258abe91b9ec",
@@ -84,7 +98,7 @@
       "translated_summary": "Monica Barbaro and Yura Borisov are among those on the call sheet of the Amazon MGM feature Artificial",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "de1acd98e11f",
@@ -98,7 +112,7 @@
       "translated_summary": "More than 16,500 have applied to the free NY community college program for adult students interested in high-demand fields like artificial intelligence and nursing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "dc587cb6cda1",
@@ -112,7 +126,7 @@
       "translated_summary": "Fractal Analytics, a provider of artificial intelligence and analytics services, filed for an initial public offering in Mumbai that could value the company at more than $3.5 billion.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "acb4ef7ebdaf",
@@ -126,21 +140,7 @@
       "translated_summary": "Artificial intelligence programs can help doctors and nurses predict hours earlier which ER patients will likely require hospital admission, a new study says.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "fc3392c8a1a3",
-      "title": "AI Startup Perplexity Has Made a $34.5 Billion Offer",
-      "summary": "Artificial-intelligence startup Perplexity has made an offer worth $34.5 billion.",
-      "source": "Men's Journal",
-      "url": "https://www.mensjournal.com/news/ai-startup-perplexity-has-made-a-34-5-billion-offer",
-      "publishedAt": "2025-08-12T16:45:24Z",
-      "image": "https://www.mensjournal.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE2OTg0NjczNDcxOTY0Njkx/key-speakers-at-the-bloomberg-technology-conference.jpg",
-      "translated_title": "AI Startup Perplexity Has Made a $34.5 Billion Offer",
-      "translated_summary": "Artificial-intelligence startup Perplexity has made an offer worth $34.5 billion.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
