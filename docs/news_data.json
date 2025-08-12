@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-12T19:19:24.116378",
+  "last_updated": "2025-08-12T20:27:34.932366",
   "total_count": 10,
   "articles": [
+    {
+      "id": "63b02179748e",
+      "title": "YouTube to test AI-powered age verification system for US users",
+      "summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/12/tech/youtube-to-test-ai-powered-age-verification-system-for-us-users/",
+      "publishedAt": "2025-08-12T19:43:06Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109515656.jpg?quality=75&strip=all&w=1024",
+      "translated_title": "YouTube to test AI-powered age verification system for US users",
+      "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "44分钟前"
+    },
+    {
+      "id": "18ed44df25c5",
+      "title": "AI Powers Green-Tech Surge",
+      "summary": "Green firms in the US have found something of a lifeline in artificial intelligence after being bogged down by high interest rates, shrinking funding and, more recently, President Donald Trump’s sharp rollback of support. Clean technology companies that have inked deals to support data centers have seen their stocks soar this year, outperforming the S&P 500.. Even as some clean energy firms struggle to convince investors that they can thrive during Trump’s second term, the AI-driven surge in electric demand — the most in decades — is providing clear tailwinds for others.  KR Sridhar, Bloom Energy, founder and CEO tells Bloomberg Businessweek Daily says AI will drive the need for energy, including fuel cells. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-12/ai-powers-green-tech-surge-video",
+      "publishedAt": "2025-08-12T19:26:01Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCSGEA65WwzY/v3/-1x-1.jpg",
+      "translated_title": "AI Powers Green-Tech Surge",
+      "translated_summary": "Green firms in the US have found something of a lifeline in artificial intelligence after being bogged down by high interest rates, shrinking funding and, more recently, President Donald Trump’s sharp rollback of support. Clean technology companies that have inked deals to support data centers have seen their stocks soar this year, outperforming the S&P 500.. Even as some clean energy firms struggle to convince investors that they can thrive during Trump’s second term, the AI-driven surge in electric demand — the most in decades — is providing clear tailwinds for others.  KR Sridhar, Bloom Energy, founder and CEO tells Bloomberg Businessweek Daily says AI will drive the need for energy, including fuel cells. (Source: Bloomberg)",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "fca3f820979b",
       "title": "Illinois bans AI therapy as some states begin to scrutinize chatbots",
@@ -14,7 +42,7 @@
       "translated_summary": "Illinois banned therapists from using artificial intelligence to treat patients, joining a small group of states regulating the use of AI chatbots for mental health.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "258abe91b9ec",
@@ -28,7 +56,7 @@
       "translated_summary": "Monica Barbaro and Yura Borisov are among those on the call sheet of the Amazon MGM feature Artificial",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "dc587cb6cda1",
@@ -42,7 +70,7 @@
       "translated_summary": "Fractal Analytics, a provider of artificial intelligence and analytics services, filed for an initial public offering in Mumbai that could value the company at more than $3.5 billion.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "acb4ef7ebdaf",
@@ -56,7 +84,7 @@
       "translated_summary": "Artificial intelligence programs can help doctors and nurses predict hours earlier which ER patients will likely require hospital admission, a new study says.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "2edbf2f07074",
@@ -70,7 +98,7 @@
       "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "4402a9091911",
@@ -84,7 +112,7 @@
       "translated_summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "5e26177d484a",
@@ -98,7 +126,7 @@
       "translated_summary": "Cook County Circuit Court Judge William Sullivan sanctioned attorney Danielle Malaty with a fine of $10 on July 16 for her improper use of artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "23847c8096a0",
@@ -110,34 +138,6 @@
       "image": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
       "translated_title": "Judge rejects Anthropic bid to appeal copyright ruling, postpone trial",
       "translated_summary": "A federal judge in California has denied a request from Anthropic to immediately appeal a ruling that could place the artificial intelligence company on the hook for billions of dollars in damages for allegedly pirating authors' copyrighted books.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "4cd48ee54908",
-      "title": "Musk blasts Apple for not featuring X, Grok; says lawsuit coming",
-      "summary": "Grok is owned by Musk's artificial intelligence startup xAI.",
-      "source": "WLTX.com",
-      "url": "https://www.wltx.com/article/news/nation-world/musk-sue-apple-x-grok-featured-apps/507-d81120ea-26d8-4a62-a4f1-5149caddc6f4",
-      "publishedAt": "2025-08-12T15:20:08Z",
-      "image": "https://media.wltx.com/assets/CCT/images/afe2458f-90ba-440f-acbd-a683dc6ad9b8/20250812T151251/afe2458f-90ba-440f-acbd-a683dc6ad9b8_1140x641.jpg",
-      "translated_title": "Musk blasts Apple for not featuring X, Grok; says lawsuit coming",
-      "translated_summary": "Grok is owned by Musk's artificial intelligence startup xAI.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "66d4aa175704",
-      "title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations",
-      "summary": "Elon Musk on Monday threatened Apple with legal action over alleged antitrust violations related to rankings of the Grok AI chatbot app, which is owned by his artificial intelligence startup xAI.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/business-news/musk-threatens-immediate-legal-action-apple-alleged-antitrust-violatio-rcna224514",
-      "publishedAt": "2025-08-12T14:40:27Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250701-musk-ch-1311-cb2751.jpg",
-      "translated_title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations",
-      "translated_summary": "Elon Musk on Monday threatened Apple with legal action over alleged antitrust violations related to rankings of the Grok AI chatbot app, which is owned by his artificial intelligence startup xAI.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "4小时前"
