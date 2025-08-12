@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-12T08:32:37.027988",
+  "last_updated": "2025-08-12T09:27:52.622460",
   "total_count": 10,
   "articles": [
+    {
+      "id": "cdae0580213f",
+      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top…",
+      "source": "WTOP",
+      "url": "https://wtop.com/europe/2025/08/musk-says-he-plans-to-sue-apple-for-not-featuring-x-or-grok-among-its-top-apps/",
+      "publishedAt": "2025-08-12T05:20:25Z",
+      "image": "https://wtop.com/wp-content/uploads/2025/07/Australia_X_Corp_88975-scaled.jpg",
+      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top…",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "4小时前"
+    },
     {
       "id": "a0e200112652",
       "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
@@ -14,7 +28,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "de9a66e90a34",
@@ -28,7 +42,7 @@
       "translated_summary": "AMC CEO Adam Aron revealed that he has switched from Google to OpenAI's ChatGPT and discussed how artificial intelligence is transforming the company's operations, driving growth, and fueling future investments.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "a7a4a17d4b20",
@@ -42,7 +56,7 @@
       "translated_summary": "CoreWeave (CRWV), an artificial intelligence (AI)-powered cloud computing company, is set to release its second-quarter results after the market...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "cc4c4336d225",
@@ -56,7 +70,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "9cbfd62b07bd",
@@ -70,7 +84,7 @@
       "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness U.S. artificial intelligence capabilities to supercharge its military.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "a797bed511b1",
@@ -84,7 +98,7 @@
       "translated_summary": "Wedbush analyst Daniel Ives outlined three steps that iPhone maker Apple (AAPL) needs to undertake to prove it is a serious artificial intellige...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "192f2531428f",
@@ -98,7 +112,7 @@
       "translated_summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "c39a8a329b56",
@@ -112,7 +126,7 @@
       "translated_summary": "Elon Musk says Apple is engaging in antitrust violations by allegedly making it impossible for any artificial intelligence company other than OpenAI to reach the No. 1 spot in its App Store rankings, calling it an unequivocal antitrust violation.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "9857c1eeafac",
@@ -124,20 +138,6 @@
       "image": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
       "translated_title": "Free AI training comes to California colleges - but at what cost?",
       "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "7小时前"
-    },
-    {
-      "id": "95cf146a6b96",
-      "title": "Cerence AI CEO explains how new tech can help drivers",
-      "summary": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/11/cerence-ai-ceo-explains-how-new-tech-can-help-drivers.html",
-      "publishedAt": "2025-08-11T23:37:05Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/102624225-_Y2A3585.JPG?v=1430169042&w=1920&h=1080",
-      "translated_title": "Cerence AI CEO explains how new tech can help drivers",
-      "translated_summary": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
       "category": "技术突破",
       "category_icon": "🚀",
       "time": "8小时前"
