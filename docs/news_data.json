@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-12T16:31:40.375911",
+  "last_updated": "2025-08-12T17:22:42.285719",
   "total_count": 10,
   "articles": [
+    {
+      "id": "acb4ef7ebdaf",
+      "title": "Study: AI programs might help ER overcrowding in hospitals",
+      "summary": "Artificial intelligence programs can help doctors and nurses predict hours earlier which ER patients will likely require hospital admission, a new study says.",
+      "source": "UPI News",
+      "url": "https://www.upi.com/Health_News/2025/08/12/ER-overcrowding-AI-program-study/5831755010362/",
+      "publishedAt": "2025-08-12T17:09:00Z",
+      "image": "https://cdnph.upi.com/sv/ph/og/upi/5831755010362/2025/1/0267573c346724f96eb0b39f383b7dea/v1.5/Study-AI-programs-might-help-ER-overcrowding-in-hospitals.jpg",
+      "translated_title": "Study: AI programs might help ER overcrowding in hospitals",
+      "translated_summary": "Artificial intelligence programs can help doctors and nurses predict hours earlier which ER patients will likely require hospital admission, a new study says.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "13分钟前"
+    },
+    {
+      "id": "4402a9091911",
+      "title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
+      "summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
+      "source": "Cable News Network",
+      "url": "https://edition.cnn.com/2025/08/12/tech/perplexity-google-chrome-bid",
+      "publishedAt": "2025-08-12T16:31:32Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184968332.jpg?c=16x9&q=w_800,c_fill",
+      "translated_title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
+      "translated_summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "51分钟前"
+    },
     {
       "id": "4cd48ee54908",
       "title": "Musk blasts Apple for not featuring X, Grok; says lawsuit coming",
@@ -14,7 +42,7 @@
       "translated_summary": "Grok is owned by Musk's artificial intelligence startup xAI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "66d4aa175704",
@@ -28,7 +56,7 @@
       "translated_summary": "Elon Musk on Monday threatened Apple with legal action over alleged antitrust violations related to rankings of the Grok AI chatbot app, which is owned by his artificial intelligence startup xAI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "931d90e0a3f8",
@@ -42,7 +70,7 @@
       "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "b75fe8b759aa",
@@ -56,7 +84,7 @@
       "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "f0bd1d405a8f",
@@ -84,7 +112,7 @@
       "translated_summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "821ae280cbdb",
@@ -98,7 +126,7 @@
       "translated_summary": "South Korea's Ministry of Science and ICT shortlisted five teams this month to take charge of the sovereign AI project, also known as \"AI for everyone,\" aimed at developing domestically built artificial intelligence mode",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "62c6de25007e",
@@ -112,35 +140,7 @@
       "translated_summary": "Amazon.com-backed Anthropic said on Tuesday it will offer its Claude AI model to the U.S. government for $1, joining a growing list of artificial intelligence startups proposing lucrative deals to win federal contracts.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
-    },
-    {
-      "id": "d09a0667d0e8",
-      "title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
-      "summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and…",
-      "source": "WTOP",
-      "url": "https://wtop.com/national/2025/08/youtube-to-begin-testing-a-new-ai-powered-age-verification-system-in-the-u-s/",
-      "publishedAt": "2025-08-12T12:35:58Z",
-      "image": "https://wtop.com/wp-content/uploads/2025/07/Australia-Social-Media_87542-scaled.jpg",
-      "translated_title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
-      "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and…",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "6054ca7490c8",
-      "title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
-      "summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
-      "source": "WDIV ClickOnDetroit",
-      "url": "https://www.clickondetroit.com/business/2025/08/12/youtube-to-begin-testing-a-new-ai-powered-age-verification-system-in-the-us/",
-      "publishedAt": "2025-08-12T12:35:58Z",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4IMAN3THDJEIZDDN4CFH62PLOA.jpg?_a=DATAg1eAZAA0",
-      "translated_title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
-      "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     }
   ]
 }
