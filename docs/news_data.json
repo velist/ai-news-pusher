@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-12T17:22:42.285719",
+  "last_updated": "2025-08-12T18:36:25.738409",
   "total_count": 10,
   "articles": [
+    {
+      "id": "fca3f820979b",
+      "title": "Illinois bans AI therapy as some states begin to scrutinize chatbots",
+      "summary": "Illinois banned therapists from using artificial intelligence to treat patients, joining a small group of states regulating the use of AI chatbots for mental health.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/",
+      "publishedAt": "2025-08-12T18:15:17Z",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYQEURDH3NOE2F6CXWYP7GIGPE_size-normalized.jpg&w=1440",
+      "translated_title": "Illinois bans AI therapy as some states begin to scrutinize chatbots",
+      "translated_summary": "Illinois banned therapists from using artificial intelligence to treat patients, joining a small group of states regulating the use of AI chatbots for mental health.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "21分钟前"
+    },
+    {
+      "id": "258abe91b9ec",
+      "title": "OpenAI Movie Casts Chris O’Dowd to Join Andrew Garfield",
+      "summary": "Monica Barbaro and Yura Borisov are among those on the call sheet of the Amazon MGM feature Artificial",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/openai-movie-chris-odowd-andrew-garfield-1236342283/",
+      "publishedAt": "2025-08-12T18:12:50Z",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/08/Chris-ODowd-Main-2025.jpg?w=1440&h=810&crop=1",
+      "translated_title": "OpenAI Movie Casts Chris O’Dowd to Join Andrew Garfield",
+      "translated_summary": "Monica Barbaro and Yura Borisov are among those on the call sheet of the Amazon MGM feature Artificial",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "23分钟前"
+    },
+    {
+      "id": "dc587cb6cda1",
+      "title": "India’s First AI Unicorn Fractal Files for $560 Million IPO",
+      "summary": "Fractal Analytics, a provider of artificial intelligence and analytics services, filed for an initial public offering in Mumbai that could value the company at more than $3.5 billion.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-12/india-s-first-ai-unicorn-fractal-files-for-560-million-ipo",
+      "publishedAt": "2025-08-12T17:41:50Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM5EYXfkcEFI/v0/1200x800.jpg",
+      "translated_title": "India’s First AI Unicorn Fractal Files for $560 Million IPO",
+      "translated_summary": "Fractal Analytics, a provider of artificial intelligence and analytics services, filed for an initial public offering in Mumbai that could value the company at more than $3.5 billion.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "54分钟前"
+    },
     {
       "id": "acb4ef7ebdaf",
       "title": "Study: AI programs might help ER overcrowding in hospitals",
@@ -14,7 +56,21 @@
       "translated_summary": "Artificial intelligence programs can help doctors and nurses predict hours earlier which ER patients will likely require hospital admission, a new study says.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "2edbf2f07074",
+      "title": "YouTube testing a new age verification system in the U.S.",
+      "summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
+      "source": "The Associated Press",
+      "url": "https://apnews.com/article/youtube-video-age-verification-system-1ce99a7089b33e88dc76e49945ded186",
+      "publishedAt": "2025-08-12T16:35:58Z",
+      "image": "https://dims.apnews.com/dims4/default/e24c265/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F55%2Fad51ee037e6b2409b96e0efbdf85%2F1dd0d8843f2f440bbf085a8dd63d3094",
+      "translated_title": "YouTube testing a new age verification system in the U.S.",
+      "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
     },
     {
       "id": "4402a9091911",
@@ -28,7 +84,7 @@
       "translated_summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "51分钟前"
+      "time": "2小时前"
     },
     {
       "id": "4cd48ee54908",
@@ -42,7 +98,7 @@
       "translated_summary": "Grok is owned by Musk's artificial intelligence startup xAI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "66d4aa175704",
@@ -56,7 +112,7 @@
       "translated_summary": "Elon Musk on Monday threatened Apple with legal action over alleged antitrust violations related to rankings of the Grok AI chatbot app, which is owned by his artificial intelligence startup xAI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "931d90e0a3f8",
@@ -70,7 +126,7 @@
       "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "b75fe8b759aa",
@@ -84,62 +140,6 @@
       "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "f0bd1d405a8f",
-      "title": "Former Google Distinguished Engineer David Petrou Launches Continua, a New Vision for Social AI",
-      "summary": "Press Release Continua, the company pioneering Social AI, today announced it has raised $8 million in seed funding to uplevel the group chat, reimagining how artificial intelligence can be a true participant in dynamic conversations. The round was led by GV with participation…",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/business/former-google-distinguished-engineer-david-petrou-launches-continua-a-new-vision-for-social-ai/",
-      "publishedAt": "2025-08-12T14:25:54Z",
-      "image": "https://venturebeat.com/wp-content/uploads/2015/10/BusinessWire_FeaturedImage.jpg?w=285?w=1200&strip=all",
-      "translated_title": "Former Google Distinguished Engineer David Petrou Launches Continua, a New Vision for Social AI",
-      "translated_summary": "Press Release Continua, the company pioneering Social AI, today announced it has raised $8 million in seed funding to uplevel the group chat, reimagining how artificial intelligence can be a true participant in dynamic conversations. The round was led by GV with participation…",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "2小时前"
-    },
-    {
-      "id": "46c944cc4628",
-      "title": "Elon Musk threatens to sue Apple over app store ranking of his AI app",
-      "summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/08/12/elon-musk-threatens-to-sue-apple-over-app-store-ranking-of-his-ai-app/",
-      "publishedAt": "2025-08-12T13:32:41Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/08/Elon_Musk_threatens_to_sue_Apple_over_app_store_ranking_of_his_AI_app1-1.jpg?w=1024&h=662",
-      "translated_title": "Elon Musk threatens to sue Apple over app store ranking of his AI app",
-      "translated_summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "821ae280cbdb",
-      "title": "Can South Korea build a sovereign AI?",
-      "summary": "South Korea's Ministry of Science and ICT shortlisted five teams this month to take charge of the sovereign AI project, also known as \"AI for everyone,\" aimed at developing domestically built artificial intelligence mode",
-      "source": "UPI News",
-      "url": "https://www.upi.com/Voices/2025/08/12/perspectivve-home-grown-AI-project/6791755003257/",
-      "publishedAt": "2025-08-12T13:08:00Z",
-      "image": "https://cdnph.upi.com/sv/ph/og/i/6791755003257/2025/1/17550039419229/v1.5/Can-South-Korea-build-a-sovereign-AI.jpg",
-      "translated_title": "Can South Korea build a sovereign AI?",
-      "translated_summary": "South Korea's Ministry of Science and ICT shortlisted five teams this month to take charge of the sovereign AI project, also known as \"AI for everyone,\" aimed at developing domestically built artificial intelligence mode",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "62c6de25007e",
-      "title": "Anthropic offers AI chatbot Claude to US government for $1",
-      "summary": "Amazon.com-backed Anthropic said on Tuesday it will offer its Claude AI model to the U.S. government for $1, joining a growing list of artificial intelligence startups proposing lucrative deals to win federal contracts.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/anthropic-offers-ai-chatbot-claude-us-government-1-2025-08-12/",
-      "publishedAt": "2025-08-12T13:03:13Z",
-      "image": "https://www.reuters.com/resizer/v2/WGSWTLH5LRMARGHC3JPB5W7JFM.jpg?auth=13fe4d7d7ba55ac1d6d463de361e064856aff0b365acde62fc2b2b3a95f3f67d&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Anthropic offers AI chatbot Claude to US government for $1",
-      "translated_summary": "Amazon.com-backed Anthropic said on Tuesday it will offer its Claude AI model to the U.S. government for $1, joining a growing list of artificial intelligence startups proposing lucrative deals to win federal contracts.",
-      "category": "技术突破",
-      "category_icon": "🚀",
       "time": "4小时前"
     }
   ]
