@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-12T21:22:56.372600",
+  "last_updated": "2025-08-12T22:22:51.960714",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e379b9ca4fcf",
+      "title": "Meta and Mark Zuckerberg tap MAGA influencer as AI ‘bias’ adviser",
+      "summary": "Meta has brought on right-wing influencer Robby Starbuck to join an internal board purportedly focused on rooting out bias from its artificial intelligence models.",
+      "source": "MSNBC",
+      "url": "https://www.msnbc.com/top-stories/latest/meta-mark-zuckerberg-ai-bias-robby-starbuck-rcna224596",
+      "publishedAt": "2025-08-12T21:42:50Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250812-robby-starbuck-vl-439p-5cab98.jpg",
+      "translated_title": "Meta and Mark Zuckerberg tap MAGA influencer as AI ‘bias’ adviser",
+      "translated_summary": "Meta has brought on right-wing influencer Robby Starbuck to join an internal board purportedly focused on rooting out bias from its artificial intelligence models.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "40分钟前"
+    },
+    {
+      "id": "970ae04de484",
+      "title": "Labor unions mobilize to challenge advance of algorithms in workplaces",
+      "summary": "As employers and tech companies rush to deploy artificial intelligence software into workplaces to improve efficiency, labor unions are stepping up work with state lawmakers across the nation to restrict its use.",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/08/12/business/labor-unions-algorithms-workplaces/",
+      "publishedAt": "2025-08-12T20:27:07Z",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/VDNTF5WS2E3B2XY6QMZZAW4B5M.jpg?auth=9abbc860839b76aba390fe28a671c3926ec56f140eae64441f37436744d453f9&width=1440",
+      "translated_title": "Labor unions mobilize to challenge advance of algorithms in workplaces",
+      "translated_summary": "As employers and tech companies rush to deploy artificial intelligence software into workplaces to improve efficiency, labor unions are stepping up work with state lawmakers across the nation to restrict its use.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
+      "id": "7693ee8760da",
+      "title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
+      "summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
+      "source": "WTOP",
+      "url": "https://wtop.com/tech/2025/08/ai-search-firm-perplexity-makes-34-5-billion-surprise-bid-for-google-chrome/",
+      "publishedAt": "2025-08-12T20:13:00Z",
+      "image": "https://wtop.com/wp-content/uploads/2025/08/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWU4cXBvcGswMDA0M2I2bnpueTJpcmc2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZThwcmN5ajAwNHEyNm52Nmx0MGhiam4-300.jpg",
+      "translated_title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
+      "translated_summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "2小时前"
+    },
     {
       "id": "63b02179748e",
       "title": "YouTube to test AI-powered age verification system for US users",
@@ -14,7 +56,7 @@
       "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "18ed44df25c5",
@@ -28,21 +70,7 @@
       "translated_summary": "Green firms in the US have found something of a lifeline in artificial intelligence after being bogged down by high interest rates, shrinking funding and, more recently, President Donald Trump’s sharp rollback of support. Clean technology companies that have inked deals to support data centers have seen their stocks soar this year, outperforming the S&P 500.. Even as some clean energy firms struggle to convince investors that they can thrive during Trump’s second term, the AI-driven surge in electric demand — the most in decades — is providing clear tailwinds for others.  KR Sridhar, Bloom Energy, founder and CEO tells Bloomberg Businessweek Daily says AI will drive the need for energy, including fuel cells. (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
-    },
-    {
-      "id": "fca3f820979b",
-      "title": "Illinois bans AI therapy as some states begin to scrutinize chatbots",
-      "summary": "Illinois banned therapists from using artificial intelligence to treat patients, joining a small group of states regulating the use of AI chatbots for mental health.",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/",
-      "publishedAt": "2025-08-12T18:15:17Z",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYQEURDH3NOE2F6CXWYP7GIGPE_size-normalized.jpg&w=1440",
-      "translated_title": "Illinois bans AI therapy as some states begin to scrutinize chatbots",
-      "translated_summary": "Illinois banned therapists from using artificial intelligence to treat patients, joining a small group of states regulating the use of AI chatbots for mental health.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "2小时前"
     },
     {
       "id": "258abe91b9ec",
@@ -56,7 +84,7 @@
       "translated_summary": "Monica Barbaro and Yura Borisov are among those on the call sheet of the Amazon MGM feature Artificial",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "de1acd98e11f",
@@ -70,7 +98,7 @@
       "translated_summary": "More than 16,500 have applied to the free NY community college program for adult students interested in high-demand fields like artificial intelligence and nursing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "dc587cb6cda1",
@@ -84,7 +112,7 @@
       "translated_summary": "Fractal Analytics, a provider of artificial intelligence and analytics services, filed for an initial public offering in Mumbai that could value the company at more than $3.5 billion.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "acb4ef7ebdaf",
@@ -92,55 +120,27 @@
       "summary": "Artificial intelligence programs can help doctors and nurses predict hours earlier which ER patients will likely require hospital admission, a new study says.",
       "source": "UPI News",
       "url": "https://www.upi.com/Health_News/2025/08/12/ER-overcrowding-AI-program-study/5831755010362/",
-      "publishedAt": "2025-08-12T17:09:00Z",
+      "publishedAt": "2025-08-12T17:09:06Z",
       "image": "https://cdnph.upi.com/sv/ph/og/upi/5831755010362/2025/1/0267573c346724f96eb0b39f383b7dea/v1.5/Study-AI-programs-might-help-ER-overcrowding-in-hospitals.jpg",
       "translated_title": "Study: AI programs might help ER overcrowding in hospitals",
       "translated_summary": "Artificial intelligence programs can help doctors and nurses predict hours earlier which ER patients will likely require hospital admission, a new study says.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
-      "id": "2edbf2f07074",
-      "title": "YouTube testing a new age verification system in the U.S.",
-      "summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/youtube-video-age-verification-system-1ce99a7089b33e88dc76e49945ded186",
-      "publishedAt": "2025-08-12T16:35:58Z",
-      "image": "https://dims.apnews.com/dims4/default/e24c265/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F55%2Fad51ee037e6b2409b96e0efbdf85%2F1dd0d8843f2f440bbf085a8dd63d3094",
-      "translated_title": "YouTube testing a new age verification system in the U.S.",
-      "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
+      "id": "fc3392c8a1a3",
+      "title": "AI Startup Perplexity Has Made a $34.5 Billion Offer",
+      "summary": "Artificial-intelligence startup Perplexity has made an offer worth $34.5 billion.",
+      "source": "Men's Journal",
+      "url": "https://www.mensjournal.com/news/ai-startup-perplexity-has-made-a-34-5-billion-offer",
+      "publishedAt": "2025-08-12T16:45:24Z",
+      "image": "https://www.mensjournal.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjE2OTg0NjczNDcxOTY0Njkx/key-speakers-at-the-bloomberg-technology-conference.jpg",
+      "translated_title": "AI Startup Perplexity Has Made a $34.5 Billion Offer",
+      "translated_summary": "Artificial-intelligence startup Perplexity has made an offer worth $34.5 billion.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "4402a9091911",
-      "title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
-      "summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
-      "source": "Cable News Network",
-      "url": "https://edition.cnn.com/2025/08/12/tech/perplexity-google-chrome-bid",
-      "publishedAt": "2025-08-12T16:31:32Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184968332.jpg?c=16x9&q=w_800,c_fill",
-      "translated_title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
-      "translated_summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "4小时前"
-    },
-    {
-      "id": "7693ee8760da",
-      "title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
-      "summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
-      "source": "WTOP",
-      "url": "https://wtop.com/tech/2025/08/ai-search-firm-perplexity-makes-34-5-billion-surprise-bid-for-google-chrome/",
-      "publishedAt": "2025-08-12T16:31:32Z",
-      "image": "https://wtop.com/wp-content/uploads/2025/08/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWU4cXBvcGswMDA0M2I2bnpueTJpcmc2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZThwcmN5ajAwNHEyNm52Nmx0MGhiam4-300.jpg",
-      "translated_title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
-      "translated_summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     }
   ]
 }
