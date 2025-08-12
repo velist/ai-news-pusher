@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-12T01:57:45.218571",
+  "last_updated": "2025-08-12T03:20:58.661012",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c39a8a329b56",
+      "title": "Musk Accuses Apple of Antitrust Violation, Threatens Legal Action",
+      "summary": "Elon Musk says Apple is engaging in antitrust violations by allegedly making it impossible for any artificial intelligence company other than OpenAI to reach the No. 1 spot in its App Store rankings, calling it an unequivocal antitrust violation.",
+      "source": "Newsmax",
+      "url": "https://www.newsmax.com/newsfront/elon-musk-apple-antitrust/2025/08/11/id/1222099/",
+      "publishedAt": "2025-08-12T01:57:59Z",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9f3e7def-eab1-4c04-a436-52ff9b736d2a&SiteName=Newsmax",
+      "translated_title": "Musk Accuses Apple of Antitrust Violation, Threatens Legal Action",
+      "translated_summary": "Elon Musk says Apple is engaging in antitrust violations by allegedly making it impossible for any artificial intelligence company other than OpenAI to reach the No. 1 spot in its App Store rankings, calling it an unequivocal antitrust violation.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
+    {
+      "id": "9857c1eeafac",
+      "title": "Free AI training comes to California colleges - but at what cost?",
+      "summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.",
+      "source": "The Associated Press",
+      "url": "https://apnews.com/article/information-technology-artificial-intelligence-colleges-and-universities-alphabet-inc-california-bda897ddb2fa4317bc603e4b71943b7e",
+      "publishedAt": "2025-08-12T01:11:21Z",
+      "image": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "translated_title": "Free AI training comes to California colleges - but at what cost?",
+      "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "2小时前"
+    },
     {
       "id": "95cf146a6b96",
       "title": "Cerence AI CEO explains how new tech can help drivers",
@@ -14,7 +42,7 @@
       "translated_summary": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "e5e78f984b1f",
@@ -28,7 +56,7 @@
       "translated_summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss Nvidia’s and AMD’s agreement to pay 15% of their revenues from Chinese artificial intelligence chip sales to the US government. Analysts and investors react to the “unprecedented” deal. Plus, Intel CEO Lip-Bu Tan is set to meet with President Donald Trump, after the US leader called his resignation.  (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "2d3ea5c22048",
@@ -42,21 +70,21 @@
       "translated_summary": "Thomas Dohmke is leaving GitHub at the end of the year, closing a chapter that saw the Microsoft-owned platform double down on artificial intelligence and grow its global footprint, Axios said in an exclusive report. His next move? Going back to his roots as a founder. \"GitHub CEO Thomas Dohmke announced Monday that he plans",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "14ceb1a9287e",
       "title": "Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit",
-      "summary": "MARA Holdings Inc. is in advanced talks to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider, according to people familiar with the matter.",
+      "summary": "MARA Holdings Inc. has agreed to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2025-08-11/bitcoin-miner-mara-said-to-near-168-million-deal-for-edf-unit",
       "publishedAt": "2025-08-11T20:03:22Z",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijB6r.LjfVIw/v0/1200x800.jpg",
       "translated_title": "Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit",
-      "translated_summary": "MARA Holdings Inc. is in advanced talks to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider, according to people familiar with the matter.",
+      "translated_summary": "MARA Holdings Inc. has agreed to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "db1487e4fd91",
@@ -70,7 +98,7 @@
       "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness American artificial intelligence capabilities to supercharge its military.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "dcf72d5c3ce2",
@@ -84,7 +112,7 @@
       "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, banking on surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up about 3%.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "e296e6b3d1e8",
@@ -98,7 +126,7 @@
       "translated_summary": "Timothy Olyphant told UPI playing Kirsh on \"Alien: Earth\" made him realize just how fast artificial intelligence technology is advancing in the real world.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "9小时前"
+      "time": "11小时前"
     },
     {
       "id": "e55b95c01c59",
@@ -112,35 +140,7 @@
       "translated_summary": "The new model incorporates artificial intelligence to help make decisions and is being tested in six states beginning in January.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "10小时前"
-    },
-    {
-      "id": "139d83bdbb40",
-      "title": "Hollywood Rocked by Amazon-Backed AI Tool, Showrunner, that Allows Viewers to Create Their Own Shows",
-      "summary": "Filmmakers, educators, and other entertainment industry professionals are reacting in alarm at a new Amazon-backed tool that will allow viewers to create their own TV shows using an artificial intelligence system called Showrunner.",
-      "source": "Breitbart News Network",
-      "url": "https://www.breitbart.com/entertainment/2025/08/11/hollywood-artists-blasting-amazon-backed-ai-tool-that-allows-viewers-to-create-their-own-shows/",
-      "publishedAt": "2025-08-11T14:39:58Z",
-      "image": "https://media.breitbart.com/media/2025/08/showrunner-640x335.jpg",
-      "translated_title": "Hollywood Rocked by Amazon-Backed AI Tool, Showrunner, that Allows Viewers to Create Their Own Shows",
-      "translated_summary": "Filmmakers, educators, and other entertainment industry professionals are reacting in alarm at a new Amazon-backed tool that will allow viewers to create their own TV shows using an artificial intelligence system called Showrunner.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "11小时前"
-    },
-    {
-      "id": "4452c0f5a49a",
-      "title": "SoftBank’s billion-dollar AI bet: Masayoshi Son’s mission to build artificial superintelligence",
-      "summary": "Masayoshi Son is once again swinging for the fences. The billionaire founder of SoftBank believes his company will sit at the center of the next big shift in technology—a shift he says will arrive within a decade. For Son, the endgame is artificial superintelligence (ASI), a form of AI he describes as being “10,000 times",
-      "source": "TechStartups.com",
-      "url": "https://techstartups.com/2025/08/11/softbanks-32-billion-ai-bet-masayoshi-sons-mission-to-build-artificial-superintelligence/",
-      "publishedAt": "2025-08-11T13:00:41Z",
-      "image": "https://techstartups.com/wp-content/uploads/2025/08/SoftBank-artificial-superintelligence.jpg",
-      "translated_title": "SoftBank’s billion-dollar AI bet: Masayoshi Son’s mission to build artificial superintelligence",
-      "translated_summary": "Masayoshi Son is once again swinging for the fences. The billionaire founder of SoftBank believes his company will sit at the center of the next big shift in technology—a shift he says will arrive within a decade. For Son, the endgame is artificial superintelligence (ASI), a form of AI he describes as being “10,000 times",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "12小时前"
     }
   ]
 }
