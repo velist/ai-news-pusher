@@ -1,7 +1,77 @@
 {
-  "last_updated": "2025-08-12T14:24:43.195341",
+  "last_updated": "2025-08-12T15:27:11.065473",
   "total_count": 10,
   "articles": [
+    {
+      "id": "4cd48ee54908",
+      "title": "Musk blasts Apple for not featuring X, Grok; says lawsuit coming",
+      "summary": "Grok is owned by Musk's artificial intelligence startup xAI.",
+      "source": "WLTX.com",
+      "url": "https://www.wltx.com/article/news/nation-world/musk-sue-apple-x-grok-featured-apps/507-d81120ea-26d8-4a62-a4f1-5149caddc6f4",
+      "publishedAt": "2025-08-12T15:20:08Z",
+      "image": "https://media.wltx.com/assets/CCT/images/afe2458f-90ba-440f-acbd-a683dc6ad9b8/20250812T151251/afe2458f-90ba-440f-acbd-a683dc6ad9b8_1140x641.jpg",
+      "translated_title": "Musk blasts Apple for not featuring X, Grok; says lawsuit coming",
+      "translated_summary": "Grok is owned by Musk's artificial intelligence startup xAI.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7分钟前"
+    },
+    {
+      "id": "66d4aa175704",
+      "title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations",
+      "summary": "Elon Musk on Monday threatened Apple with legal action over alleged antitrust violations related to rankings of the Grok AI chatbot app, which is owned by his artificial intelligence startup xAI.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/musk-threatens-immediate-legal-action-apple-alleged-antitrust-violatio-rcna224514",
+      "publishedAt": "2025-08-12T14:40:27Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250701-musk-ch-1311-cb2751.jpg",
+      "translated_title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations",
+      "translated_summary": "Elon Musk on Monday threatened Apple with legal action over alleged antitrust violations related to rankings of the Grok AI chatbot app, which is owned by his artificial intelligence startup xAI.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "46分钟前"
+    },
+    {
+      "id": "931d90e0a3f8",
+      "title": "YouTube to begin U.S. testing of new AI-powered age verification system",
+      "summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
+      "source": "Baltimore Sun",
+      "url": "https://www.baltimoresun.com/2025/08/12/youtube-ai-powered-age-verification/",
+      "publishedAt": "2025-08-12T14:36:23Z",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Australia-Social-Media_87542-1.jpg?w=1024&h=682",
+      "translated_title": "YouTube to begin U.S. testing of new AI-powered age verification system",
+      "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "50分钟前"
+    },
+    {
+      "id": "b75fe8b759aa",
+      "title": "YouTube to begin U.S. testing of new AI-powered age verification system",
+      "summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
+      "source": "The Boston Herald",
+      "url": "https://www.bostonherald.com/2025/08/12/youtube-ai-powered-age-verification/",
+      "publishedAt": "2025-08-12T14:36:23Z",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2025/08/Australia-Social-Media_87542-1.jpg?w=1024&h=682",
+      "translated_title": "YouTube to begin U.S. testing of new AI-powered age verification system",
+      "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "50分钟前"
+    },
+    {
+      "id": "f0bd1d405a8f",
+      "title": "Former Google Distinguished Engineer David Petrou Launches Continua, a New Vision for Social AI",
+      "summary": "Press Release Continua, the company pioneering Social AI, today announced it has raised $8 million in seed funding to uplevel the group chat, reimagining how artificial intelligence can be a true participant in dynamic conversations. The round was led by GV with participation…",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/business/former-google-distinguished-engineer-david-petrou-launches-continua-a-new-vision-for-social-ai/",
+      "publishedAt": "2025-08-12T14:25:54Z",
+      "image": "https://venturebeat.com/wp-content/uploads/2015/10/BusinessWire_FeaturedImage.jpg?w=285?w=1200&strip=all",
+      "translated_title": "Former Google Distinguished Engineer David Petrou Launches Continua, a New Vision for Social AI",
+      "translated_summary": "Press Release Continua, the company pioneering Social AI, today announced it has raised $8 million in seed funding to uplevel the group chat, reimagining how artificial intelligence can be a true participant in dynamic conversations. The round was led by GV with participation…",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "46c944cc4628",
       "title": "Elon Musk threatens to sue Apple over app store ranking of his AI app",
@@ -14,7 +84,7 @@
       "translated_summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "52分钟前"
+      "time": "1小时前"
     },
     {
       "id": "821ae280cbdb",
@@ -28,7 +98,21 @@
       "translated_summary": "South Korea's Ministry of Science and ICT shortlisted five teams this month to take charge of the sovereign AI project, also known as \"AI for everyone,\" aimed at developing domestically built artificial intelligence mode",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
+    },
+    {
+      "id": "62c6de25007e",
+      "title": "Anthropic offers AI chatbot Claude to US government for $1",
+      "summary": "Amazon.com-backed Anthropic said on Tuesday it will offer its Claude AI model to the U.S. government for $1, joining a growing list of artificial intelligence startups proposing lucrative deals to win federal contracts.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-offers-ai-chatbot-claude-us-government-1-2025-08-12/",
+      "publishedAt": "2025-08-12T13:03:13Z",
+      "image": "https://www.reuters.com/resizer/v2/WGSWTLH5LRMARGHC3JPB5W7JFM.jpg?auth=13fe4d7d7ba55ac1d6d463de361e064856aff0b365acde62fc2b2b3a95f3f67d&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Anthropic offers AI chatbot Claude to US government for $1",
+      "translated_summary": "Amazon.com-backed Anthropic said on Tuesday it will offer its Claude AI model to the U.S. government for $1, joining a growing list of artificial intelligence startups proposing lucrative deals to win federal contracts.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "2小时前"
     },
     {
       "id": "6054ca7490c8",
@@ -42,21 +126,7 @@
       "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
-    },
-    {
-      "id": "f1ce061bda97",
-      "title": "Elon Musk: I'm Suing Apple",
-      "summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in...",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/373385/elon-musk-im-suing-apple.html",
-      "publishedAt": "2025-08-12T12:30:00Z",
-      "image": "https://img2-azrcdn.newser.com/image/1627603-12-20250812030002.jpeg",
-      "translated_title": "Elon Musk: I'm Suing Apple",
-      "translated_summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "24b4f36cc9fd",
@@ -70,77 +140,7 @@
       "translated_summary": "Indian tech entrepreneur Bhavin Turakhia is partnering GoDaddy Inc. to offer his artificial intelligence-led email service — Titan — to tens of millions of new users in an enterprise market dominated by Microsoft Corp. and Alphabet Inc.’s Google.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
-    },
-    {
-      "id": "f870537c95ba",
-      "title": "CoreWeave Traders Emboldened by AI Spending Ahead of Earnings",
-      "summary": "The race to build computing capacity for artificial intelligence is reviving bullish bets on one of Wall Street’s most contentious stocks: CoreWeave Inc.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-12/coreweave-traders-emboldened-by-ai-spending-ahead-of-earnings",
-      "publishedAt": "2025-08-12T10:50:17Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJPW4hjYF0MA/v1/1200x800.jpg",
-      "translated_title": "CoreWeave Traders Emboldened by AI Spending Ahead of Earnings",
-      "translated_summary": "The race to build computing capacity for artificial intelligence is reviving bullish bets on one of Wall Street’s most contentious stocks: CoreWeave Inc.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "0da55cc3a627",
-      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-      "summary": "Elon Musk plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "source": "KABC-TV",
-      "url": "https://abc7.com/post/musk-says-he-plans-sue-apple-not-featuring-grok-among-top-apps/17510529/",
-      "publishedAt": "2025-08-12T10:21:25Z",
-      "image": "https://cdn.abcotvs.com/dip/images/17510593_081225-cc-ap-twitter-img.jpg?w=1600",
-      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-      "translated_summary": "Elon Musk plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "bac919cb2216",
-      "title": "Google Teams With NASA On AI 'Space Doctor' To Diagnose, Treat Astronauts On Moon, Mars Missions Where Real-Time Earth Contact Isn't Possible",
-      "summary": "Alphabet Inc. is collaborating with NASA to develop an artificial intelligence medical assistant designed to diagnose and treat astronauts.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/news/space/25/08/47053184/google-teams-with-nasa-on-ai-space-doctor-to-diagnose-treat-astronauts-on-moon-mars-missions-where-real-time-earth-contact-isnt-possible",
-      "publishedAt": "2025-08-12T10:08:00Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/08/12/Close-Up-Of-The-Google-Logo-Sign-On-The-.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "Google Teams With NASA On AI 'Space Doctor' To Diagnose, Treat Astronauts On Moon, Mars Missions Where Real-Time Earth Contact Isn't Possible",
-      "translated_summary": "Alphabet Inc. is collaborating with NASA to develop an artificial intelligence medical assistant designed to diagnose and treat astronauts.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "4小时前"
-    },
-    {
-      "id": "192f2531428f",
-      "title": "Musk says xAI to take legal action against Apple over App Store rankings",
-      "summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-says-xai-take-legal-action-against-apple-over-app-store-rankings-2025-08-12/",
-      "publishedAt": "2025-08-12T09:19:15Z",
-      "image": "https://www.reuters.com/resizer/v2/CZT2RE5S45PSHEYANOMQ27YF4Q.jpg?auth=6c2100a88f84d056403488f6855bf77a24221f3b1dd5ace10e473b2673dbc18c&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Musk says xAI to take legal action against Apple over App Store rankings",
-      "translated_summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "2621c5ed75cb",
-      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-      "summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/musk-apple-twitter-lawsuit-antitrust-app-c60e3690d2e232e0cd0c41cbe86f66be",
-      "publishedAt": "2025-08-12T09:16:56Z",
-      "image": "https://dims.apnews.com/dims4/default/32823a6/2147483647/strip/true/crop/7681x4321+0+400/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9a%2F95%2F2d45a1779cc63a588d5a2f4abd68%2F75024abe5e4645f495e49bc95ea27402",
-      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-      "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "2小时前"
     }
   ]
 }
