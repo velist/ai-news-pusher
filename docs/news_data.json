@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-12T15:27:11.065473",
+  "last_updated": "2025-08-12T16:31:40.375911",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "Grok is owned by Musk's artificial intelligence startup xAI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7分钟前"
+      "time": "1小时前"
     },
     {
       "id": "66d4aa175704",
@@ -28,7 +28,7 @@
       "translated_summary": "Elon Musk on Monday threatened Apple with legal action over alleged antitrust violations related to rankings of the Grok AI chatbot app, which is owned by his artificial intelligence startup xAI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "46分钟前"
+      "time": "1小时前"
     },
     {
       "id": "931d90e0a3f8",
@@ -42,7 +42,7 @@
       "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "50分钟前"
+      "time": "1小时前"
     },
     {
       "id": "b75fe8b759aa",
@@ -56,7 +56,7 @@
       "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "50分钟前"
+      "time": "1小时前"
     },
     {
       "id": "f0bd1d405a8f",
@@ -70,7 +70,7 @@
       "translated_summary": "Press Release Continua, the company pioneering Social AI, today announced it has raised $8 million in seed funding to uplevel the group chat, reimagining how artificial intelligence can be a true participant in dynamic conversations. The round was led by GV with participation…",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "46c944cc4628",
@@ -84,7 +84,7 @@
       "translated_summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "821ae280cbdb",
@@ -98,7 +98,7 @@
       "translated_summary": "South Korea's Ministry of Science and ICT shortlisted five teams this month to take charge of the sovereign AI project, also known as \"AI for everyone,\" aimed at developing domestically built artificial intelligence mode",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "62c6de25007e",
@@ -112,7 +112,21 @@
       "translated_summary": "Amazon.com-backed Anthropic said on Tuesday it will offer its Claude AI model to the U.S. government for $1, joining a growing list of artificial intelligence startups proposing lucrative deals to win federal contracts.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "d09a0667d0e8",
+      "title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
+      "summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and…",
+      "source": "WTOP",
+      "url": "https://wtop.com/national/2025/08/youtube-to-begin-testing-a-new-ai-powered-age-verification-system-in-the-u-s/",
+      "publishedAt": "2025-08-12T12:35:58Z",
+      "image": "https://wtop.com/wp-content/uploads/2025/07/Australia-Social-Media_87542-scaled.jpg",
+      "translated_title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
+      "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and…",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "3小时前"
     },
     {
       "id": "6054ca7490c8",
@@ -126,21 +140,7 @@
       "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "24b4f36cc9fd",
-      "title": "India Tycoon Partners US Firm on $2 AI Email Rival to Outlook",
-      "summary": "Indian tech entrepreneur Bhavin Turakhia is partnering GoDaddy Inc. to offer his artificial intelligence-led email service — Titan — to tens of millions of new users in an enterprise market dominated by Microsoft Corp. and Alphabet Inc.’s Google.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-12/india-tycoon-partners-us-firm-on-2-ai-email-rival-to-outlook",
-      "publishedAt": "2025-08-12T12:30:00Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic.blf7XzT8w/v0/1200x801.jpg",
-      "translated_title": "India Tycoon Partners US Firm on $2 AI Email Rival to Outlook",
-      "translated_summary": "Indian tech entrepreneur Bhavin Turakhia is partnering GoDaddy Inc. to offer his artificial intelligence-led email service — Titan — to tens of millions of new users in an enterprise market dominated by Microsoft Corp. and Alphabet Inc.’s Google.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     }
   ]
 }
