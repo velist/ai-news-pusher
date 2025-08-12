@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-12T05:24:05.977403",
+  "last_updated": "2025-08-12T06:36:49.760516",
   "total_count": 10,
   "articles": [
+    {
+      "id": "a0e200112652",
+      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+      "source": "WDIV ClickOnDetroit",
+      "url": "https://www.clickondetroit.com/tech/2025/08/12/musk-says-he-plans-to-sue-apple-for-not-featuring-x-or-grok-among-its-top-apps/",
+      "publishedAt": "2025-08-12T05:16:55Z",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VCXE55YWKJF7JNCRKCPVVSACGM.jpg?_a=DATAg1eAZAA0",
+      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "de9a66e90a34",
       "title": "AMC CEO Says He Has Personally Abandoned Google In Exchange For ChatGPT: Here's How The Company Is Using Artificial Intelligence",
@@ -14,7 +28,21 @@
       "translated_summary": "AMC CEO Adam Aron revealed that he has switched from Google to OpenAI's ChatGPT and discussed how artificial intelligence is transforming the company's operations, driving growth, and fueling future investments.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "40分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "cc4c4336d225",
+      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/08/12/business/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
+      "publishedAt": "2025-08-12T04:00:00Z",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/6KFEJJ7ROOOMQBSHAO5S6Q5FLM.jpg?auth=7cc520efd6799b789838d48e6411044c051147b2ccd686aabb7c4c8d3e29f1f6&width=1440",
+      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "translated_summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
     },
     {
       "id": "9cbfd62b07bd",
@@ -28,7 +56,21 @@
       "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness U.S. artificial intelligence capabilities to supercharge its military.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "a797bed511b1",
+      "title": "Apple ‘Is a Serious AI Player,’ Says Daniel Ives as He Outlines 3 Steps",
+      "summary": "Wedbush analyst Daniel Ives outlined three steps that iPhone maker Apple (AAPL) needs to undertake to prove it is a serious artificial intellige...",
+      "source": "Business Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/apple-is-a-serious-ai-player-says-daniel-ives-as-he-outlines-3-steps-1035019813",
+      "publishedAt": "2025-08-12T03:12:00Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-636.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Apple ‘Is a Serious AI Player,’ Says Daniel Ives as He Outlines 3 Steps",
+      "translated_summary": "Wedbush analyst Daniel Ives outlined three steps that iPhone maker Apple (AAPL) needs to undertake to prove it is a serious artificial intellige...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "3小时前"
     },
     {
       "id": "192f2531428f",
@@ -42,7 +84,7 @@
       "translated_summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "c39a8a329b56",
@@ -56,7 +98,7 @@
       "translated_summary": "Elon Musk says Apple is engaging in antitrust violations by allegedly making it impossible for any artificial intelligence company other than OpenAI to reach the No. 1 spot in its App Store rankings, calling it an unequivocal antitrust violation.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "9857c1eeafac",
@@ -70,7 +112,7 @@
       "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "95cf146a6b96",
@@ -84,63 +126,21 @@
       "translated_summary": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
-      "id": "e5e78f984b1f",
-      "title": "Nvidia, AMD AI Deal, Intel CEO to Meet Trump | Bloomberg Tech 8/11/2025",
-      "summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss Nvidia’s and AMD’s agreement to pay 15% of their revenues from Chinese artificial intelligence chip sales to the US government. Analysts and investors react to the “unprecedented” deal. Plus, Intel CEO Lip-Bu Tan is set to meet with President Donald Trump, after the US leader called his resignation.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-11/bloomberg-tech-8-11-2025-video",
-      "publishedAt": "2025-08-11T21:14:20Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2SykDbtLuX0/v3/-1x-1.jpg",
-      "translated_title": "Nvidia, AMD AI Deal, Intel CEO to Meet Trump | Bloomberg Tech 8/11/2025",
-      "translated_summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss Nvidia’s and AMD’s agreement to pay 15% of their revenues from Chinese artificial intelligence chip sales to the US government. Analysts and investors react to the “unprecedented” deal. Plus, Intel CEO Lip-Bu Tan is set to meet with President Donald Trump, after the US leader called his resignation.  (Source: Bloomberg)",
+      "id": "0ad9a2bdf489",
+      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top",
+      "source": "Breitbart News Network",
+      "url": "https://www.breitbart.com/news/musk-says-he-plans-to-sue-apple-for-not-featuring-x-or-grok-among-its-top-apps/",
+      "publishedAt": "2025-08-11T23:10:05Z",
+      "image": "https://media.breitbart.com/media/2025/07/wi/ap/australia-corp-88975-australia-corp-of-is-displayed-computer-phone-sydney-oct-16-640x335.jpg",
+      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "2d3ea5c22048",
-      "title": "GitHub CEO Thomas Dohmke steps down to launch new startup",
-      "summary": "Thomas Dohmke is leaving GitHub at the end of the year, closing a chapter that saw the Microsoft-owned platform double down on artificial intelligence and grow its global footprint, Axios said in an exclusive report. His next move? Going back to his roots as a founder. \"GitHub CEO Thomas Dohmke announced Monday that he plans",
-      "source": "TechStartups.com",
-      "url": "https://techstartups.com/2025/08/11/github-ceo-thomas-dohmke-steps-down-to-launch-new-startup-after-ai-driven-tenure/",
-      "publishedAt": "2025-08-11T20:08:51Z",
-      "image": "https://techstartups.com/wp-content/uploads/2025/08/Thomas-Dohmke.jpg",
-      "translated_title": "GitHub CEO Thomas Dohmke steps down to launch new startup",
-      "translated_summary": "Thomas Dohmke is leaving GitHub at the end of the year, closing a chapter that saw the Microsoft-owned platform double down on artificial intelligence and grow its global footprint, Axios said in an exclusive report. His next move? Going back to his roots as a founder. \"GitHub CEO Thomas Dohmke announced Monday that he plans",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "9小时前"
-    },
-    {
-      "id": "14ceb1a9287e",
-      "title": "Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit",
-      "summary": "MARA Holdings Inc. has agreed to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-11/bitcoin-miner-mara-said-to-near-168-million-deal-for-edf-unit",
-      "publishedAt": "2025-08-11T20:03:22Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijB6r.LjfVIw/v0/1200x800.jpg",
-      "translated_title": "Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit",
-      "translated_summary": "MARA Holdings Inc. has agreed to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "db1487e4fd91",
-      "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
-      "summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness American artificial intelligence capabilities to supercharge its military.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-11/",
-      "publishedAt": "2025-08-11T19:36:17Z",
-      "image": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
-      "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness American artificial intelligence capabilities to supercharge its military.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "7小时前"
     }
   ]
 }
