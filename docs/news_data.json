@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-12T03:20:58.661012",
+  "last_updated": "2025-08-12T04:32:37.216178",
   "total_count": 10,
   "articles": [
+    {
+      "id": "9cbfd62b07bd",
+      "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
+      "summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness U.S. artificial intelligence capabilities to supercharge its military.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-12/",
+      "publishedAt": "2025-08-12T03:20:14Z",
+      "image": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
+      "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness U.S. artificial intelligence capabilities to supercharge its military.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
+      "id": "192f2531428f",
+      "title": "Musk says xAI to take legal action against Apple over App Store rankings",
+      "summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-says-xai-take-legal-action-against-apple-over-app-store-rankings-2025-08-12/",
+      "publishedAt": "2025-08-12T02:51:49Z",
+      "image": "https://www.reuters.com/resizer/v2/3WG5DKLR5RJK7AQYBG5YIDP4LA.jpg?auth=ecce4a9329cbddd4094b89a63e66695f8c60f0953e2ab5320b432231b47ebc40&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Musk says xAI to take legal action against Apple over App Store rankings",
+      "translated_summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "c39a8a329b56",
       "title": "Musk Accuses Apple of Antitrust Violation, Threatens Legal Action",
@@ -14,7 +42,7 @@
       "translated_summary": "Elon Musk says Apple is engaging in antitrust violations by allegedly making it impossible for any artificial intelligence company other than OpenAI to reach the No. 1 spot in its App Store rankings, calling it an unequivocal antitrust violation.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "9857c1eeafac",
@@ -28,7 +56,7 @@
       "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "95cf146a6b96",
@@ -42,7 +70,7 @@
       "translated_summary": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "e5e78f984b1f",
@@ -56,7 +84,7 @@
       "translated_summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss Nvidia’s and AMD’s agreement to pay 15% of their revenues from Chinese artificial intelligence chip sales to the US government. Analysts and investors react to the “unprecedented” deal. Plus, Intel CEO Lip-Bu Tan is set to meet with President Donald Trump, after the US leader called his resignation.  (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "2d3ea5c22048",
@@ -70,7 +98,7 @@
       "translated_summary": "Thomas Dohmke is leaving GitHub at the end of the year, closing a chapter that saw the Microsoft-owned platform double down on artificial intelligence and grow its global footprint, Axios said in an exclusive report. His next move? Going back to his roots as a founder. \"GitHub CEO Thomas Dohmke announced Monday that he plans",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "14ceb1a9287e",
@@ -84,7 +112,7 @@
       "translated_summary": "MARA Holdings Inc. has agreed to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "db1487e4fd91",
@@ -98,7 +126,7 @@
       "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness American artificial intelligence capabilities to supercharge its military.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "dcf72d5c3ce2",
@@ -112,34 +140,6 @@
       "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, banking on surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up about 3%.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "10小时前"
-    },
-    {
-      "id": "e296e6b3d1e8",
-      "title": "'Alien: Earth' star Timothy Olyphant: Scary AI tech is on our doorstep",
-      "summary": "Timothy Olyphant told UPI playing Kirsh on \"Alien: Earth\" made him realize just how fast artificial intelligence technology is advancing in the real world.",
-      "source": "UPI News",
-      "url": "https://www.upi.com/Entertainment_News/TV/2025/08/11/timothy-olyphant-alien-earth-interview/1691754780149/",
-      "publishedAt": "2025-08-11T16:00:00Z",
-      "image": "https://cdnph.upi.com/sv/ph/og/i/1691754780149/2025/1/17549211406939/v1.5/Alien-star-Timothy-Olyphant-Scary-AI-tech-is-on-our-doorstep.jpg",
-      "translated_title": "'Alien: Earth' star Timothy Olyphant: Scary AI tech is on our doorstep",
-      "translated_summary": "Timothy Olyphant told UPI playing Kirsh on \"Alien: Earth\" made him realize just how fast artificial intelligence technology is advancing in the real world.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "11小时前"
-    },
-    {
-      "id": "e55b95c01c59",
-      "title": "Medicare Update: Major Change Sparks Alarm from Lawmakers",
-      "summary": "The new model incorporates artificial intelligence to help make decisions and is being tested in six states beginning in January.",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/medicare-update-lawmakers-sound-alarm-about-major-change-program-2111784",
-      "publishedAt": "2025-08-11T15:41:13Z",
-      "image": "https://d.newsweek.com/en/full/2700353/suzan-delbene.jpg",
-      "translated_title": "Medicare Update: Major Change Sparks Alarm from Lawmakers",
-      "translated_summary": "The new model incorporates artificial intelligence to help make decisions and is being tested in six states beginning in January.",
-      "category": "技术突破",
-      "category_icon": "🚀",
       "time": "11小时前"
     }
   ]
