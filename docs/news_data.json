@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-11T23:22:25.806134",
+  "last_updated": "2025-08-12T01:57:45.218571",
   "total_count": 10,
   "articles": [
+    {
+      "id": "95cf146a6b96",
+      "title": "Cerence AI CEO explains how new tech can help drivers",
+      "summary": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/11/cerence-ai-ceo-explains-how-new-tech-can-help-drivers.html",
+      "publishedAt": "2025-08-11T23:37:05Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/102624225-_Y2A3585.JPG?v=1430169042&w=1920&h=1080",
+      "translated_title": "Cerence AI CEO explains how new tech can help drivers",
+      "translated_summary": "In a Monday interview with CNBC's Jim Cramer, Cerence AI CEO Brian Krzanich explained how new artificial intelligence technology can help automobile drivers.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "2小时前"
+    },
     {
       "id": "e5e78f984b1f",
       "title": "Nvidia, AMD AI Deal, Intel CEO to Meet Trump | Bloomberg Tech 8/11/2025",
@@ -14,7 +28,7 @@
       "translated_summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss Nvidia’s and AMD’s agreement to pay 15% of their revenues from Chinese artificial intelligence chip sales to the US government. Analysts and investors react to the “unprecedented” deal. Plus, Intel CEO Lip-Bu Tan is set to meet with President Donald Trump, after the US leader called his resignation.  (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "2d3ea5c22048",
@@ -28,7 +42,7 @@
       "translated_summary": "Thomas Dohmke is leaving GitHub at the end of the year, closing a chapter that saw the Microsoft-owned platform double down on artificial intelligence and grow its global footprint, Axios said in an exclusive report. His next move? Going back to his roots as a founder. \"GitHub CEO Thomas Dohmke announced Monday that he plans",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "14ceb1a9287e",
@@ -42,7 +56,7 @@
       "translated_summary": "MARA Holdings Inc. is in advanced talks to acquire a majority stake in Exaion from Electricite de France SA as the largest Bitcoin miner looks to extend its reach into artificial intelligence as an infrastructure provider, according to people familiar with the matter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "db1487e4fd91",
@@ -56,7 +70,7 @@
       "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness American artificial intelligence capabilities to supercharge its military.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "6小时前"
     },
     {
       "id": "dcf72d5c3ce2",
@@ -70,7 +84,7 @@
       "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, banking on surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up about 3%.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
+      "time": "9小时前"
     },
     {
       "id": "e296e6b3d1e8",
@@ -84,7 +98,7 @@
       "translated_summary": "Timothy Olyphant told UPI playing Kirsh on \"Alien: Earth\" made him realize just how fast artificial intelligence technology is advancing in the real world.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "9小时前"
     },
     {
       "id": "e55b95c01c59",
@@ -98,7 +112,7 @@
       "translated_summary": "The new model incorporates artificial intelligence to help make decisions and is being tested in six states beginning in January.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "10小时前"
     },
     {
       "id": "139d83bdbb40",
@@ -112,7 +126,7 @@
       "translated_summary": "Filmmakers, educators, and other entertainment industry professionals are reacting in alarm at a new Amazon-backed tool that will allow viewers to create their own TV shows using an artificial intelligence system called Showrunner.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "11小时前"
     },
     {
       "id": "4452c0f5a49a",
@@ -126,21 +140,7 @@
       "translated_summary": "Masayoshi Son is once again swinging for the fences. The billionaire founder of SoftBank believes his company will sit at the center of the next big shift in technology—a shift he says will arrive within a decade. For Son, the endgame is artificial superintelligence (ASI), a form of AI he describes as being “10,000 times",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "10小时前"
-    },
-    {
-      "id": "e6386590cd46",
-      "title": "Micron Technology raises quarterly results forecast on AI-driven demand",
-      "summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up 5% before the bell.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/micron-technology-raises-quarterly-results-forecast-ai-driven-demand-2025-08-11/",
-      "publishedAt": "2025-08-11T12:17:56Z",
-      "image": "https://www.reuters.com/resizer/v2/AAYGEAAVLFJSTMZJQG7NDKPHDA.jpg?auth=f79420cf90935826e27d612f74a186376512be3c9199c5f277dd813c14e31992&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Micron Technology raises quarterly results forecast on AI-driven demand",
-      "translated_summary": "Micron Technology on Monday raised its forecast for fourth-quarter revenue and adjusted profit, due to surging demand for its memory chips used in artificial intelligence infrastructure, sending its shares up 5% before the bell.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "11小时前"
+      "time": "12小时前"
     }
   ]
 }
