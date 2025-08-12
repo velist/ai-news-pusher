@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-12T09:27:52.622460",
+  "last_updated": "2025-08-12T10:26:37.527656",
   "total_count": 10,
   "articles": [
+    {
+      "id": "bac919cb2216",
+      "title": "Google Teams With NASA On AI 'Space Doctor' To Diagnose, Treat Astronauts On Moon, Mars Missions Where Real-Time Earth Contact Isn't Possible",
+      "summary": "Alphabet Inc. is collaborating with NASA to develop an artificial intelligence medical assistant designed to diagnose and treat astronauts.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/news/space/25/08/47053184/google-teams-with-nasa-on-ai-space-doctor-to-diagnose-treat-astronauts-on-moon-mars-missions-where-real-time-earth-contact-isnt-possible",
+      "publishedAt": "2025-08-12T10:08:00Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/12/Close-Up-Of-The-Google-Logo-Sign-On-The-.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Google Teams With NASA On AI 'Space Doctor' To Diagnose, Treat Astronauts On Moon, Mars Missions Where Real-Time Earth Contact Isn't Possible",
+      "translated_summary": "Alphabet Inc. is collaborating with NASA to develop an artificial intelligence medical assistant designed to diagnose and treat astronauts.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "18分钟前"
+    },
     {
       "id": "cdae0580213f",
       "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
@@ -14,7 +28,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "a0e200112652",
@@ -28,7 +42,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "de9a66e90a34",
@@ -42,7 +56,7 @@
       "translated_summary": "AMC CEO Adam Aron revealed that he has switched from Google to OpenAI's ChatGPT and discussed how artificial intelligence is transforming the company's operations, driving growth, and fueling future investments.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "a7a4a17d4b20",
@@ -56,7 +70,7 @@
       "translated_summary": "CoreWeave (CRWV), an artificial intelligence (AI)-powered cloud computing company, is set to release its second-quarter results after the market...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "cc4c4336d225",
@@ -70,7 +84,21 @@
       "translated_summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
+    },
+    {
+      "id": "e1acfd0650b1",
+      "title": "Elon Musk threatens to sue Apple over app store ranking of his xAI app",
+      "summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
+      "source": "Cable News Network",
+      "url": "https://edition.cnn.com/2025/08/12/tech/elon-musk-threat-sue-apple-xai-app-intl-hnk",
+      "publishedAt": "2025-08-12T04:00:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-05-13t150806z-1042401118-rc23heap82k4-rtrmadp-3-usa-trump-gulf-investment.JPG?c=16x9&q=w_800,c_fill",
+      "translated_title": "Elon Musk threatens to sue Apple over app store ranking of his xAI app",
+      "translated_summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "6小时前"
     },
     {
       "id": "9cbfd62b07bd",
@@ -84,7 +112,7 @@
       "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness U.S. artificial intelligence capabilities to supercharge its military.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "a797bed511b1",
@@ -98,7 +126,7 @@
       "translated_summary": "Wedbush analyst Daniel Ives outlined three steps that iPhone maker Apple (AAPL) needs to undertake to prove it is a serious artificial intellige...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "192f2531428f",
@@ -112,35 +140,7 @@
       "translated_summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "c39a8a329b56",
-      "title": "Musk Accuses Apple of Antitrust Violation, Threatens Legal Action",
-      "summary": "Elon Musk says Apple is engaging in antitrust violations by allegedly making it impossible for any artificial intelligence company other than OpenAI to reach the No. 1 spot in its App Store rankings, calling it an unequivocal antitrust violation.",
-      "source": "Newsmax",
-      "url": "https://www.newsmax.com/newsfront/elon-musk-apple-antitrust/2025/08/11/id/1222099/",
-      "publishedAt": "2025-08-12T01:57:59Z",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9f3e7def-eab1-4c04-a436-52ff9b736d2a&SiteName=Newsmax",
-      "translated_title": "Musk Accuses Apple of Antitrust Violation, Threatens Legal Action",
-      "translated_summary": "Elon Musk says Apple is engaging in antitrust violations by allegedly making it impossible for any artificial intelligence company other than OpenAI to reach the No. 1 spot in its App Store rankings, calling it an unequivocal antitrust violation.",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "7小时前"
-    },
-    {
-      "id": "9857c1eeafac",
-      "title": "Free AI training comes to California colleges - but at what cost?",
-      "summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/information-technology-artificial-intelligence-colleges-and-universities-alphabet-inc-california-bda897ddb2fa4317bc603e4b71943b7e",
-      "publishedAt": "2025-08-12T01:11:21Z",
-      "image": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "translated_title": "Free AI training comes to California colleges - but at what cost?",
-      "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will teach them to master the new technology.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "8小时前"
     }
   ]
 }
