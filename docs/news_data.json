@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-12T12:51:33.861230",
+  "last_updated": "2025-08-12T13:37:16.927226",
   "total_count": 10,
   "articles": [
+    {
+      "id": "6054ca7490c8",
+      "title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
+      "summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
+      "source": "WDIV ClickOnDetroit",
+      "url": "https://www.clickondetroit.com/business/2025/08/12/youtube-to-begin-testing-a-new-ai-powered-age-verification-system-in-the-us/",
+      "publishedAt": "2025-08-12T12:35:58Z",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4IMAN3THDJEIZDDN4CFH62PLOA.jpg?_a=DATAg1eAZAA0",
+      "translated_title": "YouTube to begin testing a new AI-powered age verification system in the U.S.",
+      "translated_summary": "YouTube is ready to start testing a new age-verification system in the U.S. using artificial intelligence to distinguish between adults and minors based on their viewing habits.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
+      "id": "f1ce061bda97",
+      "title": "Elon Musk: I'm Suing Apple",
+      "summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in...",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/373385/elon-musk-im-suing-apple.html",
+      "publishedAt": "2025-08-12T12:30:00Z",
+      "image": "https://img2-azrcdn.newser.com/image/1627603-12-20250812030002.jpeg",
+      "translated_title": "Elon Musk: I'm Suing Apple",
+      "translated_summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
+      "id": "24b4f36cc9fd",
+      "title": "India Tycoon Partners US Firm on $2 AI Email Rival to Outlook",
+      "summary": "Indian tech entrepreneur Bhavin Turakhia is partnering GoDaddy Inc. to offer his artificial intelligence-led email service — Titan — to tens of millions of new users in an enterprise market dominated by Microsoft Corp. and Alphabet Inc.’s Google.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-12/india-tycoon-partners-us-firm-on-2-ai-email-rival-to-outlook",
+      "publishedAt": "2025-08-12T12:30:00Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic.blf7XzT8w/v0/1200x801.jpg",
+      "translated_title": "India Tycoon Partners US Firm on $2 AI Email Rival to Outlook",
+      "translated_summary": "Indian tech entrepreneur Bhavin Turakhia is partnering GoDaddy Inc. to offer his artificial intelligence-led email service — Titan — to tens of millions of new users in an enterprise market dominated by Microsoft Corp. and Alphabet Inc.’s Google.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "f870537c95ba",
       "title": "CoreWeave Traders Emboldened by AI Spending Ahead of Earnings",
@@ -28,7 +70,7 @@
       "translated_summary": "Elon Musk plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "bac919cb2216",
@@ -42,7 +84,7 @@
       "translated_summary": "Alphabet Inc. is collaborating with NASA to develop an artificial intelligence medical assistant designed to diagnose and treat astronauts.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "192f2531428f",
@@ -56,7 +98,7 @@
       "translated_summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "2621c5ed75cb",
@@ -70,7 +112,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "cdae0580213f",
@@ -84,7 +126,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "a0e200112652",
@@ -96,48 +138,6 @@
       "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VCXE55YWKJF7JNCRKCPVVSACGM.jpg?_a=DATAg1eAZAA0",
       "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "de9a66e90a34",
-      "title": "AMC CEO Says He Has Personally Abandoned Google In Exchange For ChatGPT: Here's How The Company Is Using Artificial Intelligence",
-      "summary": "AMC CEO Adam Aron revealed that he has switched from Google to OpenAI's ChatGPT and discussed how artificial intelligence is transforming the company's operations, driving growth, and fueling future investments.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/25/08/47050126/amc-ceo-says-he-has-personally-abandoned-google-in-exchange-for-chatgpt-heres-how-the-company-is-using-artificial-intelligence",
-      "publishedAt": "2025-08-12T04:44:00Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/08/12/New-York-Ny-Usa-march-3--2021-The-Closed.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "AMC CEO Says He Has Personally Abandoned Google In Exchange For ChatGPT: Here's How The Company Is Using Artificial Intelligence",
-      "translated_summary": "AMC CEO Adam Aron revealed that he has switched from Google to OpenAI's ChatGPT and discussed how artificial intelligence is transforming the company's operations, driving growth, and fueling future investments.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "8小时前"
-    },
-    {
-      "id": "a7a4a17d4b20",
-      "title": "Let’s Look at Who Owns CoreWeave Stock (CRWV) Ahead of Q2 Earnings",
-      "summary": "CoreWeave (CRWV), an artificial intelligence (AI)-powered cloud computing company, is set to release its second-quarter results after the market...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/let-s-look-at-who-owns-coreweave-stock-crwv-ahead-of-q2-earnings-1035022906",
-      "publishedAt": "2025-08-12T04:02:59Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/crwv-ownership.jpg?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Let’s Look at Who Owns CoreWeave Stock (CRWV) Ahead of Q2 Earnings",
-      "translated_summary": "CoreWeave (CRWV), an artificial intelligence (AI)-powered cloud computing company, is set to release its second-quarter results after the market...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "e1acfd0650b1",
-      "title": "Elon Musk threatens to sue Apple over app store ranking of his xAI app",
-      "summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
-      "source": "Cable News Network",
-      "url": "https://edition.cnn.com/2025/08/12/tech/elon-musk-threat-sue-apple-xai-app-intl-hnk",
-      "publishedAt": "2025-08-12T04:00:00Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-05-13t150806z-1042401118-rc23heap82k4-rtrmadp-3-usa-trump-gulf-investment.JPG?c=16x9&q=w_800,c_fill",
-      "translated_title": "Elon Musk threatens to sue Apple over app store ranking of his xAI app",
-      "translated_summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "8小时前"
