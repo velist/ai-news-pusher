@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-12T11:21:04.064365",
+  "last_updated": "2025-08-12T12:51:33.861230",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f870537c95ba",
+      "title": "CoreWeave Traders Emboldened by AI Spending Ahead of Earnings",
+      "summary": "The race to build computing capacity for artificial intelligence is reviving bullish bets on one of Wall Street’s most contentious stocks: CoreWeave Inc.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-12/coreweave-traders-emboldened-by-ai-spending-ahead-of-earnings",
+      "publishedAt": "2025-08-12T10:50:17Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJPW4hjYF0MA/v1/1200x800.jpg",
+      "translated_title": "CoreWeave Traders Emboldened by AI Spending Ahead of Earnings",
+      "translated_summary": "The race to build computing capacity for artificial intelligence is reviving bullish bets on one of Wall Street’s most contentious stocks: CoreWeave Inc.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
+    },
     {
       "id": "0da55cc3a627",
       "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
@@ -14,7 +28,7 @@
       "translated_summary": "Elon Musk plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "59分钟前"
+      "time": "2小时前"
     },
     {
       "id": "bac919cb2216",
@@ -28,7 +42,35 @@
       "translated_summary": "Alphabet Inc. is collaborating with NASA to develop an artificial intelligence medical assistant designed to diagnose and treat astronauts.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
+    },
+    {
+      "id": "192f2531428f",
+      "title": "Musk says xAI to take legal action against Apple over App Store rankings",
+      "summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-says-xai-take-legal-action-against-apple-over-app-store-rankings-2025-08-12/",
+      "publishedAt": "2025-08-12T09:19:15Z",
+      "image": "https://www.reuters.com/resizer/v2/CZT2RE5S45PSHEYANOMQ27YF4Q.jpg?auth=6c2100a88f84d056403488f6855bf77a24221f3b1dd5ace10e473b2673dbc18c&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Musk says xAI to take legal action against Apple over App Store rankings",
+      "translated_summary": "Billionaire Elon Musk said on Monday his artificial intelligence startup xAI would take legal action against Apple , accusing the iPhone maker of breaching antitrust regulations in managing the App Store rankings.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "3小时前"
+    },
+    {
+      "id": "2621c5ed75cb",
+      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+      "source": "The Associated Press",
+      "url": "https://apnews.com/article/musk-apple-twitter-lawsuit-antitrust-app-c60e3690d2e232e0cd0c41cbe86f66be",
+      "publishedAt": "2025-08-12T09:16:56Z",
+      "image": "https://dims.apnews.com/dims4/default/32823a6/2147483647/strip/true/crop/7681x4321+0+400/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9a%2F95%2F2d45a1779cc63a588d5a2f4abd68%2F75024abe5e4645f495e49bc95ea27402",
+      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "3小时前"
     },
     {
       "id": "cdae0580213f",
@@ -42,7 +84,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "a0e200112652",
@@ -56,7 +98,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "de9a66e90a34",
@@ -70,7 +112,7 @@
       "translated_summary": "AMC CEO Adam Aron revealed that he has switched from Google to OpenAI's ChatGPT and discussed how artificial intelligence is transforming the company's operations, driving growth, and fueling future investments.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "a7a4a17d4b20",
@@ -84,21 +126,7 @@
       "translated_summary": "CoreWeave (CRWV), an artificial intelligence (AI)-powered cloud computing company, is set to release its second-quarter results after the market...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "cc4c4336d225",
-      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-      "summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/08/12/business/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
-      "publishedAt": "2025-08-12T04:00:00Z",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/6KFEJJ7ROOOMQBSHAO5S6Q5FLM.jpg?auth=7cc520efd6799b789838d48e6411044c051147b2ccd686aabb7c4c8d3e29f1f6&width=1440",
-      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-      "translated_summary": "Billionaire SpaceX, Tesla, and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "e1acfd0650b1",
@@ -110,34 +138,6 @@
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-05-13t150806z-1042401118-rc23heap82k4-rtrmadp-3-usa-trump-gulf-investment.JPG?c=16x9&q=w_800,c_fill",
       "translated_title": "Elon Musk threatens to sue Apple over app store ranking of his xAI app",
       "translated_summary": "Elon Musk said his artificial intelligence start up xAI will sue Apple for allegedly favoring AI competitors in its App Store in what he called a breach of antitrust regulations.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "9cbfd62b07bd",
-      "title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
-      "summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness U.S. artificial intelligence capabilities to supercharge its military.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-opens-door-sales-version-nvidias-next-gen-ai-chips-china-2025-08-12/",
-      "publishedAt": "2025-08-12T03:20:14Z",
-      "image": "https://www.reuters.com/resizer/v2/ZET5WGUIBJMRFKFK6AS53T43JQ.jpg?auth=f84cf82e028969a3dd513e1e76df724c30362023b8ff073a4ee0b98a3154fecc&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Trump opens door to sales of version of Nvidia's next-gen AI chips in China",
-      "translated_summary": "U.S. President Donald Trump on Monday suggested he might allow Nvidia to sell a scaled-down version of its next-generation advanced GPU chip in China, despite deep-seated fears in Washington that China could harness U.S. artificial intelligence capabilities to supercharge its military.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "a797bed511b1",
-      "title": "Apple ‘Is a Serious AI Player,’ Says Daniel Ives as He Outlines 3 Steps",
-      "summary": "Wedbush analyst Daniel Ives outlined three steps that iPhone maker Apple (AAPL) needs to undertake to prove it is a serious artificial intellige...",
-      "source": "Business Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/apple-is-a-serious-ai-player-says-daniel-ives-as-he-outlines-3-steps-1035019813",
-      "publishedAt": "2025-08-12T03:12:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-636.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Apple ‘Is a Serious AI Player,’ Says Daniel Ives as He Outlines 3 Steps",
-      "translated_summary": "Wedbush analyst Daniel Ives outlined three steps that iPhone maker Apple (AAPL) needs to undertake to prove it is a serious artificial intellige...",
       "category": "热门",
       "category_icon": "🔥",
       "time": "8小时前"
