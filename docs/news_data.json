@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-13T09:27:38.488601",
+  "last_updated": "2025-08-13T10:27:16.693706",
   "total_count": 10,
   "articles": [
+    {
+      "id": "b0b5f070324b",
+      "title": "Companies Are Pouring Billions Into A.I. It Has Yet to Pay Off.",
+      "summary": "Corporate spending on artificial intelligence is surging as executives bank on major efficiency gains. So far, they report little effect to the bottom line.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/13/business/ai-business-payoff-lags.html",
+      "publishedAt": "2025-08-13T09:01:01Z",
+      "image": "https://static01.nyt.com/images/2025/08/12/business/00biz-ai-lag/00biz-ai-lag-facebookJumbo.jpg",
+      "translated_title": "Companies Are Pouring Billions Into A.I. It Has Yet to Pay Off.",
+      "translated_summary": "Corporate spending on artificial intelligence is surging as executives bank on major efficiency gains. So far, they report little effect to the bottom line.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "78c51bf90a5b",
       "title": "AI Chipmaker Iluvatar CoreX Is Said to Mull Hong Kong IPO",
@@ -14,7 +28,7 @@
       "translated_summary": "Iluvatar CoreX is considering an initial public offering in Hong Kong, as investor interest in Chinese artificial intelligence chipmakers builds with Beijing discouraging local firms from using Nvidia Corp. processors.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "bda7dac7af01",
@@ -42,7 +56,21 @@
       "translated_summary": "Neurotic, anxious robots like C-3P0 from Star Wars' C-3P0 and Marvin from The Hitchhiker's Guide to the Galaxy are a staple of science fiction — but they're not as common in the real world. Most of the time, the chatbots and artificial intelligence \"robots\" we encounter are programmed to be extraverted, confident and cheerful. But what if that changed?NPR science correspondent Nell Greenfieldboyce dives into the world of robot personality research and talks to a team of researchers that are experimenting with a very different kind of robot temperament.Read more of Nell's reporting on the topic here.Interested in more science news? Let us know at shortwave@npr.org. Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.Love podcasts? For handpicked recommendations every Friday, subscribe to NPR's Pod Club.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "ce1be8f500dc",
+      "title": "Artificial Intelligence Stocks To Watch Now - August 10th",
+      "summary": "Read Artificial Intelligence Stocks To Watch Now – August 10th at ETF Daily News",
+      "source": "ETF Daily News",
+      "url": "https://www.etfdailynews.com/2025/08/13/artificial-intelligence-stocks-to-watch-now-august-10th/",
+      "publishedAt": "2025-08-13T05:48:48Z",
+      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/soundhound-ai-inc-logo-1200x675.png?v=20220503111149&w=240&h=240&zc=2",
+      "translated_title": "Artificial Intelligence Stocks To Watch Now - August 10th",
+      "translated_summary": "Read Artificial Intelligence Stocks To Watch Now – August 10th at ETF Daily News",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "4小时前"
     },
     {
       "id": "dce31b4b59e6",
@@ -56,7 +84,7 @@
       "translated_summary": "Microsoft is aggressively targeting top AI talent from Meta by offering multimillion-dollar bonuses amid a $240 billion industry-wide surge in AI spending, intensifying the battle for supremacy in artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "2c2d580dd23a",
@@ -70,7 +98,7 @@
       "translated_summary": "Taiwanese shares neared a record high, buoyed by a strong outlook for artificial intelligence and exemption from some US tariffs for major chip makers.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "35ac48f67537",
@@ -84,7 +112,7 @@
       "translated_summary": "There are new concerns around how artificial intelligence might be used to set prices for products, such as airfare. It comes after Delta Airlines announced it was using AI to help adjust prices on some of its flights. Tim McPhillips takes a look at how to approach buying tickets and how all consumers can help guard themselves against AI-driven custom pricing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "e379b9ca4fcf",
@@ -98,7 +126,7 @@
       "translated_summary": "Meta has brought on right-wing influencer Robby Starbuck to join an internal board purportedly focused on rooting out bias from its artificial intelligence models.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "970ae04de484",
@@ -112,35 +140,7 @@
       "translated_summary": "As employers and tech companies rush to deploy artificial intelligence software into workplaces to improve efficiency, labor unions are stepping up work with state lawmakers across the nation to restrict its use.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "16f14b6b31f3",
-      "title": "CoreWeave revenue beats estimates on AI boom but shares fall on bigger loss",
-      "summary": "CoreWeave easily topped quarterly revenue estimates on Tuesday as the rapid adoption of artificial intelligence tools boosted demand for its cloud services, but a bigger-than-expected net loss sent its shares slumping 10% after the bell.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/coreweave-revenue-beats-estimates-ai-boom-shares-fall-bigger-loss-2025-08-12/",
-      "publishedAt": "2025-08-12T20:11:38Z",
-      "image": "https://www.reuters.com/resizer/v2/23EK2RGK3VKUFNUVG775DCKJNQ.jpg?auth=5129199b5074de6d43da0adfc6bac935091319ee5510daecb5deae8e88986ac3&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "CoreWeave revenue beats estimates on AI boom but shares fall on bigger loss",
-      "translated_summary": "CoreWeave easily topped quarterly revenue estimates on Tuesday as the rapid adoption of artificial intelligence tools boosted demand for its cloud services, but a bigger-than-expected net loss sent its shares slumping 10% after the bell.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "63b02179748e",
-      "title": "YouTube to test AI-powered age verification system for US users",
-      "summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/12/tech/youtube-to-test-ai-powered-age-verification-system-for-us-users/",
-      "publishedAt": "2025-08-12T19:43:06Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109515656.jpg?quality=75&strip=all&w=1024",
-      "translated_title": "YouTube to test AI-powered age verification system for US users",
-      "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     }
   ]
 }
