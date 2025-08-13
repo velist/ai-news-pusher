@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-13T02:00:02.866536",
+  "last_updated": "2025-08-13T03:24:22.453725",
   "total_count": 10,
   "articles": [
+    {
+      "id": "dce31b4b59e6",
+      "title": "Microsoft Lures Meta's Talent Pool With Multimillion-Dollar Pay Packages As The AI War Heats Up: Report",
+      "summary": "Microsoft is aggressively targeting top AI talent from Meta by offering multimillion-dollar bonuses amid a $240 billion industry-wide surge in AI spending, intensifying the battle for supremacy in artificial intelligence.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/25/08/47080585/microsoft-lures-metas-talent-pool-with-multimillion-dollar-pay-packages-as-the-ai-war-heats-up-report",
+      "publishedAt": "2025-08-13T02:39:08Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/12/New-York--Ny--Usa---July-5--2022-Microso.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Microsoft Lures Meta's Talent Pool With Multimillion-Dollar Pay Packages As The AI War Heats Up: Report",
+      "translated_summary": "Microsoft is aggressively targeting top AI talent from Meta by offering multimillion-dollar bonuses amid a $240 billion industry-wide surge in AI spending, intensifying the battle for supremacy in artificial intelligence.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "45分钟前"
+    },
     {
       "id": "e379b9ca4fcf",
       "title": "Meta and Mark Zuckerberg tap MAGA influencer as AI ‘bias’ adviser",
@@ -14,7 +28,7 @@
       "translated_summary": "Meta has brought on right-wing influencer Robby Starbuck to join an internal board purportedly focused on rooting out bias from its artificial intelligence models.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "970ae04de484",
@@ -28,7 +42,7 @@
       "translated_summary": "As employers and tech companies rush to deploy artificial intelligence software into workplaces to improve efficiency, labor unions are stepping up work with state lawmakers across the nation to restrict its use.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "7693ee8760da",
@@ -42,7 +56,7 @@
       "translated_summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "16f14b6b31f3",
@@ -56,7 +70,7 @@
       "translated_summary": "CoreWeave easily topped quarterly revenue estimates on Tuesday as the rapid adoption of artificial intelligence tools boosted demand for its cloud services, but a bigger-than-expected net loss sent its shares slumping 10% after the bell.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "63b02179748e",
@@ -70,7 +84,7 @@
       "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "5e26177d484a",
@@ -84,7 +98,7 @@
       "translated_summary": "Cook County Circuit Judge William Sullivan sanctioned attorney Danielle Malaty with a fine of $10 on July 16 for her improper use of artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "18ed44df25c5",
@@ -98,7 +112,7 @@
       "translated_summary": "Green firms in the US have found something of a lifeline in artificial intelligence after being bogged down by high interest rates, shrinking funding and, more recently, President Donald Trump’s sharp rollback of support. Clean technology companies that have inked deals to support data centers have seen their stocks soar this year, outperforming the S&P 500.. Even as some clean energy firms struggle to convince investors that they can thrive during Trump’s second term, the AI-driven surge in electric demand — the most in decades — is providing clear tailwinds for others.  KR Sridhar, Bloom Energy, founder and CEO tells Bloomberg Businessweek Daily says AI will drive the need for energy, including fuel cells. (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "258abe91b9ec",
@@ -112,7 +126,7 @@
       "translated_summary": "Monica Barbaro and Yura Borisov are among those on the call sheet of the Amazon MGM feature Artificial",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "9小时前"
     },
     {
       "id": "de1acd98e11f",
@@ -126,21 +140,7 @@
       "translated_summary": "More than 16,500 have applied to the free NY community college program for adult students interested in high-demand fields like artificial intelligence and nursing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "dc587cb6cda1",
-      "title": "India’s First AI Unicorn Fractal Files for $560 Million IPO",
-      "summary": "Fractal Analytics, a provider of artificial intelligence and analytics services, filed for an initial public offering in Mumbai that could value the company at more than $3.5 billion.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-12/india-s-first-ai-unicorn-fractal-files-for-560-million-ipo",
-      "publishedAt": "2025-08-12T17:41:50Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iM5EYXfkcEFI/v0/1200x800.jpg",
-      "translated_title": "India’s First AI Unicorn Fractal Files for $560 Million IPO",
-      "translated_summary": "Fractal Analytics, a provider of artificial intelligence and analytics services, filed for an initial public offering in Mumbai that could value the company at more than $3.5 billion.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     }
   ]
 }
