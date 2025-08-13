@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-13T06:37:02.210200",
+  "last_updated": "2025-08-13T07:25:11.305955",
   "total_count": 10,
   "articles": [
+    {
+      "id": "b15696048442",
+      "title": "Short Wave : NPR",
+      "summary": "Neurotic, anxious robots like C-3P0 from Star Wars' C-3P0 and Marvin from The Hitchhiker's Guide to the Galaxy are a staple of science fiction — but they're not as common in the real world. Most of the time, the chatbots and artificial intelligence \"robots\" we encounter are programmed to be extraverted, confident and cheerful. But what if that changed?NPR science correspondent Nell Greenfieldboyce dives into the world of robot personality research and talks to a team of researchers that are experimenting with a very different kind of robot temperament.Read more of Nell's reporting on the topic here.Interested in more science news? Let us know at shortwave@npr.org. Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.Love podcasts? For handpicked recommendations every Friday, subscribe to NPR's Pod Club.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2025/08/13/nx-s1-5498601/ai-robot-chatgpt-human-personality",
+      "publishedAt": "2025-08-13T07:00:00Z",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F40%2F37960aca436aa86ef6af8cca1427%2Ffacb5e32-9f3a-44ab-b4b8-9bce6d5f0a0a.jpg",
+      "translated_title": "Short Wave : NPR",
+      "translated_summary": "Neurotic, anxious robots like C-3P0 from Star Wars' C-3P0 and Marvin from The Hitchhiker's Guide to the Galaxy are a staple of science fiction — but they're not as common in the real world. Most of the time, the chatbots and artificial intelligence \"robots\" we encounter are programmed to be extraverted, confident and cheerful. But what if that changed?NPR science correspondent Nell Greenfieldboyce dives into the world of robot personality research and talks to a team of researchers that are experimenting with a very different kind of robot temperament.Read more of Nell's reporting on the topic here.Interested in more science news? Let us know at shortwave@npr.org. Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.Love podcasts? For handpicked recommendations every Friday, subscribe to NPR's Pod Club.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "25分钟前"
+    },
     {
       "id": "dce31b4b59e6",
       "title": "Microsoft Lures Meta's Talent Pool With Multimillion-Dollar Pay Packages As The AI War Heats Up: Report",
@@ -14,7 +28,7 @@
       "translated_summary": "Microsoft is aggressively targeting top AI talent from Meta by offering multimillion-dollar bonuses amid a $240 billion industry-wide surge in AI spending, intensifying the battle for supremacy in artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "35ac48f67537",
@@ -42,7 +56,7 @@
       "translated_summary": "Meta has brought on right-wing influencer Robby Starbuck to join an internal board purportedly focused on rooting out bias from its artificial intelligence models.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "970ae04de484",
@@ -70,7 +84,7 @@
       "translated_summary": "CoreWeave easily topped quarterly revenue estimates on Tuesday as the rapid adoption of artificial intelligence tools boosted demand for its cloud services, but a bigger-than-expected net loss sent its shares slumping 10% after the bell.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "63b02179748e",
@@ -84,7 +98,7 @@
       "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "5e26177d484a",
@@ -126,21 +140,7 @@
       "translated_summary": "Monica Barbaro and Yura Borisov are among those on the call sheet of the Amazon MGM feature Artificial",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "12小时前"
-    },
-    {
-      "id": "de1acd98e11f",
-      "title": "NY's free community college program for adult students drawing upwards of 16,000 applicants",
-      "summary": "More than 16,500 have applied to the free NY community college program for adult students interested in high-demand fields like artificial intelligence and nursing.",
-      "source": "New York Daily News",
-      "url": "https://www.nydailynews.com/2025/08/12/nys-free-community-college-program-for-adult-students-drawing-upwards-of-16000-applicants/",
-      "publishedAt": "2025-08-12T17:49:38Z",
-      "image": "https://www.nydailynews.com/wp-content/uploads/2025/08/54716542481_a3813353f2_k.jpg?w=1024&h=683",
-      "translated_title": "NY's free community college program for adult students drawing upwards of 16,000 applicants",
-      "translated_summary": "More than 16,500 have applied to the free NY community college program for adult students interested in high-demand fields like artificial intelligence and nursing.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     }
   ]
 }
