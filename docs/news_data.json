@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-13T16:26:39.227879",
+  "last_updated": "2025-08-13T17:19:12.792575",
   "total_count": 10,
   "articles": [
+    {
+      "id": "3cc50a397e6f",
+      "title": "YouTube will start using AI to guess your age. If it’s wrong, you’ll have to prove it",
+      "summary": "YouTube will begin guessing users’ ages using artificial intelligence on Wednesday, as part of an effort to prevent kids from accessing inappropriate content online.",
+      "source": "Cable News Network",
+      "url": "https://edition.cnn.com/2025/08/13/tech/youtube-ai-age-verification",
+      "publishedAt": "2025-08-13T17:11:15Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2216340217.jpg?c=16x9&q=w_800,c_fill",
+      "translated_title": "YouTube will start using AI to guess your age. If it’s wrong, you’ll have to prove it",
+      "translated_summary": "YouTube will begin guessing users’ ages using artificial intelligence on Wednesday, as part of an effort to prevent kids from accessing inappropriate content online.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7分钟前"
+    },
+    {
+      "id": "6a9ae32e44f2",
+      "title": "What happens when chatbots shape your reality? Concerns are growing online",
+      "summary": "As people turn to chatbots for increasingly important and intimate advice, some interactions playing out in public are causing alarm over just how much artificial intelligence can warp a user’s sense of reality",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/ai-chatbots-concerns-kendra-tiktok-saga-rcna224185",
+      "publishedAt": "2025-08-13T17:00:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250811-kendra-psychiatrist-tiktok-chatgpt-cs-cb43ff.jpg",
+      "translated_title": "What happens when chatbots shape your reality? Concerns are growing online",
+      "translated_summary": "As people turn to chatbots for increasingly important and intimate advice, some interactions playing out in public are causing alarm over just how much artificial intelligence can warp a user’s sense of reality",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "19分钟前"
+    },
+    {
+      "id": "2658002443e0",
+      "title": "AI helps astronomers make a potentially major find - an exploding star being attacked by a black hole",
+      "summary": "Artificial intelligence helps astronomers observe what may be the first known case of a star exploding while interacting with a black hole.",
+      "source": "Space.com",
+      "url": "https://www.space.com/technology/ai-helps-astronomers-make-a-potentially-major-find-an-exploding-star-being-attacked-by-a-black-hole",
+      "publishedAt": "2025-08-13T17:00:00Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/XSdXQn4KYNitBi7EvKy3K4.jpg",
+      "translated_title": "AI helps astronomers make a potentially major find - an exploding star being attacked by a black hole",
+      "translated_summary": "Artificial intelligence helps astronomers observe what may be the first known case of a star exploding while interacting with a black hole.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "19分钟前"
+    },
     {
       "id": "ede82c25d3b7",
       "title": "Cisco earnings are out Wednesday. What top analysts expect to see",
@@ -14,7 +56,7 @@
       "translated_summary": "Cisco shares are up more than 20% year to date, largely driven by enthusiasm pouring into artificial intelligence infrastructure and cybersecurity demand.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14分钟前"
+      "time": "1小时前"
     },
     {
       "id": "276047602abe",
@@ -28,7 +70,7 @@
       "translated_summary": "Ethereum (CRYPTO: ETH) could be the most significant macro investment opportunity over the next decade, according to Fundstrat co-founder Tom Lee, who points to the convergence of artificial intelligence, tokenization, and Wall Street's",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "18分钟前"
+      "time": "1小时前"
     },
     {
       "id": "5889deb4d779",
@@ -42,7 +84,7 @@
       "translated_summary": "In the race to supply the hardware behind artificial intelligence, few names have risen as quickly as Rivos. The Santa Clara startup, best known for its RISC-V-based server chips, pulled in $250 million just a year ago. Now it’s aiming much higher, with plans to raise between $400 million and $500 million in fresh capital,",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "27分钟前"
+      "time": "1小时前"
     },
     {
       "id": "30cf38ba600c",
@@ -56,7 +98,7 @@
       "translated_summary": "CoreWeave's stock dropped about 14% after the renter of artificial intelligence data centers reported a bigger-than-expected loss.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "1d6947d94c6c",
@@ -73,20 +115,6 @@
       "time": "3小时前"
     },
     {
-      "id": "2dbd5069bfe0",
-      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-      "summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "source": "Live 5 News WCSC",
-      "url": "https://www.live5news.com/2025/08/13/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
-      "publishedAt": "2025-08-13T11:09:30Z",
-      "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/GF7KGX3Q3ZG3PG2LUA2BL3DPDQ.jpg?auth=ea6778c52fa648e47f8646c703874357befcd8cbacee29f6707c552816f6e833&width=1200&height=600&smart=true",
-      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
-      "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
       "id": "f17cc20aa7f1",
       "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
       "summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
@@ -98,7 +126,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "e7b7a7d0ff6a",
@@ -112,35 +140,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "b0b5f070324b",
-      "title": "Companies Are Pouring Billions Into A.I. It Has Yet to Pay Off.",
-      "summary": "Corporate spending on artificial intelligence is surging as executives bank on major efficiency gains. So far, they report little effect to the bottom line.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/08/13/business/ai-business-payoff-lags.html",
-      "publishedAt": "2025-08-13T09:01:01Z",
-      "image": "https://static01.nyt.com/images/2025/08/12/business/00biz-ai-lag/00biz-ai-lag-facebookJumbo.jpg",
-      "translated_title": "Companies Are Pouring Billions Into A.I. It Has Yet to Pay Off.",
-      "translated_summary": "Corporate spending on artificial intelligence is surging as executives bank on major efficiency gains. So far, they report little effect to the bottom line.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "9a434a228c08",
-      "title": "Tencent Plans Cautious AI Spending After Results Beat Estimates",
-      "summary": "Tencent Holdings Ltd. promised prudence in AI spending despite faster-than-anticipated growth across its gaming and advertising businesses, suggesting China’s most valuable company intends to adopt a more measured approach to artificial intelligence development than many of its global rivals.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-13/tencent-s-revenue-beats-estimates-in-boost-for-ai-ambitions",
-      "publishedAt": "2025-08-13T08:33:33Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7o5IB0TDAHs/v1/1200x800.jpg",
-      "translated_title": "Tencent Plans Cautious AI Spending After Results Beat Estimates",
-      "translated_summary": "Tencent Holdings Ltd. promised prudence in AI spending despite faster-than-anticipated growth across its gaming and advertising businesses, suggesting China’s most valuable company intends to adopt a more measured approach to artificial intelligence development than many of its global rivals.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "6小时前"
     }
   ]
 }
