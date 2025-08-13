@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-13T15:23:25.225889",
+  "last_updated": "2025-08-13T16:26:39.227879",
   "total_count": 10,
   "articles": [
+    {
+      "id": "ede82c25d3b7",
+      "title": "Cisco earnings are out Wednesday. What top analysts expect to see",
+      "summary": "Cisco shares are up more than 20% year to date, largely driven by enthusiasm pouring into artificial intelligence infrastructure and cybersecurity demand.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/13/cisco-earnings-are-out-wednesday-heres-what-top-analysts-expect-to-see.html",
+      "publishedAt": "2025-08-13T16:12:37Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/107373934-1707951626069-gettyimages-1999041241-js2_9788_fus9e4e4.jpeg?v=1755024725&w=1920&h=1080",
+      "translated_title": "Cisco earnings are out Wednesday. What top analysts expect to see",
+      "translated_summary": "Cisco shares are up more than 20% year to date, largely driven by enthusiasm pouring into artificial intelligence infrastructure and cybersecurity demand.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "14分钟前"
+    },
+    {
+      "id": "276047602abe",
+      "title": "Tom Lee: Ethereum Is 'The Biggest Macro Trade' For The Next 10-15 Years",
+      "summary": "Ethereum (CRYPTO: ETH) could be the most significant macro investment opportunity over the next decade, according to Fundstrat co-founder Tom Lee, who points to the convergence of artificial intelligence, tokenization, and Wall Street's",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/25/08/47097463/tom-lee-ethereum-is-the-biggest-macro-trade-for-the-next-10-15-years",
+      "publishedAt": "2025-08-13T16:08:12Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/13/Ethereum-Coin.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Tom Lee: Ethereum Is 'The Biggest Macro Trade' For The Next 10-15 Years",
+      "translated_summary": "Ethereum (CRYPTO: ETH) could be the most significant macro investment opportunity over the next decade, according to Fundstrat co-founder Tom Lee, who points to the convergence of artificial intelligence, tokenization, and Wall Street's",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "18分钟前"
+    },
+    {
+      "id": "5889deb4d779",
+      "title": "AI chip startup Rivos seeks up to $500 million in funding to take on Nvidia",
+      "summary": "In the race to supply the hardware behind artificial intelligence, few names have risen as quickly as Rivos. The Santa Clara startup, best known for its RISC-V-based server chips, pulled in $250 million just a year ago. Now it’s aiming much higher, with plans to raise between $400 million and $500 million in fresh capital,",
+      "source": "TechStartups.com",
+      "url": "https://techstartups.com/2025/08/13/ai-chip-startup-rivos-seeks-up-to-500-million-in-funding-to-take-on-nvidia/",
+      "publishedAt": "2025-08-13T15:59:10Z",
+      "image": "https://techstartups.com/wp-content/uploads/2025/08/Rivos-Team.jpg",
+      "translated_title": "AI chip startup Rivos seeks up to $500 million in funding to take on Nvidia",
+      "translated_summary": "In the race to supply the hardware behind artificial intelligence, few names have risen as quickly as Rivos. The Santa Clara startup, best known for its RISC-V-based server chips, pulled in $250 million just a year ago. Now it’s aiming much higher, with plans to raise between $400 million and $500 million in fresh capital,",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "27分钟前"
+    },
     {
       "id": "30cf38ba600c",
       "title": "CoreWeave drops 14% on wider-than-expected loss ahead of lockup expiry",
@@ -14,7 +56,7 @@
       "translated_summary": "CoreWeave's stock dropped about 14% after the renter of artificial intelligence data centers reported a bigger-than-expected loss.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "48分钟前"
+      "time": "1小时前"
     },
     {
       "id": "1d6947d94c6c",
@@ -28,7 +70,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "2dbd5069bfe0",
@@ -42,7 +84,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "f17cc20aa7f1",
@@ -56,7 +98,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "e7b7a7d0ff6a",
@@ -70,7 +112,7 @@
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "b0b5f070324b",
@@ -84,7 +126,7 @@
       "translated_summary": "Corporate spending on artificial intelligence is surging as executives bank on major efficiency gains. So far, they report little effect to the bottom line.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "9a434a228c08",
@@ -98,49 +140,7 @@
       "translated_summary": "Tencent Holdings Ltd. promised prudence in AI spending despite faster-than-anticipated growth across its gaming and advertising businesses, suggesting China’s most valuable company intends to adopt a more measured approach to artificial intelligence development than many of its global rivals.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "78c51bf90a5b",
-      "title": "AI Chipmaker Iluvatar CoreX Is Said to Mull Hong Kong IPO",
-      "summary": "Iluvatar CoreX is considering an initial public offering in Hong Kong, as investor interest in Chinese artificial intelligence chipmakers builds with Beijing discouraging local firms from using Nvidia Corp. processors.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-13/ai-chipmaker-iluvatar-corex-is-said-to-mull-hong-kong-ipo",
-      "publishedAt": "2025-08-13T08:07:21Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDKpPdM.kYao/v1/1200x800.jpg",
-      "translated_title": "AI Chipmaker Iluvatar CoreX Is Said to Mull Hong Kong IPO",
-      "translated_summary": "Iluvatar CoreX is considering an initial public offering in Hong Kong, as investor interest in Chinese artificial intelligence chipmakers builds with Beijing discouraging local firms from using Nvidia Corp. processors.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "7小时前"
-    },
-    {
-      "id": "bda7dac7af01",
-      "title": "Presight CEO: AI Era is Here to Stay",
-      "summary": "Presight has reported record 1H growth as revenue surpassed AED 1 billion. The Abu Dhabi based AI company also said 2Q revenue and net profit rose, fueled by its acquisition of AIQ, a firm specializing in artificial intelligence solutions for the energy industry. Presight CEO, Thomas Pramotedham spoke to Bloomberg's Lizzy Burden on Horizons Middle East and Africa on their international acquisitions as well as use of AI in oilfields. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-13/presight-ceo-ai-era-is-here-to-stay-video",
-      "publishedAt": "2025-08-13T07:27:25Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie0TJ_Ujw0yw/v3/-1x-1.jpg",
-      "translated_title": "Presight CEO: AI Era is Here to Stay",
-      "translated_summary": "Presight has reported record 1H growth as revenue surpassed AED 1 billion. The Abu Dhabi based AI company also said 2Q revenue and net profit rose, fueled by its acquisition of AIQ, a firm specializing in artificial intelligence solutions for the energy industry. Presight CEO, Thomas Pramotedham spoke to Bloomberg's Lizzy Burden on Horizons Middle East and Africa on their international acquisitions as well as use of AI in oilfields. (Source: Bloomberg)",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "b15696048442",
-      "title": "Short Wave : NPR",
-      "summary": "Neurotic, anxious robots like C-3P0 from Star Wars' C-3P0 and Marvin from The Hitchhiker's Guide to the Galaxy are a staple of science fiction — but they're not as common in the real world. Most of the time, the chatbots and artificial intelligence \"robots\" we encounter are programmed to be extraverted, confident and cheerful. But what if that changed?NPR science correspondent Nell Greenfieldboyce dives into the world of robot personality research and talks to a team of researchers that are experimenting with a very different kind of robot temperament.Read more of Nell's reporting on the topic here.Interested in more science news? Let us know at shortwave@npr.org. Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.Love podcasts? For handpicked recommendations every Friday, subscribe to NPR's Pod Club.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2025/08/13/nx-s1-5498601/ai-robot-chatgpt-human-personality",
-      "publishedAt": "2025-08-13T07:00:00Z",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F40%2F37960aca436aa86ef6af8cca1427%2Ffacb5e32-9f3a-44ab-b4b8-9bce6d5f0a0a.jpg",
-      "translated_title": "Short Wave : NPR",
-      "translated_summary": "Neurotic, anxious robots like C-3P0 from Star Wars' C-3P0 and Marvin from The Hitchhiker's Guide to the Galaxy are a staple of science fiction — but they're not as common in the real world. Most of the time, the chatbots and artificial intelligence \"robots\" we encounter are programmed to be extraverted, confident and cheerful. But what if that changed?NPR science correspondent Nell Greenfieldboyce dives into the world of robot personality research and talks to a team of researchers that are experimenting with a very different kind of robot temperament.Read more of Nell's reporting on the topic here.Interested in more science news? Let us know at shortwave@npr.org. Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.Love podcasts? For handpicked recommendations every Friday, subscribe to NPR's Pod Club.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "8小时前"
     }
   ]
 }
