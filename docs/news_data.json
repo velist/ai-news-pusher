@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-13T10:27:16.693706",
+  "last_updated": "2025-08-13T11:21:41.062830",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e7b7a7d0ff6a",
+      "title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+      "source": "WEAU",
+      "url": "https://www.weau.com/2025/08/13/musk-says-he-plans-sue-apple-not-featuring-x-or-grok-among-its-top-apps/",
+      "publishedAt": "2025-08-13T11:09:30Z",
+      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/GF7KGX3Q3ZG3PG2LUA2BL3DPDQ.jpg?auth=ea6778c52fa648e47f8646c703874357befcd8cbacee29f6707c552816f6e833&width=1200&height=600&smart=true",
+      "translated_title": "Musk says he plans to sue Apple for not featuring X or Grok among its top apps",
+      "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "12分钟前"
+    },
     {
       "id": "b0b5f070324b",
       "title": "Companies Are Pouring Billions Into A.I. It Has Yet to Pay Off.",
@@ -14,7 +28,7 @@
       "translated_summary": "Corporate spending on artificial intelligence is surging as executives bank on major efficiency gains. So far, they report little effect to the bottom line.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "78c51bf90a5b",
@@ -28,7 +42,7 @@
       "translated_summary": "Iluvatar CoreX is considering an initial public offering in Hong Kong, as investor interest in Chinese artificial intelligence chipmakers builds with Beijing discouraging local firms from using Nvidia Corp. processors.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "bda7dac7af01",
@@ -42,7 +56,7 @@
       "translated_summary": "Presight has reported record 1H growth as revenue surpassed AED 1 billion. The Abu Dhabi based AI company also said 2Q revenue and net profit rose, fueled by its acquisition of AIQ, a firm specializing in artificial intelligence solutions for the energy industry. Presight CEO, Thomas Pramotedham spoke to Bloomberg's Lizzy Burden on Horizons Middle East and Africa on their international acquisitions as well as use of AI in oilfields. (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "b15696048442",
@@ -56,7 +70,7 @@
       "translated_summary": "Neurotic, anxious robots like C-3P0 from Star Wars' C-3P0 and Marvin from The Hitchhiker's Guide to the Galaxy are a staple of science fiction — but they're not as common in the real world. Most of the time, the chatbots and artificial intelligence \"robots\" we encounter are programmed to be extraverted, confident and cheerful. But what if that changed?NPR science correspondent Nell Greenfieldboyce dives into the world of robot personality research and talks to a team of researchers that are experimenting with a very different kind of robot temperament.Read more of Nell's reporting on the topic here.Interested in more science news? Let us know at shortwave@npr.org. Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave.Love podcasts? For handpicked recommendations every Friday, subscribe to NPR's Pod Club.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "ce1be8f500dc",
@@ -70,7 +84,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Watch Now – August 10th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "dce31b4b59e6",
@@ -84,7 +98,7 @@
       "translated_summary": "Microsoft is aggressively targeting top AI talent from Meta by offering multimillion-dollar bonuses amid a $240 billion industry-wide surge in AI spending, intensifying the battle for supremacy in artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "2c2d580dd23a",
@@ -126,21 +140,7 @@
       "translated_summary": "Meta has brought on right-wing influencer Robby Starbuck to join an internal board purportedly focused on rooting out bias from its artificial intelligence models.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "12小时前"
-    },
-    {
-      "id": "970ae04de484",
-      "title": "Labor unions mobilize to challenge advance of algorithms in workplaces",
-      "summary": "As employers and tech companies rush to deploy artificial intelligence software into workplaces to improve efficiency, labor unions are stepping up work with state lawmakers across the nation to restrict its use.",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/08/12/business/labor-unions-algorithms-workplaces/",
-      "publishedAt": "2025-08-12T20:27:07Z",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/VDNTF5WS2E3B2XY6QMZZAW4B5M.jpg?auth=9abbc860839b76aba390fe28a671c3926ec56f140eae64441f37436744d453f9&width=1440",
-      "translated_title": "Labor unions mobilize to challenge advance of algorithms in workplaces",
-      "translated_summary": "As employers and tech companies rush to deploy artificial intelligence software into workplaces to improve efficiency, labor unions are stepping up work with state lawmakers across the nation to restrict its use.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "13小时前"
     }
   ]
 }
