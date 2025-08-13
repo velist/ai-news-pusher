@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-13T03:24:22.453725",
+  "last_updated": "2025-08-13T04:34:16.848818",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,21 @@
       "translated_summary": "Microsoft is aggressively targeting top AI talent from Meta by offering multimillion-dollar bonuses amid a $240 billion industry-wide surge in AI spending, intensifying the battle for supremacy in artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "45分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "35ac48f67537",
+      "title": "How to beat AI-driven custom pricing",
+      "summary": "There are new concerns around how artificial intelligence might be used to set prices for products, such as airfare. It comes after Delta Airlines announced it was using AI to help adjust prices on some of its flights. Tim McPhillips takes a look at how to approach buying tickets and how all consumers can help guard themselves against AI-driven custom pricing.",
+      "source": "PBS News",
+      "url": "https://www.pbs.org/newshour/show/how-to-beat-ai-driven-custom-pricing",
+      "publishedAt": "2025-08-12T22:25:48Z",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/Airfare-1024x683.jpg",
+      "translated_title": "How to beat AI-driven custom pricing",
+      "translated_summary": "There are new concerns around how artificial intelligence might be used to set prices for products, such as airfare. It comes after Delta Airlines announced it was using AI to help adjust prices on some of its flights. Tim McPhillips takes a look at how to approach buying tickets and how all consumers can help guard themselves against AI-driven custom pricing.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "6小时前"
     },
     {
       "id": "e379b9ca4fcf",
@@ -28,7 +42,7 @@
       "translated_summary": "Meta has brought on right-wing influencer Robby Starbuck to join an internal board purportedly focused on rooting out bias from its artificial intelligence models.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "970ae04de484",
@@ -42,21 +56,7 @@
       "translated_summary": "As employers and tech companies rush to deploy artificial intelligence software into workplaces to improve efficiency, labor unions are stepping up work with state lawmakers across the nation to restrict its use.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "7693ee8760da",
-      "title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
-      "summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
-      "source": "WTOP",
-      "url": "https://wtop.com/tech/2025/08/ai-search-firm-perplexity-makes-34-5-billion-surprise-bid-for-google-chrome/",
-      "publishedAt": "2025-08-12T20:13:00Z",
-      "image": "https://wtop.com/wp-content/uploads/2025/08/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWU4cXBvcGswMDA0M2I2bnpueTJpcmc2-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtZThwcmN5ajAwNHEyNm52Nmx0MGhiam4-300.jpg",
-      "translated_title": "AI search firm Perplexity makes $34.5 billion surprise bid for Google Chrome",
-      "translated_summary": "Artificial intelligence search company Perplexity has made an unsolicited, $34.5 billion offer to purchase Google’s Chrome browser, a surprise move by a Google Search challenger that’s looking to upend how people find information online.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "16f14b6b31f3",
@@ -70,7 +70,7 @@
       "translated_summary": "CoreWeave easily topped quarterly revenue estimates on Tuesday as the rapid adoption of artificial intelligence tools boosted demand for its cloud services, but a bigger-than-expected net loss sent its shares slumping 10% after the bell.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "63b02179748e",
@@ -84,7 +84,7 @@
       "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "5e26177d484a",
@@ -98,7 +98,7 @@
       "translated_summary": "Cook County Circuit Judge William Sullivan sanctioned attorney Danielle Malaty with a fine of $10 on July 16 for her improper use of artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "18ed44df25c5",
@@ -112,7 +112,7 @@
       "translated_summary": "Green firms in the US have found something of a lifeline in artificial intelligence after being bogged down by high interest rates, shrinking funding and, more recently, President Donald Trump’s sharp rollback of support. Clean technology companies that have inked deals to support data centers have seen their stocks soar this year, outperforming the S&P 500.. Even as some clean energy firms struggle to convince investors that they can thrive during Trump’s second term, the AI-driven surge in electric demand — the most in decades — is providing clear tailwinds for others.  KR Sridhar, Bloom Energy, founder and CEO tells Bloomberg Businessweek Daily says AI will drive the need for energy, including fuel cells. (Source: Bloomberg)",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "7小时前"
+      "time": "9小时前"
     },
     {
       "id": "258abe91b9ec",
@@ -126,7 +126,7 @@
       "translated_summary": "Monica Barbaro and Yura Borisov are among those on the call sheet of the Amazon MGM feature Artificial",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "de1acd98e11f",
@@ -140,7 +140,7 @@
       "translated_summary": "More than 16,500 have applied to the free NY community college program for adult students interested in high-demand fields like artificial intelligence and nursing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     }
   ]
 }
