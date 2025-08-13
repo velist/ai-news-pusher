@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-13T22:22:44.884886",
+  "last_updated": "2025-08-13T23:22:52.018564",
   "total_count": 10,
   "articles": [
+    {
+      "id": "55f135aa39d8",
+      "title": "AI 'godfather' Geoffrey Hinton warns machines may outthink humans in years",
+      "summary": "Geoff Hinton warns artificial intelligence could surpass humans within years, not decades, and recommends a focus on creating maternal instincts in machines.",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/technology/godfather-ai-warns-machines-could-soon-outthink-humans-calls-maternal-instincts-built-in",
+      "publishedAt": "2025-08-13T22:46:09Z",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/geoff-hinton-speaking.jpg?ve=1&tl=1",
+      "translated_title": "AI 'godfather' Geoffrey Hinton warns machines may outthink humans in years",
+      "translated_summary": "Geoff Hinton warns artificial intelligence could surpass humans within years, not decades, and recommends a focus on creating maternal instincts in machines.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "36分钟前"
+    },
+    {
+      "id": "756ce1e54ee7",
+      "title": "Illinois law bans AI use to provide mental health advice",
+      "summary": "Illinois recently passed a law that prohibits the use of artificial intelligence for mental health interactions or decisions.",
+      "source": "Baltimore News",
+      "url": "https://foxbaltimore.com/news/nation-world/illinois-law-bans-ai-use-to-provide-mental-health-advice-artificial-intelligence",
+      "publishedAt": "2025-08-13T22:24:36Z",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/5329/986/27x27/90/c41989cd-5e0e-4027-adb2-0f5f77dfc7d4-AP19204645673245.jpg",
+      "translated_title": "Illinois law bans AI use to provide mental health advice",
+      "translated_summary": "Illinois recently passed a law that prohibits the use of artificial intelligence for mental health interactions or decisions.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "58分钟前"
+    },
+    {
+      "id": "38840bfa003c",
+      "title": "Illinois law bans AI use to provide mental health advice",
+      "summary": "Illinois recently passed a law that prohibits the use of artificial intelligence for mental health interactions or decisions.",
+      "source": "WJLA",
+      "url": "https://wjla.com/news/nation-world/illinois-law-bans-ai-use-to-provide-mental-health-advice-artificial-intelligence",
+      "publishedAt": "2025-08-13T22:24:36Z",
+      "image": "https://wjla.com/resources/media2/16x9/5329/986/27x27/90/c41989cd-5e0e-4027-adb2-0f5f77dfc7d4-AP19204645673245.jpg",
+      "translated_title": "Illinois law bans AI use to provide mental health advice",
+      "translated_summary": "Illinois recently passed a law that prohibits the use of artificial intelligence for mental health interactions or decisions.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "58分钟前"
+    },
     {
       "id": "055ca371495a",
       "title": "Elon Musk's xAI loses co-founder Igor Babuschkin for venture firm",
@@ -14,7 +56,7 @@
       "translated_summary": "Igor Babuschkin, who helped start xAI in 2023, said in a post on X that he's leaving the artificial intelligence startup to launch his own venture firm.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "26分钟前"
+      "time": "1小时前"
     },
     {
       "id": "e5ffd6e30ce1",
@@ -28,7 +70,7 @@
       "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "9201306b8fd7",
@@ -42,7 +84,7 @@
       "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "45aa1355e657",
@@ -56,7 +98,7 @@
       "translated_summary": "YouTube on Wednesday will begin testing a new age-verification system in the U.S. that relies on artificial intelligence to differentiate between adults and minors, based on the kinds of videos that they have been watching.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e6821c2b9056",
@@ -70,7 +112,7 @@
       "translated_summary": "If Meta investors had concerns about the company’s huge spending on artificial intelligence infrastructure and talent — and its ambitious “superintelligence” goal — they’re likely to be assuaged by its blockbuster earnings report on Wednesday. The results, as one analyst put it, indicates that “AI is becoming a real revenue driver, not just hype.”",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "b49b120174dc",
@@ -84,7 +126,7 @@
       "translated_summary": "New York (CNN) — YouTube will begin guessing users’ ages using artificial intelligence on Wednesday, as part of an effort to prevent kids from accessing inappropriate content online.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "5d54ddbaf40a",
@@ -96,48 +138,6 @@
       "image": "https://www.bostonherald.com/wp-content/uploads/2025/05/Trump_25119.jpg?w=1024&h=682",
       "translated_title": "Miffed Musk plans Apple lawsuit",
       "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top recommended apps in its App Store.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1小时前"
-    },
-    {
-      "id": "2379acfae958",
-      "title": "Elon Musk says he plans to sue Apple for not featuring X, Grok among its top apps",
-      "summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top...",
-      "source": "The Dallas Morning News",
-      "url": "https://www.dallasnews.com/business/technology/2025/08/13/elon-musk-says-he-plans-to-sue-apple-for-not-featuring-x-grok-among-its-top-apps/",
-      "publishedAt": "2025-08-13T20:38:39Z",
-      "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/FZMVFCIGN5CX3NE2SYTVGSUNLM.jpg?auth=d20551137190b9db59a4e665b8763922e5962ade5cbd0d414d8adb3762f928f0&quality=80&width=1200&height=630&smart=true",
-      "translated_title": "Elon Musk says he plans to sue Apple for not featuring X, Grok among its top apps",
-      "translated_summary": "Billionaire SpaceX, Tesla and X owner Elon Musk says he plans to sue Apple for not featuring X and its Grok artificial intelligence chatbot app in its top...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1小时前"
-    },
-    {
-      "id": "f9df42b33e67",
-      "title": "Google to spend $9 billion in Oklahoma to expand AI, cloud infrastructure",
-      "summary": "Alphabet's Google said on Wednesday it will spend an additional $9 billion in Oklahoma over the next two years to expand cloud and artificial intelligence infrastructure.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/google-spend-9-billion-oklahoma-expand-ai-cloud-infrastructure-2025-08-13/",
-      "publishedAt": "2025-08-13T20:25:00Z",
-      "image": "https://www.reuters.com/resizer/v2/775EVZCY4JKNNGJBD7ELXQZQVM.jpg?auth=502ed9502987ccdca6d36309901b24cb34517862288db7360c0f0a0f4a6f13ab&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Google to spend $9 billion in Oklahoma to expand AI, cloud infrastructure",
-      "translated_summary": "Alphabet's Google said on Wednesday it will spend an additional $9 billion in Oklahoma over the next two years to expand cloud and artificial intelligence infrastructure.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "1小时前"
-    },
-    {
-      "id": "76a3c5ab401a",
-      "title": "Cisco forecasts higher-than-expected quarterly revenue on increased demand",
-      "summary": "Cisco Systems forecast first-quarter revenue above Wall Street estimates on Wednesday, as the artificial intelligence boom boosted demand for its networking equipment from cloud customers.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/cisco-forecasts-higher-than-expected-quarterly-revenue-increased-demand-2025-08-13/",
-      "publishedAt": "2025-08-13T20:12:33Z",
-      "image": "https://www.reuters.com/resizer/v2/CDVY533VPFMJJKMY5MTVPQ4KIQ.jpg?auth=eed2f5ad8ba0dd17c25a8171fc89d350f98c05134ba86afd18a073a082090da6&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Cisco forecasts higher-than-expected quarterly revenue on increased demand",
-      "translated_summary": "Cisco Systems forecast first-quarter revenue above Wall Street estimates on Wednesday, as the artificial intelligence boom boosted demand for its networking equipment from cloud customers.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "2小时前"
