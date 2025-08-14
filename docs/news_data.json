@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-14T15:26:58.915822",
+  "last_updated": "2025-08-14T16:32:03.647452",
   "total_count": 10,
   "articles": [
+    {
+      "id": "3a14c187d516",
+      "title": "AI startup Cohere valued at $6.8 billion in latest fundraise, appoints new executives",
+      "summary": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/ai-startup-cohere-valued-68-billion-latest-fundraise-appoints-new-executives-2025-08-14/",
+      "publishedAt": "2025-08-14T16:06:05Z",
+      "image": "https://www.reuters.com/resizer/v2/NNM457HPLNNBRFZNYWP52ZZYGM.jpg?auth=90d029b22223f9c236880c82b709daa0ec23da99b35ac97e06af2379f93b8188&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "AI startup Cohere valued at $6.8 billion in latest fundraise, appoints new executives",
+      "translated_summary": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "25分钟前"
+    },
+    {
+      "id": "9c5eb85326fd",
+      "title": "Luca Guadagnino’s Star-Studded OpenAI Movie Adds Bridesmaids Alum To Cast",
+      "summary": "A new update has arrived for Artificial, with the Luca Guadagnino’s OpenAI movie having now added a Bridesmaids star to the impressive cast.",
+      "source": "Screen Rant",
+      "url": "https://screenrant.com/artificial-luca-guadagnino-chris-odowd-casting/",
+      "publishedAt": "2025-08-14T15:41:19Z",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/08/luca-guadagnino.jpg",
+      "translated_title": "Luca Guadagnino’s Star-Studded OpenAI Movie Adds Bridesmaids Alum To Cast",
+      "translated_summary": "A new update has arrived for Artificial, with the Luca Guadagnino’s OpenAI movie having now added a Bridesmaids star to the impressive cast.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "50分钟前"
+    },
     {
       "id": "1df71a5b7e20",
       "title": "As A Dire Revenue Warning Roils C3.ai Stock, The Company's Search For New Leadership Captures Investor Attention",
@@ -14,7 +42,7 @@
       "translated_summary": "Shares of C3.ai are continuing their decline on Thursday. The enterprise artificial intelligence company is grappling with the fallout from a dire preliminary earnings report.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "5bfe8bc55a3b",
@@ -28,7 +56,7 @@
       "translated_summary": "Another senior figure is walking away from Elon Musk’s AI empire. Igor Babuschkin, one of the original co-founders of Musk’s artificial intelligence startup xAI, announced Wednesday that he's stepping down to start an investment firm focused on AI safety. The new venture, Babuschkin Ventures, will fund research and startups working to make AI more secure",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "5b172ac0d4b2",
@@ -42,7 +70,7 @@
       "translated_summary": "Oracle and Alphabet said on Thursday their cloud computing units have struck a deal to offer Google's Gemini artificial intelligence models through Oracle's cloud computing services and business applications.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "0d339ddd6a4d",
@@ -56,21 +84,21 @@
       "translated_summary": "Trump administration launches USAi, a secure generative artificial intelligence evaluation suite enabling federal agencies to adopt AI at scale faster and safer",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "90738592ab10",
-      "title": "Controversial Interivew With School Shooting Victim's AI Avatar Sparks Debate",
+      "title": "Controversial Interview With School Shooting Victim's AI Avatar Sparks Debate",
       "summary": "A teenager who was murdered in a school shooting has been interviewed from beyond the grave thanks to artificial intelligence.",
       "source": "PetaPixel",
       "url": "https://petapixel.com/2025/08/14/controversial-interivew-with-school-shooting-victims-ai-avatar-sparks-debate/",
       "publishedAt": "2025-08-14T11:54:05Z",
       "image": "https://petapixel.com/assets/uploads/2025/08/AI-Avatar-Interview-Jim-Acosta.jpg",
-      "translated_title": "Controversial Interivew With School Shooting Victim's AI Avatar Sparks Debate",
+      "translated_title": "Controversial Interview With School Shooting Victim's AI Avatar Sparks Debate",
       "translated_summary": "A teenager who was murdered in a school shooting has been interviewed from beyond the grave thanks to artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "4040fea23d0f",
@@ -84,7 +112,7 @@
       "translated_summary": "Sam Altman, the artificial intelligence hype master, is in damage-control mode.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "22cf020fd44d",
@@ -98,7 +126,7 @@
       "translated_summary": "Sam Altman, the artificial intelligence hype master, is in damage-control mode.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "cc6f1d80a12c",
@@ -112,35 +140,7 @@
       "translated_summary": "Foxconn reported a second-quarter operating profit beat on strength of its growing artificial intelligence server business.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "89b62bb3fa01",
-      "title": "Could robotics and timber tackle Britain's housing challenges?",
-      "summary": "Gigantic robot arms controlled by artificial intelligence glide around a vast factory in Oxfordshire, England, making building frames from timber, one of the world's oldest construction materials.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/environment/could-robotics-timber-tackle-britains-housing-challenges-2025-08-14/",
-      "publishedAt": "2025-08-14T05:06:43Z",
-      "image": "https://www.reuters.com/resizer/v2/E2MFMMVKVROQZPUIM3PBTZBFPY.jpg?auth=40ac6b3d2b16aa74155306fd1ea480070db7ba55e5cb48ff1fb3a43d0cdcf21b&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Could robotics and timber tackle Britain's housing challenges?",
-      "translated_summary": "Gigantic robot arms controlled by artificial intelligence glide around a vast factory in Oxfordshire, England, making building frames from timber, one of the world's oldest construction materials.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "d57befacbc68",
-      "title": "DeepSeek's launch of new AI model delayed by Huawei chip issues, FT reports",
-      "summary": "Chinese artificial intelligence company DeepSeek has delayed the release of its new model after failing to train it using Huawei's chips, highlighting the limits of Beijing's push to replace U.S. technology, the Financial Times reported on Thursday.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/deepseeks-launch-new-ai-model-delayed-by-huawei-chip-issues-ft-reports-2025-08-14/",
-      "publishedAt": "2025-08-14T04:10:40Z",
-      "image": "https://www.reuters.com/resizer/v2/NURBF2Y3EBMP5KYZHHWSQLZBII.jpg?auth=89a47f1ebc0c075f2f95c94710dbbac90a1e4e8eb27ef919a78423047945898a&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "DeepSeek's launch of new AI model delayed by Huawei chip issues, FT reports",
-      "translated_summary": "Chinese artificial intelligence company DeepSeek has delayed the release of its new model after failing to train it using Huawei's chips, highlighting the limits of Beijing's push to replace U.S. technology, the Financial Times reported on Thursday.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "11小时前"
+      "time": "9小时前"
     }
   ]
 }
