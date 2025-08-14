@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-14T08:33:43.784702",
+  "last_updated": "2025-08-14T09:28:04.802032",
   "total_count": 10,
   "articles": [
+    {
+      "id": "4040fea23d0f",
+      "title": "The latest ChatGPT is supposed to be ‘PhD level’ smart. It can’t even label a map",
+      "summary": "Sam Altman, the artificial intelligence hype master, is in damage-control mode.",
+      "source": "Cable News Network",
+      "url": "https://edition.cnn.com/2025/08/14/business/chatgpt-rollout-problems",
+      "publishedAt": "2025-08-14T09:00:42Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2198379497.jpg?c=16x9&q=w_800,c_fill",
+      "translated_title": "The latest ChatGPT is supposed to be ‘PhD level’ smart. It can’t even label a map",
+      "translated_summary": "Sam Altman, the artificial intelligence hype master, is in damage-control mode.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "27分钟前"
+    },
     {
       "id": "89b62bb3fa01",
       "title": "Could robotics and timber tackle Britain's housing challenges?",
@@ -14,7 +28,7 @@
       "translated_summary": "Gigantic robot arms controlled by artificial intelligence glide around a vast factory in Oxfordshire, England, making building frames from timber, one of the world's oldest construction materials.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "d57befacbc68",
@@ -28,7 +42,7 @@
       "translated_summary": "Chinese artificial intelligence company DeepSeek has delayed the release of its new model after failing to train it using Huawei's chips, highlighting the limits of Beijing's push to replace U.S. technology, the Financial Times reported on Thursday.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "b9c3c6db63ec",
@@ -42,7 +56,7 @@
       "translated_summary": "Illinois passed a bill banning therapists from employing artificial intelligence chatbots for assistance with mental health therapy as experts countrywide warn against people's ever-growing reliance on the machines.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "5692118b2cb1",
@@ -56,7 +70,7 @@
       "translated_summary": "Alphabet's Google said it will spend an additional $9 billion in Oklahoma over the next two years to expand cloud and artificial intelligence infrastructure.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "23ec0c15254f",
@@ -70,7 +84,7 @@
       "translated_summary": "Apple Inc. is plotting its artificial intelligence comeback with an ambitious slate of new devices, including robots, a lifelike version of Siri, a smart speaker with a display and home-security cameras. Bloomberg’s Mark Gurman speaks with Romaine Bostick and Matt Miller on “The Close” about Apple’s next inventions. (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "55f135aa39d8",
@@ -84,7 +98,7 @@
       "translated_summary": "Geoff Hinton warns artificial intelligence could surpass humans within years, not decades, and recommends a focus on creating maternal instincts in machines.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "fb51c640bf19",
@@ -98,7 +112,7 @@
       "translated_summary": "President Trump stunned many in the tech world after announcing a controversial deal with chipmakers Nvidia and AMD, allowing them to sell advanced artificial intelligence chips to China in exchange for giving the U.S. government a 15% cut of their revenue. Amna Nawaz discussed the legality of this deal and its implications with Scott Kennedy of the Center for Strategic and International Studies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "756ce1e54ee7",
@@ -112,7 +126,7 @@
       "translated_summary": "Illinois recently passed a law that prohibits the use of artificial intelligence for mental health interactions or decisions.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "38840bfa003c",
@@ -126,21 +140,7 @@
       "translated_summary": "Illinois recently passed a law that prohibits the use of artificial intelligence for mental health interactions or decisions.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "bdce931ebcd9",
-      "title": "AI demand expected to boost electronics giant Foxconn's second-quarter profit",
-      "summary": "Taiwan's Foxconn , the world's largest contract electronics maker, is expected to report on Thursday that second-quarter profit rose 11% on continued strong demand for artificial intelligence servers.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/ai-demand-expected-boost-electronics-giant-foxconns-second-quarter-profit-2025-08-13/",
-      "publishedAt": "2025-08-13T22:02:18Z",
-      "image": "https://www.reuters.com/resizer/v2/BH4YW72J3ROGZEK5DV2XRFDDCU.jpg?auth=4edd45f32f01a9468a9bf2f647ec1d337fc5bb0cf0fe1a2b4db8e2961a910e9e&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "AI demand expected to boost electronics giant Foxconn's second-quarter profit",
-      "translated_summary": "Taiwan's Foxconn , the world's largest contract electronics maker, is expected to report on Thursday that second-quarter profit rose 11% on continued strong demand for artificial intelligence servers.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     }
   ]
 }
