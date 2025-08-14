@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-14T16:32:03.647452",
+  "last_updated": "2025-08-14T17:21:36.745183",
   "total_count": 10,
   "articles": [
+    {
+      "id": "a7ecb5e9c407",
+      "title": "3 charts that show Palantir's astronomical growth since going public",
+      "summary": "The artificial intelligence-powered software company's cofounders include renowned venture capitalist Peter Thiel and current CEO Alex Karp.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/14/palantir-ai-charts-revenue.html",
+      "publishedAt": "2025-08-14T17:05:51Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/101701316-173313274.jpg?v=1755185385&w=1920&h=1080",
+      "translated_title": "3 charts that show Palantir's astronomical growth since going public",
+      "translated_summary": "The artificial intelligence-powered software company's cofounders include renowned venture capitalist Peter Thiel and current CEO Alex Karp.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "15分钟前"
+    },
+    {
+      "id": "7c8d540bf351",
+      "title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
+      "summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2025/08/14/tech/robby-starbuck-meta-ai-advisor",
+      "publishedAt": "2025-08-14T16:19:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202924571.jpg?c=16x9&q=w_800,c_fill",
+      "translated_title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
+      "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
+      "id": "bf8c091c758b",
+      "title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
+      "summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
+      "source": "Cable News Network",
+      "url": "https://edition.cnn.com/2025/08/14/tech/robby-starbuck-meta-ai-advisor",
+      "publishedAt": "2025-08-14T16:19:00Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202924571.jpg?c=16x9&q=w_800,c_fill",
+      "translated_title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
+      "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "3a14c187d516",
       "title": "AI startup Cohere valued at $6.8 billion in latest fundraise, appoints new executives",
@@ -14,7 +56,7 @@
       "translated_summary": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "25分钟前"
+      "time": "1小时前"
     },
     {
       "id": "9c5eb85326fd",
@@ -28,7 +70,7 @@
       "translated_summary": "A new update has arrived for Artificial, with the Luca Guadagnino’s OpenAI movie having now added a Bridesmaids star to the impressive cast.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "50分钟前"
+      "time": "1小时前"
     },
     {
       "id": "1df71a5b7e20",
@@ -56,7 +98,7 @@
       "translated_summary": "Another senior figure is walking away from Elon Musk’s AI empire. Igor Babuschkin, one of the original co-founders of Musk’s artificial intelligence startup xAI, announced Wednesday that he's stepping down to start an investment firm focused on AI safety. The new venture, Babuschkin Ventures, will fund research and startups working to make AI more secure",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "5b172ac0d4b2",
@@ -70,7 +112,7 @@
       "translated_summary": "Oracle and Alphabet said on Thursday their cloud computing units have struck a deal to offer Google's Gemini artificial intelligence models through Oracle's cloud computing services and business applications.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "0d339ddd6a4d",
@@ -84,7 +126,7 @@
       "translated_summary": "Trump administration launches USAi, a secure generative artificial intelligence evaluation suite enabling federal agencies to adopt AI at scale faster and safer",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "90738592ab10",
@@ -98,49 +140,7 @@
       "translated_summary": "A teenager who was murdered in a school shooting has been interviewed from beyond the grave thanks to artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "4040fea23d0f",
-      "title": "The latest ChatGPT is supposed to be ‘PhD level’ smart. It can’t even label a map",
-      "summary": "Sam Altman, the artificial intelligence hype master, is in damage-control mode.",
-      "source": "Cable News Network",
-      "url": "https://edition.cnn.com/2025/08/14/business/chatgpt-rollout-problems",
-      "publishedAt": "2025-08-14T09:00:42Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2198379497.jpg?c=16x9&q=w_800,c_fill",
-      "translated_title": "The latest ChatGPT is supposed to be ‘PhD level’ smart. It can’t even label a map",
-      "translated_summary": "Sam Altman, the artificial intelligence hype master, is in damage-control mode.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "22cf020fd44d",
-      "title": "The latest ChatGPT is supposed to be ‘PhD level’ smart. It can’t even label a map",
-      "summary": "Sam Altman, the artificial intelligence hype master, is in damage-control mode.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/08/14/business/chatgpt-rollout-problems",
-      "publishedAt": "2025-08-14T09:00:42Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2198379497.jpg?c=16x9&q=w_800,c_fill",
-      "translated_title": "The latest ChatGPT is supposed to be ‘PhD level’ smart. It can’t even label a map",
-      "translated_summary": "Sam Altman, the artificial intelligence hype master, is in damage-control mode.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "cc6f1d80a12c",
-      "title": "AI demand boosts iPhone maker Foxconn's second-quarter profit by 27%, beating forecasts",
-      "summary": "Foxconn reported a second-quarter operating profit beat on strength of its growing artificial intelligence server business.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/14/ai-demand-boosts-iphone-maker-foxconns-second-quarter-profit-by-27percent-beating-forecasts.html",
-      "publishedAt": "2025-08-14T06:35:47Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108119588-1742560990673-gettyimages-2205511021-NVIDIA_AI.jpeg?v=1755134001&w=1920&h=1080",
-      "translated_title": "AI demand boosts iPhone maker Foxconn's second-quarter profit by 27%, beating forecasts",
-      "translated_summary": "Foxconn reported a second-quarter operating profit beat on strength of its growing artificial intelligence server business.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "5小时前"
     }
   ]
 }
