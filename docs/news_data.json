@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-14T19:19:22.321854",
+  "last_updated": "2025-08-14T20:27:09.775711",
   "total_count": 10,
   "articles": [
+    {
+      "id": "bf4c335ecb0f",
+      "title": "Meta’s superintelligence dream team will be management challenge of the century",
+      "summary": "Meta Platforms Inc. is spending a fortune to assemble the brightest minds in artificial intelligence. Chief Executive Officer Mark Zuckerberg may want to note: Research suggests that packing a team with too much genius can backfire.",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/business/story/2025-08-14/metas-superintelligence-dream-team-will-be-management-challenge-of-the-century",
+      "publishedAt": "2025-08-14T19:49:47Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/8a4345c/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F61%2F95704e1251798b1029fc009dce63%2F1x-1.jpg",
+      "translated_title": "Meta’s superintelligence dream team will be management challenge of the century",
+      "translated_summary": "Meta Platforms Inc. is spending a fortune to assemble the brightest minds in artificial intelligence. Chief Executive Officer Mark Zuckerberg may want to note: Research suggests that packing a team with too much genius can backfire.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "37分钟前"
+    },
+    {
+      "id": "3606eedf642e",
+      "title": "Tiger cub hedge fund Coatue Management unveils new position in Oracle, doubles down on AI buildout",
+      "summary": "The investor doubled down on key artificial intelligence beneficiaries such as Nvidia and Microsoft as the tech rally came back with a fury in the second quarter.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/14/tiger-cub-hedge-fund-coatue-management-unveils-new-position-in-oracle-doubles-down-on-ai-buildout.html",
+      "publishedAt": "2025-08-14T19:31:41Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108063431-1731621281954-gettyimages-2158625326-BLOOMBERG_INVEST.jpeg?v=1755196245&w=1920&h=1080",
+      "translated_title": "Tiger cub hedge fund Coatue Management unveils new position in Oracle, doubles down on AI buildout",
+      "translated_summary": "The investor doubled down on key artificial intelligence beneficiaries such as Nvidia and Microsoft as the tech rally came back with a fury in the second quarter.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "55分钟前"
+    },
     {
       "id": "ca6d63de2689",
       "title": "Apple Needs to Do an AI Acquisition, Says Dan Ives",
@@ -14,7 +42,7 @@
       "translated_summary": "Wedbush Head of Tech Research Dan Ives says Apple is so far behind in artificial intelligence development that it needs to make an acquisition to catch up. Ives joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "35分钟前"
+      "time": "1小时前"
     },
     {
       "id": "a20344552585",
@@ -28,7 +56,7 @@
       "translated_summary": "Apple is plotting an artificial intelligence comeback with new devices, including robots and a lifelike version of Siri. Bloomberg’s Mark Gurman discusses the iPhone maker’s plans with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "39分钟前"
+      "time": "1小时前"
     },
     {
       "id": "8ead8b744b1c",
@@ -42,7 +70,7 @@
       "translated_summary": "A 60-year-old man spent three weeks being treated at a hospital after replacing table salt with sodium bromide following consultation with a popular artificial intelligence chatbot.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "a7ecb5e9c407",
@@ -56,7 +84,7 @@
       "translated_summary": "The artificial intelligence-powered software company's cofounders include renowned venture capitalist Peter Thiel and current CEO Alex Karp.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "7c8d540bf351",
@@ -70,7 +98,7 @@
       "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "bf8c091c758b",
@@ -84,7 +112,7 @@
       "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "3a14c187d516",
@@ -98,7 +126,7 @@
       "translated_summary": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "9c5eb85326fd",
@@ -112,35 +140,7 @@
       "translated_summary": "A new update has arrived for Artificial, with the Luca Guadagnino’s OpenAI movie having now added a Bridesmaids star to the impressive cast.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
-    },
-    {
-      "id": "1df71a5b7e20",
-      "title": "As A Dire Revenue Warning Roils C3.ai Stock, The Company's Search For New Leadership Captures Investor Attention",
-      "summary": "Shares of C3.ai are continuing their decline on Thursday. The enterprise artificial intelligence company is grappling with the fallout from a dire preliminary earnings report.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47124908/as-a-dire-revenue-warning-roils-c3-ai-stock-the-companys-search-for-new-leadership-captures-investor-attention",
-      "publishedAt": "2025-08-14T14:24:59Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/08/14/C3-AIJakarta---September-17-2023-C3-ai-a.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "As A Dire Revenue Warning Roils C3.ai Stock, The Company's Search For New Leadership Captures Investor Attention",
-      "translated_summary": "Shares of C3.ai are continuing their decline on Thursday. The enterprise artificial intelligence company is grappling with the fallout from a dire preliminary earnings report.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "4小时前"
-    },
-    {
-      "id": "5bfe8bc55a3b",
-      "title": "xAI co-founder leaves Elon Musk’s AI startup to launch AI safety fund, joining wave of executive departures",
-      "summary": "Another senior figure is walking away from Elon Musk’s AI empire. Igor Babuschkin, one of the original co-founders of Musk’s artificial intelligence startup xAI, announced Wednesday that he's stepping down to start an investment firm focused on AI safety. The new venture, Babuschkin Ventures, will fund research and startups working to make AI more secure",
-      "source": "TechStartups.com",
-      "url": "https://techstartups.com/2025/08/14/xai-co-founder-leaves-elon-musks-ai-startup-to-launch-ai-safety-fund-joining-wave-of-executive-departures/",
-      "publishedAt": "2025-08-14T14:13:50Z",
-      "image": "https://techstartups.com/wp-content/uploads/2025/08/left.jpg",
-      "translated_title": "xAI co-founder leaves Elon Musk’s AI startup to launch AI safety fund, joining wave of executive departures",
-      "translated_summary": "Another senior figure is walking away from Elon Musk’s AI empire. Igor Babuschkin, one of the original co-founders of Musk’s artificial intelligence startup xAI, announced Wednesday that he's stepping down to start an investment firm focused on AI safety. The new venture, Babuschkin Ventures, will fund research and startups working to make AI more secure",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "5小时前"
     }
   ]
 }
