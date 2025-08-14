@@ -1,7 +1,63 @@
 {
-  "last_updated": "2025-08-14T21:22:43.390661",
+  "last_updated": "2025-08-14T22:23:03.847576",
   "total_count": 10,
   "articles": [
+    {
+      "id": "613022721220",
+      "title": "Silicon Valley Parents Are Spending $50,000 to Screen Embryos for IQ",
+      "summary": "Some tech CEOs are hoping that their children will be intelligent enough to regulate the artificial intelligence being developed in their very own industry.",
+      "source": "The Daily Beast",
+      "url": "https://www.thedailybeast.com/silicon-valley-parents-are-spending-50000-to-screen-embryos-for-iq/",
+      "publishedAt": "2025-08-14T21:39:37Z",
+      "image": "https://www.thedailybeast.com/resizer/v2/U47XM5M5HNDKPDOJ5UHCTVKNPA.jpg?smart=true&auth=071dc01ba10bfe0c393d8a5d72edf283a8e3bc9c27f794d520d99cf76ef93f0f&width=1200&height=630",
+      "translated_title": "Silicon Valley Parents Are Spending $50,000 to Screen Embryos for IQ",
+      "translated_summary": "Some tech CEOs are hoping that their children will be intelligent enough to regulate the artificial intelligence being developed in their very own industry.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "43分钟前"
+    },
+    {
+      "id": "7184b4a38267",
+      "title": "New report finds AI could displace about 7% of the American workforce",
+      "summary": "New analysis from Goldman Sachs economists estimated that artificial intelligence might not lead to widespread job losses some fear.",
+      "source": "Baltimore News",
+      "url": "https://foxbaltimore.com/news/nation-world/new-report-finds-ai-could-displace-about-7-of-the-american-workforce-goldman-sachs-research-brookings-artificial-intelligence-technology-economy-workers",
+      "publishedAt": "2025-08-14T21:31:23Z",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/5683/986/0x358/90/c3adaf0a-976b-4837-a29e-4003718908fb-GettyImages2188469160.jpg",
+      "translated_title": "New report finds AI could displace about 7% of the American workforce",
+      "translated_summary": "New analysis from Goldman Sachs economists estimated that artificial intelligence might not lead to widespread job losses some fear.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "51分钟前"
+    },
+    {
+      "id": "3aca13265cb1",
+      "title": "New report finds AI could displace about 7% of the American workforce",
+      "summary": "New analysis from Goldman Sachs economists estimated that artificial intelligence might not lead to widespread job losses some fear.",
+      "source": "WJLA",
+      "url": "https://wjla.com/news/nation-world/new-report-finds-ai-could-displace-about-7-of-the-american-workforce-goldman-sachs-research-brookings-artificial-intelligence-technology-economy-workers",
+      "publishedAt": "2025-08-14T21:31:23Z",
+      "image": "https://wjla.com/resources/media2/16x9/5683/986/0x358/90/c3adaf0a-976b-4837-a29e-4003718908fb-GettyImages2188469160.jpg",
+      "translated_title": "New report finds AI could displace about 7% of the American workforce",
+      "translated_summary": "New analysis from Goldman Sachs economists estimated that artificial intelligence might not lead to widespread job losses some fear.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "51分钟前"
+    },
+    {
+      "id": "499c4b388858",
+      "title": "AI Cash Boon Might Grease Way for Universal Income",
+      "summary": "With artificial intelligence (AI) rendering more and more jobs obsolete, some tech titans in Silicon Valley say the solution lies in giving everyone a universal basic income (UBI).",
+      "source": "Newsmax",
+      "url": "https://www.newsmax.com/newsfront/technology-ai-basic/2025/08/14/id/1222535/",
+      "publishedAt": "2025-08-14T21:08:34Z",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=034fa37e-b67b-41ce-8d28-666c0f06192f&SiteName=Newsmax",
+      "translated_title": "AI Cash Boon Might Grease Way for Universal Income",
+      "translated_summary": "With artificial intelligence (AI) rendering more and more jobs obsolete, some tech titans in Silicon Valley say the solution lies in giving everyone a universal basic income (UBI).",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "7635a540c4d5",
       "title": "Margaret Boden, Philosopher of Artificial Intelligence, Dies at 88",
@@ -14,7 +70,7 @@
       "translated_summary": "A cognitive scientist, she used the language of computers to explore the nature of human thought and creativity, offering prescient insights about A.I.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "46分钟前"
+      "time": "1小时前"
     },
     {
       "id": "bf4c335ecb0f",
@@ -28,7 +84,7 @@
       "translated_summary": "Meta Platforms Inc. is spending a fortune to assemble the brightest minds in artificial intelligence. Chief Executive Officer Mark Zuckerberg may want to note: Research suggests that packing a team with too much genius can backfire.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "3606eedf642e",
@@ -42,7 +98,7 @@
       "translated_summary": "The investor doubled down on key artificial intelligence beneficiaries such as Nvidia and Microsoft as the tech rally came back with a fury in the second quarter.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "ca6d63de2689",
@@ -56,7 +112,7 @@
       "translated_summary": "Wedbush Head of Tech Research Dan Ives says Apple is so far behind in artificial intelligence development that it needs to make an acquisition to catch up. Ives joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "a20344552585",
@@ -70,7 +126,7 @@
       "translated_summary": "Apple is plotting an artificial intelligence comeback with new devices, including robots and a lifelike version of Siri. Bloomberg’s Mark Gurman discusses the iPhone maker’s plans with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "8ead8b744b1c",
@@ -84,63 +140,7 @@
       "translated_summary": "A 60-year-old man spent three weeks being treated at a hospital after replacing table salt with sodium bromide following consultation with a popular artificial intelligence chatbot.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "a7ecb5e9c407",
-      "title": "3 charts that show Palantir's astronomical growth since going public",
-      "summary": "The artificial intelligence-powered software company's cofounders include renowned venture capitalist Peter Thiel and current CEO Alex Karp.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/14/palantir-ai-charts-revenue.html",
-      "publishedAt": "2025-08-14T17:05:51Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/101701316-173313274.jpg?v=1755185385&w=1920&h=1080",
-      "translated_title": "3 charts that show Palantir's astronomical growth since going public",
-      "translated_summary": "The artificial intelligence-powered software company's cofounders include renowned venture capitalist Peter Thiel and current CEO Alex Karp.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "4小时前"
-    },
-    {
-      "id": "7c8d540bf351",
-      "title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
-      "summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2025/08/14/tech/robby-starbuck-meta-ai-advisor",
-      "publishedAt": "2025-08-14T16:19:00Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202924571.jpg?c=16x9&q=w_800,c_fill",
-      "translated_title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
-      "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "bf8c091c758b",
-      "title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
-      "summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
-      "source": "Cable News Network",
-      "url": "https://edition.cnn.com/2025/08/14/tech/robby-starbuck-meta-ai-advisor",
-      "publishedAt": "2025-08-14T16:19:00Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202924571.jpg?c=16x9&q=w_800,c_fill",
-      "translated_title": "Right-wing activist Robby Starbuck joins Meta as an AI advisor focused on ‘bias’",
-      "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "3a14c187d516",
-      "title": "AI startup Cohere valued at $6.8 billion in latest fundraise, appoints new executives",
-      "summary": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/ai-startup-cohere-valued-68-billion-latest-fundraise-appoints-new-executives-2025-08-14/",
-      "publishedAt": "2025-08-14T16:06:05Z",
-      "image": "https://www.reuters.com/resizer/v2/NNM457HPLNNBRFZNYWP52ZZYGM.jpg?auth=90d029b22223f9c236880c82b709daa0ec23da99b35ac97e06af2379f93b8188&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "AI startup Cohere valued at $6.8 billion in latest fundraise, appoints new executives",
-      "translated_summary": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "5小时前"
     }
   ]
 }
