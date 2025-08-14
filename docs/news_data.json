@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-14T18:35:50.847579",
+  "last_updated": "2025-08-14T19:19:22.321854",
   "total_count": 10,
   "articles": [
+    {
+      "id": "ca6d63de2689",
+      "title": "Apple Needs to Do an AI Acquisition, Says Dan Ives",
+      "summary": "Wedbush Head of Tech Research Dan Ives says Apple is so far behind in artificial intelligence development that it needs to make an acquisition to catch up. Ives joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-14/apple-needs-to-do-an-ai-acquisition-says-dan-ives-video",
+      "publishedAt": "2025-08-14T18:43:31Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHLiwkKl6rc8/v3/-1x-1.jpg",
+      "translated_title": "Apple Needs to Do an AI Acquisition, Says Dan Ives",
+      "translated_summary": "Wedbush Head of Tech Research Dan Ives says Apple is so far behind in artificial intelligence development that it needs to make an acquisition to catch up. Ives joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "35分钟前"
+    },
+    {
+      "id": "a20344552585",
+      "title": "Apple Looks to Regain Mojo With AI Robots, Lifelike Siri",
+      "summary": "Apple is plotting an artificial intelligence comeback with new devices, including robots and a lifelike version of Siri. Bloomberg’s Mark Gurman discusses the iPhone maker’s plans with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-14/apple-looks-to-regain-mojo-with-ai-robots-lifelike-siri-video",
+      "publishedAt": "2025-08-14T18:40:16Z",
+      "image": "https://www.bloomberg.com/favicon-black.png",
+      "translated_title": "Apple Looks to Regain Mojo With AI Robots, Lifelike Siri",
+      "translated_summary": "Apple is plotting an artificial intelligence comeback with new devices, including robots and a lifelike version of Siri. Bloomberg’s Mark Gurman discusses the iPhone maker’s plans with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "39分钟前"
+    },
     {
       "id": "8ead8b744b1c",
       "title": "Man who asked ChatGPT about cutting out salt from his diet was hospitalized with hallucinations",
@@ -14,7 +42,7 @@
       "translated_summary": "A 60-year-old man spent three weeks being treated at a hospital after replacing table salt with sodium bromide following consultation with a popular artificial intelligence chatbot.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18分钟前"
+      "time": "1小时前"
     },
     {
       "id": "a7ecb5e9c407",
@@ -28,7 +56,7 @@
       "translated_summary": "The artificial intelligence-powered software company's cofounders include renowned venture capitalist Peter Thiel and current CEO Alex Karp.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "7c8d540bf351",
@@ -42,7 +70,7 @@
       "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "bf8c091c758b",
@@ -56,7 +84,7 @@
       "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "3a14c187d516",
@@ -70,7 +98,7 @@
       "translated_summary": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "9c5eb85326fd",
@@ -84,7 +112,7 @@
       "translated_summary": "A new update has arrived for Artificial, with the Luca Guadagnino’s OpenAI movie having now added a Bridesmaids star to the impressive cast.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "1df71a5b7e20",
@@ -112,35 +140,7 @@
       "translated_summary": "Another senior figure is walking away from Elon Musk’s AI empire. Igor Babuschkin, one of the original co-founders of Musk’s artificial intelligence startup xAI, announced Wednesday that he's stepping down to start an investment firm focused on AI safety. The new venture, Babuschkin Ventures, will fund research and startups working to make AI more secure",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
-    },
-    {
-      "id": "5b172ac0d4b2",
-      "title": "Oracle, Google cloud units strike deal for Oracle to sell Gemini models",
-      "summary": "Oracle and Alphabet said on Thursday their cloud computing units have struck a deal to offer Google's Gemini artificial intelligence models through Oracle's cloud computing services and business applications.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/oracle-google-cloud-units-strike-deal-oracle-sell-gemini-models-2025-08-14/",
-      "publishedAt": "2025-08-14T12:01:38Z",
-      "image": "https://www.reuters.com/resizer/v2/FJDBSZS7DJOLLGNDSOYNEMP5LE.jpg?auth=8e5022e8cab76bba491de80db5893a1193a3b85662f5380f41b673a47ed36a2f&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Oracle, Google cloud units strike deal for Oracle to sell Gemini models",
-      "translated_summary": "Oracle and Alphabet said on Thursday their cloud computing units have struck a deal to offer Google's Gemini artificial intelligence models through Oracle's cloud computing services and business applications.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "0d339ddd6a4d",
-      "title": "New platform boosts Trump's AI Action Plan to maintain US global leadership",
-      "summary": "Trump administration launches USAi, a secure generative artificial intelligence evaluation suite enabling federal agencies to adopt AI at scale faster and safer",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trump-admin-unveils-groundbreaking-tool-supercharging-govt-efficiency-to-win-the-race-for-ai-dominance",
-      "publishedAt": "2025-08-14T12:00:00Z",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/donald-trump-ai-executive-order.jpg",
-      "translated_title": "New platform boosts Trump's AI Action Plan to maintain US global leadership",
-      "translated_summary": "Trump administration launches USAi, a secure generative artificial intelligence evaluation suite enabling federal agencies to adopt AI at scale faster and safer",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "5小时前"
     }
   ]
 }
