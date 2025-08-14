@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-14T17:21:36.745183",
+  "last_updated": "2025-08-14T18:35:50.847579",
   "total_count": 10,
   "articles": [
+    {
+      "id": "8ead8b744b1c",
+      "title": "Man who asked ChatGPT about cutting out salt from his diet was hospitalized with hallucinations",
+      "summary": "A 60-year-old man spent three weeks being treated at a hospital after replacing table salt with sodium bromide following consultation with a popular artificial intelligence chatbot.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/man-asked-chatgpt-cutting-salt-diet-was-hospitalized-hallucinations-rcna225055",
+      "publishedAt": "2025-08-14T18:17:19Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250814-chatgpt-salt-advice-se-200p-8c63c7.jpg",
+      "translated_title": "Man who asked ChatGPT about cutting out salt from his diet was hospitalized with hallucinations",
+      "translated_summary": "A 60-year-old man spent three weeks being treated at a hospital after replacing table salt with sodium bromide following consultation with a popular artificial intelligence chatbot.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "18分钟前"
+    },
     {
       "id": "a7ecb5e9c407",
       "title": "3 charts that show Palantir's astronomical growth since going public",
@@ -14,7 +28,7 @@
       "translated_summary": "The artificial intelligence-powered software company's cofounders include renowned venture capitalist Peter Thiel and current CEO Alex Karp.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15分钟前"
+      "time": "1小时前"
     },
     {
       "id": "7c8d540bf351",
@@ -28,7 +42,7 @@
       "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "bf8c091c758b",
@@ -42,7 +56,7 @@
       "translated_summary": "Conservative influencer and anti-DEI agitator Robby Starbuck has a new role: advising tech giant Meta on how to prevent “bias” in its artificial intelligence systems.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "3a14c187d516",
@@ -56,7 +70,7 @@
       "translated_summary": "Cohere was valued at $6.8 billion after its latest $500 million funding round, as the artificial intelligence startup moves to expand its market share in a highly competitive industry.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "9c5eb85326fd",
@@ -70,7 +84,7 @@
       "translated_summary": "A new update has arrived for Artificial, with the Luca Guadagnino’s OpenAI movie having now added a Bridesmaids star to the impressive cast.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "1df71a5b7e20",
@@ -84,7 +98,7 @@
       "translated_summary": "Shares of C3.ai are continuing their decline on Thursday. The enterprise artificial intelligence company is grappling with the fallout from a dire preliminary earnings report.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "5bfe8bc55a3b",
@@ -98,7 +112,7 @@
       "translated_summary": "Another senior figure is walking away from Elon Musk’s AI empire. Igor Babuschkin, one of the original co-founders of Musk’s artificial intelligence startup xAI, announced Wednesday that he's stepping down to start an investment firm focused on AI safety. The new venture, Babuschkin Ventures, will fund research and startups working to make AI more secure",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "5b172ac0d4b2",
@@ -112,7 +126,7 @@
       "translated_summary": "Oracle and Alphabet said on Thursday their cloud computing units have struck a deal to offer Google's Gemini artificial intelligence models through Oracle's cloud computing services and business applications.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "0d339ddd6a4d",
@@ -126,21 +140,7 @@
       "translated_summary": "Trump administration launches USAi, a secure generative artificial intelligence evaluation suite enabling federal agencies to adopt AI at scale faster and safer",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "90738592ab10",
-      "title": "Controversial Interview With School Shooting Victim's AI Avatar Sparks Debate",
-      "summary": "A teenager who was murdered in a school shooting has been interviewed from beyond the grave thanks to artificial intelligence.",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2025/08/14/controversial-interivew-with-school-shooting-victims-ai-avatar-sparks-debate/",
-      "publishedAt": "2025-08-14T11:54:05Z",
-      "image": "https://petapixel.com/assets/uploads/2025/08/AI-Avatar-Interview-Jim-Acosta.jpg",
-      "translated_title": "Controversial Interview With School Shooting Victim's AI Avatar Sparks Debate",
-      "translated_summary": "A teenager who was murdered in a school shooting has been interviewed from beyond the grave thanks to artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
