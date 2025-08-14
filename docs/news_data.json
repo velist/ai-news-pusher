@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-14T06:37:26.688386",
+  "last_updated": "2025-08-14T07:24:44.288638",
   "total_count": 10,
   "articles": [
+    {
+      "id": "89b62bb3fa01",
+      "title": "Could robotics and timber tackle Britain's housing challenges?",
+      "summary": "Gigantic robot arms controlled by artificial intelligence glide around a vast factory in Oxfordshire, England, making building frames from timber, one of the world's oldest construction materials.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/could-robotics-timber-tackle-britains-housing-challenges-2025-08-14/",
+      "publishedAt": "2025-08-14T05:06:43Z",
+      "image": "https://www.reuters.com/resizer/v2/E2MFMMVKVROQZPUIM3PBTZBFPY.jpg?auth=40ac6b3d2b16aa74155306fd1ea480070db7ba55e5cb48ff1fb3a43d0cdcf21b&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Could robotics and timber tackle Britain's housing challenges?",
+      "translated_summary": "Gigantic robot arms controlled by artificial intelligence glide around a vast factory in Oxfordshire, England, making building frames from timber, one of the world's oldest construction materials.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
+    },
     {
       "id": "d57befacbc68",
       "title": "DeepSeek's launch of new AI model delayed by Huawei chip issues, FT reports",
@@ -14,7 +28,7 @@
       "translated_summary": "Chinese artificial intelligence company DeepSeek has delayed the release of its new model after failing to train it using Huawei's chips, highlighting the limits of Beijing's push to replace U.S. technology, the Financial Times reported on Thursday.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "b9c3c6db63ec",
@@ -28,7 +42,7 @@
       "translated_summary": "Illinois passed a bill banning therapists from employing artificial intelligence chatbots for assistance with mental health therapy as experts countrywide warn against people's ever-growing reliance on the machines.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "5692118b2cb1",
@@ -42,7 +56,7 @@
       "translated_summary": "Alphabet's Google said it will spend an additional $9 billion in Oklahoma over the next two years to expand cloud and artificial intelligence infrastructure.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "23ec0c15254f",
@@ -70,7 +84,7 @@
       "translated_summary": "Geoff Hinton warns artificial intelligence could surpass humans within years, not decades, and recommends a focus on creating maternal instincts in machines.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "fb51c640bf19",
@@ -84,7 +98,7 @@
       "translated_summary": "President Trump stunned many in the tech world after announcing a controversial deal with chipmakers Nvidia and AMD, allowing them to sell advanced artificial intelligence chips to China in exchange for giving the U.S. government a 15% cut of their revenue. Amna Nawaz discussed the legality of this deal and its implications with Scott Kennedy of the Center for Strategic and International Studies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "756ce1e54ee7",
@@ -98,7 +112,7 @@
       "translated_summary": "Illinois recently passed a law that prohibits the use of artificial intelligence for mental health interactions or decisions.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "38840bfa003c",
@@ -112,7 +126,7 @@
       "translated_summary": "Illinois recently passed a law that prohibits the use of artificial intelligence for mental health interactions or decisions.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "bdce931ebcd9",
@@ -126,21 +140,7 @@
       "translated_summary": "Taiwan's Foxconn , the world's largest contract electronics maker, is expected to report on Thursday that second-quarter profit rose 11% on continued strong demand for artificial intelligence servers.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "055ca371495a",
-      "title": "Elon Musk's xAI loses co-founder Igor Babuschkin for venture firm",
-      "summary": "Igor Babuschkin, who helped start xAI in 2023, said in a post on X that he's leaving the artificial intelligence startup to launch his own venture firm.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/13/elon-musks-xai-loses-co-founder-igor-babuschkin-for-venture-firm.html",
-      "publishedAt": "2025-08-13T21:56:08Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108185685-1755120943572-gettyimages-2089842712-NVIDIA_GTC_CONFERENCE.jpeg?v=1755120980&w=1920&h=1080",
-      "translated_title": "Elon Musk's xAI loses co-founder Igor Babuschkin for venture firm",
-      "translated_summary": "Igor Babuschkin, who helped start xAI in 2023, said in a post on X that he's leaving the artificial intelligence startup to launch his own venture firm.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     }
   ]
 }
