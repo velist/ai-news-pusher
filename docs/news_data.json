@@ -1,7 +1,77 @@
 {
-  "last_updated": "2025-08-15T15:25:17.077375",
+  "last_updated": "2025-08-15T16:29:59.281979",
   "total_count": 10,
   "articles": [
+    {
+      "id": "eca424b30493",
+      "title": "Artificial Intelligence' Play Differently Today?",
+      "summary": "Let's revisit the AI classic, in an age where AI itself has become a buzzword.",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/steven-spielberg-ai-retro-review-chatgpt-2000643079",
+      "publishedAt": "2025-08-15T16:00:42Z",
+      "image": "https://gizmodo.com/app/uploads/2025/08/AI-Movie-Retro-Review-1200x675.jpg",
+      "translated_title": "Artificial Intelligence' Play Differently Today?",
+      "translated_summary": "Let's revisit the AI classic, in an age where AI itself has become a buzzword.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "29分钟前"
+    },
+    {
+      "id": "c90ec387114a",
+      "title": "Why the Best AI Films Don’t Feel Artificial at All",
+      "summary": "No matter how far AI advances, film production will always be driven by visionaries with stories to tell.",
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/culture-council/articles/why-best-ai-films-dont-feel-artificial-at-all-1235407766/",
+      "publishedAt": "2025-08-15T16:00:00Z",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2025/08/why_the_best_ai_films_dont_feel_artificial_at_all.jpg?w=1600&h=900&crop=1",
+      "translated_title": "Why the Best AI Films Don’t Feel Artificial at All",
+      "translated_summary": "No matter how far AI advances, film production will always be driven by visionaries with stories to tell.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "29分钟前"
+    },
+    {
+      "id": "7cfa7f8f8734",
+      "title": "Top Silicon Valley exec reveals the ‘stupidest thing’ companies adopting AI can do",
+      "summary": "The president of Cisco rejects the doomsday warnings from some tech leaders that artificial intelligence will make entry-level jobs vanish.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/15/top-exec-reveals-the-stupidest-thing-companies-adopting-ai-can-do/",
+      "publishedAt": "2025-08-15T15:48:44Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/08/Top_exec_reveals_the_8216stupidest_thing8217_companies_adopting_AI_can_do1-1.jpg?w=1024&h=682",
+      "translated_title": "Top Silicon Valley exec reveals the ‘stupidest thing’ companies adopting AI can do",
+      "translated_summary": "The president of Cisco rejects the doomsday warnings from some tech leaders that artificial intelligence will make entry-level jobs vanish.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "41分钟前"
+    },
+    {
+      "id": "9bf5ad80214d",
+      "title": "OpenAI’s Sam Altman expects to spend ‘trillions’ on infrastructure",
+      "summary": "OpenAI Chief Executive Officer Sam Altman wants to spend trillions of dollars over time on the infrastructure required to develop and run artificial intelligence services. He just needs to figure out a way to raise that kind of money.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/15/openais-sam-altman-expects-to-spend-trillions-on-infrastructure/",
+      "publishedAt": "2025-08-15T15:47:03Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/OpenAI_CEO_Sam_Altman_warns_of_an_AI_8216fraud_crisis82171.jpg?w=1024&h=684",
+      "translated_title": "OpenAI’s Sam Altman expects to spend ‘trillions’ on infrastructure",
+      "translated_summary": "OpenAI Chief Executive Officer Sam Altman wants to spend trillions of dollars over time on the infrastructure required to develop and run artificial intelligence services. He just needs to figure out a way to raise that kind of money.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "42分钟前"
+    },
+    {
+      "id": "153962d8daf8",
+      "title": "Meta’s superintelligence dream team will be management challenge of the century",
+      "summary": "Meta is spending a fortune to assemble the brightest minds in artificial intelligence. Research suggests that packing a team with too much genius can backfire.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/15/metas-superintelligence-dream-team-will-be-management-challenge-of-the-century/",
+      "publishedAt": "2025-08-15T15:39:08Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/06/Meta_AI_Copyright_73011.jpg?w=1024&h=682",
+      "translated_title": "Meta’s superintelligence dream team will be management challenge of the century",
+      "translated_summary": "Meta is spending a fortune to assemble the brightest minds in artificial intelligence. Research suggests that packing a team with too much genius can backfire.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "50分钟前"
+    },
     {
       "id": "3068100c6960",
       "title": "Bitcoin Swift Enters Final Four Days of Stage 5 Presale",
@@ -14,7 +84,7 @@
       "translated_summary": "LUXEMBOURG, Aug. 15, 2025 (GLOBE NEWSWIRE) -- Bitcoin Swift (BTC3), a blockchain project integrating artificial intelligence (AI) with a Proof-of-Yield...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "41分钟前"
+      "time": "1小时前"
     },
     {
       "id": "7e592665a9fc",
@@ -28,7 +98,7 @@
       "translated_summary": "An Australian lawyer filed submissions in a murder case that included incorrect information generated by artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "52分钟前"
+      "time": "1小时前"
     },
     {
       "id": "f1d3a260e538",
@@ -42,7 +112,7 @@
       "translated_summary": "A senior lawyer in Australia has apologized to a judge for filing submissions in a murder case that included fake quotes and nonexistent case judgments generated by artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "56分钟前"
+      "time": "2小时前"
     },
     {
       "id": "161c1bf039b1",
@@ -56,7 +126,7 @@
       "translated_summary": "OpenAI Chief Executive Officer Sam Altman wants to spend trillions of dollars over time on the infrastructure required to develop and run artificial intelligence services. He just needs to figure out a way to raise that kind of money.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "b418deec24ce",
@@ -70,77 +140,7 @@
       "translated_summary": "A new study unearthed disturbing results of AI usage in clinicians.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
-    },
-    {
-      "id": "21494ee073e8",
-      "title": "Australian lawyer apologizes for AI-generated errors in murder case",
-      "summary": "A senior lawyer in Australia has apologized to a judge for filing submissions in a murder case that included fake quotes and nonexistent case judgments generated by artificial intelligence.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/15/world-news/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case/",
-      "publishedAt": "2025-08-15T13:08:59Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109619177.jpg?quality=75&strip=all&w=1024",
-      "translated_title": "Australian lawyer apologizes for AI-generated errors in murder case",
-      "translated_summary": "A senior lawyer in Australia has apologized to a judge for filing submissions in a murder case that included fake quotes and nonexistent case judgments generated by artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "2小时前"
-    },
-    {
-      "id": "e9274b0a06dd",
-      "title": "Australian Lawyer Apologizes for AI-generated Errors in Murder Case",
-      "summary": "A senior lawyer in Australia has apologized to a judge for filing submissions in a murder case that included fake quotes and nonexistent case judgments generated by artificial intelligence.",
-      "source": "Newsmax",
-      "url": "https://www.newsmax.com/world/globaltalk/australia-murder-artifical-intelligence/2025/08/15/id/1222599/",
-      "publishedAt": "2025-08-15T11:41:49Z",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=99244fd6-6a15-46b3-9c45-194929311e2a&SiteName=Newsmax",
-      "translated_title": "Australian Lawyer Apologizes for AI-generated Errors in Murder Case",
-      "translated_summary": "A senior lawyer in Australia has apologized to a judge for filing submissions in a murder case that included fake quotes and nonexistent case judgments generated by artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "95debf4d1158",
-      "title": "How AI Is Set to Reshape the Workplace | Bloomberg Tech: Europe 8/15/2025",
-      "summary": "From the job cuts at Microsoft and Salesforce to Meta's multi-billion dollar hiring spree, artificial intelligence's impact on the labor market is already being felt. But what about the longer-term effects on the jobs available? Meet the European innovators set to redefine the future of work with tools including life-like avatars to next-gen voice AI.\n\"Bloomberg Tech: Europe\" spotlights the biggest names and trends shaping the region's technology ecosystem as the global competition heats up. This monthly, 30-minute magazine-style show features in-depth interviews with top technology leaders, as well as major investors and policymakers - giving you a compelling A to Z of the most consequential innovations, opportunities and challenges. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-15/ai-and-the-workplace-bloomberg-tech-europe-8-15-2025-video",
-      "publishedAt": "2025-08-15T10:44:21Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyxV5g9oCy.I/v3/-1x-1.jpg",
-      "translated_title": "How AI Is Set to Reshape the Workplace | Bloomberg Tech: Europe 8/15/2025",
-      "translated_summary": "From the job cuts at Microsoft and Salesforce to Meta's multi-billion dollar hiring spree, artificial intelligence's impact on the labor market is already being felt. But what about the longer-term effects on the jobs available? Meet the European innovators set to redefine the future of work with tools including life-like avatars to next-gen voice AI.\n\"Bloomberg Tech: Europe\" spotlights the biggest names and trends shaping the region's technology ecosystem as the global competition heats up. This monthly, 30-minute magazine-style show features in-depth interviews with top technology leaders, as well as major investors and policymakers - giving you a compelling A to Z of the most consequential innovations, opportunities and challenges. (Source: Bloomberg)",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "4小时前"
-    },
-    {
-      "id": "dc913dd43794",
-      "title": "Euan Blair: AI Transition Needs An 'All In' Approach",
-      "summary": "It's clear Artificial Intelligence will transform the way we work. But how should workers - and their employers - position for success? Euan Blair, the CEO of upskilling platform Multiverse, says the key is to go 'all in' on AI. Blair spoke to Tom Mackenzie on \"Bloomberg Tech: Europe.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-15/euan-blair-ai-transition-needs-an-all-in-approach-video",
-      "publishedAt": "2025-08-15T10:42:56Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD5hmSWbTdcw/v3/-1x-1.jpg",
-      "translated_title": "Euan Blair: AI Transition Needs An 'All In' Approach",
-      "translated_summary": "It's clear Artificial Intelligence will transform the way we work. But how should workers - and their employers - position for success? Euan Blair, the CEO of upskilling platform Multiverse, says the key is to go 'all in' on AI. Blair spoke to Tom Mackenzie on \"Bloomberg Tech: Europe.\" (Source: Bloomberg)",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "b0865c187fb1",
-      "title": "AI will be more disruptive than COVID. Which party can seize the moment?",
-      "summary": "If the artificial intelligence boom happens while President Trump is in office, he'll be blamed for the loss of millions of middle-class jobs. But will Democrats offer a vision for a new workforce?",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/opinion/story/2025-08-15/ai-disrupt-jobs-politics",
-      "publishedAt": "2025-08-15T10:04:00Z",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/2986186/2147483647/strip/true/crop/5886x3090+0+417/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F80%2F19%2Fd037d25e449b9f94423fc561af74%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1246327356",
-      "translated_title": "AI will be more disruptive than COVID. Which party can seize the moment?",
-      "translated_summary": "If the artificial intelligence boom happens while President Trump is in office, he'll be blamed for the loss of millions of middle-class jobs. But will Democrats offer a vision for a new workforce?",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
     }
   ]
 }
