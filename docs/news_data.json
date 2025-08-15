@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-15T20:26:19.809688",
+  "last_updated": "2025-08-15T21:19:43.158026",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e111c38863e4",
+      "title": "Trump Eyes Chips Act Funds for Intel Stake | Bloomberg Tech 8/15/2025",
+      "summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss reports that the Trump administration is eyeing Chips Act funds in order to take a stake in Intel. Plus, Applied Materials shares plunge due to growing trade concerns between the US and China. And OpenAI Chairman of the Board and Sierra CEO Bret Taylor talks about the impact artificial intelligence is having on software and how the OpenAI board is approaching corporate restructuring. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-15/bloomberg-tech-8-15-2025-video",
+      "publishedAt": "2025-08-15T20:33:24Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD0lgWXCrchE/v3/-1x-1.jpg",
+      "translated_title": "Trump Eyes Chips Act Funds for Intel Stake | Bloomberg Tech 8/15/2025",
+      "translated_summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss reports that the Trump administration is eyeing Chips Act funds in order to take a stake in Intel. Plus, Applied Materials shares plunge due to growing trade concerns between the US and China. And OpenAI Chairman of the Board and Sierra CEO Bret Taylor talks about the impact artificial intelligence is having on software and how the OpenAI board is approaching corporate restructuring. (Source: Bloomberg)",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "46分钟前"
+    },
     {
       "id": "e35b4c48a5ce",
       "title": "Lex Wire Journal Launches to Help Attorneys Gain Visibility",
@@ -14,7 +28,7 @@
       "translated_summary": "Dallas, Aug. 15, 2025 (GLOBE NEWSWIRE) -- As artificial intelligence tools increasingly shape how legal professionals are discovered and cited, a new...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18分钟前"
+      "time": "1小时前"
     },
     {
       "id": "5ae9a72713ce",
@@ -28,7 +42,7 @@
       "translated_summary": "Sen. Josh Hawley, R-Mo., said Friday that he will investigate Meta following a report that the company approved rules allowing artificial intelligence chatbots to have certain “romantic” and “sensual” conversations with children",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "25分钟前"
+      "time": "1小时前"
     },
     {
       "id": "8467384ce562",
@@ -56,7 +70,7 @@
       "translated_summary": "U.S. Senator Josh Hawley launched a probe into Facebook parent Meta Platforms' artificial intelligence policies on Friday, demanding documents on rules that had allowed its artificial intelligence chatbots to “engage a child in conversations that are romantic or sensual.”",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "325a891d9a0f",
@@ -70,7 +84,7 @@
       "translated_summary": "Adm. Tony Radakin also warned, however, that whoever gets to \"artificial super intelligence\" first will dominate on the battlefield.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "eca424b30493",
@@ -84,7 +98,7 @@
       "translated_summary": "Let's revisit the AI classic, in an age where AI itself has become a buzzword.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "c90ec387114a",
@@ -98,7 +112,7 @@
       "translated_summary": "No matter how far AI advances, film production will always be driven by visionaries with stories to tell.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "7cfa7f8f8734",
@@ -112,7 +126,7 @@
       "translated_summary": "The president of Cisco rejects the doomsday warnings from some tech leaders that artificial intelligence will make entry-level jobs vanish.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "9bf5ad80214d",
@@ -126,21 +140,7 @@
       "translated_summary": "OpenAI Chief Executive Officer Sam Altman wants to spend trillions of dollars over time on the infrastructure required to develop and run artificial intelligence services. He just needs to figure out a way to raise that kind of money.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
-    },
-    {
-      "id": "153962d8daf8",
-      "title": "Meta’s superintelligence dream team will be management challenge of the century",
-      "summary": "Meta is spending a fortune to assemble the brightest minds in artificial intelligence. Research suggests that packing a team with too much genius can backfire.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/08/15/metas-superintelligence-dream-team-will-be-management-challenge-of-the-century/",
-      "publishedAt": "2025-08-15T15:39:08Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/06/Meta_AI_Copyright_73011.jpg?w=1024&h=682",
-      "translated_title": "Meta’s superintelligence dream team will be management challenge of the century",
-      "translated_summary": "Meta is spending a fortune to assemble the brightest minds in artificial intelligence. Research suggests that packing a team with too much genius can backfire.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     }
   ]
 }
