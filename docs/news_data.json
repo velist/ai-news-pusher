@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-15T10:25:49.580953",
+  "last_updated": "2025-08-15T11:20:04.686091",
   "total_count": 10,
   "articles": [
+    {
+      "id": "95debf4d1158",
+      "title": "How AI Is Set to Reshape the Workplace | Bloomberg Tech: Europe 8/15/2025",
+      "summary": "From the job cuts at Microsoft and Salesforce to Meta's multi-billion dollar hiring spree, artificial intelligence's impact on the labor market is already being felt. But what about the longer-term effects on the jobs available? Meet the European innovators set to redefine the future of work with tools including life-like avatars to next-gen voice AI.\n\"Bloomberg Tech: Europe\" spotlights the biggest names and trends shaping the region's technology ecosystem as the global competition heats up. This monthly, 30-minute magazine-style show features in-depth interviews with top technology leaders, as well as major investors and policymakers - giving you a compelling A to Z of the most consequential innovations, opportunities and challenges. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-15/ai-and-the-workplace-bloomberg-tech-europe-8-15-2025-video",
+      "publishedAt": "2025-08-15T10:44:21Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyxV5g9oCy.I/v3/-1x-1.jpg",
+      "translated_title": "How AI Is Set to Reshape the Workplace | Bloomberg Tech: Europe 8/15/2025",
+      "translated_summary": "From the job cuts at Microsoft and Salesforce to Meta's multi-billion dollar hiring spree, artificial intelligence's impact on the labor market is already being felt. But what about the longer-term effects on the jobs available? Meet the European innovators set to redefine the future of work with tools including life-like avatars to next-gen voice AI.\n\"Bloomberg Tech: Europe\" spotlights the biggest names and trends shaping the region's technology ecosystem as the global competition heats up. This monthly, 30-minute magazine-style show features in-depth interviews with top technology leaders, as well as major investors and policymakers - giving you a compelling A to Z of the most consequential innovations, opportunities and challenges. (Source: Bloomberg)",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "35分钟前"
+    },
+    {
+      "id": "dc913dd43794",
+      "title": "Euan Blair: AI Transition Needs An 'All In' Approach",
+      "summary": "It's clear Artificial Intelligence will transform the way we work. But how should workers - and their employers - position for success? Euan Blair, the CEO of upskilling platform Multiverse, says the key is to go 'all in' on AI. Blair spoke to Tom Mackenzie on \"Bloomberg Tech: Europe.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2025-08-15/euan-blair-ai-transition-needs-an-all-in-approach-video",
+      "publishedAt": "2025-08-15T10:42:56Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD5hmSWbTdcw/v3/-1x-1.jpg",
+      "translated_title": "Euan Blair: AI Transition Needs An 'All In' Approach",
+      "translated_summary": "It's clear Artificial Intelligence will transform the way we work. But how should workers - and their employers - position for success? Euan Blair, the CEO of upskilling platform Multiverse, says the key is to go 'all in' on AI. Blair spoke to Tom Mackenzie on \"Bloomberg Tech: Europe.\" (Source: Bloomberg)",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "37分钟前"
+    },
     {
       "id": "b0865c187fb1",
       "title": "AI will be more disruptive than COVID. Which party can seize the moment?",
@@ -14,7 +42,7 @@
       "translated_summary": "If the artificial intelligence boom happens while President Trump is in office, he'll be blamed for the loss of millions of middle-class jobs. But will Democrats offer a vision for a new workforce?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21分钟前"
+      "time": "1小时前"
     },
     {
       "id": "24ae8ab06f1c",
@@ -28,7 +56,7 @@
       "translated_summary": "OpenAI CEO Sam Altman detailed his vision for an artificial intelligence companion device during a recent podcast appearance.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "21分钟前"
+      "time": "1小时前"
     },
     {
       "id": "3cf17712b0c3",
@@ -42,7 +70,21 @@
       "translated_summary": "The Meta AI app offers an uneven experience, posing a sharp contrast to Mark Zuckerberg’s lofty artificial intelligence ambitions.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "25分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "643a43236c63",
+      "title": "Would you eat at a restaurant run by AI?",
+      "summary": "The Woohoo restaurant in Dubai uses AI chef Aiman to create innovative dishes, combining artificial intelligence with human culinary expertise near Burj Khalifa.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/would-you-eat-restaurant-run-ai",
+      "publishedAt": "2025-08-15T10:00:00Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/1-would-you-eat-at-a-restaurant-run-by-ai.jpg",
+      "translated_title": "Would you eat at a restaurant run by AI?",
+      "translated_summary": "The Woohoo restaurant in Dubai uses AI chef Aiman to create innovative dishes, combining artificial intelligence with human culinary expertise near Burj Khalifa.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
     },
     {
       "id": "299436dba48d",
@@ -56,7 +98,7 @@
       "translated_summary": "These contemporary Native artists are reimagining relationships between technology, memory, and resistance.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "25分钟前"
+      "time": "1小时前"
     },
     {
       "id": "d6b3dd31a3f8",
@@ -70,7 +112,7 @@
       "translated_summary": "The president of Cisco rejects the doomsday warnings from some tech leaders that artificial intelligence will make entry-level jobs vanish.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "1e15a61a2131",
@@ -84,7 +126,7 @@
       "translated_summary": "The president of Cisco rejects the doomsday warnings from some tech leaders that artificial intelligence will make entry-level jobs vanish.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "17884ba26520",
@@ -98,49 +140,7 @@
       "translated_summary": "Geoffrey Hinton, dubbed the \"Godfather of AI,\" warned that artificial intelligence systems will inevitably develop power-seeking behaviors.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
-    },
-    {
-      "id": "4e1d238b93a5",
-      "title": "Eli Lilly Strikes $1.3 Billion Deal With Superluminal To Develop AI-Driven Obesity Drugs",
-      "summary": "Eli Lilly and Co (NYSE: LLY) has entered into a $1.3 billion deal with Superluminal Medicines to develop small-molecule drugs through artificial intelligence (AI) to treat obesity and other cardiometabolic diseases.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/news/health-care/25/08/47148041/eli-lilly-strikes-1-3-billion-deal-with-superluminal-to-develop-ai-driven-obesity-drugs",
-      "publishedAt": "2025-08-15T06:55:44Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/08/15/shutterstock-2320424901-huge.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "Eli Lilly Strikes $1.3 Billion Deal With Superluminal To Develop AI-Driven Obesity Drugs",
-      "translated_summary": "Eli Lilly and Co (NYSE: LLY) has entered into a $1.3 billion deal with Superluminal Medicines to develop small-molecule drugs through artificial intelligence (AI) to treat obesity and other cardiometabolic diseases.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "507f386320eb",
-      "title": "Australian Lawyer Apologizes for AI-Generated Errors in Murder Case",
-      "summary": "MELBOURNE, Australia (AP) — A senior lawyer in Australia has apologized to a judge for filing submissions in a murder case that included fake quotes and non-existent case judgments generated by artificial intelligence.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/offbeat/articles/2025-08-15/australian-lawyer-apologizes-for-ai-generated-errors-in-murder-case",
-      "publishedAt": "2025-08-15T06:44:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/7220d8e/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F40%2F73ec566ac6437a1c6a9fa1955d61d6%2Ff7291273c24b49c0a3fe8b8af5a395f8Australia_Fake_Citations_56614.jpg",
-      "translated_title": "Australian Lawyer Apologizes for AI-Generated Errors in Murder Case",
-      "translated_summary": "MELBOURNE, Australia (AP) — A senior lawyer in Australia has apologized to a judge for filing submissions in a murder case that included fake quotes and non-existent case judgments generated by artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "c76b5d5a20e6",
-      "title": "Powerful new AI models knock the wind out of European adopter stocks",
-      "summary": "A rout in shares of European companies embracing artificial intelligence deepened this week, as powerful new AI models raise questions about whether sectors from software to data analytics could find themselves overtaken by the technology.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/powerful-new-ai-models-knock-wind-out-european-adopter-stocks-2025-08-15/",
-      "publishedAt": "2025-08-15T04:33:57Z",
-      "image": "https://www.reuters.com/resizer/v2/JA2OX2ZYBBPEBFHDBOIFPAF6IA.jpg?auth=45e1557f9ec409c9a28f23617d383d9f4bcd2e126abee5c8110c5db060510a5c&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Powerful new AI models knock the wind out of European adopter stocks",
-      "translated_summary": "A rout in shares of European companies embracing artificial intelligence deepened this week, as powerful new AI models raise questions about whether sectors from software to data analytics could find themselves overtaken by the technology.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "5小时前"
+      "time": "2小时前"
     }
   ]
 }
