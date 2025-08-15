@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-14T23:22:41.675805",
+  "last_updated": "2025-08-15T02:01:00.238291",
   "total_count": 10,
   "articles": [
+    {
+      "id": "96d20b3408f5",
+      "title": "Hedge funds shift bets to double down on Big Tech amid AI boom",
+      "summary": "Wall Street's largest hedge funds, Bridgewater Associates, Tiger Global Management and Discovery Capital, increased their exposure to Big Tech in the second quarter amid a generational boom in the growth of artificial intelligence.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/wealth/hedge-funds-shift-bets-double-down-big-tech-amid-ai-boom-2025-08-14/",
+      "publishedAt": "2025-08-14T23:35:44Z",
+      "image": "https://www.reuters.com/resizer/v2/QIMUYXIPNNJWLFB7FEMVFQODIU.jpg?auth=6bcddd76163f72276a09eb76602852888d94a4a8e25557d73a55eb872f1fb50e&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Hedge funds shift bets to double down on Big Tech amid AI boom",
+      "translated_summary": "Wall Street's largest hedge funds, Bridgewater Associates, Tiger Global Management and Discovery Capital, increased their exposure to Big Tech in the second quarter amid a generational boom in the growth of artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
+    },
+    {
+      "id": "ea4f71fe3111",
+      "title": "Masayoshi Son’s Fortune Jumps $9 Billion in Two Weeks on AI Bets",
+      "summary": "In the first two weeks of August alone, Masayoshi Son has added $9 billion to his fortune as SoftBank Group Corp.’s artificial intelligence bets sent its shares to record highs. That’s put Son’s wealth firmly back on the upswing after years of turbulence.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-14/masayoshi-son-s-fortune-jumps-9-billion-in-two-weeks-on-ai-bets",
+      "publishedAt": "2025-08-14T22:33:47Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i73Y5SLclUDw/v0/1200x800.jpg",
+      "translated_title": "Masayoshi Son’s Fortune Jumps $9 Billion in Two Weeks on AI Bets",
+      "translated_summary": "In the first two weeks of August alone, Masayoshi Son has added $9 billion to his fortune as SoftBank Group Corp.’s artificial intelligence bets sent its shares to record highs. That’s put Son’s wealth firmly back on the upswing after years of turbulence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "3小时前"
+    },
     {
       "id": "613022721220",
       "title": "Silicon Valley Parents Are Spending $50,000 to Screen Embryos for IQ",
@@ -14,7 +42,7 @@
       "translated_summary": "Some tech CEOs are hoping that their children will be intelligent enough to regulate the artificial intelligence being developed in their very own industry.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "4小时前"
     },
     {
       "id": "7184b4a38267",
@@ -28,7 +56,7 @@
       "translated_summary": "New analysis from Goldman Sachs economists estimated that artificial intelligence might not lead to widespread job losses some fear.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "4小时前"
     },
     {
       "id": "3aca13265cb1",
@@ -42,7 +70,7 @@
       "translated_summary": "New analysis from Goldman Sachs economists estimated that artificial intelligence might not lead to widespread job losses some fear.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "4小时前"
     },
     {
       "id": "499c4b388858",
@@ -56,7 +84,7 @@
       "translated_summary": "With artificial intelligence (AI) rendering more and more jobs obsolete, some tech titans in Silicon Valley say the solution lies in giving everyone a universal basic income (UBI).",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "7635a540c4d5",
@@ -65,12 +93,12 @@
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
       "publishedAt": "2025-08-14T20:36:35Z",
-      "image": "https://static01.nyt.com/images/2025/08/14/multimedia/14Boden--zfmv/14Boden--zfmv-facebookJumbo.jpg",
+      "image": "https://static01.nyt.com/images/2025/08/14/multimedia/14Boden--zfmv/14Boden--zfmv-facebookJumbo-v2.jpg",
       "translated_title": "Margaret Boden, Philosopher of Artificial Intelligence, Dies at 88",
       "translated_summary": "A cognitive scientist, she used the language of computers to explore the nature of human thought and creativity, offering prescient insights about A.I.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "5小时前"
     },
     {
       "id": "bf4c335ecb0f",
@@ -84,7 +112,7 @@
       "translated_summary": "Meta Platforms Inc. is spending a fortune to assemble the brightest minds in artificial intelligence. Chief Executive Officer Mark Zuckerberg may want to note: Research suggests that packing a team with too much genius can backfire.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "6小时前"
     },
     {
       "id": "3606eedf642e",
@@ -98,7 +126,7 @@
       "translated_summary": "The investor doubled down on key artificial intelligence beneficiaries such as Nvidia and Microsoft as the tech rally came back with a fury in the second quarter.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "6小时前"
     },
     {
       "id": "ca6d63de2689",
@@ -112,35 +140,7 @@
       "translated_summary": "Wedbush Head of Tech Research Dan Ives says Apple is so far behind in artificial intelligence development that it needs to make an acquisition to catch up. Ives joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
-    },
-    {
-      "id": "a20344552585",
-      "title": "Apple Looks to Regain Mojo With AI Robots, Lifelike Siri",
-      "summary": "Apple is plotting an artificial intelligence comeback with new devices, including robots and a lifelike version of Siri. Bloomberg’s Mark Gurman discusses the iPhone maker’s plans with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-14/apple-looks-to-regain-mojo-with-ai-robots-lifelike-siri-video",
-      "publishedAt": "2025-08-14T18:40:16Z",
-      "image": "https://www.bloomberg.com/favicon-black.png",
-      "translated_title": "Apple Looks to Regain Mojo With AI Robots, Lifelike Siri",
-      "translated_summary": "Apple is plotting an artificial intelligence comeback with new devices, including robots and a lifelike version of Siri. Bloomberg’s Mark Gurman discusses the iPhone maker’s plans with Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "8ead8b744b1c",
-      "title": "Man who asked ChatGPT about cutting out salt from his diet was hospitalized with hallucinations",
-      "summary": "A 60-year-old man spent three weeks being treated at a hospital after replacing table salt with sodium bromide following consultation with the popular artificial intelligence bot ChatGPT",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/tech-news/man-asked-chatgpt-cutting-salt-diet-was-hospitalized-hallucinations-rcna225055",
-      "publishedAt": "2025-08-14T18:17:19Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250814-chatgpt-salt-advice-se-200p-8c63c7.jpg",
-      "translated_title": "Man who asked ChatGPT about cutting out salt from his diet was hospitalized with hallucinations",
-      "translated_summary": "A 60-year-old man spent three weeks being treated at a hospital after replacing table salt with sodium bromide following consultation with the popular artificial intelligence bot ChatGPT",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "7小时前"
     }
   ]
 }
