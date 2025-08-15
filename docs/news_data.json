@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-15T02:01:00.238291",
+  "last_updated": "2025-08-15T03:53:33.482122",
   "total_count": 10,
   "articles": [
+    {
+      "id": "94be86b741ee",
+      "title": "China's 'robot Olympics' sees humanoids from 16 nations compete in table tennis, football, track",
+      "summary": "China kicked off a three-day long sports showcase for humanoid robots on Friday, looking to highlight progress in artificial intelligence and robotics with 280 teams from 16 countries competing in the World Humanoid Robot Games.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sports/chinas-robot-olympics-sees-humanoids-16-nations-compete-table-tennis-football-2025-08-15/",
+      "publishedAt": "2025-08-15T02:37:21Z",
+      "image": "https://www.reuters.com/resizer/v2/TOECSCK7XFJTPBAQ5KSRIJ3SWY.jpg?auth=34454e2d87d54983121babdef29ca0e38a47c74118790670f02ca2ed1eb3c162&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "China's 'robot Olympics' sees humanoids from 16 nations compete in table tennis, football, track",
+      "translated_summary": "China kicked off a three-day long sports showcase for humanoid robots on Friday, looking to highlight progress in artificial intelligence and robotics with 280 teams from 16 countries competing in the World Humanoid Robot Games.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "96d20b3408f5",
       "title": "Hedge funds shift bets to double down on Big Tech amid AI boom",
@@ -14,7 +28,7 @@
       "translated_summary": "Wall Street's largest hedge funds, Bridgewater Associates, Tiger Global Management and Discovery Capital, increased their exposure to Big Tech in the second quarter amid a generational boom in the growth of artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "ea4f71fe3111",
@@ -28,7 +42,7 @@
       "translated_summary": "In the first two weeks of August alone, Masayoshi Son has added $9 billion to his fortune as SoftBank Group Corp.’s artificial intelligence bets sent its shares to record highs. That’s put Son’s wealth firmly back on the upswing after years of turbulence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "613022721220",
@@ -42,7 +56,7 @@
       "translated_summary": "Some tech CEOs are hoping that their children will be intelligent enough to regulate the artificial intelligence being developed in their very own industry.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "7184b4a38267",
@@ -56,7 +70,7 @@
       "translated_summary": "New analysis from Goldman Sachs economists estimated that artificial intelligence might not lead to widespread job losses some fear.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "3aca13265cb1",
@@ -70,7 +84,7 @@
       "translated_summary": "New analysis from Goldman Sachs economists estimated that artificial intelligence might not lead to widespread job losses some fear.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "499c4b388858",
@@ -84,7 +98,7 @@
       "translated_summary": "With artificial intelligence (AI) rendering more and more jobs obsolete, some tech titans in Silicon Valley say the solution lies in giving everyone a universal basic income (UBI).",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "7635a540c4d5",
@@ -98,7 +112,7 @@
       "translated_summary": "A cognitive scientist, she used the language of computers to explore the nature of human thought and creativity, offering prescient insights about A.I.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "bf4c335ecb0f",
@@ -112,7 +126,7 @@
       "translated_summary": "Meta Platforms Inc. is spending a fortune to assemble the brightest minds in artificial intelligence. Chief Executive Officer Mark Zuckerberg may want to note: Research suggests that packing a team with too much genius can backfire.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "3606eedf642e",
@@ -126,21 +140,7 @@
       "translated_summary": "The investor doubled down on key artificial intelligence beneficiaries such as Nvidia and Microsoft as the tech rally came back with a fury in the second quarter.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "ca6d63de2689",
-      "title": "Apple Needs to Do an AI Acquisition, Says Dan Ives",
-      "summary": "Wedbush Head of Tech Research Dan Ives says Apple is so far behind in artificial intelligence development that it needs to make an acquisition to catch up. Ives joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2025-08-14/apple-needs-to-do-an-ai-acquisition-says-dan-ives-video",
-      "publishedAt": "2025-08-14T18:43:31Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHLiwkKl6rc8/v3/-1x-1.jpg",
-      "translated_title": "Apple Needs to Do an AI Acquisition, Says Dan Ives",
-      "translated_summary": "Wedbush Head of Tech Research Dan Ives says Apple is so far behind in artificial intelligence development that it needs to make an acquisition to catch up. Ives joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "8小时前"
     }
   ]
 }
