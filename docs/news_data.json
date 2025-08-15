@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-15T04:34:23.044506",
+  "last_updated": "2025-08-15T05:25:19.925914",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c76b5d5a20e6",
+      "title": "Powerful new AI models knock the wind out of European adopter stocks",
+      "summary": "A rout in shares of European companies embracing artificial intelligence deepened this week, as powerful new AI models raise questions about whether sectors from software to data analytics could find themselves overtaken by the technology.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/powerful-new-ai-models-knock-wind-out-european-adopter-stocks-2025-08-15/",
+      "publishedAt": "2025-08-15T04:33:57Z",
+      "image": "https://www.reuters.com/resizer/v2/JA2OX2ZYBBPEBFHDBOIFPAF6IA.jpg?auth=45e1557f9ec409c9a28f23617d383d9f4bcd2e126abee5c8110c5db060510a5c&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Powerful new AI models knock the wind out of European adopter stocks",
+      "translated_summary": "A rout in shares of European companies embracing artificial intelligence deepened this week, as powerful new AI models raise questions about whether sectors from software to data analytics could find themselves overtaken by the technology.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "51分钟前"
+    },
     {
       "id": "94be86b741ee",
       "title": "China's 'robot Olympics' sees humanoids from 16 nations compete in table tennis, football, track",
@@ -14,7 +28,7 @@
       "translated_summary": "China kicked off a three-day long sports showcase for humanoid robots on Friday, looking to highlight progress in artificial intelligence and robotics with 280 teams from 16 countries competing in the World Humanoid Robot Games.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "96d20b3408f5",
@@ -28,7 +42,7 @@
       "translated_summary": "Wall Street's largest hedge funds, Bridgewater Associates, Tiger Global Management and Discovery Capital, increased their exposure to Big Tech in the second quarter amid a generational boom in the growth of artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "ea4f71fe3111",
@@ -56,7 +70,7 @@
       "translated_summary": "Some tech CEOs are hoping that their children will be intelligent enough to regulate the artificial intelligence being developed in their very own industry.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "7184b4a38267",
@@ -98,7 +112,7 @@
       "translated_summary": "With artificial intelligence (AI) rendering more and more jobs obsolete, some tech titans in Silicon Valley say the solution lies in giving everyone a universal basic income (UBI).",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "7635a540c4d5",
@@ -107,12 +121,12 @@
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
       "publishedAt": "2025-08-14T20:36:35Z",
-      "image": "https://static01.nyt.com/images/2025/08/14/multimedia/14Boden--zfmv/14Boden--zfmv-facebookJumbo-v2.jpg",
+      "image": "https://static01.nyt.com/images/2025/08/16/multimedia/14Boden--zfmv-print1/14Boden--zfmv-facebookJumbo-v2.jpg",
       "translated_title": "Margaret Boden, Philosopher of Artificial Intelligence, Dies at 88",
       "translated_summary": "A cognitive scientist, she used the language of computers to explore the nature of human thought and creativity, offering prescient insights about A.I.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "bf4c335ecb0f",
@@ -126,20 +140,6 @@
       "translated_summary": "Meta Platforms Inc. is spending a fortune to assemble the brightest minds in artificial intelligence. Chief Executive Officer Mark Zuckerberg may want to note: Research suggests that packing a team with too much genius can backfire.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "8小时前"
-    },
-    {
-      "id": "3606eedf642e",
-      "title": "Tiger cub hedge fund Coatue Management unveils new position in Oracle, doubles down on AI buildout",
-      "summary": "The investor doubled down on key artificial intelligence beneficiaries such as Nvidia and Microsoft as the tech rally came back with a fury in the second quarter.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/14/tiger-cub-hedge-fund-coatue-management-unveils-new-position-in-oracle-doubles-down-on-ai-buildout.html",
-      "publishedAt": "2025-08-14T19:31:41Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108063431-1731621281954-gettyimages-2158625326-BLOOMBERG_INVEST.jpeg?v=1755196245&w=1920&h=1080",
-      "translated_title": "Tiger cub hedge fund Coatue Management unveils new position in Oracle, doubles down on AI buildout",
-      "translated_summary": "The investor doubled down on key artificial intelligence beneficiaries such as Nvidia and Microsoft as the tech rally came back with a fury in the second quarter.",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "9小时前"
     }
   ]
