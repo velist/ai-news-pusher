@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-17T18:32:47.626635",
+  "last_updated": "2025-08-17T19:18:36.413587",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e1a5e19f3438",
+      "title": "Neil Young ditches Facebook over policies for AI chatbots and children",
+      "summary": "Neil Young announced on Thursday that he is leaving Facebook over Meta's internal policies regarding communications between artificial intelligence chatbots and children.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/17/entertainment/neil-young-ditches-facebook-over-policies-for-ai-chatbots-and-children/",
+      "publishedAt": "2025-08-17T18:24:19Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109737955.jpg?quality=75&strip=all&w=1024",
+      "translated_title": "Neil Young ditches Facebook over policies for AI chatbots and children",
+      "translated_summary": "Neil Young announced on Thursday that he is leaving Facebook over Meta's internal policies regarding communications between artificial intelligence chatbots and children.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "54分钟前"
+    },
     {
       "id": "538a1dbd79c3",
       "title": "AI Boom Seen Driving Next Decade of Emerging Markets Performance",
@@ -28,7 +42,7 @@
       "translated_summary": "According to The Information, Meta Platforms (META) is once again planning to reshape its artificial intelligence work. According to reports, th...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "03977c4ce011",
@@ -42,7 +56,7 @@
       "translated_summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "d3c914631357",
@@ -56,7 +70,7 @@
       "translated_summary": "The language-learning app with more than 100 million users has embraced artificial intelligence but has also faced consumer backlash for it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "727876533a8c",
@@ -70,7 +84,7 @@
       "translated_summary": "Neil Young is parting ways with Facebook in the wake of a report noting the social media giant’s internal policies on artificial intelligence allegedly enable bots to hold \"romantic or sensual\" chats with child users.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "39f23a0d8345",
@@ -84,7 +98,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Add to Your Watchlist – August 14th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "26f16bec476a",
@@ -98,7 +112,7 @@
       "translated_summary": "Read Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Update at ETF Daily News",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "b1c9cde0f3f5",
@@ -112,7 +126,7 @@
       "translated_summary": "Read Themes Generative Artificial Intelligence ETF (NASDAQ:WISE) Short Interest Update at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "74e75efa1cfe",
@@ -126,21 +140,7 @@
       "translated_summary": "Artificial intelligence software is designing novel experimental protocols that improve upon the work of human physicists, although the humans are still “doing a lot of baby-sitting.”",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
-    },
-    {
-      "id": "6545746726e2",
-      "title": "“A Brain-Inspired Approach” Microsoft Stock (NASDAQ:MSFT) Notches Up With StreamMind Reveal",
-      "summary": "Artificial intelligence (AI) research has done some pretty amazing things so far. We have modest video generation abilities, we have vast text w...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/a-brain-inspired-approach-microsoft-stock-nasdaq-msft-notches-up-with-streammind-reveal-1035046771",
-      "publishedAt": "2025-08-16T17:00:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/Screenshot-2025-08-15-at-13-35-47-Microsoft-MSFT-Stock-Forecast-Price-Targets-and-Analysts-Predictions-1024x760.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "“A Brain-Inspired Approach” Microsoft Stock (NASDAQ:MSFT) Notches Up With StreamMind Reveal",
-      "translated_summary": "Artificial intelligence (AI) research has done some pretty amazing things so far. We have modest video generation abilities, we have vast text w...",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "1天前"
+      "time": "20小时前"
     }
   ]
 }
