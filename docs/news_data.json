@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-17T11:18:34.824243",
+  "last_updated": "2025-08-17T12:47:31.835628",
   "total_count": 10,
   "articles": [
+    {
+      "id": "538a1dbd79c3",
+      "title": "AI Boom Seen Driving Next Decade of Emerging Markets Performance",
+      "summary": "Emerging-market funds are pivoting to capture the artificial intelligence craze, with some investors predicting that booming technology spending will drive returns for years to come.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-17/ai-boom-seen-driving-next-decade-of-emerging-markets-performance",
+      "publishedAt": "2025-08-17T12:30:00Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYIN_18shUzk/v0/1200x800.jpg",
+      "translated_title": "AI Boom Seen Driving Next Decade of Emerging Markets Performance",
+      "translated_summary": "Emerging-market funds are pivoting to capture the artificial intelligence craze, with some investors predicting that booming technology spending will drive returns for years to come.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "17分钟前"
+    },
     {
       "id": "03977c4ce011",
       "title": "He Sold His Likeness. Now His Avatar Is Shilling Supplements on TikTok.",
@@ -14,7 +28,7 @@
       "translated_summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "d3c914631357",
@@ -28,7 +42,7 @@
       "translated_summary": "The language-learning app with more than 100 million users has embraced artificial intelligence but has also faced consumer backlash for it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "39f23a0d8345",
@@ -42,7 +56,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Add to Your Watchlist – August 14th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "9小时前"
     },
     {
       "id": "26f16bec476a",
@@ -56,7 +70,7 @@
       "translated_summary": "Read Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Update at ETF Daily News",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "8小时前"
+      "time": "10小时前"
     },
     {
       "id": "b1c9cde0f3f5",
@@ -70,7 +84,7 @@
       "translated_summary": "Read Themes Generative Artificial Intelligence ETF (NASDAQ:WISE) Short Interest Update at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "74e75efa1cfe",
@@ -84,7 +98,7 @@
       "translated_summary": "Artificial intelligence software is designing novel experimental protocols that improve upon the work of human physicists, although the humans are still “doing a lot of baby-sitting.”",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "6545746726e2",
@@ -98,7 +112,7 @@
       "translated_summary": "Artificial intelligence (AI) research has done some pretty amazing things so far. We have modest video generation abilities, we have vast text w...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "b2757fd8a9a9",
@@ -112,7 +126,7 @@
       "translated_summary": "CoreWeave (CRWV) stock has plunged nearly 33% since the company announced its second-quarter results. The artificial intelligence (AI)-powered c...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "1280eae80111",
@@ -126,21 +140,7 @@
       "translated_summary": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence (AI). Thi...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22小时前"
-    },
-    {
-      "id": "91d3f271beeb",
-      "title": "Senior Dies While Trying to Meet Meta's Flirty Chatbot Who Convinces Him She's Real",
-      "summary": "A cognitively impaired New Jersey senior met the dark side of artificial intelligence when he died while attempting to get together with an attractive AI chatbot he thought was living in New York City. | Entertainment",
-      "source": "Breitbart News Network",
-      "url": "https://www.breitbart.com/entertainment/2025/08/16/senior-dies-while-trying-to-meet-flirty-chatbot-who-convinces-him-shes-real/",
-      "publishedAt": "2025-08-16T11:01:25Z",
-      "image": "https://media.breitbart.com/media/2025/08/GettyImages-2229032056-640x335.png",
-      "translated_title": "Senior Dies While Trying to Meet Meta's Flirty Chatbot Who Convinces Him She's Real",
-      "translated_summary": "A cognitively impaired New Jersey senior met the dark side of artificial intelligence when he died while attempting to get together with an attractive AI chatbot he thought was living in New York City. | Entertainment",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
+      "time": "23小时前"
     }
   ]
 }
