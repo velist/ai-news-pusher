@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-17T13:31:00.792311",
+  "last_updated": "2025-08-17T14:20:40.125697",
   "total_count": 10,
   "articles": [
     {
@@ -28,7 +28,7 @@
       "translated_summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "d3c914631357",
@@ -42,7 +42,21 @@
       "translated_summary": "The language-learning app with more than 100 million users has embraced artificial intelligence but has also faced consumer backlash for it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
+    },
+    {
+      "id": "727876533a8c",
+      "title": "Neil Young Leaves Facebook After Its AI Chatbot Reportedly Had 'Romantic or Sensual' Conversations with Children",
+      "summary": "Neil Young is parting ways with Facebook in the wake of a report noting the social media giant’s internal policies on artificial intelligence allegedly enable bots to hold \"romantic or sensual\" chats with child users.",
+      "source": "Breitbart News Network",
+      "url": "https://www.breitbart.com/entertainment/2025/08/17/neil-young-leaves-facebook-after-its-ai-chatbot-reportedly-had-romantic-or-sensual-conversations-with-children/",
+      "publishedAt": "2025-08-17T06:53:56Z",
+      "image": "https://media.breitbart.com/media/2025/05/NeilYoung-640x335.jpg",
+      "translated_title": "Neil Young Leaves Facebook After Its AI Chatbot Reportedly Had 'Romantic or Sensual' Conversations with Children",
+      "translated_summary": "Neil Young is parting ways with Facebook in the wake of a report noting the social media giant’s internal policies on artificial intelligence allegedly enable bots to hold \"romantic or sensual\" chats with child users.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7小时前"
     },
     {
       "id": "39f23a0d8345",
@@ -56,7 +70,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Add to Your Watchlist – August 14th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "26f16bec476a",
@@ -70,7 +84,7 @@
       "translated_summary": "Read Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Update at ETF Daily News",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "b1c9cde0f3f5",
@@ -84,7 +98,7 @@
       "translated_summary": "Read Themes Generative Artificial Intelligence ETF (NASDAQ:WISE) Short Interest Update at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "74e75efa1cfe",
@@ -98,7 +112,7 @@
       "translated_summary": "Artificial intelligence software is designing novel experimental protocols that improve upon the work of human physicists, although the humans are still “doing a lot of baby-sitting.”",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "6545746726e2",
@@ -112,7 +126,7 @@
       "translated_summary": "Artificial intelligence (AI) research has done some pretty amazing things so far. We have modest video generation abilities, we have vast text w...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "b2757fd8a9a9",
@@ -126,21 +140,7 @@
       "translated_summary": "CoreWeave (CRWV) stock has plunged nearly 33% since the company announced its second-quarter results. The artificial intelligence (AI)-powered c...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22小时前"
-    },
-    {
-      "id": "1280eae80111",
-      "title": "3 Quantum Computing Stocks with Potential to Beat the Market - 8/15/2025",
-      "summary": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence (AI). Thi...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/3-quantum-computing-stocks-with-potential-to-beat-the-market-8-15-2025-1035046807",
-      "publishedAt": "2025-08-16T13:00:00Z",
-      "image": "https://markets.businessinsider.com/apple-touch-icon.png",
-      "translated_title": "3 Quantum Computing Stocks with Potential to Beat the Market - 8/15/2025",
-      "translated_summary": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence (AI). Thi...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
+      "time": "23小时前"
     }
   ]
 }
