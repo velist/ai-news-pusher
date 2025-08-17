@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-17T10:23:55.788563",
+  "last_updated": "2025-08-17T11:18:34.824243",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d3c914631357",
@@ -28,7 +28,7 @@
       "translated_summary": "The language-learning app with more than 100 million users has embraced artificial intelligence but has also faced consumer backlash for it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "39f23a0d8345",
@@ -42,7 +42,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Add to Your Watchlist – August 14th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "26f16bec476a",
@@ -56,7 +56,7 @@
       "translated_summary": "Read Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Update at ETF Daily News",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "b1c9cde0f3f5",
@@ -70,7 +70,21 @@
       "translated_summary": "Read Themes Generative Artificial Intelligence ETF (NASDAQ:WISE) Short Interest Update at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
+    },
+    {
+      "id": "74e75efa1cfe",
+      "title": "AI Is Designing Bizarre New Physics Experiments That Actually Work",
+      "summary": "Artificial intelligence software is designing novel experimental protocols that improve upon the work of human physicists, although the humans are still “doing a lot of baby-sitting.”",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/ai-comes-up-with-bizarre-physics-experiments-but-they-work/",
+      "publishedAt": "2025-08-16T23:00:00Z",
+      "image": "https://media.wired.com/photos/689e2c669965898aa9900f86/191:100/w_1280,c_limit/science_aiphysics_4_q.jpg",
+      "translated_title": "AI Is Designing Bizarre New Physics Experiments That Actually Work",
+      "translated_summary": "Artificial intelligence software is designing novel experimental protocols that improve upon the work of human physicists, although the humans are still “doing a lot of baby-sitting.”",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "12小时前"
     },
     {
       "id": "6545746726e2",
@@ -84,7 +98,7 @@
       "translated_summary": "Artificial intelligence (AI) research has done some pretty amazing things so far. We have modest video generation abilities, we have vast text w...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "b2757fd8a9a9",
@@ -98,7 +112,7 @@
       "translated_summary": "CoreWeave (CRWV) stock has plunged nearly 33% since the company announced its second-quarter results. The artificial intelligence (AI)-powered c...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
+      "time": "20小时前"
     },
     {
       "id": "1280eae80111",
@@ -112,7 +126,7 @@
       "translated_summary": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence (AI). Thi...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21小时前"
+      "time": "22小时前"
     },
     {
       "id": "91d3f271beeb",
@@ -126,21 +140,7 @@
       "translated_summary": "A cognitively impaired New Jersey senior met the dark side of artificial intelligence when he died while attempting to get together with an attractive AI chatbot he thought was living in New York City. | Entertainment",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "23小时前"
-    },
-    {
-      "id": "b9c46c6736aa",
-      "title": "Bitcoin Swift Enters Final Three Days of Stage 5 Presale",
-      "summary": "LUXEMBOURG, Aug. 16, 2025 (GLOBE NEWSWIRE) -- Bitcoin Swift (BTC3), a blockchain project integrating artificial intelligence (AI) automation,...",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2025/08/16/3134525/0/en/Bitcoin-Swift-Enters-Final-Three-Days-of-Stage-5-Presale-With-750-000-in-Sales-and-60-000-in-Rewards-Distributed.html",
-      "publishedAt": "2025-08-16T10:49:01Z",
-      "image": "https://ml.globenewswire.com/Resource/Download/9f241430-14d0-4265-a547-0f813bc54af6",
-      "translated_title": "Bitcoin Swift Enters Final Three Days of Stage 5 Presale",
-      "translated_summary": "LUXEMBOURG, Aug. 16, 2025 (GLOBE NEWSWIRE) -- Bitcoin Swift (BTC3), a blockchain project integrating artificial intelligence (AI) automation,...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "23小时前"
+      "time": "1天前"
     }
   ]
 }
