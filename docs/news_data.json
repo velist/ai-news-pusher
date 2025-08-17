@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-17T09:23:19.579698",
+  "last_updated": "2025-08-17T10:23:55.788563",
   "total_count": 10,
   "articles": [
+    {
+      "id": "03977c4ce011",
+      "title": "He Sold His Likeness. Now His Avatar Is Shilling Supplements on TikTok.",
+      "summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/17/business/tiktok-ai-avatars.html",
+      "publishedAt": "2025-08-17T09:00:32Z",
+      "image": "https://static01.nyt.com/images/2025/08/02/02visualUploader-51340-cover/02visualUploader-51340-cover-facebookJumbo.jpg",
+      "translated_title": "He Sold His Likeness. Now His Avatar Is Shilling Supplements on TikTok.",
+      "translated_summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
+      "id": "d3c914631357",
+      "title": "The C.E.O. of Duolingo Wants to Have a Conversation About A.I.",
+      "summary": "The language-learning app with more than 100 million users has embraced artificial intelligence but has also faced consumer backlash for it.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/17/business/duolingo-luis-von-ahn.html",
+      "publishedAt": "2025-08-17T09:00:19Z",
+      "image": "https://static01.nyt.com/images/2025/08/08/08visualUploader-10284-cover/08visualUploader-10284-cover-facebookJumbo.jpg",
+      "translated_title": "The C.E.O. of Duolingo Wants to Have a Conversation About A.I.",
+      "translated_summary": "The language-learning app with more than 100 million users has embraced artificial intelligence but has also faced consumer backlash for it.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "39f23a0d8345",
       "title": "Artificial Intelligence Stocks To Add to Your Watchlist - August 14th",
@@ -14,7 +42,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Add to Your Watchlist – August 14th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "26f16bec476a",
@@ -28,7 +56,7 @@
       "translated_summary": "Read Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Short Interest Update at ETF Daily News",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "b1c9cde0f3f5",
@@ -42,7 +70,7 @@
       "translated_summary": "Read Themes Generative Artificial Intelligence ETF (NASDAQ:WISE) Short Interest Update at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "6545746726e2",
@@ -56,7 +84,7 @@
       "translated_summary": "Artificial intelligence (AI) research has done some pretty amazing things so far. We have modest video generation abilities, we have vast text w...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "b2757fd8a9a9",
@@ -70,7 +98,7 @@
       "translated_summary": "CoreWeave (CRWV) stock has plunged nearly 33% since the company announced its second-quarter results. The artificial intelligence (AI)-powered c...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "1280eae80111",
@@ -84,7 +112,7 @@
       "translated_summary": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence (AI). Thi...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "91d3f271beeb",
@@ -98,7 +126,7 @@
       "translated_summary": "A cognitively impaired New Jersey senior met the dark side of artificial intelligence when he died while attempting to get together with an attractive AI chatbot he thought was living in New York City. | Entertainment",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22小时前"
+      "time": "23小时前"
     },
     {
       "id": "b9c46c6736aa",
@@ -110,34 +138,6 @@
       "image": "https://ml.globenewswire.com/Resource/Download/9f241430-14d0-4265-a547-0f813bc54af6",
       "translated_title": "Bitcoin Swift Enters Final Three Days of Stage 5 Presale",
       "translated_summary": "LUXEMBOURG, Aug. 16, 2025 (GLOBE NEWSWIRE) -- Bitcoin Swift (BTC3), a blockchain project integrating artificial intelligence (AI) automation,...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "22小时前"
-    },
-    {
-      "id": "b8326e411767",
-      "title": "Blue-collar jobs are gaining popularity as AI threatens office work",
-      "summary": "Geoffrey Hinton’s message on a recent podcast about artificial intelligence was simple: “Train to be a plumber.”Hinton, a Nobel Prize-winning computer scientist often called “the Godfather of AI,” said in June what people have now been saying for years: Jobs that include manual labor and expertise are the least vulnerable to modern technology than some other career paths, many of which have generally been considered more respected and more lucrative.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/business-news/ai-which-jobs-are-skilled-trades-protected-what-to-know-rcna223249",
-      "publishedAt": "2025-08-16T10:15:40Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250807-ai-replacing-trade-jobs-to-33bace.jpg",
-      "translated_title": "Blue-collar jobs are gaining popularity as AI threatens office work",
-      "translated_summary": "Geoffrey Hinton’s message on a recent podcast about artificial intelligence was simple: “Train to be a plumber.”Hinton, a Nobel Prize-winning computer scientist often called “the Godfather of AI,” said in June what people have now been saying for years: Jobs that include manual labor and expertise are the least vulnerable to modern technology than some other career paths, many of which have generally been considered more respected and more lucrative.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "23小时前"
-    },
-    {
-      "id": "ad6dd46367f5",
-      "title": "Robots race, play football, crash and collapse at China’s ‘robot Olympics’",
-      "summary": "China kicked off the three-day long World Humanoid Robot Games on Friday, looking to showcase its advances in artificial intelligence and robotics with 280 teams from 16 countries.",
-      "source": "Cable News Network",
-      "url": "https://edition.cnn.com/2025/08/16/sport/world-humanoid-robot-olympics-china-intl",
-      "publishedAt": "2025-08-16T09:36:53Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2230288274.jpg?c=16x9&q=w_800,c_fill",
-      "translated_title": "Robots race, play football, crash and collapse at China’s ‘robot Olympics’",
-      "translated_summary": "China kicked off the three-day long World Humanoid Robot Games on Friday, looking to showcase its advances in artificial intelligence and robotics with 280 teams from 16 countries.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "23小时前"
