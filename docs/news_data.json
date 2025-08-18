@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-18T21:20:46.929760",
+  "last_updated": "2025-08-18T22:20:35.941519",
   "total_count": 10,
   "articles": [
+    {
+      "id": "0bab63c7ed94",
+      "title": "Palo Alto's forecasts signals AI boost for cybersecurity tools",
+      "summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above Wall Street estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up nearly 5% in extended trading.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/palo-altos-forecasts-signals-ai-boost-cybersecurity-tools-2025-08-18/",
+      "publishedAt": "2025-08-18T21:17:08Z",
+      "image": "https://www.reuters.com/resizer/v2/BSTCB23ZNNLZRCOGXAUYPR7OYI.jpg?auth=79738596597cdff64c01efdc9c9e26ecb37c637ec491baa9653256850a2b4596&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Palo Alto's forecasts signals AI boost for cybersecurity tools",
+      "translated_summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above Wall Street estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up nearly 5% in extended trading.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "b47fd9ca30fe",
       "title": "Exclusive: Arm hires Amazon AI chip director to aid in-house effort",
@@ -14,7 +28,7 @@
       "translated_summary": "Arm Holdings has hired former Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, according to a person familiar with the matter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "50分钟前"
+      "time": "1小时前"
     },
     {
       "id": "56b05da6eec9",
@@ -28,7 +42,7 @@
       "translated_summary": "Meta Platforms shares are trading lower Monday afternoon. The company is navigating a series of headwinds related to its artificial intelligence strategy.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "bb966a473c01",
@@ -42,7 +56,7 @@
       "translated_summary": "From faster MRI scans to earlier cancer diagnoses, Philips is betting big on artificial intelligence to transform patient care and ease the strain on clinicians.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "5b5c0e23f764",
@@ -56,7 +70,7 @@
       "translated_summary": "Private credit lenders, and their deep pockets, are rapidly becoming an important source of capital for artificial intelligence development. That’s raising concerns at UBS Global Research.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "db8263b4c33a",
@@ -70,7 +84,7 @@
       "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, according to a report from The Verge published Friday.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "dcb8d9aa1de5",
@@ -84,7 +98,7 @@
       "translated_summary": "If there's one thing the White House, Wall Street and Silicon Valley can agree on, it's that artificial intelligence is a top priority.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "9b89c04c3be9",
@@ -98,7 +112,7 @@
       "translated_summary": "OpenAI CEO Sam Altman said he thinks the artificial intelligence market is in a bubble – comparable to the dot-com crash of the early 2000s, according to a report.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "fa9da975b535",
@@ -112,7 +126,7 @@
       "translated_summary": "Advertisers are increasingly using generative artificial intelligence to make their commercials.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "6bf162300c50",
@@ -126,21 +140,7 @@
       "translated_summary": "Even as OpenAI edges toward a staggering $500 billion valuation, Sam Altman is warning that the artificial intelligence boom may be overheating. Speaking with reporters last week, the OpenAI CEO didn’t shy away from calling it what many in Silicon Valley whisper about: a bubble. In an interview with The Verge published Friday, Altman said,",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
-    },
-    {
-      "id": "6ef37f5f590b",
-      "title": "Nearly 90% of videogame developers use AI agents, Google study shows",
-      "summary": "A Google Cloud survey showed that 87% of videogame developers are using artificial intelligence agents to streamline and automate tasks, as the industry focuses on optimizing costs following a wave of record layoffs.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/nearly-90-videogame-developers-use-ai-agents-google-study-shows-2025-08-18/",
-      "publishedAt": "2025-08-18T13:54:26Z",
-      "image": "https://www.reuters.com/resizer/v2/KL6DWC3YZRMNNDGFVUYX3SQLMY.jpg?auth=a3bc61f3a4553dcc1694470ab267fd4da0adf63e45855e8ed73aa072f1ae6f00&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Nearly 90% of videogame developers use AI agents, Google study shows",
-      "translated_summary": "A Google Cloud survey showed that 87% of videogame developers are using artificial intelligence agents to streamline and automate tasks, as the industry focuses on optimizing costs following a wave of record layoffs.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     }
   ]
 }
