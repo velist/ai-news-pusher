@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-18T07:26:42.396680",
+  "last_updated": "2025-08-18T08:34:53.954534",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f444a61c30fc",
+      "title": "OpenAI's Sam Altman says AI market is in a bubble",
+      "summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, similar to the dotcom bubble, he recently told reporters.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/18/openai-sam-altman-warns-ai-market-is-in-a-bubble.html",
+      "publishedAt": "2025-08-18T07:51:41Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108163503-1750799829087-gettyimages-2218344204-_75a5852_mh3s8rn5.jpeg?v=1755496851&w=1920&h=1080",
+      "translated_title": "OpenAI's Sam Altman says AI market is in a bubble",
+      "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, similar to the dotcom bubble, he recently told reporters.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "43分钟前"
+    },
+    {
+      "id": "e41a0888219d",
+      "title": "Foxconn and SoftBank to make data centre equipment in Ohio for Stargate project",
+      "summary": "Foxconn's said on Monday it plans to manufacture data centre equipment with Japan's SoftBank at the Taiwanese firm's former electric vehicle factory in Ohio, part of the Stargate project to advance U.S. artificial intelligence infrastructure.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/foxconn-softbank-make-data-centre-equipment-ohio-stargate-project-2025-08-18/",
+      "publishedAt": "2025-08-18T06:56:48Z",
+      "image": "https://www.reuters.com/resizer/v2/GB4WBQFPL5L6NIRZKAIKRRJ5R4.jpg?auth=94c1e6472384126d13519782a5019e58b7de8880dce745f522cb18fcddccc6b5&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Foxconn and SoftBank to make data centre equipment in Ohio for Stargate project",
+      "translated_summary": "Foxconn's said on Monday it plans to manufacture data centre equipment with Japan's SoftBank at the Taiwanese firm's former electric vehicle factory in Ohio, part of the Stargate project to advance U.S. artificial intelligence infrastructure.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "8f98cf42e3a7",
       "title": "Trump’s Plans for A.I. Might Hit a Wall. Thank Europe.",
@@ -14,7 +42,7 @@
       "translated_summary": "The president wants to unleash American artificial intelligence companies on the world, but Europe can still stand in his way.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "6ce7aaaa6fa5",
@@ -28,7 +56,7 @@
       "translated_summary": "Malaysia's state of Johor, a fast-growing data center hub, is coming up against the growing water and energy needs of the world's artificial intelligence boom.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "935e10bf9544",
@@ -42,7 +70,7 @@
       "translated_summary": "Read Promising Artificial Intelligence Stocks To Follow Now – August 16th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "5da716f76101",
@@ -56,7 +84,7 @@
       "translated_summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "ba3a3fbfbcca",
@@ -70,7 +98,7 @@
       "translated_summary": "The optimism around artificial intelligence and many breakthrough technologies, including air taxis and quantum computing, is driving several gr...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "13小时前"
     },
     {
       "id": "e1a5e19f3438",
@@ -84,7 +112,7 @@
       "translated_summary": "Neil Young announced on Thursday that he is leaving Facebook over Meta's internal policies regarding communications between artificial intelligence chatbots and children.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "bbdfb8a31261",
@@ -98,7 +126,7 @@
       "translated_summary": "Top Senate Democrats are urging President Trump to rethink his plan that allows artificial intelligence chip sales to China. In an open letter, ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "538a1dbd79c3",
@@ -112,35 +140,7 @@
       "translated_summary": "Emerging-market funds are pivoting to capture the artificial intelligence craze, with some investors predicting that booming technology spending will drive returns for years to come.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "18小时前"
-    },
-    {
-      "id": "4a6672974e3b",
-      "title": "Meta Platforms Plans Fourth AI Overhaul in Six Months",
-      "summary": "According to The Information, Meta Platforms (META) is once again planning to reshape its artificial intelligence work. According to reports, th...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/meta-platforms-plans-fourth-ai-overhaul-in-six-months-1035047492",
-      "publishedAt": "2025-08-17T10:48:52Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1115.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Meta Platforms Plans Fourth AI Overhaul in Six Months",
-      "translated_summary": "According to The Information, Meta Platforms (META) is once again planning to reshape its artificial intelligence work. According to reports, th...",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "20小时前"
-    },
-    {
-      "id": "03977c4ce011",
-      "title": "He Sold His Likeness. Now His Avatar Is Shilling Supplements on TikTok.",
-      "summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/08/17/business/tiktok-ai-avatars.html",
-      "publishedAt": "2025-08-17T09:00:32Z",
-      "image": "https://static01.nyt.com/images/2025/08/02/02visualUploader-51340-cover/02visualUploader-51340-cover-facebookJumbo.jpg",
-      "translated_title": "He Sold His Likeness. Now His Avatar Is Shilling Supplements on TikTok.",
-      "translated_summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "22小时前"
     }
   ]
 }
