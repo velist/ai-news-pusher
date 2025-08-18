@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-18T16:31:56.836539",
+  "last_updated": "2025-08-18T17:23:44.096978",
   "total_count": 10,
   "articles": [
+    {
+      "id": "db8263b4c33a",
+      "title": "OpenAI's Sam Altman sees AI bubble forming as industry spending surges",
+      "summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, according to a report from The Verge published Friday.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/openais-sam-altman-sees-ai-bubble-forming-industry-spending-surges-rcna225652",
+      "publishedAt": "2025-08-18T17:09:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250729-sam-altman-ew-236p-3d394b.jpg",
+      "translated_title": "OpenAI's Sam Altman sees AI bubble forming as industry spending surges",
+      "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, according to a report from The Verge published Friday.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "14分钟前"
+    },
+    {
+      "id": "dcb8d9aa1de5",
+      "title": "For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
+      "summary": "If there's one thing the White House, Wall Street and Silicon Valley can agree on, it's that artificial intelligence is a top priority.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/18/silicon-valley-falling-behind-artificial-intelligence/",
+      "publishedAt": "2025-08-18T16:47:55Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/08/8216An_existential_threat8217_For_Silicon_Valley_falling_behind_in_AI_is_a_bigger_threat_than_tariffs1-1.jpg?w=1024&h=682",
+      "translated_title": "For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
+      "translated_summary": "If there's one thing the White House, Wall Street and Silicon Valley can agree on, it's that artificial intelligence is a top priority.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "35分钟前"
+    },
+    {
+      "id": "9b89c04c3be9",
+      "title": "OpenAI CEO Sam Altman warns of AI bubble, says investors are 'overexcited': report",
+      "summary": "OpenAI CEO Sam Altman said he thinks the artificial intelligence market is in a bubble – comparable to the dot-com crash of the early 2000s, according to a report.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/18/business/openai-ceo-sam-altman-warns-of-ai-bubble-says-investors-are-overexcited-report/",
+      "publishedAt": "2025-08-18T16:45:59Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-rlljrkcgy-1755535352731.jpg?quality=75&strip=all&1755521065&w=1024",
+      "translated_title": "OpenAI CEO Sam Altman warns of AI bubble, says investors are 'overexcited': report",
+      "translated_summary": "OpenAI CEO Sam Altman said he thinks the artificial intelligence market is in a bubble – comparable to the dot-com crash of the early 2000s, according to a report.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "37分钟前"
+    },
     {
       "id": "fa9da975b535",
       "title": "Madison Avenue Is Starting to Love A.I.",
@@ -14,7 +56,7 @@
       "translated_summary": "Advertisers are increasingly using generative artificial intelligence to make their commercials.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "6bf162300c50",
@@ -28,7 +70,7 @@
       "translated_summary": "Even as OpenAI edges toward a staggering $500 billion valuation, Sam Altman is warning that the artificial intelligence boom may be overheating. Speaking with reporters last week, the OpenAI CEO didn’t shy away from calling it what many in Silicon Valley whisper about: a bubble. In an interview with The Verge published Friday, Altman said,",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "6ef37f5f590b",
@@ -42,7 +84,7 @@
       "translated_summary": "A Google Cloud survey showed that 87% of videogame developers are using artificial intelligence agents to streamline and automate tasks, as the industry focuses on optimizing costs following a wave of record layoffs.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "905b8b5371c6",
@@ -56,7 +98,7 @@
       "translated_summary": "McGraw Hill is set up to be a strong artificial intelligence beneficiary, Deutsche Bank said.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "f45b2bf82aad",
@@ -70,7 +112,7 @@
       "translated_summary": "Trump's AI initiative aims to maintain American leadership in artificial intelligence amid growing competition with China and national security concerns",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "0615afe101a6",
@@ -84,7 +126,7 @@
       "translated_summary": "Meta Platforms Inc. (NASDAQ: META) is reportedly gearing up for its fourth major overhaul of artificial intelligence (AI) initiatives in just six months.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "4ff8b82b098b",
@@ -96,48 +138,6 @@
       "image": "https://www.chicagotribune.com/wp-content/uploads/2025/08/ctc-l-GettyImages-222216-01.jpg?w=1024&h=681",
       "translated_title": "Editorial: Artificial intelligence meets fried chicken at Wingstop",
       "translated_summary": "Wingstop’s new digital operating system streamlines ordering and evaluates scads of data to predict how much food will be needed and when.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "8c002500a2a0",
-      "title": "Self-checkout has impact at Fenway, TD Garden",
-      "summary": "Checkout machines powered by artificial intelligence have increased sales at Fenway Park and TD Garden, but have left workers feeling unfulfilled and underpaid.",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/08/18/business/fenway-td-garden-ai-checkout/",
-      "publishedAt": "2025-08-18T10:00:01Z",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/5EJYLEPM5RC6ZDXO2Z7S4DFYPY.jpg?auth=9a28a36cfffae7fa8b4d0ebe70eea0ff2fcde6d15ec4c61b4036678cd109dd7b&width=1440",
-      "translated_title": "Self-checkout has impact at Fenway, TD Garden",
-      "translated_summary": "Checkout machines powered by artificial intelligence have increased sales at Fenway Park and TD Garden, but have left workers feeling unfulfilled and underpaid.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "847b72d6923e",
-      "title": "Top tech leaders battling for AI supremacy - while spending billions and slinging mud along the way",
-      "summary": "With artificial intelligence promising to impact the way the world things, the smartest people in tech are hustling to to come up with the best and brightest version that they can control.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/18/us-news/top-tech-leaders-battling-for-ai-supremacy-while-spending-billions-and-slinging-mud-along-the-way/",
-      "publishedAt": "2025-08-18T10:00:00Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/Billionare_73c1f3.jpg?quality=75&strip=all&w=1024",
-      "translated_title": "Top tech leaders battling for AI supremacy - while spending billions and slinging mud along the way",
-      "translated_summary": "With artificial intelligence promising to impact the way the world things, the smartest people in tech are hustling to to come up with the best and brightest version that they can control.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "d51d27327b4f",
-      "title": "‘An existential threat’: For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
-      "summary": "If there’s one thing the White House, Wall Street and Silicon Valley can agree on, it’s that artificial intelligence is a top priority.",
-      "source": "Cable News Network",
-      "url": "https://edition.cnn.com/2025/08/18/tech/ai-spending-tariffs",
-      "publishedAt": "2025-08-18T09:00:43Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2194528029.jpg?c=16x9&q=w_800,c_fill",
-      "translated_title": "‘An existential threat’: For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
-      "translated_summary": "If there’s one thing the White House, Wall Street and Silicon Valley can agree on, it’s that artificial intelligence is a top priority.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "7小时前"
