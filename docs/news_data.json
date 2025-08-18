@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-18T19:20:00.057135",
+  "last_updated": "2025-08-18T20:24:57.394664",
   "total_count": 10,
   "articles": [
+    {
+      "id": "56b05da6eec9",
+      "title": "As Meta Faces AI Scrutiny, Mounting Regulatory Risk Overshadows Strong Earnings And Pushes Stock Lower",
+      "summary": "Meta Platforms shares are trading lower Monday afternoon. The company is navigating a series of headwinds related to its artificial intelligence strategy.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47195084/as-meta-faces-ai-scrutiny-mounting-regulatory-risk-overshadows-strong-earnings-and-pushes-stock-lower",
+      "publishedAt": "2025-08-18T19:29:22Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/18/Meta-Platforms-Inc--META.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "As Meta Faces AI Scrutiny, Mounting Regulatory Risk Overshadows Strong Earnings And Pushes Stock Lower",
+      "translated_summary": "Meta Platforms shares are trading lower Monday afternoon. The company is navigating a series of headwinds related to its artificial intelligence strategy.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "55分钟前"
+    },
     {
       "id": "bb966a473c01",
       "title": "Philips CEO Jeff DiLullo on how AI is changing healthcare today",
@@ -14,7 +28,7 @@
       "translated_summary": "From faster MRI scans to earlier cancer diagnoses, Philips is betting big on artificial intelligence to transform patient care and ease the strain on clinicians.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20分钟前"
+      "time": "1小时前"
     },
     {
       "id": "5b5c0e23f764",
@@ -28,7 +42,7 @@
       "translated_summary": "Private credit lenders, and their deep pockets, are rapidly becoming an important source of capital for artificial intelligence development. That’s raising concerns at UBS Global Research.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "db8263b4c33a",
@@ -42,7 +56,7 @@
       "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, according to a report from The Verge published Friday.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "dcb8d9aa1de5",
@@ -56,7 +70,7 @@
       "translated_summary": "If there's one thing the White House, Wall Street and Silicon Valley can agree on, it's that artificial intelligence is a top priority.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "9b89c04c3be9",
@@ -70,7 +84,7 @@
       "translated_summary": "OpenAI CEO Sam Altman said he thinks the artificial intelligence market is in a bubble – comparable to the dot-com crash of the early 2000s, according to a report.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "fa9da975b535",
@@ -84,7 +98,7 @@
       "translated_summary": "Advertisers are increasingly using generative artificial intelligence to make their commercials.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "6bf162300c50",
@@ -98,7 +112,7 @@
       "translated_summary": "Even as OpenAI edges toward a staggering $500 billion valuation, Sam Altman is warning that the artificial intelligence boom may be overheating. Speaking with reporters last week, the OpenAI CEO didn’t shy away from calling it what many in Silicon Valley whisper about: a bubble. In an interview with The Verge published Friday, Altman said,",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "6ef37f5f590b",
@@ -112,7 +126,7 @@
       "translated_summary": "A Google Cloud survey showed that 87% of videogame developers are using artificial intelligence agents to streamline and automate tasks, as the industry focuses on optimizing costs following a wave of record layoffs.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "905b8b5371c6",
@@ -124,20 +138,6 @@
       "image": "https://image.cnbcfm.com/api/v1/image/102973390-3552_724537550914535_88244733_n.jpg?v=1441388453&w=1920&h=1080",
       "translated_title": "Deutsche Bank initiates this ‘hidden gem’ education stock at a buy rating",
       "translated_summary": "McGraw Hill is set up to be a strong artificial intelligence beneficiary, Deutsche Bank said.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "f45b2bf82aad",
-      "title": "Trump's AI plan is a bulwark against the rising threat from China",
-      "summary": "Trump's AI initiative aims to maintain American leadership in artificial intelligence amid growing competition with China and national security concerns",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/trumps-ai-plan-bulwark-against-rising-threat-from-china",
-      "publishedAt": "2025-08-18T11:00:46Z",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/Regulation-could-allow-China-to-dominate-in-the-artificial-intelligence-race-3.gif",
-      "translated_title": "Trump's AI plan is a bulwark against the rising threat from China",
-      "translated_summary": "Trump's AI initiative aims to maintain American leadership in artificial intelligence amid growing competition with China and national security concerns",
       "category": "热门",
       "category_icon": "🔥",
       "time": "8小时前"
