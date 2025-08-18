@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-18T08:34:53.954534",
+  "last_updated": "2025-08-18T09:30:26.012270",
   "total_count": 10,
   "articles": [
+    {
+      "id": "d51d27327b4f",
+      "title": "‘An existential threat’: For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
+      "summary": "If there’s one thing the White House, Wall Street and Silicon Valley can agree on, it’s that artificial intelligence is a top priority.",
+      "source": "Cable News Network",
+      "url": "https://edition.cnn.com/2025/08/18/tech/ai-spending-tariffs",
+      "publishedAt": "2025-08-18T09:00:43Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2194528029.jpg?c=16x9&q=w_800,c_fill",
+      "translated_title": "‘An existential threat’: For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
+      "translated_summary": "If there’s one thing the White House, Wall Street and Silicon Valley can agree on, it’s that artificial intelligence is a top priority.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "29分钟前"
+    },
     {
       "id": "f444a61c30fc",
       "title": "OpenAI's Sam Altman says AI market is in a bubble",
@@ -14,7 +28,7 @@
       "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, similar to the dotcom bubble, he recently told reporters.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "43分钟前"
+      "time": "1小时前"
     },
     {
       "id": "e41a0888219d",
@@ -28,7 +42,7 @@
       "translated_summary": "Foxconn's said on Monday it plans to manufacture data centre equipment with Japan's SoftBank at the Taiwanese firm's former electric vehicle factory in Ohio, part of the Stargate project to advance U.S. artificial intelligence infrastructure.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "8f98cf42e3a7",
@@ -42,7 +56,7 @@
       "translated_summary": "The president wants to unleash American artificial intelligence companies on the world, but Europe can still stand in his way.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "6ce7aaaa6fa5",
@@ -70,7 +84,7 @@
       "translated_summary": "Read Promising Artificial Intelligence Stocks To Follow Now – August 16th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "5da716f76101",
@@ -84,7 +98,7 @@
       "translated_summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "ba3a3fbfbcca",
@@ -112,7 +126,7 @@
       "translated_summary": "Neil Young announced on Thursday that he is leaving Facebook over Meta's internal policies regarding communications between artificial intelligence chatbots and children.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "bbdfb8a31261",
@@ -126,21 +140,7 @@
       "translated_summary": "Top Senate Democrats are urging President Trump to rethink his plan that allows artificial intelligence chip sales to China. In an open letter, ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
-    },
-    {
-      "id": "538a1dbd79c3",
-      "title": "AI Boom Seen Driving Next Decade of Emerging Markets Performance",
-      "summary": "Emerging-market funds are pivoting to capture the artificial intelligence craze, with some investors predicting that booming technology spending will drive returns for years to come.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-17/ai-boom-seen-driving-next-decade-of-emerging-markets-performance",
-      "publishedAt": "2025-08-17T12:30:00Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYIN_18shUzk/v0/1200x800.jpg",
-      "translated_title": "AI Boom Seen Driving Next Decade of Emerging Markets Performance",
-      "translated_summary": "Emerging-market funds are pivoting to capture the artificial intelligence craze, with some investors predicting that booming technology spending will drive returns for years to come.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "20小时前"
+      "time": "19小时前"
     }
   ]
 }
