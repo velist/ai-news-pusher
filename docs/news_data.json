@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-18T13:38:55.610824",
+  "last_updated": "2025-08-18T14:25:45.753932",
   "total_count": 10,
   "articles": [
+    {
+      "id": "6bf162300c50",
+      "title": "“AI is in a Bubble:” OpenAI CEO Sam Altman compares AI hype to the Dot-Com crash",
+      "summary": "Even as OpenAI edges toward a staggering $500 billion valuation, Sam Altman is warning that the artificial intelligence boom may be overheating. Speaking with reporters last week, the OpenAI CEO didn’t shy away from calling it what many in Silicon Valley whisper about: a bubble. In an interview with The Verge published Friday, Altman said,",
+      "source": "TechStartups.com",
+      "url": "https://techstartups.com/2025/08/18/ai-is-in-a-bubble-openai-ceo-sam-altman-compares-ai-hype-to-the-dot-com-crash/",
+      "publishedAt": "2025-08-18T14:08:41Z",
+      "image": "https://techstartups.com/wp-content/uploads/2025/03/Altman.jpg",
+      "translated_title": "“AI is in a Bubble:” OpenAI CEO Sam Altman compares AI hype to the Dot-Com crash",
+      "translated_summary": "Even as OpenAI edges toward a staggering $500 billion valuation, Sam Altman is warning that the artificial intelligence boom may be overheating. Speaking with reporters last week, the OpenAI CEO didn’t shy away from calling it what many in Silicon Valley whisper about: a bubble. In an interview with The Verge published Friday, Altman said,",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "17分钟前"
+    },
+    {
+      "id": "6ef37f5f590b",
+      "title": "Nearly 90% of videogame developers use AI agents, Google study shows",
+      "summary": "A Google Cloud survey showed that 87% of videogame developers are using artificial intelligence agents to streamline and automate tasks, as the industry focuses on optimizing costs following a wave of record layoffs.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/nearly-90-videogame-developers-use-ai-agents-google-study-shows-2025-08-18/",
+      "publishedAt": "2025-08-18T13:54:26Z",
+      "image": "https://www.reuters.com/resizer/v2/KL6DWC3YZRMNNDGFVUYX3SQLMY.jpg?auth=a3bc61f3a4553dcc1694470ab267fd4da0adf63e45855e8ed73aa072f1ae6f00&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Nearly 90% of videogame developers use AI agents, Google study shows",
+      "translated_summary": "A Google Cloud survey showed that 87% of videogame developers are using artificial intelligence agents to streamline and automate tasks, as the industry focuses on optimizing costs following a wave of record layoffs.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "31分钟前"
+    },
     {
       "id": "905b8b5371c6",
       "title": "Deutsche Bank initiates this ‘hidden gem’ education stock at a buy rating",
@@ -14,7 +42,7 @@
       "translated_summary": "McGraw Hill is set up to be a strong artificial intelligence beneficiary, Deutsche Bank said.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "f45b2bf82aad",
@@ -28,7 +56,7 @@
       "translated_summary": "Trump's AI initiative aims to maintain American leadership in artificial intelligence amid growing competition with China and national security concerns",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "0615afe101a6",
@@ -42,7 +70,7 @@
       "translated_summary": "Meta Platforms Inc. (NASDAQ: META) is reportedly gearing up for its fourth major overhaul of artificial intelligence (AI) initiatives in just six months.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "4ff8b82b098b",
@@ -56,7 +84,7 @@
       "translated_summary": "Wingstop’s new digital operating system streamlines ordering and evaluates scads of data to predict how much food will be needed and when.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "8c002500a2a0",
@@ -70,7 +98,7 @@
       "translated_summary": "Checkout machines powered by artificial intelligence have increased sales at Fenway Park and TD Garden, but have left workers feeling unfulfilled and underpaid.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "847b72d6923e",
@@ -84,7 +112,7 @@
       "translated_summary": "With artificial intelligence promising to impact the way the world things, the smartest people in tech are hustling to to come up with the best and brightest version that they can control.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "d51d27327b4f",
@@ -98,7 +126,7 @@
       "translated_summary": "If there’s one thing the White House, Wall Street and Silicon Valley can agree on, it’s that artificial intelligence is a top priority.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "f444a61c30fc",
@@ -112,35 +140,7 @@
       "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, similar to the dotcom bubble, he recently told reporters.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
-    },
-    {
-      "id": "e41a0888219d",
-      "title": "Foxconn and SoftBank to make data centre equipment in Ohio for Stargate project",
-      "summary": "Foxconn's said on Monday it plans to manufacture data centre equipment with Japan's SoftBank at the Taiwanese firm's former electric vehicle factory in Ohio, part of the Stargate project to advance U.S. artificial intelligence infrastructure.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/foxconn-softbank-make-data-centre-equipment-ohio-stargate-project-2025-08-18/",
-      "publishedAt": "2025-08-18T06:56:48Z",
-      "image": "https://www.reuters.com/resizer/v2/GB4WBQFPL5L6NIRZKAIKRRJ5R4.jpg?auth=94c1e6472384126d13519782a5019e58b7de8880dce745f522cb18fcddccc6b5&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Foxconn and SoftBank to make data centre equipment in Ohio for Stargate project",
-      "translated_summary": "Foxconn's said on Monday it plans to manufacture data centre equipment with Japan's SoftBank at the Taiwanese firm's former electric vehicle factory in Ohio, part of the Stargate project to advance U.S. artificial intelligence infrastructure.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "6小时前"
-    },
-    {
-      "id": "8f98cf42e3a7",
-      "title": "Trump’s Plans for A.I. Might Hit a Wall. Thank Europe.",
-      "summary": "The president wants to unleash American artificial intelligence companies on the world, but Europe can still stand in his way.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/08/18/opinion/trump-ai-europe.html",
-      "publishedAt": "2025-08-18T05:00:05Z",
-      "image": "https://static01.nyt.com/images/2025/08/18/opinion/18bradford/18bradford-facebookJumbo.jpg",
-      "translated_title": "Trump’s Plans for A.I. Might Hit a Wall. Thank Europe.",
-      "translated_summary": "The president wants to unleash American artificial intelligence companies on the world, but Europe can still stand in his way.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
     }
   ]
 }
