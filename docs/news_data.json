@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-18T09:30:26.012270",
+  "last_updated": "2025-08-18T10:28:22.066847",
   "total_count": 10,
   "articles": [
+    {
+      "id": "4ff8b82b098b",
+      "title": "Editorial: Artificial intelligence meets fried chicken at Wingstop",
+      "summary": "Wingstop’s new digital operating system streamlines ordering and evaluates scads of data to predict how much food will be needed and when.",
+      "source": "Chicago Tribune",
+      "url": "https://www.chicagotribune.com/2025/08/18/wingstop-artificial-intelligence-ai-fast-food/",
+      "publishedAt": "2025-08-18T10:00:50Z",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/2025/08/ctc-l-GettyImages-222216-01.jpg?w=1024&h=681",
+      "translated_title": "Editorial: Artificial intelligence meets fried chicken at Wingstop",
+      "translated_summary": "Wingstop’s new digital operating system streamlines ordering and evaluates scads of data to predict how much food will be needed and when.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "27分钟前"
+    },
+    {
+      "id": "8c002500a2a0",
+      "title": "Self-checkout has impact at Fenway, TD Garden",
+      "summary": "Checkout machines powered by artificial intelligence have increased sales at Fenway Park and TD Garden, but have left workers feeling unfulfilled and underpaid.",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/08/18/business/fenway-td-garden-ai-checkout/",
+      "publishedAt": "2025-08-18T10:00:01Z",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/5EJYLEPM5RC6ZDXO2Z7S4DFYPY.jpg?auth=9a28a36cfffae7fa8b4d0ebe70eea0ff2fcde6d15ec4c61b4036678cd109dd7b&width=1440",
+      "translated_title": "Self-checkout has impact at Fenway, TD Garden",
+      "translated_summary": "Checkout machines powered by artificial intelligence have increased sales at Fenway Park and TD Garden, but have left workers feeling unfulfilled and underpaid.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "28分钟前"
+    },
+    {
+      "id": "847b72d6923e",
+      "title": "Top tech leaders battling for AI supremacy - while spending billions and slinging mud along the way",
+      "summary": "With artificial intelligence promising to impact the way the world things, the smartest people in tech are hustling to to come up with the best and brightest version that they can control.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/18/us-news/top-tech-leaders-battling-for-ai-supremacy-while-spending-billions-and-slinging-mud-along-the-way/",
+      "publishedAt": "2025-08-18T10:00:00Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/Billionare_73c1f3.jpg?quality=75&strip=all&w=1024",
+      "translated_title": "Top tech leaders battling for AI supremacy - while spending billions and slinging mud along the way",
+      "translated_summary": "With artificial intelligence promising to impact the way the world things, the smartest people in tech are hustling to to come up with the best and brightest version that they can control.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "28分钟前"
+    },
     {
       "id": "d51d27327b4f",
       "title": "‘An existential threat’: For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
@@ -14,7 +56,7 @@
       "translated_summary": "If there’s one thing the White House, Wall Street and Silicon Valley can agree on, it’s that artificial intelligence is a top priority.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "29分钟前"
+      "time": "1小时前"
     },
     {
       "id": "f444a61c30fc",
@@ -28,7 +70,7 @@
       "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, similar to the dotcom bubble, he recently told reporters.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e41a0888219d",
@@ -42,7 +84,7 @@
       "translated_summary": "Foxconn's said on Monday it plans to manufacture data centre equipment with Japan's SoftBank at the Taiwanese firm's former electric vehicle factory in Ohio, part of the Stargate project to advance U.S. artificial intelligence infrastructure.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "8f98cf42e3a7",
@@ -56,7 +98,7 @@
       "translated_summary": "The president wants to unleash American artificial intelligence companies on the world, but Europe can still stand in his way.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "6ce7aaaa6fa5",
@@ -70,7 +112,7 @@
       "translated_summary": "Malaysia's state of Johor, a fast-growing data center hub, is coming up against the growing water and energy needs of the world's artificial intelligence boom.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "935e10bf9544",
@@ -84,7 +126,7 @@
       "translated_summary": "Read Promising Artificial Intelligence Stocks To Follow Now – August 16th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "5da716f76101",
@@ -98,49 +140,7 @@
       "translated_summary": "Welcome to a new era of commercial work fueled by generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
-    },
-    {
-      "id": "ba3a3fbfbcca",
-      "title": "APP vs. ACHR vs. RGTI: Which ‘Strong Buy’ Growth Stock Has the Highest Upside Potential, According to Wall Street?",
-      "summary": "The optimism around artificial intelligence and many breakthrough technologies, including air taxis and quantum computing, is driving several gr...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/app-vs-achr-vs-rgti-which-strong-buy-growth-stock-has-the-highest-upside-potential-according-to-wall-street-1035047615",
-      "publishedAt": "2025-08-17T19:32:32Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1129.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "APP vs. ACHR vs. RGTI: Which ‘Strong Buy’ Growth Stock Has the Highest Upside Potential, According to Wall Street?",
-      "translated_summary": "The optimism around artificial intelligence and many breakthrough technologies, including air taxis and quantum computing, is driving several gr...",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "13小时前"
-    },
-    {
-      "id": "e1a5e19f3438",
-      "title": "Neil Young ditches Facebook over policies for AI chatbots and children",
-      "summary": "Neil Young announced on Thursday that he is leaving Facebook over Meta's internal policies regarding communications between artificial intelligence chatbots and children.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/17/entertainment/neil-young-ditches-facebook-over-policies-for-ai-chatbots-and-children/",
-      "publishedAt": "2025-08-17T18:24:19Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109737955.jpg?quality=75&strip=all&w=1024",
-      "translated_title": "Neil Young ditches Facebook over policies for AI chatbots and children",
-      "translated_summary": "Neil Young announced on Thursday that he is leaving Facebook over Meta's internal policies regarding communications between artificial intelligence chatbots and children.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "15小时前"
-    },
-    {
-      "id": "bbdfb8a31261",
-      "title": "Nvidia and AMD Stocks Face Fresh Risk as Democrats Oppose Trump’s China Chip Deal",
-      "summary": "Top Senate Democrats are urging President Trump to rethink his plan that allows artificial intelligence chip sales to China. In an open letter, ...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/nvidia-and-amd-stocks-face-fresh-risk-as-democrats-oppose-trump-s-china-chip-deal-1035047549",
-      "publishedAt": "2025-08-17T13:58:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1122-1024x566.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Nvidia and AMD Stocks Face Fresh Risk as Democrats Oppose Trump’s China Chip Deal",
-      "translated_summary": "Top Senate Democrats are urging President Trump to rethink his plan that allows artificial intelligence chip sales to China. In an open letter, ...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "19小时前"
     }
   ]
 }
