@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-19T17:20:34.395983",
+  "last_updated": "2025-08-19T18:31:42.648406",
   "total_count": 10,
   "articles": [
+    {
+      "id": "fb62a3357b0c",
+      "title": "China restricts AI across the country to prevent kids cheating, America could learn from it",
+      "summary": "China now turns off AI functions for the whole country during exam periods. The CCP knows that their youth is learning less when they use artificial intelligence. Meanwhile, American students are using AI as a crutch and missing out on valuable learning experiences as a result.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/19/world-news/china-restricts-ai-across-the-country-to-prevent-kids-cheating-america-could-learn-from-it/",
+      "publishedAt": "2025-08-19T17:27:46Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-5e7q8auj5-1755624450826.jpg?quality=75&strip=all&1755610061&w=1024",
+      "translated_title": "China restricts AI across the country to prevent kids cheating, America could learn from it",
+      "translated_summary": "China now turns off AI functions for the whole country during exam periods. The CCP knows that their youth is learning less when they use artificial intelligence. Meanwhile, American students are using AI as a crutch and missing out on valuable learning experiences as a result.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "63477b458aaa",
       "title": "Amazon shares lag behind in stock market obsessed with AI",
@@ -14,7 +28,7 @@
       "translated_summary": "In a stock market obsessed with artificial intelligence, Amazon.com Inc. is losing ground.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "33分钟前"
+      "time": "1小时前"
     },
     {
       "id": "7660c4076e75",
@@ -28,7 +42,7 @@
       "translated_summary": "Meta Platforms Inc. is splitting its newly formed artificial intelligence group into four distinct teams and reassigning many of the company’s existing AI employees, an attempt to better capitalize on billions of dollars’ worth of recently acquired talent.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "46分钟前"
+      "time": "1小时前"
     },
     {
       "id": "ea4b4953084a",
@@ -42,7 +56,7 @@
       "translated_summary": "Meta is expected to announce a new restructuring of its artificial intelligence division amid internal tensions over the technology, people with knowledge of the plans said.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "48分钟前"
+      "time": "2小时前"
     },
     {
       "id": "f648efcedcda",
@@ -56,7 +70,7 @@
       "translated_summary": "Gaxos.AI shares are skyrocketing Tuesday morning. The company announced the launch of its new artificial intelligence platform, Art-Gen.AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c913c7ffb1aa",
@@ -70,7 +84,7 @@
       "translated_summary": "Some educators have been teaching themselves how to use artificial intelligence. In a recent survey, teachers said it saved them time, but some people argue AI discourages students from critical thinking.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "fed7e582f7ca",
@@ -84,7 +98,7 @@
       "translated_summary": "The speed and popularity of DeepSeek’s models have challenged US incumbents such as OpenAI, and demonstrated how Chinese companies can make strides in artificial intelligence for seemingly a fraction of the cost.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "696f72dcf679",
@@ -98,7 +112,7 @@
       "translated_summary": "As we increasingly ponder how to use artificial intelligence in our jobs and everyday lives, schools are also trying to figure out how to safely use it and teach it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "788a4d985551",
@@ -112,7 +126,7 @@
       "translated_summary": "DeepSeek announced what appeared to be an update to its older V3 artificial intelligence model on Tuesday, declaring an enhanced version ready for testing.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "a59ccfa31e38",
@@ -126,21 +140,7 @@
       "translated_summary": "Speaking with real students about common time management pitfalls, I came up with this list of artificial intelligence tools that can help you find your balance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "2c4df593903f",
-      "title": "Wall Street isn’t worried about an AI bubble. Sam Altman is.",
-      "summary": "Wall Street analysts are confident the artificial intelligence boom still has room to run. Even if Sam Altman isn't.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2025/08/19/wall-street-ai-bubble-sam-altman/",
-      "publishedAt": "2025-08-19T11:32:57Z",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2225624452.jpg?resize=1200,600",
-      "translated_title": "Wall Street isn’t worried about an AI bubble. Sam Altman is.",
-      "translated_summary": "Wall Street analysts are confident the artificial intelligence boom still has room to run. Even if Sam Altman isn't.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
