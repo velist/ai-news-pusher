@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-19T16:29:47.248419",
+  "last_updated": "2025-08-19T17:20:34.395983",
   "total_count": 10,
   "articles": [
+    {
+      "id": "63477b458aaa",
+      "title": "Amazon shares lag behind in stock market obsessed with AI",
+      "summary": "In a stock market obsessed with artificial intelligence, Amazon.com Inc. is losing ground.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/19/amazon-shares-lag-behind-in-stock-market-obsessed-with-ai/",
+      "publishedAt": "2025-08-19T16:46:53Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/03/Amazon-FTC-Trial_89079.jpg?w=1024&h=646",
+      "translated_title": "Amazon shares lag behind in stock market obsessed with AI",
+      "translated_summary": "In a stock market obsessed with artificial intelligence, Amazon.com Inc. is losing ground.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "33分钟前"
+    },
+    {
+      "id": "7660c4076e75",
+      "title": "Meta Restructures AI Group Again in Pursuit of Superintelligence",
+      "summary": "Meta Platforms Inc. is splitting its newly formed artificial intelligence group into four distinct teams and reassigning many of the company’s existing AI employees, an attempt to better capitalize on billions of dollars’ worth of recently acquired talent.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-19/meta-restructures-ai-group-again-in-pursuit-of-superintelligence",
+      "publishedAt": "2025-08-19T16:33:42Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig7K9NEFTWSc/v1/1200x797.jpg",
+      "translated_title": "Meta Restructures AI Group Again in Pursuit of Superintelligence",
+      "translated_summary": "Meta Platforms Inc. is splitting its newly formed artificial intelligence group into four distinct teams and reassigning many of the company’s existing AI employees, an attempt to better capitalize on billions of dollars’ worth of recently acquired talent.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "46分钟前"
+    },
+    {
+      "id": "ea4b4953084a",
+      "title": "Zuckerberg Plans Another Overhaul of Meta’s A.I. Efforts",
+      "summary": "Meta is expected to announce a new restructuring of its artificial intelligence division amid internal tensions over the technology, people with knowledge of the plans said.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/19/technology/mark-zuckerberg-meta-ai.html",
+      "publishedAt": "2025-08-19T16:31:37Z",
+      "image": "https://static01.nyt.com/images/2025/08/19/multimedia/00biz-meta-ai-htcw/00biz-meta-ai-htcw-facebookJumbo.jpg",
+      "translated_title": "Zuckerberg Plans Another Overhaul of Meta’s A.I. Efforts",
+      "translated_summary": "Meta is expected to announce a new restructuring of its artificial intelligence division amid internal tensions over the technology, people with knowledge of the plans said.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "48分钟前"
+    },
     {
       "id": "f648efcedcda",
       "title": "Why Gaxos.AI (GXAI) Shares Are Soaring Tuesday",
@@ -14,7 +56,7 @@
       "translated_summary": "Gaxos.AI shares are skyrocketing Tuesday morning. The company announced the launch of its new artificial intelligence platform, Art-Gen.AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "30分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c913c7ffb1aa",
@@ -28,7 +70,7 @@
       "translated_summary": "Some educators have been teaching themselves how to use artificial intelligence. In a recent survey, teachers said it saved them time, but some people argue AI discourages students from critical thinking.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "46分钟前"
+      "time": "1小时前"
     },
     {
       "id": "fed7e582f7ca",
@@ -42,7 +84,7 @@
       "translated_summary": "The speed and popularity of DeepSeek’s models have challenged US incumbents such as OpenAI, and demonstrated how Chinese companies can make strides in artificial intelligence for seemingly a fraction of the cost.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "696f72dcf679",
@@ -56,7 +98,7 @@
       "translated_summary": "As we increasingly ponder how to use artificial intelligence in our jobs and everyday lives, schools are also trying to figure out how to safely use it and teach it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "788a4d985551",
@@ -70,7 +112,7 @@
       "translated_summary": "DeepSeek announced what appeared to be an update to its older V3 artificial intelligence model on Tuesday, declaring an enhanced version ready for testing.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "a59ccfa31e38",
@@ -84,7 +126,7 @@
       "translated_summary": "Speaking with real students about common time management pitfalls, I came up with this list of artificial intelligence tools that can help you find your balance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "2c4df593903f",
@@ -98,49 +140,7 @@
       "translated_summary": "Wall Street analysts are confident the artificial intelligence boom still has room to run. Even if Sam Altman isn't.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "36859da2d4fd",
-      "title": "Databricks valued at over $100 billion in latest fundraising amid AI rush",
-      "summary": "Databricks said on Tuesday it was raising new funds that would value the data analytics firm at more than $100 billion, less than a year after its previous round, as investor appetite for artificial intelligence companies remains strong.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/databricks-valued-over-100-billion-latest-fundraising-amid-ai-rush-2025-08-19/",
-      "publishedAt": "2025-08-19T10:13:28Z",
-      "image": "https://www.reuters.com/resizer/v2/2LWGANLHEZMJTKZL6LPLCUAIXY.jpg?auth=2ce3204452b99c16c2365ee4caaa32f9f3b6b675a67154ee51ffeaffe5801b1b&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Databricks valued at over $100 billion in latest fundraising amid AI rush",
-      "translated_summary": "Databricks said on Tuesday it was raising new funds that would value the data analytics firm at more than $100 billion, less than a year after its previous round, as investor appetite for artificial intelligence companies remains strong.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "9324e6fe9334",
-      "title": "Databricks eyes over $100 billion valuation as investors back AI growth plans",
-      "summary": "Analytics firm Databricks said on Tuesday its valuation was set to jump 61% to more than $100 billion in a funding round less than a year after its last, underscoring strong investor demand for artificial intelligence startups.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/databricks-eyes-over-100-billion-valuation-investors-back-ai-growth-plans-2025-08-19/",
-      "publishedAt": "2025-08-19T10:13:28Z",
-      "image": "https://www.reuters.com/resizer/v2/2LWGANLHEZMJTKZL6LPLCUAIXY.jpg?auth=2ce3204452b99c16c2365ee4caaa32f9f3b6b675a67154ee51ffeaffe5801b1b&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Databricks eyes over $100 billion valuation as investors back AI growth plans",
-      "translated_summary": "Analytics firm Databricks said on Tuesday its valuation was set to jump 61% to more than $100 billion in a funding round less than a year after its last, underscoring strong investor demand for artificial intelligence startups.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "6小时前"
-    },
-    {
-      "id": "d00e1640127a",
-      "title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds",
-      "summary": "Americans are deeply concerned over the prospect that advances in artificial intelligence could put swaths of the country out of work permanently, according to a new Reuters/Ipsos poll.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/americans-fear-ai-permanently-displacing-workers-reutersipsos-poll-finds-2025-08-19/",
-      "publishedAt": "2025-08-19T10:03:38Z",
-      "image": "https://www.reuters.com/resizer/v2/QIHE5TQNWNIE7IEG42QMEZP5N4.jpg?auth=2e8d8b9ed24602dfdd96652b1801e47a12675281020292b048c8a4fd5b70bf7f&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds",
-      "translated_summary": "Americans are deeply concerned over the prospect that advances in artificial intelligence could put swaths of the country out of work permanently, according to a new Reuters/Ipsos poll.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "5小时前"
     }
   ]
 }
