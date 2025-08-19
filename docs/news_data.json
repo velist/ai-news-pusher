@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-19T07:22:26.852164",
+  "last_updated": "2025-08-19T08:31:33.526871",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c3639753b3b9",
+      "title": "Arm Taps Amazon AI Veteran To Drive In-House Chip Push, Challenge Nvidia And AMD: Report",
+      "summary": "In a strategic move, Arm Holdings has recruited Rami Sinno, a former Amazon.com Inc (NASDAQ: AMZN) artificial intelligence (AI) chip director, to enhance its in-house chip development plans.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/25/08/47202410/arm-taps-amazon-ai-veteran-to-drive-in-house-chip-push-challenge-nvidia-and-amd-report",
+      "publishedAt": "2025-08-19T08:09:36Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/19/Konskie--Poland---November-12--2024-Arm-.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Arm Taps Amazon AI Veteran To Drive In-House Chip Push, Challenge Nvidia And AMD: Report",
+      "translated_summary": "In a strategic move, Arm Holdings has recruited Rami Sinno, a former Amazon.com Inc (NASDAQ: AMZN) artificial intelligence (AI) chip director, to enhance its in-house chip development plans.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "21分钟前"
+    },
+    {
+      "id": "67a82e08b336",
+      "title": "SoftBank's growing bets on AI and semiconductor assets",
+      "summary": "SoftBank announced on Tuesday a $2 billion investment in Intel that will add to the Japanese tech investor's ambitious bet on artificial intelligence and the chip industry.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/softbanks-growing-bets-ai-semiconductor-assets-2025-08-19/",
+      "publishedAt": "2025-08-19T07:22:13Z",
+      "image": "https://www.reuters.com/resizer/v2/VDPJNOKEKRKT3KIUJUOUZLAMCY.jpg?auth=2b37dedac4871862da727b3f1a06a7169107451f99fe16cc8a98e78a4e6943f6&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "SoftBank's growing bets on AI and semiconductor assets",
+      "translated_summary": "SoftBank announced on Tuesday a $2 billion investment in Intel that will add to the Japanese tech investor's ambitious bet on artificial intelligence and the chip industry.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "87ca5a0c8920",
       "title": "Meta's Billion-Dollar AI 'Super Team' Could End Up Like The Metaverse, Warns Venture Capitalist: 'Don't Think Anyone's The '96 Bulls'",
@@ -14,7 +42,7 @@
       "translated_summary": "Venture capitalist Sarah Kunst of Cleo Capital is raising concerns regarding Meta Platforms Inc.'s (NASDAQ: META) latest reorganization and its high-priced push into artificial intelligence, warning that the strategy could mirror the company's failed metaverse experiment.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "58分钟前"
+      "time": "2小时前"
     },
     {
       "id": "8396a5004b98",
@@ -28,7 +56,7 @@
       "translated_summary": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "f24eb0cb1e51",
@@ -42,7 +70,21 @@
       "translated_summary": "Salesforce Inc. signed a definitive agreement to acquire Regrello, an artificial intelligence-native automation platform.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
+    },
+    {
+      "id": "1aecadbd6365",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Update",
+      "summary": "Read Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Update at ETF Daily News",
+      "source": "ETF Daily News",
+      "url": "https://www.etfdailynews.com/2025/08/19/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-update/",
+      "publishedAt": "2025-08-19T03:52:58Z",
+      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/global-x-robotics--artificial-intelligence-etf-logo-1200x675.png?v=20210709123618&w=240&h=240&zc=2",
+      "translated_title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Update",
+      "translated_summary": "Read Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Update at ETF Daily News",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "4小时前"
     },
     {
       "id": "d5e7fe7e1e08",
@@ -56,7 +98,21 @@
       "translated_summary": "More and more kids are turning to artificial intelligence chatbots for social interaction. We are scrambling to understand the pros and cons of their use",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
+    },
+    {
+      "id": "2bed9b40d258",
+      "title": "Sam Altman Warns AI Stocks May Be in a Dot-Com Style Bubble",
+      "summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market may be in bubble territory. In a recent discussion reported by The Verge, Altman...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/sam-altman-warns-ai-stocks-may-be-in-a-dot-com-style-bubble-1035051079",
+      "publishedAt": "2025-08-19T01:00:00Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1203.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Sam Altman Warns AI Stocks May Be in a Dot-Com Style Bubble",
+      "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market may be in bubble territory. In a recent discussion reported by The Verge, Altman...",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "7小时前"
     },
     {
       "id": "104b6e7185de",
@@ -70,7 +126,7 @@
       "translated_summary": "The telecommunications industry is undergoing a massive digital transformation, driven by the rapid adoption of cloud computing, artificial intelligence (AI), and advanced middleware platforms. At",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "a0f4419a281e",
@@ -84,63 +140,7 @@
       "translated_summary": "Households are now competing against power-hungry computer data centers from the likes of Amazon, Google, Meta and Microsoft put strain on the grid to power new artificial intelligence projects. Add in the fact that New York and New Jersey have both shut down nuclear power and pursued expensive green mandates, and customers are seeing a big strain on their wallets.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
-    },
-    {
-      "id": "4d2d0196fd9e",
-      "title": "Palo Alto's forecasts signal AI boost for cybersecurity tools, shares rise",
-      "summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above analysts' estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up 5% in extended trading.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/palo-altos-forecasts-signal-ai-boost-cybersecurity-tools-shares-rise-2025-08-18/",
-      "publishedAt": "2025-08-18T21:17:08Z",
-      "image": "https://www.reuters.com/resizer/v2/BSTCB23ZNNLZRCOGXAUYPR7OYI.jpg?auth=79738596597cdff64c01efdc9c9e26ecb37c637ec491baa9653256850a2b4596&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Palo Alto's forecasts signal AI boost for cybersecurity tools, shares rise",
-      "translated_summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above analysts' estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up 5% in extended trading.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "0bab63c7ed94",
-      "title": "Palo Alto's forecasts signals AI boost for cybersecurity tools",
-      "summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above Wall Street estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up nearly 5% in extended trading.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/palo-altos-forecasts-signals-ai-boost-cybersecurity-tools-2025-08-18/",
-      "publishedAt": "2025-08-18T21:17:08Z",
-      "image": "https://www.reuters.com/resizer/v2/BSTCB23ZNNLZRCOGXAUYPR7OYI.jpg?auth=79738596597cdff64c01efdc9c9e26ecb37c637ec491baa9653256850a2b4596&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Palo Alto's forecasts signals AI boost for cybersecurity tools",
-      "translated_summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above Wall Street estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up nearly 5% in extended trading.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "4ce729d8860b",
-      "title": "Exclusive: Arm hires Amazon AI exec to boost plans to build its own chips",
-      "summary": "Arm Holdings has hired Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, a person familiar with the matter said on Monday.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/arm-hires-amazon-ai-exec-boost-plans-build-its-own-chips-2025-08-18/",
-      "publishedAt": "2025-08-18T20:29:58Z",
-      "image": "https://www.reuters.com/resizer/v2/JTW4U3XT3RIWZBBV7Q46NCFTDE.jpg?auth=9c211c974056fecb24322e1f764c185ac071a14835e6a63ac995b0555946f91f&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Exclusive: Arm hires Amazon AI exec to boost plans to build its own chips",
-      "translated_summary": "Arm Holdings has hired Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, a person familiar with the matter said on Monday.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "b47fd9ca30fe",
-      "title": "Exclusive: Arm hires Amazon AI chip director to aid in-house effort",
-      "summary": "Arm Holdings has hired former Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, according to a person familiar with the matter.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/arm-hires-amazon-ai-chip-director-aid-in-house-effort-2025-08-18/",
-      "publishedAt": "2025-08-18T20:29:58Z",
-      "image": "https://www.reuters.com/resizer/v2/JTW4U3XT3RIWZBBV7Q46NCFTDE.jpg?auth=9c211c974056fecb24322e1f764c185ac071a14835e6a63ac995b0555946f91f&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Exclusive: Arm hires Amazon AI chip director to aid in-house effort",
-      "translated_summary": "Arm Holdings has hired former Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, according to a person familiar with the matter.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "8小时前"
     }
   ]
 }
