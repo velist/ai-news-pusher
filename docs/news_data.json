@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-19T09:25:30.399896",
+  "last_updated": "2025-08-19T10:25:43.344972",
   "total_count": 10,
   "articles": [
+    {
+      "id": "d00e1640127a",
+      "title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds",
+      "summary": "Americans are deeply concerned over the prospect that advances in artificial intelligence could put swaths of the country out of work permanently, according to a new Reuters/Ipsos poll.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/americans-fear-ai-permanently-displacing-workers-reutersipsos-poll-finds-2025-08-19/",
+      "publishedAt": "2025-08-19T10:03:38Z",
+      "image": "https://www.reuters.com/resizer/v2/QIHE5TQNWNIE7IEG42QMEZP5N4.jpg?auth=2e8d8b9ed24602dfdd96652b1801e47a12675281020292b048c8a4fd5b70bf7f&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds",
+      "translated_summary": "Americans are deeply concerned over the prospect that advances in artificial intelligence could put swaths of the country out of work permanently, according to a new Reuters/Ipsos poll.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "22分钟前"
+    },
+    {
+      "id": "ebc76dddbe77",
+      "title": "The 1970s Gave Us Industrial Decline. A.I. Could Bring Something Worse.",
+      "summary": "Just as manufacturing towns failed to recognize the looming threat of new technology, cities now risk underestimating the disruption of artificial intelligence.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/19/opinion/ai-job-loss-deindustrialization.html",
+      "publishedAt": "2025-08-19T09:00:56Z",
+      "image": "https://static01.nyt.com/images/2025/08/19/opinion/19Frey/19Frey-facebookJumbo.jpg",
+      "translated_title": "The 1970s Gave Us Industrial Decline. A.I. Could Bring Something Worse.",
+      "translated_summary": "Just as manufacturing towns failed to recognize the looming threat of new technology, cities now risk underestimating the disruption of artificial intelligence.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "1小时前"
+    },
+    {
+      "id": "fc2ed0de056a",
+      "title": "Silicon Valley Needs to Stop Obsessing Over Superhuman A.I.",
+      "summary": "Silicon Valley’s obsession with creating artificial intelligence that surpasses human abilities is going too far.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/19/opinion/artificial-general-intelligence-superintelligence.html",
+      "publishedAt": "2025-08-19T09:00:07Z",
+      "image": "https://static01.nyt.com/images/2025/08/04/opinion/04schmidt/04schmidt-facebookJumbo.jpg",
+      "translated_title": "Silicon Valley Needs to Stop Obsessing Over Superhuman A.I.",
+      "translated_summary": "Silicon Valley’s obsession with creating artificial intelligence that surpasses human abilities is going too far.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "c3639753b3b9",
       "title": "Arm Taps Amazon AI Veteran To Drive In-House Chip Push, Challenge Nvidia And AMD: Report",
@@ -14,7 +56,7 @@
       "translated_summary": "In a strategic move, Arm Holdings has recruited Rami Sinno, a former Amazon.com Inc (NASDAQ: AMZN) artificial intelligence (AI) chip director, to enhance its in-house chip development plans.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "67a82e08b336",
@@ -28,7 +70,7 @@
       "translated_summary": "SoftBank announced on Tuesday a $2 billion investment in Intel that will add to the Japanese tech investor's ambitious bet on artificial intelligence and the chip industry.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "87ca5a0c8920",
@@ -42,7 +84,7 @@
       "translated_summary": "Venture capitalist Sarah Kunst of Cleo Capital is raising concerns regarding Meta Platforms Inc.'s (NASDAQ: META) latest reorganization and its high-priced push into artificial intelligence, warning that the strategy could mirror the company's failed metaverse experiment.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "8396a5004b98",
@@ -56,7 +98,7 @@
       "translated_summary": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "f24eb0cb1e51",
@@ -70,7 +112,7 @@
       "translated_summary": "Salesforce Inc. signed a definitive agreement to acquire Regrello, an artificial intelligence-native automation platform.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "1aecadbd6365",
@@ -84,7 +126,7 @@
       "translated_summary": "Read Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Update at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "d5e7fe7e1e08",
@@ -98,49 +140,7 @@
       "translated_summary": "More and more kids are turning to artificial intelligence chatbots for social interaction. We are scrambling to understand the pros and cons of their use",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "2bed9b40d258",
-      "title": "Sam Altman Warns AI Stocks May Be in a Dot-Com Style Bubble",
-      "summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market may be in bubble territory. In a recent discussion reported by The Verge, Altman...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/sam-altman-warns-ai-stocks-may-be-in-a-dot-com-style-bubble-1035051079",
-      "publishedAt": "2025-08-19T01:00:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1203.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Sam Altman Warns AI Stocks May Be in a Dot-Com Style Bubble",
-      "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market may be in bubble territory. In a recent discussion reported by The Verge, Altman...",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "8小时前"
-    },
-    {
-      "id": "104b6e7185de",
-      "title": "Raghavender Reddy Grudhanti: Leading Telecommunications Technology Transformations by Integrating AI, AWS, and MuleSoft",
-      "summary": "The telecommunications industry is undergoing a massive digital transformation, driven by the rapid adoption of cloud computing, artificial intelligence (AI), and advanced middleware platforms. At",
-      "source": "International Business Times",
-      "url": "https://www.ibtimes.com/raghavender-reddy-grudhanti-leading-telecommunications-technology-transformations-integrating-ai-3781153",
-      "publishedAt": "2025-08-19T00:08:24Z",
-      "image": "https://d.ibtimes.com/en/full/4616750/leading-telecommunications-technology-transformations-integrating-ai-aws-mulesoft.jpg",
-      "translated_title": "Raghavender Reddy Grudhanti: Leading Telecommunications Technology Transformations by Integrating AI, AWS, and MuleSoft",
-      "translated_summary": "The telecommunications industry is undergoing a massive digital transformation, driven by the rapid adoption of cloud computing, artificial intelligence (AI), and advanced middleware platforms. At",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "9小时前"
-    },
-    {
-      "id": "a0f4419a281e",
-      "title": "How AI data centers lead to big electric bills in NY and NJ",
-      "summary": "Households are now competing against power-hungry computer data centers from the likes of Amazon, Google, Meta and Microsoft put strain on the grid to power new artificial intelligence projects. Add in the fact that New York and New Jersey have both shut down nuclear power and pursued expensive green mandates, and customers are seeing a big strain on their wallets.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/18/us-news/how-ai-data-centers-lead-to-big-electric-bills-in-ny-and-nj/",
-      "publishedAt": "2025-08-18T23:41:23Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-xm04amoda-1755560389926.jpg?quality=75&strip=all&1755546079&w=1024",
-      "translated_title": "How AI data centers lead to big electric bills in NY and NJ",
-      "translated_summary": "Households are now competing against power-hungry computer data centers from the likes of Amazon, Google, Meta and Microsoft put strain on the grid to power new artificial intelligence projects. Add in the fact that New York and New Jersey have both shut down nuclear power and pursued expensive green mandates, and customers are seeing a big strain on their wallets.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "9小时前"
     }
   ]
 }
