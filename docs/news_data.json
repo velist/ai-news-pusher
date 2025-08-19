@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-18T23:21:50.587296",
+  "last_updated": "2025-08-19T01:54:27.890988",
   "total_count": 10,
   "articles": [
+    {
+      "id": "104b6e7185de",
+      "title": "Raghavender Reddy Grudhanti: Leading Telecommunications Technology Transformations by Integrating AI, AWS, and MuleSoft",
+      "summary": "The telecommunications industry is undergoing a massive digital transformation, driven by the rapid adoption of cloud computing, artificial intelligence (AI), and advanced middleware platforms. At",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/raghavender-reddy-grudhanti-leading-telecommunications-technology-transformations-integrating-ai-3781153",
+      "publishedAt": "2025-08-19T00:08:24Z",
+      "image": "https://d.ibtimes.com/en/full/4616750/leading-telecommunications-technology-transformations-integrating-ai-aws-mulesoft.jpg",
+      "translated_title": "Raghavender Reddy Grudhanti: Leading Telecommunications Technology Transformations by Integrating AI, AWS, and MuleSoft",
+      "translated_summary": "The telecommunications industry is undergoing a massive digital transformation, driven by the rapid adoption of cloud computing, artificial intelligence (AI), and advanced middleware platforms. At",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "1小时前"
+    },
+    {
+      "id": "a0f4419a281e",
+      "title": "How AI data centers lead to big electric bills in NY and NJ",
+      "summary": "Households are now competing against power-hungry computer data centers from the likes of Amazon, Google, Meta and Microsoft put strain on the grid to power new artificial intelligence projects. Add in the fact that New York and New Jersey have both shut down nuclear power and pursued expensive green mandates, and customers are seeing a big strain on their wallets.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/18/us-news/how-ai-data-centers-lead-to-big-electric-bills-in-ny-and-nj/",
+      "publishedAt": "2025-08-18T23:41:23Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-xm04amoda-1755560389926.jpg?quality=75&strip=all&1755546079&w=1024",
+      "translated_title": "How AI data centers lead to big electric bills in NY and NJ",
+      "translated_summary": "Households are now competing against power-hungry computer data centers from the likes of Amazon, Google, Meta and Microsoft put strain on the grid to power new artificial intelligence projects. Add in the fact that New York and New Jersey have both shut down nuclear power and pursued expensive green mandates, and customers are seeing a big strain on their wallets.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "2小时前"
+    },
     {
       "id": "4d2d0196fd9e",
       "title": "Palo Alto's forecasts signal AI boost for cybersecurity tools, shares rise",
@@ -14,7 +42,7 @@
       "translated_summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above analysts' estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up 5% in extended trading.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "0bab63c7ed94",
@@ -28,7 +56,7 @@
       "translated_summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above Wall Street estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up nearly 5% in extended trading.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "4ce729d8860b",
@@ -42,7 +70,7 @@
       "translated_summary": "Arm Holdings has hired Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, a person familiar with the matter said on Monday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "5小时前"
     },
     {
       "id": "b47fd9ca30fe",
@@ -56,7 +84,7 @@
       "translated_summary": "Arm Holdings has hired former Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, according to a person familiar with the matter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "5小时前"
     },
     {
       "id": "56b05da6eec9",
@@ -70,7 +98,7 @@
       "translated_summary": "Meta Platforms shares are trading lower Monday afternoon. The company is navigating a series of headwinds related to its artificial intelligence strategy.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "6小时前"
     },
     {
       "id": "bb966a473c01",
@@ -84,7 +112,7 @@
       "translated_summary": "From faster MRI scans to earlier cancer diagnoses, Philips is betting big on artificial intelligence to transform patient care and ease the strain on clinicians.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "5b5c0e23f764",
@@ -98,7 +126,7 @@
       "translated_summary": "Private credit lenders, and their deep pockets, are rapidly becoming an important source of capital for artificial intelligence development. That’s raising concerns at UBS Global Research.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "db8263b4c33a",
@@ -112,35 +140,7 @@
       "translated_summary": "OpenAI CEO Sam Altman thinks the artificial intelligence market is in a bubble, according to a report from The Verge published Friday.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "dcb8d9aa1de5",
-      "title": "For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
-      "summary": "If there's one thing the White House, Wall Street and Silicon Valley can agree on, it's that artificial intelligence is a top priority.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/08/18/silicon-valley-falling-behind-artificial-intelligence/",
-      "publishedAt": "2025-08-18T16:47:55Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/08/8216An_existential_threat8217_For_Silicon_Valley_falling_behind_in_AI_is_a_bigger_threat_than_tariffs1-1.jpg?w=1024&h=682",
-      "translated_title": "For Silicon Valley, falling behind in AI is a bigger threat than tariffs",
-      "translated_summary": "If there's one thing the White House, Wall Street and Silicon Valley can agree on, it's that artificial intelligence is a top priority.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "9b89c04c3be9",
-      "title": "OpenAI CEO Sam Altman warns of AI bubble, says investors are 'overexcited': report",
-      "summary": "OpenAI CEO Sam Altman said he thinks the artificial intelligence market is in a bubble – comparable to the dot-com crash of the early 2000s, according to a report.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/18/business/openai-ceo-sam-altman-warns-of-ai-bubble-says-investors-are-overexcited-report/",
-      "publishedAt": "2025-08-18T16:45:59Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-rlljrkcgy-1755535352731.jpg?quality=75&strip=all&1755521065&w=1024",
-      "translated_title": "OpenAI CEO Sam Altman warns of AI bubble, says investors are 'overexcited': report",
-      "translated_summary": "OpenAI CEO Sam Altman said he thinks the artificial intelligence market is in a bubble – comparable to the dot-com crash of the early 2000s, according to a report.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "8小时前"
     }
   ]
 }
