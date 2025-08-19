@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-19T10:25:43.344972",
+  "last_updated": "2025-08-19T11:19:24.754803",
   "total_count": 10,
   "articles": [
+    {
+      "id": "36859da2d4fd",
+      "title": "Databricks valued at over $100 billion in latest fundraising amid AI rush",
+      "summary": "Databricks said on Tuesday it was raising new funds that would value the data analytics firm at more than $100 billion, less than a year after its previous round, as investor appetite for artificial intelligence companies remains strong.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/databricks-valued-over-100-billion-latest-fundraising-amid-ai-rush-2025-08-19/",
+      "publishedAt": "2025-08-19T10:13:28Z",
+      "image": "https://www.reuters.com/resizer/v2/2LWGANLHEZMJTKZL6LPLCUAIXY.jpg?auth=2ce3204452b99c16c2365ee4caaa32f9f3b6b675a67154ee51ffeaffe5801b1b&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Databricks valued at over $100 billion in latest fundraising amid AI rush",
+      "translated_summary": "Databricks said on Tuesday it was raising new funds that would value the data analytics firm at more than $100 billion, less than a year after its previous round, as investor appetite for artificial intelligence companies remains strong.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
+      "id": "9324e6fe9334",
+      "title": "Databricks eyes over $100 billion valuation as investors back AI growth plans",
+      "summary": "Analytics firm Databricks said on Tuesday its valuation was set to jump 61% to more than $100 billion in a funding round less than a year after its last, underscoring strong investor demand for artificial intelligence startups.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/databricks-eyes-over-100-billion-valuation-investors-back-ai-growth-plans-2025-08-19/",
+      "publishedAt": "2025-08-19T10:13:28Z",
+      "image": "https://www.reuters.com/resizer/v2/2LWGANLHEZMJTKZL6LPLCUAIXY.jpg?auth=2ce3204452b99c16c2365ee4caaa32f9f3b6b675a67154ee51ffeaffe5801b1b&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Databricks eyes over $100 billion valuation as investors back AI growth plans",
+      "translated_summary": "Analytics firm Databricks said on Tuesday its valuation was set to jump 61% to more than $100 billion in a funding round less than a year after its last, underscoring strong investor demand for artificial intelligence startups.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "d00e1640127a",
       "title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds",
@@ -14,7 +42,7 @@
       "translated_summary": "Americans are deeply concerned over the prospect that advances in artificial intelligence could put swaths of the country out of work permanently, according to a new Reuters/Ipsos poll.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22分钟前"
+      "time": "1小时前"
     },
     {
       "id": "ebc76dddbe77",
@@ -28,7 +56,7 @@
       "translated_summary": "Just as manufacturing towns failed to recognize the looming threat of new technology, cities now risk underestimating the disruption of artificial intelligence.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "fc2ed0de056a",
@@ -42,7 +70,7 @@
       "translated_summary": "Silicon Valley’s obsession with creating artificial intelligence that surpasses human abilities is going too far.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c3639753b3b9",
@@ -56,7 +84,7 @@
       "translated_summary": "In a strategic move, Arm Holdings has recruited Rami Sinno, a former Amazon.com Inc (NASDAQ: AMZN) artificial intelligence (AI) chip director, to enhance its in-house chip development plans.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "67a82e08b336",
@@ -98,7 +126,7 @@
       "translated_summary": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "f24eb0cb1e51",
@@ -112,35 +140,7 @@
       "translated_summary": "Salesforce Inc. signed a definitive agreement to acquire Regrello, an artificial intelligence-native automation platform.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "1aecadbd6365",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Update",
-      "summary": "Read Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Update at ETF Daily News",
-      "source": "ETF Daily News",
-      "url": "https://www.etfdailynews.com/2025/08/19/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-update/",
-      "publishedAt": "2025-08-19T03:52:58Z",
-      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/global-x-robotics--artificial-intelligence-etf-logo-1200x675.png?v=20210709123618&w=240&h=240&zc=2",
-      "translated_title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Update",
-      "translated_summary": "Read Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Update at ETF Daily News",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "d5e7fe7e1e08",
-      "title": "How Are AI Chatbots Affecting Teen Development?",
-      "summary": "More and more kids are turning to artificial intelligence chatbots for social interaction. We are scrambling to understand the pros and cons of their use",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/how-are-ai-chatbots-affecting-teen-development/",
-      "publishedAt": "2025-08-19T02:15:00Z",
-      "image": "https://static.scientificamerican.com/dam/m/66f1c982dabd7ed6/original/teen-using-smart-phone.jpg?m=1755569291.843&w=1200",
-      "translated_title": "How Are AI Chatbots Affecting Teen Development?",
-      "translated_summary": "More and more kids are turning to artificial intelligence chatbots for social interaction. We are scrambling to understand the pros and cons of their use",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "5小时前"
     }
   ]
 }
