@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-19T05:22:53.645617",
+  "last_updated": "2025-08-19T06:35:47.085074",
   "total_count": 10,
   "articles": [
+    {
+      "id": "8396a5004b98",
+      "title": "OpenAI Rolls Out $5 ChatGPT Go Plan Exclusively for India",
+      "summary": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-19/openai-rolls-out-5-chatgpt-go-plan-exclusively-for-india",
+      "publishedAt": "2025-08-19T05:53:02Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKjLenBOuL1Q/v1/1200x800.jpg",
+      "translated_title": "OpenAI Rolls Out $5 ChatGPT Go Plan Exclusively for India",
+      "translated_summary": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "42分钟前"
+    },
+    {
+      "id": "f24eb0cb1e51",
+      "title": "Salesforce Bets Big On 'Agentic AI,' Acquires Regrello To End Manual Work, Enable AI-Powered Automations",
+      "summary": "Salesforce Inc. signed a definitive agreement to acquire Regrello, an artificial intelligence-native automation platform.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/25/08/47201298/salesforce-bets-big-on-agentic-ai-acquires-regrello-to-end-manual-work-enable-ai-powered-automations",
+      "publishedAt": "2025-08-19T05:34:24Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/19/Salesforce.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Salesforce Bets Big On 'Agentic AI,' Acquires Regrello To End Manual Work, Enable AI-Powered Automations",
+      "translated_summary": "Salesforce Inc. signed a definitive agreement to acquire Regrello, an artificial intelligence-native automation platform.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "d5e7fe7e1e08",
       "title": "How Are AI Chatbots Affecting Teen Development?",
@@ -14,7 +42,7 @@
       "translated_summary": "More and more kids are turning to artificial intelligence chatbots for social interaction. We are scrambling to understand the pros and cons of their use",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "104b6e7185de",
@@ -28,7 +56,7 @@
       "translated_summary": "The telecommunications industry is undergoing a massive digital transformation, driven by the rapid adoption of cloud computing, artificial intelligence (AI), and advanced middleware platforms. At",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "a0f4419a281e",
@@ -42,7 +70,7 @@
       "translated_summary": "Households are now competing against power-hungry computer data centers from the likes of Amazon, Google, Meta and Microsoft put strain on the grid to power new artificial intelligence projects. Add in the fact that New York and New Jersey have both shut down nuclear power and pursued expensive green mandates, and customers are seeing a big strain on their wallets.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "4d2d0196fd9e",
@@ -56,7 +84,7 @@
       "translated_summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above analysts' estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up 5% in extended trading.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "0bab63c7ed94",
@@ -70,7 +98,7 @@
       "translated_summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above Wall Street estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up nearly 5% in extended trading.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "4ce729d8860b",
@@ -84,7 +112,7 @@
       "translated_summary": "Arm Holdings has hired Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, a person familiar with the matter said on Monday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "10小时前"
     },
     {
       "id": "b47fd9ca30fe",
@@ -98,7 +126,7 @@
       "translated_summary": "Arm Holdings has hired former Amazon.com artificial intelligence chip director Rami Sinno to bolster its plans to develop its own complete chips, according to a person familiar with the matter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "10小时前"
     },
     {
       "id": "56b05da6eec9",
@@ -112,35 +140,7 @@
       "translated_summary": "Meta Platforms shares are trading lower Monday afternoon. The company is navigating a series of headwinds related to its artificial intelligence strategy.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "bb966a473c01",
-      "title": "Philips CEO Jeff DiLullo on how AI is changing healthcare today",
-      "summary": "From faster MRI scans to earlier cancer diagnoses, Philips is betting big on artificial intelligence to transform patient care and ease the strain on clinicians.",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91387516/philips-ceo-jeff-dilullo-on-how-ai-is-changing-healthcare-today",
-      "publishedAt": "2025-08-18T19:00:00Z",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/08/p-1-91387516-philips-ceo-jeff-dilullo-on-how-ai-is-changing-healthcare-today.jpg",
-      "translated_title": "Philips CEO Jeff DiLullo on how AI is changing healthcare today",
-      "translated_summary": "From faster MRI scans to earlier cancer diagnoses, Philips is betting big on artificial intelligence to transform patient care and ease the strain on clinicians.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "5b5c0e23f764",
-      "title": "Private Credit-Powered AI Boom at Risk of Overheating, UBS Says",
-      "summary": "Private credit lenders, and their deep pockets, are rapidly becoming an important source of capital for artificial intelligence development. That’s raising concerns at UBS Global Research.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-18/private-credit-powered-ai-boom-at-risk-of-overheating-ubs-says",
-      "publishedAt": "2025-08-18T17:19:02Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3U5rM6UB8Mg/v1/1200x800.jpg",
-      "translated_title": "Private Credit-Powered AI Boom at Risk of Overheating, UBS Says",
-      "translated_summary": "Private credit lenders, and their deep pockets, are rapidly becoming an important source of capital for artificial intelligence development. That’s raising concerns at UBS Global Research.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "12小时前"
+      "time": "11小时前"
     }
   ]
 }
