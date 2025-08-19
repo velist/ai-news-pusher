@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-19T15:25:46.481897",
+  "last_updated": "2025-08-19T16:29:47.248419",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f648efcedcda",
+      "title": "Why Gaxos.AI (GXAI) Shares Are Soaring Tuesday",
+      "summary": "Gaxos.AI shares are skyrocketing Tuesday morning. The company announced the launch of its new artificial intelligence platform, Art-Gen.AI.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47213995/why-gaxos-ai-gxai-shares-are-soaring-tuesday",
+      "publishedAt": "2025-08-19T15:58:57Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/19/AI-Personality-Swings-Raise-Concerns.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Why Gaxos.AI (GXAI) Shares Are Soaring Tuesday",
+      "translated_summary": "Gaxos.AI shares are skyrocketing Tuesday morning. The company announced the launch of its new artificial intelligence platform, Art-Gen.AI.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "30分钟前"
+    },
+    {
+      "id": "c913c7ffb1aa",
+      "title": "How AI is changing the work of teachers in the classroom",
+      "summary": "Some educators have been teaching themselves how to use artificial intelligence. In a recent survey, teachers said it saved them time, but some people argue AI discourages students from critical thinking.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/artificial-intelligence-school-students-teachers/",
+      "publishedAt": "2025-08-19T15:43:03Z",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/19/14d149ff-187b-44c8-9935-33ea895aacab/thumbnail/1200x630/433566d16f92273163fea8253618335c/1755609067576.png",
+      "translated_title": "How AI is changing the work of teachers in the classroom",
+      "translated_summary": "Some educators have been teaching themselves how to use artificial intelligence. In a recent survey, teachers said it saved them time, but some people argue AI discourages students from critical thinking.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "46分钟前"
+    },
     {
       "id": "fed7e582f7ca",
       "title": "China’s DeepSeek releases V3.1, boosting AI model’s capabilities",
@@ -14,7 +42,7 @@
       "translated_summary": "The speed and popularity of DeepSeek’s models have challenged US incumbents such as OpenAI, and demonstrated how Chinese companies can make strides in artificial intelligence for seemingly a fraction of the cost.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "45分钟前"
+      "time": "1小时前"
     },
     {
       "id": "696f72dcf679",
@@ -28,7 +56,7 @@
       "translated_summary": "As we increasingly ponder how to use artificial intelligence in our jobs and everyday lives, schools are also trying to figure out how to safely use it and teach it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "788a4d985551",
@@ -42,7 +70,7 @@
       "translated_summary": "DeepSeek announced what appeared to be an update to its older V3 artificial intelligence model on Tuesday, declaring an enhanced version ready for testing.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "a59ccfa31e38",
@@ -56,7 +84,7 @@
       "translated_summary": "Speaking with real students about common time management pitfalls, I came up with this list of artificial intelligence tools that can help you find your balance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "2c4df593903f",
@@ -70,7 +98,7 @@
       "translated_summary": "Wall Street analysts are confident the artificial intelligence boom still has room to run. Even if Sam Altman isn't.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "36859da2d4fd",
@@ -84,7 +112,7 @@
       "translated_summary": "Databricks said on Tuesday it was raising new funds that would value the data analytics firm at more than $100 billion, less than a year after its previous round, as investor appetite for artificial intelligence companies remains strong.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "9324e6fe9334",
@@ -98,7 +126,7 @@
       "translated_summary": "Analytics firm Databricks said on Tuesday its valuation was set to jump 61% to more than $100 billion in a funding round less than a year after its last, underscoring strong investor demand for artificial intelligence startups.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "d00e1640127a",
@@ -110,34 +138,6 @@
       "image": "https://www.reuters.com/resizer/v2/QIHE5TQNWNIE7IEG42QMEZP5N4.jpg?auth=2e8d8b9ed24602dfdd96652b1801e47a12675281020292b048c8a4fd5b70bf7f&height=1005&width=1920&quality=80&smart=true",
       "translated_title": "Americans fear AI permanently displacing workers, Reuters/Ipsos poll finds",
       "translated_summary": "Americans are deeply concerned over the prospect that advances in artificial intelligence could put swaths of the country out of work permanently, according to a new Reuters/Ipsos poll.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "ebc76dddbe77",
-      "title": "The 1970s Gave Us Industrial Decline. A.I. Could Bring Something Worse.",
-      "summary": "Just as manufacturing towns failed to recognize the looming threat of new technology, cities now risk underestimating the disruption of artificial intelligence.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/08/19/opinion/ai-job-loss-deindustrialization.html",
-      "publishedAt": "2025-08-19T09:00:56Z",
-      "image": "https://static01.nyt.com/images/2025/08/19/opinion/19Frey/19Frey-facebookJumbo.jpg",
-      "translated_title": "The 1970s Gave Us Industrial Decline. A.I. Could Bring Something Worse.",
-      "translated_summary": "Just as manufacturing towns failed to recognize the looming threat of new technology, cities now risk underestimating the disruption of artificial intelligence.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "6小时前"
-    },
-    {
-      "id": "fc2ed0de056a",
-      "title": "Silicon Valley Needs to Stop Obsessing Over Superhuman A.I.",
-      "summary": "Silicon Valley’s obsession with creating artificial intelligence that surpasses human abilities is going too far.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/08/19/opinion/artificial-general-intelligence-superintelligence.html",
-      "publishedAt": "2025-08-19T09:00:07Z",
-      "image": "https://static01.nyt.com/images/2025/08/04/opinion/04schmidt/04schmidt-facebookJumbo.jpg",
-      "translated_title": "Silicon Valley Needs to Stop Obsessing Over Superhuman A.I.",
-      "translated_summary": "Silicon Valley’s obsession with creating artificial intelligence that surpasses human abilities is going too far.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "6小时前"
