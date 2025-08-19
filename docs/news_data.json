@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-19T06:35:47.085074",
+  "last_updated": "2025-08-19T07:22:26.852164",
   "total_count": 10,
   "articles": [
+    {
+      "id": "87ca5a0c8920",
+      "title": "Meta's Billion-Dollar AI 'Super Team' Could End Up Like The Metaverse, Warns Venture Capitalist: 'Don't Think Anyone's The '96 Bulls'",
+      "summary": "Venture capitalist Sarah Kunst of Cleo Capital is raising concerns regarding Meta Platforms Inc.'s (NASDAQ: META) latest reorganization and its high-priced push into artificial intelligence, warning that the strategy could mirror the company's failed metaverse experiment.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/large-cap/25/08/47201556/metas-billion-dollar-ai-super-team-could-end-up-like-the-metaverse-warns-venture-capitalist-dont-think-anyones-the-96-bulls",
+      "publishedAt": "2025-08-19T06:24:13Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/19/Menlo-Park--Usa--May-5--2023-Meta-Corpor.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Meta's Billion-Dollar AI 'Super Team' Could End Up Like The Metaverse, Warns Venture Capitalist: 'Don't Think Anyone's The '96 Bulls'",
+      "translated_summary": "Venture capitalist Sarah Kunst of Cleo Capital is raising concerns regarding Meta Platforms Inc.'s (NASDAQ: META) latest reorganization and its high-priced push into artificial intelligence, warning that the strategy could mirror the company's failed metaverse experiment.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "58分钟前"
+    },
     {
       "id": "8396a5004b98",
       "title": "OpenAI Rolls Out $5 ChatGPT Go Plan Exclusively for India",
@@ -14,7 +28,7 @@
       "translated_summary": "OpenAI is launching an affordable new subscription plan in India, seeking to expand its artificial intelligence offerings in one of the world’s biggest internet service markets.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "42分钟前"
+      "time": "1小时前"
     },
     {
       "id": "f24eb0cb1e51",
@@ -42,7 +56,7 @@
       "translated_summary": "More and more kids are turning to artificial intelligence chatbots for social interaction. We are scrambling to understand the pros and cons of their use",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "104b6e7185de",
@@ -56,7 +70,7 @@
       "translated_summary": "The telecommunications industry is undergoing a massive digital transformation, driven by the rapid adoption of cloud computing, artificial intelligence (AI), and advanced middleware platforms. At",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "a0f4419a281e",
@@ -70,7 +84,7 @@
       "translated_summary": "Households are now competing against power-hungry computer data centers from the likes of Amazon, Google, Meta and Microsoft put strain on the grid to power new artificial intelligence projects. Add in the fact that New York and New Jersey have both shut down nuclear power and pursued expensive green mandates, and customers are seeing a big strain on their wallets.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "4d2d0196fd9e",
@@ -84,7 +98,7 @@
       "translated_summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above analysts' estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up 5% in extended trading.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "0bab63c7ed94",
@@ -98,7 +112,7 @@
       "translated_summary": "Palo Alto Networks forecast fiscal 2026 revenue and profit above Wall Street estimates on Monday, betting on growing demand for its artificial intelligence-powered cybersecurity solutions, sending its shares up nearly 5% in extended trading.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "4ce729d8860b",
@@ -127,20 +141,6 @@
       "category": "热门",
       "category_icon": "🔥",
       "time": "10小时前"
-    },
-    {
-      "id": "56b05da6eec9",
-      "title": "As Meta Faces AI Scrutiny, Mounting Regulatory Risk Overshadows Strong Earnings And Pushes Stock Lower",
-      "summary": "Meta Platforms shares are trading lower Monday afternoon. The company is navigating a series of headwinds related to its artificial intelligence strategy.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47195084/as-meta-faces-ai-scrutiny-mounting-regulatory-risk-overshadows-strong-earnings-and-pushes-stock-lower",
-      "publishedAt": "2025-08-18T19:29:22Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/08/18/Meta-Platforms-Inc--META.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "As Meta Faces AI Scrutiny, Mounting Regulatory Risk Overshadows Strong Earnings And Pushes Stock Lower",
-      "translated_summary": "Meta Platforms shares are trading lower Monday afternoon. The company is navigating a series of headwinds related to its artificial intelligence strategy.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "11小时前"
     }
   ]
 }
