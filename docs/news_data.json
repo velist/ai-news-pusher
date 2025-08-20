@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-20T12:49:41.845432",
+  "last_updated": "2025-08-20T13:33:23.825944",
   "total_count": 10,
   "articles": [
+    {
+      "id": "5280cc4c402a",
+      "title": "US tech stocks slide after Altman warns on AI future and MIT study casts doubt on the hype",
+      "summary": "Investors’ long-running enthusiasm for artificial intelligence showed signs of faltering on Tuesday as tech stocks tumbled.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/08/20/us-tech-stocks-slide-altman-bubble-ai-mit-study/",
+      "publishedAt": "2025-08-20T13:20:01Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2214110034.jpg?resize=1200,600",
+      "translated_title": "US tech stocks slide after Altman warns on AI future and MIT study casts doubt on the hype",
+      "translated_summary": "Investors’ long-running enthusiasm for artificial intelligence showed signs of faltering on Tuesday as tech stocks tumbled.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "13分钟前"
+    },
     {
       "id": "27e182d46cd7",
       "title": "Is the A.I. Sell-off the Start of Something Bigger?",
@@ -14,7 +28,7 @@
       "translated_summary": "A sharp drop in technology stocks, and even comments by OpenAI’s Sam Altman, suggest investors are getting too exuberant about artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "52分钟前"
+      "time": "1小时前"
     },
     {
       "id": "3a0a072b1560",
@@ -28,7 +42,7 @@
       "translated_summary": "Companies touting their artificial intelligence and crypto-sector ties are speeding up their IPO timelines, after triple-digit first-day pops became a regular feature in this summer’s sizzling US market for new issues.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "aaa83aedb96b",
@@ -98,7 +112,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Watch Today – August 17th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "91315fd605a3",
@@ -126,21 +140,7 @@
       "translated_summary": "When businesses first adopt generative and agentic AI, they typically begin with low-risk use cases. But in highly regulated industries like healthcare, even seemingly simple administrative tasks",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
-    },
-    {
-      "id": "3786ff2f024c",
-      "title": "Artificial Intelligence Stocks To Consider - August 18th",
-      "summary": "Read Artificial Intelligence Stocks To Consider – August 18th at ETF Daily News",
-      "source": "ETF Daily News",
-      "url": "https://www.etfdailynews.com/2025/08/20/artificial-intelligence-stocks-to-consider-august-18th/",
-      "publishedAt": "2025-08-20T01:01:18Z",
-      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/servicenow-inc-logo-1200x675.png&w=240&h=240&zc=2",
-      "translated_title": "Artificial Intelligence Stocks To Consider - August 18th",
-      "translated_summary": "Read Artificial Intelligence Stocks To Consider – August 18th at ETF Daily News",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     }
   ]
 }
