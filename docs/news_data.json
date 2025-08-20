@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-20T18:34:04.531947",
+  "last_updated": "2025-08-20T19:18:33.258415",
   "total_count": 10,
   "articles": [
+    {
+      "id": "dd12ca559b56",
+      "title": "Opinion | A.I. Might Change the World Without Remaking It",
+      "summary": "Artificial intelligence may change the world, but it probably won’t remake it.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/20/opinion/ai-technology-chatgpt.html",
+      "publishedAt": "2025-08-20T19:01:07Z",
+      "image": "https://static01.nyt.com/images/2025/08/31/magazine/31mag-normalai-02/31mag-normalai-02-facebookJumbo.jpg",
+      "translated_title": "Opinion | A.I. Might Change the World Without Remaking It",
+      "translated_summary": "Artificial intelligence may change the world, but it probably won’t remake it.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "17分钟前"
+    },
+    {
+      "id": "b12b84bf96fa",
+      "title": "NASA employs AI to better predict solar activity",
+      "summary": "NASA announced Wednesday that it is deciphering the sun's behavior with help from artificial intelligence.",
+      "source": "UPI News",
+      "url": "https://www.upi.com/Science_News/2025/08/20/NASA-Sun-Surya-IBM-solar-activity-flare-weather/6111755712133/",
+      "publishedAt": "2025-08-20T18:45:00Z",
+      "image": "https://cdnph.upi.com/ph/st/th/6111755712133/2025/upi/a17b9e6b491e790717335e1e2fa6a231/v1.5/NASA-employs-AI-to-better-predict-solar-activity.jpg?lg=5",
+      "translated_title": "NASA employs AI to better predict solar activity",
+      "translated_summary": "NASA announced Wednesday that it is deciphering the sun's behavior with help from artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "33分钟前"
+    },
+    {
+      "id": "5c2ba7e68a51",
+      "title": "Google's Pixel 10 Phones Raise the Ante on Artificial Intelligence",
+      "summary": "A new lineup of Google's Pixel smartphones is here and they come with a big dose of AI.",
+      "source": "Inc. Magazine",
+      "url": "https://www.inc.com/associated-press/googles-pixel-10-phones-raise-the-ante-on-artificial-intelligence/91229439",
+      "publishedAt": "2025-08-20T18:03:16Z",
+      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/vip/2025/08/google-pixel-10-inc.jpg",
+      "translated_title": "Google's Pixel 10 Phones Raise the Ante on Artificial Intelligence",
+      "translated_summary": "A new lineup of Google's Pixel smartphones is here and they come with a big dose of AI.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "81b77cbd76b1",
       "title": "OpenAI CFO Sees Firm Selling AI Infrastructure Service in Future",
@@ -14,7 +56,7 @@
       "translated_summary": "OpenAI is considering eventually helping other businesses tap into the data centers and physical infrastructure needed for artificial intelligence, potentially creating a new revenue line that could offset some of the ChatGPT maker’s immense costs.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "30分钟前"
+      "time": "1小时前"
     },
     {
       "id": "a2855dc44388",
@@ -28,7 +70,7 @@
       "translated_summary": "His work on complex systems and responsive technologies helped lay the groundwork for later work on artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "58分钟前"
+      "time": "1小时前"
     },
     {
       "id": "6d182420fc8c",
@@ -56,7 +98,7 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "0c834d4659a8",
@@ -84,7 +126,7 @@
       "translated_summary": "Alphabet’s Google introduced on Wednesday a new lineup of Pixel smartphones and gadgets, intensifying its efforts to embed artificial intelligence across a wide ecosystem of products.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "3dd58583f1b4",
@@ -98,49 +140,7 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from…",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
-    },
-    {
-      "id": "4dc4cdd940e9",
-      "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
-      "summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/Technology/wireStory/googles-pixel-10-phones-raises-ante-artificial-intelligence-124815295",
-      "publishedAt": "2025-08-20T16:01:15Z",
-      "image": "https://i.abcnewsfe.com/a/49c40d9a-89d9-49e8-bc11-441451248549/wirestory_88cde161850a884e6868c6e868e1ae36_16x9.jpg?w=1600",
-      "translated_title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
-      "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "2小时前"
-    },
-    {
-      "id": "691b6880ddd6",
-      "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
-      "summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
-      "source": "WDIV ClickOnDetroit",
-      "url": "https://www.clickondetroit.com/business/2025/08/20/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/",
-      "publishedAt": "2025-08-20T16:01:15Z",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QUVJN6VPVNFLHPKWXSTINLBHZ4.jpg?_a=DATAg1eAZAA0",
-      "translated_title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
-      "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "2小时前"
-    },
-    {
-      "id": "1054e6f25783",
-      "title": "Google launches its new Pixel 10 phones",
-      "summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/google-pixel-phones-artificial-intelligence-88cde161850a884e6868c6e868e1ae36",
-      "publishedAt": "2025-08-20T16:01:15Z",
-      "image": "https://dims.apnews.com/dims4/default/f262da2/2147483647/strip/true/crop/6000x3375+0+1312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2F22%2F3b697e3759600febc7177d450e04%2Fd33bcc6986ef423db98ad3c46d8dc013",
-      "translated_title": "Google launches its new Pixel 10 phones",
-      "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     }
   ]
 }
