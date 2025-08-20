@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-20T17:20:19.099981",
+  "last_updated": "2025-08-20T18:34:04.531947",
   "total_count": 10,
   "articles": [
+    {
+      "id": "81b77cbd76b1",
+      "title": "OpenAI CFO Sees Firm Selling AI Infrastructure Service in Future",
+      "summary": "OpenAI is considering eventually helping other businesses tap into the data centers and physical infrastructure needed for artificial intelligence, potentially creating a new revenue line that could offset some of the ChatGPT maker’s immense costs.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-20/openai-may-sell-infrastructure-services-to-other-firms-cfo-says",
+      "publishedAt": "2025-08-20T18:03:09Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN3.a.qrz8IA/v0/1200x800.jpg",
+      "translated_title": "OpenAI CFO Sees Firm Selling AI Infrastructure Service in Future",
+      "translated_summary": "OpenAI is considering eventually helping other businesses tap into the data centers and physical infrastructure needed for artificial intelligence, potentially creating a new revenue line that could offset some of the ChatGPT maker’s immense costs.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "30分钟前"
+    },
+    {
+      "id": "a2855dc44388",
+      "title": "Warren Brodey, 101, Dies; a Visionary at the Dawn of the Information Age",
+      "summary": "His work on complex systems and responsive technologies helped lay the groundwork for later work on artificial intelligence.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/20/technology/warren-brodey-dead.html",
+      "publishedAt": "2025-08-20T17:35:50Z",
+      "image": "https://static01.nyt.com/images/2025/08/20/multimedia/20Brodey--01-vcgj/20Brodey--01-vcgj-facebookJumbo.jpg",
+      "translated_title": "Warren Brodey, 101, Dies; a Visionary at the Dawn of the Information Age",
+      "translated_summary": "His work on complex systems and responsive technologies helped lay the groundwork for later work on artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "58分钟前"
+    },
+    {
+      "id": "6d182420fc8c",
+      "title": "AI is changing how people travel",
+      "summary": "Travelers are using artificial intelligence to plan their trips. An expert says this shift is more than a trend. It’s the new normal.",
+      "source": "Futurity: Research News",
+      "url": "https://www.futurity.org/artificial-intelligence-travel-3290812-2/",
+      "publishedAt": "2025-08-20T17:19:53Z",
+      "image": "https://www.futurity.org/wp/wp-content/uploads/2025/08/travelers-gut-bacteria-antibiotic-resistance-1600-1.jpg",
+      "translated_title": "AI is changing how people travel",
+      "translated_summary": "Travelers are using artificial intelligence to plan their trips. An expert says this shift is more than a trend. It’s the new normal.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "ac5fb42ccb49",
       "title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
@@ -14,7 +56,7 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "44分钟前"
+      "time": "1小时前"
     },
     {
       "id": "0c834d4659a8",
@@ -28,7 +70,7 @@
       "translated_summary": "Meta CEO Mark Zuckerberg reportedly blowing up his artificial intelligence empire, splitting the tech giant's AI division into four separate groups.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "59分钟前"
+      "time": "2小时前"
     },
     {
       "id": "ea68b413e636",
@@ -42,7 +84,7 @@
       "translated_summary": "Alphabet’s Google introduced on Wednesday a new lineup of Pixel smartphones and gadgets, intensifying its efforts to embed artificial intelligence across a wide ecosystem of products.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "3dd58583f1b4",
@@ -56,7 +98,7 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from…",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "4dc4cdd940e9",
@@ -70,7 +112,7 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "691b6880ddd6",
@@ -84,7 +126,7 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "1054e6f25783",
@@ -98,48 +140,6 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
-    },
-    {
-      "id": "51694739c9ad",
-      "title": "Google's Pixel 10 Phones Raises the Ante on Artificial Intelligence",
-      "summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from fetch vital information stored on the devices to help improve photos as they're being taken.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/business/articles/2025-08-20/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence",
-      "publishedAt": "2025-08-20T16:01:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/c9dade4/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F1c%2F97093100f130c9fc2370f96e0491a1%2Fd33bcc6986ef423db98ad3c46d8dc013Google_Pixel_Phones_44740.jpg",
-      "translated_title": "Google's Pixel 10 Phones Raises the Ante on Artificial Intelligence",
-      "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from fetch vital information stored on the devices to help improve photos as they're being taken.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "1小时前"
-    },
-    {
-      "id": "cd6f3906301e",
-      "title": "Nvidia Stock Sinks On Fears Of AI Bubble, AI Winter",
-      "summary": "Nvidia stock has pulled back from recent highs amid concerns of a bubble in artificial intelligence stocks.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-sinks-on-fears-of-ai-bubble-ai-winter/",
-      "publishedAt": "2025-08-20T15:32:17Z",
-      "image": "https://www.investors.com/wp-content/uploads/2025/08/Stock-Nvidia-EuropeanAI-company.jpg",
-      "translated_title": "Nvidia Stock Sinks On Fears Of AI Bubble, AI Winter",
-      "translated_summary": "Nvidia stock has pulled back from recent highs amid concerns of a bubble in artificial intelligence stocks.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1小时前"
-    },
-    {
-      "id": "b6e3f6b2ba9a",
-      "title": "Nancy Mace demands answers from Hertz over AI scanners charging hundreds of dollars for minor scratches",
-      "summary": "House Rep. Nancy Mace (R-SC) wants answers from Hertz over its artificial intelligence-powered scanners.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/20/business/nancy-mace-demands-answers-from-hertz-over-ai-scanners-charging-hundreds-of-dollars-for-minor-scratches/",
-      "publishedAt": "2025-08-20T15:12:16Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109809065.jpg?quality=75&strip=all&w=1024",
-      "translated_title": "Nancy Mace demands answers from Hertz over AI scanners charging hundreds of dollars for minor scratches",
-      "translated_summary": "House Rep. Nancy Mace (R-SC) wants answers from Hertz over its artificial intelligence-powered scanners.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "2小时前"
     }
   ]
