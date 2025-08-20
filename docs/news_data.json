@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-20T11:19:37.791408",
+  "last_updated": "2025-08-20T12:49:41.845432",
   "total_count": 10,
   "articles": [
+    {
+      "id": "27e182d46cd7",
+      "title": "Is the A.I. Sell-off the Start of Something Bigger?",
+      "summary": "A sharp drop in technology stocks, and even comments by OpenAI’s Sam Altman, suggest investors are getting too exuberant about artificial intelligence.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/20/business/dealbook/ai-dip-blip-palantir-nvidia.html",
+      "publishedAt": "2025-08-20T11:57:34Z",
+      "image": "https://static01.nyt.com/images/2025/08/20/multimedia/20db-PLTR-phzj/20db-PLTR-phzj-facebookJumbo.jpg",
+      "translated_title": "Is the A.I. Sell-off the Start of Something Bigger?",
+      "translated_summary": "A sharp drop in technology stocks, and even comments by OpenAI’s Sam Altman, suggest investors are getting too exuberant about artificial intelligence.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "52分钟前"
+    },
+    {
+      "id": "3a0a072b1560",
+      "title": "Summer US IPO Thrills Set Stage for Crypto and AI-Led September",
+      "summary": "Companies touting their artificial intelligence and crypto-sector ties are speeding up their IPO timelines, after triple-digit first-day pops became a regular feature in this summer’s sizzling US market for new issues.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-20/summer-us-ipo-thrills-set-stage-for-crypto-and-ai-led-september",
+      "publishedAt": "2025-08-20T11:00:00Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQTYHYnXKfEk/v0/1200x800.jpg",
+      "translated_title": "Summer US IPO Thrills Set Stage for Crypto and AI-Led September",
+      "translated_summary": "Companies touting their artificial intelligence and crypto-sector ties are speeding up their IPO timelines, after triple-digit first-day pops became a regular feature in this summer’s sizzling US market for new issues.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "aaa83aedb96b",
       "title": "Asian shares retreat, tracking tech losses on Wall Street",
@@ -14,7 +42,7 @@
       "translated_summary": "Asian shares have retreated, tracking a decline on Wall Street led by technology shares including Nvidia and other stars that have been riding the mania surrounding artificial-intelligence.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "0f6159749712",
@@ -28,7 +56,7 @@
       "translated_summary": "Asian shares have retreated, tracking a decline on Wall Street led by technology shares including Nvidia and other stars that have been riding the mania surrounding artificial-intelligence",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "f4f47be6d736",
@@ -42,7 +70,7 @@
       "translated_summary": "Asian shares have retreated, tracking a decline on Wall Street led by technology shares including Nvidia and other stars that have been riding the mania surrounding artificial-intelligence.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "12c2ba7cf85f",
@@ -56,7 +84,7 @@
       "translated_summary": "TOKYO (AP) — Asian shares retreated on Wednesday, tracking a decline on Wall Street led by technology shares including Nvidia and other stars that have been riding the mania surrounding artificial-intelligence.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "f72065a732a6",
@@ -70,7 +98,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Watch Today – August 17th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "91315fd605a3",
@@ -84,7 +112,7 @@
       "translated_summary": "Tech giant Meta Platforms (META) is making big changes to its artificial intelligence division. According to The New York Times, the company is ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "11小时前"
     },
     {
       "id": "458cb8c2f71b",
@@ -98,7 +126,7 @@
       "translated_summary": "When businesses first adopt generative and agentic AI, they typically begin with low-risk use cases. But in highly regulated industries like healthcare, even seemingly simple administrative tasks",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "3786ff2f024c",
@@ -112,35 +140,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Consider – August 18th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "a2c3901f4137",
-      "title": "Vantage Data Centers plans $25 billion AI campus in Texas",
-      "summary": "Vantage Data Centers said on Tuesday it would spend more than $25 billion to build a 1,200-acre data center campus in Shackelford County, Texas, as surging demand for artificial intelligence infrastructure fuels mega-scale developments.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/vantage-data-centers-plans-25-billion-ai-campus-texas-2025-08-19/",
-      "publishedAt": "2025-08-19T21:57:47Z",
-      "image": "https://www.reuters.com/resizer/v2/JA2OX2ZYBBPEBFHDBOIFPAF6IA.jpg?auth=45e1557f9ec409c9a28f23617d383d9f4bcd2e126abee5c8110c5db060510a5c&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Vantage Data Centers plans $25 billion AI campus in Texas",
-      "translated_summary": "Vantage Data Centers said on Tuesday it would spend more than $25 billion to build a 1,200-acre data center campus in Shackelford County, Texas, as surging demand for artificial intelligence infrastructure fuels mega-scale developments.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "5310e077ba16",
-      "title": "Arm Poaches Amazon’s AI Expert to Boost In-House Chip Ambitions",
-      "summary": "UK-based Arm Holdings (ARM) has hired tech giant Amazon’s (AMZN) artificial intelligence (AI) expert to accelerate its plan to develop in-house ...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/arm-poaches-amazon-s-ai-expert-to-boost-in-house-chip-ambitions-1035053080",
-      "publishedAt": "2025-08-19T21:01:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1252.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Arm Poaches Amazon’s AI Expert to Boost In-House Chip Ambitions",
-      "translated_summary": "UK-based Arm Holdings (ARM) has hired tech giant Amazon’s (AMZN) artificial intelligence (AI) expert to accelerate its plan to develop in-house ...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "11小时前"
     }
   ]
 }
