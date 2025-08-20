@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-20T19:18:33.258415",
+  "last_updated": "2025-08-20T20:25:59.747267",
   "total_count": 10,
   "articles": [
+    {
+      "id": "98bb2b6d40a3",
+      "title": "Google’s Pixel 10 phones raises the ante on artificial intelligence",
+      "summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from fetch vital information stored on the devices to help improve photos as they're being taken.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/20/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/",
+      "publishedAt": "2025-08-20T20:08:14Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/08/Google_Pixel_Phones_44740.jpg?w=1024&h=1024",
+      "translated_title": "Google’s Pixel 10 phones raises the ante on artificial intelligence",
+      "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from fetch vital information stored on the devices to help improve photos as they're being taken.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "17分钟前"
+    },
+    {
+      "id": "ed113b71f9b9",
+      "title": "Google mocks Apple's AI struggles as it launches Pixel 10 smartphones",
+      "summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/20/business/google-mocks-apples-ai-struggles-as-it-launches-pixel-10-smartphones/",
+      "publishedAt": "2025-08-20T19:38:19Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/google-pixel-10-ai.jpg?quality=75&strip=all&1755702772&w=1024",
+      "translated_title": "Google mocks Apple's AI struggles as it launches Pixel 10 smartphones",
+      "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "47分钟前"
+    },
+    {
+      "id": "43ca5865cd9f",
+      "title": "The AI Battle's Newest Warrior Strikes a Major Blow to Big Tech",
+      "summary": "Could this transform the entire way we build artificial intelligence?",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/deepseek-v-3-1-release-aider-score-china-ai-2000645531",
+      "publishedAt": "2025-08-20T19:37:02Z",
+      "image": "https://gizmodo.com/app/uploads/2025/08/Elon-Musk-and-Sam-Altman-1200x675.jpg",
+      "translated_title": "The AI Battle's Newest Warrior Strikes a Major Blow to Big Tech",
+      "translated_summary": "Could this transform the entire way we build artificial intelligence?",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "48分钟前"
+    },
     {
       "id": "dd12ca559b56",
       "title": "Opinion | A.I. Might Change the World Without Remaking It",
@@ -14,7 +56,7 @@
       "translated_summary": "Artificial intelligence may change the world, but it probably won’t remake it.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17分钟前"
+      "time": "1小时前"
     },
     {
       "id": "b12b84bf96fa",
@@ -28,7 +70,7 @@
       "translated_summary": "NASA announced Wednesday that it is deciphering the sun's behavior with help from artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "33分钟前"
+      "time": "1小时前"
     },
     {
       "id": "5c2ba7e68a51",
@@ -42,7 +84,7 @@
       "translated_summary": "A new lineup of Google's Pixel smartphones is here and they come with a big dose of AI.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "81b77cbd76b1",
@@ -56,7 +98,7 @@
       "translated_summary": "OpenAI is considering eventually helping other businesses tap into the data centers and physical infrastructure needed for artificial intelligence, potentially creating a new revenue line that could offset some of the ChatGPT maker’s immense costs.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "a2855dc44388",
@@ -70,7 +112,7 @@
       "translated_summary": "His work on complex systems and responsive technologies helped lay the groundwork for later work on artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "6d182420fc8c",
@@ -84,7 +126,7 @@
       "translated_summary": "Travelers are using artificial intelligence to plan their trips. An expert says this shift is more than a trend. It’s the new normal.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "ac5fb42ccb49",
@@ -96,48 +138,6 @@
       "image": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Google_Pixel_Phones_44740.jpg?w=1024&h=1024",
       "translated_title": "Google's Pixel 10 phones raises the ante on artificial intelligence",
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "2小时前"
-    },
-    {
-      "id": "0c834d4659a8",
-      "title": "Mark Zuckerberg's pricey new AI hires are clashing with Meta's old guard",
-      "summary": "Meta CEO Mark Zuckerberg reportedly blowing up his artificial intelligence empire, splitting the tech giant's AI division into four separate groups.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/20/business/mark-zuckerbergs-pricey-new-ai-hires-are-clashing-with-metas-old-guard/",
-      "publishedAt": "2025-08-20T16:20:48Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/109837128.jpg?quality=75&strip=all&w=1024",
-      "translated_title": "Mark Zuckerberg's pricey new AI hires are clashing with Meta's old guard",
-      "translated_summary": "Meta CEO Mark Zuckerberg reportedly blowing up his artificial intelligence empire, splitting the tech giant's AI division into four separate groups.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "ea68b413e636",
-      "title": "Google unveils modest upgrades to Pixel smartphones, other gadgets",
-      "summary": "Alphabet’s Google introduced on Wednesday a new lineup of Pixel smartphones and gadgets, intensifying its efforts to embed artificial intelligence across a wide ecosystem of products.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/google-unveils-modest-upgrades-pixel-smartphones-other-gadgets-2025-08-20/",
-      "publishedAt": "2025-08-20T16:07:14Z",
-      "image": "https://www.reuters.com/resizer/v2/5V6T7C6RQZLCRJXTAVEK3UQSQQ.jpg?auth=ae4e8fc153bebc5532428c777b57594b76a9ac0d9a74fc776944f48e185bf567&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Google unveils modest upgrades to Pixel smartphones, other gadgets",
-      "translated_summary": "Alphabet’s Google introduced on Wednesday a new lineup of Pixel smartphones and gadgets, intensifying its efforts to embed artificial intelligence across a wide ecosystem of products.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "3小时前"
-    },
-    {
-      "id": "3dd58583f1b4",
-      "title": "Google’s Pixel 10 phones raises the ante on artificial intelligence",
-      "summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from…",
-      "source": "WTOP",
-      "url": "https://wtop.com/lifestyle/2025/08/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence/",
-      "publishedAt": "2025-08-20T16:02:54Z",
-      "image": "https://wtop.com/wp-content/uploads/2025/08/Google_Pixel_Phones_44740-scaled.jpg",
-      "translated_title": "Google’s Pixel 10 phones raises the ante on artificial intelligence",
-      "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from…",
       "category": "投资并购",
       "category_icon": "💰",
       "time": "3小时前"
