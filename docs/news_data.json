@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-21T16:28:52.616039",
+  "last_updated": "2025-08-21T17:30:38.455158",
   "total_count": 10,
   "articles": [
+    {
+      "id": "9350c59687e7",
+      "title": "The startups threatened by Epic's new AI",
+      "summary": "All the artificial intelligence news out of Epic's big customer event in Wisconsin. Plus: Great stories about the impacts of CGMs and AI scribes.",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2025/08/21/startups-threatened-epics-new-ai-health-tech-newsletter/",
+      "publishedAt": "2025-08-21T16:56:47Z",
+      "image": "https://www.statnews.com/wp-content/uploads/2025/08/UGM-2025-Inside-1024x576.jpg",
+      "translated_title": "The startups threatened by Epic's new AI",
+      "translated_summary": "All the artificial intelligence news out of Epic's big customer event in Wisconsin. Plus: Great stories about the impacts of CGMs and AI scribes.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "33分钟前"
+    },
+    {
+      "id": "718d62d24212",
+      "title": "Tech giants prepare to challenge state AI regulations",
+      "summary": "Tech companies including OpenAI, Meta Platforms Inc. and Alphabet Inc.'s Google are revving up to block US states from regulating their fast-moving and lucrative artificial intelligence businesses.",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2025/08/21/tech-giants-prepare-to-challenge-state-ai-regulations/",
+      "publishedAt": "2025-08-21T16:46:05Z",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2025/01/US-NEWS-ALTMAN-ABUSE-LAWSUIT-GET.jpg?w=1024&h=682",
+      "translated_title": "Tech giants prepare to challenge state AI regulations",
+      "translated_summary": "Tech companies including OpenAI, Meta Platforms Inc. and Alphabet Inc.'s Google are revving up to block US states from regulating their fast-moving and lucrative artificial intelligence businesses.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "44分钟前"
+    },
     {
       "id": "5b47fe300389",
       "title": "OpenAI Model Earns Gold-Medal Score at International Math Olympiad and Advances Path to Artificial General Intelligence",
@@ -14,7 +42,7 @@
       "translated_summary": "OpenAI researchers reveal how their experimental model, devoid of any external aids, powered through hours-long proofs to earn a gold-medal score at the International Math Olympiad, discuss the project’s origins and describe how such work could help lead to artificial general intelligence",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "38分钟前"
+      "time": "1小时前"
     },
     {
       "id": "ee14ea3889c6",
@@ -28,7 +56,7 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "52分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c20339ad6184",
@@ -42,7 +70,7 @@
       "translated_summary": "Study finds that artificial intelligence exposure may reduce doctors' cancer detection rates during standard colonoscopies by 6%, raising concerns about AI dependency.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "48ced341d939",
@@ -56,7 +84,7 @@
       "translated_summary": "The General Services Administration struck a deal with Google for artificial intelligence tools as part of the OneGov procurement initiative targeting federal government efficiency.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "46cf8f709c46",
@@ -70,7 +98,7 @@
       "translated_summary": "Meta has slammed the brakes on hiring for its artificial intelligence division, a sudden pause that follows one of the most expensive talent grabs Silicon Valley has seen in years. The move, first reported by The Wall Street Journal, marks the end of a spending spree in which the company acquired more than 50 high-profile AI researchers and",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "c4b32d88fd46",
@@ -84,7 +112,7 @@
       "translated_summary": "Meta Platforms reportedly has frozen hiring in its high-profile artificial intelligence division as investors grow concerned about the unit's surging costs.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "8d1eb300a81d",
@@ -98,7 +126,7 @@
       "translated_summary": "The launch of new Pixel devices featured a long lineup of celebrities and influencers paid to make the case for artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "5f5166d0e585",
@@ -112,35 +140,7 @@
       "translated_summary": "Warren Brodey, who used his background as a psychiatrist to develop wide-ranging ideas about the liberating possibilities of technology at the dawn of the information age -- ideas that helped lay the groundwork for revolutionary fields like artificial intelligence -- died on Aug. 10 at his home in Oslo, Norway. He was 101.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
-    },
-    {
-      "id": "26beebedc88f",
-      "title": "Hundreds Of Microsoft Employees Just Revealed Their Pay - From $111K To $340K - As Company Fights To Keep AI Talent From Meta",
-      "summary": "Microsoft Corp. employees leak compensation details through an anonymous spreadsheet as company battles Meta Platforms Inc. for artificial intelligence talent with multi-million dollar offers.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/equities/25/08/47253481/hundreds-of-microsoft-employees-just-revealed-their-pay-from-111k-to-340k-as-company-fights-to-keep-ai-talent-from-meta",
-      "publishedAt": "2025-08-21T09:30:49Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/08/21/Microsoft-Corporation.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "Hundreds Of Microsoft Employees Just Revealed Their Pay - From $111K To $340K - As Company Fights To Keep AI Talent From Meta",
-      "translated_summary": "Microsoft Corp. employees leak compensation details through an anonymous spreadsheet as company battles Meta Platforms Inc. for artificial intelligence talent with multi-million dollar offers.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "73e168a6b11e",
-      "title": "Chinese AI startup DeepSeek releases upgraded model with domestic chip support",
-      "summary": "Chinese artificial intelligence startup DeepSeek released on Thursday an upgrade to its flagship V3 model that the company says has a feature that can optimize it for Chinese-made chips, along with faster processing speeds.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinese-ai-startup-deepseek-releases-upgraded-model-with-domestic-chip-support-2025-08-21/",
-      "publishedAt": "2025-08-21T07:10:40Z",
-      "image": "https://www.reuters.com/resizer/v2/Z5ONYB73MVMUXMBKTYCMQE5WKQ.jpg?auth=a2e8ffda0fc9b2052f4d9d4e9ffd1b558ccf98dbbea78adea1f40b42ea558034&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Chinese AI startup DeepSeek releases upgraded model with domestic chip support",
-      "translated_summary": "Chinese artificial intelligence startup DeepSeek released on Thursday an upgrade to its flagship V3 model that the company says has a feature that can optimize it for Chinese-made chips, along with faster processing speeds.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "9小时前"
+      "time": "7小时前"
     }
   ]
 }
