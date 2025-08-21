@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-21T20:25:16.313024",
+  "last_updated": "2025-08-21T21:20:48.933918",
   "total_count": 10,
   "articles": [
+    {
+      "id": "79479cd285e1",
+      "title": "Zoom Communications lifts annual forecasts on robust demand for AI tools",
+      "summary": "Zoom Communications raised its annual revenue and profit forecasts on Thursday, banking on hybrid work trends and the integration of artificial intelligence technology into its products, sending its shares up 4.5% in extended trading.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/zoom-communications-lifts-annual-forecasts-robust-demand-ai-tools-2025-08-21/",
+      "publishedAt": "2025-08-21T20:47:00Z",
+      "image": "https://www.reuters.com/resizer/v2/45KZAA6PQFPNJD2WUX3HLGCHQQ.jpg?auth=08271d203dc763420b98d4b578a698465634b180e0cf76870e7ce98c79f5644b&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Zoom Communications lifts annual forecasts on robust demand for AI tools",
+      "translated_summary": "Zoom Communications raised its annual revenue and profit forecasts on Thursday, banking on hybrid work trends and the integration of artificial intelligence technology into its products, sending its shares up 4.5% in extended trading.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "33分钟前"
+    },
+    {
+      "id": "a4bbde9a0f6b",
+      "title": "Senator championed outlawing deepfakes. One was created about her.",
+      "summary": "“In the United States, and within the bounds of our Constitution, we must put in place common-sense safeguards for artificial intelligence,\" Klobuchar wrote in an opinion piece.",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/news/politics/2025/08/21/amy-klobuchar-deepfake-sydney-sweeney/85754860007/",
+      "publishedAt": "2025-08-21T20:34:47Z",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/21/USAT/85758599007-usatsi-17450906.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
+      "translated_title": "Senator championed outlawing deepfakes. One was created about her.",
+      "translated_summary": "“In the United States, and within the bounds of our Constitution, we must put in place common-sense safeguards for artificial intelligence,\" Klobuchar wrote in an opinion piece.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "46分钟前"
+    },
     {
       "id": "d7de9d7a9541",
       "title": "Meta chatbot revelations renew scrutiny of company's track record on child safety",
@@ -14,7 +42,7 @@
       "translated_summary": "Meta is facing mounting pressure from lawmakers over how its artificial intelligence chatbots are interacting with children amid revelations that it approved ru",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "37分钟前"
+      "time": "1小时前"
     },
     {
       "id": "2032e030427c",
@@ -28,7 +56,7 @@
       "translated_summary": "Meta is facing mounting pressure from lawmakers over how its artificial intelligence chatbots are interacting with children amid revelations that it approved ru",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "37分钟前"
+      "time": "1小时前"
     },
     {
       "id": "e66aff38b9d7",
@@ -42,7 +70,7 @@
       "translated_summary": "Senator Amy Klobuchar is waging war against artificial intelligence after falling victim to a \"horrible\" and misleading deepfake ... in which she appeared to comment on Sydney Sweeney's \"perfect titties.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "38分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c17ac7703b3b",
@@ -56,7 +84,7 @@
       "translated_summary": "Chinese artificial intelligence startup DeepSeek has rolled out an upgraded version of its flagship model, underscoring the country’s broader effort to cut reliance on U.S. technology. The new release, called DeepSeek-V3.1, adds support for China-made chips and promises faster processing speeds. While DeepSeek’s upgrade, shared in a WeChat post that isn’t publicly accessible, Reuters confirmed",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "dcfed8e48b20",
@@ -70,7 +98,7 @@
       "translated_summary": "Learn how AI (Artificial Intelligence) is transforming our world amidst crisis, from exciting innovations to serious societal implications.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "c73509f9bd98",
@@ -84,7 +112,7 @@
       "translated_summary": "The U.S. government struck a deal with Google to use its artificial intelligence and other applications for 47 cents, underbidding other AI partners.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "3589ac32da23",
@@ -98,7 +126,7 @@
       "translated_summary": "Artificial intelligence is arguably the favorite investor story in traditional markets today, but the Web3 investor world has no intent to sit this one out despite not yet enjoying the fruits of the Bitcoin (CRYPTO: BTC) bull market.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "0c986e955bc2",
@@ -112,35 +140,7 @@
       "translated_summary": "Anthropic is nearing a deal to raise as much as $10 billion in a new round of funding, according to people familiar with the matter, a higher than expected sum and one of the largest megarounds to date for an artificial intelligence startup.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
-    },
-    {
-      "id": "9350c59687e7",
-      "title": "The startups threatened by Epic's new AI",
-      "summary": "All the artificial intelligence news out of Epic's big customer event in Wisconsin. Plus: Great stories about the impacts of CGMs and AI scribes.",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2025/08/21/startups-threatened-epics-new-ai-health-tech-newsletter/",
-      "publishedAt": "2025-08-21T16:56:47Z",
-      "image": "https://www.statnews.com/wp-content/uploads/2025/08/UGM-2025-Inside-1024x576.jpg",
-      "translated_title": "The startups threatened by Epic's new AI",
-      "translated_summary": "All the artificial intelligence news out of Epic's big customer event in Wisconsin. Plus: Great stories about the impacts of CGMs and AI scribes.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "718d62d24212",
-      "title": "Tech giants prepare to challenge state AI regulations",
-      "summary": "Tech companies including OpenAI, Meta Platforms Inc. and Alphabet Inc.'s Google are revving up to block US states from regulating their fast-moving and lucrative artificial intelligence businesses.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/08/21/tech-giants-prepare-to-challenge-state-ai-regulations/",
-      "publishedAt": "2025-08-21T16:46:05Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/01/US-NEWS-ALTMAN-ABUSE-LAWSUIT-GET.jpg?w=1024&h=682",
-      "translated_title": "Tech giants prepare to challenge state AI regulations",
-      "translated_summary": "Tech companies including OpenAI, Meta Platforms Inc. and Alphabet Inc.'s Google are revving up to block US states from regulating their fast-moving and lucrative artificial intelligence businesses.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     }
   ]
 }
