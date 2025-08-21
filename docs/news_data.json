@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-21T03:10:13.191305",
+  "last_updated": "2025-08-21T04:27:53.604135",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c1aaa2822493",
+      "title": "Mark Zuckerberg Halts AI Hiring After Million-Dollar Talent Poaching Sparks Investor Backlash Amid Meta's 'Superintelligence Efforts:' Report",
+      "summary": "Meta Platforms Inc. has implemented a hiring freeze in its artificial intelligence division following months of aggressive recruitment.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/25/08/47250356/mark-zuckerberg-halts-ai-hiring-after-million-dollar-talent-poaching-sparks-investor-backlash-amid-metas-superintelligence-efforts-report",
+      "publishedAt": "2025-08-21T03:37:55Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/20/Mark-Zuckerberg.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Mark Zuckerberg Halts AI Hiring After Million-Dollar Talent Poaching Sparks Investor Backlash Amid Meta's 'Superintelligence Efforts:' Report",
+      "translated_summary": "Meta Platforms Inc. has implemented a hiring freeze in its artificial intelligence division following months of aggressive recruitment.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "49分钟前"
+    },
     {
       "id": "8a9f2c0ea085",
       "title": "Commonwealth Bank of Australia Reverses Job Cuts Decision Over AI Chatbots",
@@ -14,7 +28,7 @@
       "translated_summary": "Commonwealth Bank of Australia reversed a decision to cut 45 customer service roles due to new artificial intelligence technology after pressure from the country’s main financial services union.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "59729fbc6de6",
@@ -28,7 +42,7 @@
       "translated_summary": "Artificial Intelligence has become a partner in crime at the Kershaw County Sheriff’s Office.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "8b47f3de2b7a",
@@ -42,7 +56,7 @@
       "translated_summary": "Google unveiled a new line-up of four Pixel 10 model smartphones injected with another dose of artificial intelligence features.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "66e25d3ea03d",
@@ -56,7 +70,7 @@
       "translated_summary": "Google unveiled a new line-up of four Pixel 10 model smartphones injected with another dose of artificial intelligence features.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "78213eb520aa",
@@ -70,7 +84,7 @@
       "translated_summary": "Google unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "b268ece5c874",
@@ -84,7 +98,7 @@
       "translated_summary": "A restaurant in Missouri said an artificial intelligence tool designed to enhance Google search results is causing confusion for customers.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "6c56db5d7522",
@@ -98,7 +112,7 @@
       "translated_summary": "A restaurant in Missouri said an artificial intelligence tool designed to enhance Google search results is causing confusion for customers.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "b5b716253294",
@@ -112,7 +126,7 @@
       "translated_summary": "A restaurant in Missouri said an artificial intelligence tool designed to enhance Google search results is causing confusion for customers.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "98bb2b6d40a3",
@@ -126,21 +140,7 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that's designed to do everything from fetch vital information stored on the devices to help improve photos as they're being taken.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "7小时前"
-    },
-    {
-      "id": "ed113b71f9b9",
-      "title": "Google mocks Apple's AI struggles as it launches Pixel 10 smartphones",
-      "summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/20/business/google-mocks-apples-ai-struggles-as-it-launches-pixel-10-smartphones/",
-      "publishedAt": "2025-08-20T19:38:19Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/google-pixel-10-ai.jpg?quality=75&strip=all&1755702772&w=1024",
-      "translated_title": "Google mocks Apple's AI struggles as it launches Pixel 10 smartphones",
-      "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     }
   ]
 }
