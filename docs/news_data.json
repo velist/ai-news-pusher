@@ -1,7 +1,77 @@
 {
-  "last_updated": "2025-08-21T17:30:38.455158",
+  "last_updated": "2025-08-21T18:32:07.140372",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c17ac7703b3b",
+      "title": "Chinese AI startup DeepSeek launches enhanced V3 AI model with China-made chip support and faster speeds",
+      "summary": "Chinese artificial intelligence startup DeepSeek has rolled out an upgraded version of its flagship model, underscoring the country’s broader effort to cut reliance on U.S. technology. The new release, called DeepSeek-V3.1, adds support for China-made chips and promises faster processing speeds. While DeepSeek’s upgrade, shared in a WeChat post that isn’t publicly accessible, Reuters confirmed",
+      "source": "TechStartups.com",
+      "url": "https://techstartups.com/2025/08/21/chinese-ai-startup-deepseek-launches-enhanced-v3-ai-model-with-china-made-chip-support-and-improved-performance/",
+      "publishedAt": "2025-08-21T18:08:43Z",
+      "image": "https://techstartups.com/wp-content/uploads/2024/12/Deepseek-outperforms-OpenAI-and-Meta-AI-models.jpg",
+      "translated_title": "Chinese AI startup DeepSeek launches enhanced V3 AI model with China-made chip support and faster speeds",
+      "translated_summary": "Chinese artificial intelligence startup DeepSeek has rolled out an upgraded version of its flagship model, underscoring the country’s broader effort to cut reliance on U.S. technology. The new release, called DeepSeek-V3.1, adds support for China-made chips and promises faster processing speeds. While DeepSeek’s upgrade, shared in a WeChat post that isn’t publicly accessible, Reuters confirmed",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "23分钟前"
+    },
+    {
+      "id": "dcfed8e48b20",
+      "title": "AI Is Accelerating the Fourth Turning’s Institutional Meltdown",
+      "summary": "Learn how AI (Artificial Intelligence) is transforming our world amidst crisis, from exciting innovations to serious societal implications.",
+      "source": "Activist Post",
+      "url": "https://www.activistpost.com/ai-is-accelerating-the-fourth-turnings-institutional-meltdown/",
+      "publishedAt": "2025-08-21T18:00:00Z",
+      "image": "https://www.activistpost.com/wp-content/uploads/2025/08/AI_FourthTurning_01-1-1024x683-1.png",
+      "translated_title": "AI Is Accelerating the Fourth Turning’s Institutional Meltdown",
+      "translated_summary": "Learn how AI (Artificial Intelligence) is transforming our world amidst crisis, from exciting innovations to serious societal implications.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "32分钟前"
+    },
+    {
+      "id": "c73509f9bd98",
+      "title": "Google to offer Gemini AI to U.S. government agencies for 47 cents",
+      "summary": "The U.S. government struck a deal with Google to use its artificial intelligence and other applications for 47 cents, underbidding other AI partners.",
+      "source": "UPI News",
+      "url": "https://www.upi.com/Top_News/US/2025/08/21/Google-GSA-Gemini-AI-OpenAI-Claude-Anthropic-dollar-under/7221755797170/",
+      "publishedAt": "2025-08-21T17:59:55Z",
+      "image": "https://cdnph.upi.com/sv/ph/og/upi/7221755797170/2025/1/cd7318ce2a71302428763dbd3f8dec9a/v1.5/Google-to-offer-Gemini-AI-to-US-government-agencies-for-47-cents.jpg",
+      "translated_title": "Google to offer Gemini AI to U.S. government agencies for 47 cents",
+      "translated_summary": "The U.S. government struck a deal with Google to use its artificial intelligence and other applications for 47 cents, underbidding other AI partners.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "32分钟前"
+    },
+    {
+      "id": "3589ac32da23",
+      "title": "Can the AI Boom Save DePIN Tokens? Why Investors Like Render, Akash, and Bittensor, Despite Underperformance In Bitcoin Bull Market",
+      "summary": "Artificial intelligence is arguably the favorite investor story in traditional markets today, but the Web3 investor world has no intent to sit this one out despite not yet enjoying the fruits of the Bitcoin (CRYPTO: BTC) bull market.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/25/08/47266734/can-the-ai-boom-save-depin-tokens-why-investors-like-render-akash-and-bittensor-despite-underperform",
+      "publishedAt": "2025-08-21T17:54:57Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/21/Green-and-Red-Vintage-Illustrated-Christ.png?width=1200&height=800&fit=crop",
+      "translated_title": "Can the AI Boom Save DePIN Tokens? Why Investors Like Render, Akash, and Bittensor, Despite Underperformance In Bitcoin Bull Market",
+      "translated_summary": "Artificial intelligence is arguably the favorite investor story in traditional markets today, but the Web3 investor world has no intent to sit this one out despite not yet enjoying the fruits of the Bitcoin (CRYPTO: BTC) bull market.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "37分钟前"
+    },
+    {
+      "id": "0c986e955bc2",
+      "title": "Anthropic in Talks to Raise Up to $10 Billion in New Funding",
+      "summary": "Anthropic is nearing a deal to raise as much as $10 billion in a new round of funding, according to people familiar with the matter, a higher than expected sum and one of the largest megarounds to date for an artificial intelligence startup.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-21/anthropic-in-talks-to-raise-up-to-10-billion-in-new-funding",
+      "publishedAt": "2025-08-21T17:19:16Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZPwa5nYzf3s/v0/1200x800.jpg",
+      "translated_title": "Anthropic in Talks to Raise Up to $10 Billion in New Funding",
+      "translated_summary": "Anthropic is nearing a deal to raise as much as $10 billion in a new round of funding, according to people familiar with the matter, a higher than expected sum and one of the largest megarounds to date for an artificial intelligence startup.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "9350c59687e7",
       "title": "The startups threatened by Epic's new AI",
@@ -14,7 +84,7 @@
       "translated_summary": "All the artificial intelligence news out of Epic's big customer event in Wisconsin. Plus: Great stories about the impacts of CGMs and AI scribes.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "33分钟前"
+      "time": "1小时前"
     },
     {
       "id": "718d62d24212",
@@ -28,7 +98,7 @@
       "translated_summary": "Tech companies including OpenAI, Meta Platforms Inc. and Alphabet Inc.'s Google are revving up to block US states from regulating their fast-moving and lucrative artificial intelligence businesses.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "44分钟前"
+      "time": "1小时前"
     },
     {
       "id": "5b47fe300389",
@@ -42,7 +112,7 @@
       "translated_summary": "OpenAI researchers reveal how their experimental model, devoid of any external aids, powered through hours-long proofs to earn a gold-medal score at the International Math Olympiad, discuss the project’s origins and describe how such work could help lead to artificial general intelligence",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "ee14ea3889c6",
@@ -56,7 +126,7 @@
       "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c20339ad6184",
@@ -70,77 +140,7 @@
       "translated_summary": "Study finds that artificial intelligence exposure may reduce doctors' cancer detection rates during standard colonoscopies by 6%, raising concerns about AI dependency.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "48ced341d939",
-      "title": "GSA strikes Google AI deal for federal agencies",
-      "summary": "The General Services Administration struck a deal with Google for artificial intelligence tools as part of the OneGov procurement initiative targeting federal government efficiency.",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/technology/trump-administration-strikes-deal-google-use-ai-platform-across-federal-agencies",
-      "publishedAt": "2025-08-21T14:46:40Z",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/Google.jpg?ve=1&tl=1",
-      "translated_title": "GSA strikes Google AI deal for federal agencies",
-      "translated_summary": "The General Services Administration struck a deal with Google for artificial intelligence tools as part of the OneGov procurement initiative targeting federal government efficiency.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "2小时前"
-    },
-    {
-      "id": "46cf8f709c46",
-      "title": "Meta freezes AI hiring after $14B spending spree and costly talent poaching: Is the AI bubble bursting?",
-      "summary": "Meta has slammed the brakes on hiring for its artificial intelligence division, a sudden pause that follows one of the most expensive talent grabs Silicon Valley has seen in years. The move, first reported by The Wall Street Journal, marks the end of a spending spree in which the company acquired more than 50 high-profile AI researchers and",
-      "source": "TechStartups.com",
-      "url": "https://techstartups.com/2025/08/21/meta-freezes-ai-hiring-after-14b-spending-spree-and-costly-talent-poaching-is-the-ai-bubble-bursting/",
-      "publishedAt": "2025-08-21T14:00:11Z",
-      "image": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
-      "translated_title": "Meta freezes AI hiring after $14B spending spree and costly talent poaching: Is the AI bubble bursting?",
-      "translated_summary": "Meta has slammed the brakes on hiring for its artificial intelligence division, a sudden pause that follows one of the most expensive talent grabs Silicon Valley has seen in years. The move, first reported by The Wall Street Journal, marks the end of a spending spree in which the company acquired more than 50 high-profile AI researchers and",
-      "category": "技术突破",
-      "category_icon": "🚀",
       "time": "3小时前"
-    },
-    {
-      "id": "c4b32d88fd46",
-      "title": "Meta Freezes AI Hiring as Surging Costs Raise Concerns, Report Says",
-      "summary": "Meta Platforms reportedly has frozen hiring in its high-profile artificial intelligence division as investors grow concerned about the unit's surging costs.",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/meta-freezes-ai-hiring-as-surging-costs-raise-concerns-report-says-11794976",
-      "publishedAt": "2025-08-21T10:10:06Z",
-      "image": "https://www.investopedia.com/thmb/nHiSrIPupd8wAG3g_HsvUhf6pTk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2195894722-c832827dac4348af8612fc636d7200b0.jpg",
-      "translated_title": "Meta Freezes AI Hiring as Surging Costs Raise Concerns, Report Says",
-      "translated_summary": "Meta Platforms reportedly has frozen hiring in its high-profile artificial intelligence division as investors grow concerned about the unit's surging costs.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "7小时前"
-    },
-    {
-      "id": "8d1eb300a81d",
-      "title": "Google Is Trying Everything to Sell AI to Skeptics",
-      "summary": "The launch of new Pixel devices featured a long lineup of celebrities and influencers paid to make the case for artificial intelligence.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/opinion/articles/2025-08-21/google-pixel-launch-ai-marketing-tries-a-bit-of-everything",
-      "publishedAt": "2025-08-21T10:00:21Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihdpkfR3dviA/v1/1200x707.png",
-      "translated_title": "Google Is Trying Everything to Sell AI to Skeptics",
-      "translated_summary": "The launch of new Pixel devices featured a long lineup of celebrities and influencers paid to make the case for artificial intelligence.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
-    },
-    {
-      "id": "5f5166d0e585",
-      "title": "Warren Brodey, 101, dies; a visionary at the dawn of the Information Age",
-      "summary": "Warren Brodey, who used his background as a psychiatrist to develop wide-ranging ideas about the liberating possibilities of technology at the dawn of the information age -- ideas that helped lay the groundwork for revolutionary fields like artificial intelligence -- died on Aug. 10 at his home in Oslo, Norway. He was 101.",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/08/21/metro/warren-brodey-101-dies-visionary-dawn-information-age/",
-      "publishedAt": "2025-08-21T10:00:01Z",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/C7LDSCU7U6ADDGQDHQ5QJSGCMI.jpg?auth=be01e25c9ed6d88813c8281b9d0add931fb3203d65792e92195ea8a0d931abc5&width=1440",
-      "translated_title": "Warren Brodey, 101, dies; a visionary at the dawn of the Information Age",
-      "translated_summary": "Warren Brodey, who used his background as a psychiatrist to develop wide-ranging ideas about the liberating possibilities of technology at the dawn of the information age -- ideas that helped lay the groundwork for revolutionary fields like artificial intelligence -- died on Aug. 10 at his home in Oslo, Norway. He was 101.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "7小时前"
     }
   ]
 }
