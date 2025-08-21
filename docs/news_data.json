@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-21T14:23:48.741366",
+  "last_updated": "2025-08-21T15:25:34.311704",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c20339ad6184",
+      "title": "Study finds AI tools may weaken physician skills to detect cancer",
+      "summary": "Study finds that artificial intelligence exposure may reduce doctors' cancer detection rates during standard colonoscopies by 6%, raising concerns about AI dependency.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/health/ai-tools-could-weaken-doctors-skills-detecting-colon-cancer-study-suggests",
+      "publishedAt": "2025-08-21T14:52:53Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/doctor-colonoscopy-scope.jpg",
+      "translated_title": "Study finds AI tools may weaken physician skills to detect cancer",
+      "translated_summary": "Study finds that artificial intelligence exposure may reduce doctors' cancer detection rates during standard colonoscopies by 6%, raising concerns about AI dependency.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "32分钟前"
+    },
+    {
+      "id": "48ced341d939",
+      "title": "GSA strikes Google AI deal for federal agencies",
+      "summary": "The General Services Administration struck a deal with Google for artificial intelligence tools as part of the OneGov procurement initiative targeting federal government efficiency.",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/technology/trump-administration-strikes-deal-google-use-ai-platform-across-federal-agencies",
+      "publishedAt": "2025-08-21T14:46:40Z",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/Google.jpg?ve=1&tl=1",
+      "translated_title": "GSA strikes Google AI deal for federal agencies",
+      "translated_summary": "The General Services Administration struck a deal with Google for artificial intelligence tools as part of the OneGov procurement initiative targeting federal government efficiency.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "38分钟前"
+    },
     {
       "id": "46cf8f709c46",
       "title": "Meta freezes AI hiring after $14B spending spree and costly talent poaching: Is the AI bubble bursting?",
@@ -14,7 +42,7 @@
       "translated_summary": "Meta has slammed the brakes on hiring for its artificial intelligence division, a sudden pause that follows one of the most expensive talent grabs Silicon Valley has seen in years. The move, first reported by The Wall Street Journal, marks the end of a spending spree in which the company acquired more than 50 high-profile AI researchers and",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "23分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c4b32d88fd46",
@@ -28,7 +56,7 @@
       "translated_summary": "Meta Platforms reportedly has frozen hiring in its high-profile artificial intelligence division as investors grow concerned about the unit's surging costs.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "8d1eb300a81d",
@@ -42,7 +70,7 @@
       "translated_summary": "The launch of new Pixel devices featured a long lineup of celebrities and influencers paid to make the case for artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "5f5166d0e585",
@@ -56,7 +84,7 @@
       "translated_summary": "Warren Brodey, who used his background as a psychiatrist to develop wide-ranging ideas about the liberating possibilities of technology at the dawn of the information age -- ideas that helped lay the groundwork for revolutionary fields like artificial intelligence -- died on Aug. 10 at his home in Oslo, Norway. He was 101.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "26beebedc88f",
@@ -70,7 +98,7 @@
       "translated_summary": "Microsoft Corp. employees leak compensation details through an anonymous spreadsheet as company battles Meta Platforms Inc. for artificial intelligence talent with multi-million dollar offers.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "4711e5921210",
@@ -84,7 +112,7 @@
       "translated_summary": "Chinese artificial intelligence startup DeepSeek on Thursday released DeepSeek-V3.1, an upgraded model with hybrid inference structure, faster thinking speed and stronger agent capability, the company said in a statement published on WeChat.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "73e168a6b11e",
@@ -98,7 +126,7 @@
       "translated_summary": "Chinese artificial intelligence startup DeepSeek released on Thursday an upgrade to its flagship V3 model that the company says has a feature that can optimize it for Chinese-made chips, along with faster processing speeds.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "c1aaa2822493",
@@ -112,35 +140,7 @@
       "translated_summary": "Meta Platforms Inc. has implemented a hiring freeze in its artificial intelligence division following months of aggressive recruitment.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "94301ace769b",
-      "title": "“Crypto x AI” Charting Coinbase Stock’s (NASDAQ:COIN) Future",
-      "summary": "One of the great puzzles that employment market watchers have been wrangling with is: once artificial intelligence (AI) takes over most of the j...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/crypto-x-ai-charting-coinbase-stock-s-nasdaq-coin-future-1035059209",
-      "publishedAt": "2025-08-21T01:35:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/Screenshot-2025-08-20-at-13-31-50-Coinbase-Global-COIN-Stock-Forecast-Price-Targets-and-Analysts-Predictions-1024x752.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "“Crypto x AI” Charting Coinbase Stock’s (NASDAQ:COIN) Future",
-      "translated_summary": "One of the great puzzles that employment market watchers have been wrangling with is: once artificial intelligence (AI) takes over most of the j...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "12小时前"
-    },
-    {
-      "id": "8a9f2c0ea085",
-      "title": "Commonwealth Bank of Australia Reverses Job Cuts Decision Over AI Chatbots",
-      "summary": "Commonwealth Bank of Australia reversed a decision to cut 45 customer service roles due to new artificial intelligence technology after pressure from the country’s main financial services union.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-21/commonwealth-bank-reverses-job-cuts-decision-over-ai-chatbots",
-      "publishedAt": "2025-08-21T00:45:57Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiFqhfDgbEgI/v0/1200x800.jpg",
-      "translated_title": "Commonwealth Bank of Australia Reverses Job Cuts Decision Over AI Chatbots",
-      "translated_summary": "Commonwealth Bank of Australia reversed a decision to cut 45 customer service roles due to new artificial intelligence technology after pressure from the country’s main financial services union.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "13小时前"
+      "time": "11小时前"
     }
   ]
 }
