@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-21T15:25:34.311704",
+  "last_updated": "2025-08-21T16:28:52.616039",
   "total_count": 10,
   "articles": [
+    {
+      "id": "5b47fe300389",
+      "title": "OpenAI Model Earns Gold-Medal Score at International Math Olympiad and Advances Path to Artificial General Intelligence",
+      "summary": "OpenAI researchers reveal how their experimental model, devoid of any external aids, powered through hours-long proofs to earn a gold-medal score at the International Math Olympiad, discuss the project’s origins and describe how such work could help lead to artificial general intelligence",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/openai-model-earns-gold-medal-score-at-international-math-olympiad-and/",
+      "publishedAt": "2025-08-21T15:50:00Z",
+      "image": "https://static.scientificamerican.com/dam/m/7bd81fea8a91de84/original/polygonal-brain.jpg?m=1755719340.659&w=1200",
+      "translated_title": "OpenAI Model Earns Gold-Medal Score at International Math Olympiad and Advances Path to Artificial General Intelligence",
+      "translated_summary": "OpenAI researchers reveal how their experimental model, devoid of any external aids, powered through hours-long proofs to earn a gold-medal score at the International Math Olympiad, discuss the project’s origins and describe how such work could help lead to artificial general intelligence",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "38分钟前"
+    },
+    {
+      "id": "ee14ea3889c6",
+      "title": "Google's Pixel 10 phone raises the ante on artificial intelligence",
+      "summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/business/story/2025-08-21/googles-pixel-10-phones-raises-the-ante-on-artificial-intelligence",
+      "publishedAt": "2025-08-21T15:36:27Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/f6967fd/2147483647/strip/true/crop/6000x3150+0+1425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa8%2F9b%2F167f81544a1280557b05a43bb313%2Fd33bcc6986ef423db98ad3c46d8dc013.jpg",
+      "translated_title": "Google's Pixel 10 phone raises the ante on artificial intelligence",
+      "translated_summary": "Google on Wednesday unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "52分钟前"
+    },
     {
       "id": "c20339ad6184",
       "title": "Study finds AI tools may weaken physician skills to detect cancer",
@@ -14,7 +42,7 @@
       "translated_summary": "Study finds that artificial intelligence exposure may reduce doctors' cancer detection rates during standard colonoscopies by 6%, raising concerns about AI dependency.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "32分钟前"
+      "time": "1小时前"
     },
     {
       "id": "48ced341d939",
@@ -28,7 +56,7 @@
       "translated_summary": "The General Services Administration struck a deal with Google for artificial intelligence tools as part of the OneGov procurement initiative targeting federal government efficiency.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "38分钟前"
+      "time": "1小时前"
     },
     {
       "id": "46cf8f709c46",
@@ -42,7 +70,7 @@
       "translated_summary": "Meta has slammed the brakes on hiring for its artificial intelligence division, a sudden pause that follows one of the most expensive talent grabs Silicon Valley has seen in years. The move, first reported by The Wall Street Journal, marks the end of a spending spree in which the company acquired more than 50 high-profile AI researchers and",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c4b32d88fd46",
@@ -56,7 +84,7 @@
       "translated_summary": "Meta Platforms reportedly has frozen hiring in its high-profile artificial intelligence division as investors grow concerned about the unit's surging costs.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "8d1eb300a81d",
@@ -70,7 +98,7 @@
       "translated_summary": "The launch of new Pixel devices featured a long lineup of celebrities and influencers paid to make the case for artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "5f5166d0e585",
@@ -84,7 +112,7 @@
       "translated_summary": "Warren Brodey, who used his background as a psychiatrist to develop wide-ranging ideas about the liberating possibilities of technology at the dawn of the information age -- ideas that helped lay the groundwork for revolutionary fields like artificial intelligence -- died on Aug. 10 at his home in Oslo, Norway. He was 101.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "26beebedc88f",
@@ -98,21 +126,7 @@
       "translated_summary": "Microsoft Corp. employees leak compensation details through an anonymous spreadsheet as company battles Meta Platforms Inc. for artificial intelligence talent with multi-million dollar offers.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
-    },
-    {
-      "id": "4711e5921210",
-      "title": "Chinese startup DeepSeek releases upgraded AI model",
-      "summary": "Chinese artificial intelligence startup DeepSeek on Thursday released DeepSeek-V3.1, an upgraded model with hybrid inference structure, faster thinking speed and stronger agent capability, the company said in a statement published on WeChat.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinese-startup-deepseek-releases-upgraded-ai-model-2025-08-21/",
-      "publishedAt": "2025-08-21T07:10:40Z",
-      "image": "https://www.reuters.com/resizer/v2/Z5ONYB73MVMUXMBKTYCMQE5WKQ.jpg?auth=a2e8ffda0fc9b2052f4d9d4e9ffd1b558ccf98dbbea78adea1f40b42ea558034&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Chinese startup DeepSeek releases upgraded AI model",
-      "translated_summary": "Chinese artificial intelligence startup DeepSeek on Thursday released DeepSeek-V3.1, an upgraded model with hybrid inference structure, faster thinking speed and stronger agent capability, the company said in a statement published on WeChat.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "8小时前"
+      "time": "6小时前"
     },
     {
       "id": "73e168a6b11e",
@@ -126,21 +140,7 @@
       "translated_summary": "Chinese artificial intelligence startup DeepSeek released on Thursday an upgrade to its flagship V3 model that the company says has a feature that can optimize it for Chinese-made chips, along with faster processing speeds.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "8小时前"
-    },
-    {
-      "id": "c1aaa2822493",
-      "title": "Mark Zuckerberg Halts AI Hiring After Million-Dollar Talent Poaching Sparks Investor Backlash Amid Meta's 'Superintelligence Efforts:' Report",
-      "summary": "Meta Platforms Inc. has implemented a hiring freeze in its artificial intelligence division following months of aggressive recruitment.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/equities/25/08/47250356/mark-zuckerberg-halts-ai-hiring-after-million-dollar-talent-poaching-sparks-investor-backlash-amid-metas-superintelligence-efforts-report",
-      "publishedAt": "2025-08-21T03:37:55Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/08/20/Mark-Zuckerberg.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "Mark Zuckerberg Halts AI Hiring After Million-Dollar Talent Poaching Sparks Investor Backlash Amid Meta's 'Superintelligence Efforts:' Report",
-      "translated_summary": "Meta Platforms Inc. has implemented a hiring freeze in its artificial intelligence division following months of aggressive recruitment.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "9小时前"
     }
   ]
 }
