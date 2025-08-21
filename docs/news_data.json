@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-21T13:33:20.848299",
+  "last_updated": "2025-08-21T14:23:48.741366",
   "total_count": 10,
   "articles": [
+    {
+      "id": "46cf8f709c46",
+      "title": "Meta freezes AI hiring after $14B spending spree and costly talent poaching: Is the AI bubble bursting?",
+      "summary": "Meta has slammed the brakes on hiring for its artificial intelligence division, a sudden pause that follows one of the most expensive talent grabs Silicon Valley has seen in years. The move, first reported by The Wall Street Journal, marks the end of a spending spree in which the company acquired more than 50 high-profile AI researchers and",
+      "source": "TechStartups.com",
+      "url": "https://techstartups.com/2025/08/21/meta-freezes-ai-hiring-after-14b-spending-spree-and-costly-talent-poaching-is-the-ai-bubble-bursting/",
+      "publishedAt": "2025-08-21T14:00:11Z",
+      "image": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
+      "translated_title": "Meta freezes AI hiring after $14B spending spree and costly talent poaching: Is the AI bubble bursting?",
+      "translated_summary": "Meta has slammed the brakes on hiring for its artificial intelligence division, a sudden pause that follows one of the most expensive talent grabs Silicon Valley has seen in years. The move, first reported by The Wall Street Journal, marks the end of a spending spree in which the company acquired more than 50 high-profile AI researchers and",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "23分钟前"
+    },
     {
       "id": "c4b32d88fd46",
       "title": "Meta Freezes AI Hiring as Surging Costs Raise Concerns, Report Says",
@@ -14,7 +28,7 @@
       "translated_summary": "Meta Platforms reportedly has frozen hiring in its high-profile artificial intelligence division as investors grow concerned about the unit's surging costs.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "8d1eb300a81d",
@@ -28,7 +42,7 @@
       "translated_summary": "The launch of new Pixel devices featured a long lineup of celebrities and influencers paid to make the case for artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "5f5166d0e585",
@@ -42,7 +56,7 @@
       "translated_summary": "Warren Brodey, who used his background as a psychiatrist to develop wide-ranging ideas about the liberating possibilities of technology at the dawn of the information age -- ideas that helped lay the groundwork for revolutionary fields like artificial intelligence -- died on Aug. 10 at his home in Oslo, Norway. He was 101.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "26beebedc88f",
@@ -70,7 +84,7 @@
       "translated_summary": "Chinese artificial intelligence startup DeepSeek on Thursday released DeepSeek-V3.1, an upgraded model with hybrid inference structure, faster thinking speed and stronger agent capability, the company said in a statement published on WeChat.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "73e168a6b11e",
@@ -84,7 +98,7 @@
       "translated_summary": "Chinese artificial intelligence startup DeepSeek released on Thursday an upgrade to its flagship V3 model that the company says has a feature that can optimize it for Chinese-made chips, along with faster processing speeds.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "c1aaa2822493",
@@ -98,7 +112,7 @@
       "translated_summary": "Meta Platforms Inc. has implemented a hiring freeze in its artificial intelligence division following months of aggressive recruitment.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "94301ace769b",
@@ -112,7 +126,7 @@
       "translated_summary": "One of the great puzzles that employment market watchers have been wrangling with is: once artificial intelligence (AI) takes over most of the j...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "8a9f2c0ea085",
@@ -126,20 +140,6 @@
       "translated_summary": "Commonwealth Bank of Australia reversed a decision to cut 45 customer service roles due to new artificial intelligence technology after pressure from the country’s main financial services union.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "12小时前"
-    },
-    {
-      "id": "59729fbc6de6",
-      "title": "‘This is a game-changer’: A closer look at how AI is helping law enforcement",
-      "summary": "Artificial Intelligence has become a partner in crime at the Kershaw County Sheriff’s Office.",
-      "source": "WIS10",
-      "url": "https://www.wistv.com/2025/08/21/this-is-game-changer-closer-look-how-ai-is-helping-law-enforcement/",
-      "publishedAt": "2025-08-21T00:00:48Z",
-      "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/ZFXRU66M4JCATNBPT4PQRPIQVE.bmp?auth=1bb5c01cfbec5a102ffa0194805039323ca53074b485087f9ed9cc154af02b1f&width=1200&height=600&smart=true",
-      "translated_title": "‘This is a game-changer’: A closer look at how AI is helping law enforcement",
-      "translated_summary": "Artificial Intelligence has become a partner in crime at the Kershaw County Sheriff’s Office.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "13小时前"
     }
   ]
