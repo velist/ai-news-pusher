@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-21T06:44:34.107553",
+  "last_updated": "2025-08-21T07:24:51.469592",
   "total_count": 10,
   "articles": [
+    {
+      "id": "4711e5921210",
+      "title": "Chinese startup DeepSeek releases upgraded AI model",
+      "summary": "Chinese artificial intelligence startup DeepSeek on Thursday released DeepSeek-V3.1, an upgraded model with hybrid inference structure, faster thinking speed and stronger agent capability, the company said in a statement published on WeChat.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinese-startup-deepseek-releases-upgraded-ai-model-2025-08-21/",
+      "publishedAt": "2025-08-21T07:10:40Z",
+      "image": "https://www.reuters.com/resizer/v2/Z5ONYB73MVMUXMBKTYCMQE5WKQ.jpg?auth=a2e8ffda0fc9b2052f4d9d4e9ffd1b558ccf98dbbea78adea1f40b42ea558034&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Chinese startup DeepSeek releases upgraded AI model",
+      "translated_summary": "Chinese artificial intelligence startup DeepSeek on Thursday released DeepSeek-V3.1, an upgraded model with hybrid inference structure, faster thinking speed and stronger agent capability, the company said in a statement published on WeChat.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "14分钟前"
+    },
     {
       "id": "c1aaa2822493",
       "title": "Mark Zuckerberg Halts AI Hiring After Million-Dollar Talent Poaching Sparks Investor Backlash Amid Meta's 'Superintelligence Efforts:' Report",
@@ -28,7 +42,7 @@
       "translated_summary": "Commonwealth Bank of Australia reversed a decision to cut 45 customer service roles due to new artificial intelligence technology after pressure from the country’s main financial services union.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "59729fbc6de6",
@@ -42,7 +56,7 @@
       "translated_summary": "Artificial Intelligence has become a partner in crime at the Kershaw County Sheriff’s Office.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "660a92777390",
@@ -56,7 +70,7 @@
       "translated_summary": "Over the past few years, Nvidia (NVDA) has reigned unchallenged as the backbone of artificial intelligence, wielding near-monopolistic power in ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "8b47f3de2b7a",
@@ -70,7 +84,7 @@
       "translated_summary": "Google unveiled a new line-up of four Pixel 10 model smartphones injected with another dose of artificial intelligence features.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "66e25d3ea03d",
@@ -84,7 +98,7 @@
       "translated_summary": "Google unveiled a new line-up of four Pixel 10 model smartphones injected with another dose of artificial intelligence features.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "78213eb520aa",
@@ -98,7 +112,7 @@
       "translated_summary": "Google unveiled a new line-up of Pixel smartphones injected with another dose of artificial intelligence that’s designed to do everything from fetch vital information stored on the devices to help improve photos as they’re being taken.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "b268ece5c874",
@@ -112,7 +126,7 @@
       "translated_summary": "A restaurant in Missouri said an artificial intelligence tool designed to enhance Google search results is causing confusion for customers.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "6c56db5d7522",
@@ -126,21 +140,7 @@
       "translated_summary": "A restaurant in Missouri said an artificial intelligence tool designed to enhance Google search results is causing confusion for customers.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "10小时前"
-    },
-    {
-      "id": "b5b716253294",
-      "title": "Restaurant battles fake deals offered by Google AI: ‘It’s coming back on us’",
-      "summary": "A restaurant in Missouri said an artificial intelligence tool designed to enhance Google search results is causing confusion for customers.",
-      "source": "WEAU",
-      "url": "https://www.weau.com/2025/08/20/restaurant-battles-fake-deals-offered-by-google-ai-its-coming-back-us/",
-      "publishedAt": "2025-08-20T20:23:35Z",
-      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/CIRXEBPYGNADVNHCIJGNFXZKSA.png?auth=24a9c82e93200a2f406905be85a31c1a244d4e7947f4fca97abfaefedde9b587&width=1200&height=600&smart=true",
-      "translated_title": "Restaurant battles fake deals offered by Google AI: ‘It’s coming back on us’",
-      "translated_summary": "A restaurant in Missouri said an artificial intelligence tool designed to enhance Google search results is causing confusion for customers.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "10小时前"
+      "time": "11小时前"
     }
   ]
 }
