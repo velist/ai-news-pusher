@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-22T15:23:56.286816",
+  "last_updated": "2025-08-22T16:28:35.240008",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "BBC AI innovator Danijela Horak joins Epidemic Sound as vp of artificial intelligence, Meta music's Dan Simpson boards DDEX and more music job news.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "430e3a147449",
@@ -28,7 +28,7 @@
       "translated_summary": "Zoom Communications reported second-quarter results that topped estimates as the video conferencing software provider rode the artificial intelligence wave.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "b502d8e59018",
@@ -42,7 +42,7 @@
       "translated_summary": "Artificial Intelligence is likely here to say, so the AI experts have tips on how environmentally conscious users can minimize their impact..",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "ab37f0366d23",
@@ -56,7 +56,21 @@
       "translated_summary": "Artificial Intelligence is likely here to say, so the AI experts have tips on how environmentally conscious users can minimize their impact..",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
+    },
+    {
+      "id": "ebb1dc07d9fc",
+      "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
+      "summary": "Marissa Loewen first started using artificial intelligence in 2014 as a project management tool. She has autism and ADHD and said it helped immensely with…",
+      "source": "WTOP",
+      "url": "https://wtop.com/national/2025/08/as-ai-becomes-part-of-everyday-life-it-brings-a-hidden-climate-cost/",
+      "publishedAt": "2025-08-22T13:05:01Z",
+      "image": "https://wtop.com/wp-content/uploads/2025/08/Climate_Choices-AI_Impact_83323.jpg",
+      "translated_title": "As AI becomes part of everyday life, it brings a hidden climate cost",
+      "translated_summary": "Marissa Loewen first started using artificial intelligence in 2014 as a project management tool. She has autism and ADHD and said it helped immensely with…",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "3小时前"
     },
     {
       "id": "d5db4eca19b9",
@@ -70,7 +84,7 @@
       "translated_summary": "Marissa Loewen first started using artificial intelligence in 2014 as a project management tool. She has autism and ADHD and said it helped immensely with organizing her thoughts.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "a57dc6469467",
@@ -84,7 +98,7 @@
       "translated_summary": "Alphabet's Google (NASDAQ: GOOGL) (NASDAQ: GOOG) has announced a significant reduction in the prices of its artificial intelligence (AI) and cloud services for federal agencies.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "9f7fb506f2c6",
@@ -98,7 +112,7 @@
       "translated_summary": "Here's how to use artificial intelligence as a search tool to find grocery deals -- just make sure you double check that the info is up to date.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "1d4e148c4f4d",
@@ -112,7 +126,7 @@
       "translated_summary": "Billions of dollars have been invested in artificial intelligence. But the returns have been middling at best.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "5b96acc12ca4",
@@ -126,21 +140,7 @@
       "translated_summary": "Microsoft Corp. artificial intelligence Chief Mustafa Suleyman warned on Tuesday about emerging risks from \"Seemingly Conscious AI\" systems.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
-    },
-    {
-      "id": "d4a48f4d8536",
-      "title": "DeepSeek hints latest model supported by China’s ‘next generation’ homegrown AI chips",
-      "summary": "Chinese artificial intelligence startup DeepSeek has hinted that China will soon have homegrown \"next generation\" chips to support its AI development.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/22/deepseek-hints-latest-model-supported-by-chinas-next-generation-homegrown-ai-chips.html",
-      "publishedAt": "2025-08-22T09:26:55Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108105486-1740131070104-gettyimages-2196335613-20250128_cak00079_eibedomt.jpeg?v=1755847600&w=1920&h=1080",
-      "translated_title": "DeepSeek hints latest model supported by China’s ‘next generation’ homegrown AI chips",
-      "translated_summary": "Chinese artificial intelligence startup DeepSeek has hinted that China will soon have homegrown \"next generation\" chips to support its AI development.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
