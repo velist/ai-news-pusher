@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-22T03:10:57.556415",
+  "last_updated": "2025-08-22T04:27:00.089086",
   "total_count": 10,
   "articles": [
+    {
+      "id": "efbbc8e87542",
+      "title": "Nvidia Urges Taiwan to Embrace Nuclear Power Ahead of Referendum",
+      "summary": "Nuclear power is an “excellent option” for Taiwan, as demand from energy-intensive artificial intelligence is set to skyrocket in the tech manufacturing hub, according to Nvidia Corp.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-22/nvidia-urges-taiwan-to-embrace-nuclear-power-ahead-of-referendum",
+      "publishedAt": "2025-08-22T03:20:44Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itmqIA7Ng.gc/v0/1200x800.jpg",
+      "translated_title": "Nvidia Urges Taiwan to Embrace Nuclear Power Ahead of Referendum",
+      "translated_summary": "Nuclear power is an “excellent option” for Taiwan, as demand from energy-intensive artificial intelligence is set to skyrocket in the tech manufacturing hub, according to Nvidia Corp.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "1c6cb3149be9",
       "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race",
@@ -14,7 +28,7 @@
       "translated_summary": "Meta Platforms Inc. has agreed to a deal worth at least $10 billion with Alphabet Inc.’s Google for cloud computing services, according to people familiar with the matter, part of the social media giant’s spending spree on artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "cefa1ca417ce",
@@ -28,7 +42,7 @@
       "translated_summary": "Alphabet and Meta compete in online advertising, but Meta needs more data center infrastructure as it pursues artificial intelligence growth.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "79479cd285e1",
@@ -42,7 +56,7 @@
       "translated_summary": "Zoom Communications raised its annual revenue and profit forecasts on Thursday, banking on hybrid work trends and the integration of artificial intelligence technology into its products, sending its shares up 4.5% in extended trading.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "a4bbde9a0f6b",
@@ -56,7 +70,7 @@
       "translated_summary": "“In the United States, and within the bounds of our Constitution, we must put in place common-sense safeguards for artificial intelligence,\" Klobuchar wrote in an opinion piece.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "d7de9d7a9541",
@@ -70,7 +84,7 @@
       "translated_summary": "Meta is facing mounting pressure from lawmakers over how its artificial intelligence chatbots are interacting with children amid revelations that it approved ru",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "2032e030427c",
@@ -84,7 +98,7 @@
       "translated_summary": "Meta is facing mounting pressure from lawmakers over how its artificial intelligence chatbots are interacting with children amid revelations that it approved ru",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "e66aff38b9d7",
@@ -98,7 +112,7 @@
       "translated_summary": "Senator Amy Klobuchar is waging war against artificial intelligence after falling victim to a \"horrible\" and misleading deepfake ... in which she appeared to comment on Sydney Sweeney's \"perfect titties.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "c17ac7703b3b",
@@ -112,7 +126,7 @@
       "translated_summary": "Chinese artificial intelligence startup DeepSeek has rolled out an upgraded version of its flagship model, underscoring the country’s broader effort to cut reliance on U.S. technology. The new release, called DeepSeek-V3.1, adds support for China-made chips and promises faster processing speeds. While DeepSeek’s upgrade, shared in a WeChat post that isn’t publicly accessible, Reuters confirmed",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "dcfed8e48b20",
@@ -126,21 +140,7 @@
       "translated_summary": "Learn how AI (Artificial Intelligence) is transforming our world amidst crisis, from exciting innovations to serious societal implications.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "c73509f9bd98",
-      "title": "Google to offer Gemini AI to U.S. government agencies for 47 cents",
-      "summary": "The U.S. government struck a deal with Google to use its artificial intelligence and other applications for 47 cents, underbidding other AI partners.",
-      "source": "UPI News",
-      "url": "https://www.upi.com/Top_News/US/2025/08/21/Google-GSA-Gemini-AI-OpenAI-Claude-Anthropic-dollar-under/7221755797170/",
-      "publishedAt": "2025-08-21T17:59:55Z",
-      "image": "https://cdnph.upi.com/sv/ph/og/upi/7221755797170/2025/1/cd7318ce2a71302428763dbd3f8dec9a/v1.5/Google-to-offer-Gemini-AI-to-US-government-agencies-for-47-cents.jpg",
-      "translated_title": "Google to offer Gemini AI to U.S. government agencies for 47 cents",
-      "translated_summary": "The U.S. government struck a deal with Google to use its artificial intelligence and other applications for 47 cents, underbidding other AI partners.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "9小时前"
+      "time": "10小时前"
     }
   ]
 }
