@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-22T10:24:54.052284",
+  "last_updated": "2025-08-22T11:18:56.433925",
   "total_count": 10,
   "articles": [
+    {
+      "id": "9f7fb506f2c6",
+      "title": "How to Use Copilot to Save Money on Grocery Costs",
+      "summary": "Here's how to use artificial intelligence as a search tool to find grocery deals -- just make sure you double check that the info is up to date.",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/how-to-use-copilot-to-save-money-on-grocery-costs/",
+      "publishedAt": "2025-08-22T10:52:02Z",
+      "image": "https://www.cnet.com/a/img/resize/b8faf9cc9e641bc7d8d2ba4506513bc3cdbe434d/hub/2024/06/28/f1df9b67-bffc-4888-97ae-be273be1bb8f/gettyimages-1396993878.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "translated_title": "How to Use Copilot to Save Money on Grocery Costs",
+      "translated_summary": "Here's how to use artificial intelligence as a search tool to find grocery deals -- just make sure you double check that the info is up to date.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "26分钟前"
+    },
     {
       "id": "1d4e148c4f4d",
       "title": "The Case for Being an AI Hater. Or at Least a Skeptic",
@@ -14,7 +28,7 @@
       "translated_summary": "Billions of dollars have been invested in artificial intelligence. But the returns have been middling at best.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "24分钟前"
+      "time": "1小时前"
     },
     {
       "id": "5b96acc12ca4",
@@ -28,7 +42,7 @@
       "translated_summary": "Microsoft Corp. artificial intelligence Chief Mustafa Suleyman warned on Tuesday about emerging risks from \"Seemingly Conscious AI\" systems.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "30分钟前"
+      "time": "1小时前"
     },
     {
       "id": "d4a48f4d8536",
@@ -42,7 +56,7 @@
       "translated_summary": "Chinese artificial intelligence startup DeepSeek has hinted that China will soon have homegrown \"next generation\" chips to support its AI development.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "57分钟前"
+      "time": "1小时前"
     },
     {
       "id": "cb8147369fc6",
@@ -56,7 +70,7 @@
       "translated_summary": "Rather suddenly, there’s been a vibe shift around artificial intelligence, the tech that’s hypnotized Wall Street and inspired cultish devotion across Silicon Valley over the past three years.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "953de532318f",
@@ -70,7 +84,7 @@
       "translated_summary": "At a moment when artificial intelligence is progressing at a rapid rate and the job market is tightening, one fast-food chain offers a glimpse into how everyday businesses are adopting AI to improve efficiency — and reduce their workforce.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "efbbc8e87542",
@@ -98,7 +112,7 @@
       "translated_summary": "The rise of artificial intelligence tools has left many social media users scrambling to figure out what's real and what isn't.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "1c6cb3149be9",
@@ -126,21 +140,7 @@
       "translated_summary": "Alphabet and Meta compete in online advertising, but Meta needs more data center infrastructure as it pursues artificial intelligence growth.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "10小时前"
-    },
-    {
-      "id": "79479cd285e1",
-      "title": "Zoom Communications lifts annual forecasts on robust demand for AI tools",
-      "summary": "Zoom Communications raised its annual revenue and profit forecasts on Thursday, banking on hybrid work trends and the integration of artificial intelligence technology into its products, sending its shares up 4.5% in extended trading.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/zoom-communications-lifts-annual-forecasts-robust-demand-ai-tools-2025-08-21/",
-      "publishedAt": "2025-08-21T20:47:00Z",
-      "image": "https://www.reuters.com/resizer/v2/45KZAA6PQFPNJD2WUX3HLGCHQQ.jpg?auth=08271d203dc763420b98d4b578a698465634b180e0cf76870e7ce98c79f5644b&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Zoom Communications lifts annual forecasts on robust demand for AI tools",
-      "translated_summary": "Zoom Communications raised its annual revenue and profit forecasts on Thursday, banking on hybrid work trends and the integration of artificial intelligence technology into its products, sending its shares up 4.5% in extended trading.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "13小时前"
+      "time": "11小时前"
     }
   ]
 }
