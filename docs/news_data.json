@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-22T09:25:12.881355",
+  "last_updated": "2025-08-22T10:24:54.052284",
   "total_count": 10,
   "articles": [
+    {
+      "id": "1d4e148c4f4d",
+      "title": "The Case for Being an AI Hater. Or at Least a Skeptic",
+      "summary": "Billions of dollars have been invested in artificial intelligence. But the returns have been middling at best.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-22/podcast-the-case-for-being-an-ai-hater-or-at-least-a-skeptic",
+      "publishedAt": "2025-08-22T10:00:23Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iddPyrAc_BpE/v0/1200x873.jpg",
+      "translated_title": "The Case for Being an AI Hater. Or at Least a Skeptic",
+      "translated_summary": "Billions of dollars have been invested in artificial intelligence. But the returns have been middling at best.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "24分钟前"
+    },
+    {
+      "id": "5b96acc12ca4",
+      "title": "Microsoft AI Chief Mustafa Suleyman Warns Of 'Psychosis Risk' From 'Seemingly Conscious AI' Amid $13 Billion AI Boom",
+      "summary": "Microsoft Corp. artificial intelligence Chief Mustafa Suleyman warned on Tuesday about emerging risks from \"Seemingly Conscious AI\" systems.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/25/08/47277171/microsoft-ai-chief-mustafa-suleyman-warns-of-psychosis-risk-from-seemingly-conscious-ai-amid-13-billion-ai-boom",
+      "publishedAt": "2025-08-22T09:53:56Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/22/Microsoft-Corp-.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Microsoft AI Chief Mustafa Suleyman Warns Of 'Psychosis Risk' From 'Seemingly Conscious AI' Amid $13 Billion AI Boom",
+      "translated_summary": "Microsoft Corp. artificial intelligence Chief Mustafa Suleyman warned on Tuesday about emerging risks from \"Seemingly Conscious AI\" systems.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "30分钟前"
+    },
+    {
+      "id": "d4a48f4d8536",
+      "title": "DeepSeek hints latest model supported by China’s ‘next generation’ homegrown AI chips",
+      "summary": "Chinese artificial intelligence startup DeepSeek has hinted that China will soon have homegrown \"next generation\" chips to support its AI development.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/22/deepseek-hints-latest-model-supported-by-chinas-next-generation-homegrown-ai-chips.html",
+      "publishedAt": "2025-08-22T09:26:55Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108105486-1740131070104-gettyimages-2196335613-20250128_cak00079_eibedomt.jpeg?v=1755847600&w=1920&h=1080",
+      "translated_title": "DeepSeek hints latest model supported by China’s ‘next generation’ homegrown AI chips",
+      "translated_summary": "Chinese artificial intelligence startup DeepSeek has hinted that China will soon have homegrown \"next generation\" chips to support its AI development.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "57分钟前"
+    },
     {
       "id": "cb8147369fc6",
       "title": "The AI vibe shift is upon us",
@@ -14,7 +56,7 @@
       "translated_summary": "Rather suddenly, there’s been a vibe shift around artificial intelligence, the tech that’s hypnotized Wall Street and inspired cultish devotion across Silicon Valley over the past three years.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "24分钟前"
+      "time": "1小时前"
     },
     {
       "id": "953de532318f",
@@ -28,7 +70,7 @@
       "translated_summary": "At a moment when artificial intelligence is progressing at a rapid rate and the job market is tightening, one fast-food chain offers a glimpse into how everyday businesses are adopting AI to improve efficiency — and reduce their workforce.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "efbbc8e87542",
@@ -42,7 +84,21 @@
       "translated_summary": "Nuclear power is an “excellent option” for Taiwan, as demand from energy-intensive artificial intelligence is set to skyrocket in the tech manufacturing hub, according to Nvidia Corp.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
+    },
+    {
+      "id": "3db924b392f7",
+      "title": "Snopestionary: AI slop, explained",
+      "summary": "The rise of artificial intelligence tools has left many social media users scrambling to figure out what's real and what isn't.",
+      "source": "Snopes.com",
+      "url": "https://www.snopes.com/articles/470975/ai-slop-media-literacy/",
+      "publishedAt": "2025-08-22T03:00:03Z",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/08/a_collection_of_ai_slop_content.png",
+      "translated_title": "Snopestionary: AI slop, explained",
+      "translated_summary": "The rise of artificial intelligence tools has left many social media users scrambling to figure out what's real and what isn't.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7小时前"
     },
     {
       "id": "1c6cb3149be9",
@@ -56,7 +112,7 @@
       "translated_summary": "Meta Platforms Inc. has agreed to a deal worth at least $10 billion with Alphabet Inc.’s Google for cloud computing services, according to people familiar with the matter, part of the social media giant’s spending spree on artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "cefa1ca417ce",
@@ -70,7 +126,7 @@
       "translated_summary": "Alphabet and Meta compete in online advertising, but Meta needs more data center infrastructure as it pursues artificial intelligence growth.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "79479cd285e1",
@@ -84,62 +140,6 @@
       "translated_summary": "Zoom Communications raised its annual revenue and profit forecasts on Thursday, banking on hybrid work trends and the integration of artificial intelligence technology into its products, sending its shares up 4.5% in extended trading.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "12小时前"
-    },
-    {
-      "id": "a4bbde9a0f6b",
-      "title": "Senator championed outlawing deepfakes. One was created about her.",
-      "summary": "“In the United States, and within the bounds of our Constitution, we must put in place common-sense safeguards for artificial intelligence,\" Klobuchar wrote in an opinion piece.",
-      "source": "USA TODAY",
-      "url": "https://www.usatoday.com/story/news/politics/2025/08/21/amy-klobuchar-deepfake-sydney-sweeney/85754860007/",
-      "publishedAt": "2025-08-21T20:34:47Z",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/21/USAT/85758599007-usatsi-17450906.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
-      "translated_title": "Senator championed outlawing deepfakes. One was created about her.",
-      "translated_summary": "“In the United States, and within the bounds of our Constitution, we must put in place common-sense safeguards for artificial intelligence,\" Klobuchar wrote in an opinion piece.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "12小时前"
-    },
-    {
-      "id": "d7de9d7a9541",
-      "title": "Meta chatbot revelations renew scrutiny of company's track record on child safety",
-      "summary": "Meta is facing mounting pressure from lawmakers over how its artificial intelligence chatbots are interacting with children amid revelations that it approved ru",
-      "source": "Baltimore News",
-      "url": "https://foxbaltimore.com/news/nation-world/meta-chatbot-revelations-renew-scrutiny-of-companys-track-record-on-child-safety-artificial-intelligence-social-media-regulation-kosa",
-      "publishedAt": "2025-08-21T19:48:07Z",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/1024/986/0x54/90/dfa57ed0-5d94-4ac3-9b6c-c05e47f75cb8-AP25230562426294.jpg",
-      "translated_title": "Meta chatbot revelations renew scrutiny of company's track record on child safety",
-      "translated_summary": "Meta is facing mounting pressure from lawmakers over how its artificial intelligence chatbots are interacting with children amid revelations that it approved ru",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "2032e030427c",
-      "title": "Meta chatbot revelations renew scrutiny of company's track record on child safety",
-      "summary": "Meta is facing mounting pressure from lawmakers over how its artificial intelligence chatbots are interacting with children amid revelations that it approved ru",
-      "source": "WJLA",
-      "url": "https://wjla.com/news/connect-to-congress/meta-chatbot-revelations-renew-scrutiny-of-companys-track-record-on-child-safety-artificial-intelligence-social-media-regulation-kosa",
-      "publishedAt": "2025-08-21T19:48:07Z",
-      "image": "https://wjla.com/resources/media2/16x9/1024/986/0x54/90/dfa57ed0-5d94-4ac3-9b6c-c05e47f75cb8-AP25230562426294.jpg",
-      "translated_title": "Meta chatbot revelations renew scrutiny of company's track record on child safety",
-      "translated_summary": "Meta is facing mounting pressure from lawmakers over how its artificial intelligence chatbots are interacting with children amid revelations that it approved ru",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "e66aff38b9d7",
-      "title": "Amy Klobuchar Calls for More Regulation on 'Horrible' Deepfake Vids",
-      "summary": "Senator Amy Klobuchar is waging war against artificial intelligence after falling victim to a \"horrible\" and misleading deepfake ... in which she appeared to comment on Sydney Sweeney's \"perfect titties.\"",
-      "source": "TMZ",
-      "url": "https://www.tmz.com/2025/08/21/amy-klobuchar-calls-for-deepfake-regulation/",
-      "publishedAt": "2025-08-21T19:46:35Z",
-      "image": "https://imagez.tmz.com/image/be/16by9/2025/08/21/bef8b57d3fbc4f9d9205f624593f1de7_xl.jpg",
-      "translated_title": "Amy Klobuchar Calls for More Regulation on 'Horrible' Deepfake Vids",
-      "translated_summary": "Senator Amy Klobuchar is waging war against artificial intelligence after falling victim to a \"horrible\" and misleading deepfake ... in which she appeared to comment on Sydney Sweeney's \"perfect titties.\"",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "13小时前"
     }
   ]
