@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-23T11:17:29.541268",
+  "last_updated": "2025-08-23T12:43:08.800702",
   "total_count": 10,
   "articles": [
+    {
+      "id": "5a14b547151c",
+      "title": "Energy market realities poses hurdle for Trump’s coal revival",
+      "summary": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/news/3777474/energy-market-realities-poses-hurdle-trump-coal-revival/",
+      "publishedAt": "2025-08-23T12:00:00Z",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/08/AP25098745996827.jpg",
+      "translated_title": "Energy market realities poses hurdle for Trump’s coal revival",
+      "translated_summary": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "43分钟前"
+    },
     {
       "id": "d24478b66a23",
       "title": "AMD Stock Jumps Alongside Investment in AI Startup Somite.ai",
@@ -14,7 +28,7 @@
       "translated_summary": "Advanced Micro Devices (AMD) stock was up on Friday alongside news of an investment in artificial intelligence (AI) startup Somite.ai. AMD Ventu...",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "8小时前"
+      "time": "10小时前"
     },
     {
       "id": "6192d387ac4a",
@@ -28,7 +42,7 @@
       "translated_summary": "Meta halted all hiring for its artificial intelligence division, reportedly even pausing movement between teams within the company.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "3a57ca7caba4",
@@ -42,7 +56,7 @@
       "translated_summary": "The lawsuit, filed in an Illinois court on Friday, Aug. 1, alleges the company uses a form of artificial intelligence called “computer vision” to help mitigate theft by collecting data about customers’ facial geometry in violation of the state's Biometric Information Privacy Act",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "16小时前"
+      "time": "18小时前"
     },
     {
       "id": "797fd50e824a",
@@ -56,7 +70,7 @@
       "translated_summary": "Apple Inc. is in early discussions about using Google Gemini to power a revamped version of the Siri voice assistant, marking a key potential step toward outsourcing more of its artificial intelligence technology.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "73a993c687ea",
@@ -70,7 +84,7 @@
       "translated_summary": "BBC AI innovator Danijela Horak joins Epidemic Sound as vp of artificial intelligence, Meta music's Dan Simpson boards DDEX and more music job news.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21小时前"
+      "time": "22小时前"
     },
     {
       "id": "430e3a147449",
@@ -84,7 +98,7 @@
       "translated_summary": "Zoom Communications reported second-quarter results that topped estimates as the video conferencing software provider rode the artificial intelligence wave.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "21小时前"
+      "time": "22小时前"
     },
     {
       "id": "b502d8e59018",
@@ -98,7 +112,7 @@
       "translated_summary": "Artificial Intelligence is likely here to say, so the AI experts have tips on how environmentally conscious users can minimize their impact..",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21小时前"
+      "time": "22小时前"
     },
     {
       "id": "ab37f0366d23",
@@ -112,7 +126,7 @@
       "translated_summary": "Artificial Intelligence is likely here to say, so the AI experts have tips on how environmentally conscious users can minimize their impact..",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21小时前"
+      "time": "22小时前"
     },
     {
       "id": "ebb1dc07d9fc",
@@ -126,21 +140,7 @@
       "translated_summary": "Marissa Loewen first started using artificial intelligence in 2014 as a project management tool. She has autism and ADHD and said it helped immensely with…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22小时前"
-    },
-    {
-      "id": "d5db4eca19b9",
-      "title": "As AI Becomes Part of Everyday Life, It Brings a Hidden Climate Cost",
-      "summary": "Marissa Loewen first started using artificial intelligence in 2014 as a project management tool. She has autism and ADHD and said it helped immensely with organizing her thoughts.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/business/articles/2025-08-22/as-ai-becomes-part-of-everyday-life-it-brings-a-hidden-climate-cost",
-      "publishedAt": "2025-08-22T13:01:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/df06517/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F7e%2Febf019dfde7ca7df5a8943e0098e05%2Fe985016e5f5147ea8746c1be021b79ebClimate_Choices-AI_Impact_83323.jpg",
-      "translated_title": "As AI Becomes Part of Everyday Life, It Brings a Hidden Climate Cost",
-      "translated_summary": "Marissa Loewen first started using artificial intelligence in 2014 as a project management tool. She has autism and ADHD and said it helped immensely with organizing her thoughts.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "22小时前"
+      "time": "23小时前"
     }
   ]
 }
