@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-23T15:20:45.916325",
+  "last_updated": "2025-08-23T16:25:29.870220",
   "total_count": 10,
   "articles": [
+    {
+      "id": "2c6b0f7235a1",
+      "title": "Credit Fuels the AI Boom - and Fears of a Bubble",
+      "summary": "Credit investors are pouring billions of dollars into artificial intelligence investments, just as industry executives and analysts are raising questions about whether the new technology is inflating another bubble.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-23/credit-fuels-the-ai-boom-and-fears-of-a-bubble-credit-weekly",
+      "publishedAt": "2025-08-23T15:33:16Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_ebe8YohGLI/v0/1200x800.jpg",
+      "translated_title": "Credit Fuels the AI Boom - and Fears of a Bubble",
+      "translated_summary": "Credit investors are pouring billions of dollars into artificial intelligence investments, just as industry executives and analysts are raising questions about whether the new technology is inflating another bubble.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "52分钟前"
+    },
     {
       "id": "5a14b547151c",
       "title": "Energy market realities poses hurdle for Trump’s coal revival",
@@ -14,7 +28,7 @@
       "translated_summary": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "d24478b66a23",
@@ -28,7 +42,7 @@
       "translated_summary": "Advanced Micro Devices (AMD) stock was up on Friday alongside news of an investment in artificial intelligence (AI) startup Somite.ai. AMD Ventu...",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "6192d387ac4a",
@@ -42,7 +56,7 @@
       "translated_summary": "Meta halted all hiring for its artificial intelligence division, reportedly even pausing movement between teams within the company.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
+      "time": "20小时前"
     },
     {
       "id": "3a57ca7caba4",
@@ -56,7 +70,7 @@
       "translated_summary": "The lawsuit, filed in an Illinois court on Friday, Aug. 1, alleges the company uses a form of artificial intelligence called “computer vision” to help mitigate theft by collecting data about customers’ facial geometry in violation of the state's Biometric Information Privacy Act",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "20小时前"
+      "time": "22小时前"
     },
     {
       "id": "797fd50e824a",
@@ -70,7 +84,7 @@
       "translated_summary": "Apple Inc. is in early discussions about using Google Gemini to power a revamped version of the Siri voice assistant, marking a key potential step toward outsourcing more of its artificial intelligence technology.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "22小时前"
+      "time": "23小时前"
     },
     {
       "id": "73a993c687ea",
@@ -124,20 +138,6 @@
       "image": "https://www.bostonherald.com/wp-content/uploads/2025/08/Climate_Choices-AI_Impact_83323-1.jpg?w=1024&h=682",
       "translated_title": "As AI becomes part of everyday life, it brings a hidden climate cost",
       "translated_summary": "Artificial Intelligence is likely here to say, so the AI experts have tips on how environmentally conscious users can minimize their impact..",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "ebb1dc07d9fc",
-      "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
-      "summary": "Marissa Loewen first started using artificial intelligence in 2014 as a project management tool. She has autism and ADHD and said it helped immensely with…",
-      "source": "WTOP",
-      "url": "https://wtop.com/national/2025/08/as-ai-becomes-part-of-everyday-life-it-brings-a-hidden-climate-cost/",
-      "publishedAt": "2025-08-22T13:05:01Z",
-      "image": "https://wtop.com/wp-content/uploads/2025/08/Climate_Choices-AI_Impact_83323.jpg",
-      "translated_title": "As AI becomes part of everyday life, it brings a hidden climate cost",
-      "translated_summary": "Marissa Loewen first started using artificial intelligence in 2014 as a project management tool. She has autism and ADHD and said it helped immensely with…",
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
