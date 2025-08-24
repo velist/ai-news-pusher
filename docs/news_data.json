@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-24T06:32:38.517072",
+  "last_updated": "2025-08-24T07:20:57.342816",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f96a8d08dc0c",
+      "title": "OpenAI CEO Sam Altman Says Parenthood Has 'Rewired' His Priorities And Approach To AI Development: 'Best, Most Amazing Thing Ever'",
+      "summary": "Sam Altman, CEO of OpenAI, shared how becoming a father has reshaped his perspective on artificial intelligence.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/25/08/47298642/openai-ceo-sam-altman-says-parenthood-has-rewired-his-priorities-and-approach-to-ai-development-best-most-amazing-thing-ever",
+      "publishedAt": "2025-08-24T07:00:53Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/24/Sam-Altman.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "OpenAI CEO Sam Altman Says Parenthood Has 'Rewired' His Priorities And Approach To AI Development: 'Best, Most Amazing Thing Ever'",
+      "translated_summary": "Sam Altman, CEO of OpenAI, shared how becoming a father has reshaped his perspective on artificial intelligence.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "20分钟前"
+    },
     {
       "id": "41e2446f2533",
       "title": "Musk Says XAI Open Sources Grok 2.5",
@@ -14,7 +28,7 @@
       "translated_summary": "On a social media post, Elon Musk said his artificial intelligence startup xAI has open-sourced its Grok 2.5 model and plans to do the same for its Grok 3 model in roughly six months.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "8a1fe5a0f866",
@@ -28,7 +42,7 @@
       "translated_summary": "Learn about the revolutionary changes brought by Artificial Intelligence (AI) and their effects on careers and businesses.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "2c6b0f7235a1",
@@ -42,7 +56,7 @@
       "translated_summary": "Credit investors are pouring billions of dollars into artificial intelligence investments, just as industry executives and analysts are raising questions about whether the new technology is inflating another bubble.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "5a14b547151c",
@@ -56,7 +70,7 @@
       "translated_summary": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "d24478b66a23",
@@ -126,20 +140,6 @@
       "translated_summary": "BBC AI innovator Danijela Horak joins Epidemic Sound as vp of artificial intelligence, Meta music's Dan Simpson boards DDEX and more music job news.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "430e3a147449",
-      "title": "Zoom Stock Soars as Firm Tops Estimates, Raises Outlook on AI Boom",
-      "summary": "Zoom Communications reported second-quarter results that topped estimates as the video conferencing software provider rode the artificial intelligence wave.",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/zoom-stock-soars-as-firm-tops-estimates-raises-outlook-on-ai-boom-11795788",
-      "publishedAt": "2025-08-22T13:53:07Z",
-      "image": "https://www.investopedia.com/thmb/11hIsoI8IHWaqstVs1kt-qWKNq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2230753568-4be7ace81b1442ddb76ba2f67e0b021a.jpg",
-      "translated_title": "Zoom Stock Soars as Firm Tops Estimates, Raises Outlook on AI Boom",
-      "translated_summary": "Zoom Communications reported second-quarter results that topped estimates as the video conferencing software provider rode the artificial intelligence wave.",
-      "category": "投资并购",
-      "category_icon": "💰",
       "time": "1天前"
     }
   ]
