@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-23T23:20:43.878939",
+  "last_updated": "2025-08-24T02:02:26.122884",
   "total_count": 10,
   "articles": [
+    {
+      "id": "8a1fe5a0f866",
+      "title": "A 2025 Assessment: The Emerging Artificial Intelligence Threat",
+      "summary": "Learn about the revolutionary changes brought by Artificial Intelligence (AI) and their effects on careers and businesses.",
+      "source": "Activist Post",
+      "url": "https://www.activistpost.com/a-2025-assessment-the-emerging-artificial-intelligence-threat/",
+      "publishedAt": "2025-08-24T01:00:00Z",
+      "image": "https://www.activistpost.com/wp-content/uploads/2025/08/terminator.jpg",
+      "translated_title": "A 2025 Assessment: The Emerging Artificial Intelligence Threat",
+      "translated_summary": "Learn about the revolutionary changes brought by Artificial Intelligence (AI) and their effects on careers and businesses.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "2c6b0f7235a1",
       "title": "Credit Fuels the AI Boom - and Fears of a Bubble",
@@ -14,7 +28,7 @@
       "translated_summary": "Credit investors are pouring billions of dollars into artificial intelligence investments, just as industry executives and analysts are raising questions about whether the new technology is inflating another bubble.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "7小时前"
+      "time": "10小时前"
     },
     {
       "id": "5a14b547151c",
@@ -28,7 +42,7 @@
       "translated_summary": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "14小时前"
     },
     {
       "id": "d24478b66a23",
@@ -42,7 +56,7 @@
       "translated_summary": "Advanced Micro Devices (AMD) stock was up on Friday alongside news of an investment in artificial intelligence (AI) startup Somite.ai. AMD Ventu...",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "20小时前"
+      "time": "23小时前"
     },
     {
       "id": "6192d387ac4a",
@@ -112,20 +126,6 @@
       "translated_summary": "Zoom Communications reported second-quarter results that topped estimates as the video conferencing software provider rode the artificial intelligence wave.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1天前"
-    },
-    {
-      "id": "b502d8e59018",
-      "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
-      "summary": "Artificial Intelligence is likely here to say, so the AI experts have tips on how environmentally conscious users can minimize their impact..",
-      "source": "Baltimore Sun",
-      "url": "https://www.baltimoresun.com/2025/08/22/ai-impact-climate-hidden-cost/",
-      "publishedAt": "2025-08-22T13:45:51Z",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Climate_Choices-AI_Impact_83323-1.jpg?w=1024&h=682",
-      "translated_title": "As AI becomes part of everyday life, it brings a hidden climate cost",
-      "translated_summary": "Artificial Intelligence is likely here to say, so the AI experts have tips on how environmentally conscious users can minimize their impact..",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "1天前"
     },
     {
