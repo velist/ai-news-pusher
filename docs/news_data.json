@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-24T20:24:08.785531",
+  "last_updated": "2025-08-24T21:19:48.633073",
   "total_count": 10,
   "articles": [
+    {
+      "id": "cd677bbe37e3",
+      "title": "Credit fuels the AI boom - and fears of a bubble",
+      "summary": "“Private credit funding of artificial intelligence is running at around $50 billion a quarter, at the low end, for the past three quarters.\"",
+      "source": "Fortune",
+      "url": "https://fortune.com/2025/08/24/private-credit-bonds-loans-debt-ai-boom-bubble/",
+      "publishedAt": "2025-08-24T20:38:02Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2218344193-e1756067429429.jpg?resize=1200,600",
+      "translated_title": "Credit fuels the AI boom - and fears of a bubble",
+      "translated_summary": "“Private credit funding of artificial intelligence is running at around $50 billion a quarter, at the low end, for the past three quarters.\"",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "41分钟前"
+    },
     {
       "id": "3a44ae2c658f",
       "title": "AI Is a Mirror in Which We See Our Own Reflection",
@@ -14,7 +28,7 @@
       "translated_summary": "Delve into the relationship between humans and Artificial Intelligence (AI) and the reflections of ourselves we may not want to see.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "5d098ad6ea6c",
@@ -28,7 +42,7 @@
       "translated_summary": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence. This emerging tech...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "cb65491b4d99",
@@ -42,7 +56,7 @@
       "translated_summary": "Traders are breathing easier heading into this week after Federal Reserve Chair Jerome Powell indicated that interest rate cuts are coming. The next test for the stock market will be a read on what’s been driving gains for the past few years: artificial intelligence euphoria.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "359c8dffd3fd",
@@ -56,7 +70,7 @@
       "translated_summary": "A new wave of delusional thinking fueled by artificial intelligence has researchers investigating the dark side of AI companionship",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "043574121e73",
@@ -70,7 +84,7 @@
       "translated_summary": "Artificial intelligence is ready to collaborate. Why fixate on automation?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "f96a8d08dc0c",
@@ -84,7 +98,7 @@
       "translated_summary": "Sam Altman, CEO of OpenAI, shared how becoming a father has reshaped his perspective on artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "41e2446f2533",
@@ -98,7 +112,7 @@
       "translated_summary": "On a social media post, Elon Musk said his artificial intelligence startup xAI has open-sourced its Grok 2.5 model and plans to do the same for its Grok 3 model in roughly six months.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "8a1fe5a0f866",
@@ -112,7 +126,7 @@
       "translated_summary": "Learn about the revolutionary changes brought by Artificial Intelligence (AI) and their effects on careers and businesses.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
+      "time": "20小时前"
     },
     {
       "id": "2c6b0f7235a1",
@@ -126,20 +140,6 @@
       "translated_summary": "Credit investors are pouring billions of dollars into artificial intelligence investments, just as industry executives and analysts are raising questions about whether the new technology is inflating another bubble.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1天前"
-    },
-    {
-      "id": "5a14b547151c",
-      "title": "Energy market realities poses hurdle for Trump’s coal revival",
-      "summary": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/news/3777474/energy-market-realities-poses-hurdle-trump-coal-revival/",
-      "publishedAt": "2025-08-23T12:00:00Z",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/08/AP25098745996827.jpg",
-      "translated_title": "Energy market realities poses hurdle for Trump’s coal revival",
-      "translated_summary": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "1天前"
     }
   ]
