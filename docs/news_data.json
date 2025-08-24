@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-24T12:44:03.907120",
+  "last_updated": "2025-08-24T13:28:19.745576",
   "total_count": 10,
   "articles": [
+    {
+      "id": "cb65491b4d99",
+      "title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally",
+      "summary": "Traders are breathing easier heading into this week after Federal Reserve Chair Jerome Powell indicated that interest rate cuts are coming. The next test for the stock market will be a read on what’s been driving gains for the past few years: artificial intelligence euphoria.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-24/nvidia-earnings-are-the-stock-market-risk-event-after-fed-rally",
+      "publishedAt": "2025-08-24T13:00:07Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIF0.T4cq1YM/v1/1200x800.jpg",
+      "translated_title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally",
+      "translated_summary": "Traders are breathing easier heading into this week after Federal Reserve Chair Jerome Powell indicated that interest rate cuts are coming. The next test for the stock market will be a read on what’s been driving gains for the past few years: artificial intelligence euphoria.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "28分钟前"
+    },
     {
       "id": "359c8dffd3fd",
       "title": "How AI Chatbots May Be Fueling Psychotic Episodes",
@@ -14,7 +28,7 @@
       "translated_summary": "A new wave of delusional thinking fueled by artificial intelligence has researchers investigating the dark side of AI companionship",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "043574121e73",
@@ -28,7 +42,7 @@
       "translated_summary": "Artificial intelligence is ready to collaborate. Why fixate on automation?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "f96a8d08dc0c",
@@ -42,7 +56,7 @@
       "translated_summary": "Sam Altman, CEO of OpenAI, shared how becoming a father has reshaped his perspective on artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "41e2446f2533",
@@ -70,7 +84,7 @@
       "translated_summary": "Learn about the revolutionary changes brought by Artificial Intelligence (AI) and their effects on careers and businesses.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "2c6b0f7235a1",
@@ -126,20 +140,6 @@
       "translated_summary": "Meta halted all hiring for its artificial intelligence division, reportedly even pausing movement between teams within the company.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "3a57ca7caba4",
-      "title": "Home Depot Hit with Lawsuit Over Allegations About Using Facial Recognition Technology",
-      "summary": "The lawsuit, filed in an Illinois court on Friday, Aug. 1, alleges the company uses a form of artificial intelligence called “computer vision” to help mitigate theft by collecting data about customers’ facial geometry in violation of the state's Biometric Information Privacy Act",
-      "source": "People.com",
-      "url": "https://people.com/the-home-depot-hit-with-lawsuit-over-allegations-facial-recognition-technology-11795671",
-      "publishedAt": "2025-08-22T18:21:26Z",
-      "image": "https://people.com/thmb/oS42WyIyQrjZG5Yqr1YnCv2Pkf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/home-depot-101323-1-e7458772b4ba4549a67da7210d213dee.jpg",
-      "translated_title": "Home Depot Hit with Lawsuit Over Allegations About Using Facial Recognition Technology",
-      "translated_summary": "The lawsuit, filed in an Illinois court on Friday, Aug. 1, alleges the company uses a form of artificial intelligence called “computer vision” to help mitigate theft by collecting data about customers’ facial geometry in violation of the state's Biometric Information Privacy Act",
-      "category": "技术突破",
-      "category_icon": "🚀",
       "time": "1天前"
     }
   ]
