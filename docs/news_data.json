@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-24T18:30:39.027896",
+  "last_updated": "2025-08-24T19:17:34.943323",
   "total_count": 10,
   "articles": [
+    {
+      "id": "3a44ae2c658f",
+      "title": "AI Is a Mirror in Which We See Our Own Reflection",
+      "summary": "Delve into the relationship between humans and Artificial Intelligence (AI) and the reflections of ourselves we may not want to see.",
+      "source": "Activist Post",
+      "url": "https://www.activistpost.com/ai-is-a-mirror-in-which-we-see-our-own-reflection/",
+      "publishedAt": "2025-08-24T19:00:00Z",
+      "image": "https://www.activistpost.com/wp-content/uploads/2025/08/robot-3010309_640.jpg",
+      "translated_title": "AI Is a Mirror in Which We See Our Own Reflection",
+      "translated_summary": "Delve into the relationship between humans and Artificial Intelligence (AI) and the reflections of ourselves we may not want to see.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "17分钟前"
+    },
     {
       "id": "cb65491b4d99",
       "title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally",
@@ -14,7 +28,7 @@
       "translated_summary": "Traders are breathing easier heading into this week after Federal Reserve Chair Jerome Powell indicated that interest rate cuts are coming. The next test for the stock market will be a read on what’s been driving gains for the past few years: artificial intelligence euphoria.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "359c8dffd3fd",
@@ -28,7 +42,7 @@
       "translated_summary": "A new wave of delusional thinking fueled by artificial intelligence has researchers investigating the dark side of AI companionship",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "043574121e73",
@@ -42,7 +56,7 @@
       "translated_summary": "Artificial intelligence is ready to collaborate. Why fixate on automation?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "f96a8d08dc0c",
@@ -56,7 +70,7 @@
       "translated_summary": "Sam Altman, CEO of OpenAI, shared how becoming a father has reshaped his perspective on artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "41e2446f2533",
@@ -70,7 +84,7 @@
       "translated_summary": "On a social media post, Elon Musk said his artificial intelligence startup xAI has open-sourced its Grok 2.5 model and plans to do the same for its Grok 3 model in roughly six months.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "8a1fe5a0f866",
@@ -84,7 +98,7 @@
       "translated_summary": "Learn about the revolutionary changes brought by Artificial Intelligence (AI) and their effects on careers and businesses.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "2c6b0f7235a1",
@@ -126,20 +140,6 @@
       "translated_summary": "Advanced Micro Devices (AMD) stock was up on Friday alongside news of an investment in artificial intelligence (AI) startup Somite.ai. AMD Ventu...",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1天前"
-    },
-    {
-      "id": "6192d387ac4a",
-      "title": "Meta freezes AI hiring, even as boom continues",
-      "summary": "Meta halted all hiring for its artificial intelligence division, reportedly even pausing movement between teams within the company.",
-      "source": "SFGATE",
-      "url": "https://www.sfgate.com/tech/article/meta-freezes-ai-hiring-20881530.php",
-      "publishedAt": "2025-08-22T19:43:23Z",
-      "image": "https://s.hdnux.com/photos/01/54/26/47/28404187/3/rawImage.jpg",
-      "translated_title": "Meta freezes AI hiring, even as boom continues",
-      "translated_summary": "Meta halted all hiring for its artificial intelligence division, reportedly even pausing movement between teams within the company.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "1天前"
     }
   ]
