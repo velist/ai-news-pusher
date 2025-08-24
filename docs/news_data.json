@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-24T02:02:26.122884",
+  "last_updated": "2025-08-24T03:49:22.928480",
   "total_count": 10,
   "articles": [
+    {
+      "id": "41e2446f2533",
+      "title": "Musk Says XAI Open Sources Grok 2.5",
+      "summary": "On a social media post, Elon Musk said his artificial intelligence startup xAI has open-sourced its Grok 2.5 model and plans to do the same for its Grok 3 model in roughly six months.",
+      "source": "Newsmax",
+      "url": "https://www.newsmax.com/politics/elon-musk-grok-open-source/2025/08/23/id/1223690/",
+      "publishedAt": "2025-08-24T02:39:40Z",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=1b0e323b-2177-4406-9fc6-c3b52bafd4bb&SiteName=Newsmax",
+      "translated_title": "Musk Says XAI Open Sources Grok 2.5",
+      "translated_summary": "On a social media post, Elon Musk said his artificial intelligence startup xAI has open-sourced its Grok 2.5 model and plans to do the same for its Grok 3 model in roughly six months.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "1小时前"
+    },
     {
       "id": "8a1fe5a0f866",
       "title": "A 2025 Assessment: The Emerging Artificial Intelligence Threat",
@@ -14,7 +28,7 @@
       "translated_summary": "Learn about the revolutionary changes brought by Artificial Intelligence (AI) and their effects on careers and businesses.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "2c6b0f7235a1",
@@ -28,7 +42,7 @@
       "translated_summary": "Credit investors are pouring billions of dollars into artificial intelligence investments, just as industry executives and analysts are raising questions about whether the new technology is inflating another bubble.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "10小时前"
+      "time": "12小时前"
     },
     {
       "id": "5a14b547151c",
@@ -42,7 +56,7 @@
       "translated_summary": "Some argue that coal is needed to meet growing energy demand, which is increasing due to the rise of databases and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "d24478b66a23",
@@ -56,7 +70,7 @@
       "translated_summary": "Advanced Micro Devices (AMD) stock was up on Friday alongside news of an investment in artificial intelligence (AI) startup Somite.ai. AMD Ventu...",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "23小时前"
+      "time": "1天前"
     },
     {
       "id": "6192d387ac4a",
@@ -126,20 +140,6 @@
       "translated_summary": "Zoom Communications reported second-quarter results that topped estimates as the video conferencing software provider rode the artificial intelligence wave.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1天前"
-    },
-    {
-      "id": "ab37f0366d23",
-      "title": "As AI becomes part of everyday life, it brings a hidden climate cost",
-      "summary": "Artificial Intelligence is likely here to say, so the AI experts have tips on how environmentally conscious users can minimize their impact..",
-      "source": "The Boston Herald",
-      "url": "https://www.bostonherald.com/2025/08/22/ai-impact-climate-hidden-cost/",
-      "publishedAt": "2025-08-22T13:45:51Z",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2025/08/Climate_Choices-AI_Impact_83323-1.jpg?w=1024&h=682",
-      "translated_title": "As AI becomes part of everyday life, it brings a hidden climate cost",
-      "translated_summary": "Artificial Intelligence is likely here to say, so the AI experts have tips on how environmentally conscious users can minimize their impact..",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "1天前"
     }
   ]
