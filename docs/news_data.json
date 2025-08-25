@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-25T16:30:09.987767",
+  "last_updated": "2025-08-25T17:19:03.913157",
   "total_count": 10,
   "articles": [
+    {
+      "id": "1894ba5ed61a",
+      "title": "Elon Musk and xAI are suing Apple and OpenAI because Grok isn't topping the app charts",
+      "summary": "Elon Musk's xAI startup has sued Apple and OpenAI. The suit accuses the pair of conspiring to thwart competition for artificial intelligence platforms.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/elon-musk-and-xai-are-suing-apple-and-openai-because-grok-isnt-topping-the-app-charts-170020376.html",
+      "publishedAt": "2025-08-25T17:00:20Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/A6HDKk6KRflO41leHT7Z8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/518bab90-6ed6-11f0-bff8-fa7161562c68",
+      "translated_title": "Elon Musk and xAI are suing Apple and OpenAI because Grok isn't topping the app charts",
+      "translated_summary": "Elon Musk's xAI startup has sued Apple and OpenAI. The suit accuses the pair of conspiring to thwart competition for artificial intelligence platforms.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "18分钟前"
+    },
+    {
+      "id": "241fb07f962b",
+      "title": "Elon Musk’s xAI Sues Apple Over Claims It Favors OpenAI",
+      "summary": "Mr. Musk’s artificial intelligence company, xAI, claimed that its Grok chatbot app was being artificially suppressed in Apple’s App Store.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/25/technology/xai-sues-apple.html",
+      "publishedAt": "2025-08-25T16:27:13Z",
+      "image": "https://static01.nyt.com/images/2025/08/25/multimedia/25biz-musk-suit-ftkj/25biz-musk-suit-ftkj-facebookJumbo.jpg",
+      "translated_title": "Elon Musk’s xAI Sues Apple Over Claims It Favors OpenAI",
+      "translated_summary": "Mr. Musk’s artificial intelligence company, xAI, claimed that its Grok chatbot app was being artificially suppressed in Apple’s App Store.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "51分钟前"
+    },
     {
       "id": "67078d9f7705",
       "title": "Elon Musk’s xAI sues Apple and OpenAI over AI competition, App Store rankings",
@@ -14,7 +42,7 @@
       "translated_summary": "Billionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple (AAPL) and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "29分钟前"
+      "time": "1小时前"
     },
     {
       "id": "752e8390dce3",
@@ -28,7 +56,7 @@
       "translated_summary": "Billionaire Elon Musk filed a bombshell lawsuit against Apple and Sam Altman’s OpenAI on Monday, accusing the two tech giants of illegally colluding to stifle xAI and other artificial intelligence rivals.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "38分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c9fa6487c638",
@@ -42,7 +70,7 @@
       "translated_summary": "Billionaire entrepreneur Elon Musk's artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "49分钟前"
+      "time": "1小时前"
     },
     {
       "id": "da62029d82ea",
@@ -70,7 +98,7 @@
       "translated_summary": "Billionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d2478f52e122",
@@ -84,7 +112,7 @@
       "translated_summary": "Humain, Saudi Arabia’s leading artificial intelligence company, has launched a conversational AI app for Arabs and Muslims as the kingdom seeks regional leadership in the technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "24954246f58a",
@@ -98,7 +126,7 @@
       "translated_summary": "I tried using artificial intelligence to help me negotiate utility bills and bank fees.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "694d49cd75e8",
@@ -112,35 +140,7 @@
       "translated_summary": "While universities contemplate artificial intelligence use in the classroom, they are relying on the technology to cut down on operating costs and recoup staff’s time.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
-    },
-    {
-      "id": "900b653e4db4",
-      "title": "How Inc. 5000 Companies Are Using AI for Sales",
-      "summary": "The CEOs at America's fastest-growing small businesses are overwhelmingly enthusiastic about artificial intelligence.",
-      "source": "Inc. Magazine",
-      "url": "https://www.inc.com/brian-contreras/inc-5000-companies-ceo-survey-ai-marketing-sales/91222812",
-      "publishedAt": "2025-08-25T10:00:00Z",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/08/inc-2025-ceo-survey-sales-ai.jpg",
-      "translated_title": "How Inc. 5000 Companies Are Using AI for Sales",
-      "translated_summary": "The CEOs at America's fastest-growing small businesses are overwhelmingly enthusiastic about artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "5bbfab9db575",
-      "title": "This Bank Fired Workers and Replaced Them With AI. It Now Says That Was a Huge Mistake",
-      "summary": "Turns out, artificial intelligence may not always be as adept as some companies hope.",
-      "source": "Inc. Magazine",
-      "url": "https://www.inc.com/chris-morris/this-bank-fired-workers-and-replaced-them-with-ai-it-now-says-that-was-a-huge-mistake/91230597",
-      "publishedAt": "2025-08-25T10:00:00Z",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/08/bank-ai-replacement-inc-1765669354.jpg",
-      "translated_title": "This Bank Fired Workers and Replaced Them With AI. It Now Says That Was a Huge Mistake",
-      "translated_summary": "Turns out, artificial intelligence may not always be as adept as some companies hope.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     }
   ]
 }
