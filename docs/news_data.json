@@ -1,7 +1,63 @@
 {
-  "last_updated": "2025-08-25T15:25:39.211250",
+  "last_updated": "2025-08-25T16:30:09.987767",
   "total_count": 10,
   "articles": [
+    {
+      "id": "67078d9f7705",
+      "title": "Elon Musk’s xAI sues Apple and OpenAI over AI competition, App Store rankings",
+      "summary": "Billionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple (AAPL) and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
+      "source": "Cable News Network",
+      "url": "https://edition.cnn.com/2025/08/25/tech/elon-musk-xai-apple-openai-lawsuit-app-store-rankings",
+      "publishedAt": "2025-08-25T16:00:49Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2216312549-20250701190436976.jpg?c=16x9&q=w_800,c_fill",
+      "translated_title": "Elon Musk’s xAI sues Apple and OpenAI over AI competition, App Store rankings",
+      "translated_summary": "Billionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple (AAPL) and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "29分钟前"
+    },
+    {
+      "id": "752e8390dce3",
+      "title": "Elon Musk sues Apple, Sam Altman's OpenAI for allegedly colluding to crush xAI",
+      "summary": "Billionaire Elon Musk filed a bombshell lawsuit against Apple and Sam Altman’s OpenAI on Monday, accusing the two tech giants of illegally colluding to stifle xAI and other artificial intelligence rivals.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/25/business/elon-musk-sues-apple-sam-altmans-openai-for-allegedly-colluding-to-crush-xai/",
+      "publishedAt": "2025-08-25T15:51:53Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/110062304.jpg?quality=75&strip=all&w=1024",
+      "translated_title": "Elon Musk sues Apple, Sam Altman's OpenAI for allegedly colluding to crush xAI",
+      "translated_summary": "Billionaire Elon Musk filed a bombshell lawsuit against Apple and Sam Altman’s OpenAI on Monday, accusing the two tech giants of illegally colluding to stifle xAI and other artificial intelligence rivals.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "38分钟前"
+    },
+    {
+      "id": "c9fa6487c638",
+      "title": "Elon Musk's xAI Sues Apple, OpenAI Over AI Competition, App Store Rankings",
+      "summary": "Billionaire entrepreneur Elon Musk's artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
+      "source": "Newsmax",
+      "url": "https://www.newsmax.com/finance/streettalk/elon-musk-xai-apple/2025/08/25/id/1223826/",
+      "publishedAt": "2025-08-25T15:40:52Z",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=7808256b-a029-4fb4-a5d4-66dba3c4a4ff&SiteName=Newsmax",
+      "translated_title": "Elon Musk's xAI Sues Apple, OpenAI Over AI Competition, App Store Rankings",
+      "translated_summary": "Billionaire entrepreneur Elon Musk's artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "49分钟前"
+    },
+    {
+      "id": "da62029d82ea",
+      "title": "Elon Musk’s xAI sues Apple and OpenAI, accuses them of conspiring to block AI competition",
+      "summary": "Elon Musk has taken his fight with Apple and OpenAI into the courtroom. On Monday, Musk’s AI startup xAI filed a lawsuit in a U.S. federal court in Texas, accusing the two companies of illegally conspiring to shut out competition in artificial intelligence, Reuters reported. The lawsuit caps weeks of tension that Musk has been",
+      "source": "TechStartups.com",
+      "url": "https://techstartups.com/2025/08/25/elon-musks-xai-sues-apple-and-openai-accuses-them-of-conspiring-to-block-ai-competition/",
+      "publishedAt": "2025-08-25T15:22:41Z",
+      "image": "https://techstartups.com/wp-content/uploads/2025/08/Musk-Musk.jpg",
+      "translated_title": "Elon Musk’s xAI sues Apple and OpenAI, accuses them of conspiring to block AI competition",
+      "translated_summary": "Elon Musk has taken his fight with Apple and OpenAI into the courtroom. On Monday, Musk’s AI startup xAI filed a lawsuit in a U.S. federal court in Texas, accusing the two companies of illegally conspiring to shut out competition in artificial intelligence, Reuters reported. The lawsuit caps weeks of tension that Musk has been",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "04b0962d4d38",
       "title": "Elon Musk's xAI sues Apple and OpenAI over AI competition, App Store rankings",
@@ -14,7 +70,7 @@
       "translated_summary": "Billionaire entrepreneur Elon Musk’s artificial intelligence startup xAI sued Apple and ChatGPT maker OpenAI in U.S. federal court in Texas on Monday, accusing them of illegally conspiring to thwart competition for artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "27分钟前"
+      "time": "1小时前"
     },
     {
       "id": "d2478f52e122",
@@ -28,7 +84,7 @@
       "translated_summary": "Humain, Saudi Arabia’s leading artificial intelligence company, has launched a conversational AI app for Arabs and Muslims as the kingdom seeks regional leadership in the technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "24954246f58a",
@@ -42,7 +98,7 @@
       "translated_summary": "I tried using artificial intelligence to help me negotiate utility bills and bank fees.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "694d49cd75e8",
@@ -56,7 +112,7 @@
       "translated_summary": "While universities contemplate artificial intelligence use in the classroom, they are relying on the technology to cut down on operating costs and recoup staff’s time.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "900b653e4db4",
@@ -70,7 +126,7 @@
       "translated_summary": "The CEOs at America's fastest-growing small businesses are overwhelmingly enthusiastic about artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "5bbfab9db575",
@@ -84,63 +140,7 @@
       "translated_summary": "Turns out, artificial intelligence may not always be as adept as some companies hope.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "c40dd420236a",
-      "title": "URI professor developing AI-driven robotics for people with disabilities",
-      "summary": "Reza Abiri is working to restore some independence for stroke survivors and people with physical disabilities through artificial intelligence and robotics.",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/08/25/metro/uri-professor-ai-driven-brain-machine-interfaces/",
-      "publishedAt": "2025-08-25T09:55:00Z",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/6DFXAAG6UZCOHFF7CQMA4OVJHU.jpg?auth=37e19b5d179e191a0c4a09dac16b9fe6b49186195961b31d4bd4c3ab5351fa87&width=1440",
-      "translated_title": "URI professor developing AI-driven robotics for people with disabilities",
-      "translated_summary": "Reza Abiri is working to restore some independence for stroke survivors and people with physical disabilities through artificial intelligence and robotics.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "0167dba92961",
-      "title": "Software shares are in the doldrums. Blame AI",
-      "summary": "Tech companies are giving the world artificial intelligence — but ironically, the tech sector itself is among those now feeling the most pain from AI.",
-      "source": "Cable News Network",
-      "url": "https://edition.cnn.com/2025/08/25/markets/software-shares-ai-stock",
-      "publishedAt": "2025-08-25T09:00:43Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2228888923.jpg?c=16x9&q=w_800,c_fill",
-      "translated_title": "Software shares are in the doldrums. Blame AI",
-      "translated_summary": "Tech companies are giving the world artificial intelligence — but ironically, the tech sector itself is among those now feeling the most pain from AI.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "6小时前"
-    },
-    {
-      "id": "5be0461319fe",
-      "title": "The AI Doomers Are Having Their Moment",
-      "summary": "OpenAI and other AI companies have attracted billions in the race to develop artificial general intelligence. It might be further away then we think.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/limits-large-language-models-chatgpt-agi-artificial-general-intelligence-openai-2025-8",
-      "publishedAt": "2025-08-25T08:01:02Z",
-      "image": "https://i.insider.com/68ab9300a17a8c5b40536165?width=1200&format=jpeg",
-      "translated_title": "The AI Doomers Are Having Their Moment",
-      "translated_summary": "OpenAI and other AI companies have attracted billions in the race to develop artificial general intelligence. It might be further away then we think.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
-    },
-    {
-      "id": "12327e1d1729",
-      "title": "Promising Artificial Intelligence Stocks To Research - August 22nd",
-      "summary": "Read Promising Artificial Intelligence Stocks To Research – August 22nd at ETF Daily News",
-      "source": "ETF Daily News",
-      "url": "https://www.etfdailynews.com/2025/08/25/promising-artificial-intelligence-stocks-to-research-august-22nd/",
-      "publishedAt": "2025-08-25T04:29:04Z",
-      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/tempus-ai-inc-logo-1200x675.png?v=20250520082054&w=240&h=240&zc=2",
-      "translated_title": "Promising Artificial Intelligence Stocks To Research - August 22nd",
-      "translated_summary": "Read Promising Artificial Intelligence Stocks To Research – August 22nd at ETF Daily News",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "10小时前"
     }
   ]
 }
