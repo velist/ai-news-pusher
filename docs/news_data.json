@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-25T12:50:20.708659",
+  "last_updated": "2025-08-25T13:33:22.716470",
   "total_count": 10,
   "articles": [
+    {
+      "id": "d2478f52e122",
+      "title": "Saudi’s Humain Launches Arabic Chatbot With ‘Islamic’ Values",
+      "summary": "Humain, Saudi Arabia’s leading artificial intelligence company, has launched a conversational AI app for Arabs and Muslims as the kingdom seeks regional leadership in the technology.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-25/saudi-s-humain-launches-arabic-chatbot-with-islamic-values",
+      "publishedAt": "2025-08-25T12:44:58Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijbeV5_3Udy8/v1/1200x800.jpg",
+      "translated_title": "Saudi’s Humain Launches Arabic Chatbot With ‘Islamic’ Values",
+      "translated_summary": "Humain, Saudi Arabia’s leading artificial intelligence company, has launched a conversational AI app for Arabs and Muslims as the kingdom seeks regional leadership in the technology.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "48分钟前"
+    },
     {
       "id": "24954246f58a",
       "title": "Can ChatGPT Help With Bill Negotiations? We Put It to the Test",
@@ -14,7 +28,7 @@
       "translated_summary": "I tried using artificial intelligence to help me negotiate utility bills and bank fees.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "35分钟前"
+      "time": "1小时前"
     },
     {
       "id": "694d49cd75e8",
@@ -28,7 +42,7 @@
       "translated_summary": "While universities contemplate artificial intelligence use in the classroom, they are relying on the technology to cut down on operating costs and recoup staff’s time.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "900b653e4db4",
@@ -42,7 +56,7 @@
       "translated_summary": "The CEOs at America's fastest-growing small businesses are overwhelmingly enthusiastic about artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "5bbfab9db575",
@@ -56,7 +70,7 @@
       "translated_summary": "Turns out, artificial intelligence may not always be as adept as some companies hope.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "c40dd420236a",
@@ -70,7 +84,7 @@
       "translated_summary": "Reza Abiri is working to restore some independence for stroke survivors and people with physical disabilities through artificial intelligence and robotics.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "0167dba92961",
@@ -84,7 +98,7 @@
       "translated_summary": "Tech companies are giving the world artificial intelligence — but ironically, the tech sector itself is among those now feeling the most pain from AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "5be0461319fe",
@@ -98,7 +112,7 @@
       "translated_summary": "OpenAI and other AI companies have attracted billions in the race to develop artificial general intelligence. It might be further away then we think.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "12327e1d1729",
@@ -112,7 +126,7 @@
       "translated_summary": "Read Promising Artificial Intelligence Stocks To Research – August 22nd at ETF Daily News",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "c6cfc9e249f5",
@@ -126,20 +140,6 @@
       "translated_summary": "Furthermore, the company's strategic investments in artificial intelligence, through offerings such as Snowflake Cortex...",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "12小时前"
-    },
-    {
-      "id": "3a66a1498e37",
-      "title": "Asia-Pacific markets set to track Wall Street gains on potential Fed rate cut",
-      "summary": "U.S. equity futures were little changed in early Asia hours, as investors await artificial intelligence darling Nvidia's earnings.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/25/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
-      "publishedAt": "2025-08-24T23:42:37Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108186941-1755473024131-gettyimages-1285613821-034.jpeg?v=1755473034&w=1920&h=1080",
-      "translated_title": "Asia-Pacific markets set to track Wall Street gains on potential Fed rate cut",
-      "translated_summary": "U.S. equity futures were little changed in early Asia hours, as investors await artificial intelligence darling Nvidia's earnings.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "13小时前"
     }
   ]
