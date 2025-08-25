@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-24T23:20:44.435269",
+  "last_updated": "2025-08-25T01:56:49.305223",
   "total_count": 10,
   "articles": [
+    {
+      "id": "3a66a1498e37",
+      "title": "Asia-Pacific markets set to track Wall Street gains on potential Fed rate cut",
+      "summary": "U.S. equity futures were little changed in early Asia hours, as investors await artificial intelligence darling Nvidia's earnings.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/25/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+      "publishedAt": "2025-08-24T23:42:37Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108186941-1755473024131-gettyimages-1285613821-034.jpeg?v=1755473034&w=1920&h=1080",
+      "translated_title": "Asia-Pacific markets set to track Wall Street gains on potential Fed rate cut",
+      "translated_summary": "U.S. equity futures were little changed in early Asia hours, as investors await artificial intelligence darling Nvidia's earnings.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
+    },
     {
       "id": "cd677bbe37e3",
       "title": "Credit fuels the AI boom - and fears of a bubble",
@@ -14,7 +28,21 @@
       "translated_summary": "“Private credit funding of artificial intelligence is running at around $50 billion a quarter, at the low end, for the past three quarters.\"",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "5小时前"
+    },
+    {
+      "id": "39b137c2067e",
+      "title": "PLTR vs. SOUN vs. BBAI: Which AI Stock Could Deliver the Highest Upside, According to Wall Street?",
+      "summary": "The buzz around generative artificial intelligence (AI) since the launch of OpenAI’s ChatGPT has boosted interest in AI stocks. However, investo...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/pltr-vs-soun-vs-bbai-which-ai-stock-could-deliver-the-highest-upside-according-to-wall-street-1035069488",
+      "publishedAt": "2025-08-24T19:14:13Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/AI-stocks.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "PLTR vs. SOUN vs. BBAI: Which AI Stock Could Deliver the Highest Upside, According to Wall Street?",
+      "translated_summary": "The buzz around generative artificial intelligence (AI) since the launch of OpenAI’s ChatGPT has boosted interest in AI stocks. However, investo...",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "6小时前"
     },
     {
       "id": "3a44ae2c658f",
@@ -28,7 +56,7 @@
       "translated_summary": "Delve into the relationship between humans and Artificial Intelligence (AI) and the reflections of ourselves we may not want to see.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "5d098ad6ea6c",
@@ -42,7 +70,7 @@
       "translated_summary": "Quantum computing, though still in its early stages, is expected to be the next big revolution after artificial intelligence. This emerging tech...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "12小时前"
     },
     {
       "id": "cb65491b4d99",
@@ -56,7 +84,7 @@
       "translated_summary": "Traders are breathing easier heading into this week after Federal Reserve Chair Jerome Powell indicated that interest rate cuts are coming. The next test for the stock market will be a read on what’s been driving gains for the past few years: artificial intelligence euphoria.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "12小时前"
     },
     {
       "id": "359c8dffd3fd",
@@ -70,7 +98,7 @@
       "translated_summary": "A new wave of delusional thinking fueled by artificial intelligence has researchers investigating the dark side of AI companionship",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "12小时前"
+      "time": "14小时前"
     },
     {
       "id": "043574121e73",
@@ -84,7 +112,7 @@
       "translated_summary": "Artificial intelligence is ready to collaborate. Why fixate on automation?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "14小时前"
     },
     {
       "id": "f96a8d08dc0c",
@@ -98,7 +126,7 @@
       "translated_summary": "Sam Altman, CEO of OpenAI, shared how becoming a father has reshaped his perspective on artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "16小时前"
+      "time": "18小时前"
     },
     {
       "id": "41e2446f2533",
@@ -112,34 +140,6 @@
       "translated_summary": "On a social media post, Elon Musk said his artificial intelligence startup xAI has open-sourced its Grok 2.5 model and plans to do the same for its Grok 3 model in roughly six months.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "20小时前"
-    },
-    {
-      "id": "8a1fe5a0f866",
-      "title": "A 2025 Assessment: The Emerging Artificial Intelligence Threat",
-      "summary": "Learn about the revolutionary changes brought by Artificial Intelligence (AI) and their effects on careers and businesses.",
-      "source": "Activist Post",
-      "url": "https://www.activistpost.com/a-2025-assessment-the-emerging-artificial-intelligence-threat/",
-      "publishedAt": "2025-08-24T01:00:00Z",
-      "image": "https://www.activistpost.com/wp-content/uploads/2025/08/terminator.jpg",
-      "translated_title": "A 2025 Assessment: The Emerging Artificial Intelligence Threat",
-      "translated_summary": "Learn about the revolutionary changes brought by Artificial Intelligence (AI) and their effects on careers and businesses.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "22小时前"
-    },
-    {
-      "id": "1cb7043ef185",
-      "title": "Elon Musk’s AI Mothership Signals the Next Wave of",
-      "summary": "In a newly surfaced presentation, James Altucher outlines Musk’s latest artificial intelligence push — and why its scale could reshape the future....",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2025/08/24/3138174/0/en/Elon-Musk-s-AI-Mothership-Signals-the-Next-Wave-of-Superintelligence.html",
-      "publishedAt": "2025-08-24T00:00:00Z",
-      "image": "https://www.globenewswire.com/Content/logo/favicon.ico",
-      "translated_title": "Elon Musk’s AI Mothership Signals the Next Wave of",
-      "translated_summary": "In a newly surfaced presentation, James Altucher outlines Musk’s latest artificial intelligence push — and why its scale could reshape the future....",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "23小时前"
     }
   ]
