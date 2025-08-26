@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-26T21:19:58.328450",
+  "last_updated": "2025-08-26T22:21:06.965799",
   "total_count": 10,
   "articles": [
+    {
+      "id": "310cd04b7283",
+      "title": "Okta raises annual forecasts on surging cybersecurity tools demand",
+      "summary": "Cybersecurity company Okta raised annual revenue and profit forecasts on Tuesday, betting on growing demand for its identity verification tools as enterprises strengthen defenses against artificial intelligence-powered attacks.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/okta-raises-annual-forecasts-surging-cybersecurity-tools-demand-2025-08-26/",
+      "publishedAt": "2025-08-26T22:01:50Z",
+      "image": "https://www.reuters.com/resizer/v2/QIKYZPRZM5ORJKCZKMUMPOU3NU.jpg?auth=13d34fe84e589077745e36997527e178b7530b605d00eee2ea3d68ffb87caf4b&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Okta raises annual forecasts on surging cybersecurity tools demand",
+      "translated_summary": "Cybersecurity company Okta raised annual revenue and profit forecasts on Tuesday, betting on growing demand for its identity verification tools as enterprises strengthen defenses against artificial intelligence-powered attacks.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "19分钟前"
+    },
+    {
+      "id": "bda33ada9b9a",
+      "title": "First lady Melania Trump launches AI challenge",
+      "summary": "First lady Melania Trump on Tuesday announced an artificial intelligence contest for K-12 students nationwide.",
+      "source": "MSNBC",
+      "url": "https://www.msnbc.com/top-stories/latest/melania-trump-ai-challenge-artificial-intelligence-rcna227332",
+      "publishedAt": "2025-08-26T21:46:22Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250527-melania-trump-vl-216p-da87df.jpg",
+      "translated_title": "First lady Melania Trump launches AI challenge",
+      "translated_summary": "First lady Melania Trump on Tuesday announced an artificial intelligence contest for K-12 students nationwide.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "34分钟前"
+    },
     {
       "id": "499ca139b342",
       "title": "Meta launches new California PAC to back pro-AI political candidates",
@@ -14,7 +42,7 @@
       "translated_summary": "Meta launched a new Super PAC in California to support political candidates who back pro-artificial intelligence policies and oppose strict regulation.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15分钟前"
+      "time": "1小时前"
     },
     {
       "id": "6ae7638e6e3b",
@@ -28,7 +56,7 @@
       "translated_summary": "The move means the company will avoid a potentially more costly ruling if the case regarding its use of copyright materials to train artificial intelligence tools had moved forward.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16分钟前"
+      "time": "1小时前"
     },
     {
       "id": "118a945fa2b8",
@@ -42,7 +70,7 @@
       "translated_summary": "A report out of MIT last week claimed that 95 percent of companies had wasted money with failed projects relying on generative artificial intelligence apps. Someone should have read the fine print.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "f15de851a524",
@@ -56,7 +84,7 @@
       "translated_summary": "Google has improved the image editing features of the Gemini artificial intelligence-powered chatbot via a major update. Read more...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "5b4bb28877ba",
@@ -70,7 +98,7 @@
       "translated_summary": "Tech executives express mixed views on the future impact of artificial intelligence, with concerns about job displacement balanced against potential benefits for society.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "36acb467b85c",
@@ -84,7 +112,7 @@
       "translated_summary": "The parents of a teen who died by suicide after ChatGPT coached him on methods of self harm sued OpenAI and CEO Sam Altman on Tuesday, saying the company knowingly put profit above safety when it launched the GPT-4o version of its artificial intelligence chatbot last year.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "d4eed9b439bb",
@@ -98,7 +126,7 @@
       "translated_summary": "Artificial intelligence company Anthropic said in a court filing on Tuesday it had settled a class action lawsuit from a group of U.S. authors who argued the company's AI training infringed their copyrights.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "396fbdb8dcff",
@@ -112,35 +140,7 @@
       "translated_summary": "Elon Musk's xAI sued Apple and OpenAI in federal court, alleging the companies conspired to prevent competition in the market for artificial intelligence tools.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
-    },
-    {
-      "id": "e190082db9c5",
-      "title": "Melania Trump announces K-12 school AI challenge",
-      "summary": "First lady Melania Trump announced a new Presidential Artificial Intelligence Challenge Tuesday, inviting K-12 students and educators to participate.",
-      "source": "UPI News",
-      "url": "https://www.upi.com/Top_News/US/2025/08/26/melania-trump-announces-ai-challenge/3221756222034/",
-      "publishedAt": "2025-08-26T17:06:52Z",
-      "image": "https://cdnph.upi.com/sv/ph/og/upi/3221756222034/2025/1/8fcc519320938d94a5b60a0459a59942/v1.5/Melania-Trump-announces-K-12-school-AI-challenge.jpg",
-      "translated_title": "Melania Trump announces K-12 school AI challenge",
-      "translated_summary": "First lady Melania Trump announced a new Presidential Artificial Intelligence Challenge Tuesday, inviting K-12 students and educators to participate.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "a67d2058580b",
-      "title": "Nvidia CEO Jensen Huang Was Dubbed 'Godfather of AI.' The Company Is Betting On These AI Stocks",
-      "summary": "Nvidia, the chipmaking giant at the center of the artificial intelligence revolution, has AI stock bets of its own. Here's where its putting its money.",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/nvidia-ceo-jensen-huang-was-dubbed-godfather-of-ai-the-company-is-betting-on-these-ai-stocks-11796190",
-      "publishedAt": "2025-08-26T17:06:12Z",
-      "image": "https://www.investopedia.com/thmb/FuuIc5WvpepMC_zNk24aBJUjkUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2225512564-f46c4f3396784c859890eb26e72a75dd.jpg",
-      "translated_title": "Nvidia CEO Jensen Huang Was Dubbed 'Godfather of AI.' The Company Is Betting On These AI Stocks",
-      "translated_summary": "Nvidia, the chipmaking giant at the center of the artificial intelligence revolution, has AI stock bets of its own. Here's where its putting its money.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     }
   ]
 }
