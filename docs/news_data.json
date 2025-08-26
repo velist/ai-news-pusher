@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-26T09:25:55.293094",
+  "last_updated": "2025-08-26T10:25:39.697625",
   "total_count": 10,
   "articles": [
+    {
+      "id": "ed10af0d7374",
+      "title": "Where Are the Moral Guardrails on Artificial Intelligence? | Opinion",
+      "summary": "Artificial intelligence has been caught doing all these illegal activities. Let's review the evidence.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/where-are-moral-guardrails-artificial-intelligence-opinion-2117164",
+      "publishedAt": "2025-08-26T10:00:01Z",
+      "image": "https://d.newsweek.com/en/full/2709264/boy-using-phone.jpg",
+      "translated_title": "Where Are the Moral Guardrails on Artificial Intelligence? | Opinion",
+      "translated_summary": "Artificial intelligence has been caught doing all these illegal activities. Let's review the evidence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "25分钟前"
+    },
     {
       "id": "d91e213e554f",
       "title": "Study says AI chatbots inconsistent in handling suicide-related queries",
@@ -14,7 +28,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d445373ab471",
@@ -28,7 +42,7 @@
       "translated_summary": "Artificial intelligence is making it harder for entry-level workers in the US to find jobs in fields like software development and customer service, according to new research.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "d0d2f52e3605",
@@ -42,7 +56,7 @@
       "translated_summary": "\"Just because a workflow is being disrupted does not mean we should be locked into the status quo,\" writes one reader. Another: \"Today’s thought leaders need to be cognizant that they are entering uncharted waters.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "697e6de30d3a",
@@ -56,7 +70,7 @@
       "translated_summary": "The US Attorneys General of 44 jurisdictions have signed a letter, urging AI companies to protect children \"from exploitation by predatory artificial intelligence products.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "1443d75711fb",
@@ -70,7 +84,7 @@
       "translated_summary": "Elon Musk’s artificial intelligence (AI) startup xAI has filed a high-profile lawsuit against Apple (AAPL) and OpenAI. The tech giants have been...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "53ed6339314d",
@@ -98,7 +112,7 @@
       "translated_summary": "Read Top Artificial Intelligence Stocks To Follow Now – August 23rd at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "851918bbb081",
@@ -112,7 +126,7 @@
       "translated_summary": "Banking giant Bank of America (BAC) has a particular advantage in the artificial intelligence (AI) chatbot market, and its name is Erica. Erica ...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "926d3f6b5c66",
@@ -124,20 +138,6 @@
       "image": "https://ml.globenewswire.com/Resource/Download/ab2bfc12-ae80-47c6-9345-a98783489ed7",
       "translated_title": "PathAI Expands AISight® Dx Primary Diagnosis Clearance to",
       "translated_summary": "BOSTON, Aug. 26, 2025 (GLOBE NEWSWIRE) -- PathAI, a global leader in artificial intelligence (AI) and digital pathology solutions, today announced the...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "b73e2eb49002",
-      "title": "Young Britons Face Worst Jobs Market Since Covid After Tax Hike",
-      "summary": "Britons looking for their first jobs face the worst hiring drought since the depths of the Covid pandemic, as the rise in artificial intelligence and higher employment costs distort career opportunities.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-25/young-britons-face-worst-jobs-market-since-covid-after-tax-hike",
-      "publishedAt": "2025-08-25T23:01:00Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV8n5dqOpJds/v0/1200x800.jpg",
-      "translated_title": "Young Britons Face Worst Jobs Market Since Covid After Tax Hike",
-      "translated_summary": "Britons looking for their first jobs face the worst hiring drought since the depths of the Covid pandemic, as the rise in artificial intelligence and higher employment costs distort career opportunities.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "10小时前"
