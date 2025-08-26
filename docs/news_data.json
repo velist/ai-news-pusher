@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-26T14:22:12.151736",
+  "last_updated": "2025-08-26T15:24:59.740527",
   "total_count": 10,
   "articles": [
+    {
+      "id": "4e92a149b6e1",
+      "title": "Melania Trump Takes On New Trump Administration Role",
+      "summary": "The First lady is leading an initiative by the Trump administration to build interest and expertise in artificial intelligence.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/melania-trump-takes-new-trump-administration-role-2119434",
+      "publishedAt": "2025-08-26T15:03:28Z",
+      "image": "https://d.newsweek.com/en/full/2709684/first-lady-melania-trump.jpg",
+      "translated_title": "Melania Trump Takes On New Trump Administration Role",
+      "translated_summary": "The First lady is leading an initiative by the Trump administration to build interest and expertise in artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "21分钟前"
+    },
     {
       "id": "d1ec99d08326",
       "title": "Melania Trump invites students to participate in AI challenge",
@@ -14,7 +28,7 @@
       "translated_summary": "Students who sign up will complete a project using an artificial intelligence method or tool to address a community challenge.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12分钟前"
+      "time": "1小时前"
     },
     {
       "id": "50be89dcdc6e",
@@ -28,7 +42,7 @@
       "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18分钟前"
+      "time": "1小时前"
     },
     {
       "id": "7365e6fa5acf",
@@ -42,7 +56,7 @@
       "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c502f86b91d3",
@@ -56,7 +70,7 @@
       "translated_summary": "WASHINGTON (AP) — Melania Trump on Tuesday invited students in grades K-12 to participate in a government-sponsored nationwide contest that is designed to encourage them to work together to use artificial intelligence tools to solve community issues.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18分钟前"
+      "time": "1小时前"
     },
     {
       "id": "302895e8f2a0",
@@ -70,7 +84,7 @@
       "translated_summary": "The latest image editing model is the work of the DeepMind artificial intelligence team, and these updates will be available starting today in the Gemini app.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "21分钟前"
+      "time": "1小时前"
     },
     {
       "id": "3ff5874b1c6f",
@@ -84,7 +98,7 @@
       "translated_summary": "'Of course, technology and artificial intelligence will improve our health system, but that is not the biggest problem our country faces in healthcare,' writes an L.A. Times reader.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "52分钟前"
+      "time": "1小时前"
     },
     {
       "id": "7981a1665d20",
@@ -98,7 +112,7 @@
       "translated_summary": "Questions are arising about when artificial intelligence will deliver its promised returns, meaning tech-concentrated U.S. equity indices sitting near record highs are vulnerable to a correction.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d2a0b1acbf0f",
@@ -112,7 +126,7 @@
       "translated_summary": "Advanced chips that didn't exist two years ago can enable smart intelligence, bases, and planning.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "9a85938d750a",
@@ -126,21 +140,7 @@
       "translated_summary": "Confidence in American public schools has dropped to an all-time low, according to a national survey that also showed support for diversity, equity and inclusion initiatives in the school system and resistance to artificial intelligence in the classroom.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "ea7b6187fb39",
-      "title": "Agentic AI has companies excited and security experts freaked out",
-      "summary": "Eight in 10 corporations now use artificial intelligence agents. But security researchers keep finding how easily they're manipulated.",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91392109/everyones-rolling-out-ai-agents-security-researchers-just-broke-them-in-hours",
-      "publishedAt": "2025-08-26T11:00:00Z",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/08/p-91392109-how-to-avoid-AI-agents-getting-scammed.jpg",
-      "translated_title": "Agentic AI has companies excited and security experts freaked out",
-      "translated_summary": "Eight in 10 corporations now use artificial intelligence agents. But security researchers keep finding how easily they're manipulated.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     }
   ]
 }
