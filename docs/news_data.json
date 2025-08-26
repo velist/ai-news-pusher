@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-26T22:21:06.965799",
+  "last_updated": "2025-08-26T23:20:25.131577",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "Cybersecurity company Okta raised annual revenue and profit forecasts on Tuesday, betting on growing demand for its identity verification tools as enterprises strengthen defenses against artificial intelligence-powered attacks.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "19分钟前"
+      "time": "1小时前"
     },
     {
       "id": "bda33ada9b9a",
@@ -28,7 +28,21 @@
       "translated_summary": "First lady Melania Trump on Tuesday announced an artificial intelligence contest for K-12 students nationwide.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "34分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "3bb5f98efa33",
+      "title": "Book authors settle copyright lawsuit with AI company Anthropic",
+      "summary": "SAN FRANCISCO (AP) — A group of book authors has reached a settlement agreement with artificial intelligence company Anthropic after suing the chatbot maker for…",
+      "source": "WTOP",
+      "url": "https://wtop.com/national/2025/08/book-authors-settle-copyright-lawsuit-with-ai-company-anthropic/",
+      "publishedAt": "2025-08-26T21:44:26Z",
+      "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+      "translated_title": "Book authors settle copyright lawsuit with AI company Anthropic",
+      "translated_summary": "SAN FRANCISCO (AP) — A group of book authors has reached a settlement agreement with artificial intelligence company Anthropic after suing the chatbot maker for…",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
     },
     {
       "id": "499ca139b342",
@@ -42,7 +56,7 @@
       "translated_summary": "Meta launched a new Super PAC in California to support political candidates who back pro-artificial intelligence policies and oppose strict regulation.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "6ae7638e6e3b",
@@ -56,7 +70,7 @@
       "translated_summary": "The move means the company will avoid a potentially more costly ruling if the case regarding its use of copyright materials to train artificial intelligence tools had moved forward.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "118a945fa2b8",
@@ -70,7 +84,7 @@
       "translated_summary": "A report out of MIT last week claimed that 95 percent of companies had wasted money with failed projects relying on generative artificial intelligence apps. Someone should have read the fine print.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "f15de851a524",
@@ -84,7 +98,7 @@
       "translated_summary": "Google has improved the image editing features of the Gemini artificial intelligence-powered chatbot via a major update. Read more...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "5b4bb28877ba",
@@ -98,7 +112,7 @@
       "translated_summary": "Tech executives express mixed views on the future impact of artificial intelligence, with concerns about job displacement balanced against potential benefits for society.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "36acb467b85c",
@@ -112,7 +126,7 @@
       "translated_summary": "The parents of a teen who died by suicide after ChatGPT coached him on methods of self harm sued OpenAI and CEO Sam Altman on Tuesday, saying the company knowingly put profit above safety when it launched the GPT-4o version of its artificial intelligence chatbot last year.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "d4eed9b439bb",
@@ -126,20 +140,6 @@
       "translated_summary": "Artificial intelligence company Anthropic said in a court filing on Tuesday it had settled a class action lawsuit from a group of U.S. authors who argued the company's AI training infringed their copyrights.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "396fbdb8dcff",
-      "title": "Musk's xAI sues Apple and OpenAI for alleged AI conspiracy lawsuit",
-      "summary": "Elon Musk's xAI sued Apple and OpenAI in federal court, alleging the companies conspired to prevent competition in the market for artificial intelligence tools.",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/technology/elon-musks-xai-sues-apple-openai-over-ai-competition-app-store-rankings",
-      "publishedAt": "2025-08-26T17:11:08Z",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/elon-musk-face-expression-scowl.jpg?ve=1&tl=1",
-      "translated_title": "Musk's xAI sues Apple and OpenAI for alleged AI conspiracy lawsuit",
-      "translated_summary": "Elon Musk's xAI sued Apple and OpenAI in federal court, alleging the companies conspired to prevent competition in the market for artificial intelligence tools.",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "5小时前"
     }
   ]
