@@ -1,7 +1,63 @@
 {
-  "last_updated": "2025-08-26T17:19:56.775228",
+  "last_updated": "2025-08-26T18:32:20.213774",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f15de851a524",
+      "title": "Google’s Gemini AI Gets Major Image Editing Update: Nano Banana",
+      "summary": "Google has improved the image editing features of the Gemini artificial intelligence-powered chatbot via a major update. Read more...",
+      "source": "Android Headlines",
+      "url": "https://www.androidheadlines.com/2025/08/google-gemini-ai-image-editing-update-nano-banana.html",
+      "publishedAt": "2025-08-26T18:11:02Z",
+      "image": "https://www.androidheadlines.com/wp-content/uploads/2025/08/Gemini-bananas-image-editing-update.jpg",
+      "translated_title": "Google’s Gemini AI Gets Major Image Editing Update: Nano Banana",
+      "translated_summary": "Google has improved the image editing features of the Gemini artificial intelligence-powered chatbot via a major update. Read more...",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "21分钟前"
+    },
+    {
+      "id": "5b4bb28877ba",
+      "title": "AI technology develops rapidly as experts debate benefits and risks",
+      "summary": "Tech executives express mixed views on the future impact of artificial intelligence, with concerns about job displacement balanced against potential benefits for society.",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/technology/ai-boom-reshaping-daily-life-tech-giants-warn-profound-risks",
+      "publishedAt": "2025-08-26T17:50:56Z",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/goodwill-job-connection-program.jpg?ve=1&tl=1",
+      "translated_title": "AI technology develops rapidly as experts debate benefits and risks",
+      "translated_summary": "Tech executives express mixed views on the future impact of artificial intelligence, with concerns about job displacement balanced against potential benefits for society.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "41分钟前"
+    },
+    {
+      "id": "36acb467b85c",
+      "title": "OpenAI, Altman sued over ChatGPT's role in California teen's suicide",
+      "summary": "The parents of a teen who died by suicide after ChatGPT coached him on methods of self harm sued OpenAI and CEO Sam Altman on Tuesday, saying the company knowingly put profit above safety when it launched the GPT-4o version of its artificial intelligence chatbot last year.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/openai-altman-sued-over-chatgpts-role-california-teens-suicide-2025-08-26/",
+      "publishedAt": "2025-08-26T17:43:16Z",
+      "image": "https://www.reuters.com/resizer/v2/QBJ7OY2MM5KGXI3KA3Q4EAFIBQ.jpg?auth=b35e26a9f526929e62c33854a6806f9d10070fef5703d9771423f1de4226c93e&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "OpenAI, Altman sued over ChatGPT's role in California teen's suicide",
+      "translated_summary": "The parents of a teen who died by suicide after ChatGPT coached him on methods of self harm sued OpenAI and CEO Sam Altman on Tuesday, saying the company knowingly put profit above safety when it launched the GPT-4o version of its artificial intelligence chatbot last year.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "49分钟前"
+    },
+    {
+      "id": "d4eed9b439bb",
+      "title": "Anthropic settles class action from US authors alleging copyright infringement",
+      "summary": "Artificial intelligence company Anthropic said in a court filing on Tuesday it had settled a class action lawsuit from a group of U.S. authors who argued the company's AI training infringed their copyrights.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/anthropic-settles-class-action-us-authors-alleging-copyright-infringement-2025-08-26/",
+      "publishedAt": "2025-08-26T17:25:29Z",
+      "image": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Anthropic settles class action from US authors alleging copyright infringement",
+      "translated_summary": "Artificial intelligence company Anthropic said in a court filing on Tuesday it had settled a class action lawsuit from a group of U.S. authors who argued the company's AI training infringed their copyrights.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "396fbdb8dcff",
       "title": "Musk's xAI sues Apple and OpenAI for alleged AI conspiracy lawsuit",
@@ -14,7 +70,7 @@
       "translated_summary": "Elon Musk's xAI sued Apple and OpenAI in federal court, alleging the companies conspired to prevent competition in the market for artificial intelligence tools.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "8分钟前"
+      "time": "1小时前"
     },
     {
       "id": "e190082db9c5",
@@ -28,7 +84,21 @@
       "translated_summary": "First lady Melania Trump announced a new Presidential Artificial Intelligence Challenge Tuesday, inviting K-12 students and educators to participate.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "a67d2058580b",
+      "title": "Nvidia CEO Jensen Huang Was Dubbed 'Godfather of AI.' The Company Is Betting On These AI Stocks",
+      "summary": "Nvidia, the chipmaking giant at the center of the artificial intelligence revolution, has AI stock bets of its own. Here's where its putting its money.",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/nvidia-ceo-jensen-huang-was-dubbed-godfather-of-ai-the-company-is-betting-on-these-ai-stocks-11796190",
+      "publishedAt": "2025-08-26T17:06:12Z",
+      "image": "https://www.investopedia.com/thmb/FuuIc5WvpepMC_zNk24aBJUjkUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2225512564-f46c4f3396784c859890eb26e72a75dd.jpg",
+      "translated_title": "Nvidia CEO Jensen Huang Was Dubbed 'Godfather of AI.' The Company Is Betting On These AI Stocks",
+      "translated_summary": "Nvidia, the chipmaking giant at the center of the artificial intelligence revolution, has AI stock bets of its own. Here's where its putting its money.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
     },
     {
       "id": "9506fa98c451",
@@ -42,7 +112,7 @@
       "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17分钟前"
+      "time": "1小时前"
     },
     {
       "id": "2e20ea1ac219",
@@ -56,7 +126,7 @@
       "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17分钟前"
+      "time": "1小时前"
     },
     {
       "id": "457015608615",
@@ -70,77 +140,7 @@
       "translated_summary": "Meta is setting up a new California-focused political action committee (PAC) to back state-level candidates favoring lighter regulation of technology, particularly artificial intelligence, Politico reported on Tuesday.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "26分钟前"
-    },
-    {
-      "id": "4845846b8787",
-      "title": "AI makes it harder for entry-level coders to find jobs, study says",
-      "summary": "Artificial intelligence is making it harder for entry-level workers in the U.S. to find jobs in software development and customer service, according to new research.",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/business/story/2025-08-26/ai-jobs-study",
-      "publishedAt": "2025-08-26T16:36:55Z",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/844cacc/2147483647/strip/true/crop/2000x1050+0+108/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2F0e%2F936bf08087d56ba680212b9b511c%2F1x-1.jpg",
-      "translated_title": "AI makes it harder for entry-level coders to find jobs, study says",
-      "translated_summary": "Artificial intelligence is making it harder for entry-level workers in the U.S. to find jobs in software development and customer service, according to new research.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "43分钟前"
-    },
-    {
-      "id": "e889592da7fd",
-      "title": "Melania Challenges Kids to Create (Trumpy) AI Projects",
-      "summary": "Melania challenges kids to create (Trumpy) AI projects. K-12 students who enter the nationwide artificial intelligence competition will be judged on their project’s relevance to the Trump administration’s “priorities, values, or vision”.",
-      "source": "New York Magazine",
-      "url": "https://nymag.com/intelligencer/article/melania-challenges-kids-to-create-trumpy-ai-projects.html",
-      "publishedAt": "2025-08-26T16:03:59Z",
-      "image": "https://pyxis.nymag.com/v1/imgs/9a0/a09/9ddd6689b2f7b392f6ccd88d667254b333-melaniatrump-Ai.1x.rsocial.w1200.png",
-      "translated_title": "Melania Challenges Kids to Create (Trumpy) AI Projects",
-      "translated_summary": "Melania challenges kids to create (Trumpy) AI projects. K-12 students who enter the nationwide artificial intelligence competition will be judged on their project’s relevance to the Trump administration’s “priorities, values, or vision”.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "1小时前"
-    },
-    {
-      "id": "4e92a149b6e1",
-      "title": "Melania Trump Takes On New Trump Administration Role",
-      "summary": "The First lady is leading an initiative by the Trump administration to build interest and expertise in artificial intelligence.",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/melania-trump-takes-new-trump-administration-role-2119434",
-      "publishedAt": "2025-08-26T15:03:28Z",
-      "image": "https://d.newsweek.com/en/full/2709684/first-lady-melania-trump.jpg",
-      "translated_title": "Melania Trump Takes On New Trump Administration Role",
-      "translated_summary": "The First lady is leading an initiative by the Trump administration to build interest and expertise in artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "d1ec99d08326",
-      "title": "Melania Trump invites students to participate in AI challenge",
-      "summary": "Students who sign up will complete a project using an artificial intelligence method or tool to address a community challenge.",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/08/26/nation/melania-trump-students-ai-challenge/",
-      "publishedAt": "2025-08-26T14:10:11Z",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/OTHUYGTQK7HJO7GS5C7SRCV37Q.jpg?auth=15039a0e12d99c675a3c3f501aa3ff690e00f407db62ef61f2f3fb99a6669df4&width=1440",
-      "translated_title": "Melania Trump invites students to participate in AI challenge",
-      "translated_summary": "Students who sign up will complete a project using an artificial intelligence method or tool to address a community challenge.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "50be89dcdc6e",
-      "title": "Melania Trump invites K-12 students to take part in nationwide AI contest",
-      "summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/melania-trump-artificial-intelligence-student-contest-7e8cefa4a614a4bfeee4be1b1c998149",
-      "publishedAt": "2025-08-26T14:04:11Z",
-      "image": "https://dims.apnews.com/dims4/default/4233efa/2147483647/strip/true/crop/4202x2364+0+350/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3f%2F93%2Fb1066b77f258d0783f7991fd35c7%2Fa274640bbf6a456ab3e2da5fff7c291f",
-      "translated_title": "Melania Trump invites K-12 students to take part in nationwide AI contest",
-      "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
     }
   ]
 }
