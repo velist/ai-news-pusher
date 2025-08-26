@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-26T20:25:13.239696",
+  "last_updated": "2025-08-26T21:19:58.328450",
   "total_count": 10,
   "articles": [
+    {
+      "id": "499ca139b342",
+      "title": "Meta launches new California PAC to back pro-AI political candidates",
+      "summary": "Meta launched a new Super PAC in California to support political candidates who back pro-artificial intelligence policies and oppose strict regulation.",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/politics/meta-launches-california-super-pac-support-pro-ai-policy-candidates-amid-regulatory-concerns",
+      "publishedAt": "2025-08-26T21:04:27Z",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/meta-headquarters-1.jpg?ve=1&tl=1",
+      "translated_title": "Meta launches new California PAC to back pro-AI political candidates",
+      "translated_summary": "Meta launched a new Super PAC in California to support political candidates who back pro-artificial intelligence policies and oppose strict regulation.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "15分钟前"
+    },
+    {
+      "id": "6ae7638e6e3b",
+      "title": "Anthropic reaches a settlement over authors' class-action piracy lawsuit",
+      "summary": "The move means the company will avoid a potentially more costly ruling if the case regarding its use of copyright materials to train artificial intelligence tools had moved forward.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/anthropic-reaches-a-settlement-over-authors-class-action-piracy-lawsuit-210338494.html",
+      "publishedAt": "2025-08-26T21:03:38Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/uWbALHF1zSwKqi8FyjkVYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b4df8530-82be-11f0-9c7f-c1b0e1577236",
+      "translated_title": "Anthropic reaches a settlement over authors' class-action piracy lawsuit",
+      "translated_summary": "The move means the company will avoid a potentially more costly ruling if the case regarding its use of copyright materials to train artificial intelligence tools had moved forward.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "16分钟前"
+    },
+    {
+      "id": "118a945fa2b8",
+      "title": "Here’s what we know (and don’t know) about AI and jobs",
+      "summary": "A report out of MIT last week claimed that 95 percent of companies had wasted money with failed projects relying on generative artificial intelligence apps. Someone should have read the fine print.",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/08/26/business/ai-jobs-mit-companies/",
+      "publishedAt": "2025-08-26T20:10:46Z",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/D3DPHB3KDCFNBME4L4CQYJ3ZKE.jpg?auth=83af9154092cc980aaf5bea3ac268012e1c9744b32be0293275b85ef47358462&width=1440",
+      "translated_title": "Here’s what we know (and don’t know) about AI and jobs",
+      "translated_summary": "A report out of MIT last week claimed that 95 percent of companies had wasted money with failed projects relying on generative artificial intelligence apps. Someone should have read the fine print.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "f15de851a524",
       "title": "Google’s Gemini AI Gets Major Image Editing Update: Nano Banana",
@@ -14,7 +56,7 @@
       "translated_summary": "Google has improved the image editing features of the Gemini artificial intelligence-powered chatbot via a major update. Read more...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "5b4bb28877ba",
@@ -28,7 +70,7 @@
       "translated_summary": "Tech executives express mixed views on the future impact of artificial intelligence, with concerns about job displacement balanced against potential benefits for society.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "36acb467b85c",
@@ -42,7 +84,7 @@
       "translated_summary": "The parents of a teen who died by suicide after ChatGPT coached him on methods of self harm sued OpenAI and CEO Sam Altman on Tuesday, saying the company knowingly put profit above safety when it launched the GPT-4o version of its artificial intelligence chatbot last year.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "d4eed9b439bb",
@@ -56,7 +98,7 @@
       "translated_summary": "Artificial intelligence company Anthropic said in a court filing on Tuesday it had settled a class action lawsuit from a group of U.S. authors who argued the company's AI training infringed their copyrights.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "396fbdb8dcff",
@@ -70,7 +112,7 @@
       "translated_summary": "Elon Musk's xAI sued Apple and OpenAI in federal court, alleging the companies conspired to prevent competition in the market for artificial intelligence tools.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "e190082db9c5",
@@ -84,7 +126,7 @@
       "translated_summary": "First lady Melania Trump announced a new Presidential Artificial Intelligence Challenge Tuesday, inviting K-12 students and educators to participate.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "a67d2058580b",
@@ -98,49 +140,7 @@
       "translated_summary": "Nvidia, the chipmaking giant at the center of the artificial intelligence revolution, has AI stock bets of its own. Here's where its putting its money.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "9506fa98c451",
-      "title": "Melania Trump invites students to participate in AI challenge contest",
-      "summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
-      "source": "Baltimore Sun",
-      "url": "https://www.baltimoresun.com/2025/08/26/melania-trump-ai-contest/",
-      "publishedAt": "2025-08-26T17:02:17Z",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Melania_Trump_74401.jpg?w=1024&h=746",
-      "translated_title": "Melania Trump invites students to participate in AI challenge contest",
-      "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "2e20ea1ac219",
-      "title": "Melania Trump invites students to participate in AI challenge contest",
-      "summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
-      "source": "The Boston Herald",
-      "url": "https://www.bostonherald.com/2025/08/26/melania-trump-ai-contest/",
-      "publishedAt": "2025-08-26T17:02:17Z",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2025/08/Melania_Trump_74401.jpg?w=1024&h=746",
-      "translated_title": "Melania Trump invites students to participate in AI challenge contest",
-      "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "9834599caecc",
-      "title": "Meta to launch California super-PAC backing pro-AI candidates",
-      "summary": "Meta said on Tuesday it will launch a California-focused political action committee to back state-level candidates favoring lighter regulation of technology, particularly artificial intelligence.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/meta-launch-california-super-pac-backing-pro-ai-candidates-2025-08-26/",
-      "publishedAt": "2025-08-26T16:53:16Z",
-      "image": "https://www.reuters.com/resizer/v2/NI5EFS4D5ZNV3LCVSABZKSLQTA.jpg?auth=44cd52a68f6539d40a316703b6ed0e31be49cce89b2606448762fe212cd9343d&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Meta to launch California super-PAC backing pro-AI candidates",
-      "translated_summary": "Meta said on Tuesday it will launch a California-focused political action committee to back state-level candidates favoring lighter regulation of technology, particularly artificial intelligence.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     }
   ]
 }
