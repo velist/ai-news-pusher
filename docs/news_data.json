@@ -1,7 +1,91 @@
 {
-  "last_updated": "2025-08-26T13:35:23.739457",
+  "last_updated": "2025-08-26T14:22:12.151736",
   "total_count": 10,
   "articles": [
+    {
+      "id": "d1ec99d08326",
+      "title": "Melania Trump invites students to participate in AI challenge",
+      "summary": "Students who sign up will complete a project using an artificial intelligence method or tool to address a community challenge.",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2025/08/26/nation/melania-trump-students-ai-challenge/",
+      "publishedAt": "2025-08-26T14:10:11Z",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/OTHUYGTQK7HJO7GS5C7SRCV37Q.jpg?auth=15039a0e12d99c675a3c3f501aa3ff690e00f407db62ef61f2f3fb99a6669df4&width=1440",
+      "translated_title": "Melania Trump invites students to participate in AI challenge",
+      "translated_summary": "Students who sign up will complete a project using an artificial intelligence method or tool to address a community challenge.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "12分钟前"
+    },
+    {
+      "id": "50be89dcdc6e",
+      "title": "Melania Trump invites K-12 students to take part in nationwide AI contest",
+      "summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
+      "source": "The Associated Press",
+      "url": "https://apnews.com/article/melania-trump-artificial-intelligence-student-contest-7e8cefa4a614a4bfeee4be1b1c998149",
+      "publishedAt": "2025-08-26T14:04:11Z",
+      "image": "https://dims.apnews.com/dims4/default/4233efa/2147483647/strip/true/crop/4202x2364+0+350/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3f%2F93%2Fb1066b77f258d0783f7991fd35c7%2Fa274640bbf6a456ab3e2da5fff7c291f",
+      "translated_title": "Melania Trump invites K-12 students to take part in nationwide AI contest",
+      "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "18分钟前"
+    },
+    {
+      "id": "7365e6fa5acf",
+      "title": "Melania Trump invites K-12 students to participate in nationwide AI challenge contest",
+      "summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
+      "source": "WDIV ClickOnDetroit",
+      "url": "https://www.clickondetroit.com/news/politics/2025/08/26/melania-trump-invites-k-12-students-to-participate-in-nationwide-ai-challenge-contest/",
+      "publishedAt": "2025-08-26T14:04:10Z",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/IYRS3LKVCFG23GL7DVOI5MWNJ4.jpg?_a=DATAg1eAZAA0",
+      "translated_title": "Melania Trump invites K-12 students to participate in nationwide AI challenge contest",
+      "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "18分钟前"
+    },
+    {
+      "id": "c502f86b91d3",
+      "title": "Melania Trump Invites K-12 Students to Participate in Nationwide AI Challenge Contest",
+      "summary": "WASHINGTON (AP) — Melania Trump on Tuesday invited students in grades K-12 to participate in a government-sponsored nationwide contest that is designed to encourage them to work together to use artificial intelligence tools to solve community issues.",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/technology/articles/2025-08-26/melania-trump-invites-k-12-students-to-participate-in-nationwide-ai-challenge-contest",
+      "publishedAt": "2025-08-26T14:04:00Z",
+      "image": "https://www.usnews.com/dims4/USNEWS/8792355/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fc1%2Fb8bd9682c703933e6698a67753de13%2Fa274640bbf6a456ab3e2da5fff7c291fMelania_Trump_74401.jpg",
+      "translated_title": "Melania Trump Invites K-12 Students to Participate in Nationwide AI Challenge Contest",
+      "translated_summary": "WASHINGTON (AP) — Melania Trump on Tuesday invited students in grades K-12 to participate in a government-sponsored nationwide contest that is designed to encourage them to work together to use artificial intelligence tools to solve community issues.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "18分钟前"
+    },
+    {
+      "id": "302895e8f2a0",
+      "title": "Gemini image generation is adding more editing tools",
+      "summary": "The latest image editing model is the work of the DeepMind artificial intelligence team, and these updates will be available starting today in the Gemini app.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/ai/gemini-image-generation-is-adding-more-editing-tools-140034014.html",
+      "publishedAt": "2025-08-26T14:00:34Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/aqVoD.c4oTZlRLVxhxCPww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/931aa850-81ef-11f0-adef-c01444889e51",
+      "translated_title": "Gemini image generation is adding more editing tools",
+      "translated_summary": "The latest image editing model is the work of the DeepMind artificial intelligence team, and these updates will be available starting today in the Gemini app.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "21分钟前"
+    },
+    {
+      "id": "3ff5874b1c6f",
+      "title": "Letters to the Editor: Tech won’t fix American healthcare’s deeply ingrained problems",
+      "summary": "'Of course, technology and artificial intelligence will improve our health system, but that is not the biggest problem our country faces in healthcare,' writes an L.A. Times reader.",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/opinion/letters-to-the-editor/story/2025-08-26/tech-wont-fix-american-healthcares-deeply-ingrained-problems",
+      "publishedAt": "2025-08-26T13:30:00Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/b42c942/2147483647/strip/true/crop/3474x1824+0+261/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F55%2F84%2Fb502b12e441aa3b8188095d954af%2F89622992.jpg",
+      "translated_title": "Letters to the Editor: Tech won’t fix American healthcare’s deeply ingrained problems",
+      "translated_summary": "'Of course, technology and artificial intelligence will improve our health system, but that is not the biggest problem our country faces in healthcare,' writes an L.A. Times reader.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "52分钟前"
+    },
     {
       "id": "7981a1665d20",
       "title": "Can Nvidia results dispel creeping AI doubts?",
@@ -14,7 +98,7 @@
       "translated_summary": "Questions are arising about when artificial intelligence will deliver its promised returns, meaning tech-concentrated U.S. equity indices sitting near record highs are vulnerable to a correction.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "29分钟前"
+      "time": "1小时前"
     },
     {
       "id": "d2a0b1acbf0f",
@@ -42,7 +126,7 @@
       "translated_summary": "Confidence in American public schools has dropped to an all-time low, according to a national survey that also showed support for diversity, equity and inclusion initiatives in the school system and resistance to artificial intelligence in the classroom.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "ea7b6187fb39",
@@ -56,91 +140,7 @@
       "translated_summary": "Eight in 10 corporations now use artificial intelligence agents. But security researchers keep finding how easily they're manipulated.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
-    },
-    {
-      "id": "ed10af0d7374",
-      "title": "Where Are the Moral Guardrails on Artificial Intelligence? | Opinion",
-      "summary": "Artificial intelligence has been caught doing all these illegal activities. Let's review the evidence.",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/where-are-moral-guardrails-artificial-intelligence-opinion-2117164",
-      "publishedAt": "2025-08-26T10:00:01Z",
-      "image": "https://d.newsweek.com/en/full/2709264/boy-using-phone.jpg",
-      "translated_title": "Where Are the Moral Guardrails on Artificial Intelligence? | Opinion",
-      "translated_summary": "Artificial intelligence has been caught doing all these illegal activities. Let's review the evidence.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "3小时前"
-    },
-    {
-      "id": "d91e213e554f",
-      "title": "Study says AI chatbots inconsistent in handling suicide-related queries",
-      "summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the…",
-      "source": "WTOP",
-      "url": "https://wtop.com/national/2025/08/study-says-ai-chatbots-inconsistent-in-handling-suicide-related-queries/",
-      "publishedAt": "2025-08-26T08:06:21Z",
-      "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-      "translated_title": "Study says AI chatbots inconsistent in handling suicide-related queries",
-      "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the…",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "d445373ab471",
-      "title": "AI Makes It Harder for Entry-Level Coders to Find Jobs, Study Says",
-      "summary": "Artificial intelligence is making it harder for entry-level workers in the US to find jobs in fields like software development and customer service, according to new research.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-26/ai-makes-it-harder-for-entry-level-coders-to-find-jobs-study-says",
-      "publishedAt": "2025-08-26T07:01:18Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBMOzcX9ellI/v0/1200x759.jpg",
-      "translated_title": "AI Makes It Harder for Entry-Level Coders to Find Jobs, Study Says",
-      "translated_summary": "Artificial intelligence is making it harder for entry-level workers in the US to find jobs in fields like software development and customer service, according to new research.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "6小时前"
-    },
-    {
-      "id": "d0d2f52e3605",
-      "title": "Artificial intelligence's real impact on sports concessions",
-      "summary": "\"Just because a workflow is being disrupted does not mean we should be locked into the status quo,\" writes one reader. Another: \"Today’s thought leaders need to be cognizant that they are entering uncharted waters.\"",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/08/26/opinion/letters-ai-sports-concessions-labor/",
-      "publishedAt": "2025-08-26T06:30:00Z",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/ZSCMBDU2VBHYFCF42VSNB3DDM4.png?auth=960804339684105d4536e64fc980ede4de253659cbe7d52d6d7efd98183f3d11&width=1440",
-      "translated_title": "Artificial intelligence's real impact on sports concessions",
-      "translated_summary": "\"Just because a workflow is being disrupted does not mean we should be locked into the status quo,\" writes one reader. Another: \"Today’s thought leaders need to be cognizant that they are entering uncharted waters.\"",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "697e6de30d3a",
-      "title": "US Attorneys General tell AI companies they 'will be held accountable' for child safety failures",
-      "summary": "The US Attorneys General of 44 jurisdictions have signed a letter, urging AI companies to protect children \"from exploitation by predatory artificial intelligence products.\"",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/us-attorneys-general-tell-ai-companies-they-will-be-held-accountable-for-child-safety-failures-035213253.html",
-      "publishedAt": "2025-08-26T03:52:13Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Q3y6.ewFlBQY85RqKIaOaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c8ebf7b0-821f-11f0-9fba-8c0b812e43df",
-      "translated_title": "US Attorneys General tell AI companies they 'will be held accountable' for child safety failures",
-      "translated_summary": "The US Attorneys General of 44 jurisdictions have signed a letter, urging AI companies to protect children \"from exploitation by predatory artificial intelligence products.\"",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "1443d75711fb",
-      "title": "Elon Musk’s xAI Files Lawsuit Against AAPL and OpenAI over Antitrust Claims",
-      "summary": "Elon Musk’s artificial intelligence (AI) startup xAI has filed a high-profile lawsuit against Apple (AAPL) and OpenAI. The tech giants have been...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/elon-musk-s-xai-files-lawsuit-against-aapl-and-openai-over-antitrust-claims-1035074440",
-      "publishedAt": "2025-08-26T02:30:00Z",
-      "image": "https://markets.businessinsider.com/apple-touch-icon.png",
-      "translated_title": "Elon Musk’s xAI Files Lawsuit Against AAPL and OpenAI over Antitrust Claims",
-      "translated_summary": "Elon Musk’s artificial intelligence (AI) startup xAI has filed a high-profile lawsuit against Apple (AAPL) and OpenAI. The tech giants have been...",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "11小时前"
     }
   ]
 }
