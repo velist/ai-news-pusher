@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-26T04:27:47.974641",
+  "last_updated": "2025-08-26T05:23:44.478184",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "The US Attorneys General of 44 jurisdictions have signed a letter, urging AI companies to protect children \"from exploitation by predatory artificial intelligence products.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "35分钟前"
+      "time": "1小时前"
     },
     {
       "id": "53ed6339314d",
@@ -42,7 +42,7 @@
       "translated_summary": "Britons looking for their first jobs face the worst hiring drought since the depths of the Covid pandemic, as the rise in artificial intelligence and higher employment costs distort career opportunities.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "a512a746c3b4",
@@ -56,7 +56,7 @@
       "translated_summary": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "270d12852189",
@@ -70,7 +70,21 @@
       "translated_summary": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
+    },
+    {
+      "id": "efa97b463afc",
+      "title": "Elon Musk’s xAI Secretly Changed Its Public Benefit Corporation Status",
+      "summary": "Elon Musk launched his artificial intelligence company xAI in 2023 as a public benefit corporation (PBC) in Nevada, which is a legal structure t...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/elon-musk-s-xai-secretly-changed-its-public-benefit-corporation-status-1035075200",
+      "publishedAt": "2025-08-25T22:36:57Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1777-1024x765.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Elon Musk’s xAI Secretly Changed Its Public Benefit Corporation Status",
+      "translated_summary": "Elon Musk launched his artificial intelligence company xAI in 2023 as a public benefit corporation (PBC) in Nevada, which is a legal structure t...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "6小时前"
     },
     {
       "id": "70f3de16ea70",
@@ -84,7 +98,7 @@
       "translated_summary": "First lady Melania Trump will lead the Presidential Artificial Intelligence Challenge to inspire children and teachers to embrace AI technology and help accelerate innovation in the field.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "88f3216b1838",
@@ -98,7 +112,7 @@
       "translated_summary": "Venture capital firm Andreessen Horowitz is joining other major Silicon Valley investors in backing a new $100 million political network that seeks to influence US artificial intelligence policy, deepening the tech industry’s involvement in politics under President Donald Trump.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "71ec20e0797c",
@@ -112,7 +126,7 @@
       "translated_summary": "Salesforce (CRM) is drawing attention from Wall Street analysts, who weigh its artificial intelligence (AI) roadmap against slowing growth and m...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "8c3f4a20b337",
@@ -126,21 +140,7 @@
       "translated_summary": "Elon Musk's xAI is suing Apple and OpenAI over alleged favoritism in artificial intelligence apps. It accused Apple and OpenAI of an \"anticompetitive scheme\" and alleged the two companies \"colluded.\"",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "9小时前"
-    },
-    {
-      "id": "a72b960d2fe6",
-      "title": "Saudi's Humain to launch data centers with US chips in early 2026, Bloomberg News reports",
-      "summary": "Humain, Saudi Arabia's new artificial intelligence company, has begun construction of its first data centers in the kingdom, and plans to bring them online in early 2026 using semiconductors imported from the U.S., Bloomberg News reported on Monday.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/saudis-humain-launch-data-centers-with-us-chips-early-2026-bloomberg-news-2025-08-25/",
-      "publishedAt": "2025-08-25T19:11:39Z",
-      "image": "https://www.reuters.com/resizer/v2/AG5K5BJFGNKKXNOO2YQUEBX6PE.jpg?auth=eeca02383449776a20374b56b47fd7a68c9b084ae7d8271c738d4eba8cb069b3&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Saudi's Humain to launch data centers with US chips in early 2026, Bloomberg News reports",
-      "translated_summary": "Humain, Saudi Arabia's new artificial intelligence company, has begun construction of its first data centers in the kingdom, and plans to bring them online in early 2026 using semiconductors imported from the U.S., Bloomberg News reported on Monday.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     }
   ]
 }
