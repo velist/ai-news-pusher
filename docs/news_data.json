@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-26T15:24:59.740527",
+  "last_updated": "2025-08-26T16:28:20.854905",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e889592da7fd",
+      "title": "Melania Challenges Kids to Create (Trumpy) AI Projects",
+      "summary": "Melania challenges kids to create (Trumpy) AI projects. K-12 students who enter the nationwide artificial intelligence competition will be judged on their project’s relevance to the Trump administration’s “priorities, values, or vision”.",
+      "source": "New York Magazine",
+      "url": "https://nymag.com/intelligencer/article/melania-challenges-kids-to-create-trumpy-ai-projects.html",
+      "publishedAt": "2025-08-26T16:03:59Z",
+      "image": "https://pyxis.nymag.com/v1/imgs/9a0/a09/9ddd6689b2f7b392f6ccd88d667254b333-melaniatrump-Ai.1x.rsocial.w1200.png",
+      "translated_title": "Melania Challenges Kids to Create (Trumpy) AI Projects",
+      "translated_summary": "Melania challenges kids to create (Trumpy) AI projects. K-12 students who enter the nationwide artificial intelligence competition will be judged on their project’s relevance to the Trump administration’s “priorities, values, or vision”.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "24分钟前"
+    },
     {
       "id": "4e92a149b6e1",
       "title": "Melania Trump Takes On New Trump Administration Role",
@@ -14,7 +28,7 @@
       "translated_summary": "The First lady is leading an initiative by the Trump administration to build interest and expertise in artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21分钟前"
+      "time": "1小时前"
     },
     {
       "id": "d1ec99d08326",
@@ -28,7 +42,7 @@
       "translated_summary": "Students who sign up will complete a project using an artificial intelligence method or tool to address a community challenge.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "50be89dcdc6e",
@@ -42,7 +56,7 @@
       "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "7365e6fa5acf",
@@ -56,7 +70,7 @@
       "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c502f86b91d3",
@@ -70,7 +84,7 @@
       "translated_summary": "WASHINGTON (AP) — Melania Trump on Tuesday invited students in grades K-12 to participate in a government-sponsored nationwide contest that is designed to encourage them to work together to use artificial intelligence tools to solve community issues.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "302895e8f2a0",
@@ -84,7 +98,7 @@
       "translated_summary": "The latest image editing model is the work of the DeepMind artificial intelligence team, and these updates will be available starting today in the Gemini app.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "3ff5874b1c6f",
@@ -98,7 +112,7 @@
       "translated_summary": "'Of course, technology and artificial intelligence will improve our health system, but that is not the biggest problem our country faces in healthcare,' writes an L.A. Times reader.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "7981a1665d20",
@@ -112,7 +126,7 @@
       "translated_summary": "Questions are arising about when artificial intelligence will deliver its promised returns, meaning tech-concentrated U.S. equity indices sitting near record highs are vulnerable to a correction.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "d2a0b1acbf0f",
@@ -126,21 +140,7 @@
       "translated_summary": "Advanced chips that didn't exist two years ago can enable smart intelligence, bases, and planning.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "9a85938d750a",
-      "title": "National school poll reveals American support for DEI, Dept. of Education - but not AI",
-      "summary": "Confidence in American public schools has dropped to an all-time low, according to a national survey that also showed support for diversity, equity and inclusion initiatives in the school system and resistance to artificial intelligence in the classroom.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/08/26/national-school-poll-reveals-american-support-for-dei-dept-of-education-but-not-ai/",
-      "publishedAt": "2025-08-26T11:15:21Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/04/202504190415MCT_____PHOTO____US-NEWS-EDU-TRUMP-CUTS-GET.jpg?w=1024&h=683",
-      "translated_title": "National school poll reveals American support for DEI, Dept. of Education - but not AI",
-      "translated_summary": "Confidence in American public schools has dropped to an all-time low, according to a national survey that also showed support for diversity, equity and inclusion initiatives in the school system and resistance to artificial intelligence in the classroom.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "3小时前"
     }
   ]
 }
