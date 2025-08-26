@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-26T01:53:00.535292",
+  "last_updated": "2025-08-26T03:12:10.437273",
   "total_count": 10,
   "articles": [
+    {
+      "id": "53ed6339314d",
+      "title": "Google AI system promotes outlandish fake overview of Jeff Bezos mom's funeral: report",
+      "summary": "Google's Artificial Intelligence overview system promoted outlandish rumors about the funeral of Jeff Bezos' mother before the small ceremony even occurred -- including that rapper Eminem performed and Elon Musk made an appearance, according to a report.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2025/08/25/us-news/google-ai-system-promotes-outlandish-fake-overview-of-jeff-bezos-moms-funeral-report/",
+      "publishedAt": "2025-08-26T02:25:48Z",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/bezos-comp.jpg?quality=75&strip=all&w=1024",
+      "translated_title": "Google AI system promotes outlandish fake overview of Jeff Bezos mom's funeral: report",
+      "translated_summary": "Google's Artificial Intelligence overview system promoted outlandish rumors about the funeral of Jeff Bezos' mother before the small ceremony even occurred -- including that rapper Eminem performed and Elon Musk made an appearance, according to a report.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "46分钟前"
+    },
     {
       "id": "b73e2eb49002",
       "title": "Young Britons Face Worst Jobs Market Since Covid After Tax Hike",
@@ -14,7 +28,7 @@
       "translated_summary": "Britons looking for their first jobs face the worst hiring drought since the depths of the Covid pandemic, as the rise in artificial intelligence and higher employment costs distort career opportunities.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "a512a746c3b4",
@@ -28,7 +42,7 @@
       "translated_summary": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "270d12852189",
@@ -42,7 +56,7 @@
       "translated_summary": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "70f3de16ea70",
@@ -56,7 +70,7 @@
       "translated_summary": "First lady Melania Trump will lead the Presidential Artificial Intelligence Challenge to inspire children and teachers to embrace AI technology and help accelerate innovation in the field.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "88f3216b1838",
@@ -70,7 +84,21 @@
       "translated_summary": "Venture capital firm Andreessen Horowitz is joining other major Silicon Valley investors in backing a new $100 million political network that seeks to influence US artificial intelligence policy, deepening the tech industry’s involvement in politics under President Donald Trump.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
+    },
+    {
+      "id": "71ec20e0797c",
+      "title": "Top Analyst Stays Neutral on Salesforce (NYSE:CRM) amid AI Momentum and Slowing Growth",
+      "summary": "Salesforce (CRM) is drawing attention from Wall Street analysts, who weigh its artificial intelligence (AI) roadmap against slowing growth and m...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/top-analyst-stays-neutral-on-salesforce-nyse-crm-amid-ai-momentum-and-slowing-growth-1035074673",
+      "publishedAt": "2025-08-25T19:46:46Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1801.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Top Analyst Stays Neutral on Salesforce (NYSE:CRM) amid AI Momentum and Slowing Growth",
+      "translated_summary": "Salesforce (CRM) is drawing attention from Wall Street analysts, who weigh its artificial intelligence (AI) roadmap against slowing growth and m...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7小时前"
     },
     {
       "id": "8c3f4a20b337",
@@ -84,7 +112,7 @@
       "translated_summary": "Elon Musk's xAI is suing Apple and OpenAI over alleged favoritism in artificial intelligence apps. It accused Apple and OpenAI of an \"anticompetitive scheme\" and alleged the two companies \"colluded.\"",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "a72b960d2fe6",
@@ -98,7 +126,7 @@
       "translated_summary": "Humain, Saudi Arabia's new artificial intelligence company, has begun construction of its first data centers in the kingdom, and plans to bring them online in early 2026 using semiconductors imported from the U.S., Bloomberg News reported on Monday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "9de6f7f20949",
@@ -112,35 +140,7 @@
       "translated_summary": "Shares of Google parent Alphabet hit a new all-time high Monday. The stock is being buoyed by a string of positive developments in its artificial intelligence and cloud computing divisions.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "3dd332fc0b00",
-      "title": "Musk accuses Apple, OpenAI of stifling AI competition in lawsuit",
-      "summary": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
-      "source": "The Boston Herald",
-      "url": "https://www.bostonherald.com/2025/08/25/elon-musk-apple-openai-lawsuit/",
-      "publishedAt": "2025-08-25T18:36:56Z",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2025/08/Musk-Apple-OpenAI_28628-1.jpg?w=1024&h=682",
-      "translated_title": "Musk accuses Apple, OpenAI of stifling AI competition in lawsuit",
-      "translated_summary": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
-    },
-    {
-      "id": "21f02d43904a",
-      "title": "Musk accuses Apple, OpenAI of stifling AI competition in lawsuit",
-      "summary": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
-      "source": "Baltimore Sun",
-      "url": "https://www.baltimoresun.com/2025/08/25/elon-musk-apple-openai-lawsuit/",
-      "publishedAt": "2025-08-25T18:36:56Z",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Musk-Apple-OpenAI_28628-1.jpg?w=1024&h=682",
-      "translated_title": "Musk accuses Apple, OpenAI of stifling AI competition in lawsuit",
-      "translated_summary": "Elon Musk on Monday targeted Apple and OpenAI in an antitrust lawsuit alleging that the iPhone maker and the ChatGPT maker are teaming up to thwart competition in artificial intelligence.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     }
   ]
 }
