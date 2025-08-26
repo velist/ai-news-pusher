@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-26T12:51:21.995957",
+  "last_updated": "2025-08-26T13:35:23.739457",
   "total_count": 10,
   "articles": [
+    {
+      "id": "7981a1665d20",
+      "title": "Can Nvidia results dispel creeping AI doubts?",
+      "summary": "Questions are arising about when artificial intelligence will deliver its promised returns, meaning tech-concentrated U.S. equity indices sitting near record highs are vulnerable to a correction.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/can-nvidia-results-dispel-creeping-ai-doubts-2025-08-26/",
+      "publishedAt": "2025-08-26T13:05:31Z",
+      "image": "https://www.reuters.com/resizer/v2/KLAUZMLVABIVFFDDCXQMGOA67I.jpg?auth=2cc37fe17987ea447d648e5877353505c2236a8f267249a1c2a43086eb62bd42&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Can Nvidia results dispel creeping AI doubts?",
+      "translated_summary": "Questions are arising about when artificial intelligence will deliver its promised returns, meaning tech-concentrated U.S. equity indices sitting near record highs are vulnerable to a correction.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "29分钟前"
+    },
     {
       "id": "d2a0b1acbf0f",
       "title": "Artificial intelligence can unlock historic data for today’s missions",
@@ -14,7 +28,7 @@
       "translated_summary": "Advanced chips that didn't exist two years ago can enable smart intelligence, bases, and planning.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20分钟前"
+      "time": "1小时前"
     },
     {
       "id": "9a85938d750a",
@@ -28,7 +42,7 @@
       "translated_summary": "Confidence in American public schools has dropped to an all-time low, according to a national survey that also showed support for diversity, equity and inclusion initiatives in the school system and resistance to artificial intelligence in the classroom.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "ea7b6187fb39",
@@ -42,7 +56,7 @@
       "translated_summary": "Eight in 10 corporations now use artificial intelligence agents. But security researchers keep finding how easily they're manipulated.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "ed10af0d7374",
@@ -56,7 +70,7 @@
       "translated_summary": "Artificial intelligence has been caught doing all these illegal activities. Let's review the evidence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "d91e213e554f",
@@ -70,7 +84,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "d445373ab471",
@@ -84,7 +98,7 @@
       "translated_summary": "Artificial intelligence is making it harder for entry-level workers in the US to find jobs in fields like software development and customer service, according to new research.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "d0d2f52e3605",
@@ -98,7 +112,7 @@
       "translated_summary": "\"Just because a workflow is being disrupted does not mean we should be locked into the status quo,\" writes one reader. Another: \"Today’s thought leaders need to be cognizant that they are entering uncharted waters.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "697e6de30d3a",
@@ -112,7 +126,7 @@
       "translated_summary": "The US Attorneys General of 44 jurisdictions have signed a letter, urging AI companies to protect children \"from exploitation by predatory artificial intelligence products.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "1443d75711fb",
@@ -126,21 +140,7 @@
       "translated_summary": "Elon Musk’s artificial intelligence (AI) startup xAI has filed a high-profile lawsuit against Apple (AAPL) and OpenAI. The tech giants have been...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "10小时前"
-    },
-    {
-      "id": "53ed6339314d",
-      "title": "Google AI system promotes outlandish fake overview of Jeff Bezos mom's funeral: report",
-      "summary": "Google's Artificial Intelligence overview system promoted outlandish rumors about the funeral of Jeff Bezos' mother before the small ceremony even occurred -- including that rapper Eminem performed and Elon Musk made an appearance, according to a report.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/25/us-news/google-ai-system-promotes-outlandish-fake-overview-of-jeff-bezos-moms-funeral-report/",
-      "publishedAt": "2025-08-26T02:25:48Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/bezos-comp.jpg?quality=75&strip=all&w=1024",
-      "translated_title": "Google AI system promotes outlandish fake overview of Jeff Bezos mom's funeral: report",
-      "translated_summary": "Google's Artificial Intelligence overview system promoted outlandish rumors about the funeral of Jeff Bezos' mother before the small ceremony even occurred -- including that rapper Eminem performed and Elon Musk made an appearance, according to a report.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "10小时前"
+      "time": "11小时前"
     }
   ]
 }
