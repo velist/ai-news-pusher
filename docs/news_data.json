@@ -1,7 +1,91 @@
 {
-  "last_updated": "2025-08-26T16:28:20.854905",
+  "last_updated": "2025-08-26T17:19:56.775228",
   "total_count": 10,
   "articles": [
+    {
+      "id": "396fbdb8dcff",
+      "title": "Musk's xAI sues Apple and OpenAI for alleged AI conspiracy lawsuit",
+      "summary": "Elon Musk's xAI sued Apple and OpenAI in federal court, alleging the companies conspired to prevent competition in the market for artificial intelligence tools.",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/technology/elon-musks-xai-sues-apple-openai-over-ai-competition-app-store-rankings",
+      "publishedAt": "2025-08-26T17:11:08Z",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/elon-musk-face-expression-scowl.jpg?ve=1&tl=1",
+      "translated_title": "Musk's xAI sues Apple and OpenAI for alleged AI conspiracy lawsuit",
+      "translated_summary": "Elon Musk's xAI sued Apple and OpenAI in federal court, alleging the companies conspired to prevent competition in the market for artificial intelligence tools.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "8分钟前"
+    },
+    {
+      "id": "e190082db9c5",
+      "title": "Melania Trump announces K-12 school AI challenge",
+      "summary": "First lady Melania Trump announced a new Presidential Artificial Intelligence Challenge Tuesday, inviting K-12 students and educators to participate.",
+      "source": "UPI News",
+      "url": "https://www.upi.com/Top_News/US/2025/08/26/melania-trump-announces-ai-challenge/3221756222034/",
+      "publishedAt": "2025-08-26T17:06:52Z",
+      "image": "https://cdnph.upi.com/sv/ph/og/upi/3221756222034/2025/1/8fcc519320938d94a5b60a0459a59942/v1.5/Melania-Trump-announces-K-12-school-AI-challenge.jpg",
+      "translated_title": "Melania Trump announces K-12 school AI challenge",
+      "translated_summary": "First lady Melania Trump announced a new Presidential Artificial Intelligence Challenge Tuesday, inviting K-12 students and educators to participate.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "13分钟前"
+    },
+    {
+      "id": "9506fa98c451",
+      "title": "Melania Trump invites students to participate in AI challenge contest",
+      "summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
+      "source": "Baltimore Sun",
+      "url": "https://www.baltimoresun.com/2025/08/26/melania-trump-ai-contest/",
+      "publishedAt": "2025-08-26T17:02:17Z",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2025/08/Melania_Trump_74401.jpg?w=1024&h=746",
+      "translated_title": "Melania Trump invites students to participate in AI challenge contest",
+      "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "17分钟前"
+    },
+    {
+      "id": "2e20ea1ac219",
+      "title": "Melania Trump invites students to participate in AI challenge contest",
+      "summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
+      "source": "The Boston Herald",
+      "url": "https://www.bostonherald.com/2025/08/26/melania-trump-ai-contest/",
+      "publishedAt": "2025-08-26T17:02:17Z",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2025/08/Melania_Trump_74401.jpg?w=1024&h=746",
+      "translated_title": "Melania Trump invites students to participate in AI challenge contest",
+      "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence. The goal is to help them get comfortable with AI and to use it to solve issues in their communities.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "17分钟前"
+    },
+    {
+      "id": "457015608615",
+      "title": "Meta to launch California super PAC backing pro-AI candidates, Politico reports",
+      "summary": "Meta is setting up a new California-focused political action committee (PAC) to back state-level candidates favoring lighter regulation of technology, particularly artificial intelligence, Politico reported on Tuesday.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/meta-launch-california-super-pac-backing-pro-ai-candidates-politico-reports-2025-08-26/",
+      "publishedAt": "2025-08-26T16:53:16Z",
+      "image": "https://www.reuters.com/resizer/v2/2ZA7AXNRHJO7ZN3HROZV32AZSM.jpg?auth=0557b0677c64adb8964f53d5c2a20e59d696954b93e76256231d4ac6f87adff2&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Meta to launch California super PAC backing pro-AI candidates, Politico reports",
+      "translated_summary": "Meta is setting up a new California-focused political action committee (PAC) to back state-level candidates favoring lighter regulation of technology, particularly artificial intelligence, Politico reported on Tuesday.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "26分钟前"
+    },
+    {
+      "id": "4845846b8787",
+      "title": "AI makes it harder for entry-level coders to find jobs, study says",
+      "summary": "Artificial intelligence is making it harder for entry-level workers in the U.S. to find jobs in software development and customer service, according to new research.",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/business/story/2025-08-26/ai-jobs-study",
+      "publishedAt": "2025-08-26T16:36:55Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/844cacc/2147483647/strip/true/crop/2000x1050+0+108/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2F0e%2F936bf08087d56ba680212b9b511c%2F1x-1.jpg",
+      "translated_title": "AI makes it harder for entry-level coders to find jobs, study says",
+      "translated_summary": "Artificial intelligence is making it harder for entry-level workers in the U.S. to find jobs in software development and customer service, according to new research.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "43分钟前"
+    },
     {
       "id": "e889592da7fd",
       "title": "Melania Challenges Kids to Create (Trumpy) AI Projects",
@@ -14,7 +98,7 @@
       "translated_summary": "Melania challenges kids to create (Trumpy) AI projects. K-12 students who enter the nationwide artificial intelligence competition will be judged on their project’s relevance to the Trump administration’s “priorities, values, or vision”.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "24分钟前"
+      "time": "1小时前"
     },
     {
       "id": "4e92a149b6e1",
@@ -28,7 +112,7 @@
       "translated_summary": "The First lady is leading an initiative by the Trump administration to build interest and expertise in artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d1ec99d08326",
@@ -42,7 +126,7 @@
       "translated_summary": "Students who sign up will complete a project using an artificial intelligence method or tool to address a community challenge.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "50be89dcdc6e",
@@ -54,90 +138,6 @@
       "image": "https://dims.apnews.com/dims4/default/4233efa/2147483647/strip/true/crop/4202x2364+0+350/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3f%2F93%2Fb1066b77f258d0783f7991fd35c7%2Fa274640bbf6a456ab3e2da5fff7c291f",
       "translated_title": "Melania Trump invites K-12 students to take part in nationwide AI contest",
       "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "7365e6fa5acf",
-      "title": "Melania Trump invites K-12 students to participate in nationwide AI challenge contest",
-      "summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
-      "source": "WDIV ClickOnDetroit",
-      "url": "https://www.clickondetroit.com/news/politics/2025/08/26/melania-trump-invites-k-12-students-to-participate-in-nationwide-ai-challenge-contest/",
-      "publishedAt": "2025-08-26T14:04:10Z",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/IYRS3LKVCFG23GL7DVOI5MWNJ4.jpg?_a=DATAg1eAZAA0",
-      "translated_title": "Melania Trump invites K-12 students to participate in nationwide AI challenge contest",
-      "translated_summary": "Melania Trump is inviting students in grades K-12 to participate in a government-sponsored nationwide contest using artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "c502f86b91d3",
-      "title": "Melania Trump Invites K-12 Students to Participate in Nationwide AI Challenge Contest",
-      "summary": "WASHINGTON (AP) — Melania Trump on Tuesday invited students in grades K-12 to participate in a government-sponsored nationwide contest that is designed to encourage them to work together to use artificial intelligence tools to solve community issues.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/technology/articles/2025-08-26/melania-trump-invites-k-12-students-to-participate-in-nationwide-ai-challenge-contest",
-      "publishedAt": "2025-08-26T14:04:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/8792355/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fc1%2Fb8bd9682c703933e6698a67753de13%2Fa274640bbf6a456ab3e2da5fff7c291fMelania_Trump_74401.jpg",
-      "translated_title": "Melania Trump Invites K-12 Students to Participate in Nationwide AI Challenge Contest",
-      "translated_summary": "WASHINGTON (AP) — Melania Trump on Tuesday invited students in grades K-12 to participate in a government-sponsored nationwide contest that is designed to encourage them to work together to use artificial intelligence tools to solve community issues.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "302895e8f2a0",
-      "title": "Gemini image generation is adding more editing tools",
-      "summary": "The latest image editing model is the work of the DeepMind artificial intelligence team, and these updates will be available starting today in the Gemini app.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/gemini-image-generation-is-adding-more-editing-tools-140034014.html",
-      "publishedAt": "2025-08-26T14:00:34Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/aqVoD.c4oTZlRLVxhxCPww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/931aa850-81ef-11f0-adef-c01444889e51",
-      "translated_title": "Gemini image generation is adding more editing tools",
-      "translated_summary": "The latest image editing model is the work of the DeepMind artificial intelligence team, and these updates will be available starting today in the Gemini app.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "2小时前"
-    },
-    {
-      "id": "3ff5874b1c6f",
-      "title": "Letters to the Editor: Tech won’t fix American healthcare’s deeply ingrained problems",
-      "summary": "'Of course, technology and artificial intelligence will improve our health system, but that is not the biggest problem our country faces in healthcare,' writes an L.A. Times reader.",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/opinion/letters-to-the-editor/story/2025-08-26/tech-wont-fix-american-healthcares-deeply-ingrained-problems",
-      "publishedAt": "2025-08-26T13:30:00Z",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/b42c942/2147483647/strip/true/crop/3474x1824+0+261/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F55%2F84%2Fb502b12e441aa3b8188095d954af%2F89622992.jpg",
-      "translated_title": "Letters to the Editor: Tech won’t fix American healthcare’s deeply ingrained problems",
-      "translated_summary": "'Of course, technology and artificial intelligence will improve our health system, but that is not the biggest problem our country faces in healthcare,' writes an L.A. Times reader.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "2小时前"
-    },
-    {
-      "id": "7981a1665d20",
-      "title": "Can Nvidia results dispel creeping AI doubts?",
-      "summary": "Questions are arising about when artificial intelligence will deliver its promised returns, meaning tech-concentrated U.S. equity indices sitting near record highs are vulnerable to a correction.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/can-nvidia-results-dispel-creeping-ai-doubts-2025-08-26/",
-      "publishedAt": "2025-08-26T13:05:31Z",
-      "image": "https://www.reuters.com/resizer/v2/KLAUZMLVABIVFFDDCXQMGOA67I.jpg?auth=2cc37fe17987ea447d648e5877353505c2236a8f267249a1c2a43086eb62bd42&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Can Nvidia results dispel creeping AI doubts?",
-      "translated_summary": "Questions are arising about when artificial intelligence will deliver its promised returns, meaning tech-concentrated U.S. equity indices sitting near record highs are vulnerable to a correction.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "d2a0b1acbf0f",
-      "title": "Artificial intelligence can unlock historic data for today’s missions",
-      "summary": "Advanced chips that didn't exist two years ago can enable smart intelligence, bases, and planning.",
-      "source": "Breaking Defense",
-      "url": "https://breakingdefense.com/2025/08/artificial-intelligence-can-unlock-historic-data-for-todays-missions-given-the-right-chips/",
-      "publishedAt": "2025-08-26T12:31:00Z",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/08/Kawiwaza-is-an-AI-orchestration-engine-that-enables-massive-dispersed-data-sets-to-be-rationalized-and-fused-together-to-achieve-mission-results.-Kamiwaza-image-1024x683.png",
-      "translated_title": "Artificial intelligence can unlock historic data for today’s missions",
-      "translated_summary": "Advanced chips that didn't exist two years ago can enable smart intelligence, bases, and planning.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "3小时前"
