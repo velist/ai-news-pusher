@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-27T05:21:51.836361",
+  "last_updated": "2025-08-27T06:33:20.895008",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "Artificial intelligence bellwether Nvidia is poised to release a quarterly report that’s expected provide a better sense about whether the stock market has been riding on an overhyped bubble or whether it’s being propelled by a technological boom that’s still gathering momentum.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21分钟前"
+      "time": "1小时前"
     },
     {
       "id": "31ea9c6b17ee",
@@ -28,7 +28,7 @@
       "translated_summary": "THE SANTA ROSA PLATEAU ECOLOGICAL RESERVE, Calif. (AP) — Conservationists along the U.S.-Mexico border are working to restore the nearly vanished red-legged frog in its historical Southern California habitat. Despite COVID-19 restrictions, scientists took frog eggs from a small population in Mexico and introduced them into American ponds, where biologists used artificial intelligence to confirm that the eggs had hatched and that the frogs went on to breed, marking a significant milestone in ecosystem restoration.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c35abeed2cec",
@@ -42,7 +42,7 @@
       "translated_summary": "China's Alibaba is likely to highlight its artificial intelligence strategy with its quarterly results on Friday, but in line with its peers Tencent and Baidu , may struggle to show that its big AI investments are paying off.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "3a2589d73484",
@@ -56,7 +56,21 @@
       "translated_summary": "Artificial intelligence bellwether Nvidia is poised to release a quarterly report that’s expected provide a better sense about whether the stock market has been riding on an overhyped bubble or whether it’s being propelled by a technological boom that’s still gathering momentum",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
+    },
+    {
+      "id": "2365c8854579",
+      "title": "Apple (AAPL) Considered Acquiring AI Firms Mistral and Perplexity",
+      "summary": "This summer, investment bankers approached tech giant Apple (AAPL) to see if the company was interested in making a major move in artificial int...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/apple-aapl-considered-acquiring-ai-firms-mistral-and-perplexity-1035079769",
+      "publishedAt": "2025-08-26T23:22:00Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-1892-1024x766.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Apple (AAPL) Considered Acquiring AI Firms Mistral and Perplexity",
+      "translated_summary": "This summer, investment bankers approached tech giant Apple (AAPL) to see if the company was interested in making a major move in artificial int...",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "7小时前"
     },
     {
       "id": "f51c39c01908",
@@ -70,7 +84,7 @@
       "translated_summary": "The two PACs reflect a new level of political engagement by companies like Meta and investors such as Andreessen Horowitz, which are spending heavily on artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "310cd04b7283",
@@ -84,7 +98,7 @@
       "translated_summary": "Cybersecurity company Okta raised annual revenue and profit forecasts on Tuesday, betting on growing demand for its identity verification tools as enterprises strengthen defenses against artificial intelligence-powered attacks.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "bda33ada9b9a",
@@ -98,7 +112,7 @@
       "translated_summary": "First lady Melania Trump on Tuesday announced an artificial intelligence contest for K-12 students nationwide.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "3bb5f98efa33",
@@ -112,7 +126,7 @@
       "translated_summary": "SAN FRANCISCO (AP) — A group of book authors has reached a settlement agreement with artificial intelligence company Anthropic after suing the chatbot maker for…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "499ca139b342",
@@ -126,21 +140,7 @@
       "translated_summary": "Meta launched a new Super PAC in California to support political candidates who back pro-artificial intelligence policies and oppose strict regulation.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "6ae7638e6e3b",
-      "title": "Anthropic reaches a settlement over authors' class-action piracy lawsuit",
-      "summary": "The move means the company will avoid a potentially more costly ruling if the case regarding its use of copyright materials to train artificial intelligence tools had moved forward.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/anthropic-reaches-a-settlement-over-authors-class-action-piracy-lawsuit-210338494.html",
-      "publishedAt": "2025-08-26T21:03:38Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/uWbALHF1zSwKqi8FyjkVYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b4df8530-82be-11f0-9c7f-c1b0e1577236",
-      "translated_title": "Anthropic reaches a settlement over authors' class-action piracy lawsuit",
-      "translated_summary": "The move means the company will avoid a potentially more costly ruling if the case regarding its use of copyright materials to train artificial intelligence tools had moved forward.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     }
   ]
 }
