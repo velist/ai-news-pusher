@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-27T19:18:41.160471",
+  "last_updated": "2025-08-27T20:25:02.731069",
   "total_count": 10,
   "articles": [
+    {
+      "id": "6595ddafb831",
+      "title": "What's Going On With Meta Platforms Stock?",
+      "summary": "Shares of Meta Platforms traded marginally lower Wednesday afternoon. The stock is fell as the company's massive spending on artificial intelligence comes into sharper focus.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47370546/whats-going-on-with-meta-platforms-stock-4",
+      "publishedAt": "2025-08-27T20:09:00Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/27/Meta-Platforms-Inc--META.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "What's Going On With Meta Platforms Stock?",
+      "translated_summary": "Shares of Meta Platforms traded marginally lower Wednesday afternoon. The stock is fell as the company's massive spending on artificial intelligence comes into sharper focus.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "16分钟前"
+    },
+    {
+      "id": "26de01b88647",
+      "title": "Gen Z will be hurt-and helped-the most by generative AI in these types of jobs",
+      "summary": "Stanford's new research could be the largest study yet on how artificial intelligence is actually changing the workforce. Here's what it found.",
+      "source": "Fast Company",
+      "url": "https://www.fastcompany.com/91394070/gen-z-will-be-hurt-and-helped-the-most-by-generative-ai-in-these-types-of-jobs",
+      "publishedAt": "2025-08-27T20:00:00Z",
+      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/08/p-1-91394070-stanford-study-jobs-gen-zers.jpg",
+      "translated_title": "Gen Z will be hurt-and helped-the most by generative AI in these types of jobs",
+      "translated_summary": "Stanford's new research could be the largest study yet on how artificial intelligence is actually changing the workforce. Here's what it found.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "25分钟前"
+    },
+    {
+      "id": "74ca658923e0",
+      "title": "Nvidia Shows How the AI-Driven Rally in the S&P 500 Can Keep Going",
+      "summary": "Howard Marks is right. This bull market just might have legs. Big tech continues to spend on artificial intelligence and interest rates are expected to go down. As long as the economy weathers the tariff transition, 2025 could prove more akin to 1997 — a few years before the dot com tech bubble burst -- than 1999. Here's how.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-08-27/howard-marks-has-it-right-when-he-sees-s-p-500-bubble-in-early-days",
+      "publishedAt": "2025-08-27T19:32:18Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isE5Xfi1Lj88/v0/1200x800.jpg",
+      "translated_title": "Nvidia Shows How the AI-Driven Rally in the S&P 500 Can Keep Going",
+      "translated_summary": "Howard Marks is right. This bull market just might have legs. Big tech continues to spend on artificial intelligence and interest rates are expected to go down. As long as the economy weathers the tariff transition, 2025 could prove more akin to 1997 — a few years before the dot com tech bubble burst -- than 1999. Here's how.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "52分钟前"
+    },
     {
       "id": "50a5eed38fde",
       "title": "Vercel Triples Valuation to $9 Billion With Accel Investment",
@@ -14,7 +56,7 @@
       "translated_summary": "Vercel, a startup that helps companies develop web and artificial intelligence applications in the cloud, is raising hundreds of millions of dollars at a valuation of about $9 billion, according to people familiar with the matter.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "28分钟前"
+      "time": "1小时前"
     },
     {
       "id": "ff72644b5af8",
@@ -28,7 +70,7 @@
       "translated_summary": "Zuckerberg’s quest to artificial superintelligence is off to a rocky start. OpenAI, however, gets the final laugh.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e85eb3c2e4a6",
@@ -42,7 +84,7 @@
       "translated_summary": "Nvidia, the AI chipmaker at the heart of the artificial intelligence boom, is set to release its latest quarterly results after markets close later today, in what could prove to be a market-moving event.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e5270c246c04",
@@ -56,7 +98,7 @@
       "translated_summary": "Latam GPT, the first open-source artificial intelligence model developed in Latin America, has begun training and is processing more than 1 billion documents.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "efa3660c1451",
@@ -70,7 +112,7 @@
       "translated_summary": "OpenAI and Anthropic, two of the biggest rivals in artificial intelligence, recently evaluated each others’ models in an effort to better understand issues that their own tests may have missed.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "32a2f7eb6614",
@@ -84,7 +126,7 @@
       "translated_summary": "A hacker leveraged technology from Anthropic PBC as part of a vast cybercrime scheme that’s impacted at least 17 organizations, the company said, marking an “unprecedented” instance of attackers weaponizing a commercial artificial intelligence tool on a widespread basis.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "64f7d980c692",
@@ -98,49 +140,7 @@
       "translated_summary": "It's now illegal in Michigan to create images via artificial intelligence that falsely portrays a specific person in sexual activity or situations.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "c84475612ec2",
-      "title": "US Stocks Fluctuate as Traders Await Nvidia Earnings Results",
-      "summary": "US stocks shuffled between gains and losses on Wednesday ahead of Nvidia Corp.’s quarterly earnings, due after the closing bell, which will offer crucial insights into the artificial-intelligence trade.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-27/us-stocks-fluctuate-as-traders-await-nvidia-earnings-results",
-      "publishedAt": "2025-08-27T13:45:52Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCA37hcDChMo/v1/1200x800.jpg",
-      "translated_title": "US Stocks Fluctuate as Traders Await Nvidia Earnings Results",
-      "translated_summary": "US stocks shuffled between gains and losses on Wednesday ahead of Nvidia Corp.’s quarterly earnings, due after the closing bell, which will offer crucial insights into the artificial-intelligence trade.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "5小时前"
-    },
-    {
-      "id": "7926be609cc9",
-      "title": "World shares are mixed and US futures are flat ahead of Nvidia’s earnings update",
-      "summary": "World shares were mixed Wednesday ahead of an earnings update by computer chip giant Nvidia that may provide insights into the state and future of artificial intelligence.",
-      "source": "Chicago Tribune",
-      "url": "https://www.chicagotribune.com/2025/08/27/world-shares-nvidia/",
-      "publishedAt": "2025-08-27T13:10:07Z",
-      "image": "https://www.chicagotribune.com/wp-content/uploads/2025/08/Japan_Financial_Markets_44265_5adc98-1.jpg?w=1024&h=683",
-      "translated_title": "World shares are mixed and US futures are flat ahead of Nvidia’s earnings update",
-      "translated_summary": "World shares were mixed Wednesday ahead of an earnings update by computer chip giant Nvidia that may provide insights into the state and future of artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "2bee1ab4c4dc",
-      "title": "How to spot bad AI writing using Wikipedia's new list",
-      "summary": "Wikipedia's new Signs of AI Writing is a great tool for detecting prose generated by artificial intelligence.",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91392747/want-disguise-your-ai-writing-start-wikipedias-new-list",
-      "publishedAt": "2025-08-27T12:36:08Z",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/08/p-91392747-disguise-your-AI-writing.jpg",
-      "translated_title": "How to spot bad AI writing using Wikipedia's new list",
-      "translated_summary": "Wikipedia's new Signs of AI Writing is a great tool for detecting prose generated by artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
     }
   ]
 }
