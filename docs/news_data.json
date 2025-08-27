@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-26T23:20:25.131577",
+  "last_updated": "2025-08-27T01:49:21.222203",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c35abeed2cec",
+      "title": "Alibaba results likely to show limited AI payoff for China tech",
+      "summary": "China's Alibaba is likely to highlight its artificial intelligence strategy with its quarterly results on Friday, but in line with its peers Tencent and Baidu , may struggle to show that its big AI investments are paying off.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/alibaba-results-likely-show-limited-ai-payoff-china-tech-2025-08-27/",
+      "publishedAt": "2025-08-27T01:18:03Z",
+      "image": "https://www.reuters.com/resizer/v2/ANDR75I7GFOOLDNZNYJOGDHC2A.jpg?auth=5a601263f9b4dcc4720f80d2b0e7a3b7c09be444b8475efd8877464efc761fd0&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Alibaba results likely to show limited AI payoff for China tech",
+      "translated_summary": "China's Alibaba is likely to highlight its artificial intelligence strategy with its quarterly results on Friday, but in line with its peers Tencent and Baidu , may struggle to show that its big AI investments are paying off.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "31分钟前"
+    },
+    {
+      "id": "f51c39c01908",
+      "title": "Silicon Valley Pledges $200 Million to New Pro-A.I. Super PACs",
+      "summary": "The two PACs reflect a new level of political engagement by companies like Meta and investors such as Andreessen Horowitz, which are spending heavily on artificial intelligence.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/26/technology/silicon-valley-ai-super-pacs.html",
+      "publishedAt": "2025-08-26T22:54:32Z",
+      "image": "https://static01.nyt.com/images/2025/08/26/multimedia/26biz-ai-superpacs-hvjp/26biz-ai-superpacs-hvjp-facebookJumbo.jpg",
+      "translated_title": "Silicon Valley Pledges $200 Million to New Pro-A.I. Super PACs",
+      "translated_summary": "The two PACs reflect a new level of political engagement by companies like Meta and investors such as Andreessen Horowitz, which are spending heavily on artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "2小时前"
+    },
     {
       "id": "310cd04b7283",
       "title": "Okta raises annual forecasts on surging cybersecurity tools demand",
@@ -14,7 +42,7 @@
       "translated_summary": "Cybersecurity company Okta raised annual revenue and profit forecasts on Tuesday, betting on growing demand for its identity verification tools as enterprises strengthen defenses against artificial intelligence-powered attacks.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "bda33ada9b9a",
@@ -28,7 +56,7 @@
       "translated_summary": "First lady Melania Trump on Tuesday announced an artificial intelligence contest for K-12 students nationwide.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "4小时前"
     },
     {
       "id": "3bb5f98efa33",
@@ -42,7 +70,7 @@
       "translated_summary": "SAN FRANCISCO (AP) — A group of book authors has reached a settlement agreement with artificial intelligence company Anthropic after suing the chatbot maker for…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "4小时前"
     },
     {
       "id": "499ca139b342",
@@ -56,7 +84,7 @@
       "translated_summary": "Meta launched a new Super PAC in California to support political candidates who back pro-artificial intelligence policies and oppose strict regulation.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "6ae7638e6e3b",
@@ -70,7 +98,7 @@
       "translated_summary": "The move means the company will avoid a potentially more costly ruling if the case regarding its use of copyright materials to train artificial intelligence tools had moved forward.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "118a945fa2b8",
@@ -84,7 +112,7 @@
       "translated_summary": "A report out of MIT last week claimed that 95 percent of companies had wasted money with failed projects relying on generative artificial intelligence apps. Someone should have read the fine print.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "f15de851a524",
@@ -98,7 +126,7 @@
       "translated_summary": "Google has improved the image editing features of the Gemini artificial intelligence-powered chatbot via a major update. Read more...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "5b4bb28877ba",
@@ -112,35 +140,7 @@
       "translated_summary": "Tech executives express mixed views on the future impact of artificial intelligence, with concerns about job displacement balanced against potential benefits for society.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
-    },
-    {
-      "id": "36acb467b85c",
-      "title": "OpenAI, Altman sued over ChatGPT's role in California teen's suicide",
-      "summary": "The parents of a teen who died by suicide after ChatGPT coached him on methods of self harm sued OpenAI and CEO Sam Altman on Tuesday, saying the company knowingly put profit above safety when it launched the GPT-4o version of its artificial intelligence chatbot last year.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/openai-altman-sued-over-chatgpts-role-california-teens-suicide-2025-08-26/",
-      "publishedAt": "2025-08-26T17:43:16Z",
-      "image": "https://www.reuters.com/resizer/v2/QBJ7OY2MM5KGXI3KA3Q4EAFIBQ.jpg?auth=b35e26a9f526929e62c33854a6806f9d10070fef5703d9771423f1de4226c93e&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "OpenAI, Altman sued over ChatGPT's role in California teen's suicide",
-      "translated_summary": "The parents of a teen who died by suicide after ChatGPT coached him on methods of self harm sued OpenAI and CEO Sam Altman on Tuesday, saying the company knowingly put profit above safety when it launched the GPT-4o version of its artificial intelligence chatbot last year.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "5小时前"
-    },
-    {
-      "id": "d4eed9b439bb",
-      "title": "Anthropic settles class action from US authors alleging copyright infringement",
-      "summary": "Artificial intelligence company Anthropic said in a court filing on Tuesday it had settled a class action lawsuit from a group of U.S. authors who argued the company's AI training infringed their copyrights.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/anthropic-settles-class-action-us-authors-alleging-copyright-infringement-2025-08-26/",
-      "publishedAt": "2025-08-26T17:25:29Z",
-      "image": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Anthropic settles class action from US authors alleging copyright infringement",
-      "translated_summary": "Artificial intelligence company Anthropic said in a court filing on Tuesday it had settled a class action lawsuit from a group of U.S. authors who argued the company's AI training infringed their copyrights.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "7小时前"
     }
   ]
 }
