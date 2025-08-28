@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-28T12:48:02.531457",
+  "last_updated": "2025-08-28T13:31:45.913418",
   "total_count": 10,
   "articles": [
+    {
+      "id": "d6cad389d09c",
+      "title": "Creative Human Programming Is King, Bain Report Says",
+      "summary": "An AI report by Bain says there is a flood of cheap artificial intelligence content but premium, human created content remains king.",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ai-report-bain-cheap-programming-human-content-king-1236353969/",
+      "publishedAt": "2025-08-28T13:00:00Z",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/Screen-Shot-2024-10-04-at-11.41.43-AM.jpg?w=1440&h=810&crop=1",
+      "translated_title": "Creative Human Programming Is King, Bain Report Says",
+      "translated_summary": "An AI report by Bain says there is a flood of cheap artificial intelligence content but premium, human created content remains king.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "31分钟前"
+    },
     {
       "id": "727ff5d6bdef",
       "title": "Will Smith accused of using AI to create crowd footage in video",
@@ -14,7 +28,7 @@
       "translated_summary": "Will Smith's video featuring song \"You Can Make It\" sparks controversy as viewers notice alleged artificial intelligence-generated crowd scenes with distorted fan images.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11分钟前"
+      "time": "55分钟前"
     },
     {
       "id": "7c819d5bb160",
@@ -28,7 +42,7 @@
       "translated_summary": "Best Buy topped Wall Street estimates for second-quarter sales and profit on Thursday, driven by strong online sales and a surge in demand for artificial intelligence-powered computers, mobile phones and other devices.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d0321e7eb9ce",
@@ -42,7 +56,7 @@
       "translated_summary": "Best Buy posted a surprise rise in second-quarter sales on Thursday, driven by strong online sales and a surge in demand for artificial intelligence-powered computers, mobile phones and other devices.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "8a1acddc311a",
@@ -56,7 +70,7 @@
       "translated_summary": "Volkswagen has extended its 'factory cloud' partnership with Amazon Web Services by another five years, the German carmaker said on Thursday, as it rolls out the use of artificial intelligence to improve production and reduce costs.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "adf450e8fddb",
@@ -84,7 +98,7 @@
       "translated_summary": "Snowflake shares jumped about 14% on Thursday riding a wave of demand for its artificial intelligence database products, as companies race to modernize their data infrastructure and simplify AI adoption.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "f7571ca8d369",
@@ -98,7 +112,7 @@
       "translated_summary": "Snowflake CEO Sridhar Ramaswamy pushed back against the growing narrative that artificial intelligence models are beginning to plateau.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "c669a44a428e",
@@ -112,7 +126,7 @@
       "translated_summary": "As artificial intelligence reshapes industries, experts say non-tech companies can learn from Silicon Valley's playbook.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "6f4face9bccc",
@@ -126,21 +140,7 @@
       "translated_summary": "Stanford University research offers insights for students and young workers as artificial intelligence begins to reshape the labor market.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
-    },
-    {
-      "id": "e76cf3f70db0",
-      "title": "How Nvidia secured another earnings win",
-      "summary": "Nvidia beat earnings estimates on the back of its continuing chip dominance amid the Artificial Intelligence revolution.",
-      "source": "Washington Examiner",
-      "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/3785225/how-nvidia-secured-another-earnings-win/",
-      "publishedAt": "2025-08-28T09:00:00Z",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2023/12/ap22126534046833.jpg",
-      "translated_title": "How Nvidia secured another earnings win",
-      "translated_summary": "Nvidia beat earnings estimates on the back of its continuing chip dominance amid the Artificial Intelligence revolution.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     }
   ]
 }
