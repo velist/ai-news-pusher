@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-28T22:20:54.243330",
+  "last_updated": "2025-08-28T23:20:40.837124",
   "total_count": 10,
   "articles": [
+    {
+      "id": "3f6f93ea93de",
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "summary": "Investors are largely seeing Nvidia earnings as a validation that the artificial intelligence boom has legs. Fueled with fresh optimism, the S&P 500 reached new heights Thursday.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/28/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "publishedAt": "2025-08-28T23:12:26Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108185308-1755092580555-gettyimages-2229791361-anotherday100697787_3kk7d3kl.jpeg?v=1756407859&w=1920&h=1080",
+      "translated_title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+      "translated_summary": "Investors are largely seeing Nvidia earnings as a validation that the artificial intelligence boom has legs. Fueled with fresh optimism, the S&P 500 reached new heights Thursday.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "8分钟前"
+    },
     {
       "id": "65e229c8eece",
       "title": "S&P 500, Dow score record high closes as Nvidia results buttress AI rally",
@@ -14,7 +28,7 @@
       "translated_summary": "The S&P 500 and Dow Jones Industrial Average notched record high closes on Thursday after Nvidia’s quarterly report fell short of investors’ high expectations but confirmed that spending related to artificial intelligence infrastructure remains strong",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22分钟前"
+      "time": "1小时前"
     },
     {
       "id": "46e5feb8d5c3",
@@ -28,7 +42,7 @@
       "translated_summary": "The once-scrappy US startup is now a 20-year-old giant. In its third decade, it faces the promise and peril of artificial intelligence—and the rise of a Chinese rival.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "031297bb654b",
@@ -42,7 +56,7 @@
       "translated_summary": "Stocks hit all-time highs after the US economy grew faster than expected during the latest quarter, boosted by strong consumer spending and big investments in artificial intelligence that eased concerns about the effects of Trump's tariffs.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e33172ac1d1a",
@@ -56,7 +70,7 @@
       "translated_summary": "Elon Musk’s artificial intelligence startup xAI is moving into the coding space. On Thursday, the company released a new agentic coding model called grok-code-fast-1, a tool it describes as “speedy and economical.” The release marks xAI’s push into one of the most competitive frontiers in AI: building assistants that can write and manage code. The",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "1f975ede52b7",
@@ -70,7 +84,7 @@
       "translated_summary": "Dell Technologies raised annual revenue and profit forecasts on Thursday, buoyed by demand for its artificial intelligence-optimized servers that are powered by Nvidia's advanced chips.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "9eb8a52eaf4d",
@@ -84,7 +98,7 @@
       "translated_summary": "Dell Technologies Inc. boosted its annual outlook and posted quarterly sales and profit that topped analysts’ estimates, building on continued strong demand for artificial intelligence servers that power an expanding fleet of data centers.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "e5c16393ae33",
@@ -98,7 +112,7 @@
       "translated_summary": "Elon Musk's artificial intelligence startup, xAI, on Thursday released a new \"speedy and economical\" agentic coding model, marking its entry into a key focus area for AI companies.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "32666e7f2105",
@@ -112,7 +126,7 @@
       "translated_summary": "Microsoft wants to depend more on its own internally built artificial intelligence models for Copilot, which is available in Bing and Windows 11.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "99954ecf0d95",
@@ -126,21 +140,7 @@
       "translated_summary": "Modesto City Schools has launched a 20-member committee focused on how artificial intelligence should be used in classrooms.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "07c7dc505670",
-      "title": "Sen. Blackburn Among Time's Most Influential in AI",
-      "summary": "Sen. Marsha Blackburn, R-Tenn., was named to Time Magazine's list of the 100 Most Influential People in Artificial Intelligence.",
-      "source": "Newsmax",
-      "url": "https://www.newsmax.com/newsfront/marsha-blackburn-time-ai/2025/08/28/id/1224303/",
-      "publishedAt": "2025-08-28T18:03:47Z",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=42dd9e79-223d-46c7-ad3e-93765d554239&SiteName=Newsmax",
-      "translated_title": "Sen. Blackburn Among Time's Most Influential in AI",
-      "translated_summary": "Sen. Marsha Blackburn, R-Tenn., was named to Time Magazine's list of the 100 Most Influential People in Artificial Intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     }
   ]
 }
