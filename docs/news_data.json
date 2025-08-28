@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-28T07:22:35.221371",
+  "last_updated": "2025-08-28T08:30:22.520557",
   "total_count": 10,
   "articles": [
+    {
+      "id": "58d77cb2293b",
+      "title": "Nvidia Q2 Results Aftermath: Crypto AI Tokens Edge Lower Amid Decline In Chip Giant's Stock",
+      "summary": "Artificial intelligence-based cryptocurrencies were trading lower early Thursday, coinciding with AI powerhouse Nvidia Corp.'s (NASDAQ:NVDA) post-earnings decline.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/25/08/47377635/nvidia-q2-results-aftermath-crypto-ai-tokens-edge-lower-amid-decline-in-chip-giants-stock",
+      "publishedAt": "2025-08-28T07:36:02Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/28/Coin-Stacks-With-Bear-On-Black-Backgroun.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Nvidia Q2 Results Aftermath: Crypto AI Tokens Edge Lower Amid Decline In Chip Giant's Stock",
+      "translated_summary": "Artificial intelligence-based cryptocurrencies were trading lower early Thursday, coinciding with AI powerhouse Nvidia Corp.'s (NASDAQ:NVDA) post-earnings decline.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "54分钟前"
+    },
     {
       "id": "8d94c03d3afc",
       "title": "Ukraine Wants to Turn Wartime Data Into Bargaining 'Card' With Allies",
@@ -14,7 +28,7 @@
       "translated_summary": "Ukraine's war footage and records, which its digital minister says are \"priceless,\" can be useful for training combat artificial intelligence models.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "fa9576ee91c7",
@@ -28,7 +42,7 @@
       "translated_summary": "White House-appointed \"Crypto Czar\" David Sacks warned Wednesday that Chinese semiconductor manufacturers are surging back despite previous export controls, citing new production data showing China's chipmakers planning to triple artificial intelligence processor output.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "71931082af2c",
@@ -42,7 +56,7 @@
       "translated_summary": "Jensen Huang dismissed concern about an end to a spending boom on artificial intelligence chips, projecting opportunities will expand into a multi-trillion-dollar market over the next five years.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "c24e6917bdea",
@@ -56,7 +70,7 @@
       "translated_summary": "Chipmaker NVIDIA Corp.'s (NASDAQ: NVDA) CEO, Jensen Huang, just announced an optimistic vision for the future of artificial intelligence during the company's second-quarter earnings call on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "3d9bca5ec8d2",
@@ -70,7 +84,7 @@
       "translated_summary": "Asian stocks experienced a volatile session on Thursday as worries over the outlook for artificial intelligence bellwether Nvidia's China business hit its regional suppliers, while igniting outsized gains in its Chinese rivals.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "d9b17fd598bc",
@@ -84,7 +98,7 @@
       "translated_summary": "Asian stocks wobbled on Thursday as blowout earnings from artificial intelligence bellwether Nvidia were offset by worries over the outlook for its China business, while the dollar remained shaky as investors bet on a near-term rate cut.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "a73c72273238",
@@ -98,7 +112,7 @@
       "translated_summary": "Read Promising Artificial Intelligence Stocks To Follow Today – August 26th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "d5693a01a5b7",
@@ -112,7 +126,7 @@
       "translated_summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "5f82335b7698",
@@ -126,21 +140,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "898f65455548",
-      "title": "Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy’s death",
-      "summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
-      "source": "Live 5 News WCSC",
-      "url": "https://www.live5news.com/2025/08/27/study-says-ai-chatbots-need-fix-suicide-response-family-sues-over-chatgpt-role-boys-death/",
-      "publishedAt": "2025-08-27T23:49:41Z",
-      "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/UH2PFKMJNNGXFARSDRDHMKUTLU.jpg?auth=f23c998febee33fa72228fc50005ca56fe9f961af4a073fde3ffe519b211122d&width=1200&height=600&smart=true",
-      "translated_title": "Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy’s death",
-      "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     }
   ]
 }
