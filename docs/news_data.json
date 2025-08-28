@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-28T10:24:37.724692",
+  "last_updated": "2025-08-28T11:18:37.306186",
   "total_count": 10,
   "articles": [
+    {
+      "id": "adf450e8fddb",
+      "title": "Did Nvidia Just Pop an AI Bubble? Here's What the Market Says",
+      "summary": "Lukewarm results from artificial intelligence giant Nvidia have the entire market asking if the AI boom is heading for the exits.",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/did-nvidia-just-pop-an-ai-bubble-heres-what-the-market-says-2000649432",
+      "publishedAt": "2025-08-28T10:46:19Z",
+      "image": "https://gizmodo.com/app/uploads/2024/11/Jensen-Huang-Nvidia-1.jpg",
+      "translated_title": "Did Nvidia Just Pop an AI Bubble? Here's What the Market Says",
+      "translated_summary": "Lukewarm results from artificial intelligence giant Nvidia have the entire market asking if the AI boom is heading for the exits.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "32分钟前"
+    },
     {
       "id": "35746c03e044",
       "title": "Snowflake shares surge as AI boom fuels demand for data platforms",
@@ -14,7 +28,7 @@
       "translated_summary": "Snowflake shares jumped about 14% on Thursday riding a wave of demand for its artificial intelligence database products, as companies race to modernize their data infrastructure and simplify AI adoption.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "25分钟前"
+      "time": "1小时前"
     },
     {
       "id": "f7571ca8d369",
@@ -28,7 +42,7 @@
       "translated_summary": "Snowflake CEO Sridhar Ramaswamy pushed back against the growing narrative that artificial intelligence models are beginning to plateau.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c669a44a428e",
@@ -42,7 +56,7 @@
       "translated_summary": "As artificial intelligence reshapes industries, experts say non-tech companies can learn from Silicon Valley's playbook.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "6f4face9bccc",
@@ -56,7 +70,7 @@
       "translated_summary": "Stanford University research offers insights for students and young workers as artificial intelligence begins to reshape the labor market.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "58d77cb2293b",
@@ -70,7 +84,7 @@
       "translated_summary": "Artificial intelligence-based cryptocurrencies were trading lower early Thursday, coinciding with AI powerhouse Nvidia Corp.'s (NASDAQ:NVDA) post-earnings decline.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "8d94c03d3afc",
@@ -84,7 +98,7 @@
       "translated_summary": "Ukraine's war footage and records, which its digital minister says are \"priceless,\" can be useful for training combat artificial intelligence models.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "fa9576ee91c7",
@@ -112,7 +126,7 @@
       "translated_summary": "Jensen Huang dismissed concern about an end to a spending boom on artificial intelligence chips, projecting opportunities will expand into a multi-trillion-dollar market over the next five years.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "7d3b4ef6b700",
@@ -126,21 +140,7 @@
       "translated_summary": "Nvidia CEO Jensen Huang on Wednesday dismissed concern about an end to a spending boom on artificial intelligence chips and said opportunities will expand into a multi-trillion-dollar market over the next five years.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "c24e6917bdea",
-      "title": "Jensen Huang Declares 'A New Industrial Revolution Has Started': Sees 100x To 1000x Compute Demand Surge - $3-$4 Trillion 'Opportunity' For Nvidia",
-      "summary": "Chipmaker NVIDIA Corp.'s (NASDAQ: NVDA) CEO, Jensen Huang, just announced an optimistic vision for the future of artificial intelligence during the company's second-quarter earnings call on Wednesday.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/earnings/25/08/47375148/jensen-huang-declares-a-new-industrial-revolution-has-started-sees-100x-to-1000x-compute-demand-surge-3-4-trillion-opportunity-for-nvidia",
-      "publishedAt": "2025-08-28T02:30:29Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/08/27/Jensen-Huang--Nvidia-Founder-And-Ceo-And.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "Jensen Huang Declares 'A New Industrial Revolution Has Started': Sees 100x To 1000x Compute Demand Surge - $3-$4 Trillion 'Opportunity' For Nvidia",
-      "translated_summary": "Chipmaker NVIDIA Corp.'s (NASDAQ: NVDA) CEO, Jensen Huang, just announced an optimistic vision for the future of artificial intelligence during the company's second-quarter earnings call on Wednesday.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     }
   ]
 }
