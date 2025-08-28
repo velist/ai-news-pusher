@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-28T06:34:27.170130",
+  "last_updated": "2025-08-28T07:22:35.221371",
   "total_count": 10,
   "articles": [
     {
@@ -28,7 +28,7 @@
       "translated_summary": "White House-appointed \"Crypto Czar\" David Sacks warned Wednesday that Chinese semiconductor manufacturers are surging back despite previous export controls, citing new production data showing China's chipmakers planning to triple artificial intelligence processor output.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "71931082af2c",
@@ -42,7 +42,7 @@
       "translated_summary": "Jensen Huang dismissed concern about an end to a spending boom on artificial intelligence chips, projecting opportunities will expand into a multi-trillion-dollar market over the next five years.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "c24e6917bdea",
@@ -59,6 +59,20 @@
       "time": "4小时前"
     },
     {
+      "id": "3d9bca5ec8d2",
+      "title": "Asia markets rocky as Nvidia drops, China chipmakers blast off",
+      "summary": "Asian stocks experienced a volatile session on Thursday as worries over the outlook for artificial intelligence bellwether Nvidia's China business hit its regional suppliers, while igniting outsized gains in its Chinese rivals.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-update-1-wrapup-2-2025-08-28/",
+      "publishedAt": "2025-08-28T01:57:34Z",
+      "image": "https://www.reuters.com/resizer/v2/37VIJKVNMJLWDPKYNL42ORW46Y.jpg?auth=a941f26e9f0abd1a325fe5b86e1cfeb5cf95598b606aca2e89e30e849d5e5cd2&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Asia markets rocky as Nvidia drops, China chipmakers blast off",
+      "translated_summary": "Asian stocks experienced a volatile session on Thursday as worries over the outlook for artificial intelligence bellwether Nvidia's China business hit its regional suppliers, while igniting outsized gains in its Chinese rivals.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "5小时前"
+    },
+    {
       "id": "d9b17fd598bc",
       "title": "Asia markets waver, Nvidia drops after earnings beat",
       "summary": "Asian stocks wobbled on Thursday as blowout earnings from artificial intelligence bellwether Nvidia were offset by worries over the outlook for its China business, while the dollar remained shaky as investors bet on a near-term rate cut.",
@@ -70,7 +84,7 @@
       "translated_summary": "Asian stocks wobbled on Thursday as blowout earnings from artificial intelligence bellwether Nvidia were offset by worries over the outlook for its China business, while the dollar remained shaky as investors bet on a near-term rate cut.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "a73c72273238",
@@ -98,21 +112,7 @@
       "translated_summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
-    },
-    {
-      "id": "a53f29644a06",
-      "title": "Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy’s death",
-      "summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
-      "source": "WIS10",
-      "url": "https://www.wistv.com/2025/08/27/study-says-ai-chatbots-need-fix-suicide-response-family-sues-over-chatgpt-role-boys-death/",
-      "publishedAt": "2025-08-27T23:49:41Z",
-      "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/UH2PFKMJNNGXFARSDRDHMKUTLU.jpg?auth=f23c998febee33fa72228fc50005ca56fe9f961af4a073fde3ffe519b211122d&width=1200&height=600&smart=true",
-      "translated_title": "Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy’s death",
-      "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "5f82335b7698",
@@ -126,7 +126,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "898f65455548",
@@ -140,7 +140,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     }
   ]
 }
