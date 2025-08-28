@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-28T03:04:45.622256",
+  "last_updated": "2025-08-28T04:27:09.147513",
   "total_count": 10,
   "articles": [
+    {
+      "id": "71931082af2c",
+      "title": "Nvidia CEO says AI boom far from over",
+      "summary": "Jensen Huang dismissed concern about an end to a spending boom on artificial intelligence chips, projecting opportunities will expand into a multi-trillion-dollar market over the next five years.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/nvidia-ceo-says-ai-boom-far-over-2025-08-28/",
+      "publishedAt": "2025-08-28T03:03:06Z",
+      "image": "https://www.reuters.com/resizer/v2/2E6VRBMDCFJWRKJQEM3AU5X35M.jpg?auth=3f4e961d91973da550be7cdeda0d5038933f5d26e0728c16c279bccff2ace52f&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Nvidia CEO says AI boom far from over",
+      "translated_summary": "Jensen Huang dismissed concern about an end to a spending boom on artificial intelligence chips, projecting opportunities will expand into a multi-trillion-dollar market over the next five years.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "c24e6917bdea",
       "title": "Jensen Huang Declares 'A New Industrial Revolution Has Started': Sees 100x To 1000x Compute Demand Surge - $3-$4 Trillion 'Opportunity' For Nvidia",
@@ -14,7 +28,7 @@
       "translated_summary": "Chipmaker NVIDIA Corp.'s (NASDAQ: NVDA) CEO, Jensen Huang, just announced an optimistic vision for the future of artificial intelligence during the company's second-quarter earnings call on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "34分钟前"
+      "time": "1小时前"
     },
     {
       "id": "d9b17fd598bc",
@@ -28,7 +42,7 @@
       "translated_summary": "Asian stocks wobbled on Thursday as blowout earnings from artificial intelligence bellwether Nvidia were offset by worries over the outlook for its China business, while the dollar remained shaky as investors bet on a near-term rate cut.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "a53f29644a06",
@@ -42,7 +56,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "5f82335b7698",
@@ -56,7 +70,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "898f65455548",
@@ -70,7 +84,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "3d2e87d0ea76",
@@ -84,7 +98,21 @@
       "translated_summary": "Huang predicted the artificial intelligence market in the world's second-biggest economy will grow 50% next year.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
+    },
+    {
+      "id": "fbf6604b8d5b",
+      "title": "Nvidia's AI chip sales surged again in latest quarter, but worries about a tech bubble persist",
+      "summary": "Nvidia’s sales of its artificial intelligence chipsets rose at a slower pace than analysts anticipated during the company’s latest quarter, a",
+      "source": "Breitbart News Network",
+      "url": "https://www.breitbart.com/news/nvidias-ai-chip-sales-surged-again-in-latest-quarter-but-worries-about-a-tech-bubble-persist/",
+      "publishedAt": "2025-08-27T20:55:06Z",
+      "image": "https://media.breitbart.com/media/2025/08/wi/ap/nvidia-32469-nvidia-visitors-commands-robot-at-nvidia-booth-3rd-china-internation-640x335.jpg",
+      "translated_title": "Nvidia's AI chip sales surged again in latest quarter, but worries about a tech bubble persist",
+      "translated_summary": "Nvidia’s sales of its artificial intelligence chipsets rose at a slower pace than analysts anticipated during the company’s latest quarter, a",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7小时前"
     },
     {
       "id": "2acb24d21f83",
@@ -98,7 +126,7 @@
       "translated_summary": "Artificial intelligence could break the traditional status ladder to success. That could mean more social mobility – or a lost generation.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "63748eedbe31",
@@ -112,35 +140,7 @@
       "translated_summary": "Anthropic's class action settlement with a group of U.S. authors this week was a first, but legal experts said the case's distinct qualities complicate the deal's potential influence on a wave of ongoing copyright lawsuits against other artificial-intelligence focused companies like OpenAI, Microsoft and Meta Platforms .",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
-    },
-    {
-      "id": "598066797997",
-      "title": "Snowflake Gives Strong Outlook, Wiping Out Software Malaise Fear",
-      "summary": "Snowflake Inc. gave a sales outlook for the fiscal year that topped analysts’ estimates, overcoming anxiety that software vendors will be hurt as the economy slows and new artificial intelligence companies take away business. The shares jumped in extended trading.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-27/snowflake-gives-strong-outlook-wiping-out-software-malaise-fear",
-      "publishedAt": "2025-08-27T20:27:25Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKxzPXPQ8kN0/v0/1200x800.jpg",
-      "translated_title": "Snowflake Gives Strong Outlook, Wiping Out Software Malaise Fear",
-      "translated_summary": "Snowflake Inc. gave a sales outlook for the fiscal year that topped analysts’ estimates, overcoming anxiety that software vendors will be hurt as the economy slows and new artificial intelligence companies take away business. The shares jumped in extended trading.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "9b5bc721032b",
-      "title": "Nvidia Gives Lackluster Forecast, Stoking Fears of AI Slowdown",
-      "summary": "Nvidia Corp., the world’s most valuable publicly traded company, gave a tepid revenue forecast for the current period, fueling concerns that a massive run-up in artificial intelligence spending is slowing.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-27/nvidia-gives-lackluster-forecast-stoking-fears-of-ai-slowdown",
-      "publishedAt": "2025-08-27T20:25:51Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUwmdFNtEvBc/v0/1200x800.jpg",
-      "translated_title": "Nvidia Gives Lackluster Forecast, Stoking Fears of AI Slowdown",
-      "translated_summary": "Nvidia Corp., the world’s most valuable publicly traded company, gave a tepid revenue forecast for the current period, fueling concerns that a massive run-up in artificial intelligence spending is slowing.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     }
   ]
 }
