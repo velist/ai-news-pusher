@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-28T16:28:46.324599",
+  "last_updated": "2025-08-28T17:19:29.447389",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c22e2f1587ab",
+      "title": "Nvidia forecasts decelerating growth after two-year AI boom",
+      "summary": "Nvidia Corp., the world’s most valuable company, gave a tepid revenue forecast for the current period, signaling that growth is decelerating after a staggering two-year boom in artificial intelligence spending.",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/business/story/2025-08-28/nvidia-forecasts-decelerating-growth-after-two-year-ai-boom",
+      "publishedAt": "2025-08-28T17:00:01Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/35a66d8/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F3f%2F11ecd47321cd47d7f84ea939dd4d%2F1x-1.jpg",
+      "translated_title": "Nvidia forecasts decelerating growth after two-year AI boom",
+      "translated_summary": "Nvidia Corp., the world’s most valuable company, gave a tepid revenue forecast for the current period, signaling that growth is decelerating after a staggering two-year boom in artificial intelligence spending.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "19分钟前"
+    },
     {
       "id": "e7ef48de3a21",
       "title": "Nvidia forecasts decelerating growth after two-year AI boom",
@@ -14,7 +28,7 @@
       "translated_summary": "Nvidia Corp., the world's most valuable company, gave a tepid revenue forecast for the current period, signaling that growth is decelerating after a staggering two-year boom in artificial intelligence spending.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "32分钟前"
+      "time": "1小时前"
     },
     {
       "id": "1a82a93568c1",
@@ -28,7 +42,7 @@
       "translated_summary": "The politics of artificial intelligence are quickly becoming a contest over regulation instead of enabling innovation.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "39分钟前"
+      "time": "1小时前"
     },
     {
       "id": "49909301d7e2",
@@ -42,7 +56,7 @@
       "translated_summary": "Chinese artificial intelligence chipmaker Cambricon Technologies Corp. issued a warning to investors about elevated trading risks after its shares more than doubled in one month.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "a8e30ced2538",
@@ -56,7 +70,7 @@
       "translated_summary": "The U.S. economy grew faster than initially thought in the second quarter, in part driven by business investment in intellectual property such as artificial intelligence, but tariffs on imports continued to cloud the outlook.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "d6cad389d09c",
@@ -70,7 +84,7 @@
       "translated_summary": "An AI report by Bain says there is a flood of cheap artificial intelligence content but premium, human created content remains king.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "727ff5d6bdef",
@@ -84,7 +98,7 @@
       "translated_summary": "Will Smith's video featuring song \"You Can Make It\" sparks controversy as viewers notice alleged artificial intelligence-generated crowd scenes with distorted fan images.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "7c819d5bb160",
@@ -98,7 +112,7 @@
       "translated_summary": "Best Buy topped Wall Street estimates for second-quarter sales and profit on Thursday, driven by strong online sales and a surge in demand for artificial intelligence-powered computers, mobile phones and other devices.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "3feb244cda8d",
@@ -112,7 +126,7 @@
       "translated_summary": "Best Buy topped Wall Street estimates for second-quarter results on Thursday, driven by strong sales of Nintendo Switch gaming consoles and a surge in demand for artificial intelligence-powered computers and mobile phones.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "d0321e7eb9ce",
@@ -126,21 +140,7 @@
       "translated_summary": "Best Buy posted a surprise rise in second-quarter sales on Thursday, driven by strong online sales and a surge in demand for artificial intelligence-powered computers, mobile phones and other devices.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "8a1acddc311a",
-      "title": "Volkswagen extends Amazon cloud partnership to save costs with AI",
-      "summary": "Volkswagen has extended its 'factory cloud' partnership with Amazon Web Services by another five years, the German carmaker said on Thursday, as it rolls out the use of artificial intelligence to improve production and reduce costs.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/autos-transportation/volkswagen-extends-amazon-cloud-partnership-save-costs-with-ai-2025-08-28/",
-      "publishedAt": "2025-08-28T11:02:35Z",
-      "image": "https://www.reuters.com/resizer/v2/NPQNDOOUOBL6PG3N7TBGKA3SZQ.jpg?auth=23bb207e36abcf910f36bf0ab7981d8655abaa4f0a5741ce8b379775c5f7a3ce&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Volkswagen extends Amazon cloud partnership to save costs with AI",
-      "translated_summary": "Volkswagen has extended its 'factory cloud' partnership with Amazon Web Services by another five years, the German carmaker said on Thursday, as it rolls out the use of artificial intelligence to improve production and reduce costs.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
