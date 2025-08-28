@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-28T18:32:36.142923",
+  "last_updated": "2025-08-28T19:18:08.165786",
   "total_count": 10,
   "articles": [
+    {
+      "id": "32666e7f2105",
+      "title": "Microsoft tests MAI-1-preview AI model boost to Copilot, rival OpenAI",
+      "summary": "Microsoft wants to depend more on its own internally built artificial intelligence models for Copilot, which is available in Bing and Windows 11.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/28/microsoft-tests-mai-1-preview-ai-model-boost-to-copilot-rival-openai.html",
+      "publishedAt": "2025-08-28T18:32:54Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108192018-1756403834043-gettyimages-2207890426-MICROSOFT_COPILOT.jpeg?v=1756403916&w=1920&h=1080",
+      "translated_title": "Microsoft tests MAI-1-preview AI model boost to Copilot, rival OpenAI",
+      "translated_summary": "Microsoft wants to depend more on its own internally built artificial intelligence models for Copilot, which is available in Bing and Windows 11.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "45分钟前"
+    },
     {
       "id": "99954ecf0d95",
       "title": "Modesto school district launches committee to focus on how AI should be used in classrooms",
@@ -14,7 +28,7 @@
       "translated_summary": "Modesto City Schools has launched a 20-member committee focused on how artificial intelligence should be used in classrooms.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13分钟前"
+      "time": "59分钟前"
     },
     {
       "id": "07c7dc505670",
@@ -28,7 +42,7 @@
       "translated_summary": "Sen. Marsha Blackburn, R-Tenn., was named to Time Magazine's list of the 100 Most Influential People in Artificial Intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "28分钟前"
+      "time": "1小时前"
     },
     {
       "id": "2558e686bd06",
@@ -42,7 +56,7 @@
       "translated_summary": "Researchers say they've trained artificial intelligence models to assess genetic risks for 10 inherited diseases on a spectrum rather than simply \"yes/no.\"",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "32分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c22e2f1587ab",
@@ -56,7 +70,7 @@
       "translated_summary": "Nvidia Corp., the world’s most valuable company, gave a tepid revenue forecast for the current period, signaling that growth is decelerating after a staggering two-year boom in artificial intelligence spending.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e7ef48de3a21",
@@ -70,7 +84,7 @@
       "translated_summary": "Nvidia Corp., the world's most valuable company, gave a tepid revenue forecast for the current period, signaling that growth is decelerating after a staggering two-year boom in artificial intelligence spending.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "1a82a93568c1",
@@ -84,7 +98,7 @@
       "translated_summary": "The politics of artificial intelligence are quickly becoming a contest over regulation instead of enabling innovation.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "49909301d7e2",
@@ -98,7 +112,7 @@
       "translated_summary": "Chinese artificial intelligence chipmaker Cambricon Technologies Corp. issued a warning to investors about elevated trading risks after its shares more than doubled in one month.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "af654709a89d",
@@ -112,7 +126,7 @@
       "translated_summary": "The U.S. economy grew faster than initially thought in the second quarter, in part driven by business investment in intellectual property such as artificial intelligence, but tariffs on imports continued to cloud the picture.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "a8e30ced2538",
@@ -126,21 +140,7 @@
       "translated_summary": "The U.S. economy grew faster than initially thought in the second quarter, in part driven by business investment in intellectual property such as artificial intelligence, but tariffs on imports continued to cloud the outlook.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "5小时前"
-    },
-    {
-      "id": "d6cad389d09c",
-      "title": "Creative Human Programming Is King, Bain Report Says",
-      "summary": "An AI report by Bain says there is a flood of cheap artificial intelligence content but premium, human created content remains king.",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ai-report-bain-cheap-programming-human-content-king-1236353969/",
-      "publishedAt": "2025-08-28T13:00:00Z",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/Screen-Shot-2024-10-04-at-11.41.43-AM.jpg?w=1440&h=810&crop=1",
-      "translated_title": "Creative Human Programming Is King, Bain Report Says",
-      "translated_summary": "An AI report by Bain says there is a flood of cheap artificial intelligence content but premium, human created content remains king.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
