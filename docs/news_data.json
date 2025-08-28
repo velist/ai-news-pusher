@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-28T01:48:38.455735",
+  "last_updated": "2025-08-28T03:04:45.622256",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c24e6917bdea",
+      "title": "Jensen Huang Declares 'A New Industrial Revolution Has Started': Sees 100x To 1000x Compute Demand Surge - $3-$4 Trillion 'Opportunity' For Nvidia",
+      "summary": "Chipmaker NVIDIA Corp.'s (NASDAQ: NVDA) CEO, Jensen Huang, just announced an optimistic vision for the future of artificial intelligence during the company's second-quarter earnings call on Wednesday.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/earnings/25/08/47375148/jensen-huang-declares-a-new-industrial-revolution-has-started-sees-100x-to-1000x-compute-demand-surge-3-4-trillion-opportunity-for-nvidia",
+      "publishedAt": "2025-08-28T02:30:29Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/27/Jensen-Huang--Nvidia-Founder-And-Ceo-And.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Jensen Huang Declares 'A New Industrial Revolution Has Started': Sees 100x To 1000x Compute Demand Surge - $3-$4 Trillion 'Opportunity' For Nvidia",
+      "translated_summary": "Chipmaker NVIDIA Corp.'s (NASDAQ: NVDA) CEO, Jensen Huang, just announced an optimistic vision for the future of artificial intelligence during the company's second-quarter earnings call on Wednesday.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "34分钟前"
+    },
+    {
+      "id": "d9b17fd598bc",
+      "title": "Asia markets waver, Nvidia drops after earnings beat",
+      "summary": "Asian stocks wobbled on Thursday as blowout earnings from artificial intelligence bellwether Nvidia were offset by worries over the outlook for its China business, while the dollar remained shaky as investors bet on a near-term rate cut.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2025-08-28/",
+      "publishedAt": "2025-08-28T01:57:34Z",
+      "image": "https://www.reuters.com/resizer/v2/37VIJKVNMJLWDPKYNL42ORW46Y.jpg?auth=a941f26e9f0abd1a325fe5b86e1cfeb5cf95598b606aca2e89e30e849d5e5cd2&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Asia markets waver, Nvidia drops after earnings beat",
+      "translated_summary": "Asian stocks wobbled on Thursday as blowout earnings from artificial intelligence bellwether Nvidia were offset by worries over the outlook for its China business, while the dollar remained shaky as investors bet on a near-term rate cut.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "a53f29644a06",
       "title": "Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy’s death",
@@ -14,7 +42,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "5f82335b7698",
@@ -28,7 +56,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "898f65455548",
@@ -42,7 +70,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "3d2e87d0ea76",
@@ -56,7 +84,7 @@
       "translated_summary": "Huang predicted the artificial intelligence market in the world's second-biggest economy will grow 50% next year.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "2acb24d21f83",
@@ -70,7 +98,7 @@
       "translated_summary": "Artificial intelligence could break the traditional status ladder to success. That could mean more social mobility – or a lost generation.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "63748eedbe31",
@@ -84,7 +112,7 @@
       "translated_summary": "Anthropic's class action settlement with a group of U.S. authors this week was a first, but legal experts said the case's distinct qualities complicate the deal's potential influence on a wave of ongoing copyright lawsuits against other artificial-intelligence focused companies like OpenAI, Microsoft and Meta Platforms .",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "598066797997",
@@ -98,7 +126,7 @@
       "translated_summary": "Snowflake Inc. gave a sales outlook for the fiscal year that topped analysts’ estimates, overcoming anxiety that software vendors will be hurt as the economy slows and new artificial intelligence companies take away business. The shares jumped in extended trading.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "9b5bc721032b",
@@ -112,35 +140,7 @@
       "translated_summary": "Nvidia Corp., the world’s most valuable publicly traded company, gave a tepid revenue forecast for the current period, fueling concerns that a massive run-up in artificial intelligence spending is slowing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "d332b891941c",
-      "title": "AI leader Nvidia forecasts third-quarter revenue above estimates",
-      "summary": "Nvidia forecast third-quarter revenue above Wall Street estimates on Wednesday, helped by robust demand for its artificial intelligence chips from cloud providers expanding infrastructure to power generative AI technology.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/ai-leader-nvidia-forecasts-third-quarter-revenue-above-estimates-2025-08-27/",
-      "publishedAt": "2025-08-27T20:24:29Z",
-      "image": "https://www.reuters.com/resizer/v2/B5NLIMG6C5KRFF2YTX66WZ6MHM.jpg?auth=bf09732084fcb02b4e0a5fc0cd8f9d6b7e7963fa911240d0c232005dc3147c1a&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "AI leader Nvidia forecasts third-quarter revenue above estimates",
-      "translated_summary": "Nvidia forecast third-quarter revenue above Wall Street estimates on Wednesday, helped by robust demand for its artificial intelligence chips from cloud providers expanding infrastructure to power generative AI technology.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "5小时前"
-    },
-    {
-      "id": "d124201635a8",
-      "title": "Nvidia forecasts higher revenue as China clouds future",
-      "summary": "Nvidia forecast third-quarter revenue above Wall Street estimates on Wednesday, helped by robust demand for its artificial intelligence chips from cloud providers expanding infrastructure to power generative AI technology.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/nvidia-forecasts-higher-revenue-china-clouds-future-2025-08-27/",
-      "publishedAt": "2025-08-27T20:24:29Z",
-      "image": "https://www.reuters.com/resizer/v2/B5NLIMG6C5KRFF2YTX66WZ6MHM.jpg?auth=bf09732084fcb02b4e0a5fc0cd8f9d6b7e7963fa911240d0c232005dc3147c1a&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Nvidia forecasts higher revenue as China clouds future",
-      "translated_summary": "Nvidia forecast third-quarter revenue above Wall Street estimates on Wednesday, helped by robust demand for its artificial intelligence chips from cloud providers expanding infrastructure to power generative AI technology.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
