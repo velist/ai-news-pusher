@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-28T04:27:09.147513",
+  "last_updated": "2025-08-28T05:22:11.177035",
   "total_count": 10,
   "articles": [
+    {
+      "id": "8d94c03d3afc",
+      "title": "Ukraine Wants to Turn Wartime Data Into Bargaining 'Card' With Allies",
+      "summary": "Ukraine's war footage and records, which its digital minister says are \"priceless,\" can be useful for training combat artificial intelligence models.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ukraine-turn-wartime-data-bargaining-chip-card-allies-fedorov-drones-2025-8",
+      "publishedAt": "2025-08-28T04:33:23Z",
+      "image": "https://i.insider.com/68afcac5cfc04e97619c2bf3?width=1200&format=jpeg",
+      "translated_title": "Ukraine Wants to Turn Wartime Data Into Bargaining 'Card' With Allies",
+      "translated_summary": "Ukraine's war footage and records, which its digital minister says are \"priceless,\" can be useful for training combat artificial intelligence models.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "48分钟前"
+    },
+    {
+      "id": "fa9576ee91c7",
+      "title": "Trump's First-Term Ban On EUV Tools Stalled Huawei, SMIC, Cambricon - Now China's Chip Factories Are Roaring Back, Warns David Sacks",
+      "summary": "White House-appointed \"Crypto Czar\" David Sacks warned Wednesday that Chinese semiconductor manufacturers are surging back despite previous export controls, citing new production data showing China's chipmakers planning to triple artificial intelligence processor output.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/25/08/47375602/trumps-first-term-ban-on-euv-tools-stalled-huawei-smic-cambricon-now-chinas-chip-factories-are-roaring-back-warns-david-sacks",
+      "publishedAt": "2025-08-28T04:20:05Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/28/National-Harbor--Md--Usa--February-24--2.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Trump's First-Term Ban On EUV Tools Stalled Huawei, SMIC, Cambricon - Now China's Chip Factories Are Roaring Back, Warns David Sacks",
+      "translated_summary": "White House-appointed \"Crypto Czar\" David Sacks warned Wednesday that Chinese semiconductor manufacturers are surging back despite previous export controls, citing new production data showing China's chipmakers planning to triple artificial intelligence processor output.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "71931082af2c",
       "title": "Nvidia CEO says AI boom far from over",
@@ -14,7 +42,7 @@
       "translated_summary": "Jensen Huang dismissed concern about an end to a spending boom on artificial intelligence chips, projecting opportunities will expand into a multi-trillion-dollar market over the next five years.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c24e6917bdea",
@@ -28,7 +56,7 @@
       "translated_summary": "Chipmaker NVIDIA Corp.'s (NASDAQ: NVDA) CEO, Jensen Huang, just announced an optimistic vision for the future of artificial intelligence during the company's second-quarter earnings call on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d9b17fd598bc",
@@ -42,7 +70,21 @@
       "translated_summary": "Asian stocks wobbled on Thursday as blowout earnings from artificial intelligence bellwether Nvidia were offset by worries over the outlook for its China business, while the dollar remained shaky as investors bet on a near-term rate cut.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "d5693a01a5b7",
+      "title": "Luxshare's Bigger Dose of Artificial Intelligence",
+      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+      "source": "Morningstar",
+      "url": "https://www.morningstar.com/company-reports/1325307-luxshares-bigger-dose-of-artificial-intelligence",
+      "publishedAt": "2025-08-28T00:00:00Z",
+      "image": "https://www.morningstar.com/company-reports/:/[object Object]",
+      "translated_title": "Luxshare's Bigger Dose of Artificial Intelligence",
+      "translated_summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "5小时前"
     },
     {
       "id": "a53f29644a06",
@@ -56,7 +98,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "5f82335b7698",
@@ -70,7 +112,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "898f65455548",
@@ -84,7 +126,7 @@
       "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "3d2e87d0ea76",
@@ -99,48 +141,6 @@
       "category": "热门",
       "category_icon": "🔥",
       "time": "5小时前"
-    },
-    {
-      "id": "fbf6604b8d5b",
-      "title": "Nvidia's AI chip sales surged again in latest quarter, but worries about a tech bubble persist",
-      "summary": "Nvidia’s sales of its artificial intelligence chipsets rose at a slower pace than analysts anticipated during the company’s latest quarter, a",
-      "source": "Breitbart News Network",
-      "url": "https://www.breitbart.com/news/nvidias-ai-chip-sales-surged-again-in-latest-quarter-but-worries-about-a-tech-bubble-persist/",
-      "publishedAt": "2025-08-27T20:55:06Z",
-      "image": "https://media.breitbart.com/media/2025/08/wi/ap/nvidia-32469-nvidia-visitors-commands-robot-at-nvidia-booth-3rd-china-internation-640x335.jpg",
-      "translated_title": "Nvidia's AI chip sales surged again in latest quarter, but worries about a tech bubble persist",
-      "translated_summary": "Nvidia’s sales of its artificial intelligence chipsets rose at a slower pace than analysts anticipated during the company’s latest quarter, a",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "2acb24d21f83",
-      "title": "Will AI Make an Elite College Degree Worthless?",
-      "summary": "Artificial intelligence could break the traditional status ladder to success. That could mean more social mobility – or a lost generation.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/opinion/articles/2025-08-27/college-ai-students-status-degree-ivy-league",
-      "publishedAt": "2025-08-27T20:30:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/d20b39d/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fac%2F5f%2Fde4f24254a018a314030df3f7caa%2Fgettyimages-524455760.jpg",
-      "translated_title": "Will AI Make an Elite College Degree Worthless?",
-      "translated_summary": "Artificial intelligence could break the traditional status ladder to success. That could mean more social mobility – or a lost generation.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "63748eedbe31",
-      "title": "Anthropic’s surprise settlement adds new wrinkle in AI copyright war",
-      "summary": "Anthropic's class action settlement with a group of U.S. authors this week was a first, but legal experts said the case's distinct qualities complicate the deal's potential influence on a wave of ongoing copyright lawsuits against other artificial-intelligence focused companies like OpenAI, Microsoft and Meta Platforms .",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/anthropics-surprise-settlement-adds-new-wrinkle-ai-copyright-war-2025-08-27/",
-      "publishedAt": "2025-08-27T20:27:37Z",
-      "image": "https://www.reuters.com/resizer/v2/44VJHOJKNRNB3F6CN5KCCU4HNA.jpg?auth=9ee39acd7b8495f1558cfafed26233723343f84cc6ee9b1afec6d9bfcbed3fb6&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Anthropic’s surprise settlement adds new wrinkle in AI copyright war",
-      "translated_summary": "Anthropic's class action settlement with a group of U.S. authors this week was a first, but legal experts said the case's distinct qualities complicate the deal's potential influence on a wave of ongoing copyright lawsuits against other artificial-intelligence focused companies like OpenAI, Microsoft and Meta Platforms .",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
     }
   ]
 }
