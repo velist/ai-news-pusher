@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-28T08:30:22.520557",
+  "last_updated": "2025-08-28T09:24:43.955281",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c669a44a428e",
+      "title": "What AI got right. Lessons for the rest of the business world.",
+      "summary": "As artificial intelligence reshapes industries, experts say non-tech companies can learn from Silicon Valley's playbook.",
+      "source": "USA TODAY",
+      "url": "https://www.usatoday.com/story/money/2025/08/28/ceo-approach-to-ai-lessons/85797800007/",
+      "publishedAt": "2025-08-28T09:00:53Z",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/27/USAT/85842890007-20250819-t-100122-z-1455002650-rc-21-p-1-a-9-ed-5-h-rtrmadp-3-usaaipoll.JPG?crop=3999,2250,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "translated_title": "What AI got right. Lessons for the rest of the business world.",
+      "translated_summary": "As artificial intelligence reshapes industries, experts say non-tech companies can learn from Silicon Valley's playbook.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "23分钟前"
+    },
+    {
+      "id": "6f4face9bccc",
+      "title": "New study sheds light on what kinds of workers are losing jobs to AI",
+      "summary": "Stanford University research offers insights for students and young workers as artificial intelligence begins to reshape the labor market.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ai-artificial-intelligence-jobs-workers/",
+      "publishedAt": "2025-08-28T09:00:11Z",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/27/d24cec12-951e-4b1d-bdc2-8045cb193e9c/thumbnail/1200x630/c305c484d9a110da0eefb1a324eebad8/gettyimages-1418544777.jpg",
+      "translated_title": "New study sheds light on what kinds of workers are losing jobs to AI",
+      "translated_summary": "Stanford University research offers insights for students and young workers as artificial intelligence begins to reshape the labor market.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "24分钟前"
+    },
     {
       "id": "58d77cb2293b",
       "title": "Nvidia Q2 Results Aftermath: Crypto AI Tokens Edge Lower Amid Decline In Chip Giant's Stock",
@@ -14,7 +42,7 @@
       "translated_summary": "Artificial intelligence-based cryptocurrencies were trading lower early Thursday, coinciding with AI powerhouse Nvidia Corp.'s (NASDAQ:NVDA) post-earnings decline.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "54分钟前"
+      "time": "1小时前"
     },
     {
       "id": "8d94c03d3afc",
@@ -28,7 +56,7 @@
       "translated_summary": "Ukraine's war footage and records, which its digital minister says are \"priceless,\" can be useful for training combat artificial intelligence models.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "fa9576ee91c7",
@@ -42,7 +70,7 @@
       "translated_summary": "White House-appointed \"Crypto Czar\" David Sacks warned Wednesday that Chinese semiconductor manufacturers are surging back despite previous export controls, citing new production data showing China's chipmakers planning to triple artificial intelligence processor output.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "71931082af2c",
@@ -56,7 +84,7 @@
       "translated_summary": "Jensen Huang dismissed concern about an end to a spending boom on artificial intelligence chips, projecting opportunities will expand into a multi-trillion-dollar market over the next five years.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "c24e6917bdea",
@@ -70,7 +98,7 @@
       "translated_summary": "Chipmaker NVIDIA Corp.'s (NASDAQ: NVDA) CEO, Jensen Huang, just announced an optimistic vision for the future of artificial intelligence during the company's second-quarter earnings call on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "3d9bca5ec8d2",
@@ -84,7 +112,7 @@
       "translated_summary": "Asian stocks experienced a volatile session on Thursday as worries over the outlook for artificial intelligence bellwether Nvidia's China business hit its regional suppliers, while igniting outsized gains in its Chinese rivals.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "d9b17fd598bc",
@@ -98,7 +126,7 @@
       "translated_summary": "Asian stocks wobbled on Thursday as blowout earnings from artificial intelligence bellwether Nvidia were offset by worries over the outlook for its China business, while the dollar remained shaky as investors bet on a near-term rate cut.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "a73c72273238",
@@ -113,34 +141,6 @@
       "category": "热门",
       "category_icon": "🔥",
       "time": "7小时前"
-    },
-    {
-      "id": "d5693a01a5b7",
-      "title": "Luxshare's Bigger Dose of Artificial Intelligence",
-      "summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
-      "source": "Morningstar",
-      "url": "https://www.morningstar.com/company-reports/1325307-luxshares-bigger-dose-of-artificial-intelligence",
-      "publishedAt": "2025-08-28T00:00:00Z",
-      "image": "https://www.morningstar.com/company-reports/:/[object Object]",
-      "translated_title": "Luxshare's Bigger Dose of Artificial Intelligence",
-      "translated_summary": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "8小时前"
-    },
-    {
-      "id": "5f82335b7698",
-      "title": "Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy’s death",
-      "summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
-      "source": "WEAU",
-      "url": "https://www.weau.com/2025/08/27/study-says-ai-chatbots-need-fix-suicide-response-family-sues-over-chatgpt-role-boys-death/",
-      "publishedAt": "2025-08-27T23:49:41Z",
-      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/UH2PFKMJNNGXFARSDRDHMKUTLU.jpg?auth=f23c998febee33fa72228fc50005ca56fe9f961af4a073fde3ffe519b211122d&width=1200&height=600&smart=true",
-      "translated_title": "Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy’s death",
-      "translated_summary": "A study of how three popular artificial intelligence chatbots respond to queries about suicide found that they generally avoid answering questions that pose the highest risk to the user, such as for specific how-to guidance.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "8小时前"
     }
   ]
 }
