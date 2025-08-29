@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-29T12:46:36.901895",
+  "last_updated": "2025-08-29T13:30:05.697949",
   "total_count": 10,
   "articles": [
+    {
+      "id": "7e51715cc12e",
+      "title": "Anthropic Reaches Settlement in Landmark AI Copyright Case with US Authors",
+      "summary": "Artificial intelligence company Anthropic has reached a settlement in a high-profile class action lawsuit brought by a group of U.S. authors",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2025/08/29/anthropic-reaches-settlement-in-landmark-ai-copyright-case-with-us-authors/",
+      "publishedAt": "2025-08-29T13:06:52Z",
+      "image": "https://petapixel.com/assets/uploads/2025/06/anthropic-featured.jpg",
+      "translated_title": "Anthropic Reaches Settlement in Landmark AI Copyright Case with US Authors",
+      "translated_summary": "Artificial intelligence company Anthropic has reached a settlement in a high-profile class action lawsuit brought by a group of U.S. authors",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "23分钟前"
+    },
     {
       "id": "6dddf793b4bd",
       "title": "How Silicon Valley is using religious language to talk about AI",
@@ -14,7 +28,7 @@
       "translated_summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious. Geoffrey Hinton, a Nobel Prize...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "51分钟前"
+      "time": "1小时前"
     },
     {
       "id": "2a587227c425",
@@ -28,7 +42,7 @@
       "translated_summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "51分钟前"
+      "time": "1小时前"
     },
     {
       "id": "baa33b983ce2",
@@ -42,7 +56,7 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "51分钟前"
+      "time": "1小时前"
     },
     {
       "id": "8c788dd74139",
@@ -56,7 +70,7 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence. He believes AI could become a superintelligent entity that might threaten humanity. Known as the “Godfather of...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "51分钟前"
+      "time": "1小时前"
     },
     {
       "id": "bfb472a0a171",
@@ -70,7 +84,7 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence. He believes AI could become a superintelligent entity that might threaten humanity.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "51分钟前"
+      "time": "1小时前"
     },
     {
       "id": "af402492d5d9",
@@ -84,7 +98,7 @@
       "translated_summary": "TORONTO (AP) — At 77 years old, Geoffrey Hinton has a new calling in life. Like a modern-day prophet, the Nobel Prize winner is raising alarms about the dangers of uncontrolled and unregulated artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "52分钟前"
+      "time": "1小时前"
     },
     {
       "id": "91b9ad2ff36c",
@@ -112,7 +126,7 @@
       "translated_summary": "Shares of Dell Technologies fell about 7% premarket on Friday, as high manufacturing costs for AI-optimized servers and intensifying competition overshadowed the company's bullish demand forecast for artificial intelligence infrastructure.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "815302f95851",
@@ -124,20 +138,6 @@
       "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/On-Site-On-Site-Short-Video-12.png?w=1024",
       "translated_title": "Billionaires say AI can transform schools for the better - it’s not all ‘doom and gloom’",
       "translated_summary": "The new “final frontier” for billionaires like Bill Ackman, Laurene Powell Jobs and Peter Thiel is not outerspace but helping education embrace private sector solutions and artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "d91e0507f6cf",
-      "title": "AI-enhanced, immersive 'Wizard of Oz' debuts in Las Vegas",
-      "summary": "Swirling winds, drone-operated monkeys and artificial intelligence brought new life to \"The Wizard of Oz\" on Thursday at the premiere of an immersive version of the Hollywood classic in Las Vegas.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/ai-enhanced-immersive-wizard-oz-debuts-las-vegas-2025-08-29/",
-      "publishedAt": "2025-08-29T09:13:59Z",
-      "image": "https://www.reuters.com/resizer/v2/AVUAEB2JZ5N5DNPBYTVX3NH6MQ.jpg?auth=8f3917b91c31eb2e70ca7b33812019aaed982a3db2e40b2f87ae828468105764&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "AI-enhanced, immersive 'Wizard of Oz' debuts in Las Vegas",
-      "translated_summary": "Swirling winds, drone-operated monkeys and artificial intelligence brought new life to \"The Wizard of Oz\" on Thursday at the premiere of an immersive version of the Hollywood classic in Las Vegas.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "3小时前"
