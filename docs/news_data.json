@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-29T19:17:05.744947",
+  "last_updated": "2025-08-29T20:23:50.070753",
   "total_count": 10,
   "articles": [
+    {
+      "id": "609f6e87e7bb",
+      "title": "Meta to add new AI safeguards after Reuters report raises teen safety concerns",
+      "summary": "Meta is adding new teenager safeguards to its artificial intelligence products by training systems to avoid flirty conversations and discussions of self-harm or suicide with minors, and by temporarily limiting their access to certain AI characters.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/meta-add-new-ai-safeguards-after-reuters-report-raises-teen-safety-concerns-2025-08-29/",
+      "publishedAt": "2025-08-29T19:47:33Z",
+      "image": "https://www.reuters.com/resizer/v2/ZY3JDXTU7VIM7I5MWYZVLCIYFA.jpg?auth=435de0d4491f83dd17a9485c283f6f8eb00a55d0f8296b83ee59f2df1f842774&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Meta to add new AI safeguards after Reuters report raises teen safety concerns",
+      "translated_summary": "Meta is adding new teenager safeguards to its artificial intelligence products by training systems to avoid flirty conversations and discussions of self-harm or suicide with minors, and by temporarily limiting their access to certain AI characters.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "36分钟前"
+    },
     {
       "id": "48d6744986f9",
       "title": "Agentic AI project Eliza Labs sues Elon Musk's xAI",
@@ -14,7 +28,7 @@
       "translated_summary": "Eliza Labs, an open-source AI platform for launching agentic artificial intelligence bots, has filed a lawsuit against Elon Musk's xAI company.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12分钟前"
+      "time": "1小时前"
     },
     {
       "id": "928ecc4ca451",
@@ -28,7 +42,7 @@
       "translated_summary": "Elon Musk's artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets related to its Grok chatbot and taking them to rival OpenAI.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d142405ab6ad",
@@ -42,7 +56,7 @@
       "translated_summary": "Super Micro Computer's shares fell nearly 5% on Friday after the artificial intelligence-optimized server maker reiterated weaknesses in internal control over financial reporting.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "f1ef2f5654c6",
@@ -56,7 +70,7 @@
       "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "6b7fb1068199",
@@ -70,7 +84,7 @@
       "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "8b74a51c65d5",
@@ -84,7 +98,7 @@
       "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "185d4d8c0707",
@@ -98,7 +112,7 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "75e5de76f684",
@@ -112,7 +126,7 @@
       "translated_summary": "Abu Dhabi is quickly becoming a magnet for artificial intelligence start-ups as traditional global hubs face growing challenges. Entrepreneurs and investors",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "e0c50fead66e",
@@ -126,21 +140,7 @@
       "translated_summary": "Alibaba is testing a new artificial intelligence chip that could play a big role in China’s push to cut reliance on U.S. technology. The Wall Street Journal reported Friday that the chip, developed in-house, is built to handle a wider range of AI inference tasks than its predecessors. Unlike Alibaba’s earlier processors that relied on",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
-    },
-    {
-      "id": "c056d892595c",
-      "title": "Autodesk Stock Drives Higher on Strong Demand for Firm's Design Software",
-      "summary": "Autodesk beat profit and sales estimates on artificial intelligence data center demand for its design software.",
-      "source": "Investopedia",
-      "url": "https://www.investopedia.com/autodesk-stock-drives-higher-on-strong-demand-for-firm-s-design-software-11800378",
-      "publishedAt": "2025-08-29T14:43:41Z",
-      "image": "https://www.investopedia.com/thmb/ZX9lFv0pdfen5lmSf2jwOQphuLE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2232147582-a6b35a8f2cfa4a6c8fff0299823bf230.jpg",
-      "translated_title": "Autodesk Stock Drives Higher on Strong Demand for Firm's Design Software",
-      "translated_summary": "Autodesk beat profit and sales estimates on artificial intelligence data center demand for its design software.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     }
   ]
 }
