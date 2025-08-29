@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-29T18:29:07.706198",
+  "last_updated": "2025-08-29T19:17:05.744947",
   "total_count": 10,
   "articles": [
+    {
+      "id": "48d6744986f9",
+      "title": "Agentic AI project Eliza Labs sues Elon Musk's xAI",
+      "summary": "Eliza Labs, an open-source AI platform for launching agentic artificial intelligence bots, has filed a lawsuit against Elon Musk's xAI company.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/eliza-labs-sues-elon-musk-xai",
+      "publishedAt": "2025-08-29T19:05:00Z",
+      "image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-01/019483aa-f60f-73f1-bc35-fc55eed43667",
+      "translated_title": "Agentic AI project Eliza Labs sues Elon Musk's xAI",
+      "translated_summary": "Eliza Labs, an open-source AI platform for launching agentic artificial intelligence bots, has filed a lawsuit against Elon Musk's xAI company.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "12分钟前"
+    },
+    {
+      "id": "928ecc4ca451",
+      "title": "Musk's xAI sues engineer for allegedly taking secrets to OpenAI",
+      "summary": "Elon Musk's artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets related to its Grok chatbot and taking them to rival OpenAI.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/musks-xai-sues-engineer-allegedly-taking-secrets-openai-2025-08-29/",
+      "publishedAt": "2025-08-29T17:24:59Z",
+      "image": "https://www.reuters.com/resizer/v2/ZCO7PXC2DZJGVDDH2UYTT2VNOA.jpg?auth=0252f70ae4ca48260f30bbfdd13aa8f7327c6971b3822278a89f6a847a0d32ac&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Musk's xAI sues engineer for allegedly taking secrets to OpenAI",
+      "translated_summary": "Elon Musk's artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets related to its Grok chatbot and taking them to rival OpenAI.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "d142405ab6ad",
       "title": "Super Micro shares dip after AI server maker flags financial control concerns",
@@ -14,7 +42,7 @@
       "translated_summary": "Super Micro Computer's shares fell nearly 5% on Friday after the artificial intelligence-optimized server maker reiterated weaknesses in internal control over financial reporting.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "f1ef2f5654c6",
@@ -70,7 +98,7 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "75e5de76f684",
@@ -84,7 +112,7 @@
       "translated_summary": "Abu Dhabi is quickly becoming a magnet for artificial intelligence start-ups as traditional global hubs face growing challenges. Entrepreneurs and investors",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "e0c50fead66e",
@@ -98,7 +126,7 @@
       "translated_summary": "Alibaba is testing a new artificial intelligence chip that could play a big role in China’s push to cut reliance on U.S. technology. The Wall Street Journal reported Friday that the chip, developed in-house, is built to handle a wider range of AI inference tasks than its predecessors. Unlike Alibaba’s earlier processors that relied on",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "c056d892595c",
@@ -110,34 +138,6 @@
       "image": "https://www.investopedia.com/thmb/ZX9lFv0pdfen5lmSf2jwOQphuLE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2232147582-a6b35a8f2cfa4a6c8fff0299823bf230.jpg",
       "translated_title": "Autodesk Stock Drives Higher on Strong Demand for Firm's Design Software",
       "translated_summary": "Autodesk beat profit and sales estimates on artificial intelligence data center demand for its design software.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "dedf0a4300bf",
-      "title": "Marvell stock slumps after data center revenue, forecast disappoint",
-      "summary": "Marvell stock sunk after the artificial intelligence chipmaker gave weak guidance for the fiscal third quarter.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/29/marvell-stock-earnings-guidance.html",
-      "publishedAt": "2025-08-29T14:12:20Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108190251-1756132836201-gettyimages-2169879324-INTEL_MARVELL_ALTERA.jpeg?v=1756471258&w=1920&h=1080",
-      "translated_title": "Marvell stock slumps after data center revenue, forecast disappoint",
-      "translated_summary": "Marvell stock sunk after the artificial intelligence chipmaker gave weak guidance for the fiscal third quarter.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "f72962e3ced4",
-      "title": "Artificial Intelligence Boom Lures Kazakhstan’s Oil Wealth",
-      "summary": "Kazakhstan is preparing to channel some of its national wealth into artificial intelligence infrastructure, joining a global rush where venture capital firms and energy-rich states are betting billions on the sector despite volatility and surging valuations.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-08-29/artificial-intelligence-boom-lures-kazakhstan-s-oil-wealth",
-      "publishedAt": "2025-08-29T13:38:48Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irtlqGXI2DaM/v1/1200x820.jpg",
-      "translated_title": "Artificial Intelligence Boom Lures Kazakhstan’s Oil Wealth",
-      "translated_summary": "Kazakhstan is preparing to channel some of its national wealth into artificial intelligence infrastructure, joining a global rush where venture capital firms and energy-rich states are betting billions on the sector despite volatility and surging valuations.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "4小时前"
