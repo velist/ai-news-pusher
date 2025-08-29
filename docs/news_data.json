@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-29T17:18:48.455486",
+  "last_updated": "2025-08-29T18:29:07.706198",
   "total_count": 10,
   "articles": [
+    {
+      "id": "d142405ab6ad",
+      "title": "Super Micro shares dip after AI server maker flags financial control concerns",
+      "summary": "Super Micro Computer's shares fell nearly 5% on Friday after the artificial intelligence-optimized server maker reiterated weaknesses in internal control over financial reporting.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/super-micro-shares-dip-after-ai-server-maker-flags-financial-control-concerns-2025-08-29/",
+      "publishedAt": "2025-08-29T17:02:46Z",
+      "image": "https://www.reuters.com/resizer/v2/TMGC5EQE2FJILDD7BIRLMTDKTM.jpg?auth=b539afdaf8a7dcc3b1bb175a98689b4c4f56570dd5a428dab57a6f99130277c8&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Super Micro shares dip after AI server maker flags financial control concerns",
+      "translated_summary": "Super Micro Computer's shares fell nearly 5% on Friday after the artificial intelligence-optimized server maker reiterated weaknesses in internal control over financial reporting.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "f1ef2f5654c6",
       "title": "Love & Hate' Gets Three-Studio Team",
@@ -14,7 +28,7 @@
       "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "54分钟前"
+      "time": "2小时前"
     },
     {
       "id": "6b7fb1068199",
@@ -28,7 +42,7 @@
       "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "54分钟前"
+      "time": "2小时前"
     },
     {
       "id": "8b74a51c65d5",
@@ -42,7 +56,7 @@
       "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "54分钟前"
+      "time": "2小时前"
     },
     {
       "id": "185d4d8c0707",
@@ -56,7 +70,7 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "75e5de76f684",
@@ -70,7 +84,7 @@
       "translated_summary": "Abu Dhabi is quickly becoming a magnet for artificial intelligence start-ups as traditional global hubs face growing challenges. Entrepreneurs and investors",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e0c50fead66e",
@@ -84,7 +98,7 @@
       "translated_summary": "Alibaba is testing a new artificial intelligence chip that could play a big role in China’s push to cut reliance on U.S. technology. The Wall Street Journal reported Friday that the chip, developed in-house, is built to handle a wider range of AI inference tasks than its predecessors. Unlike Alibaba’s earlier processors that relied on",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "c056d892595c",
@@ -98,7 +112,7 @@
       "translated_summary": "Autodesk beat profit and sales estimates on artificial intelligence data center demand for its design software.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "dedf0a4300bf",
@@ -112,7 +126,7 @@
       "translated_summary": "Marvell stock sunk after the artificial intelligence chipmaker gave weak guidance for the fiscal third quarter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "f72962e3ced4",
@@ -124,20 +138,6 @@
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irtlqGXI2DaM/v1/1200x820.jpg",
       "translated_title": "Artificial Intelligence Boom Lures Kazakhstan’s Oil Wealth",
       "translated_summary": "Kazakhstan is preparing to channel some of its national wealth into artificial intelligence infrastructure, joining a global rush where venture capital firms and energy-rich states are betting billions on the sector despite volatility and surging valuations.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "7e51715cc12e",
-      "title": "Anthropic Reaches Settlement in Landmark AI Copyright Case with US Authors",
-      "summary": "Artificial intelligence company Anthropic has reached a settlement in a high-profile class action lawsuit brought by a group of U.S. authors",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2025/08/29/anthropic-reaches-settlement-in-landmark-ai-copyright-case-with-us-authors/",
-      "publishedAt": "2025-08-29T13:06:52Z",
-      "image": "https://petapixel.com/assets/uploads/2025/06/anthropic-featured.jpg",
-      "translated_title": "Anthropic Reaches Settlement in Landmark AI Copyright Case with US Authors",
-      "translated_summary": "Artificial intelligence company Anthropic has reached a settlement in a high-profile class action lawsuit brought by a group of U.S. authors",
       "category": "热门",
       "category_icon": "🔥",
       "time": "4小时前"
