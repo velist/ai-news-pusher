@@ -1,7 +1,63 @@
 {
-  "last_updated": "2025-08-29T14:21:14.679152",
+  "last_updated": "2025-08-29T15:20:54.538540",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e0c50fead66e",
+      "title": "Alibaba unveils new AI chip as China races to replace Nvidia’s H20 amid U.S. ban",
+      "summary": "Alibaba is testing a new artificial intelligence chip that could play a big role in China’s push to cut reliance on U.S. technology. The Wall Street Journal reported Friday that the chip, developed in-house, is built to handle a wider range of AI inference tasks than its predecessors. Unlike Alibaba’s earlier processors that relied on",
+      "source": "TechStartups.com",
+      "url": "https://techstartups.com/2025/08/29/alibaba-unveils-new-ai-chip-as-china-races-to-replace-nvidias-h20-amid-u-s-ban/",
+      "publishedAt": "2025-08-29T15:01:16Z",
+      "image": "https://techstartups.com/wp-content/uploads/2025/02/Alibaba.jpg",
+      "translated_title": "Alibaba unveils new AI chip as China races to replace Nvidia’s H20 amid U.S. ban",
+      "translated_summary": "Alibaba is testing a new artificial intelligence chip that could play a big role in China’s push to cut reliance on U.S. technology. The Wall Street Journal reported Friday that the chip, developed in-house, is built to handle a wider range of AI inference tasks than its predecessors. Unlike Alibaba’s earlier processors that relied on",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "19分钟前"
+    },
+    {
+      "id": "c056d892595c",
+      "title": "Autodesk Stock Drives Higher on Strong Demand for Firm's Design Software",
+      "summary": "Autodesk beat profit and sales estimates on artificial intelligence data center demand for its design software.",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/autodesk-stock-drives-higher-on-strong-demand-for-firm-s-design-software-11800378",
+      "publishedAt": "2025-08-29T14:43:41Z",
+      "image": "https://www.investopedia.com/thmb/ZX9lFv0pdfen5lmSf2jwOQphuLE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2232147582-a6b35a8f2cfa4a6c8fff0299823bf230.jpg",
+      "translated_title": "Autodesk Stock Drives Higher on Strong Demand for Firm's Design Software",
+      "translated_summary": "Autodesk beat profit and sales estimates on artificial intelligence data center demand for its design software.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "37分钟前"
+    },
+    {
+      "id": "dedf0a4300bf",
+      "title": "Marvell stock slumps after data center revenue, forecast disappoint",
+      "summary": "Marvell stock sunk after the artificial intelligence chipmaker gave weak guidance for the fiscal third quarter.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/08/29/marvell-stock-earnings-guidance.html",
+      "publishedAt": "2025-08-29T14:12:20Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108190251-1756132836201-gettyimages-2169879324-INTEL_MARVELL_ALTERA.jpeg?v=1756471258&w=1920&h=1080",
+      "translated_title": "Marvell stock slumps after data center revenue, forecast disappoint",
+      "translated_summary": "Marvell stock sunk after the artificial intelligence chipmaker gave weak guidance for the fiscal third quarter.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
+      "id": "f72962e3ced4",
+      "title": "Artificial Intelligence Boom Lures Kazakhstan’s Oil Wealth",
+      "summary": "Kazakhstan is preparing to channel some of its national wealth into artificial intelligence infrastructure, joining a global rush where venture capital firms and energy-rich states are betting billions on the sector despite volatility and surging valuations.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-29/artificial-intelligence-boom-lures-kazakhstan-s-oil-wealth",
+      "publishedAt": "2025-08-29T13:38:48Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irtlqGXI2DaM/v1/1200x820.jpg",
+      "translated_title": "Artificial Intelligence Boom Lures Kazakhstan’s Oil Wealth",
+      "translated_summary": "Kazakhstan is preparing to channel some of its national wealth into artificial intelligence infrastructure, joining a global rush where venture capital firms and energy-rich states are betting billions on the sector despite volatility and surging valuations.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "7e51715cc12e",
       "title": "Anthropic Reaches Settlement in Landmark AI Copyright Case with US Authors",
@@ -14,7 +70,7 @@
       "translated_summary": "Artificial intelligence company Anthropic has reached a settlement in a high-profile class action lawsuit brought by a group of U.S. authors",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "6dddf793b4bd",
@@ -28,7 +84,7 @@
       "translated_summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious. Geoffrey Hinton, a Nobel Prize...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "2a587227c425",
@@ -42,7 +98,7 @@
       "translated_summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "baa33b983ce2",
@@ -56,7 +112,7 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "8c788dd74139",
@@ -70,7 +126,7 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence. He believes AI could become a superintelligent entity that might threaten humanity. Known as the “Godfather of...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "bfb472a0a171",
@@ -84,63 +140,7 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence. He believes AI could become a superintelligent entity that might threaten humanity.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "af402492d5d9",
-      "title": "AI Apocalypse? Why Language Surrounding Tech Is Sounding Increasingly Religious",
-      "summary": "TORONTO (AP) — At 77 years old, Geoffrey Hinton has a new calling in life. Like a modern-day prophet, the Nobel Prize winner is raising alarms about the dangers of uncontrolled and unregulated artificial intelligence.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/business/articles/2025-08-29/ai-apocalypse-why-language-surrounding-tech-is-sounding-increasingly-religious",
-      "publishedAt": "2025-08-29T11:54:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/05a96af/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fe3%2Fa3b30d269d852c918fe8ac1de01cee%2Fa9ee3a3b1313486696b56ffd1b9b113dAI_Prophets_62092.jpg",
-      "translated_title": "AI Apocalypse? Why Language Surrounding Tech Is Sounding Increasingly Religious",
-      "translated_summary": "TORONTO (AP) — At 77 years old, Geoffrey Hinton has a new calling in life. Like a modern-day prophet, the Nobel Prize winner is raising alarms about the dangers of uncontrolled and unregulated artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "91b9ad2ff36c",
-      "title": "India's Reliance ties up with Google and Meta to drive AI push",
-      "summary": "Indian conglomerate Reliance Industries announced new partnerships with Google and Meta to accelerate the company's push into artificial intelligence.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/29/indias-reliance-ties-up-with-google-and-meta-to-drive-ai-push.html",
-      "publishedAt": "2025-08-29T11:30:55Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108049275-1729189721808-gettyimages-2177000760-AFP_36JQ396.jpeg?v=1756463188&w=1920&h=1080",
-      "translated_title": "India's Reliance ties up with Google and Meta to drive AI push",
-      "translated_summary": "Indian conglomerate Reliance Industries announced new partnerships with Google and Meta to accelerate the company's push into artificial intelligence.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "2小时前"
-    },
-    {
-      "id": "6c0bd78c17be",
-      "title": "Dell slides as high AI server costs, competition blunt upbeat demand forecast",
-      "summary": "Shares of Dell Technologies fell about 7% premarket on Friday, as high manufacturing costs for AI-optimized servers and intensifying competition overshadowed the company's bullish demand forecast for artificial intelligence infrastructure.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/dell-slides-high-ai-server-costs-competition-blunt-upbeat-demand-forecast-2025-08-29/",
-      "publishedAt": "2025-08-29T10:05:50Z",
-      "image": "https://www.reuters.com/resizer/v2/OODO332KGFKFPLA2G2VEKHYN7A.jpg?auth=e00942053b04ca84a5db9044d5766f40f9bb576b3e327847d3302e3e03053530&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Dell slides as high AI server costs, competition blunt upbeat demand forecast",
-      "translated_summary": "Shares of Dell Technologies fell about 7% premarket on Friday, as high manufacturing costs for AI-optimized servers and intensifying competition overshadowed the company's bullish demand forecast for artificial intelligence infrastructure.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "815302f95851",
-      "title": "Billionaires say AI can transform schools for the better - it’s not all ‘doom and gloom’",
-      "summary": "The new “final frontier” for billionaires like Bill Ackman, Laurene Powell Jobs and Peter Thiel is not outerspace but helping education embrace private sector solutions and artificial intelligence.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/08/29/business/billionaires-say-ai-can-transform-schools-for-the-better-its-not-all-doom-and-gloom/",
-      "publishedAt": "2025-08-29T10:00:00Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/08/On-Site-On-Site-Short-Video-12.png?w=1024",
-      "translated_title": "Billionaires say AI can transform schools for the better - it’s not all ‘doom and gloom’",
-      "translated_summary": "The new “final frontier” for billionaires like Bill Ackman, Laurene Powell Jobs and Peter Thiel is not outerspace but helping education embrace private sector solutions and artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "3小时前"
     }
   ]
 }
