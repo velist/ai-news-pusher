@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-08-29T16:28:15.444990",
+  "last_updated": "2025-08-29T17:18:48.455486",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f1ef2f5654c6",
+      "title": "Love & Hate' Gets Three-Studio Team",
+      "summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
+      "source": "Variety",
+      "url": "https://variety.com/2025/digital/global/ai-themed-animated-anthology-ai-love-hate-1236502159/",
+      "publishedAt": "2025-08-29T16:24:14Z",
+      "image": "https://variety.com/wp-content/uploads/2025/08/AI-Love-and-Hate.jpg?w=1000&h=563&crop=1",
+      "translated_title": "Love & Hate' Gets Three-Studio Team",
+      "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "54分钟前"
+    },
+    {
+      "id": "6b7fb1068199",
+      "title": "Love & Hate' Gets Three-Studio Team",
+      "summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
+      "source": "Variety",
+      "url": "https://variety.com/2025/digital/asia/ai-themed-animated-anthology-ai-love-hate-1236502159/",
+      "publishedAt": "2025-08-29T16:24:14Z",
+      "image": "https://variety.com/wp-content/uploads/2025/08/AI-Love-and-Hate.jpg?w=1000&h=563&crop=1",
+      "translated_title": "Love & Hate' Gets Three-Studio Team",
+      "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "54分钟前"
+    },
+    {
+      "id": "8b74a51c65d5",
+      "title": "Love & Hate' Gets Three-Studio Team",
+      "summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
+      "source": "Variety",
+      "url": "https://variety.com/2025/digital/news/ai-themed-animated-anthology-ai-love-hate-1236502159/",
+      "publishedAt": "2025-08-29T16:24:14Z",
+      "image": "https://variety.com/wp-content/uploads/2025/08/AI-Love-and-Hate.jpg?w=1000&h=563&crop=1",
+      "translated_title": "Love & Hate' Gets Three-Studio Team",
+      "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "54分钟前"
+    },
     {
       "id": "185d4d8c0707",
       "title": "AI Apocalypse? Why language surrounding tech is sounding increasingly religious",
@@ -14,7 +56,21 @@
       "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "37分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "75e5de76f684",
+      "title": "Abu Dhabi Emerges as New Hub for AI Start-Ups",
+      "summary": "Abu Dhabi is quickly becoming a magnet for artificial intelligence start-ups as traditional global hubs face growing challenges. Entrepreneurs and investors",
+      "source": "Mash Viral",
+      "url": "https://mashviral.com/abu-dhabi-emerges-as-new-hub-for-ai-start-ups/",
+      "publishedAt": "2025-08-29T15:44:11Z",
+      "image": "https://mashviral.com/wp-content/uploads/2025/08/ai-data-analysis-team1-scaled.jpg",
+      "translated_title": "Abu Dhabi Emerges as New Hub for AI Start-Ups",
+      "translated_summary": "Abu Dhabi is quickly becoming a magnet for artificial intelligence start-ups as traditional global hubs face growing challenges. Entrepreneurs and investors",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
     },
     {
       "id": "e0c50fead66e",
@@ -28,7 +84,7 @@
       "translated_summary": "Alibaba is testing a new artificial intelligence chip that could play a big role in China’s push to cut reliance on U.S. technology. The Wall Street Journal reported Friday that the chip, developed in-house, is built to handle a wider range of AI inference tasks than its predecessors. Unlike Alibaba’s earlier processors that relied on",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c056d892595c",
@@ -42,7 +98,7 @@
       "translated_summary": "Autodesk beat profit and sales estimates on artificial intelligence data center demand for its design software.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "dedf0a4300bf",
@@ -56,7 +112,7 @@
       "translated_summary": "Marvell stock sunk after the artificial intelligence chipmaker gave weak guidance for the fiscal third quarter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "f72962e3ced4",
@@ -70,7 +126,7 @@
       "translated_summary": "Kazakhstan is preparing to channel some of its national wealth into artificial intelligence infrastructure, joining a global rush where venture capital firms and energy-rich states are betting billions on the sector despite volatility and surging valuations.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "7e51715cc12e",
@@ -82,62 +138,6 @@
       "image": "https://petapixel.com/assets/uploads/2025/06/anthropic-featured.jpg",
       "translated_title": "Anthropic Reaches Settlement in Landmark AI Copyright Case with US Authors",
       "translated_summary": "Artificial intelligence company Anthropic has reached a settlement in a high-profile class action lawsuit brought by a group of U.S. authors",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "6dddf793b4bd",
-      "title": "How Silicon Valley is using religious language to talk about AI",
-      "summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious. Geoffrey Hinton, a Nobel Prize...",
-      "source": "SFGATE",
-      "url": "https://www.sfgate.com/news/world/article/how-silicon-valley-is-using-religious-language-to-21021388.php",
-      "publishedAt": "2025-08-29T11:55:17Z",
-      "image": "https://s.hdnux.com/photos/01/54/32/20/28419105/3/rawImage.jpg",
-      "translated_title": "How Silicon Valley is using religious language to talk about AI",
-      "translated_summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious. Geoffrey Hinton, a Nobel Prize...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "2a587227c425",
-      "title": "How Silicon Valley is using religious language to talk about AI",
-      "summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/artificial-intelligence-religion-apocalypse-ec449ccedbf8054764547356757ff335",
-      "publishedAt": "2025-08-29T11:55:17Z",
-      "image": "https://dims.apnews.com/dims4/default/54e34af/2147483647/strip/true/crop/2000x1125+0+106/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F29%2Fc0e1f183b3c4977c89e0f643c14b%2F0fade8f008454e288bf03ef694e760ea",
-      "translated_title": "How Silicon Valley is using religious language to talk about AI",
-      "translated_summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "9e57cd54cc64",
-      "title": "How Silicon Valley is using religious language to talk about AI",
-      "summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious.",
-      "source": "WDIV ClickOnDetroit",
-      "url": "https://www.clickondetroit.com/news/2025/08/29/how-silicon-valley-is-using-religious-language-to-talk-about-ai/",
-      "publishedAt": "2025-08-29T11:55:16Z",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/MS6NG2SU4FGVZMKIQHJJW6NO6Y.jpg?_a=DATAg1eAZAA0",
-      "translated_title": "How Silicon Valley is using religious language to talk about AI",
-      "translated_summary": "As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "bfb472a0a171",
-      "title": "With dawn of AI, talk of tech and religion merge for some",
-      "summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence. He believes AI could become a superintelligent entity that might threaten humanity.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/artificial-intelligence-apocalypse-dfb0aa9e5e96c583461bdd56fb21568a",
-      "publishedAt": "2025-08-29T11:54:37Z",
-      "image": "https://dims.apnews.com/dims4/default/68740a2/2147483647/strip/true/crop/640x360+0+38/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Ff6%2F7ec7edc782ce7c45bae3e5a84cee%2Fa9ee3a3b1313486696b56ffd1b9b113d",
-      "translated_title": "With dawn of AI, talk of tech and religion merge for some",
-      "translated_summary": "Geoffrey Hinton is sounding the alarm about the risks of artificial intelligence. He believes AI could become a superintelligent entity that might threaten humanity.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "4小时前"
