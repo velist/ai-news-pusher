@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-30T02:58:38.688895",
+  "last_updated": "2025-08-30T03:34:06.385456",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "TORONTO — As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "30分钟前"
+      "time": "1小时前"
     },
     {
       "id": "073f9f2e69dc",
@@ -28,7 +28,7 @@
       "translated_summary": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "a6a3d9b26455",
@@ -56,7 +56,21 @@
       "translated_summary": "MongoDB, Pure Storage and Snowflake all touted artificial intelligence in earnings reports this week.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
+    },
+    {
+      "id": "37bfa5711fbd",
+      "title": "Microsoft Rolls Out In-House AI Models to Take on OpenAI",
+      "summary": "Tech giant Microsoft (MSFT) has begun testing its in-house artificial intelligence (AI) models that will compete directly with partner OpenAI wh...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/microsoft-rolls-out-in-house-ai-models-to-take-on-openai-1035096541",
+      "publishedAt": "2025-08-29T21:01:00Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-2141.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Microsoft Rolls Out In-House AI Models to Take on OpenAI",
+      "translated_summary": "Tech giant Microsoft (MSFT) has begun testing its in-house artificial intelligence (AI) models that will compete directly with partner OpenAI wh...",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "6小时前"
     },
     {
       "id": "b87519966275",
@@ -98,7 +112,7 @@
       "translated_summary": "A new Stanford University study, which utilizes payroll data from the ADP National Employment Report, reveals that generative artificial intelli...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "5ae7bdc7bf12",
@@ -112,7 +126,7 @@
       "translated_summary": "BigBear.ai Holdings (BBAI), a provider of artificial intelligence (AI)-powered decision intelligence solutions, reported disappointing second-qu...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "609f6e87e7bb",
@@ -126,20 +140,6 @@
       "translated_summary": "Meta is adding new teenager safeguards to its artificial intelligence products by training systems to avoid flirty conversations and discussions of self-harm or suicide with minors, and by temporarily limiting their access to certain AI characters.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "7小时前"
-    },
-    {
-      "id": "48d6744986f9",
-      "title": "Agentic AI project Eliza Labs sues Elon Musk's xAI",
-      "summary": "Eliza Labs, an open-source AI platform for launching agentic artificial intelligence bots, has filed a lawsuit against Elon Musk's xAI company.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/eliza-labs-sues-elon-musk-xai",
-      "publishedAt": "2025-08-29T19:05:00Z",
-      "image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-01/019483aa-f60f-73f1-bc35-fc55eed43667",
-      "translated_title": "Agentic AI project Eliza Labs sues Elon Musk's xAI",
-      "translated_summary": "Eliza Labs, an open-source AI platform for launching agentic artificial intelligence bots, has filed a lawsuit against Elon Musk's xAI company.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "7小时前"
     }
   ]
