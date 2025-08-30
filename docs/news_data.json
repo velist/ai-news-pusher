@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-29T23:20:38.316681",
+  "last_updated": "2025-08-30T01:43:08.213790",
   "total_count": 10,
   "articles": [
+    {
+      "id": "073f9f2e69dc",
+      "title": "Meta's AI leaders discuss using Google, OpenAI models in apps, The Information says",
+      "summary": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/metas-ai-leaders-discuss-using-google-openai-models-apps-information-says-2025-08-30/",
+      "publishedAt": "2025-08-30T00:03:43Z",
+      "image": "https://www.reuters.com/resizer/v2/NI5EFS4D5ZNV3LCVSABZKSLQTA.jpg?auth=44cd52a68f6539d40a316703b6ed0e31be49cce89b2606448762fe212cd9343d&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Meta's AI leaders discuss using Google, OpenAI models in apps, The Information says",
+      "translated_summary": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "a6a3d9b26455",
       "title": "AI Helps Identify Man Months After Partially Decomposed Remains Found",
@@ -14,7 +28,7 @@
       "translated_summary": "Authorities in Arizona used artificial intelligence to help identify a man whose remains were found late last year.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "f6a1857201a2",
@@ -28,7 +42,7 @@
       "translated_summary": "MongoDB, Pure Storage and Snowflake all touted artificial intelligence in earnings reports this week.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "b87519966275",
@@ -42,7 +56,7 @@
       "translated_summary": "Anthropic will start training artificial intelligence models with user data, a day after announcing a hacker used Claude to find companies vulnerable to attack.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "eec9da33d725",
@@ -56,7 +70,7 @@
       "translated_summary": "U.S. Air Force and Navy fighter pilots have tested an artificial intelligence battlefield coordination management system.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "609f6e87e7bb",
@@ -70,7 +84,7 @@
       "translated_summary": "Meta is adding new teenager safeguards to its artificial intelligence products by training systems to avoid flirty conversations and discussions of self-harm or suicide with minors, and by temporarily limiting their access to certain AI characters.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "48d6744986f9",
@@ -84,7 +98,7 @@
       "translated_summary": "Eliza Labs, an open-source AI platform for launching agentic artificial intelligence bots, has filed a lawsuit against Elon Musk's xAI company.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "928ecc4ca451",
@@ -98,7 +112,7 @@
       "translated_summary": "Elon Musk's artificial intelligence startup xAI has sued a former engineer at the company for allegedly stealing trade secrets related to its Grok chatbot and taking them to rival OpenAI.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "8小时前"
     },
     {
       "id": "d142405ab6ad",
@@ -112,21 +126,7 @@
       "translated_summary": "Super Micro Computer's shares fell nearly 5% on Friday after the artificial intelligence-optimized server maker reiterated weaknesses in internal control over financial reporting.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "f1ef2f5654c6",
-      "title": "Love & Hate' Gets Three-Studio Team",
-      "summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
-      "source": "Variety",
-      "url": "https://variety.com/2025/digital/global/ai-themed-animated-anthology-ai-love-hate-1236502159/",
-      "publishedAt": "2025-08-29T16:24:14Z",
-      "image": "https://variety.com/wp-content/uploads/2025/08/AI-Love-and-Hate.jpg?w=1000&h=563&crop=1",
-      "translated_title": "Love & Hate' Gets Three-Studio Team",
-      "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "6b7fb1068199",
@@ -140,7 +140,7 @@
       "translated_summary": "'AI: Love & Hate,' an animated anthology feature exploring humanity's relationship with artificial intelligence, has been launched.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "9小时前"
     }
   ]
 }
