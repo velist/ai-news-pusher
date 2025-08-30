@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-30T10:20:54.612886",
+  "last_updated": "2025-08-30T11:16:45.200071",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c548f1a8cfb6",
+      "title": "Want The Pixel 10’s Entire 12GB RAM To Yourself? Here Is An Easy Fix, If You Do Not Mind Slower AI Operations",
+      "summary": "Google decided to allocate some of the Pixel 10’s 12GB RAM to be used for AI tasks, but there is a simple way on how you can utilize all of that memory, assuming you do not mind a trade-off for slower artificial intelligence tasks",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/pixel-10-how-to-claim-the-entire-12gb-ram/",
+      "publishedAt": "2025-08-30T10:16:08Z",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2025/08/Pixel-10-1.jpg",
+      "translated_title": "Want The Pixel 10’s Entire 12GB RAM To Yourself? Here Is An Easy Fix, If You Do Not Mind Slower AI Operations",
+      "translated_summary": "Google decided to allocate some of the Pixel 10’s 12GB RAM to be used for AI tasks, but there is a simple way on how you can utilize all of that memory, assuming you do not mind a trade-off for slower artificial intelligence tasks",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "e44f8f9d5248",
       "title": "Global movement to protect kids online fuels a wave of AI safety tech",
@@ -14,7 +28,7 @@
       "translated_summary": "Companies developing artificial intelligence systems to prevent kids from being exposed to inappropriate content are flourishing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "a8b3c0b21d71",
@@ -28,7 +42,7 @@
       "translated_summary": "TORONTO — As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "073f9f2e69dc",
@@ -42,7 +56,7 @@
       "translated_summary": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "a6a3d9b26455",
@@ -56,7 +70,7 @@
       "translated_summary": "Authorities in Arizona used artificial intelligence to help identify a man whose remains were found late last year.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "f6a1857201a2",
@@ -84,7 +98,7 @@
       "translated_summary": "Tech giant Microsoft (MSFT) has begun testing its in-house artificial intelligence (AI) models that will compete directly with partner OpenAI wh...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "b87519966275",
@@ -98,7 +112,7 @@
       "translated_summary": "Anthropic will start training artificial intelligence models with user data, a day after announcing a hacker used Claude to find companies vulnerable to attack.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "eec9da33d725",
@@ -112,7 +126,7 @@
       "translated_summary": "U.S. Air Force and Navy fighter pilots have tested an artificial intelligence battlefield coordination management system.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "a280ce659f2f",
@@ -124,20 +138,6 @@
       "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-2076-1024x252.png?utm_source=markets.businessinsider.com&utm_medium=referral",
       "translated_title": "New Study Finds AI Is Cutting Entry-Level Hiring as Young Workers Lose Jobs",
       "translated_summary": "A new Stanford University study, which utilizes payroll data from the ADP National Employment Report, reveals that generative artificial intelli...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "5ae7bdc7bf12",
-      "title": "Why Is Wall Street Bullish on BigBear.ai Stock (BBAI) Despite Weak Revenue?",
-      "summary": "BigBear.ai Holdings (BBAI), a provider of artificial intelligence (AI)-powered decision intelligence solutions, reported disappointing second-qu...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/why-is-wall-street-bullish-on-bigbear-ai-stock-bbai-despite-weak-revenue-1035098841",
-      "publishedAt": "2025-08-29T20:05:51Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-2201.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Why Is Wall Street Bullish on BigBear.ai Stock (BBAI) Despite Weak Revenue?",
-      "translated_summary": "BigBear.ai Holdings (BBAI), a provider of artificial intelligence (AI)-powered decision intelligence solutions, reported disappointing second-qu...",
       "category": "热门",
       "category_icon": "🔥",
       "time": "14小时前"
