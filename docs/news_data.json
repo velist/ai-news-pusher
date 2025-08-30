@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-30T13:25:10.345899",
+  "last_updated": "2025-08-30T14:18:13.953894",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "Artificial intelligence image generators are getting better and better. Here are a few ways to stay ahead of them… for now.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "25分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c548f1a8cfb6",
@@ -28,7 +28,7 @@
       "translated_summary": "Google decided to allocate some of the Pixel 10’s 12GB RAM to be used for AI tasks, but there is a simple way on how you can utilize all of that memory, assuming you do not mind a trade-off for slower artificial intelligence tasks",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "e44f8f9d5248",
@@ -42,7 +42,7 @@
       "translated_summary": "Companies developing artificial intelligence systems to prevent kids from being exposed to inappropriate content are flourishing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "a8b3c0b21d71",
@@ -56,7 +56,7 @@
       "translated_summary": "TORONTO — As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "073f9f2e69dc",
@@ -70,7 +70,21 @@
       "translated_summary": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "13小时前"
+      "time": "14小时前"
+    },
+    {
+      "id": "579e1d0ce0b3",
+      "title": "Tax Breaks: The Artificial Intelligence Is In Your Home, Office And The IRS Edition",
+      "summary": "Plus: A look at Form W-2 changes, private equity is eyeing your retirement accounts, protecting students from back-to-school scams, football news, tax trivia and more.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/kellyphillipserb/2025/08/30/tax-breaks-the-artificial-intelligence-is-in-your-home-office-and-the-irs-edition/",
+      "publishedAt": "2025-08-30T00:00:00Z",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68b21ae9f92a4a41548c22ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "translated_title": "Tax Breaks: The Artificial Intelligence Is In Your Home, Office And The IRS Edition",
+      "translated_summary": "Plus: A look at Form W-2 changes, private equity is eyeing your retirement accounts, protecting students from back-to-school scams, football news, tax trivia and more.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "14小时前"
     },
     {
       "id": "a6a3d9b26455",
@@ -84,7 +98,7 @@
       "translated_summary": "Authorities in Arizona used artificial intelligence to help identify a man whose remains were found late last year.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "f6a1857201a2",
@@ -98,7 +112,7 @@
       "translated_summary": "MongoDB, Pure Storage and Snowflake all touted artificial intelligence in earnings reports this week.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "37bfa5711fbd",
@@ -112,7 +126,7 @@
       "translated_summary": "Tech giant Microsoft (MSFT) has begun testing its in-house artificial intelligence (AI) models that will compete directly with partner OpenAI wh...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "b87519966275",
@@ -126,21 +140,7 @@
       "translated_summary": "Anthropic will start training artificial intelligence models with user data, a day after announcing a hacker used Claude to find companies vulnerable to attack.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "16小时前"
-    },
-    {
-      "id": "eec9da33d725",
-      "title": "AI Operations Management Tested by US Military Pilots",
-      "summary": "U.S. Air Force and Navy fighter pilots have tested an artificial intelligence battlefield coordination management system.",
-      "source": "Newsmax",
-      "url": "https://www.newsmax.com/newsfront/ai-coordination-agentic/2025/08/29/id/1224473/",
-      "publishedAt": "2025-08-29T20:45:34Z",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=cd14e7ec-b6fa-4b95-b178-2e3c8ad5b1b0&SiteName=Newsmax",
-      "translated_title": "AI Operations Management Tested by US Military Pilots",
-      "translated_summary": "U.S. Air Force and Navy fighter pilots have tested an artificial intelligence battlefield coordination management system.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     }
   ]
 }
