@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-30T06:29:49.997825",
+  "last_updated": "2025-08-30T07:18:56.874496",
   "total_count": 10,
   "articles": [
     {
@@ -28,7 +28,7 @@
       "translated_summary": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "a6a3d9b26455",
@@ -42,7 +42,7 @@
       "translated_summary": "Authorities in Arizona used artificial intelligence to help identify a man whose remains were found late last year.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "f6a1857201a2",
@@ -56,7 +56,7 @@
       "translated_summary": "MongoDB, Pure Storage and Snowflake all touted artificial intelligence in earnings reports this week.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "37bfa5711fbd",
@@ -70,7 +70,7 @@
       "translated_summary": "Tech giant Microsoft (MSFT) has begun testing its in-house artificial intelligence (AI) models that will compete directly with partner OpenAI wh...",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "b87519966275",
@@ -84,7 +84,7 @@
       "translated_summary": "Anthropic will start training artificial intelligence models with user data, a day after announcing a hacker used Claude to find companies vulnerable to attack.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "eec9da33d725",
@@ -98,7 +98,7 @@
       "translated_summary": "U.S. Air Force and Navy fighter pilots have tested an artificial intelligence battlefield coordination management system.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "a280ce659f2f",
@@ -112,7 +112,7 @@
       "translated_summary": "A new Stanford University study, which utilizes payroll data from the ADP National Employment Report, reveals that generative artificial intelli...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "5ae7bdc7bf12",
@@ -126,7 +126,7 @@
       "translated_summary": "BigBear.ai Holdings (BBAI), a provider of artificial intelligence (AI)-powered decision intelligence solutions, reported disappointing second-qu...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "609f6e87e7bb",
@@ -140,7 +140,7 @@
       "translated_summary": "Meta is adding new teenager safeguards to its artificial intelligence products by training systems to avoid flirty conversations and discussions of self-harm or suicide with minors, and by temporarily limiting their access to certain AI characters.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "10小时前"
+      "time": "11小时前"
     }
   ]
 }
