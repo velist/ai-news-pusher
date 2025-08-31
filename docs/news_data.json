@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-31T15:20:24.192804",
+  "last_updated": "2025-08-31T16:25:33.708712",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,21 @@
       "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "c90cdb8ca1f1",
+      "title": "Flirty Celebrity Chatbots Raise Legal and AI Risks for Meta (META)",
+      "summary": "Meta Platforms (META) has faced new pressure after reports showed that its artificial intelligence tools were used to create chatbots that copie...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/flirty-celebrity-chatbots-raise-legal-and-ai-risks-for-meta-meta-1035100650",
+      "publishedAt": "2025-08-31T09:38:28Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-2209.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Flirty Celebrity Chatbots Raise Legal and AI Risks for Meta (META)",
+      "translated_summary": "Meta Platforms (META) has faced new pressure after reports showed that its artificial intelligence tools were used to create chatbots that copie...",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "6小时前"
     },
     {
       "id": "b49ec260cd5b",
@@ -28,7 +42,7 @@
       "translated_summary": "The term, which was popularized by a “Star Wars” show and is rooted in real frustrations with technology, has become a go-to slur against artificial intelligence and robots.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "b686354f0e2f",
@@ -42,7 +56,7 @@
       "translated_summary": "Aunque los chatbots como ChatGPT penetraron en el espíritu de nuestros tiempos hace muy poco, ciertos círculos de Silicon Valley han profetizado sobre el poder de la IA durante décadas.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "10小时前"
     },
     {
       "id": "70504303e950",
@@ -56,7 +70,7 @@
       "translated_summary": "The global online safety movement has paved the way for a number of artificial intelligence-powered products designed to keep kids away from potentially harmful things on the internet",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "846234dd0469",
@@ -70,7 +84,7 @@
       "translated_summary": "Jia Zhangke held a masterclass at the Venice Film Festival, and talked about embracing artificial intelligence opportunities in filmmaking.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "23小时前"
+      "time": "1天前"
     },
     {
       "id": "46b375daf905",
@@ -126,20 +140,6 @@
       "translated_summary": "TORONTO — As the rapid, unregulated development of artificial intelligence continues, the language people in Silicon Valley use to describe it is becoming increasingly religious",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "073f9f2e69dc",
-      "title": "Meta's AI leaders discuss using Google, OpenAI models in apps, The Information says",
-      "summary": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/metas-ai-leaders-discuss-using-google-openai-models-apps-information-says-2025-08-30/",
-      "publishedAt": "2025-08-30T00:03:43Z",
-      "image": "https://www.reuters.com/resizer/v2/NI5EFS4D5ZNV3LCVSABZKSLQTA.jpg?auth=44cd52a68f6539d40a316703b6ed0e31be49cce89b2606448762fe212cd9343d&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Meta's AI leaders discuss using Google, OpenAI models in apps, The Information says",
-      "translated_summary": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "1天前"
     }
   ]
