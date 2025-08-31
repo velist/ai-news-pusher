@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-31T08:26:24.088602",
+  "last_updated": "2025-08-31T09:20:19.037685",
   "total_count": 10,
   "articles": [
+    {
+      "id": "b49ec260cd5b",
+      "title": "How ‘Clanker’ Became an Anti-A.I. Rallying Cry",
+      "summary": "The term, which was popularized by a “Star Wars” show and is rooted in real frustrations with technology, has become a go-to slur against artificial intelligence and robots.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/08/31/technology/clanker-anti-ai.html",
+      "publishedAt": "2025-08-31T09:00:46Z",
+      "image": "https://static01.nyt.com/images/2025/08/30/business/00clanker/00clanker-facebookJumbo.jpg",
+      "translated_title": "How ‘Clanker’ Became an Anti-A.I. Rallying Cry",
+      "translated_summary": "The term, which was popularized by a “Star Wars” show and is rooted in real frustrations with technology, has become a go-to slur against artificial intelligence and robots.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "19分钟前"
+    },
     {
       "id": "b686354f0e2f",
       "title": "¿Es la inteligencia artificial la nueva religión de Silicon Valley?",
@@ -28,7 +42,7 @@
       "translated_summary": "The global online safety movement has paved the way for a number of artificial intelligence-powered products designed to keep kids away from potentially harmful things on the internet",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "846234dd0469",
@@ -42,7 +56,7 @@
       "translated_summary": "Jia Zhangke held a masterclass at the Venice Film Festival, and talked about embracing artificial intelligence opportunities in filmmaking.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "46b375daf905",
@@ -56,7 +70,7 @@
       "translated_summary": "Artificial intelligence image generators are getting better and better. Here are a few ways to stay ahead of them… for now.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
+      "time": "20小时前"
     },
     {
       "id": "c548f1a8cfb6",
@@ -70,7 +84,7 @@
       "translated_summary": "Google decided to allocate some of the Pixel 10’s 12GB RAM to be used for AI tasks, but there is a simple way on how you can utilize all of that memory, assuming you do not mind a trade-off for slower artificial intelligence tasks",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "22小时前"
+      "time": "23小时前"
     },
     {
       "id": "e44f8f9d5248",
@@ -124,20 +138,6 @@
       "image": "https://ml.globenewswire.com/Resource/Download/7b93ff29-9c48-41ed-b1b7-71ca90356cea",
       "translated_title": "How Trade Vector Artificial Intelligence",
       "translated_summary": "Trade Vector AI-powered platform introduces cutting-edge automation, enhanced security protocols, and real-time market performance tools designed to...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "579e1d0ce0b3",
-      "title": "Tax Breaks: The Artificial Intelligence Is In Your Home, Office And The IRS Edition",
-      "summary": "Plus: A look at Form W-2 changes, private equity is eyeing your retirement accounts, protecting students from back-to-school scams, football news, tax trivia and more.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/kellyphillipserb/2025/08/30/tax-breaks-the-artificial-intelligence-is-in-your-home-office-and-the-irs-edition/",
-      "publishedAt": "2025-08-30T00:00:00Z",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/68b21ae9f92a4a41548c22ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "translated_title": "Tax Breaks: The Artificial Intelligence Is In Your Home, Office And The IRS Edition",
-      "translated_summary": "Plus: A look at Form W-2 changes, private equity is eyeing your retirement accounts, protecting students from back-to-school scams, football news, tax trivia and more.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
