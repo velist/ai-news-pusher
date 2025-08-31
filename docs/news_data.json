@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-31T06:31:10.867031",
+  "last_updated": "2025-08-31T07:19:41.770675",
   "total_count": 10,
   "articles": [
+    {
+      "id": "b686354f0e2f",
+      "title": "¿Es la inteligencia artificial la nueva religión de Silicon Valley?",
+      "summary": "Aunque los chatbots como ChatGPT penetraron en el espíritu de nuestros tiempos hace muy poco, ciertos círculos de Silicon Valley han profetizado sobre el poder de la IA durante décadas.",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/espanol/eeuu/articulo/2025-08-30/es-la-inteligencia-artificial-la-nueva-religion-de-silicon-valley",
+      "publishedAt": "2025-08-31T06:22:00Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/b5032da/2147483647/strip/true/crop/640x336+0+50/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Fa0%2F9bcf9383425f9f085a772a030496%2F152e3e340fb74018ba04684293fb56f5.jpg",
+      "translated_title": "¿Es la inteligencia artificial la nueva religión de Silicon Valley?",
+      "translated_summary": "Aunque los chatbots como ChatGPT penetraron en el espíritu de nuestros tiempos hace muy poco, ciertos círculos de Silicon Valley han profetizado sobre el poder de la IA durante décadas.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "57分钟前"
+    },
     {
       "id": "70504303e950",
       "title": "Global movement to protect kids online fuels a wave of AI safety tech",
@@ -28,7 +42,7 @@
       "translated_summary": "Jia Zhangke held a masterclass at the Venice Film Festival, and talked about embracing artificial intelligence opportunities in filmmaking.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "46b375daf905",
@@ -42,7 +56,7 @@
       "translated_summary": "Artificial intelligence image generators are getting better and better. Here are a few ways to stay ahead of them… for now.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "c548f1a8cfb6",
@@ -56,7 +70,7 @@
       "translated_summary": "Google decided to allocate some of the Pixel 10’s 12GB RAM to be used for AI tasks, but there is a simple way on how you can utilize all of that memory, assuming you do not mind a trade-off for slower artificial intelligence tasks",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "e44f8f9d5248",
@@ -70,7 +84,7 @@
       "translated_summary": "Companies developing artificial intelligence systems to prevent kids from being exposed to inappropriate content are flourishing.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22小时前"
+      "time": "23小时前"
     },
     {
       "id": "a8b3c0b21d71",
@@ -124,20 +138,6 @@
       "image": "https://imageio.forbes.com/specials-images/imageserve/68b21ae9f92a4a41548c22ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "translated_title": "Tax Breaks: The Artificial Intelligence Is In Your Home, Office And The IRS Edition",
       "translated_summary": "Plus: A look at Form W-2 changes, private equity is eyeing your retirement accounts, protecting students from back-to-school scams, football news, tax trivia and more.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "a6a3d9b26455",
-      "title": "AI Helps Identify Man Months After Partially Decomposed Remains Found",
-      "summary": "Authorities in Arizona used artificial intelligence to help identify a man whose remains were found late last year.",
-      "source": "People.com",
-      "url": "https://people.com/ai-helps-identify-man-months-after-naked-partially-decomposed-remains-found-11798277",
-      "publishedAt": "2025-08-29T21:46:00Z",
-      "image": "https://people.com/thmb/tWlC3NIstm7c-zxbkiEQWghaxnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/Ronald-Woolf-photo-and-ai-image-082625-6abbc73047e34f89af5ef084556909b9.jpg",
-      "translated_title": "AI Helps Identify Man Months After Partially Decomposed Remains Found",
-      "translated_summary": "Authorities in Arizona used artificial intelligence to help identify a man whose remains were found late last year.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
