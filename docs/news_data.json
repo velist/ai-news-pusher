@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-08-31T19:16:41.233648",
+  "last_updated": "2025-08-31T20:23:08.397996",
   "total_count": 10,
   "articles": [
+    {
+      "id": "83f911ed74d7",
+      "title": "As AI and Crypto Mining Converge, Energy Pressures Spark Global Shift In Hashrate and Regulation",
+      "summary": "The rapid convergence of artificial intelligence and cryptocurrency mining is intensifying global energy pressures, forcing miners to adapt through renewables, AI optimization, and shifting regional strategies.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/25/08/47432632/as-ai-and-crypto-mining-converge-energy-pressures-spark-global-shift-in-hashrate-and-regulation",
+      "publishedAt": "2025-08-31T19:55:47Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/31/Coin-Bitcoin--Eth-And-Xrp-On-Background-.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "As AI and Crypto Mining Converge, Energy Pressures Spark Global Shift In Hashrate and Regulation",
+      "translated_summary": "The rapid convergence of artificial intelligence and cryptocurrency mining is intensifying global energy pressures, forcing miners to adapt through renewables, AI optimization, and shifting regional strategies.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "27分钟前"
+    },
+    {
+      "id": "3cd03a8651ca",
+      "title": "Meet the Top 10 AI-Proof Jobs That Everyone Wants",
+      "summary": "\"Artificial intelligence is going to replace literally half of all white-collar workers in the U.S.,\" one CEO says. But not these.",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/ai-proof-jobs-a-robot-cant-do-2000651426",
+      "publishedAt": "2025-08-31T19:25:08Z",
+      "image": "https://gizmodo.com/app/uploads/2025/08/doctor-1200x675.jpg",
+      "translated_title": "Meet the Top 10 AI-Proof Jobs That Everyone Wants",
+      "translated_summary": "\"Artificial intelligence is going to replace literally half of all white-collar workers in the U.S.,\" one CEO says. But not these.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "58分钟前"
+    },
     {
       "id": "c00479cb5cc5",
       "title": "How is artificial intelligence affecting job searches?",
@@ -14,7 +42,7 @@
       "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "c90cdb8ca1f1",
@@ -28,7 +56,7 @@
       "translated_summary": "Meta Platforms (META) has faced new pressure after reports showed that its artificial intelligence tools were used to create chatbots that copie...",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "b49ec260cd5b",
@@ -42,7 +70,7 @@
       "translated_summary": "The term, which was popularized by a “Star Wars” show and is rooted in real frustrations with technology, has become a go-to slur against artificial intelligence and robots.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "b686354f0e2f",
@@ -56,7 +84,7 @@
       "translated_summary": "Aunque los chatbots como ChatGPT penetraron en el espíritu de nuestros tiempos hace muy poco, ciertos círculos de Silicon Valley han profetizado sobre el poder de la IA durante décadas.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "14小时前"
     },
     {
       "id": "70504303e950",
@@ -70,7 +98,7 @@
       "translated_summary": "The global online safety movement has paved the way for a number of artificial intelligence-powered products designed to keep kids away from potentially harmful things on the internet",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "a62e49da92e1",
@@ -84,7 +112,7 @@
       "translated_summary": "Artificial intelligence should act as a force multiplier for human intelligence, not a replacement for human decision-making.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
+      "time": "20小时前"
     },
     {
       "id": "846234dd0469",
@@ -110,34 +138,6 @@
       "image": "https://www.rollingstone.com/wp-content/uploads/2025/08/AI-tips-and-tricks.jpg?crop=0px%2C102px%2C1798px%2C1014px&resize=1600%2C900",
       "translated_title": "The Best Tips and Tricks To Spot AI",
       "translated_summary": "Artificial intelligence image generators are getting better and better. Here are a few ways to stay ahead of them… for now.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
-    },
-    {
-      "id": "c548f1a8cfb6",
-      "title": "Want The Pixel 10’s Entire 12GB RAM To Yourself? Here Is An Easy Fix, If You Do Not Mind Slower AI Operations",
-      "summary": "Google decided to allocate some of the Pixel 10’s 12GB RAM to be used for AI tasks, but there is a simple way on how you can utilize all of that memory, assuming you do not mind a trade-off for slower artificial intelligence tasks",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/pixel-10-how-to-claim-the-entire-12gb-ram/",
-      "publishedAt": "2025-08-30T10:16:08Z",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2025/08/Pixel-10-1.jpg",
-      "translated_title": "Want The Pixel 10’s Entire 12GB RAM To Yourself? Here Is An Easy Fix, If You Do Not Mind Slower AI Operations",
-      "translated_summary": "Google decided to allocate some of the Pixel 10’s 12GB RAM to be used for AI tasks, but there is a simple way on how you can utilize all of that memory, assuming you do not mind a trade-off for slower artificial intelligence tasks",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "1天前"
-    },
-    {
-      "id": "e44f8f9d5248",
-      "title": "Global movement to protect kids online fuels a wave of AI safety tech",
-      "summary": "Companies developing artificial intelligence systems to prevent kids from being exposed to inappropriate content are flourishing.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/08/30/global-movement-to-protect-kids-online-fuels-a-wave-of-ai-safety-tech.html",
-      "publishedAt": "2025-08-30T07:35:45Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108191273-1756300942198-gettyimages-1244386242-arriens-privacyg221101_npzUm.jpeg?v=1756301029&w=1920&h=1080",
-      "translated_title": "Global movement to protect kids online fuels a wave of AI safety tech",
-      "translated_summary": "Companies developing artificial intelligence systems to prevent kids from being exposed to inappropriate content are flourishing.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "1天前"
