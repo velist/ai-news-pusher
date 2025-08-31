@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-08-31T12:42:09.198165",
+  "last_updated": "2025-08-31T13:25:50.298695",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c00479cb5cc5",
+      "title": "How is artificial intelligence affecting job searches?",
+      "summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/how-is-artificial-intelligence-affecting-job-searches/",
+      "publishedAt": "2025-08-31T13:15:22Z",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/31/65e510d6-9db7-460e-b0d8-21d0ad4993ef/thumbnail/1200x630/ff77aeab8a31b673c16c28b170959b00/ai-jobs-1280.jpg",
+      "translated_title": "How is artificial intelligence affecting job searches?",
+      "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "10分钟前"
+    },
     {
       "id": "b49ec260cd5b",
       "title": "How ‘Clanker’ Became an Anti-A.I. Rallying Cry",
@@ -14,7 +28,7 @@
       "translated_summary": "The term, which was popularized by a “Star Wars” show and is rooted in real frustrations with technology, has become a go-to slur against artificial intelligence and robots.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "b686354f0e2f",
@@ -28,7 +42,7 @@
       "translated_summary": "Aunque los chatbots como ChatGPT penetraron en el espíritu de nuestros tiempos hace muy poco, ciertos círculos de Silicon Valley han profetizado sobre el poder de la IA durante décadas.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "70504303e950",
@@ -56,7 +70,7 @@
       "translated_summary": "Jia Zhangke held a masterclass at the Venice Film Festival, and talked about embracing artificial intelligence opportunities in filmmaking.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "46b375daf905",
@@ -70,7 +84,7 @@
       "translated_summary": "Artificial intelligence image generators are getting better and better. Here are a few ways to stay ahead of them… for now.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "23小时前"
+      "time": "1天前"
     },
     {
       "id": "c548f1a8cfb6",
@@ -126,20 +140,6 @@
       "translated_summary": "Meta Platforms is considering partnerships with rivals Google or OpenAI to enhance artificial intelligence features in its applications, The Information reported on Friday, citing people familiar with the conversations.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1天前"
-    },
-    {
-      "id": "1489ebab0a61",
-      "title": "How Trade Vector Artificial Intelligence",
-      "summary": "Trade Vector AI-powered platform introduces cutting-edge automation, enhanced security protocols, and real-time market performance tools designed to...",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2025/08/30/3141885/0/en/Trade-Vector-AI-How-Trade-Vector-Artificial-Intelligence-Platform-Is-Transforming-Automated-Trading-Systems.html",
-      "publishedAt": "2025-08-30T00:00:00Z",
-      "image": "https://ml.globenewswire.com/Resource/Download/7b93ff29-9c48-41ed-b1b7-71ca90356cea",
-      "translated_title": "How Trade Vector Artificial Intelligence",
-      "translated_summary": "Trade Vector AI-powered platform introduces cutting-edge automation, enhanced security protocols, and real-time market performance tools designed to...",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "1天前"
     }
   ]
