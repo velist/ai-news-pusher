@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-01T22:20:26.025064",
+  "last_updated": "2025-09-01T23:20:33.845351",
   "total_count": 10,
   "articles": [
+    {
+      "id": "6b547a94d99c",
+      "title": "AI forcing some people to change career industries. Here's how to set a new course",
+      "summary": "Artificial intelligence is starting to impact the labor market and that has many people considering a career change.",
+      "source": "KABC-TV",
+      "url": "https://abc7.com/post/artificial-intelligence-forcing-people-change-career-industries-heres-how-set-new-course/17714573/",
+      "publishedAt": "2025-09-01T22:24:35Z",
+      "image": "https://cdn.abcotvs.com/dip/images/17714601_changing-careers.jpg?w=1600",
+      "translated_title": "AI forcing some people to change career industries. Here's how to set a new course",
+      "translated_summary": "Artificial intelligence is starting to impact the labor market and that has many people considering a career change.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "55分钟前"
+    },
     {
       "id": "5f70c501ccd4",
       "title": "What Artificial Intelligence Looks Like in America’s Classrooms",
@@ -14,7 +28,7 @@
       "translated_summary": "Educators across the country are bringing chatbots into their lesson plans. Will it help kids learn or is it just another doomed ed-tech fad?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "cc975ee1b6c1",
@@ -28,7 +42,7 @@
       "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "c32e21b9ce2f",
@@ -42,7 +56,7 @@
       "translated_summary": "A British woman suffering from motor neurone disease who lost her ability to speak is once again talking in her own voice, thanks to artificial intelligence and a barely audible eight-second clip from an old home video.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "f4eee56a6ed9",
@@ -56,7 +70,7 @@
       "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "b56a34d72e42",
@@ -70,7 +84,7 @@
       "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "c42bd2df46b0",
@@ -84,7 +98,7 @@
       "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "6f53ddce0209",
@@ -98,7 +112,7 @@
       "translated_summary": "WIRED talks to the director of the Chilean National Center for Artificial Intelligence about Latam-GPT, the large-language model that aims to address the region’s specific needs and change the current technological dynamic.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "b67eaff49832",
@@ -112,7 +126,7 @@
       "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will help them master the new technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "38e1e494ec37",
@@ -126,21 +140,7 @@
       "translated_summary": "OpenAI is seeking to build a massive new data center in India that could mark a major step forward in Asia for its Stargate-branded artificial intelligence infrastructure push.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "17小时前"
-    },
-    {
-      "id": "ddf5ca42b17c",
-      "title": "Artificial Intelligence Stocks To Add to Your Watchlist - August 29th",
-      "summary": "Read Artificial Intelligence Stocks To Add to Your Watchlist – August 29th at ETF Daily News",
-      "source": "ETF Daily News",
-      "url": "https://www.etfdailynews.com/2025/09/01/artificial-intelligence-stocks-to-add-to-your-watchlist-august-29th/",
-      "publishedAt": "2025-09-01T04:58:53Z",
-      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/snowflake-inc-logo-1200x675.png?v=20200921121226&w=240&h=240&zc=2",
-      "translated_title": "Artificial Intelligence Stocks To Add to Your Watchlist - August 29th",
-      "translated_summary": "Read Artificial Intelligence Stocks To Add to Your Watchlist – August 29th at ETF Daily News",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "17小时前"
+      "time": "18小时前"
     }
   ]
 }
