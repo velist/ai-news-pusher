@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-01T03:53:00.301527",
+  "last_updated": "2025-09-01T04:32:27.416552",
   "total_count": 10,
   "articles": [
+    {
+      "id": "3fc673d9a79c",
+      "title": "FAITH Token Announces CEX Listings and Expansion of Its",
+      "summary": "TIENEN, Belgium, Sept. 01, 2025 (GLOBE NEWSWIRE) -- FAITH Token, a blockchain project integrating artificial intelligence with decentralized finance,...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/09/01/3141952/0/en/FAITH-Token-Announces-CEX-Listings-and-Expansion-of-Its-Dual-AI-Ecosystem.html",
+      "publishedAt": "2025-09-01T00:00:00Z",
+      "image": "https://ml.globenewswire.com/Resource/Download/07db11d9-7803-4be9-aad6-9b26236ddf1f",
+      "translated_title": "FAITH Token Announces CEX Listings and Expansion of Its",
+      "translated_summary": "TIENEN, Belgium, Sept. 01, 2025 (GLOBE NEWSWIRE) -- FAITH Token, a blockchain project integrating artificial intelligence with decentralized finance,...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "4小时前"
+    },
     {
       "id": "83f911ed74d7",
       "title": "As AI and Crypto Mining Converge, Energy Pressures Spark Global Shift In Hashrate and Regulation",
@@ -14,7 +28,7 @@
       "translated_summary": "The rapid convergence of artificial intelligence and cryptocurrency mining is intensifying global energy pressures, forcing miners to adapt through renewables, AI optimization, and shifting regional strategies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "3cd03a8651ca",
@@ -28,7 +42,7 @@
       "translated_summary": "\"Artificial intelligence is going to replace literally half of all white-collar workers in the U.S.,\" one CEO says. But not these.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "5ae7bdc7bf12",
@@ -42,7 +56,7 @@
       "translated_summary": "BigBear.ai Holdings (BBAI), a provider of artificial intelligence (AI)-powered decision intelligence solutions, reported disappointing second-qu...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "f61994dd2263",
@@ -56,7 +70,7 @@
       "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "c00479cb5cc5",
@@ -70,7 +84,7 @@
       "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "ba77f7c4f20a",
@@ -84,7 +98,7 @@
       "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "c90cdb8ca1f1",
@@ -112,7 +126,7 @@
       "translated_summary": "The term, which was popularized by a “Star Wars” show and is rooted in real frustrations with technology, has become a go-to slur against artificial intelligence and robots.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "b686354f0e2f",
@@ -126,21 +140,7 @@
       "translated_summary": "Aunque los chatbots como ChatGPT penetraron en el espíritu de nuestros tiempos hace muy poco, ciertos círculos de Silicon Valley han profetizado sobre el poder de la IA durante décadas.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "21小时前"
-    },
-    {
-      "id": "70504303e950",
-      "title": "Global movement to protect kids online fuels a wave of AI safety tech",
-      "summary": "The global online safety movement has paved the way for a number of artificial intelligence-powered products designed to keep kids away from potentially harmful things on the internet",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/tech-news/global-movement-protect-kids-online-fuels-wave-ai-safety-tech-rcna228250",
-      "publishedAt": "2025-08-31T02:29:22Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250830-phone-cc-1025p-1b2825.jpg",
-      "translated_title": "Global movement to protect kids online fuels a wave of AI safety tech",
-      "translated_summary": "The global online safety movement has paved the way for a number of artificial intelligence-powered products designed to keep kids away from potentially harmful things on the internet",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "1天前"
+      "time": "22小时前"
     }
   ]
 }
