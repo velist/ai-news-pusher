@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-01T09:27:35.755181",
+  "last_updated": "2025-09-01T10:26:09.650226",
   "total_count": 10,
   "articles": [
+    {
+      "id": "b67eaff49832",
+      "title": "Free AI training comes to California colleges - but at what cost?",
+      "summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will help them master the new technology.",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/california/story/2025-09-01/free-ai-training-comes-to-california-colleges-but-at-what-cost",
+      "publishedAt": "2025-09-01T10:00:00Z",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/42db278/2147483647/strip/true/crop/4327x2272+0+307/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6d%2F4d%2F5490eb784b928a57c50927707174%2Fap25219833915804.jpg",
+      "translated_title": "Free AI training comes to California colleges - but at what cost?",
+      "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will help them master the new technology.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "26分钟前"
+    },
     {
       "id": "38e1e494ec37",
       "title": "OpenAI Plans India Data Center in Major Stargate Expansion",
@@ -14,7 +28,7 @@
       "translated_summary": "OpenAI is seeking to build a massive new data center in India that could mark a major step forward in Asia for its Stargate-branded artificial intelligence infrastructure push.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "ddf5ca42b17c",
@@ -28,7 +42,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Add to Your Watchlist – August 29th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "3fc673d9a79c",
@@ -42,7 +56,7 @@
       "translated_summary": "TIENEN, Belgium, Sept. 01, 2025 (GLOBE NEWSWIRE) -- FAITH Token, a blockchain project integrating artificial intelligence with decentralized finance,...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "83f911ed74d7",
@@ -56,7 +70,7 @@
       "translated_summary": "The rapid convergence of artificial intelligence and cryptocurrency mining is intensifying global energy pressures, forcing miners to adapt through renewables, AI optimization, and shifting regional strategies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "3cd03a8651ca",
@@ -70,7 +84,7 @@
       "translated_summary": "\"Artificial intelligence is going to replace literally half of all white-collar workers in the U.S.,\" one CEO says. But not these.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "5ae7bdc7bf12",
@@ -84,7 +98,7 @@
       "translated_summary": "BigBear.ai Holdings (BBAI), a provider of artificial intelligence (AI)-powered decision intelligence solutions, reported disappointing second-qu...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "f61994dd2263",
@@ -98,7 +112,7 @@
       "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "c00479cb5cc5",
@@ -112,7 +126,7 @@
       "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20小时前"
+      "time": "21小时前"
     },
     {
       "id": "ba77f7c4f20a",
@@ -126,21 +140,7 @@
       "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20小时前"
-    },
-    {
-      "id": "c90cdb8ca1f1",
-      "title": "Flirty Celebrity Chatbots Raise Legal and AI Risks for Meta (META)",
-      "summary": "Meta Platforms (META) has faced new pressure after reports showed that its artificial intelligence tools were used to create chatbots that copie...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/flirty-celebrity-chatbots-raise-legal-and-ai-risks-for-meta-meta-1035100650",
-      "publishedAt": "2025-08-31T09:38:28Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/image-2209.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Flirty Celebrity Chatbots Raise Legal and AI Risks for Meta (META)",
-      "translated_summary": "Meta Platforms (META) has faced new pressure after reports showed that its artificial intelligence tools were used to create chatbots that copie...",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "23小时前"
+      "time": "21小时前"
     }
   ]
 }
