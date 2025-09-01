@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-09-01T11:18:56.571054",
+  "last_updated": "2025-09-01T12:49:43.660075",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c42bd2df46b0",
+      "title": "AI Euphoria to Fuel 20% S&P Rally by End-2026, Evercore ISI Says",
+      "summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-01/ai-euphoria-to-fuel-20-s-p-rally-by-end-2026-evercore-isi-says",
+      "publishedAt": "2025-09-01T11:15:16Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifiB2tPla8F0/v1/1200x800.jpg",
+      "translated_title": "AI Euphoria to Fuel 20% S&P Rally by End-2026, Evercore ISI Says",
+      "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
+    {
+      "id": "6f53ddce0209",
+      "title": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America",
+      "summary": "WIRED talks to the director of the Chilean National Center for Artificial Intelligence about Latam-GPT, the large-language model that aims to address the region’s specific needs and change the current technological dynamic.",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/latam-gpt-the-free-open-source-and-collaborative-ai-of-latin-america/",
+      "publishedAt": "2025-09-01T11:00:00Z",
+      "image": "https://media.wired.com/photos/68b1f8e975376e91d567cb26/191:100/w_1280,c_limit/WIRED-IT-LLM-Latin-America-2182163226.jpg",
+      "translated_title": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America",
+      "translated_summary": "WIRED talks to the director of the Chilean National Center for Artificial Intelligence about Latam-GPT, the large-language model that aims to address the region’s specific needs and change the current technological dynamic.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "1小时前"
+    },
     {
       "id": "b67eaff49832",
       "title": "Free AI training comes to California colleges - but at what cost?",
@@ -14,7 +42,7 @@
       "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will help them master the new technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "38e1e494ec37",
@@ -28,7 +56,7 @@
       "translated_summary": "OpenAI is seeking to build a massive new data center in India that could mark a major step forward in Asia for its Stargate-branded artificial intelligence infrastructure push.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "ddf5ca42b17c",
@@ -42,7 +70,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Add to Your Watchlist – August 29th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "cfe552c2d3dc",
@@ -56,7 +84,7 @@
       "translated_summary": "Artificial intelligence (AI) is rapidly changing the technology sector, opening new opportunities for companies that provide the chips and softw...",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "3fc673d9a79c",
@@ -70,7 +98,21 @@
       "translated_summary": "TIENEN, Belgium, Sept. 01, 2025 (GLOBE NEWSWIRE) -- FAITH Token, a blockchain project integrating artificial intelligence with decentralized finance,...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
+    },
+    {
+      "id": "977de3f40f38",
+      "title": "Artificial Intelligence in the Global Marketing Industry",
+      "summary": "Growth is also driven by cloud-based deployments, particularly in virtual assistant applications, bolstering customer interactions...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/09/01/3142120/28124/en/Artificial-Intelligence-in-the-Global-Marketing-Industry-2025-2034-Chatbots-Recommendation-Engines-and-Customer-Centric-Strategies-Driving-Revenues.html",
+      "publishedAt": "2025-09-01T00:00:00Z",
+      "image": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "translated_title": "Artificial Intelligence in the Global Marketing Industry",
+      "translated_summary": "Growth is also driven by cloud-based deployments, particularly in virtual assistant applications, bolstering customer interactions...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "12小时前"
     },
     {
       "id": "83f911ed74d7",
@@ -84,7 +126,7 @@
       "translated_summary": "The rapid convergence of artificial intelligence and cryptocurrency mining is intensifying global energy pressures, forcing miners to adapt through renewables, AI optimization, and shifting regional strategies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "3cd03a8651ca",
@@ -98,49 +140,7 @@
       "translated_summary": "\"Artificial intelligence is going to replace literally half of all white-collar workers in the U.S.,\" one CEO says. But not these.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15小时前"
-    },
-    {
-      "id": "5ae7bdc7bf12",
-      "title": "Why Is Wall Street Bullish on BigBear.ai Stock (BBAI) Despite Weak Revenue?",
-      "summary": "BigBear.ai Holdings (BBAI), a provider of artificial intelligence (AI)-powered decision intelligence solutions, reported disappointing second-qu...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/why-is-wall-street-bullish-on-bigbear-ai-stock-bbai-despite-weak-revenue-1035098841",
-      "publishedAt": "2025-08-31T15:00:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/08/BBAI.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Why Is Wall Street Bullish on BigBear.ai Stock (BBAI) Despite Weak Revenue?",
-      "translated_summary": "BigBear.ai Holdings (BBAI), a provider of artificial intelligence (AI)-powered decision intelligence solutions, reported disappointing second-qu...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "20小时前"
-    },
-    {
-      "id": "f61994dd2263",
-      "title": "How is artificial intelligence affecting job searches?",
-      "summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/texas/news/how-is-artificial-intelligence-affecting-job-searches/",
-      "publishedAt": "2025-08-31T13:15:22Z",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/31/65e510d6-9db7-460e-b0d8-21d0ad4993ef/thumbnail/1200x630/ff77aeab8a31b673c16c28b170959b00/ai-jobs-1280.jpg",
-      "translated_title": "How is artificial intelligence affecting job searches?",
-      "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "22小时前"
-    },
-    {
-      "id": "ba77f7c4f20a",
-      "title": "How is artificial intelligence affecting job searches?",
-      "summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/detroit/news/how-is-artificial-intelligence-affecting-job-searches/",
-      "publishedAt": "2025-08-31T13:15:22Z",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/31/65e510d6-9db7-460e-b0d8-21d0ad4993ef/thumbnail/1200x630/ff77aeab8a31b673c16c28b170959b00/ai-jobs-1280.jpg",
-      "translated_title": "How is artificial intelligence affecting job searches?",
-      "translated_summary": "AI has already become a disruptor in the labor market, as job postings declined over the past year by 6.7%, with entry-level positions especially hard-hit. But not all industries are affected by the push for AI.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "22小时前"
+      "time": "17小时前"
     }
   ]
 }
