@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-02T10:24:38.656562",
+  "last_updated": "2025-09-02T11:18:40.390609",
   "total_count": 10,
   "articles": [
+    {
+      "id": "7368f4e0030e",
+      "title": "Goldman Sachs’s Minnis Sees M&A Ramp-Up, AI Spending Boom",
+      "summary": "Mergers and acquisitions are likely to pick up toward the end of the year and the artificial intelligence boom will drive significant infrastructure financing, according to Goldman Sachs’s global head of credit finance.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-02/goldman-sachs-s-minnis-sees-m-a-ramp-up-ai-spending-boom",
+      "publishedAt": "2025-09-02T10:27:24Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE65CvTn0W4A/v1/1200x800.jpg",
+      "translated_title": "Goldman Sachs’s Minnis Sees M&A Ramp-Up, AI Spending Boom",
+      "translated_summary": "Mergers and acquisitions are likely to pick up toward the end of the year and the artificial intelligence boom will drive significant infrastructure financing, according to Goldman Sachs’s global head of credit finance.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "51分钟前"
+    },
     {
       "id": "30179f4d24a3",
       "title": "Donald Trump Wants to Cut Government Research Grants",
@@ -14,7 +28,7 @@
       "translated_summary": "The upcoming budget bill could put grants that fund life-saving drugs like GLP-1 and innovations such as artificial intelligence in jeopardy.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "24分钟前"
+      "time": "1小时前"
     },
     {
       "id": "f9fd30591b0f",
@@ -28,7 +42,7 @@
       "translated_summary": "Let's let teachers lead the way. Let's build systems where technology serves learning, not the other way around. And let's remember that in an age of artificial intelligence, our greatest strength",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "19e61fce226e",
@@ -42,7 +56,7 @@
       "translated_summary": "Social Security, under the leadership of a tech enthusiast, rolled out an artificial intelligence-powered chatbot to answer calls. But as beneficiaries complain about glitches, lawmakers and former officials ask whether it’s a preview of a less human agency at which rushed-out AI takes the place of pushed-out government workers.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "119a9922a9ed",
@@ -56,7 +70,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Follow Now – August 30th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "eff81c7e5f85",
@@ -70,7 +84,7 @@
       "translated_summary": "Elon Musk recently said that Grok 5, the next version of his chatbot, will be the closest thing yet to artificial general intelligence (AGI). Hi...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "60d609fd0a3f",
@@ -84,7 +98,7 @@
       "translated_summary": "The big data and artificial intelligence market is projected to grow from $385.89 billion in 2024 to $884.42 billion in 2029, driven by increased data...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "1d742b92088d",
@@ -98,7 +112,7 @@
       "translated_summary": "The big data and artificial intelligence market is projected to grow from $385.89 billion in 2024 to $884.42 billion in 2029, driven by increased data...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "6b547a94d99c",
@@ -126,21 +140,7 @@
       "translated_summary": "Educators across the country are bringing chatbots into their lesson plans. Will it help kids learn or is it just another doomed ed-tech fad?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "df89d079c695",
-      "title": "Is Vertiv Holdings Stock (VRT) a Buy? Here’s What AI Analyst Says",
-      "summary": "The ongoing artificial intelligence (AI) wave has bolstered the prospects of data center infrastructure companies, such as Vertiv Holdings (VRT)...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/is-vertiv-holdings-stock-vrt-a-buy-here-s-what-ai-analyst-says-1035104329",
-      "publishedAt": "2025-09-01T20:31:13Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-90.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "Is Vertiv Holdings Stock (VRT) a Buy? Here’s What AI Analyst Says",
-      "translated_summary": "The ongoing artificial intelligence (AI) wave has bolstered the prospects of data center infrastructure companies, such as Vertiv Holdings (VRT)...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     }
   ]
 }
