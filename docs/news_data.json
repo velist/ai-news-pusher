@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-02T06:35:12.903350",
+  "last_updated": "2025-09-02T07:22:33.761752",
   "total_count": 10,
   "articles": [
+    {
+      "id": "eff81c7e5f85",
+      "title": "AI Race: U.S. Bets Billions on AGI While China Pushes Practical Gains",
+      "summary": "Elon Musk recently said that Grok 5, the next version of his chatbot, will be the closest thing yet to artificial general intelligence (AGI). Hi...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/ai-race-u-s-bets-billions-on-agi-while-china-pushes-practical-gains-1035104135",
+      "publishedAt": "2025-09-02T00:45:00Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-59.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "AI Race: U.S. Bets Billions on AGI While China Pushes Practical Gains",
+      "translated_summary": "Elon Musk recently said that Grok 5, the next version of his chatbot, will be the closest thing yet to artificial general intelligence (AGI). Hi...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "6小时前"
+    },
     {
       "id": "6b547a94d99c",
       "title": "AI forcing some people to change career industries. Here's how to set a new course",
@@ -28,7 +42,7 @@
       "translated_summary": "Educators across the country are bringing chatbots into their lesson plans. Will it help kids learn or is it just another doomed ed-tech fad?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "df89d079c695",
@@ -56,7 +70,7 @@
       "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "c32e21b9ce2f",
@@ -70,7 +84,7 @@
       "translated_summary": "A British woman suffering from motor neurone disease who lost her ability to speak is once again talking in her own voice, thanks to artificial intelligence and a barely audible eight-second clip from an old home video.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "16小时前"
+      "time": "17小时前"
     },
     {
       "id": "f4eee56a6ed9",
@@ -84,7 +98,7 @@
       "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "b56a34d72e42",
@@ -98,7 +112,7 @@
       "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "c42bd2df46b0",
@@ -112,7 +126,7 @@
       "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
+      "time": "20小时前"
     },
     {
       "id": "6f53ddce0209",
@@ -124,20 +138,6 @@
       "image": "https://media.wired.com/photos/68b1f8e975376e91d567cb26/191:100/w_1280,c_limit/WIRED-IT-LLM-Latin-America-2182163226.jpg",
       "translated_title": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America",
       "translated_summary": "WIRED talks to the director of the Chilean National Center for Artificial Intelligence about Latam-GPT, the large-language model that aims to address the region’s specific needs and change the current technological dynamic.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "19小时前"
-    },
-    {
-      "id": "b67eaff49832",
-      "title": "Free AI training comes to California colleges - but at what cost?",
-      "summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will help them master the new technology.",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/california/story/2025-09-01/free-ai-training-comes-to-california-colleges-but-at-what-cost",
-      "publishedAt": "2025-09-01T10:00:00Z",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/42db278/2147483647/strip/true/crop/4327x2272+0+307/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6d%2F4d%2F5490eb784b928a57c50927707174%2Fap25219833915804.jpg",
-      "translated_title": "Free AI training comes to California colleges - but at what cost?",
-      "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will help them master the new technology.",
       "category": "技术突破",
       "category_icon": "🚀",
       "time": "20小时前"
