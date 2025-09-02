@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-09-02T08:31:02.554722",
+  "last_updated": "2025-09-02T09:25:04.574049",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f9fd30591b0f",
+      "title": "Khan Academy Founder: We Created AI-Based Learning Tools for US Classrooms. Teachers Matter More Than Ever",
+      "summary": "Let's let teachers lead the way. Let's build systems where technology serves learning, not the other way around. And let's remember that in an age of artificial intelligence, our greatest strength",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/khan-academy-founder-we-created-ai-based-learning-tools-us-classrooms-teachers-matter-more-ever-2120496",
+      "publishedAt": "2025-09-02T09:00:01Z",
+      "image": "https://d.newsweek.com/en/full/2710849/khan-academy-ceo-sal-khan.jpg",
+      "translated_title": "Khan Academy Founder: We Created AI-Based Learning Tools for US Classrooms. Teachers Matter More Than Ever",
+      "translated_summary": "Let's let teachers lead the way. Let's build systems where technology serves learning, not the other way around. And let's remember that in an age of artificial intelligence, our greatest strength",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "25分钟前"
+    },
+    {
+      "id": "19e61fce226e",
+      "title": "Social Security Praises Its New Chatbot. Ex-Officials Say It Was Tested But Shelved Under Biden.",
+      "summary": "Social Security, under the leadership of a tech enthusiast, rolled out an artificial intelligence-powered chatbot to answer calls. But as beneficiaries complain about glitches, lawmakers and former officials ask whether it’s a preview of a less human agency at which rushed-out AI takes the place of pushed-out government workers.",
+      "source": "KFF Health News",
+      "url": "https://kffhealthnews.org/news/article/social-security-chatbot-customer-complaints-glitches/",
+      "publishedAt": "2025-09-02T09:00:00Z",
+      "image": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/Bisignano.jpg",
+      "translated_title": "Social Security Praises Its New Chatbot. Ex-Officials Say It Was Tested But Shelved Under Biden.",
+      "translated_summary": "Social Security, under the leadership of a tech enthusiast, rolled out an artificial intelligence-powered chatbot to answer calls. But as beneficiaries complain about glitches, lawmakers and former officials ask whether it’s a preview of a less human agency at which rushed-out AI takes the place of pushed-out government workers.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "25分钟前"
+    },
     {
       "id": "119a9922a9ed",
       "title": "Artificial Intelligence Stocks To Follow Now - August 30th",
@@ -14,7 +42,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Follow Now – August 30th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "eff81c7e5f85",
@@ -28,7 +56,7 @@
       "translated_summary": "Elon Musk recently said that Grok 5, the next version of his chatbot, will be the closest thing yet to artificial general intelligence (AGI). Hi...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "6b547a94d99c",
@@ -42,7 +70,7 @@
       "translated_summary": "Artificial intelligence is starting to impact the labor market and that has many people considering a career change.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "5f70c501ccd4",
@@ -56,7 +84,7 @@
       "translated_summary": "Educators across the country are bringing chatbots into their lesson plans. Will it help kids learn or is it just another doomed ed-tech fad?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "df89d079c695",
@@ -70,7 +98,7 @@
       "translated_summary": "The ongoing artificial intelligence (AI) wave has bolstered the prospects of data center infrastructure companies, such as Vertiv Holdings (VRT)...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "cc975ee1b6c1",
@@ -84,7 +112,7 @@
       "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15小时前"
+      "time": "16小时前"
     },
     {
       "id": "c32e21b9ce2f",
@@ -98,7 +126,7 @@
       "translated_summary": "A British woman suffering from motor neurone disease who lost her ability to speak is once again talking in her own voice, thanks to artificial intelligence and a barely audible eight-second clip from an old home video.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "f4eee56a6ed9",
@@ -112,35 +140,7 @@
       "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19小时前"
-    },
-    {
-      "id": "b56a34d72e42",
-      "title": "'Memory of Princess Mumbi' Director Damien Hauser on AI, African Film",
-      "summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
-      "source": "Variety",
-      "url": "https://variety.com/2025/film/news/memory-of-princess-mumbi-damien-hauser-ai-1236499344/",
-      "publishedAt": "2025-09-01T12:50:00Z",
-      "image": "https://variety.com/wp-content/uploads/2025/08/MixCollage-27-Aug-2025-10-58-AM-7166_1bdd99.jpg?w=1000&h=563&crop=1",
-      "translated_title": "'Memory of Princess Mumbi' Director Damien Hauser on AI, African Film",
-      "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "19小时前"
-    },
-    {
-      "id": "c42bd2df46b0",
-      "title": "AI Euphoria to Fuel 20% S&P Rally by End-2026, Evercore ISI Says",
-      "summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-01/ai-euphoria-to-fuel-20-s-p-rally-by-end-2026-evercore-isi-says",
-      "publishedAt": "2025-09-01T11:15:16Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifiB2tPla8F0/v1/1200x800.jpg",
-      "translated_title": "AI Euphoria to Fuel 20% S&P Rally by End-2026, Evercore ISI Says",
-      "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "21小时前"
+      "time": "20小时前"
     }
   ]
 }
