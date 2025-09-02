@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-02T07:22:33.761752",
+  "last_updated": "2025-09-02T08:31:02.554722",
   "total_count": 10,
   "articles": [
+    {
+      "id": "119a9922a9ed",
+      "title": "Artificial Intelligence Stocks To Follow Now - August 30th",
+      "summary": "Read Artificial Intelligence Stocks To Follow Now – August 30th at ETF Daily News",
+      "source": "ETF Daily News",
+      "url": "https://www.etfdailynews.com/2025/09/02/artificial-intelligence-stocks-to-follow-now-august-30th/",
+      "publishedAt": "2025-09-02T04:04:57Z",
+      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/snowflake-inc-logo-1200x675.png?v=20200921121226&w=240&h=240&zc=2",
+      "translated_title": "Artificial Intelligence Stocks To Follow Now - August 30th",
+      "translated_summary": "Read Artificial Intelligence Stocks To Follow Now – August 30th at ETF Daily News",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "4小时前"
+    },
     {
       "id": "eff81c7e5f85",
       "title": "AI Race: U.S. Bets Billions on AGI While China Pushes Practical Gains",
@@ -14,7 +28,7 @@
       "translated_summary": "Elon Musk recently said that Grok 5, the next version of his chatbot, will be the closest thing yet to artificial general intelligence (AGI). Hi...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "6b547a94d99c",
@@ -28,7 +42,7 @@
       "translated_summary": "Artificial intelligence is starting to impact the labor market and that has many people considering a career change.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "10小时前"
     },
     {
       "id": "5f70c501ccd4",
@@ -42,7 +56,7 @@
       "translated_summary": "Educators across the country are bringing chatbots into their lesson plans. Will it help kids learn or is it just another doomed ed-tech fad?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "df89d079c695",
@@ -56,7 +70,7 @@
       "translated_summary": "The ongoing artificial intelligence (AI) wave has bolstered the prospects of data center infrastructure companies, such as Vertiv Holdings (VRT)...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "cc975ee1b6c1",
@@ -70,7 +84,7 @@
       "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "c32e21b9ce2f",
@@ -84,7 +98,7 @@
       "translated_summary": "A British woman suffering from motor neurone disease who lost her ability to speak is once again talking in her own voice, thanks to artificial intelligence and a barely audible eight-second clip from an old home video.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17小时前"
+      "time": "18小时前"
     },
     {
       "id": "f4eee56a6ed9",
@@ -98,7 +112,7 @@
       "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "b56a34d72e42",
@@ -112,7 +126,7 @@
       "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "18小时前"
+      "time": "19小时前"
     },
     {
       "id": "c42bd2df46b0",
@@ -126,21 +140,7 @@
       "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20小时前"
-    },
-    {
-      "id": "6f53ddce0209",
-      "title": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America",
-      "summary": "WIRED talks to the director of the Chilean National Center for Artificial Intelligence about Latam-GPT, the large-language model that aims to address the region’s specific needs and change the current technological dynamic.",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/latam-gpt-the-free-open-source-and-collaborative-ai-of-latin-america/",
-      "publishedAt": "2025-09-01T11:00:00Z",
-      "image": "https://media.wired.com/photos/68b1f8e975376e91d567cb26/191:100/w_1280,c_limit/WIRED-IT-LLM-Latin-America-2182163226.jpg",
-      "translated_title": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America",
-      "translated_summary": "WIRED talks to the director of the Chilean National Center for Artificial Intelligence about Latam-GPT, the large-language model that aims to address the region’s specific needs and change the current technological dynamic.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "20小时前"
+      "time": "21小时前"
     }
   ]
 }
