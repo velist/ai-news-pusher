@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-09-02T22:18:42.641632",
+  "last_updated": "2025-09-02T23:18:53.707338",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c52925836614",
+      "title": "Trump says White House window video is AI. His team indicated it's real",
+      "summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
+      "source": "The Boston Herald",
+      "url": "https://www.bostonherald.com/2025/09/02/trump-white-house-window/",
+      "publishedAt": "2025-09-02T22:46:19Z",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2025/09/Trump_88859-1.jpg?w=1024&h=682",
+      "translated_title": "Trump says White House window video is AI. His team indicated it's real",
+      "translated_summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "32分钟前"
+    },
+    {
+      "id": "f5fef5ad285e",
+      "title": "Trump says White House window video is AI. His team indicated it's real",
+      "summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
+      "source": "Baltimore Sun",
+      "url": "https://www.baltimoresun.com/2025/09/02/trump-white-house-window/",
+      "publishedAt": "2025-09-02T22:46:19Z",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2025/09/Trump_88859-1.jpg?w=1024&h=682",
+      "translated_title": "Trump says White House window video is AI. His team indicated it's real",
+      "translated_summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "32分钟前"
+    },
     {
       "id": "c7108a4647d5",
       "title": "Trump Says Video Showing Items Thrown From White House Is AI After His Team Indicates It's Real",
@@ -14,7 +42,7 @@
       "translated_summary": "WASHINGTON (AP) — President Donald Trump said Tuesday that a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "15分钟前"
+      "time": "1小时前"
     },
     {
       "id": "75ec05323c14",
@@ -28,7 +56,7 @@
       "translated_summary": "Anthropic has closed a deal to raise $13 billion from investors in a new funding round that nearly triples its valuation to $183 billion, including dollars raised a larger-than-expected haul that makes the artificial intelligence company one of the most valuable startups in the world.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "48分钟前"
+      "time": "1小时前"
     },
     {
       "id": "047d9faf8895",
@@ -42,7 +70,7 @@
       "translated_summary": "Apple Inc.'s lead artificial intelligence researcher for robotics has departed the company to join Meta Platforms Inc.'s competing effort, part of an exodus of AI talent from the iPhone maker.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "48分钟前"
+      "time": "1小时前"
     },
     {
       "id": "54f03e25916f",
@@ -56,7 +84,7 @@
       "translated_summary": "Nvidia Corp. closed below a key technical level for the first time since May as investors continue to rotate out of the leading maker of artificial intelligence chips.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "7d63cdd05cb3",
@@ -70,7 +98,7 @@
       "translated_summary": "Fairfax County is testing the use of artificial intelligence to triage nonemergency 911 calls, with hopes of getting residents and visitors help faster.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "7746944f68a7",
@@ -84,7 +112,7 @@
       "translated_summary": "Apple's lead artificial intelligence researcher for robotics is leaving the company for Meta, reports Bloomberg. Jian Zhang joined the Meta...",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "909c7e7f0d6f",
@@ -98,7 +126,7 @@
       "translated_summary": "Since generative artificial intelligence arrived, a big debate on Wall Street has been its impact on enterprise software companies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "de3649b31903",
@@ -112,34 +140,6 @@
       "translated_summary": "How AI firms like OpenAI and Meta steal music by scraping copyrighted works to train generative artificial intelligence systems, according to ICMP.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
-    },
-    {
-      "id": "aa8764942b9d",
-      "title": "Anthropic Raises Its Valuation to $183 Billion in New Funding",
-      "summary": "The artificial intelligence start-up garnered another $13 billion as its valuation rose by nearly three times, from $61.5 billion earlier this year, amid a frenzy over the technology.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2025/09/02/technology/anthropic-funding-ai.html",
-      "publishedAt": "2025-09-02T17:52:28Z",
-      "image": "https://static01.nyt.com/images/2025/09/02/multimedia/02anthropic=1-mgqz/02anthropic=1-mgqz-facebookJumbo.jpg",
-      "translated_title": "Anthropic Raises Its Valuation to $183 Billion in New Funding",
-      "translated_summary": "The artificial intelligence start-up garnered another $13 billion as its valuation rose by nearly three times, from $61.5 billion earlier this year, amid a frenzy over the technology.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "4小时前"
-    },
-    {
-      "id": "3c48fdaf8daf",
-      "title": "Salesforce investors hope for faster growth, AI progress in earnings",
-      "summary": "Investors want to see Salesforce's Agentforce artificial intelligence tool for customer service pick up traction.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/09/02/salesforce-investors-hope-for-faster-growth-ai-progress-in-earnings-.html",
-      "publishedAt": "2025-09-02T16:19:03Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108192700-17565162372020-01-21t173447z_517616248_rc2hke9pxxe2_rtrmadp_0_davos-meeting.jpeg?v=1756516312&w=1920&h=1080",
-      "translated_title": "Salesforce investors hope for faster growth, AI progress in earnings",
-      "translated_summary": "Investors want to see Salesforce's Agentforce artificial intelligence tool for customer service pick up traction.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "5小时前"
     }
   ]
