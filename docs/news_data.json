@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-02T01:50:26.043997",
+  "last_updated": "2025-09-02T03:08:54.134961",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "Artificial intelligence is starting to impact the labor market and that has many people considering a career change.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "5f70c501ccd4",
@@ -28,7 +28,21 @@
       "translated_summary": "Educators across the country are bringing chatbots into their lesson plans. Will it help kids learn or is it just another doomed ed-tech fad?",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
+    },
+    {
+      "id": "df89d079c695",
+      "title": "Is Vertiv Holdings Stock (VRT) a Buy? Here’s What AI Analyst Says",
+      "summary": "The ongoing artificial intelligence (AI) wave has bolstered the prospects of data center infrastructure companies, such as Vertiv Holdings (VRT)...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/is-vertiv-holdings-stock-vrt-a-buy-here-s-what-ai-analyst-says-1035104329",
+      "publishedAt": "2025-09-01T20:31:13Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-90.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "Is Vertiv Holdings Stock (VRT) a Buy? Here’s What AI Analyst Says",
+      "translated_summary": "The ongoing artificial intelligence (AI) wave has bolstered the prospects of data center infrastructure companies, such as Vertiv Holdings (VRT)...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "6小时前"
     },
     {
       "id": "cc975ee1b6c1",
@@ -42,7 +56,7 @@
       "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "10小时前"
     },
     {
       "id": "c32e21b9ce2f",
@@ -56,7 +70,7 @@
       "translated_summary": "A British woman suffering from motor neurone disease who lost her ability to speak is once again talking in her own voice, thanks to artificial intelligence and a barely audible eight-second clip from an old home video.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "11小时前"
+      "time": "12小时前"
     },
     {
       "id": "f4eee56a6ed9",
@@ -70,7 +84,7 @@
       "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "b56a34d72e42",
@@ -84,7 +98,7 @@
       "translated_summary": "Set in a retro-futuristic Africa, the film utilizes AI to craft a clever, bittersweet meta-fiction about art, memory and artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "c42bd2df46b0",
@@ -98,7 +112,7 @@
       "translated_summary": "US stocks can rise another 20% by the end of 2026, driven by the excitement around artificial intelligence, according to strategists at Evercore ISI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "14小时前"
+      "time": "15小时前"
     },
     {
       "id": "6f53ddce0209",
@@ -112,7 +126,7 @@
       "translated_summary": "WIRED talks to the director of the Chilean National Center for Artificial Intelligence about Latam-GPT, the large-language model that aims to address the region’s specific needs and change the current technological dynamic.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "14小时前"
+      "time": "16小时前"
     },
     {
       "id": "b67eaff49832",
@@ -126,21 +140,7 @@
       "translated_summary": "As artificial intelligence replaces entry-level jobs, California’s universities and community colleges are offering a glimmer of hope for students: free AI training that will help them master the new technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "15小时前"
-    },
-    {
-      "id": "38e1e494ec37",
-      "title": "OpenAI Plans India Data Center in Major Stargate Expansion",
-      "summary": "OpenAI is seeking to build a massive new data center in India that could mark a major step forward in Asia for its Stargate-branded artificial intelligence infrastructure push.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-01/openai-plans-india-data-center-in-major-stargate-expansion",
-      "publishedAt": "2025-09-01T05:15:05Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVdDJwGLKoD0/v0/1200x800.jpg",
-      "translated_title": "OpenAI Plans India Data Center in Major Stargate Expansion",
-      "translated_summary": "OpenAI is seeking to build a massive new data center in India that could mark a major step forward in Asia for its Stargate-branded artificial intelligence infrastructure push.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "20小时前"
+      "time": "17小时前"
     }
   ]
 }
