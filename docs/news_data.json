@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-09-02T15:25:11.506737",
+  "last_updated": "2025-09-02T16:28:38.129622",
   "total_count": 10,
   "articles": [
+    {
+      "id": "3c48fdaf8daf",
+      "title": "Salesforce investors hope for faster growth, AI progress in earnings",
+      "summary": "Investors want to see Salesforce's Agentforce artificial intelligence tool for customer service pick up traction.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/09/02/salesforce-investors-hope-for-faster-growth-ai-progress-in-earnings-.html",
+      "publishedAt": "2025-09-02T16:19:03Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108192700-17565162372020-01-21t173447z_517616248_rc2hke9pxxe2_rtrmadp_0_davos-meeting.jpeg?v=1756516312&w=1920&h=1080",
+      "translated_title": "Salesforce investors hope for faster growth, AI progress in earnings",
+      "translated_summary": "Investors want to see Salesforce's Agentforce artificial intelligence tool for customer service pick up traction.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "9分钟前"
+    },
+    {
+      "id": "158a7e7b8bd2",
+      "title": "Anthropic Completes New Funding Round at $183 Billion Valuation",
+      "summary": "Anthropic has closed a deal to raise $13 billion from investors in a new funding round that nearly triples its valuation to $183 billion, including dollars raised — a larger-than-expected haul that makes the artificial intelligence company one of the most valuable startups in the world.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-02/anthropic-completes-new-funding-round-at-183-billion-valuation",
+      "publishedAt": "2025-09-02T16:00:00Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iihJ28Wfd96Q/v1/1200x800.jpg",
+      "translated_title": "Anthropic Completes New Funding Round at $183 Billion Valuation",
+      "translated_summary": "Anthropic has closed a deal to raise $13 billion from investors in a new funding round that nearly triples its valuation to $183 billion, including dollars raised — a larger-than-expected haul that makes the artificial intelligence company one of the most valuable startups in the world.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "28分钟前"
+    },
+    {
+      "id": "c0e8ec177e2a",
+      "title": "OpenAI and Meta Say They're Fixing AI Chatbots to Better Respond to Teens in Distress",
+      "summary": "SAN FRANCISCO (AP) — Artificial intelligence chatbot makers OpenAI and Meta say they are adjusting how their chatbots respond to teenagers and other users asking questions about suicide or showing signs of mental and emotional distress.",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/business/articles/2025-09-02/openai-and-meta-say-theyre-fixing-ai-chatbots-to-better-respond-to-teens-in-distress",
+      "publishedAt": "2025-09-02T15:18:00Z",
+      "image": "https://www.usnews.com/dims4/USNEWS/13e0ff0/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fef%2F9dbacc1bf212e692b74ea54e815629%2Faf7c1d69e0ef4e23a78b215517c85effChatGPT_Vulnerable_Teens_41949.jpg",
+      "translated_title": "OpenAI and Meta Say They're Fixing AI Chatbots to Better Respond to Teens in Distress",
+      "translated_summary": "SAN FRANCISCO (AP) — Artificial intelligence chatbot makers OpenAI and Meta say they are adjusting how their chatbots respond to teenagers and other users asking questions about suicide or showing signs of mental and emotional distress.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "dbf1e9a778d1",
       "title": "US manufacturing mired in weakness; AI spending boom helps some factories",
@@ -14,7 +56,7 @@
       "translated_summary": "U.S. manufacturing contracted for a sixth straight month in August as factories continued to grapple with the impact of import tariffs, but an artificial intelligence spending boom is lending support to some segments of the industry.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e9ca0fffe278",
@@ -28,7 +70,7 @@
       "translated_summary": "Improved artificial intelligence and security is just a matter of taking advantage of chips already built into defense systems.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "9fe4622a8229",
@@ -42,7 +84,7 @@
       "translated_summary": "Investors are plowing record sums of money into artificial intelligence start-ups. Even as sales grow swiftly, losses are piling up for AI firms.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "7368f4e0030e",
@@ -56,7 +98,7 @@
       "translated_summary": "Mergers and acquisitions are likely to pick up toward the end of the year and the artificial intelligence boom will drive significant infrastructure financing, according to Goldman Sachs’s global head of credit finance.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "30179f4d24a3",
@@ -70,7 +112,7 @@
       "translated_summary": "The upcoming budget bill could put grants that fund life-saving drugs like GLP-1 and innovations such as artificial intelligence in jeopardy.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "f9fd30591b0f",
@@ -84,7 +126,7 @@
       "translated_summary": "Let's let teachers lead the way. Let's build systems where technology serves learning, not the other way around. And let's remember that in an age of artificial intelligence, our greatest strength",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "19e61fce226e",
@@ -98,49 +140,7 @@
       "translated_summary": "Social Security, under the leadership of a tech enthusiast, rolled out an artificial intelligence-powered chatbot to answer calls. But as beneficiaries complain about glitches, lawmakers and former officials ask whether it’s a preview of a less human agency at which rushed-out AI takes the place of pushed-out government workers.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
-    },
-    {
-      "id": "119a9922a9ed",
-      "title": "Artificial Intelligence Stocks To Follow Now - August 30th",
-      "summary": "Read Artificial Intelligence Stocks To Follow Now – August 30th at ETF Daily News",
-      "source": "ETF Daily News",
-      "url": "https://www.etfdailynews.com/2025/09/02/artificial-intelligence-stocks-to-follow-now-august-30th/",
-      "publishedAt": "2025-09-02T04:04:57Z",
-      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/snowflake-inc-logo-1200x675.png?v=20200921121226&w=240&h=240&zc=2",
-      "translated_title": "Artificial Intelligence Stocks To Follow Now - August 30th",
-      "translated_summary": "Read Artificial Intelligence Stocks To Follow Now – August 30th at ETF Daily News",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "11小时前"
-    },
-    {
-      "id": "eff81c7e5f85",
-      "title": "AI Race: U.S. Bets Billions on AGI While China Pushes Practical Gains",
-      "summary": "Elon Musk recently said that Grok 5, the next version of his chatbot, will be the closest thing yet to artificial general intelligence (AGI). Hi...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/ai-race-u-s-bets-billions-on-agi-while-china-pushes-practical-gains-1035104135",
-      "publishedAt": "2025-09-02T00:45:00Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-59.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "AI Race: U.S. Bets Billions on AGI While China Pushes Practical Gains",
-      "translated_summary": "Elon Musk recently said that Grok 5, the next version of his chatbot, will be the closest thing yet to artificial general intelligence (AGI). Hi...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "14小时前"
-    },
-    {
-      "id": "1d742b92088d",
-      "title": "Big Data and Artificial Intelligence Market Report 2025:",
-      "summary": "The big data and artificial intelligence market is projected to grow from $385.89 billion in 2024 to $884.42 billion in 2029, driven by increased data...",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2025/09/02/3142415/28124/en/Big-Data-and-Artificial-Intelligence-Market-Report-2025-Edge-Computing-Fraud-Detection-and-Predictive-Analytics-Trends.html",
-      "publishedAt": "2025-09-02T00:00:00Z",
-      "image": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "translated_title": "Big Data and Artificial Intelligence Market Report 2025:",
-      "translated_summary": "The big data and artificial intelligence market is projected to grow from $385.89 billion in 2024 to $884.42 billion in 2029, driven by increased data...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "15小时前"
+      "time": "7小时前"
     }
   ]
 }
