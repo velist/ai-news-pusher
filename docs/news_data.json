@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-02T13:32:47.384870",
+  "last_updated": "2025-09-02T14:23:10.985625",
   "total_count": 10,
   "articles": [
+    {
+      "id": "dbf1e9a778d1",
+      "title": "US manufacturing mired in weakness; AI spending boom helps some factories",
+      "summary": "U.S. manufacturing contracted for a sixth straight month in August as factories continued to grapple with the impact of import tariffs, but an artificial intelligence spending boom is lending support to some segments of the industry.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-manufacturing-mired-weakness-ai-spending-boom-helps-some-factories-2025-09-02/",
+      "publishedAt": "2025-09-02T14:06:12Z",
+      "image": "https://www.reuters.com/resizer/v2/YGLLFQHNAJOAHIKURMPRPWQYII.jpg?auth=04ffa1a3d24e4311d78f2db1c5dc1396ae9365e8de931f6317f3ecbd03abcc35&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "US manufacturing mired in weakness; AI spending boom helps some factories",
+      "translated_summary": "U.S. manufacturing contracted for a sixth straight month in August as factories continued to grapple with the impact of import tariffs, but an artificial intelligence spending boom is lending support to some segments of the industry.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "16分钟前"
+    },
     {
       "id": "e9ca0fffe278",
       "title": "To scale AI and bring Zero Trust security, look to the chips",
@@ -14,7 +28,7 @@
       "translated_summary": "Improved artificial intelligence and security is just a matter of taking advantage of chips already built into defense systems.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "58分钟前"
+      "time": "1小时前"
     },
     {
       "id": "9fe4622a8229",
@@ -28,7 +42,7 @@
       "translated_summary": "Investors are plowing record sums of money into artificial intelligence start-ups. Even as sales grow swiftly, losses are piling up for AI firms.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "7368f4e0030e",
@@ -56,7 +70,7 @@
       "translated_summary": "The upcoming budget bill could put grants that fund life-saving drugs like GLP-1 and innovations such as artificial intelligence in jeopardy.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "f9fd30591b0f",
@@ -70,7 +84,7 @@
       "translated_summary": "Let's let teachers lead the way. Let's build systems where technology serves learning, not the other way around. And let's remember that in an age of artificial intelligence, our greatest strength",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "19e61fce226e",
@@ -84,7 +98,7 @@
       "translated_summary": "Social Security, under the leadership of a tech enthusiast, rolled out an artificial intelligence-powered chatbot to answer calls. But as beneficiaries complain about glitches, lawmakers and former officials ask whether it’s a preview of a less human agency at which rushed-out AI takes the place of pushed-out government workers.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "119a9922a9ed",
@@ -98,7 +112,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Follow Now – August 30th at ETF Daily News",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "eff81c7e5f85",
@@ -110,20 +124,6 @@
       "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-59.png?utm_source=markets.businessinsider.com&utm_medium=referral",
       "translated_title": "AI Race: U.S. Bets Billions on AGI While China Pushes Practical Gains",
       "translated_summary": "Elon Musk recently said that Grok 5, the next version of his chatbot, will be the closest thing yet to artificial general intelligence (AGI). Hi...",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "12小时前"
-    },
-    {
-      "id": "60d609fd0a3f",
-      "title": "Big Data and Artificial Intelligence Market Report 2025:",
-      "summary": "The big data and artificial intelligence market is projected to grow from $385.89 billion in 2024 to $884.42 billion in 2029, driven by increased data...",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2025/09/02/3142415/0/en/Big-Data-and-Artificial-Intelligence-Market-Report-2025-Edge-Computing-Fraud-Detection-and-Predictive-Analytics-Trends.html",
-      "publishedAt": "2025-09-02T00:00:00Z",
-      "image": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "translated_title": "Big Data and Artificial Intelligence Market Report 2025:",
-      "translated_summary": "The big data and artificial intelligence market is projected to grow from $385.89 billion in 2024 to $884.42 billion in 2029, driven by increased data...",
       "category": "热门",
       "category_icon": "🔥",
       "time": "13小时前"
@@ -140,7 +140,7 @@
       "translated_summary": "The big data and artificial intelligence market is projected to grow from $385.89 billion in 2024 to $884.42 billion in 2029, driven by increased data...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     }
   ]
 }
