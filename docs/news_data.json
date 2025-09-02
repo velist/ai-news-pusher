@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-09-02T17:19:06.333546",
+  "last_updated": "2025-09-02T18:30:29.451148",
   "total_count": 10,
   "articles": [
+    {
+      "id": "de3649b31903",
+      "title": "How AI Firms Like OpenAI and Meta Are Stealing Music: Investigation",
+      "summary": "How AI firms like OpenAI and Meta steal music by scraping copyrighted works to train generative artificial intelligence systems, according to ICMP.",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/pro/ai-firms-steal-music-scrape-copyright-icmp-investigation/",
+      "publishedAt": "2025-09-02T18:01:39Z",
+      "image": "https://www.billboard.com/wp-content/uploads/2025/08/glennharvey_2025_08_28_billboard_f1-1800.jpg?w=1024",
+      "translated_title": "How AI Firms Like OpenAI and Meta Are Stealing Music: Investigation",
+      "translated_summary": "How AI firms like OpenAI and Meta steal music by scraping copyrighted works to train generative artificial intelligence systems, according to ICMP.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "28分钟前"
+    },
+    {
+      "id": "aa8764942b9d",
+      "title": "Anthropic Raises Its Valuation to $183 Billion in New Funding",
+      "summary": "The artificial intelligence start-up garnered another $13 billion as its valuation rose by nearly three times, from $61.5 billion earlier this year, amid a frenzy over the technology.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2025/09/02/technology/anthropic-funding-ai.html",
+      "publishedAt": "2025-09-02T17:52:28Z",
+      "image": "https://static01.nyt.com/images/2025/09/02/multimedia/02anthropic=1-mgqz/02anthropic=1-mgqz-facebookJumbo.jpg",
+      "translated_title": "Anthropic Raises Its Valuation to $183 Billion in New Funding",
+      "translated_summary": "The artificial intelligence start-up garnered another $13 billion as its valuation rose by nearly three times, from $61.5 billion earlier this year, amid a frenzy over the technology.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "38分钟前"
+    },
     {
       "id": "3c48fdaf8daf",
       "title": "Salesforce investors hope for faster growth, AI progress in earnings",
@@ -14,7 +42,7 @@
       "translated_summary": "Investors want to see Salesforce's Agentforce artificial intelligence tool for customer service pick up traction.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "1df0b4106dc4",
@@ -28,7 +56,21 @@
       "translated_summary": "Artificial-intelligence company Anthropic said on Tuesday it had raised $13 billion at a $183 billion post-money valuation led by investment firm ICONIQ.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
+    },
+    {
+      "id": "ebe0e00d1752",
+      "title": "Anthropic's valuation more than doubles to $183 billion after $13 billion fundraise",
+      "summary": "Artificial-intelligence company Anthropic said on Tuesday it is now valued at $183 billion post-money, over twice as much as its earlier valuation, as investor enthusiasm towards AI startups stays strong despite some doubts over tech industry spending.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/anthropics-valuation-more-than-doubles-183-billion-after-13-billion-fundraise-2025-09-02/",
+      "publishedAt": "2025-09-02T16:18:01Z",
+      "image": "https://www.reuters.com/resizer/v2/G7IUYWWX75PXTJCVXMKMECAIQ4.jpg?auth=b3acbcf92f3b3c380402989132207d776d39cab0d1873fb414c0e53dd9b702e1&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Anthropic's valuation more than doubles to $183 billion after $13 billion fundraise",
+      "translated_summary": "Artificial-intelligence company Anthropic said on Tuesday it is now valued at $183 billion post-money, over twice as much as its earlier valuation, as investor enthusiasm towards AI startups stays strong despite some doubts over tech industry spending.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "2小时前"
     },
     {
       "id": "158a7e7b8bd2",
@@ -42,7 +84,7 @@
       "translated_summary": "Anthropic has closed a deal to raise $13 billion from investors in a new funding round that nearly triples its valuation to $183 billion, including dollars raised — a larger-than-expected haul that makes the artificial intelligence company one of the most valuable startups in the world.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "60005d8f9272",
@@ -56,7 +98,7 @@
       "translated_summary": "SAN FRANCISCO (AP) — Artificial intelligence chatbot makers OpenAI and Meta say they are adjusting how their chatbots respond to teenagers and other users…",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "c0e8ec177e2a",
@@ -70,7 +112,7 @@
       "translated_summary": "SAN FRANCISCO (AP) — Artificial intelligence chatbot makers OpenAI and Meta say they are adjusting how their chatbots respond to teenagers and other users asking questions about suicide or showing signs of mental and emotional distress.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "dbf1e9a778d1",
@@ -84,7 +126,7 @@
       "translated_summary": "U.S. manufacturing contracted for a sixth straight month in August as factories continued to grapple with the impact of import tariffs, but an artificial intelligence spending boom is lending support to some segments of the industry.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "e9ca0fffe278",
@@ -98,49 +140,7 @@
       "translated_summary": "Improved artificial intelligence and security is just a matter of taking advantage of chips already built into defense systems.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "9fe4622a8229",
-      "title": "AI Start-ups Are Rolling in Cash",
-      "summary": "Investors are plowing record sums of money into artificial intelligence start-ups. Even as sales grow swiftly, losses are piling up for AI firms.",
-      "source": "Kiplinger",
-      "url": "https://www.kiplinger.com/business/ai-start-ups-are-rolling-in-cash",
-      "publishedAt": "2025-09-02T12:10:00Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uHECYRNsoMqLWXwf38r4se.jpg",
-      "translated_title": "AI Start-ups Are Rolling in Cash",
-      "translated_summary": "Investors are plowing record sums of money into artificial intelligence start-ups. Even as sales grow swiftly, losses are piling up for AI firms.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "5小时前"
-    },
-    {
-      "id": "7368f4e0030e",
-      "title": "Goldman Sachs’s Minnis Sees M&A Ramp-Up, AI Spending Boom",
-      "summary": "Mergers and acquisitions are likely to pick up toward the end of the year and the artificial intelligence boom will drive significant infrastructure financing, according to Goldman Sachs’s global head of credit finance.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-02/goldman-sachs-s-minnis-sees-m-a-ramp-up-ai-spending-boom",
-      "publishedAt": "2025-09-02T10:27:24Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE65CvTn0W4A/v1/1200x800.jpg",
-      "translated_title": "Goldman Sachs’s Minnis Sees M&A Ramp-Up, AI Spending Boom",
-      "translated_summary": "Mergers and acquisitions are likely to pick up toward the end of the year and the artificial intelligence boom will drive significant infrastructure financing, according to Goldman Sachs’s global head of credit finance.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "30179f4d24a3",
-      "title": "Donald Trump Wants to Cut Government Research Grants",
-      "summary": "The upcoming budget bill could put grants that fund life-saving drugs like GLP-1 and innovations such as artificial intelligence in jeopardy.",
-      "source": "Inc. Magazine",
-      "url": "https://www.inc.com/adam-rogers/trump-cuts-to-research-grants-threaten-innovation/91228216",
-      "publishedAt": "2025-09-02T10:00:00Z",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/08/deep-tech-vcs-inc-4.jpg",
-      "translated_title": "Donald Trump Wants to Cut Government Research Grants",
-      "translated_summary": "The upcoming budget bill could put grants that fund life-saving drugs like GLP-1 and innovations such as artificial intelligence in jeopardy.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "7小时前"
     }
   ]
 }
