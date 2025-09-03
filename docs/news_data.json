@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-09-03T11:18:06.892121",
+  "last_updated": "2025-09-03T12:46:11.041260",
   "total_count": 10,
   "articles": [
+    {
+      "id": "35940b2c407f",
+      "title": "Centralized Compute Will Not Scale: The Case for Citizen-Owned Infrastructure",
+      "summary": "For all the fervor and hype surrounding artificial intelligence (AI), a problem constantly lurking in the shadows that rarely makes it into keynote speeches or glossy pitch decks—we're running out of",
+      "source": "International Business Times",
+      "url": "https://www.ibtimes.com/centralized-compute-will-not-scale-case-citizen-owned-infrastructure-3782291",
+      "publishedAt": "2025-09-03T12:00:05Z",
+      "image": "https://d.ibtimes.com/en/full/4619293/centralized-compute-will-not-scale-case-citizen-owned-infrastructure.png",
+      "translated_title": "Centralized Compute Will Not Scale: The Case for Citizen-Owned Infrastructure",
+      "translated_summary": "For all the fervor and hype surrounding artificial intelligence (AI), a problem constantly lurking in the shadows that rarely makes it into keynote speeches or glossy pitch decks—we're running out of",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "46分钟前"
+    },
+    {
+      "id": "201553ad0344",
+      "title": "HappyRobot raises $44 million to expand AI agents for freight operators",
+      "summary": "HappyRobot, an artificial intelligence startup that automates communications including rate negotiation and appointment booking for freight operators, has raised $44 million in a funding round led by Base10 Partners.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/happyrobot-raises-44-million-expand-ai-agents-freight-operators-2025-09-03/",
+      "publishedAt": "2025-09-03T11:35:43Z",
+      "image": "https://www.reuters.com/resizer/v2/SQUZXZF6CZMMTPIENRGTEBHGXM.jpg?auth=f4fdf86b19ee647ec415d1fa3c35b82eaf6f4422da7d57d8933252a7668d5619&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "HappyRobot raises $44 million to expand AI agents for freight operators",
+      "translated_summary": "HappyRobot, an artificial intelligence startup that automates communications including rate negotiation and appointment booking for freight operators, has raised $44 million in a funding round led by Base10 Partners.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "ba0fd1fbc9ef",
       "title": "Benchmark’s Peter Fenton Isn’t Ready to Call This an AI Bubble",
@@ -14,7 +42,7 @@
       "translated_summary": "Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Kate Clark sits down with Benchmark partner Peter Fenton to talk about the firm’s investment strategy in an era dominated by artificial intelligence startups.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "15分钟前"
+      "time": "1小时前"
     },
     {
       "id": "98b776e933f7",
@@ -28,7 +56,7 @@
       "translated_summary": "After months of pain, Salesforce Inc. investors will be scrutinizing the software maker’s upcoming earnings for signs it will be a winner in the artificial intelligence boom — or one of its most high-profile victims.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "55分钟前"
+      "time": "2小时前"
     },
     {
       "id": "7caeb4c911ff",
@@ -42,7 +70,7 @@
       "translated_summary": "When Anthropic went looking for more money to support its pursuit of building artificial intelligence models, the startup turned to a familiar network of venture capitalists. It also opened the door to a source of capital it had previously ignored: Middle Eastern sovereign wealth.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "3b5ee874425c",
@@ -56,7 +84,7 @@
       "translated_summary": "A rising group of artificial intelligence companies stand to gain from an antitrust ruling on Tuesday that ordered Alphabet's Google to share its invaluable search data with competitors.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "83d56fff0b9a",
@@ -70,7 +98,7 @@
       "translated_summary": "Ashish Vaswani helped usher in modern AI. Now he’s wondering if we’re doing it all wrong.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "62f58f751951",
@@ -84,7 +112,7 @@
       "translated_summary": "TXSE Group, the parent company of the up-and-coming Texas Stock Exchange, announced Wednesday the launch of Oculon Intelligence, an artificial intelligence-powe...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "d0f7af38123d",
@@ -98,7 +126,7 @@
       "translated_summary": "As brands compete for increasingly price conscious consumers, customer experience (CX) has become a decisive differentiator. Yet many struggle to deliver, constrained by outdated systems, fragmented data, and organizational silos that limit both agility and consistency. The current wave of artificial intelligence, particularly agentic AI that can reason and act across workflows, offers a powerful…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "d64414bb38a8",
@@ -112,35 +140,7 @@
       "translated_summary": "Australia's central bank is exploring how emerging technologies like artificial intelligence could influence the economy, with possible implications for inflation and the labour market, its governor said on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "e37941f05f51",
-      "title": "RBA Staff ‘Feeling the Weight’ of AI, Tech Shift, Governor Says",
-      "summary": "Reserve Bank of Australia staff are “feeling the weight” of its technological transformation agenda, Governor Michele Bullock said, adding that the use of big data and artificial intelligence has the potential to transform policy making.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-03/rba-staff-feeling-the-weight-of-ai-tech-shift-governor-says",
-      "publishedAt": "2025-09-03T08:10:00Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i21VBQyDSj7w/v1/1200x800.jpg",
-      "translated_title": "RBA Staff ‘Feeling the Weight’ of AI, Tech Shift, Governor Says",
-      "translated_summary": "Reserve Bank of Australia staff are “feeling the weight” of its technological transformation agenda, Governor Michele Bullock said, adding that the use of big data and artificial intelligence has the potential to transform policy making.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "ae203b1ecb46",
-      "title": "Marc Benioff Isn't Sold On AGI Hype, Says He's 'Extremely Suspect' Despite AI Shaping Salesforce Ahead Of Q2 Earnings",
-      "summary": "Salesforce CEO Marc Benioff dismissed hype around artificial general intelligence as \"hypnosis,\" saying today's AI is powerful but not conscious, even as the company cuts jobs, boosts productivity with AI agents, and prepares to report second-quarter earnings.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/25/09/47465362/marc-benioff-isnt-sold-on-agi-hype-says-hes-extremely-suspect-despite-ai-shaping-salesforce-ahead-of-q2-earnings",
-      "publishedAt": "2025-09-03T05:28:01Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/09/03/Marc-Benioff-Attends-2023-Time100-Gala-A.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "Marc Benioff Isn't Sold On AGI Hype, Says He's 'Extremely Suspect' Despite AI Shaping Salesforce Ahead Of Q2 Earnings",
-      "translated_summary": "Salesforce CEO Marc Benioff dismissed hype around artificial general intelligence as \"hypnosis,\" saying today's AI is powerful but not conscious, even as the company cuts jobs, boosts productivity with AI agents, and prepares to report second-quarter earnings.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "4小时前"
     }
   ]
 }
