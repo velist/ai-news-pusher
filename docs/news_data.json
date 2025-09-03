@@ -1,7 +1,63 @@
 {
-  "last_updated": "2025-09-03T08:29:11.877487",
+  "last_updated": "2025-09-03T09:22:56.710303",
   "total_count": 10,
   "articles": [
+    {
+      "id": "83d56fff0b9a",
+      "title": "The AI Pioneer Trying to Save Artificial Intelligence From Big Tech",
+      "summary": "Ashish Vaswani helped usher in modern AI. Now he’s wondering if we’re doing it all wrong.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2025-09-03/the-ai-pioneer-trying-to-save-artificial-intelligence-from-big-tech",
+      "publishedAt": "2025-09-03T09:00:21Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4UnBFEglkQY/v0/1200x649.jpg",
+      "translated_title": "The AI Pioneer Trying to Save Artificial Intelligence From Big Tech",
+      "translated_summary": "Ashish Vaswani helped usher in modern AI. Now he’s wondering if we’re doing it all wrong.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "22分钟前"
+    },
+    {
+      "id": "62f58f751951",
+      "title": "Texas Stock Exchange parent company launches AI market intelligence platform",
+      "summary": "TXSE Group, the parent company of the up-and-coming Texas Stock Exchange, announced Wednesday the launch of Oculon Intelligence, an artificial intelligence-powe...",
+      "source": "The Dallas Morning News",
+      "url": "https://www.dallasnews.com/business/banking/2025/09/03/texas-stock-exchange-parent-company-launching-ai-market-intelligence-platform/",
+      "publishedAt": "2025-09-03T09:00:00Z",
+      "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/DMYVVAMKDFBGFFAOAAP6CKEFN4.jpg?auth=7e6bf41dedaad8d3523f2015611d7a95e2a367dbd650ab89b9ebfef1250b17a3&quality=80&width=1200&height=630&smart=true",
+      "translated_title": "Texas Stock Exchange parent company launches AI market intelligence platform",
+      "translated_summary": "TXSE Group, the parent company of the up-and-coming Texas Stock Exchange, announced Wednesday the launch of Oculon Intelligence, an artificial intelligence-powe...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "22分钟前"
+    },
+    {
+      "id": "d0f7af38123d",
+      "title": "The connected customer",
+      "summary": "As brands compete for increasingly price conscious consumers, customer experience (CX) has become a decisive differentiator. Yet many struggle to deliver, constrained by outdated systems, fragmented data, and organizational silos that limit both agility and consistency. The current wave of artificial intelligence, particularly agentic AI that can reason and act across workflows, offers a powerful…",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2025/09/03/1121441/the-connected-customer/",
+      "publishedAt": "2025-09-03T08:46:54Z",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/NiCE-Landing-page-7200x4050-2.png?resize=1200,600",
+      "translated_title": "The connected customer",
+      "translated_summary": "As brands compete for increasingly price conscious consumers, customer experience (CX) has become a decisive differentiator. Yet many struggle to deliver, constrained by outdated systems, fragmented data, and organizational silos that limit both agility and consistency. The current wave of artificial intelligence, particularly agentic AI that can reason and act across workflows, offers a powerful…",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "36分钟前"
+    },
+    {
+      "id": "d64414bb38a8",
+      "title": "Australia's central bank exploring how AI can affect economy, governor says",
+      "summary": "Australia's central bank is exploring how emerging technologies like artificial intelligence could influence the economy, with possible implications for inflation and the labour market, its governor said on Wednesday.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/australias-central-bank-exploring-how-ai-can-affect-economy-governor-says-2025-09-03/",
+      "publishedAt": "2025-09-03T08:17:50Z",
+      "image": "https://www.reuters.com/resizer/v2/ENNF7X77ZVPVFG7D4CFDTMWVGY.jpg?auth=3f2a032ab11c89d8038971cf6e4d0ac7c6003623425e96143e90b159b6bdda88&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Australia's central bank exploring how AI can affect economy, governor says",
+      "translated_summary": "Australia's central bank is exploring how emerging technologies like artificial intelligence could influence the economy, with possible implications for inflation and the labour market, its governor said on Wednesday.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "e37941f05f51",
       "title": "RBA Staff ‘Feeling the Weight’ of AI, Tech Shift, Governor Says",
@@ -14,7 +70,7 @@
       "translated_summary": "Reserve Bank of Australia staff are “feeling the weight” of its technological transformation agenda, Governor Michele Bullock said, adding that the use of big data and artificial intelligence has the potential to transform policy making.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "19分钟前"
+      "time": "1小时前"
     },
     {
       "id": "ae203b1ecb46",
@@ -42,7 +98,7 @@
       "translated_summary": "OpenAI announced on Tuesday that it acquired Statsig, a product experimentation platform, as the artificial intelligence company continues its aggressive acquisition strategy. Statsig CEO Vijaye Raji will join OpenAI as Chief Technology Officer of Applications, reporting to former Instacart CEO Fidji Simo.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "427bab28ef2c",
@@ -56,7 +112,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Research – August 31st at ETF Daily News",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "f788a6a394df",
@@ -70,7 +126,7 @@
       "translated_summary": "Salesforce has cut 4,000 of its customer support roles, CEO Marc Benioff recently said while discussing how artificial intelligence has helped reduce the company headcount",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "f11fb4edf3d1",
@@ -84,63 +140,7 @@
       "translated_summary": "Artificial intelligence already is replacing certain jobs at technology companies.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
-    },
-    {
-      "id": "c52925836614",
-      "title": "Trump says White House window video is AI. His team indicated it's real",
-      "summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
-      "source": "The Boston Herald",
-      "url": "https://www.bostonherald.com/2025/09/02/trump-white-house-window/",
-      "publishedAt": "2025-09-02T22:46:19Z",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2025/09/Trump_88859-1.jpg?w=1024&h=682",
-      "translated_title": "Trump says White House window video is AI. His team indicated it's real",
-      "translated_summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "f5fef5ad285e",
-      "title": "Trump says White House window video is AI. His team indicated it's real",
-      "summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
-      "source": "Baltimore Sun",
-      "url": "https://www.baltimoresun.com/2025/09/02/trump-white-house-window/",
-      "publishedAt": "2025-09-02T22:46:19Z",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2025/09/Trump_88859-1.jpg?w=1024&h=682",
-      "translated_title": "Trump says White House window video is AI. His team indicated it's real",
-      "translated_summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "c7108a4647d5",
-      "title": "Trump Says Video Showing Items Thrown From White House Is AI After His Team Indicates It's Real",
-      "summary": "WASHINGTON (AP) — President Donald Trump said Tuesday that a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/politics/articles/2025-09-02/trump-says-video-showing-items-thrown-from-white-house-is-ai-after-his-team-indicates-its-real",
-      "publishedAt": "2025-09-02T22:03:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/47129e3/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fbd%2F5f862ded9173c975c99e52460fba75%2Ff0537dfc7a004b668d066a28efda629aTrump_88859.jpg",
-      "translated_title": "Trump Says Video Showing Items Thrown From White House Is AI After His Team Indicates It's Real",
-      "translated_summary": "WASHINGTON (AP) — President Donald Trump said Tuesday that a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "10小时前"
-    },
-    {
-      "id": "75ec05323c14",
-      "title": "Anthropic completes new funding round at $183 billion value",
-      "summary": "Anthropic has closed a deal to raise $13 billion from investors in a new funding round that nearly triples its valuation to $183 billion, including dollars raised a larger-than-expected haul that makes the artificial intelligence company one of the most valuable startups in the world.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/09/02/anthropic-completes-new-funding-round-at-183-billion-value/",
-      "publishedAt": "2025-09-02T21:30:15Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/Microsoft_OpenAI_and_Anthropic_are_investing_millions_to_train_teachers_how_to_use_AI1.jpg?w=1024&h=576",
-      "translated_title": "Anthropic completes new funding round at $183 billion value",
-      "translated_summary": "Anthropic has closed a deal to raise $13 billion from investors in a new funding round that nearly triples its valuation to $183 billion, including dollars raised a larger-than-expected haul that makes the artificial intelligence company one of the most valuable startups in the world.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "10小时前"
+      "time": "8小时前"
     }
   ]
 }
