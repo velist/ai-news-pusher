@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-09-03T10:22:38.302924",
+  "last_updated": "2025-09-03T11:18:06.892121",
   "total_count": 10,
   "articles": [
+    {
+      "id": "ba0fd1fbc9ef",
+      "title": "Benchmark’s Peter Fenton Isn’t Ready to Call This an AI Bubble",
+      "summary": "Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Kate Clark sits down with Benchmark partner Peter Fenton to talk about the firm’s investment strategy in an era dominated by artificial intelligence startups.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-09-03/benchmark-s-peter-fenton-isn-t-ready-to-call-this-an-ai-bubble",
+      "publishedAt": "2025-09-03T11:02:19Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA3CmMmJdAWc/v1/1200x800.jpg",
+      "translated_title": "Benchmark’s Peter Fenton Isn’t Ready to Call This an AI Bubble",
+      "translated_summary": "Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Kate Clark sits down with Benchmark partner Peter Fenton to talk about the firm’s investment strategy in an era dominated by artificial intelligence startups.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "15分钟前"
+    },
+    {
+      "id": "98b776e933f7",
+      "title": "Salesforce’s Struggling Stock Needs Earnings to Show AI Progress",
+      "summary": "After months of pain, Salesforce Inc. investors will be scrutinizing the software maker’s upcoming earnings for signs it will be a winner in the artificial intelligence boom — or one of its most high-profile victims.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-03/salesforce-s-struggling-stock-needs-earnings-to-show-ai-progress",
+      "publishedAt": "2025-09-03T10:23:06Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7SIrsaEtb9c/v1/1200x800.jpg",
+      "translated_title": "Salesforce’s Struggling Stock Needs Earnings to Show AI Progress",
+      "translated_summary": "After months of pain, Salesforce Inc. investors will be scrutinizing the software maker’s upcoming earnings for signs it will be a winner in the artificial intelligence boom — or one of its most high-profile victims.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "55分钟前"
+    },
     {
       "id": "7caeb4c911ff",
       "title": "Anthropic Stake Propels Qatar’s $524 Billion Wealth Fund Deeper Into AI",
@@ -14,7 +42,21 @@
       "translated_summary": "When Anthropic went looking for more money to support its pursuit of building artificial intelligence models, the startup turned to a familiar network of venture capitalists. It also opened the door to a source of capital it had previously ignored: Middle Eastern sovereign wealth.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "11分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "3b5ee874425c",
+      "title": "Google's AI rivals get a boost from data-sharing order, but tech giant far from routed",
+      "summary": "A rising group of artificial intelligence companies stand to gain from an antitrust ruling on Tuesday that ordered Alphabet's Google to share its invaluable search data with competitors.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/googles-ai-rivals-get-boost-data-sharing-order-tech-giant-far-routed-2025-09-03/",
+      "publishedAt": "2025-09-03T10:04:45Z",
+      "image": "https://www.reuters.com/resizer/v2/OFKLDTDPFJITXANCE2DQCASDWQ.jpg?auth=3edb3317e97a99dfc741f46bff952bcce2aa20ed3e6313ee8ab27acaf89dbe23&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Google's AI rivals get a boost from data-sharing order, but tech giant far from routed",
+      "translated_summary": "A rising group of artificial intelligence companies stand to gain from an antitrust ruling on Tuesday that ordered Alphabet's Google to share its invaluable search data with competitors.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
     },
     {
       "id": "83d56fff0b9a",
@@ -28,7 +70,7 @@
       "translated_summary": "Ashish Vaswani helped usher in modern AI. Now he’s wondering if we’re doing it all wrong.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "62f58f751951",
@@ -42,7 +84,7 @@
       "translated_summary": "TXSE Group, the parent company of the up-and-coming Texas Stock Exchange, announced Wednesday the launch of Oculon Intelligence, an artificial intelligence-powe...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d0f7af38123d",
@@ -56,7 +98,7 @@
       "translated_summary": "As brands compete for increasingly price conscious consumers, customer experience (CX) has become a decisive differentiator. Yet many struggle to deliver, constrained by outdated systems, fragmented data, and organizational silos that limit both agility and consistency. The current wave of artificial intelligence, particularly agentic AI that can reason and act across workflows, offers a powerful…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d64414bb38a8",
@@ -70,7 +112,7 @@
       "translated_summary": "Australia's central bank is exploring how emerging technologies like artificial intelligence could influence the economy, with possible implications for inflation and the labour market, its governor said on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "e37941f05f51",
@@ -84,7 +126,7 @@
       "translated_summary": "Reserve Bank of Australia staff are “feeling the weight” of its technological transformation agenda, Governor Michele Bullock said, adding that the use of big data and artificial intelligence has the potential to transform policy making.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "ae203b1ecb46",
@@ -98,49 +140,7 @@
       "translated_summary": "Salesforce CEO Marc Benioff dismissed hype around artificial general intelligence as \"hypnosis,\" saying today's AI is powerful but not conscious, even as the company cuts jobs, boosts productivity with AI agents, and prepares to report second-quarter earnings.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "10c580b47100",
-      "title": "OpenAI Scoops Up Statsig In $1.1 Billion Deal, CEO Vijaye Raji Joins Applications Unit",
-      "summary": "OpenAI announced on Tuesday that it acquired Statsig, a product experimentation platform, as the artificial intelligence company continues its aggressive acquisition strategy. Statsig CEO Vijaye Raji will join OpenAI as Chief Technology Officer of Applications, reporting to former Instacart CEO Fidji Simo.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/25/09/47465113/openai-scoops-up-statsig-in-1-1-billion-deal-ceo-vijaye-raji-joins-applications-unit",
-      "publishedAt": "2025-09-03T04:33:01Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/09/03/OpenAI.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "OpenAI Scoops Up Statsig In $1.1 Billion Deal, CEO Vijaye Raji Joins Applications Unit",
-      "translated_summary": "OpenAI announced on Tuesday that it acquired Statsig, a product experimentation platform, as the artificial intelligence company continues its aggressive acquisition strategy. Statsig CEO Vijaye Raji will join OpenAI as Chief Technology Officer of Applications, reporting to former Instacart CEO Fidji Simo.",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "5小时前"
-    },
-    {
-      "id": "427bab28ef2c",
-      "title": "Artificial Intelligence Stocks To Research - August 31st",
-      "summary": "Read Artificial Intelligence Stocks To Research – August 31st at ETF Daily News",
-      "source": "ETF Daily News",
-      "url": "https://www.etfdailynews.com/2025/09/03/artificial-intelligence-stocks-to-research-august-31st/",
-      "publishedAt": "2025-09-03T03:02:56Z",
-      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/snowflake-inc-logo-1200x675.png?v=20200921121226&w=240&h=240&zc=2",
-      "translated_title": "Artificial Intelligence Stocks To Research - August 31st",
-      "translated_summary": "Read Artificial Intelligence Stocks To Research – August 31st at ETF Daily News",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "7小时前"
-    },
-    {
-      "id": "f788a6a394df",
-      "title": "Salesforce CEO confirms 4,000 layoffs ‘because I need less heads’ with AI",
-      "summary": "Salesforce has cut 4,000 of its customer support roles, CEO Marc Benioff recently said while discussing how artificial intelligence has helped reduce the company headcount",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/business-news/salesforce-ceo-confirms-4000-layoffs-need-less-heads-ai-rcna228703",
-      "publishedAt": "2025-09-03T01:14:00Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250902-Marc-Benioff-ch-2108-db32c2.jpg",
-      "translated_title": "Salesforce CEO confirms 4,000 layoffs ‘because I need less heads’ with AI",
-      "translated_summary": "Salesforce has cut 4,000 of its customer support roles, CEO Marc Benioff recently said while discussing how artificial intelligence has helped reduce the company headcount",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
     }
   ]
 }
