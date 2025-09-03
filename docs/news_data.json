@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-09-02T23:18:53.707338",
+  "last_updated": "2025-09-03T01:43:00.867539",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f788a6a394df",
+      "title": "Salesforce CEO confirms 4,000 layoffs ‘because I need less heads’ with AI",
+      "summary": "Salesforce has cut 4,000 of its customer support roles, CEO Marc Benioff recently said while discussing how artificial intelligence has helped reduce the company headcount",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/business-news/salesforce-ceo-confirms-4000-layoffs-need-less-heads-ai-rcna228703",
+      "publishedAt": "2025-09-03T01:14:00Z",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250902-Marc-Benioff-ch-2108-db32c2.jpg",
+      "translated_title": "Salesforce CEO confirms 4,000 layoffs ‘because I need less heads’ with AI",
+      "translated_summary": "Salesforce has cut 4,000 of its customer support roles, CEO Marc Benioff recently said while discussing how artificial intelligence has helped reduce the company headcount",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "29分钟前"
+    },
+    {
+      "id": "f11fb4edf3d1",
+      "title": "Salesforce CEO Marc Benioff says tech giant cut 4,000 support roles because of AI",
+      "summary": "Artificial intelligence already is replacing certain jobs at technology companies.",
+      "source": "The Dallas Morning News",
+      "url": "https://www.dallasnews.com/business/technology/2025/09/02/salesforce-ceo-marc-benioff-says-tech-giant-cut-4000-support-roles-because-of-ai/",
+      "publishedAt": "2025-09-03T00:34:38Z",
+      "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/UQZIUOPDVIJ6OA5F4AOTX4DDDI.jpg?auth=9f20835f115418ac9f736fe873209c05d1825bf27875c0117d5b2d4b42c631f7&quality=80&width=1200&height=630&smart=true",
+      "translated_title": "Salesforce CEO Marc Benioff says tech giant cut 4,000 support roles because of AI",
+      "translated_summary": "Artificial intelligence already is replacing certain jobs at technology companies.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "1小时前"
+    },
     {
       "id": "c52925836614",
       "title": "Trump says White House window video is AI. His team indicated it's real",
@@ -14,7 +42,7 @@
       "translated_summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "32分钟前"
+      "time": "2小时前"
     },
     {
       "id": "f5fef5ad285e",
@@ -28,7 +56,7 @@
       "translated_summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "32分钟前"
+      "time": "2小时前"
     },
     {
       "id": "c7108a4647d5",
@@ -42,7 +70,7 @@
       "translated_summary": "WASHINGTON (AP) — President Donald Trump said Tuesday that a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "75ec05323c14",
@@ -56,7 +84,7 @@
       "translated_summary": "Anthropic has closed a deal to raise $13 billion from investors in a new funding round that nearly triples its valuation to $183 billion, including dollars raised a larger-than-expected haul that makes the artificial intelligence company one of the most valuable startups in the world.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "4小时前"
     },
     {
       "id": "047d9faf8895",
@@ -70,7 +98,7 @@
       "translated_summary": "Apple Inc.'s lead artificial intelligence researcher for robotics has departed the company to join Meta Platforms Inc.'s competing effort, part of an exodus of AI talent from the iPhone maker.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "4小时前"
     },
     {
       "id": "54f03e25916f",
@@ -84,7 +112,7 @@
       "translated_summary": "Nvidia Corp. closed below a key technical level for the first time since May as investors continue to rotate out of the leading maker of artificial intelligence chips.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "4小时前"
     },
     {
       "id": "7d63cdd05cb3",
@@ -98,7 +126,7 @@
       "translated_summary": "Fairfax County is testing the use of artificial intelligence to triage nonemergency 911 calls, with hopes of getting residents and visitors help faster.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "7746944f68a7",
@@ -112,35 +140,7 @@
       "translated_summary": "Apple's lead artificial intelligence researcher for robotics is leaving the company for Meta, reports Bloomberg. Jian Zhang joined the Meta...",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "3小时前"
-    },
-    {
-      "id": "909c7e7f0d6f",
-      "title": "How Generative Artificial Intelligence Is Shaking Up Enterprise Software",
-      "summary": "Since generative artificial intelligence arrived, a big debate on Wall Street has been its impact on enterprise software companies.",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/generative-artificial-intelligence-shaking-up-enterprise-software/",
-      "publishedAt": "2025-09-02T18:45:10Z",
-      "image": "https://www.investors.com/wp-content/uploads/2017/10/stock-servers-01-adobe.jpg",
-      "translated_title": "How Generative Artificial Intelligence Is Shaking Up Enterprise Software",
-      "translated_summary": "Since generative artificial intelligence arrived, a big debate on Wall Street has been its impact on enterprise software companies.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "de3649b31903",
-      "title": "How AI Firms Like OpenAI and Meta Are Stealing Music: Investigation",
-      "summary": "How AI firms like OpenAI and Meta steal music by scraping copyrighted works to train generative artificial intelligence systems, according to ICMP.",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/pro/ai-firms-steal-music-scrape-copyright-icmp-investigation/",
-      "publishedAt": "2025-09-02T18:01:39Z",
-      "image": "https://www.billboard.com/wp-content/uploads/2025/08/glennharvey_2025_08_28_billboard_f1-1800.jpg?w=1024",
-      "translated_title": "How AI Firms Like OpenAI and Meta Are Stealing Music: Investigation",
-      "translated_summary": "How AI firms like OpenAI and Meta steal music by scraping copyrighted works to train generative artificial intelligence systems, according to ICMP.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
