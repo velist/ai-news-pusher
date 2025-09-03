@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-03T09:22:56.710303",
+  "last_updated": "2025-09-03T10:22:38.302924",
   "total_count": 10,
   "articles": [
+    {
+      "id": "7caeb4c911ff",
+      "title": "Anthropic Stake Propels Qatar’s $524 Billion Wealth Fund Deeper Into AI",
+      "summary": "When Anthropic went looking for more money to support its pursuit of building artificial intelligence models, the startup turned to a familiar network of venture capitalists. It also opened the door to a source of capital it had previously ignored: Middle Eastern sovereign wealth.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-03/qatar-s-wealth-fund-qia-plans-to-back-more-ai-startups-after-anthropic-xai-bets",
+      "publishedAt": "2025-09-03T10:11:13Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP9f5L0HdOF8/v0/1200x800.jpg",
+      "translated_title": "Anthropic Stake Propels Qatar’s $524 Billion Wealth Fund Deeper Into AI",
+      "translated_summary": "When Anthropic went looking for more money to support its pursuit of building artificial intelligence models, the startup turned to a familiar network of venture capitalists. It also opened the door to a source of capital it had previously ignored: Middle Eastern sovereign wealth.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "11分钟前"
+    },
     {
       "id": "83d56fff0b9a",
       "title": "The AI Pioneer Trying to Save Artificial Intelligence From Big Tech",
@@ -14,7 +28,7 @@
       "translated_summary": "Ashish Vaswani helped usher in modern AI. Now he’s wondering if we’re doing it all wrong.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22分钟前"
+      "time": "1小时前"
     },
     {
       "id": "62f58f751951",
@@ -28,7 +42,7 @@
       "translated_summary": "TXSE Group, the parent company of the up-and-coming Texas Stock Exchange, announced Wednesday the launch of Oculon Intelligence, an artificial intelligence-powe...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "22分钟前"
+      "time": "1小时前"
     },
     {
       "id": "d0f7af38123d",
@@ -42,7 +56,7 @@
       "translated_summary": "As brands compete for increasingly price conscious consumers, customer experience (CX) has become a decisive differentiator. Yet many struggle to deliver, constrained by outdated systems, fragmented data, and organizational silos that limit both agility and consistency. The current wave of artificial intelligence, particularly agentic AI that can reason and act across workflows, offers a powerful…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "36分钟前"
+      "time": "1小时前"
     },
     {
       "id": "d64414bb38a8",
@@ -56,7 +70,7 @@
       "translated_summary": "Australia's central bank is exploring how emerging technologies like artificial intelligence could influence the economy, with possible implications for inflation and the labour market, its governor said on Wednesday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e37941f05f51",
@@ -70,7 +84,7 @@
       "translated_summary": "Reserve Bank of Australia staff are “feeling the weight” of its technological transformation agenda, Governor Michele Bullock said, adding that the use of big data and artificial intelligence has the potential to transform policy making.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "ae203b1ecb46",
@@ -84,7 +98,7 @@
       "translated_summary": "Salesforce CEO Marc Benioff dismissed hype around artificial general intelligence as \"hypnosis,\" saying today's AI is powerful but not conscious, even as the company cuts jobs, boosts productivity with AI agents, and prepares to report second-quarter earnings.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "10c580b47100",
@@ -98,7 +112,7 @@
       "translated_summary": "OpenAI announced on Tuesday that it acquired Statsig, a product experimentation platform, as the artificial intelligence company continues its aggressive acquisition strategy. Statsig CEO Vijaye Raji will join OpenAI as Chief Technology Officer of Applications, reporting to former Instacart CEO Fidji Simo.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "427bab28ef2c",
@@ -112,7 +126,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Research – August 31st at ETF Daily News",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "f788a6a394df",
@@ -126,21 +140,7 @@
       "translated_summary": "Salesforce has cut 4,000 of its customer support roles, CEO Marc Benioff recently said while discussing how artificial intelligence has helped reduce the company headcount",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
-    },
-    {
-      "id": "f11fb4edf3d1",
-      "title": "Salesforce CEO Marc Benioff says tech giant cut 4,000 support roles because of AI",
-      "summary": "Artificial intelligence already is replacing certain jobs at technology companies.",
-      "source": "The Dallas Morning News",
-      "url": "https://www.dallasnews.com/business/technology/2025/09/02/salesforce-ceo-marc-benioff-says-tech-giant-cut-4000-support-roles-because-of-ai/",
-      "publishedAt": "2025-09-03T00:34:38Z",
-      "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/UQZIUOPDVIJ6OA5F4AOTX4DDDI.jpg?auth=9f20835f115418ac9f736fe873209c05d1825bf27875c0117d5b2d4b42c631f7&quality=80&width=1200&height=630&smart=true",
-      "translated_title": "Salesforce CEO Marc Benioff says tech giant cut 4,000 support roles because of AI",
-      "translated_summary": "Artificial intelligence already is replacing certain jobs at technology companies.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "8小时前"
+      "time": "9小时前"
     }
   ]
 }
