@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-03T16:28:09.320221",
+  "last_updated": "2025-09-03T17:19:06.729098",
   "total_count": 10,
   "articles": [
+    {
+      "id": "88bd4204d8a9",
+      "title": "OpenAI CEO Sam Altman's Firing Retold as Hollywood Movie",
+      "summary": "The firing (and quick rehiring) of OpenAI CEO Sam Altman in late 2023 will be portrayed on the big screen in a new movie called \"Artificial.\" Read more about the film, here.",
+      "source": "Entrepreneur",
+      "url": "https://www.entrepreneur.com/business-news/openai-ceo-sam-altmans-firing-retold-as-hollywood-movie/496670",
+      "publishedAt": "2025-09-03T16:50:27Z",
+      "image": "https://assets.entrepreneur.com/content/3x2/2000/1756914149-Andrew-Garfield-Monica-Barbaro-2223816465.jpg?format=pjeg&auto=webp",
+      "translated_title": "OpenAI CEO Sam Altman's Firing Retold as Hollywood Movie",
+      "translated_summary": "The firing (and quick rehiring) of OpenAI CEO Sam Altman in late 2023 will be portrayed on the big screen in a new movie called \"Artificial.\" Read more about the film, here.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "28分钟前"
+    },
     {
       "id": "c3a56e95f0fb",
       "title": "ServiceNow offers 70% discount to federal government in AI push",
@@ -14,7 +28,7 @@
       "translated_summary": "ServiceNow Inc. is offering federal agencies discounts of as much as 70% on its software, a move aimed at spurring adoption as the Trump administration presses for faster government implementation of artificial intelligence tools.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "29分钟前"
+      "time": "1小时前"
     },
     {
       "id": "bae8ab085bcb",
@@ -28,7 +42,7 @@
       "translated_summary": "After months of pain, Salesforce Inc. investors will be scrutinizing the software maker's upcoming earnings for signs it will be a winner in the artificial intelligence boom, or one of its most high-profile victims.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "29分钟前"
+      "time": "1小时前"
     },
     {
       "id": "e4de374d9d35",
@@ -42,7 +56,7 @@
       "translated_summary": "Starbucks is rolling out a new system for counting inventory that uses artificial intelligence technology to its more than 11,000 company-owned stores in North America by the end of September, the global coffee chain announced on Wednesday.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "45分钟前"
+      "time": "1小时前"
     },
     {
       "id": "241df558f30c",
@@ -56,7 +70,7 @@
       "translated_summary": "Jodie Turner-Smith likened her character's arc to what happens when an artificial intelligence (like Grok) falls into the wrong hands.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "c486a52fb0cc",
@@ -70,7 +84,7 @@
       "translated_summary": "The iPhone maker may license generative artificial intelligence products outside of the Google ecosystem.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "1a94ab76a60f",
@@ -84,7 +98,7 @@
       "translated_summary": "As quantum computing begins emerging as the next phase of the artificial intelligence race, Quantum Computing stock is a rally in the making.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "9d7aff6f81a2",
@@ -98,7 +112,7 @@
       "translated_summary": "BGO, a global real estate investment manager with $89 billion in AUM, is using artificial intelligence to transform its investment research models.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "831d69a1b3cd",
@@ -112,7 +126,7 @@
       "translated_summary": "Salesforce CEO Marc Benioff revealed the company cut 4,000 customer support jobs and replaced them with Artificial Intelligence agents.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "35940b2c407f",
@@ -126,21 +140,7 @@
       "translated_summary": "For all the fervor and hype surrounding artificial intelligence (AI), a problem constantly lurking in the shadows that rarely makes it into keynote speeches or glossy pitch decks—we're running out of",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "201553ad0344",
-      "title": "HappyRobot raises $44 million to expand AI agents for freight operators",
-      "summary": "HappyRobot, an artificial intelligence startup that automates communications including rate negotiation and appointment booking for freight operators, has raised $44 million in a funding round led by Base10 Partners.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/happyrobot-raises-44-million-expand-ai-agents-freight-operators-2025-09-03/",
-      "publishedAt": "2025-09-03T11:35:43Z",
-      "image": "https://www.reuters.com/resizer/v2/SQUZXZF6CZMMTPIENRGTEBHGXM.jpg?auth=f4fdf86b19ee647ec415d1fa3c35b82eaf6f4422da7d57d8933252a7668d5619&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "HappyRobot raises $44 million to expand AI agents for freight operators",
-      "translated_summary": "HappyRobot, an artificial intelligence startup that automates communications including rate negotiation and appointment booking for freight operators, has raised $44 million in a funding round led by Base10 Partners.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
     }
   ]
 }
