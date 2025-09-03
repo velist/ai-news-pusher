@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-03T17:19:06.729098",
+  "last_updated": "2025-09-03T18:31:25.946709",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "The firing (and quick rehiring) of OpenAI CEO Sam Altman in late 2023 will be portrayed on the big screen in a new movie called \"Artificial.\" Read more about the film, here.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "28分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c3a56e95f0fb",
@@ -28,7 +28,7 @@
       "translated_summary": "ServiceNow Inc. is offering federal agencies discounts of as much as 70% on its software, a move aimed at spurring adoption as the Trump administration presses for faster government implementation of artificial intelligence tools.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "bae8ab085bcb",
@@ -42,7 +42,7 @@
       "translated_summary": "After months of pain, Salesforce Inc. investors will be scrutinizing the software maker's upcoming earnings for signs it will be a winner in the artificial intelligence boom, or one of its most high-profile victims.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e4de374d9d35",
@@ -56,7 +56,7 @@
       "translated_summary": "Starbucks is rolling out a new system for counting inventory that uses artificial intelligence technology to its more than 11,000 company-owned stores in North America by the end of September, the global coffee chain announced on Wednesday.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "241df558f30c",
@@ -70,7 +70,21 @@
       "translated_summary": "Jodie Turner-Smith likened her character's arc to what happens when an artificial intelligence (like Grok) falls into the wrong hands.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "610bdafa4e1f",
+      "title": "Legal AI startup Eudia opens law firm under Arizona program",
+      "summary": "Eudia, a venture capital-backed startup that makes an artificial intelligence-powered platform for corporate legal teams, on Wednesday said it has launched a law firm in Arizona under loosened law firm ownership rules.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/legalindustry/legal-ai-startup-eudia-opens-law-firm-under-arizona-program-2025-09-03/",
+      "publishedAt": "2025-09-03T14:10:02Z",
+      "image": "https://www.reuters.com/resizer/v2/BOMGM64EVRI77DCRYJEQE4NI44.jpg?auth=5ccd11d1063a0304755a48616a106eb688089d8e0083f90acc2ffe18f7ff53bc&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Legal AI startup Eudia opens law firm under Arizona program",
+      "translated_summary": "Eudia, a venture capital-backed startup that makes an artificial intelligence-powered platform for corporate legal teams, on Wednesday said it has launched a law firm in Arizona under loosened law firm ownership rules.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "4小时前"
     },
     {
       "id": "c486a52fb0cc",
@@ -84,7 +98,7 @@
       "translated_summary": "The iPhone maker may license generative artificial intelligence products outside of the Google ecosystem.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "1a94ab76a60f",
@@ -98,7 +112,7 @@
       "translated_summary": "As quantum computing begins emerging as the next phase of the artificial intelligence race, Quantum Computing stock is a rally in the making.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "9d7aff6f81a2",
@@ -112,7 +126,7 @@
       "translated_summary": "BGO, a global real estate investment manager with $89 billion in AUM, is using artificial intelligence to transform its investment research models.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "831d69a1b3cd",
@@ -124,20 +138,6 @@
       "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/marc-benioff-world-economic-forum.jpg?ve=1&tl=1",
       "translated_title": "Salesforce cuts 4,000 jobs due to AI, CEO says",
       "translated_summary": "Salesforce CEO Marc Benioff revealed the company cut 4,000 customer support jobs and replaced them with Artificial Intelligence agents.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "35940b2c407f",
-      "title": "Centralized Compute Will Not Scale: The Case for Citizen-Owned Infrastructure",
-      "summary": "For all the fervor and hype surrounding artificial intelligence (AI), a problem constantly lurking in the shadows that rarely makes it into keynote speeches or glossy pitch decks—we're running out of",
-      "source": "International Business Times",
-      "url": "https://www.ibtimes.com/centralized-compute-will-not-scale-case-citizen-owned-infrastructure-3782291",
-      "publishedAt": "2025-09-03T12:00:05Z",
-      "image": "https://d.ibtimes.com/en/full/4619293/centralized-compute-will-not-scale-case-citizen-owned-infrastructure.png",
-      "translated_title": "Centralized Compute Will Not Scale: The Case for Citizen-Owned Infrastructure",
-      "translated_summary": "For all the fervor and hype surrounding artificial intelligence (AI), a problem constantly lurking in the shadows that rarely makes it into keynote speeches or glossy pitch decks—we're running out of",
       "category": "热门",
       "category_icon": "🔥",
       "time": "5小时前"
