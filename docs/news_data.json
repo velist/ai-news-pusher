@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-03T07:21:22.897603",
+  "last_updated": "2025-09-03T08:29:11.877487",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e37941f05f51",
+      "title": "RBA Staff ‘Feeling the Weight’ of AI, Tech Shift, Governor Says",
+      "summary": "Reserve Bank of Australia staff are “feeling the weight” of its technological transformation agenda, Governor Michele Bullock said, adding that the use of big data and artificial intelligence has the potential to transform policy making.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-03/rba-staff-feeling-the-weight-of-ai-tech-shift-governor-says",
+      "publishedAt": "2025-09-03T08:10:00Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i21VBQyDSj7w/v1/1200x800.jpg",
+      "translated_title": "RBA Staff ‘Feeling the Weight’ of AI, Tech Shift, Governor Says",
+      "translated_summary": "Reserve Bank of Australia staff are “feeling the weight” of its technological transformation agenda, Governor Michele Bullock said, adding that the use of big data and artificial intelligence has the potential to transform policy making.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "19分钟前"
+    },
     {
       "id": "ae203b1ecb46",
       "title": "Marc Benioff Isn't Sold On AGI Hype, Says He's 'Extremely Suspect' Despite AI Shaping Salesforce Ahead Of Q2 Earnings",
@@ -14,7 +28,7 @@
       "translated_summary": "Salesforce CEO Marc Benioff dismissed hype around artificial general intelligence as \"hypnosis,\" saying today's AI is powerful but not conscious, even as the company cuts jobs, boosts productivity with AI agents, and prepares to report second-quarter earnings.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "10c580b47100",
@@ -28,7 +42,7 @@
       "translated_summary": "OpenAI announced on Tuesday that it acquired Statsig, a product experimentation platform, as the artificial intelligence company continues its aggressive acquisition strategy. Statsig CEO Vijaye Raji will join OpenAI as Chief Technology Officer of Applications, reporting to former Instacart CEO Fidji Simo.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "427bab28ef2c",
@@ -42,7 +56,7 @@
       "translated_summary": "Read Artificial Intelligence Stocks To Research – August 31st at ETF Daily News",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "f788a6a394df",
@@ -56,7 +70,7 @@
       "translated_summary": "Salesforce has cut 4,000 of its customer support roles, CEO Marc Benioff recently said while discussing how artificial intelligence has helped reduce the company headcount",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "f11fb4edf3d1",
@@ -70,7 +84,7 @@
       "translated_summary": "Artificial intelligence already is replacing certain jobs at technology companies.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "c52925836614",
@@ -84,7 +98,7 @@
       "translated_summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "f5fef5ad285e",
@@ -98,7 +112,7 @@
       "translated_summary": "President Donald Trump said a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "c7108a4647d5",
@@ -112,7 +126,7 @@
       "translated_summary": "WASHINGTON (AP) — President Donald Trump said Tuesday that a video circulating online that showed items being tossed out of an upstairs window of the White House was created with artificial intelligence, despite his press team seeming to confirm the veracity of it hours earlier.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "75ec05323c14",
@@ -126,21 +140,7 @@
       "translated_summary": "Anthropic has closed a deal to raise $13 billion from investors in a new funding round that nearly triples its valuation to $183 billion, including dollars raised a larger-than-expected haul that makes the artificial intelligence company one of the most valuable startups in the world.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "9小时前"
-    },
-    {
-      "id": "047d9faf8895",
-      "title": "Apple’s lead AI researcher for robotics heads to Meta as part of latest exits",
-      "summary": "Apple Inc.'s lead artificial intelligence researcher for robotics has departed the company to join Meta Platforms Inc.'s competing effort, part of an exodus of AI talent from the iPhone maker.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/09/02/apples-lead-ai-researcher-for-robotics-heads-to-meta-as-part-of-latest-exits/",
-      "publishedAt": "2025-09-02T21:29:56Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/Earns_Apple_11669.jpg?w=1024&h=614",
-      "translated_title": "Apple’s lead AI researcher for robotics heads to Meta as part of latest exits",
-      "translated_summary": "Apple Inc.'s lead artificial intelligence researcher for robotics has departed the company to join Meta Platforms Inc.'s competing effort, part of an exodus of AI talent from the iPhone maker.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "9小时前"
+      "time": "10小时前"
     }
   ]
 }
