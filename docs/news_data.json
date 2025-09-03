@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-03T14:22:02.882272",
+  "last_updated": "2025-09-03T15:24:19.150799",
   "total_count": 10,
   "articles": [
+    {
+      "id": "241df558f30c",
+      "title": "Ares' Star Says Her Character Reveals a Hard Truth About AI and Humans",
+      "summary": "Jodie Turner-Smith likened her character's arc to what happens when an artificial intelligence (like Grok) falls into the wrong hands.",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/tron-ares-star-says-her-character-reveals-a-hard-truth-about-ai-and-humans-2000652674",
+      "publishedAt": "2025-09-03T15:00:22Z",
+      "image": "https://gizmodo.com/app/uploads/2025/09/Tron-Ares-Jodie-Turner-Smith-1200x675.jpg",
+      "translated_title": "Ares' Star Says Her Character Reveals a Hard Truth About AI and Humans",
+      "translated_summary": "Jodie Turner-Smith likened her character's arc to what happens when an artificial intelligence (like Grok) falls into the wrong hands.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "23分钟前"
+    },
     {
       "id": "c486a52fb0cc",
       "title": "Apple is the big winner in Google antitrust penalty ruling",
@@ -14,7 +28,7 @@
       "translated_summary": "The iPhone maker may license generative artificial intelligence products outside of the Google ecosystem.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "12分钟前"
+      "time": "1小时前"
     },
     {
       "id": "1a94ab76a60f",
@@ -28,7 +42,7 @@
       "translated_summary": "As quantum computing begins emerging as the next phase of the artificial intelligence race, Quantum Computing stock is a rally in the making.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "9d7aff6f81a2",
@@ -42,7 +56,7 @@
       "translated_summary": "BGO, a global real estate investment manager with $89 billion in AUM, is using artificial intelligence to transform its investment research models.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "831d69a1b3cd",
@@ -56,7 +70,7 @@
       "translated_summary": "Salesforce CEO Marc Benioff revealed the company cut 4,000 customer support jobs and replaced them with Artificial Intelligence agents.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "35940b2c407f",
@@ -70,7 +84,7 @@
       "translated_summary": "For all the fervor and hype surrounding artificial intelligence (AI), a problem constantly lurking in the shadows that rarely makes it into keynote speeches or glossy pitch decks—we're running out of",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "201553ad0344",
@@ -84,7 +98,7 @@
       "translated_summary": "HappyRobot, an artificial intelligence startup that automates communications including rate negotiation and appointment booking for freight operators, has raised $44 million in a funding round led by Base10 Partners.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "ba0fd1fbc9ef",
@@ -98,7 +112,7 @@
       "translated_summary": "Welcome to Tech In Depth, our daily newsletter about the business of tech from Bloomberg’s journalists around the world. Today, Kate Clark sits down with Benchmark partner Peter Fenton to talk about the firm’s investment strategy in an era dominated by artificial intelligence startups.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "98b776e933f7",
@@ -112,7 +126,7 @@
       "translated_summary": "After months of pain, Salesforce Inc. investors will be scrutinizing the software maker’s upcoming earnings for signs it will be a winner in the artificial intelligence boom — or one of its most high-profile victims.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "7caeb4c911ff",
@@ -126,21 +140,7 @@
       "translated_summary": "When Anthropic went looking for more money to support its pursuit of building artificial intelligence models, the startup turned to a familiar network of venture capitalists. It also opened the door to a source of capital it had previously ignored: Middle Eastern sovereign wealth.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
-    },
-    {
-      "id": "3b5ee874425c",
-      "title": "Google's AI rivals get a boost from data-sharing order, but tech giant far from routed",
-      "summary": "A rising group of artificial intelligence companies stand to gain from an antitrust ruling on Tuesday that ordered Alphabet's Google to share its invaluable search data with competitors.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/googles-ai-rivals-get-boost-data-sharing-order-tech-giant-far-routed-2025-09-03/",
-      "publishedAt": "2025-09-03T10:04:45Z",
-      "image": "https://www.reuters.com/resizer/v2/OFKLDTDPFJITXANCE2DQCASDWQ.jpg?auth=3edb3317e97a99dfc741f46bff952bcce2aa20ed3e6313ee8ab27acaf89dbe23&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Google's AI rivals get a boost from data-sharing order, but tech giant far from routed",
-      "translated_summary": "A rising group of artificial intelligence companies stand to gain from an antitrust ruling on Tuesday that ordered Alphabet's Google to share its invaluable search data with competitors.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     }
   ]
 }
