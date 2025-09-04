@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-04T13:29:56.977767",
+  "last_updated": "2025-09-04T14:21:35.200337",
   "total_count": 10,
   "articles": [
+    {
+      "id": "4be9c2090831",
+      "title": "AI not affecting job market much so far, New York Fed says",
+      "summary": "Rising adoption of artificial intelligence technology by firms in the Federal Reserve's New York district has not been much of a job-killer so far, the regional Fed bank said in a blog on Thursday.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/ai-not-affecting-job-market-much-so-far-new-york-fed-says-2025-09-04/",
+      "publishedAt": "2025-09-04T14:02:24Z",
+      "image": "https://www.reuters.com/resizer/v2/LPRMGTTS5VIVPETVD4OBZ3XRJI.jpg?auth=409fade9db100e3002e7c235c7cf3338ffe9a808a448db1f93551c439f94cf1f&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "AI not affecting job market much so far, New York Fed says",
+      "translated_summary": "Rising adoption of artificial intelligence technology by firms in the Federal Reserve's New York district has not been much of a job-killer so far, the regional Fed bank said in a blog on Thursday.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "19分钟前"
+    },
     {
       "id": "3830d3aed4ad",
       "title": "Artificial intelligence helps break barriers for Hispanic homeownership",
@@ -14,7 +28,7 @@
       "translated_summary": "For many Hispanics the road to homeownership is filled with obstacles, including loan officers who don’t speak Spanish or aren't familiar with buyers who may…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "5adbfb670420",
@@ -28,7 +42,7 @@
       "translated_summary": "Some mortgage experts are using artificial intelligence to help Hispanic homebuyers navigate the loan application process.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "6cfd02f53dbb",
@@ -42,7 +56,7 @@
       "translated_summary": "Some mortgage experts are using artificial intelligence to help Hispanic homebuyers navigate the loan application process.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "13c551890ac3",
@@ -56,7 +70,7 @@
       "translated_summary": "For many Hispanics the road to homeownership is filled with obstacles, including loan officers who don’t speak Spanish or aren't familiar with buyers who may not fit the boxes of a traditional mortgage applicant.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "a74dfe50d4d5",
@@ -70,7 +84,7 @@
       "translated_summary": "Samsung Electronics Co. unveiled a $650 version of its premium S25 smartphone and a pair of new tablets, the latest effort to roll out artificial intelligence features across its hardware lineup.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "dc4ccf233814",
@@ -84,7 +98,7 @@
       "translated_summary": "An eyebrow-raising valuation of the company Anthropic provides a big hint on how investors think artificial intelligence will make money, John Herrman writes.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "f29aecc598ae",
@@ -98,7 +112,7 @@
       "translated_summary": "OpenAI CEO Sam Altman raised concerns about the growing presence of artificial intelligence-generated accounts on Elon Musk's X platform.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "77c5a5fa2371",
@@ -112,7 +126,7 @@
       "translated_summary": "DeepSeek is developing an artificial intelligence model with more advanced AI agent features to compete with US rivals like OpenAI in a newer frontier of the technology, according to people familiar with the matter.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "f8bc30ec07b3",
@@ -124,20 +138,6 @@
       "image": "https://cdn.benzinga.com/files/images/story/2025/09/04/Harrisburg--Pa---April-29--2017-Presiden.jpeg?width=1200&height=800&fit=crop",
       "translated_title": "Trump Says US 'Easily Beating' China In The AI Race, Compares It To Space Race And Cold War-Credits His Tariffs, Energy Policies",
       "translated_summary": "President Donald Trump asserted that the United States is currently leading the artificial intelligence (AI) race against China. He attributed this to the impact of tariffs and the nation's energy policies.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "efe1513af20c",
-      "title": "Exclusive: Chinese firms still want Nvidia chips despite government pressure not to buy, sources say",
-      "summary": "Alibaba , ByteDance and other Chinese tech firms remain keen on Nvidia's artificial intelligence chips despite regulators in Beijing strongly discouraging them from such purchases, four people with knowledge of procurement discussions said.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinese-firms-still-want-nvidia-chips-despite-government-pressure-not-buy-2025-09-04/",
-      "publishedAt": "2025-09-04T07:03:08Z",
-      "image": "https://www.reuters.com/resizer/v2/5UOXOKRWEZM5XEQNDVGRRC2RS4.jpg?auth=112468561cf7d8b26d9bcce5c9d73b27c2ef9a4079631b51df67af532800eeb1&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Exclusive: Chinese firms still want Nvidia chips despite government pressure not to buy, sources say",
-      "translated_summary": "Alibaba , ByteDance and other Chinese tech firms remain keen on Nvidia's artificial intelligence chips despite regulators in Beijing strongly discouraging them from such purchases, four people with knowledge of procurement discussions said.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "6小时前"
