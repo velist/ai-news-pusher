@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-09-04T07:21:07.487392",
+  "last_updated": "2025-09-04T08:28:55.807083",
   "total_count": 10,
   "articles": [
+    {
+      "id": "f29aecc598ae",
+      "title": "Sam Altman Warns Of AI Bot Surge On Elon Musk's X, Revives 'Dead Internet' Fears As Feud With xAI Escalates",
+      "summary": "OpenAI CEO Sam Altman raised concerns about the growing presence of artificial intelligence-generated accounts on Elon Musk's X platform.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/25/09/47492339/sam-altman-warns-of-ai-bot-surge-on-elon-musks-x-revives-dead-internet-fears-as-feud-with-xai-escalates",
+      "publishedAt": "2025-09-04T08:14:59Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/04/Openai-Ceo-Sam-Altman-Attends-The-Artifi.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Sam Altman Warns Of AI Bot Surge On Elon Musk's X, Revives 'Dead Internet' Fears As Feud With xAI Escalates",
+      "translated_summary": "OpenAI CEO Sam Altman raised concerns about the growing presence of artificial intelligence-generated accounts on Elon Musk's X platform.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "13分钟前"
+    },
+    {
+      "id": "77c5a5fa2371",
+      "title": "DeepSeek Targets AI Agent Release by End of Year to Rival OpenAI",
+      "summary": "DeepSeek is developing an artificial intelligence model with more advanced AI agent features to compete with US rivals like OpenAI in a newer frontier of the technology, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-04/deepseek-targets-ai-agent-release-by-end-of-year-to-rival-openai",
+      "publishedAt": "2025-09-04T08:09:02Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEwoGLkqRHQ0/v0/1200x793.jpg",
+      "translated_title": "DeepSeek Targets AI Agent Release by End of Year to Rival OpenAI",
+      "translated_summary": "DeepSeek is developing an artificial intelligence model with more advanced AI agent features to compete with US rivals like OpenAI in a newer frontier of the technology, according to people familiar with the matter.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "19分钟前"
+    },
+    {
+      "id": "f8bc30ec07b3",
+      "title": "Trump Says US 'Easily Beating' China In The AI Race, Compares It To Space Race And Cold War-Credits His Tariffs, Energy Policies",
+      "summary": "President Donald Trump asserted that the United States is currently leading the artificial intelligence (AI) race against China. He attributed this to the impact of tariffs and the nation's energy policies.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/25/09/47491962/trump-says-us-easily-beating-china-in-ai-race-credits-his-tariffs-energy-policies",
+      "publishedAt": "2025-09-04T07:28:49Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/04/Harrisburg--Pa---April-29--2017-Presiden.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "Trump Says US 'Easily Beating' China In The AI Race, Compares It To Space Race And Cold War-Credits His Tariffs, Energy Policies",
+      "translated_summary": "President Donald Trump asserted that the United States is currently leading the artificial intelligence (AI) race against China. He attributed this to the impact of tariffs and the nation's energy policies.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "efe1513af20c",
       "title": "Exclusive: Chinese firms still want Nvidia chips despite government pressure not to buy, sources say",
@@ -14,7 +56,7 @@
       "translated_summary": "Alibaba , ByteDance and other Chinese tech firms remain keen on Nvidia's artificial intelligence chips despite regulators in Beijing strongly discouraging them from such purchases, four people with knowledge of procurement discussions said.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17分钟前"
+      "time": "1小时前"
     },
     {
       "id": "e58947dec8b5",
@@ -28,7 +70,7 @@
       "translated_summary": "There’s been a lot of big talk about how artificial intelligence is going to replace white collar workers. But what data do we actually have around AI’s impact on the workforce? Today on the show, we speak to an expert who has measured one aspect of these changes. She tells us how this moment in AI compares to the Industrial Revolution. Related episodes: AI creates, transforms, and destroys… jobs The golden ages of labor and looms For sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "20分钟前"
+      "time": "1小时前"
     },
     {
       "id": "57cabf89110d",
@@ -42,7 +84,7 @@
       "translated_summary": "Salesforce shares fell after hours despite beating Q2 estimates as CEO Marc Benioff dismissed artificial general intelligence as \"nonsense\" and emphasized the company's focus on building an \"agentic enterprise\" instead.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "7dee39cfa7fa",
@@ -56,7 +98,7 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "9bea9e92a36e",
@@ -70,7 +112,7 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations. AI can't defend itself, making it an easy target. This tactic is known as “the...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "d21b8446b628",
@@ -84,21 +126,7 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations. AI can't defend itself, making it an easy target.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "c5f3093d9b4c",
-      "title": "The president blamed AI and embraced doing so. Is it becoming the new 'fake news'?",
-      "summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations.",
-      "source": "WDIV ClickOnDetroit",
-      "url": "https://www.clickondetroit.com/news/politics/2025/09/04/the-president-blamed-ai-and-embraced-doing-so-is-it-becoming-the-new-fake-news/",
-      "publishedAt": "2025-09-04T04:02:21Z",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2ZX37S3D4RFP7MX5XLHDJD4K2A.jpg?_a=DATAg1eAZAA0",
-      "translated_title": "The president blamed AI and embraced doing so. Is it becoming the new 'fake news'?",
-      "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "20f95abb8045",
@@ -112,34 +140,6 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "d0505e79b8b6",
-      "title": "The President Blamed AI and Embraced Doing So. Is It Becoming the New 'Fake News'?",
-      "summary": "Artificial intelligence, apparently, is the new “fake news.\"",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/politics/articles/2025-09-04/the-president-blamed-ai-and-embraced-doing-so-is-it-becoming-the-new-fake-news",
-      "publishedAt": "2025-09-04T04:02:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/f26284f/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff8%2F4e79125c6097db493a80817d8b1dfe%2F8f9f83f9989a472cb9820e892cd06d21Blaming_AI_61135.jpg",
-      "translated_title": "The President Blamed AI and Embraced Doing So. Is It Becoming the New 'Fake News'?",
-      "translated_summary": "Artificial intelligence, apparently, is the new “fake news.\"",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "c5c9398e3e72",
-      "title": "Trump to host top tech CEOs - except Musk - at White House dinner Thursday",
-      "summary": "The guest list is set to include Microsoft cofounder Bill Gates, Apple CEO Tim Cook, Meta CEO Mark Zuckerberg, and a dozen other executives from the biggest artificial intelligence and tech firms, according to the White House.",
-      "source": "The Boston Globe",
-      "url": "https://www.bostonglobe.com/2025/09/03/nation/trump-administration-tech-ceos-white-house-dinner/",
-      "publishedAt": "2025-09-04T03:10:06Z",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BKDY7QN6CV7V3GUA2DTK4TPMKY.jpg?auth=975dad3241e875ccbfdc7de22b5b02ce775f1f6e8056fb885cb1fc3eb923a63b&width=1440",
-      "translated_title": "Trump to host top tech CEOs - except Musk - at White House dinner Thursday",
-      "translated_summary": "The guest list is set to include Microsoft cofounder Bill Gates, Apple CEO Tim Cook, Meta CEO Mark Zuckerberg, and a dozen other executives from the biggest artificial intelligence and tech firms, according to the White House.",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "4小时前"
     }
   ]
