@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-04T08:28:55.807083",
+  "last_updated": "2025-09-04T09:23:47.480450",
   "total_count": 10,
   "articles": [
+    {
+      "id": "dc4ccf233814",
+      "title": "How Investors Think AI Will Actually Make Money",
+      "summary": "An eyebrow-raising valuation of the company Anthropic provides a big hint on how investors think artificial intelligence will make money, John Herrman writes.",
+      "source": "New York Magazine",
+      "url": "https://nymag.com/intelligencer/article/investors-ai-anthropic.html",
+      "publishedAt": "2025-09-04T09:00:48Z",
+      "image": "https://pyxis.nymag.com/v1/imgs/560/9eb/956e609709b1e2278503b3a539a0696f18-herman-AI-programming.1x.rsocial.w1200.jpg",
+      "translated_title": "How Investors Think AI Will Actually Make Money",
+      "translated_summary": "An eyebrow-raising valuation of the company Anthropic provides a big hint on how investors think artificial intelligence will make money, John Herrman writes.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "22分钟前"
+    },
     {
       "id": "f29aecc598ae",
       "title": "Sam Altman Warns Of AI Bot Surge On Elon Musk's X, Revives 'Dead Internet' Fears As Feud With xAI Escalates",
@@ -14,7 +28,7 @@
       "translated_summary": "OpenAI CEO Sam Altman raised concerns about the growing presence of artificial intelligence-generated accounts on Elon Musk's X platform.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "13分钟前"
+      "time": "1小时前"
     },
     {
       "id": "77c5a5fa2371",
@@ -28,7 +42,7 @@
       "translated_summary": "DeepSeek is developing an artificial intelligence model with more advanced AI agent features to compete with US rivals like OpenAI in a newer frontier of the technology, according to people familiar with the matter.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "19分钟前"
+      "time": "1小时前"
     },
     {
       "id": "f8bc30ec07b3",
@@ -56,7 +70,7 @@
       "translated_summary": "Alibaba , ByteDance and other Chinese tech firms remain keen on Nvidia's artificial intelligence chips despite regulators in Beijing strongly discouraging them from such purchases, four people with knowledge of procurement discussions said.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "e58947dec8b5",
@@ -70,7 +84,7 @@
       "translated_summary": "There’s been a lot of big talk about how artificial intelligence is going to replace white collar workers. But what data do we actually have around AI’s impact on the workforce? Today on the show, we speak to an expert who has measured one aspect of these changes. She tells us how this moment in AI compares to the Industrial Revolution. Related episodes: AI creates, transforms, and destroys… jobs The golden ages of labor and looms For sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "57cabf89110d",
@@ -84,7 +98,7 @@
       "translated_summary": "Salesforce shares fell after hours despite beating Q2 estimates as CEO Marc Benioff dismissed artificial general intelligence as \"nonsense\" and emphasized the company's focus on building an \"agentic enterprise\" instead.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "7dee39cfa7fa",
@@ -98,7 +112,7 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "9bea9e92a36e",
@@ -112,7 +126,7 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations. AI can't defend itself, making it an easy target. This tactic is known as “the...",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "d21b8446b628",
@@ -126,21 +140,7 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations. AI can't defend itself, making it an easy target.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
-    },
-    {
-      "id": "20f95abb8045",
-      "title": "The president blamed AI and embraced doing so. Is it becoming the new 'fake news'?",
-      "summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/Lifestyle/wireStory/president-blamed-ai-embraced-becoming-new-fake-news-125242993",
-      "publishedAt": "2025-09-04T04:02:21Z",
-      "image": "https://i.abcnewsfe.com/a/3921cab2-1a25-46db-95df-d2723cf170bf/wirestory_63271ffd325f0ce3be7699350af7b09a_16x9.jpg?w=1600",
-      "translated_title": "The president blamed AI and embraced doing so. Is it becoming the new 'fake news'?",
-      "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     }
   ]
 }
