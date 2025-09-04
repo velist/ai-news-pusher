@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-04T15:23:28.713503",
+  "last_updated": "2025-09-04T16:28:40.207988",
   "total_count": 10,
   "articles": [
+    {
+      "id": "9f3470dd5002",
+      "title": "Apple's Siri Overhaul With Google Gemini Will Take The AI Fight To OpenAI And Perplexity",
+      "summary": "Apple is reportedly in advanced talks to integrate Google’s Gemini artificial intelligence models to power a major upgrade to Siri, Apple's long-standing but recently criticized voice assistant.",
+      "source": "Hot Hardware",
+      "url": "https://hothardware.com/news/apples-siri-overhaul-could-use-google-gemini",
+      "publishedAt": "2025-09-04T15:10:00Z",
+      "image": "https://images.hothardware.com/contentimages/newsitem/68556/content/hero-siri.jpg",
+      "translated_title": "Apple's Siri Overhaul With Google Gemini Will Take The AI Fight To OpenAI And Perplexity",
+      "translated_summary": "Apple is reportedly in advanced talks to integrate Google’s Gemini artificial intelligence models to power a major upgrade to Siri, Apple's long-standing but recently criticized voice assistant.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "dec934b96aa8",
       "title": "C3.ai Stock Sinks as Struggling Firm Replaces CEO, Withdraws Outlook",
@@ -14,7 +28,7 @@
       "translated_summary": "Shares of C3.ai dipped Thursday, a day after the artificial intelligence software provider replaced its CEO, posted weak results, and withdrew its guidance as it restructured its struggling business.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "37分钟前"
+      "time": "1小时前"
     },
     {
       "id": "e5991b093f13",
@@ -28,7 +42,7 @@
       "translated_summary": "Some mortgage experts are using bilingual artificial intelligence to help buyers in the Hispanic community navigate the homebuying process.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "47分钟前"
+      "time": "1小时前"
     },
     {
       "id": "6bb8864aaa82",
@@ -42,7 +56,7 @@
       "translated_summary": "Atlassian is making a $610 million bet on the future of browsing. The enterprise software giant announced it has agreed to acquire The Browser Company, the New York-based startup behind Arc and Dia, two browsers built with artificial intelligence at their core. The all-cash deal is expected to close in Atlassian’s fiscal second quarter, which",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "58分钟前"
+      "time": "2小时前"
     },
     {
       "id": "e297e8877cbb",
@@ -56,7 +70,7 @@
       "translated_summary": "The actions follow an executive order signed by President Donald Trump in April on \"Advancing Artificial Intelligence Education for American Youth.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d9fa15502150",
@@ -70,7 +84,7 @@
       "translated_summary": "The actions follow an executive order signed by President Donald Trump in April on \"Advancing Artificial Intelligence Education for American Youth.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "4be9c2090831",
@@ -84,7 +98,7 @@
       "translated_summary": "Rising adoption of artificial intelligence technology by firms in the Federal Reserve's New York district has not been much of a job-killer so far, the regional Fed bank said in a blog on Thursday.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "5ff157cf24de",
@@ -98,7 +112,7 @@
       "translated_summary": "Some mortgage experts are using artificial intelligence to help Hispanic homebuyers navigate the loan application process.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "257e6b074936",
@@ -112,7 +126,7 @@
       "translated_summary": "Some mortgage experts are using artificial intelligence to help Hispanic homebuyers navigate the loan application process.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "3830d3aed4ad",
@@ -126,21 +140,7 @@
       "translated_summary": "For many Hispanics the road to homeownership is filled with obstacles, including loan officers who don’t speak Spanish or aren't familiar with buyers who may…",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "5adbfb670420",
-      "title": "Artificial intelligence helps break barriers for Hispanic homeownership",
-      "summary": "Some mortgage experts are using artificial intelligence to help Hispanic homebuyers navigate the loan application process.",
-      "source": "The Associated Press",
-      "url": "https://apnews.com/article/artificial-intelligence-hispanic-homeowners-mortgage-chatgpt-98cdd138473d19805add0b8bc1534d63",
-      "publishedAt": "2025-09-04T10:01:17Z",
-      "image": "https://dims.apnews.com/dims4/default/ad12ace/2147483647/strip/true/crop/5390x3032+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2F56%2F2f06c5cad7bd0145419a32756678%2F3e296edc8ad744319769cfe0d573baac",
-      "translated_title": "Artificial intelligence helps break barriers for Hispanic homeownership",
-      "translated_summary": "Some mortgage experts are using artificial intelligence to help Hispanic homebuyers navigate the loan application process.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     }
   ]
 }
