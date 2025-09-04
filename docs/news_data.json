@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-09-04T17:18:59.765528",
+  "last_updated": "2025-09-04T18:31:34.773537",
   "total_count": 10,
   "articles": [
+    {
+      "id": "a1a34bbd3583",
+      "title": "Melania Trump reemerges to highlight responsible AI: ‘The robots are here’",
+      "summary": "First lady Melania Trump made rare public remarks on Thursday, calling on private and public sector leaders to prepare children for the growth of artificial intelligence, at a Thursday event at the White House.",
+      "source": "Cable News Network",
+      "url": "https://edition.cnn.com/2025/09/04/politics/melania-trump-white-house-appearance-ai",
+      "publishedAt": "2025-09-04T18:02:01Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-04t173418z-1338221866-rc25lgal3nde-rtrmadp-3-usa-trump-melania.jpg?c=16x9&q=w_800,c_fill",
+      "translated_title": "Melania Trump reemerges to highlight responsible AI: ‘The robots are here’",
+      "translated_summary": "First lady Melania Trump made rare public remarks on Thursday, calling on private and public sector leaders to prepare children for the growth of artificial intelligence, at a Thursday event at the White House.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "29分钟前"
+    },
+    {
+      "id": "3f64ff0a3972",
+      "title": "Mark Rylance Joins Cast Of Luca Guadagnino's AI Movie Artificial",
+      "summary": "Mark Rylance, the Oscar-winning actor for Bridge of Spies, is joining the cast of Luca Guadagnino's Artificial, also starring Andrew Garfield.",
+      "source": "Screen Rant",
+      "url": "https://screenrant.com/artificial-luca-guadagnino-mark-rylance-cast/",
+      "publishedAt": "2025-09-04T17:54:48Z",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/mark-rylance-at-bones-and-all-premiere.jpg?w=1600&h=900&fit=crop",
+      "translated_title": "Mark Rylance Joins Cast Of Luca Guadagnino's AI Movie Artificial",
+      "translated_summary": "Mark Rylance, the Oscar-winning actor for Bridge of Spies, is joining the cast of Luca Guadagnino's Artificial, also starring Andrew Garfield.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "36分钟前"
+    },
     {
       "id": "376f3aef533b",
       "title": "Busy brides are saying 'AI do!' with controversial vow generators",
@@ -14,7 +42,7 @@
       "translated_summary": "Delegating writing duties to artificial intelligence is the ultramodern, controversial way she and approximately 25% of today’s sweeties are saving time, stress and money on their nuptials. And Jen Glantz, founder of Bridesmaid For Hire, a virtual wedding planning hub with over 100 AI tools, is fast-tracking folks into forever with just a few quick clicks.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9分钟前"
+      "time": "1小时前"
     },
     {
       "id": "484c1aa1654d",
@@ -28,7 +56,7 @@
       "translated_summary": "The arms race in artificial intelligence has increased the likelihood of a $100 billion-plus M&A deal by this time next year, according to the top dealmaker at Barclays Plc.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "782d5722e801",
@@ -42,7 +70,7 @@
       "translated_summary": "First Lady Melania Trump is hosting an artificial intelligence meeting at the White House Thursday afternoon with top industry leaders including Google CEO Sundar Pichai.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "81246de3365e",
@@ -56,7 +84,7 @@
       "translated_summary": "Salesforce Inc. projected lackluster quarterly sales growth, suggesting its artificial intelligence product isn't yet paying off as quickly as hoped in the face of competition from emerging AI companies.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "9f3470dd5002",
@@ -70,7 +98,7 @@
       "translated_summary": "Apple is reportedly in advanced talks to integrate Google’s Gemini artificial intelligence models to power a major upgrade to Siri, Apple's long-standing but recently criticized voice assistant.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "dec934b96aa8",
@@ -84,7 +112,7 @@
       "translated_summary": "Shares of C3.ai dipped Thursday, a day after the artificial intelligence software provider replaced its CEO, posted weak results, and withdrew its guidance as it restructured its struggling business.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "e5991b093f13",
@@ -98,7 +126,7 @@
       "translated_summary": "Some mortgage experts are using bilingual artificial intelligence to help buyers in the Hispanic community navigate the homebuying process.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "6bb8864aaa82",
@@ -112,35 +140,7 @@
       "translated_summary": "Atlassian is making a $610 million bet on the future of browsing. The enterprise software giant announced it has agreed to acquire The Browser Company, the New York-based startup behind Arc and Dia, two browsers built with artificial intelligence at their core. The all-cash deal is expected to close in Atlassian’s fiscal second quarter, which",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "e297e8877cbb",
-      "title": "First lady Melania Trump hosts Task Force on Artificial Intelligence Education meeting",
-      "summary": "The actions follow an executive order signed by President Donald Trump in April on \"Advancing Artificial Intelligence Education for American Youth.\"",
-      "source": "Baltimore News",
-      "url": "https://foxbaltimore.com/news/nation-world/first-lady-melania-trump-hosts-task-force-on-artificial-intelligence-education-meeting-white-house-executive-order-take-it-down-learning-challenge",
-      "publishedAt": "2025-09-04T14:10:45Z",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/4609/986/0x241/90/3b815447-8f7c-453c-acab-ebec50120af4-GettyImages2203119064.jpg",
-      "translated_title": "First lady Melania Trump hosts Task Force on Artificial Intelligence Education meeting",
-      "translated_summary": "The actions follow an executive order signed by President Donald Trump in April on \"Advancing Artificial Intelligence Education for American Youth.\"",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
-    },
-    {
-      "id": "d9fa15502150",
-      "title": "First lady Melania Trump hosts Task Force on Artificial Intelligence Education meeting",
-      "summary": "The actions follow an executive order signed by President Donald Trump in April on \"Advancing Artificial Intelligence Education for American Youth.\"",
-      "source": "WJLA",
-      "url": "https://wjla.com/news/nation-world/first-lady-melania-trump-hosts-task-force-on-artificial-intelligence-education-meeting-white-house-executive-order-take-it-down-learning-challenge",
-      "publishedAt": "2025-09-04T14:10:45Z",
-      "image": "https://wjla.com/resources/media2/16x9/4609/986/0x241/90/3b815447-8f7c-453c-acab-ebec50120af4-GettyImages2203119064.jpg",
-      "translated_title": "First lady Melania Trump hosts Task Force on Artificial Intelligence Education meeting",
-      "translated_summary": "The actions follow an executive order signed by President Donald Trump in April on \"Advancing Artificial Intelligence Education for American Youth.\"",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     }
   ]
 }
