@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-04T04:26:12.633936",
+  "last_updated": "2025-09-04T05:20:43.922051",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,21 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17分钟前"
+      "time": "1小时前"
+    },
+    {
+      "id": "9bea9e92a36e",
+      "title": "The president blamed AI and embraced doing so. Is it becoming the new 'fake news'?",
+      "summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations. AI can't defend itself, making it an easy target. This tactic is known as “the...",
+      "source": "SFGATE",
+      "url": "https://www.sfgate.com/news/politics/article/the-president-blamed-ai-and-embraced-doing-so-is-21029955.php",
+      "publishedAt": "2025-09-04T04:02:22Z",
+      "image": "https://s.hdnux.com/photos/01/54/35/07/28430809/3/rawImage.jpg",
+      "translated_title": "The president blamed AI and embraced doing so. Is it becoming the new 'fake news'?",
+      "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations. AI can't defend itself, making it an easy target. This tactic is known as “the...",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
     },
     {
       "id": "d21b8446b628",
@@ -28,7 +42,7 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations. AI can't defend itself, making it an easy target.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "23分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c5f3093d9b4c",
@@ -42,7 +56,7 @@
       "translated_summary": "Politicians are increasingly blaming artificial intelligence to dodge accountability for embarrassing situations.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "23分钟前"
+      "time": "1小时前"
     },
     {
       "id": "d0505e79b8b6",
@@ -56,7 +70,7 @@
       "translated_summary": "Artificial intelligence, apparently, is the new “fake news.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "24分钟前"
+      "time": "1小时前"
     },
     {
       "id": "c5c9398e3e72",
@@ -70,7 +84,7 @@
       "translated_summary": "The guest list is set to include Microsoft cofounder Bill Gates, Apple CEO Tim Cook, Meta CEO Mark Zuckerberg, and a dozen other executives from the biggest artificial intelligence and tech firms, according to the White House.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "0e83e4403b79",
@@ -84,7 +98,7 @@
       "translated_summary": "Tech industry leaders including Meta Platforms Inc.’s Mark Zuckerberg, Apple Inc.’s Tim Cook, and Microsoft Corp.’s Satya Nadella are expected to attend an artificial intelligence event hosted by First Lady Melania Trump on Thursday and then join President Donald Trump for an evening reception in the newly renovated Rose Garden.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "90c7d1d2d6be",
@@ -98,7 +112,7 @@
       "translated_summary": "OAKLAND, Calif. (AP) — Oakland Ballers manager Aaron Miles will leave it to artificial intelligence to decide when to pinch hit or replace his pitcher.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "bd82f32145a1",
@@ -112,7 +126,7 @@
       "translated_summary": "The playoff-bound Oakland Ballers of the independent Pioneer League are turning to artificial intelligence to manage all aspects of Saturday’s home game against the Great Falls Voyagers at Raimondi Park.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "c88192af9d4d",
@@ -126,21 +140,7 @@
       "translated_summary": "The playoff-bound Oakland Ballers of the independent Pioneer League are turning to artificial intelligence to manage all aspects of Saturday’s home game against the Great Falls Voyagers at Raimondi Park.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "f57977bf9dcd",
-      "title": "Oakland Ballers to Use Artificial Intelligence to Manage Saturday Home Game Against Great Falls",
-      "summary": "OAKLAND, Calif. (AP) — Oakland Ballers manager Aaron Miles will leave it to artificial intelligence to decide when to pinch hit or replace his pitcher.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/sports/articles/2025-09-03/oakland-ballers-to-use-artificial-intelligence-to-manage-saturday-home-game-against-great-falls",
-      "publishedAt": "2025-09-04T01:45:00Z",
-      "image": "https://www.usnews.com/dims4/USNEWS/989be3f/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff9%2F281df44612fb0407f8d9a3828c1783%2F7a1b986769694f67be317a84ffec0c3cBallers_AI_Game_Baseball_49495.jpg",
-      "translated_title": "Oakland Ballers to Use Artificial Intelligence to Manage Saturday Home Game Against Great Falls",
-      "translated_summary": "OAKLAND, Calif. (AP) — Oakland Ballers manager Aaron Miles will leave it to artificial intelligence to decide when to pinch hit or replace his pitcher.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     }
   ]
 }
