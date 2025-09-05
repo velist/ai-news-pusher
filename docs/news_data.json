@@ -1,7 +1,35 @@
 {
-  "last_updated": "2025-09-05T11:17:51.571770",
+  "last_updated": "2025-09-05T12:45:16.183587",
   "total_count": 10,
   "articles": [
+    {
+      "id": "b6ef2a6271a1",
+      "title": "Timing Is Everything For This Niche Chipmaker",
+      "summary": "Surging demand for timing chips for artificial intelligence data centers and other applications has been the driver of SiTime stock.",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/sitime-stock-sitm-chipmaker-precision-timing-leader/",
+      "publishedAt": "2025-09-05T12:00:23Z",
+      "image": "https://www.investors.com/wp-content/uploads/2025/09/TECH1_pencil_090525_company.jpg",
+      "translated_title": "Timing Is Everything For This Niche Chipmaker",
+      "translated_summary": "Surging demand for timing chips for artificial intelligence data centers and other applications has been the driver of SiTime stock.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "44分钟前"
+    },
+    {
+      "id": "95a35ff076dc",
+      "title": "Power politics: How electricity costs are shaping this year’s elections",
+      "summary": "By David Wright, CNN (CNN) — America’s aging power grid has faced strain for years, exacerbated by severe weather events, an explosion of data centers and the demand created by artificial intelligence. Now, electricity is emerging as a top issue on the campaign trail. Campaigns in this fall’s races for New Jersey and Virginia governors,",
+      "source": "ABC17News.com",
+      "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2025/09/05/power-politics-how-electricity-costs-are-shaping-this-years-elections/",
+      "publishedAt": "2025-09-05T11:00:06Z",
+      "image": "https://abc17news.b-cdn.net/abc17news.com/2023/08/kmiz-860x484.webp",
+      "translated_title": "Power politics: How electricity costs are shaping this year’s elections",
+      "translated_summary": "By David Wright, CNN (CNN) — America’s aging power grid has faced strain for years, exacerbated by severe weather events, an explosion of data centers and the demand created by artificial intelligence. Now, electricity is emerging as a top issue on the campaign trail. Campaigns in this fall’s races for New Jersey and Virginia governors,",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "c5ade773fb71",
       "title": "Power politics: Rising electricity bills are central to this year’s elections",
@@ -14,7 +42,7 @@
       "translated_summary": "America’s aging power grid has faced strain for years, exacerbated by severe weather events, an explosion of data centers and the demand created by artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "17分钟前"
+      "time": "1小时前"
     },
     {
       "id": "581ee3f99dab",
@@ -28,7 +56,7 @@
       "translated_summary": "Tesla Inc. shareholders will vote in November to decide if the electric carmaker should invest in Elon Musk’s closely held artificial intelligence startup, xAI.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "31分钟前"
+      "time": "1小时前"
     },
     {
       "id": "95b8d9fc5016",
@@ -42,7 +70,7 @@
       "translated_summary": "Tesla will also ask shareholders to vote on whether the automaker should invest in Musk's artificial intelligence company, xAI.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "49分钟前"
+      "time": "2小时前"
     },
     {
       "id": "c9b1d36a39d6",
@@ -56,7 +84,7 @@
       "translated_summary": "Broadcom shares jumped 7% in premarket trading on Friday, as an upbeat outlook for artificial intelligence revenue and CEO Hock Tan's pledge to stay on for five more years reassured investors betting on the chipmaker's custom silicon strategy.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "8d787c2e28d5",
@@ -70,7 +98,21 @@
       "translated_summary": "Artificial intelligence needs a warning label, much like the FDA's black box label, to alert parents of the dangers of this technology.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
+    },
+    {
+      "id": "ea75ec145e90",
+      "title": "Best Artificial Intelligence Stocks To Watch Today - September 2nd",
+      "summary": "Read Best Artificial Intelligence Stocks To Watch Today – September 2nd at ETF Daily News",
+      "source": "ETF Daily News",
+      "url": "https://www.etfdailynews.com/2025/09/05/best-artificial-intelligence-stocks-to-watch-today-september-2nd/",
+      "publishedAt": "2025-09-05T07:34:53Z",
+      "image": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/salesforcecom-inc-logo-1200x675.png&w=240&h=240&zc=2",
+      "translated_title": "Best Artificial Intelligence Stocks To Watch Today - September 2nd",
+      "translated_summary": "Read Best Artificial Intelligence Stocks To Watch Today – September 2nd at ETF Daily News",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "5小时前"
     },
     {
       "id": "4239744965be",
@@ -84,7 +126,7 @@
       "translated_summary": "The White House event was held to support an initiative on artificial intelligence led by First Lady Melania Trump.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "d3ee8b8d2682",
@@ -98,49 +140,7 @@
       "translated_summary": "OpenAI announced it will offer generative AI certifications as businesses increasingly seek workers with artificial intelligence skills.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
-    },
-    {
-      "id": "5f4810a93b63",
-      "title": "OpenAI Taps Broadcom (AVGO) to Build Its Own AI Chips",
-      "summary": "Artificial intelligence (AI) giant OpenAI is going all-in on producing and deploying its own AI chips next year, with support from semiconductor...",
-      "source": "Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/openai-taps-broadcom-avgo-to-build-its-own-ai-chips-1035117692",
-      "publishedAt": "2025-09-05T04:46:25Z",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-438.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "translated_title": "OpenAI Taps Broadcom (AVGO) to Build Its Own AI Chips",
-      "translated_summary": "Artificial intelligence (AI) giant OpenAI is going all-in on producing and deploying its own AI chips next year, with support from semiconductor...",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "6小时前"
-    },
-    {
-      "id": "a295ea8e6c05",
-      "title": "OpenAI To Mass-Produce 1st Proprietary AI Chip With Broadcom, Secures $10 Billion Deal: Report",
-      "summary": "OpenAI is set to begin mass production of its first proprietary artificial intelligence chip next year through a partnership with Broadcom.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/equities/25/09/47514481/openai-to-mass-produce-1st-proprietary-ai-chip-with-broadcom-secures-10-billion-deal-report",
-      "publishedAt": "2025-09-05T03:45:35Z",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/09/04/Brooklyn--Ny--Usa--11-22-20-Sam-Altman-A.jpeg?width=1200&height=800&fit=crop",
-      "translated_title": "OpenAI To Mass-Produce 1st Proprietary AI Chip With Broadcom, Secures $10 Billion Deal: Report",
-      "translated_summary": "OpenAI is set to begin mass production of its first proprietary artificial intelligence chip next year through a partnership with Broadcom.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
-    },
-    {
-      "id": "30acfb06b896",
-      "title": "AI Investment Frenzy Leaves Tokyo Electron a Market Laggard",
-      "summary": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-05/ai-investment-frenzy-leaves-tokyo-electron-a-market-laggard",
-      "publishedAt": "2025-09-05T01:13:33Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVTPNcDPwtT0/v1/1200x800.jpg",
-      "translated_title": "AI Investment Frenzy Leaves Tokyo Electron a Market Laggard",
-      "translated_summary": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "10小时前"
     }
   ]
 }
