@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-09-04T23:19:44.330049",
+  "last_updated": "2025-09-05T01:46:01.546592",
   "total_count": 10,
   "articles": [
+    {
+      "id": "b6fd065f6be6",
+      "title": "Military AI revolution heightens competition for defence tech contracts: Peter Apps",
+      "summary": "In London’s Shoreditch district, long home to UK tech start-ups, a French artificial intelligence firm is crunching data that would have allowed Ukrainian commanders to more quickly counter Russia’s 2022 full-scale invasion.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/military-ai-revolution-heightens-competition-defence-tech-contracts-peter-apps-2025-09-05/",
+      "publishedAt": "2025-09-05T01:05:01Z",
+      "image": "https://www.reuters.com/resizer/v2/EVQXDMACTRHTTI6K3KEPSEIJRI.JPG?auth=df9caf847393894e76ba38dd5d599955e47466687808e410d3f105d362403482&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Military AI revolution heightens competition for defence tech contracts: Peter Apps",
+      "translated_summary": "In London’s Shoreditch district, long home to UK tech start-ups, a French artificial intelligence firm is crunching data that would have allowed Ukrainian commanders to more quickly counter Russia’s 2022 full-scale invasion.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "41分钟前"
+    },
+    {
+      "id": "20bcebda3db8",
+      "title": "OpenAI set to start mass production of its own AI chips with Broadcom in 2026, FT reports",
+      "summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the partnership.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/openai-set-start-mass-production-its-own-ai-chips-with-broadcom-2026-ft-reports-2025-09-05/",
+      "publishedAt": "2025-09-05T00:39:25Z",
+      "image": "https://www.reuters.com/resizer/v2/66SGU2BJWBM4HN6B6XPAZW4KAM.jpg?auth=8981667d959d0972e1d663efbd3fb577b36d3ac1e001d0635c80a73b3fb1c9f7&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "OpenAI set to start mass production of its own AI chips with Broadcom in 2026, FT reports",
+      "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the partnership.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
+    {
+      "id": "4220fd4b6227",
+      "title": "OpenAI set to start mass production of its own AI chips with Broadcom, FT reports",
+      "summary": "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia , the Financial Times reported on Thursday.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/openai-set-start-mass-production-its-own-ai-chips-with-broadcom-ft-reports-2025-09-05/",
+      "publishedAt": "2025-09-05T00:39:25Z",
+      "image": "https://www.reuters.com/resizer/v2/66SGU2BJWBM4HN6B6XPAZW4KAM.jpg?auth=8981667d959d0972e1d663efbd3fb577b36d3ac1e001d0635c80a73b3fb1c9f7&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "OpenAI set to start mass production of its own AI chips with Broadcom, FT reports",
+      "translated_summary": "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia , the Financial Times reported on Thursday.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "1小时前"
+    },
     {
       "id": "a93ead243ea6",
       "title": "Big tech signs on to White House plan for AI education in US schools",
@@ -14,7 +56,21 @@
       "translated_summary": "The White House hosted several tech and AI leaders at an event today centered on teaching artificial intelligence in US schools.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "4小时前"
+    },
+    {
+      "id": "13337796c4cb",
+      "title": "Broadcom sees strong AI growth for fiscal 2026 on new customer addition",
+      "summary": "Broadcom expects artificial intelligence revenue growth for fiscal 2026 to \"improve significantly\", after securing more than $10 billion in AI infrastructure orders from a new customer, CEO Hock Tan said on Thursday.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/broadcom-sees-strong-ai-growth-fiscal-2026-new-customer-addition-2025-09-04/",
+      "publishedAt": "2025-09-04T20:35:19Z",
+      "image": "https://www.reuters.com/resizer/v2/ICVKNMMIIRJNFCZZZVO5I4HKMI.jpg?auth=c4b6b8f2e08e3eedf5b3ba92be0892b4033b30cc6b2de9a90b3e5fe61ddeb197&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Broadcom sees strong AI growth for fiscal 2026 on new customer addition",
+      "translated_summary": "Broadcom expects artificial intelligence revenue growth for fiscal 2026 to \"improve significantly\", after securing more than $10 billion in AI infrastructure orders from a new customer, CEO Hock Tan said on Thursday.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "5小时前"
     },
     {
       "id": "c827a5b3f3b8",
@@ -28,7 +84,7 @@
       "translated_summary": "The lawsuit against Midjourney was filed as a growing contingent of Hollywood steps into the fight over generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "f80265a1b170",
@@ -42,7 +98,7 @@
       "translated_summary": "The Trump administration is halting funding for a $20 million artificial intelligence (AI) institute designed to improve weather forecasting, a move that could sever a pipeline of scientists from receiving training while also hampering the country’s ability to assess the impacts of hurricanes and other weather disasters.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "3小时前"
+      "time": "5小时前"
     },
     {
       "id": "1aacb85e5e94",
@@ -56,7 +112,7 @@
       "translated_summary": "Bret Taylor's artificial intelligence startup Sierra has closed a $350 million funding round",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "4小时前"
+      "time": "6小时前"
     },
     {
       "id": "4b1df21ca09f",
@@ -70,7 +126,7 @@
       "translated_summary": "OpenAI plans to launch a new AI-powered jobs platform next year to help match employers with candidates who have artificial intelligence skills in a bid to accelerate the technology’s deployment across businesses and government agencies.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "a1a34bbd3583",
@@ -84,62 +140,6 @@
       "translated_summary": "First lady Melania Trump made rare public remarks on Thursday, calling on private and public sector leaders to prepare children for the growth of artificial intelligence, at a Thursday event at the White House.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "3f64ff0a3972",
-      "title": "Mark Rylance Joins Cast Of Luca Guadagnino's AI Movie Artificial",
-      "summary": "Mark Rylance, the Oscar-winning actor for Bridge of Spies, is joining the cast of Luca Guadagnino's Artificial, also starring Andrew Garfield.",
-      "source": "Screen Rant",
-      "url": "https://screenrant.com/artificial-luca-guadagnino-mark-rylance-cast/",
-      "publishedAt": "2025-09-04T17:54:48Z",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/mark-rylance-at-bones-and-all-premiere.jpg?w=1600&h=900&fit=crop",
-      "translated_title": "Mark Rylance Joins Cast Of Luca Guadagnino's AI Movie Artificial",
-      "translated_summary": "Mark Rylance, the Oscar-winning actor for Bridge of Spies, is joining the cast of Luca Guadagnino's Artificial, also starring Andrew Garfield.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "5小时前"
-    },
-    {
-      "id": "376f3aef533b",
-      "title": "Busy brides are saying 'AI do!' with controversial vow generators",
-      "summary": "Delegating writing duties to artificial intelligence is the ultramodern, controversial way she and approximately 25% of today’s sweeties are saving time, stress and money on their nuptials. And Jen Glantz, founder of Bridesmaid For Hire, a virtual wedding planning hub with over 100 AI tools, is fast-tracking folks into forever with just a few quick clicks.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2025/09/04/lifestyle/busy-brides-are-saying-ai-do-with-controversial-vow-generators/",
-      "publishedAt": "2025-09-04T17:09:20Z",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/09/110617271.jpg?quality=75&strip=all&w=1024",
-      "translated_title": "Busy brides are saying 'AI do!' with controversial vow generators",
-      "translated_summary": "Delegating writing duties to artificial intelligence is the ultramodern, controversial way she and approximately 25% of today’s sweeties are saving time, stress and money on their nuptials. And Jen Glantz, founder of Bridesmaid For Hire, a virtual wedding planning hub with over 100 AI tools, is fast-tracking folks into forever with just a few quick clicks.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "484c1aa1654d",
-      "title": "AI boom can deliver $100 billion-plus deal, says Barclays banker Woeber",
-      "summary": "The arms race in artificial intelligence has increased the likelihood of a $100 billion-plus M&A deal by this time next year, according to the top dealmaker at Barclays Plc.",
-      "source": "The Mercury News",
-      "url": "https://www.mercurynews.com/2025/09/04/ai-boom-can-deliver-100-billion-plus-deal-says-barclays-banker-woeber/",
-      "publishedAt": "2025-09-04T16:17:16Z",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2025/07/SJM-L-HYDRODATA-07XX-5.jpg?w=1024&h=683",
-      "translated_title": "AI boom can deliver $100 billion-plus deal, says Barclays banker Woeber",
-      "translated_summary": "The arms race in artificial intelligence has increased the likelihood of a $100 billion-plus M&A deal by this time next year, according to the top dealmaker at Barclays Plc.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
-    },
-    {
-      "id": "782d5722e801",
-      "title": "Google CEO, major tech leaders join first lady Melania Trump at White House AI meeting",
-      "summary": "First Lady Melania Trump is hosting an artificial intelligence meeting at the White House Thursday afternoon with top industry leaders including Google CEO Sundar Pichai.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/google-ceo-major-tech-leaders-join-first-lady-melania-trump-white-house-ai-meeting",
-      "publishedAt": "2025-09-04T16:16:19Z",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/3a86342c-melania-trump.jpg",
-      "translated_title": "Google CEO, major tech leaders join first lady Melania Trump at White House AI meeting",
-      "translated_summary": "First Lady Melania Trump is hosting an artificial intelligence meeting at the White House Thursday afternoon with top industry leaders including Google CEO Sundar Pichai.",
-      "category": "公司动态",
-      "category_icon": "🏢",
       "time": "7小时前"
     }
   ]
