@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-05T06:33:11.176260",
+  "last_updated": "2025-09-05T07:21:32.785768",
   "total_count": 10,
   "articles": [
+    {
+      "id": "4239744965be",
+      "title": "Donald Trump Inviting Bill Gates to White House Sparks MAGA Fury",
+      "summary": "The White House event was held to support an initiative on artificial intelligence led by First Lady Melania Trump.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/donald-trump-inviting-bill-gates-white-house-dinner-sparks-maga-fury-2124905",
+      "publishedAt": "2025-09-05T06:44:31Z",
+      "image": "https://d.newsweek.com/en/full/2716369/bill-gates.jpg",
+      "translated_title": "Donald Trump Inviting Bill Gates to White House Sparks MAGA Fury",
+      "translated_summary": "The White House event was held to support an initiative on artificial intelligence led by First Lady Melania Trump.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "37分钟前"
+    },
     {
       "id": "d3ee8b8d2682",
       "title": "OpenAI To Certify 10 Million Americans In Generative AI By 2030, Partnering With Walmart To Train The Next Wave Of AI-Savvy Workers",
@@ -14,7 +28,7 @@
       "translated_summary": "OpenAI announced it will offer generative AI certifications as businesses increasingly seek workers with artificial intelligence skills.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "22分钟前"
+      "time": "1小时前"
     },
     {
       "id": "a295ea8e6c05",
@@ -28,7 +42,7 @@
       "translated_summary": "OpenAI is set to begin mass production of its first proprietary artificial intelligence chip next year through a partnership with Broadcom.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "30acfb06b896",
@@ -42,7 +56,7 @@
       "translated_summary": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "b6fd065f6be6",
@@ -56,7 +70,7 @@
       "translated_summary": "In London’s Shoreditch district, long home to UK tech start-ups, a French artificial intelligence firm is crunching data that would have allowed Ukrainian commanders to more quickly counter Russia’s 2022 full-scale invasion.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "20bcebda3db8",
@@ -70,7 +84,7 @@
       "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the partnership.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "3ef91ae7710a",
@@ -84,7 +98,7 @@
       "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the matter.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "4220fd4b6227",
@@ -98,7 +112,7 @@
       "translated_summary": "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia , the Financial Times reported on Thursday.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "a93ead243ea6",
@@ -124,20 +138,6 @@
       "image": "https://www.reuters.com/resizer/v2/ICVKNMMIIRJNFCZZZVO5I4HKMI.jpg?auth=c4b6b8f2e08e3eedf5b3ba92be0892b4033b30cc6b2de9a90b3e5fe61ddeb197&height=1005&width=1920&quality=80&smart=true",
       "translated_title": "Broadcom sees strong AI growth for fiscal 2026 on new customer addition",
       "translated_summary": "Broadcom expects artificial intelligence revenue growth for fiscal 2026 to \"improve significantly\", after securing more than $10 billion in AI infrastructure orders from a new customer, CEO Hock Tan said on Thursday.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "c827a5b3f3b8",
-      "title": "Warner Bros. Discovery Sues Midjourney for Copyright Infringement",
-      "summary": "The lawsuit against Midjourney was filed as a growing contingent of Hollywood steps into the fight over generative artificial intelligence.",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-sues-ai-company-copyright-infringement-1236361610/",
-      "publishedAt": "2025-09-04T20:02:29Z",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/Blank-2000-x-1127.jpg?w=1440&h=810&crop=1",
-      "translated_title": "Warner Bros. Discovery Sues Midjourney for Copyright Infringement",
-      "translated_summary": "The lawsuit against Midjourney was filed as a growing contingent of Hollywood steps into the fight over generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "10小时前"
