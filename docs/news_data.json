@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-05T22:20:13.937789",
+  "last_updated": "2025-09-05T23:19:36.948859",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c78b1d076b30",
+      "title": "FDA will convene Digital Health Advisory Committee in November",
+      "summary": "In the past, DHAC meetings have focused on artificial intelligence and medical devices.",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2025/09/05/fda-digital-health-advisory-committee-november-meeting/",
+      "publishedAt": "2025-09-05T22:17:09Z",
+      "image": "https://www.statnews.com/wp-content/uploads/2025/09/GettyImages-1227710420-1024x576.jpg",
+      "translated_title": "FDA will convene Digital Health Advisory Committee in November",
+      "translated_summary": "In the past, DHAC meetings have focused on artificial intelligence and medical devices.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "1小时前"
+    },
     {
       "id": "b57a971b3acc",
       "title": "Apple sued by authors over use of books in AI training",
@@ -14,7 +28,7 @@
       "translated_summary": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "14分钟前"
+      "time": "1小时前"
     },
     {
       "id": "2db3078bcb1b",
@@ -28,7 +42,7 @@
       "translated_summary": "The first lady said Thursday during a White House event that \"it is our duty to treat AI as we would our own children.\"",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "104e5c938ea4",
@@ -42,7 +56,7 @@
       "translated_summary": "The artificial intelligence company Anthropic has agreed to pay authors $3,000 per book in a landmark settlement over pirated chatbot training material.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "b51b0d9ebfcf",
@@ -56,7 +70,7 @@
       "translated_summary": "The federal government will soon start investigating the impact artificial intelligence chatbots and other products have on children’s mental health and how tec",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "9c862b546285",
@@ -70,7 +84,7 @@
       "translated_summary": "The federal government will soon start investigating the impact artificial intelligence chatbots and other products have on children’s mental health and how tec",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "78ec4b5bbc05",
@@ -84,7 +98,7 @@
       "translated_summary": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude without permission.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "181fc4b2fa29",
@@ -98,7 +112,7 @@
       "translated_summary": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude without permission.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "ea7cd50c3f63",
@@ -112,7 +126,7 @@
       "translated_summary": "By Reuters (CNN) — Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude without permission. Anthropic and the plaintiffs in a",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "7b37073f652a",
@@ -126,21 +140,7 @@
       "translated_summary": "Anthropic told a San Francisco federal judge on Friday that it has agreed to pay $1.5 billion to settle a class-action lawsuit from a group of authors who accused the artificial intelligence company of using their books to train its AI chatbot Claude without permission.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "2小时前"
-    },
-    {
-      "id": "7f67fc4af72e",
-      "title": "AI company Anthropic agrees to pay $1.5 billion to settle lawsuit from authors",
-      "summary": "Anthropic, a major artificial intelligence company, agreed to pay at least $1.5 billion to settle a copyright infringement lawsuit filed by a group of authors who alleged the platform had illegally used pirated copies of their books to train large-language models, according to court documents.“If approved, this landmark settlement will be the largest publicly reported copyright recovery in history, larger than any other copyright class action settlement or any individual copyright case litigated to final judgment,” said Justin Nelson, a lawyer for the authors",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-settlement-lawsuit-authors-rcna229422",
-      "publishedAt": "2025-09-05T19:55:09Z",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250826-Anthropic-ch-1533-2ea8e0.jpg",
-      "translated_title": "AI company Anthropic agrees to pay $1.5 billion to settle lawsuit from authors",
-      "translated_summary": "Anthropic, a major artificial intelligence company, agreed to pay at least $1.5 billion to settle a copyright infringement lawsuit filed by a group of authors who alleged the platform had illegally used pirated copies of their books to train large-language models, according to court documents.“If approved, this landmark settlement will be the largest publicly reported copyright recovery in history, larger than any other copyright class action settlement or any individual copyright case litigated to final judgment,” said Justin Nelson, a lawyer for the authors",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     }
   ]
 }
