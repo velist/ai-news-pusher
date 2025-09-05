@@ -1,7 +1,49 @@
 {
-  "last_updated": "2025-09-05T10:23:41.265332",
+  "last_updated": "2025-09-05T11:17:51.571770",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c5ade773fb71",
+      "title": "Power politics: Rising electricity bills are central to this year’s elections",
+      "summary": "America’s aging power grid has faced strain for years, exacerbated by severe weather events, an explosion of data centers and the demand created by artificial intelligence.",
+      "source": "Cable News Network",
+      "url": "https://edition.cnn.com/2025/09/05/politics/electricity-bills-politics-virginia-new-jersey",
+      "publishedAt": "2025-09-05T11:00:06Z",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2231894704.jpg?c=16x9&q=w_800,c_fill",
+      "translated_title": "Power politics: Rising electricity bills are central to this year’s elections",
+      "translated_summary": "America’s aging power grid has faced strain for years, exacerbated by severe weather events, an explosion of data centers and the demand created by artificial intelligence.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "17分钟前"
+    },
+    {
+      "id": "581ee3f99dab",
+      "title": "Tesla Shareholders to Vote on xAI Investment in November",
+      "summary": "Tesla Inc. shareholders will vote in November to decide if the electric carmaker should invest in Elon Musk’s closely held artificial intelligence startup, xAI.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-05/tesla-shareholders-to-vote-on-xai-investment-in-november",
+      "publishedAt": "2025-09-05T10:46:14Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFvTEqllPsdo/v1/1200x821.jpg",
+      "translated_title": "Tesla Shareholders to Vote on xAI Investment in November",
+      "translated_summary": "Tesla Inc. shareholders will vote in November to decide if the electric carmaker should invest in Elon Musk’s closely held artificial intelligence startup, xAI.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "31分钟前"
+    },
+    {
+      "id": "95b8d9fc5016",
+      "title": "Tesla floats new pay plan for Musk that would expand his voting power",
+      "summary": "Tesla will also ask shareholders to vote on whether the automaker should invest in Musk's artificial intelligence company, xAI.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/09/05/tesla-musk-pay.html",
+      "publishedAt": "2025-09-05T10:28:03Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108168277-17518962972025-05-13t150806z_1042401118_rc23heap82k4_rtrmadp_0_usa-trump-gulf-investment.jpeg?v=1751896328&w=1920&h=1080",
+      "translated_title": "Tesla floats new pay plan for Musk that would expand his voting power",
+      "translated_summary": "Tesla will also ask shareholders to vote on whether the automaker should invest in Musk's artificial intelligence company, xAI.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "49分钟前"
+    },
     {
       "id": "c9b1d36a39d6",
       "title": "Broadcom shares rally on new AI deal, CEO's assurance",
@@ -14,7 +56,21 @@
       "translated_summary": "Broadcom shares jumped 7% in premarket trading on Friday, as an upbeat outlook for artificial intelligence revenue and CEO Hock Tan's pledge to stay on for five more years reassured investors betting on the chipmaker's custom silicon strategy.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
+    },
+    {
+      "id": "8d787c2e28d5",
+      "title": "AI needs a warning label before it’s too late",
+      "summary": "Artificial intelligence needs a warning label, much like the FDA's black box label, to alert parents of the dangers of this technology.",
+      "source": "Washington Examiner",
+      "url": "https://www.washingtonexaminer.com/restoring-america/community-family/3793207/artificial-intelligence-warning-label-needed/",
+      "publishedAt": "2025-09-05T09:00:00Z",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/AP25028395434149.webp",
+      "translated_title": "AI needs a warning label before it’s too late",
+      "translated_summary": "Artificial intelligence needs a warning label, much like the FDA's black box label, to alert parents of the dangers of this technology.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "2小时前"
     },
     {
       "id": "4239744965be",
@@ -28,7 +84,7 @@
       "translated_summary": "The White House event was held to support an initiative on artificial intelligence led by First Lady Melania Trump.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "d3ee8b8d2682",
@@ -42,7 +98,21 @@
       "translated_summary": "OpenAI announced it will offer generative AI certifications as businesses increasingly seek workers with artificial intelligence skills.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
+    },
+    {
+      "id": "5f4810a93b63",
+      "title": "OpenAI Taps Broadcom (AVGO) to Build Its Own AI Chips",
+      "summary": "Artificial intelligence (AI) giant OpenAI is going all-in on producing and deploying its own AI chips next year, with support from semiconductor...",
+      "source": "Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/openai-taps-broadcom-avgo-to-build-its-own-ai-chips-1035117692",
+      "publishedAt": "2025-09-05T04:46:25Z",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/09/image-438.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "translated_title": "OpenAI Taps Broadcom (AVGO) to Build Its Own AI Chips",
+      "translated_summary": "Artificial intelligence (AI) giant OpenAI is going all-in on producing and deploying its own AI chips next year, with support from semiconductor...",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "6小时前"
     },
     {
       "id": "a295ea8e6c05",
@@ -56,7 +126,7 @@
       "translated_summary": "OpenAI is set to begin mass production of its first proprietary artificial intelligence chip next year through a partnership with Broadcom.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "30acfb06b896",
@@ -70,77 +140,7 @@
       "translated_summary": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "9小时前"
-    },
-    {
-      "id": "b6fd065f6be6",
-      "title": "Military AI revolution heightens competition for defence tech contracts: Peter Apps",
-      "summary": "In London’s Shoreditch district, long home to UK tech start-ups, a French artificial intelligence firm is crunching data that would have allowed Ukrainian commanders to more quickly counter Russia’s 2022 full-scale invasion.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/military-ai-revolution-heightens-competition-defence-tech-contracts-peter-apps-2025-09-05/",
-      "publishedAt": "2025-09-05T01:05:01Z",
-      "image": "https://www.reuters.com/resizer/v2/EVQXDMACTRHTTI6K3KEPSEIJRI.JPG?auth=df9caf847393894e76ba38dd5d599955e47466687808e410d3f105d362403482&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Military AI revolution heightens competition for defence tech contracts: Peter Apps",
-      "translated_summary": "In London’s Shoreditch district, long home to UK tech start-ups, a French artificial intelligence firm is crunching data that would have allowed Ukrainian commanders to more quickly counter Russia’s 2022 full-scale invasion.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "9小时前"
-    },
-    {
-      "id": "20bcebda3db8",
-      "title": "OpenAI set to start mass production of its own AI chips with Broadcom in 2026, FT reports",
-      "summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the partnership.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/openai-set-start-mass-production-its-own-ai-chips-with-broadcom-2026-ft-reports-2025-09-05/",
-      "publishedAt": "2025-09-05T00:39:25Z",
-      "image": "https://www.reuters.com/resizer/v2/66SGU2BJWBM4HN6B6XPAZW4KAM.jpg?auth=8981667d959d0972e1d663efbd3fb577b36d3ac1e001d0635c80a73b3fb1c9f7&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "OpenAI set to start mass production of its own AI chips with Broadcom in 2026, FT reports",
-      "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the partnership.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "9小时前"
-    },
-    {
-      "id": "3ef91ae7710a",
-      "title": "OpenAI to launch its first AI chip in 2026 with Broadcom, FT reports",
-      "summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the matter.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/openai-launch-its-first-ai-chip-2026-with-broadcom-ft-reports-2025-09-05/",
-      "publishedAt": "2025-09-05T00:39:25Z",
-      "image": "https://www.reuters.com/resizer/v2/66SGU2BJWBM4HN6B6XPAZW4KAM.jpg?auth=8981667d959d0972e1d663efbd3fb577b36d3ac1e001d0635c80a73b3fb1c9f7&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "OpenAI to launch its first AI chip in 2026 with Broadcom, FT reports",
-      "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the matter.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "9小时前"
-    },
-    {
-      "id": "4220fd4b6227",
-      "title": "OpenAI set to start mass production of its own AI chips with Broadcom, FT reports",
-      "summary": "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia , the Financial Times reported on Thursday.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/openai-set-start-mass-production-its-own-ai-chips-with-broadcom-ft-reports-2025-09-05/",
-      "publishedAt": "2025-09-05T00:39:25Z",
-      "image": "https://www.reuters.com/resizer/v2/66SGU2BJWBM4HN6B6XPAZW4KAM.jpg?auth=8981667d959d0972e1d663efbd3fb577b36d3ac1e001d0635c80a73b3fb1c9f7&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "OpenAI set to start mass production of its own AI chips with Broadcom, FT reports",
-      "translated_summary": "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia , the Financial Times reported on Thursday.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "9小时前"
-    },
-    {
-      "id": "a93ead243ea6",
-      "title": "Big tech signs on to White House plan for AI education in US schools",
-      "summary": "The White House hosted several tech and AI leaders at an event today centered on teaching artificial intelligence in US schools.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/ai/big-tech-signs-on-to-white-house-plan-for-ai-education-in-us-schools-212646999.html",
-      "publishedAt": "2025-09-04T21:26:46Z",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Ic.TwPSu9NOb8.mrfdWcWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/b8f99ff0-89d2-11f0-a7cd-7c5bfcd7972a",
-      "translated_title": "Big tech signs on to White House plan for AI education in US schools",
-      "translated_summary": "The White House hosted several tech and AI leaders at an event today centered on teaching artificial intelligence in US schools.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "10小时前"
     }
   ]
 }
