@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-05T03:01:03.427685",
+  "last_updated": "2025-09-05T04:27:01.170564",
   "total_count": 10,
   "articles": [
+    {
+      "id": "a295ea8e6c05",
+      "title": "OpenAI To Mass-Produce 1st Proprietary AI Chip With Broadcom, Secures $10 Billion Deal: Report",
+      "summary": "OpenAI is set to begin mass production of its first proprietary artificial intelligence chip next year through a partnership with Broadcom.",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/25/09/47514481/openai-to-mass-produce-1st-proprietary-ai-chip-with-broadcom-secures-10-billion-deal-report",
+      "publishedAt": "2025-09-05T03:45:35Z",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/04/Brooklyn--Ny--Usa--11-22-20-Sam-Altman-A.jpeg?width=1200&height=800&fit=crop",
+      "translated_title": "OpenAI To Mass-Produce 1st Proprietary AI Chip With Broadcom, Secures $10 Billion Deal: Report",
+      "translated_summary": "OpenAI is set to begin mass production of its first proprietary artificial intelligence chip next year through a partnership with Broadcom.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "41分钟前"
+    },
     {
       "id": "30acfb06b896",
       "title": "AI Investment Frenzy Leaves Tokyo Electron a Market Laggard",
@@ -14,7 +28,7 @@
       "translated_summary": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "b6fd065f6be6",
@@ -28,7 +42,7 @@
       "translated_summary": "In London’s Shoreditch district, long home to UK tech start-ups, a French artificial intelligence firm is crunching data that would have allowed Ukrainian commanders to more quickly counter Russia’s 2022 full-scale invasion.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "3小时前"
     },
     {
       "id": "20bcebda3db8",
@@ -42,7 +56,7 @@
       "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the partnership.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "3ef91ae7710a",
@@ -56,7 +70,7 @@
       "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the matter.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "4220fd4b6227",
@@ -70,7 +84,7 @@
       "translated_summary": "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia , the Financial Times reported on Thursday.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "a93ead243ea6",
@@ -84,7 +98,7 @@
       "translated_summary": "The White House hosted several tech and AI leaders at an event today centered on teaching artificial intelligence in US schools.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "13337796c4cb",
@@ -98,7 +112,7 @@
       "translated_summary": "Broadcom expects artificial intelligence revenue growth for fiscal 2026 to \"improve significantly\", after securing more than $10 billion in AI infrastructure orders from a new customer, CEO Hock Tan said on Thursday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "c827a5b3f3b8",
@@ -112,7 +126,7 @@
       "translated_summary": "The lawsuit against Midjourney was filed as a growing contingent of Hollywood steps into the fight over generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "6小时前"
+      "time": "8小时前"
     },
     {
       "id": "f80265a1b170",
@@ -124,20 +138,6 @@
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250807-national-weather-service-vl-1257p-f3ae03.jpg",
       "translated_title": "White House cuts to science funding threaten AI weather forecasting institute",
       "translated_summary": "The Trump administration is halting funding for a $20 million artificial intelligence (AI) institute designed to improve weather forecasting, a move that could sever a pipeline of scientists from receiving training while also hampering the country’s ability to assess the impacts of hurricanes and other weather disasters.",
-      "category": "投资并购",
-      "category_icon": "💰",
-      "time": "7小时前"
-    },
-    {
-      "id": "1aacb85e5e94",
-      "title": "Bret Taylor's Sierra is the latest $10 billion AI startup",
-      "summary": "Bret Taylor's artificial intelligence startup Sierra has closed a $350 million funding round",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/09/04/bret-taylor-sierra-ai-startup-salesforce-openai.html",
-      "publishedAt": "2025-09-04T18:49:02Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108169233-1752010997642-Screenshot_2025-07-08_at_33111_PM.png?v=1752077334&w=1920&h=1080",
-      "translated_title": "Bret Taylor's Sierra is the latest $10 billion AI startup",
-      "translated_summary": "Bret Taylor's artificial intelligence startup Sierra has closed a $350 million funding round",
       "category": "投资并购",
       "category_icon": "💰",
       "time": "8小时前"
