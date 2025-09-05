@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-05T01:46:01.546592",
+  "last_updated": "2025-09-05T03:01:03.427685",
   "total_count": 10,
   "articles": [
+    {
+      "id": "30acfb06b896",
+      "title": "AI Investment Frenzy Leaves Tokyo Electron a Market Laggard",
+      "summary": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-05/ai-investment-frenzy-leaves-tokyo-electron-a-market-laggard",
+      "publishedAt": "2025-09-05T01:13:33Z",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVTPNcDPwtT0/v1/1200x800.jpg",
+      "translated_title": "AI Investment Frenzy Leaves Tokyo Electron a Market Laggard",
+      "translated_summary": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.",
+      "category": "投资并购",
+      "category_icon": "💰",
+      "time": "1小时前"
+    },
     {
       "id": "b6fd065f6be6",
       "title": "Military AI revolution heightens competition for defence tech contracts: Peter Apps",
@@ -14,7 +28,7 @@
       "translated_summary": "In London’s Shoreditch district, long home to UK tech start-ups, a French artificial intelligence firm is crunching data that would have allowed Ukrainian commanders to more quickly counter Russia’s 2022 full-scale invasion.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "41分钟前"
+      "time": "1小时前"
     },
     {
       "id": "20bcebda3db8",
@@ -28,7 +42,21 @@
       "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the partnership.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
+    },
+    {
+      "id": "3ef91ae7710a",
+      "title": "OpenAI to launch its first AI chip in 2026 with Broadcom, FT reports",
+      "summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the matter.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/openai-launch-its-first-ai-chip-2026-with-broadcom-ft-reports-2025-09-05/",
+      "publishedAt": "2025-09-05T00:39:25Z",
+      "image": "https://www.reuters.com/resizer/v2/66SGU2BJWBM4HN6B6XPAZW4KAM.jpg?auth=8981667d959d0972e1d663efbd3fb577b36d3ac1e001d0635c80a73b3fb1c9f7&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "OpenAI to launch its first AI chip in 2026 with Broadcom, FT reports",
+      "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the matter.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "2小时前"
     },
     {
       "id": "4220fd4b6227",
@@ -42,7 +70,7 @@
       "translated_summary": "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia , the Financial Times reported on Thursday.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "a93ead243ea6",
@@ -56,7 +84,7 @@
       "translated_summary": "The White House hosted several tech and AI leaders at an event today centered on teaching artificial intelligence in US schools.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "13337796c4cb",
@@ -70,7 +98,7 @@
       "translated_summary": "Broadcom expects artificial intelligence revenue growth for fiscal 2026 to \"improve significantly\", after securing more than $10 billion in AI infrastructure orders from a new customer, CEO Hock Tan said on Thursday.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "c827a5b3f3b8",
@@ -84,7 +112,7 @@
       "translated_summary": "The lawsuit against Midjourney was filed as a growing contingent of Hollywood steps into the fight over generative artificial intelligence.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "f80265a1b170",
@@ -98,7 +126,7 @@
       "translated_summary": "The Trump administration is halting funding for a $20 million artificial intelligence (AI) institute designed to improve weather forecasting, a move that could sever a pipeline of scientists from receiving training while also hampering the country’s ability to assess the impacts of hurricanes and other weather disasters.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "5小时前"
+      "time": "7小时前"
     },
     {
       "id": "1aacb85e5e94",
@@ -112,35 +140,7 @@
       "translated_summary": "Bret Taylor's artificial intelligence startup Sierra has closed a $350 million funding round",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "6小时前"
-    },
-    {
-      "id": "4b1df21ca09f",
-      "title": "OpenAI Plans Jobs Platform, Certification Program for AI Roles",
-      "summary": "OpenAI plans to launch a new AI-powered jobs platform next year to help match employers with candidates who have artificial intelligence skills in a bid to accelerate the technology’s deployment across businesses and government agencies.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-04/openai-unveils-jobs-platform-certification-program-for-ai-roles",
-      "publishedAt": "2025-09-04T18:19:08Z",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUA4aClxCM80/v1/1200x800.jpg",
-      "translated_title": "OpenAI Plans Jobs Platform, Certification Program for AI Roles",
-      "translated_summary": "OpenAI plans to launch a new AI-powered jobs platform next year to help match employers with candidates who have artificial intelligence skills in a bid to accelerate the technology’s deployment across businesses and government agencies.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "7小时前"
-    },
-    {
-      "id": "a1a34bbd3583",
-      "title": "Melania Trump reemerges to highlight responsible AI: ‘The robots are here’",
-      "summary": "First lady Melania Trump made rare public remarks on Thursday, calling on private and public sector leaders to prepare children for the growth of artificial intelligence, at a Thursday event at the White House.",
-      "source": "Cable News Network",
-      "url": "https://edition.cnn.com/2025/09/04/politics/melania-trump-white-house-appearance-ai",
-      "publishedAt": "2025-09-04T18:02:01Z",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2025-09-04t173418z-1338221866-rc25lgal3nde-rtrmadp-3-usa-trump-melania.jpg?c=16x9&q=w_800,c_fill",
-      "translated_title": "Melania Trump reemerges to highlight responsible AI: ‘The robots are here’",
-      "translated_summary": "First lady Melania Trump made rare public remarks on Thursday, calling on private and public sector leaders to prepare children for the growth of artificial intelligence, at a Thursday event at the White House.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     }
   ]
 }
