@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-05T08:29:13.871081",
+  "last_updated": "2025-09-05T09:23:57.905138",
   "total_count": 10,
   "articles": [
+    {
+      "id": "c9b1d36a39d6",
+      "title": "Broadcom shares rally on new AI deal, CEO's assurance",
+      "summary": "Broadcom shares jumped 7% in premarket trading on Friday, as an upbeat outlook for artificial intelligence revenue and CEO Hock Tan's pledge to stay on for five more years reassured investors betting on the chipmaker's custom silicon strategy.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/broadcom-shares-rally-new-ai-deal-ceos-assurance-2025-09-05/",
+      "publishedAt": "2025-09-05T09:05:24Z",
+      "image": "https://www.reuters.com/resizer/v2/KUJ7W5FOW5NEPOIITDB3JG4YHY.jpg?auth=a03aa85b49f7a69a9390381a7d803d12ccdd49ff50124681b242a7f7f012467a&height=1005&width=1920&quality=80&smart=true",
+      "translated_title": "Broadcom shares rally on new AI deal, CEO's assurance",
+      "translated_summary": "Broadcom shares jumped 7% in premarket trading on Friday, as an upbeat outlook for artificial intelligence revenue and CEO Hock Tan's pledge to stay on for five more years reassured investors betting on the chipmaker's custom silicon strategy.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "18分钟前"
+    },
     {
       "id": "4239744965be",
       "title": "Donald Trump Inviting Bill Gates to White House Sparks MAGA Fury",
@@ -14,7 +28,7 @@
       "translated_summary": "The White House event was held to support an initiative on artificial intelligence led by First Lady Melania Trump.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "d3ee8b8d2682",
@@ -28,7 +42,7 @@
       "translated_summary": "OpenAI announced it will offer generative AI certifications as businesses increasingly seek workers with artificial intelligence skills.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "a295ea8e6c05",
@@ -42,7 +56,7 @@
       "translated_summary": "OpenAI is set to begin mass production of its first proprietary artificial intelligence chip next year through a partnership with Broadcom.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "30acfb06b896",
@@ -56,7 +70,7 @@
       "translated_summary": "The global artificial intelligence investment frenzy is fast rewriting the fortunes of companies in the semiconductor industry. One notable laggard is Tokyo Electron Ltd.",
       "category": "投资并购",
       "category_icon": "💰",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "b6fd065f6be6",
@@ -70,7 +84,7 @@
       "translated_summary": "In London’s Shoreditch district, long home to UK tech start-ups, a French artificial intelligence firm is crunching data that would have allowed Ukrainian commanders to more quickly counter Russia’s 2022 full-scale invasion.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "20bcebda3db8",
@@ -84,7 +98,7 @@
       "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the partnership.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "3ef91ae7710a",
@@ -98,7 +112,7 @@
       "translated_summary": "OpenAI is set to produce its first artificial intelligence chip next year in partnership with U.S. semiconductor giant Broadcom , the Financial Times reported on Thursday, citing people familiar with the matter.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "4220fd4b6227",
@@ -112,7 +126,7 @@
       "translated_summary": "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia , the Financial Times reported on Thursday.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "a93ead243ea6",
@@ -124,20 +138,6 @@
       "image": "https://s.yimg.com/ny/api/res/1.2/Ic.TwPSu9NOb8.mrfdWcWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/b8f99ff0-89d2-11f0-a7cd-7c5bfcd7972a",
       "translated_title": "Big tech signs on to White House plan for AI education in US schools",
       "translated_summary": "The White House hosted several tech and AI leaders at an event today centered on teaching artificial intelligence in US schools.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "11小时前"
-    },
-    {
-      "id": "13337796c4cb",
-      "title": "Broadcom sees strong AI growth for fiscal 2026 on new customer addition",
-      "summary": "Broadcom expects artificial intelligence revenue growth for fiscal 2026 to \"improve significantly\", after securing more than $10 billion in AI infrastructure orders from a new customer, CEO Hock Tan said on Thursday.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/broadcom-sees-strong-ai-growth-fiscal-2026-new-customer-addition-2025-09-04/",
-      "publishedAt": "2025-09-04T20:35:19Z",
-      "image": "https://www.reuters.com/resizer/v2/ICVKNMMIIRJNFCZZZVO5I4HKMI.jpg?auth=c4b6b8f2e08e3eedf5b3ba92be0892b4033b30cc6b2de9a90b3e5fe61ddeb197&height=1005&width=1920&quality=80&smart=true",
-      "translated_title": "Broadcom sees strong AI growth for fiscal 2026 on new customer addition",
-      "translated_summary": "Broadcom expects artificial intelligence revenue growth for fiscal 2026 to \"improve significantly\", after securing more than $10 billion in AI infrastructure orders from a new customer, CEO Hock Tan said on Thursday.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "11小时前"
