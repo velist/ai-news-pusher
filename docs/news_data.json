@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-06T13:22:11.621441",
+  "last_updated": "2025-09-06T14:17:53.870951",
   "total_count": 10,
   "articles": [
+    {
+      "id": "e213b4c905b9",
+      "title": "From robots to cat toilets - AI was in absolutely everything at IFA this year",
+      "summary": "Artificial intelligence is useful in so many more ways than just chatbots.",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/from-robots-to-cat-toilets-ai-was-in-absolutely-everything-at-ifa-this-year/",
+      "publishedAt": "2025-09-06T14:00:00Z",
+      "image": "https://www.digitaltrends.com/wp-content/uploads/2025/09/IMG_6121.jpg?resize=1200%2C630&p=1",
+      "translated_title": "From robots to cat toilets - AI was in absolutely everything at IFA this year",
+      "translated_summary": "Artificial intelligence is useful in so many more ways than just chatbots.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "17分钟前"
+    },
     {
       "id": "7b18339b1558",
       "title": "Melania Trump puts AI front and center at White House meeting",
@@ -14,7 +28,7 @@
       "translated_summary": "First lady Melania Trump hosted an artificial intelligence meeting with top industry leaders, including Google CEO Sundar Pichai Thursday.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "52分钟前"
+      "time": "1小时前"
     },
     {
       "id": "2978ebec9666",
@@ -28,7 +42,7 @@
       "translated_summary": "Investor appetite for companies linked to AI is high—and not just their stocks. Valuations for America’s hottest private artificial intelligence startups are soaring as investors clamor for exposure ahead of possible market debuts.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "1437fa94d1b0",
@@ -42,7 +56,7 @@
       "translated_summary": "It costs billions of dollars to build artificial intelligence models, and tech companies are battling for talent to get ahead in the AI arms race.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "7951e694a1f4",
@@ -56,7 +70,7 @@
       "translated_summary": "Cathie Wood said artificial intelligence and other breakthrough technologies will spark a massive productivity boom that could push U.S. inflation to zero while reshaping economic growth.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "59dd75f84193",
@@ -70,7 +84,7 @@
       "translated_summary": "Artists are telling their fans not to listen to artificial intelligence (AI) knockoff albums of themselves that strangers are creating.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "9小时前"
+      "time": "10小时前"
     },
     {
       "id": "cf7f28dade9a",
@@ -84,7 +98,7 @@
       "translated_summary": "Artificial Intelligence (AI) is reshaping career prospects. Discover how it affects job opportunities for young professionals.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "ec54419a84b6",
@@ -98,7 +112,7 @@
       "translated_summary": "Discusses how a person's communications with Artificial Intelligence (AI) will not be protected by legal privileges such as attorney-client privilege.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "dd8ba101a972",
@@ -112,7 +126,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     },
     {
       "id": "1a46ac6ba71a",
@@ -126,21 +140,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "13小时前"
-    },
-    {
-      "id": "80ea53f217f3",
-      "title": "Artis Impact: A Pixel-Perfect Journey Through the End of the World",
-      "summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
-      "source": "InvenGlobal",
-      "url": "https://www.invenglobal.com/valorant/articles/19653/artis-impact-review-a-pixel-perfect-journey-through-the-end-of-the-world",
-      "publishedAt": "2025-09-05T23:54:20Z",
-      "image": "https://static.invenglobal.com/upload/image/2025/09/05/r1757116374426665.jpeg",
-      "translated_title": "Artis Impact: A Pixel-Perfect Journey Through the End of the World",
-      "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "13小时前"
+      "time": "14小时前"
     }
   ]
 }
