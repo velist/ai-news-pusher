@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-06T05:19:28.559039",
+  "last_updated": "2025-09-06T06:29:42.976692",
   "total_count": 10,
   "articles": [
+    {
+      "id": "1437fa94d1b0",
+      "title": "Tech giants pay talent millions of dollars",
+      "summary": "It costs billions of dollars to build artificial intelligence models, and tech companies are battling for talent to get ahead in the AI arms race.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/09/06/ai-talent-war-tech-giants-pay-talent-millions-of-dollars.html",
+      "publishedAt": "2025-09-06T05:39:35Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108032453-1726055543641-gettyimages-2170596473-ACQUIRED_LIVE_PODCAST.jpeg?v=1756895898&w=1920&h=1080",
+      "translated_title": "Tech giants pay talent millions of dollars",
+      "translated_summary": "It costs billions of dollars to build artificial intelligence models, and tech companies are battling for talent to get ahead in the AI arms race.",
+      "category": "技术突破",
+      "category_icon": "🚀",
+      "time": "50分钟前"
+    },
     {
       "id": "7951e694a1f4",
       "title": "Cathie Wood Says Inflation Could Fall To 'Zero Or Even Negative' As AI Boom And Trump's Policies Could Push GDP Growth To 7%",
@@ -14,7 +28,7 @@
       "translated_summary": "Cathie Wood said artificial intelligence and other breakthrough technologies will spark a massive productivity boom that could push U.S. inflation to zero while reshaping economic growth.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "29分钟前"
+      "time": "1小时前"
     },
     {
       "id": "cf7f28dade9a",
@@ -28,7 +42,7 @@
       "translated_summary": "Artificial Intelligence (AI) is reshaping career prospects. Discover how it affects job opportunities for young professionals.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "ec54419a84b6",
@@ -42,7 +56,7 @@
       "translated_summary": "Discusses how a person's communications with Artificial Intelligence (AI) will not be protected by legal privileges such as attorney-client privilege.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "dd8ba101a972",
@@ -56,7 +70,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "1a46ac6ba71a",
@@ -70,7 +84,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "80ea53f217f3",
@@ -84,7 +98,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "490b61971630",
@@ -98,7 +112,7 @@
       "translated_summary": "Reports claim that Broadcom and OpenAI are teaming up to develop custom artificial intelligence chips that could launch as soon as next year.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "c5af556f1ea0",
@@ -112,7 +126,7 @@
       "translated_summary": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "5小时前"
+      "time": "6小时前"
     },
     {
       "id": "271169a723d4",
@@ -124,20 +138,6 @@
       "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=091ea074-c8ac-4988-8d21-ccf747ebdc9e&SiteName=Newsmax",
       "translated_title": "Apple Sued by Authors Over Use of Books in AI Training",
       "translated_summary": "Apple was accused by authors in a lawsuit Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
-      "category": "热门",
-      "category_icon": "🔥",
-      "time": "6小时前"
-    },
-    {
-      "id": "c78b1d076b30",
-      "title": "FDA will convene Digital Health Advisory Committee in November",
-      "summary": "In the past, DHAC meetings have focused on artificial intelligence and medical devices.",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2025/09/05/fda-digital-health-advisory-committee-november-meeting/",
-      "publishedAt": "2025-09-05T22:17:09Z",
-      "image": "https://www.statnews.com/wp-content/uploads/2025/09/GettyImages-1227710420-1024x576.jpg",
-      "translated_title": "FDA will convene Digital Health Advisory Committee in November",
-      "translated_summary": "In the past, DHAC meetings have focused on artificial intelligence and medical devices.",
       "category": "热门",
       "category_icon": "🔥",
       "time": "7小时前"
