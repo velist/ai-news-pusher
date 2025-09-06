@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-06T12:39:31.737632",
+  "last_updated": "2025-09-06T13:22:11.621441",
   "total_count": 10,
   "articles": [
+    {
+      "id": "7b18339b1558",
+      "title": "Melania Trump puts AI front and center at White House meeting",
+      "summary": "First lady Melania Trump hosted an artificial intelligence meeting with top industry leaders, including Google CEO Sundar Pichai Thursday.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/ai-newsletter-melania-trump-puts-ai-front-center",
+      "publishedAt": "2025-09-06T12:30:11Z",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/melania-trump-artificial-intelligence-ai-event.jpg",
+      "translated_title": "Melania Trump puts AI front and center at White House meeting",
+      "translated_summary": "First lady Melania Trump hosted an artificial intelligence meeting with top industry leaders, including Google CEO Sundar Pichai Thursday.",
+      "category": "公司动态",
+      "category_icon": "🏢",
+      "time": "52分钟前"
+    },
     {
       "id": "2978ebec9666",
       "title": "Investor Appetite for Pre-IPO AI Firms Is Pushing Valuations Sky-High",
@@ -14,7 +28,7 @@
       "translated_summary": "Investor appetite for companies linked to AI is high—and not just their stocks. Valuations for America’s hottest private artificial intelligence startups are soaring as investors clamor for exposure ahead of possible market debuts.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "1437fa94d1b0",
@@ -28,7 +42,7 @@
       "translated_summary": "It costs billions of dollars to build artificial intelligence models, and tech companies are battling for talent to get ahead in the AI arms race.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "6小时前"
+      "time": "7小时前"
     },
     {
       "id": "7951e694a1f4",
@@ -42,7 +56,7 @@
       "translated_summary": "Cathie Wood said artificial intelligence and other breakthrough technologies will spark a massive productivity boom that could push U.S. inflation to zero while reshaping economic growth.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "7小时前"
+      "time": "8小时前"
     },
     {
       "id": "59dd75f84193",
@@ -70,7 +84,7 @@
       "translated_summary": "Artificial Intelligence (AI) is reshaping career prospects. Discover how it affects job opportunities for young professionals.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "ec54419a84b6",
@@ -84,7 +98,7 @@
       "translated_summary": "Discusses how a person's communications with Artificial Intelligence (AI) will not be protected by legal privileges such as attorney-client privilege.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "dd8ba101a972",
@@ -98,7 +112,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "1a46ac6ba71a",
@@ -112,7 +126,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
+      "time": "13小时前"
     },
     {
       "id": "80ea53f217f3",
@@ -126,21 +140,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "12小时前"
-    },
-    {
-      "id": "490b61971630",
-      "title": "OpenAI May Launch Its First AI Chip As Early As 2026",
-      "summary": "Reports claim that Broadcom and OpenAI are teaming up to develop custom artificial intelligence chips that could launch as soon as next year.",
-      "source": "BGR",
-      "url": "https://www.bgr.com/1960247/openai-ai-chip-2026-broadcom-deal/",
-      "publishedAt": "2025-09-05T23:50:00Z",
-      "image": "https://www.bgr.com/img/gallery/openai-may-launch-its-first-ai-chip-as-early-as-2026/l-intro-1757115606.jpg",
-      "translated_title": "OpenAI May Launch Its First AI Chip As Early As 2026",
-      "translated_summary": "Reports claim that Broadcom and OpenAI are teaming up to develop custom artificial intelligence chips that could launch as soon as next year.",
-      "category": "公司动态",
-      "category_icon": "🏢",
-      "time": "12小时前"
+      "time": "13小时前"
     }
   ]
 }
