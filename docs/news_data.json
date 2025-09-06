@@ -1,7 +1,21 @@
 {
-  "last_updated": "2025-09-06T08:24:48.150691",
+  "last_updated": "2025-09-06T09:19:41.933419",
   "total_count": 10,
   "articles": [
+    {
+      "id": "2978ebec9666",
+      "title": "Investor Appetite for Pre-IPO AI Firms Is Pushing Valuations Sky-High",
+      "summary": "Investor appetite for companies linked to AI is high—and not just their stocks. Valuations for America’s hottest private artificial intelligence startups are soaring as investors clamor for exposure ahead of possible market debuts.",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/investor-appetite-for-pre-ipo-ai-firms-is-pushing-valuations-sky-high-openai-xai-anthropic-11803509",
+      "publishedAt": "2025-09-06T09:00:00Z",
+      "image": "https://www.investopedia.com/thmb/teOnTP3Q5v_I7jRAnXpC3dEfaPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2185275106-d58e2259c4c245ce924d6cbe7957969f.jpg",
+      "translated_title": "Investor Appetite for Pre-IPO AI Firms Is Pushing Valuations Sky-High",
+      "translated_summary": "Investor appetite for companies linked to AI is high—and not just their stocks. Valuations for America’s hottest private artificial intelligence startups are soaring as investors clamor for exposure ahead of possible market debuts.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "19分钟前"
+    },
     {
       "id": "1437fa94d1b0",
       "title": "Tech giants pay talent millions of dollars",
@@ -14,7 +28,7 @@
       "translated_summary": "It costs billions of dollars to build artificial intelligence models, and tech companies are battling for talent to get ahead in the AI arms race.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "2小时前"
+      "time": "3小时前"
     },
     {
       "id": "7951e694a1f4",
@@ -28,7 +42,7 @@
       "translated_summary": "Cathie Wood said artificial intelligence and other breakthrough technologies will spark a massive productivity boom that could push U.S. inflation to zero while reshaping economic growth.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "3小时前"
+      "time": "4小时前"
     },
     {
       "id": "cf7f28dade9a",
@@ -42,7 +56,7 @@
       "translated_summary": "Artificial Intelligence (AI) is reshaping career prospects. Discover how it affects job opportunities for young professionals.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "ec54419a84b6",
@@ -56,7 +70,7 @@
       "translated_summary": "Discusses how a person's communications with Artificial Intelligence (AI) will not be protected by legal privileges such as attorney-client privilege.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "dd8ba101a972",
@@ -70,7 +84,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "1a46ac6ba71a",
@@ -84,7 +98,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "80ea53f217f3",
@@ -98,7 +112,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "490b61971630",
@@ -112,7 +126,7 @@
       "translated_summary": "Reports claim that Broadcom and OpenAI are teaming up to develop custom artificial intelligence chips that could launch as soon as next year.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "8小时前"
+      "time": "9小时前"
     },
     {
       "id": "c5af556f1ea0",
@@ -126,20 +140,6 @@
       "translated_summary": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "8小时前"
-    },
-    {
-      "id": "271169a723d4",
-      "title": "Apple Sued by Authors Over Use of Books in AI Training",
-      "summary": "Apple was accused by authors in a lawsuit Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
-      "source": "Newsmax",
-      "url": "https://www.newsmax.com/newsfront/apple-artificial-intelligence-authors/2025/09/05/id/1225326/",
-      "publishedAt": "2025-09-05T22:51:50Z",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=091ea074-c8ac-4988-8d21-ccf747ebdc9e&SiteName=Newsmax",
-      "translated_title": "Apple Sued by Authors Over Use of Books in AI Training",
-      "translated_summary": "Apple was accused by authors in a lawsuit Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
-      "category": "热门",
-      "category_icon": "🔥",
       "time": "9小时前"
     }
   ]
