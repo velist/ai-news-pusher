@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-06T10:20:03.295310",
+  "last_updated": "2025-09-06T11:15:42.467202",
   "total_count": 10,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "translated_summary": "Investor appetite for companies linked to AI is high—and not just their stocks. Valuations for America’s hottest private artificial intelligence startups are soaring as investors clamor for exposure ahead of possible market debuts.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "1小时前"
+      "time": "2小时前"
     },
     {
       "id": "1437fa94d1b0",
@@ -28,7 +28,7 @@
       "translated_summary": "It costs billions of dollars to build artificial intelligence models, and tech companies are battling for talent to get ahead in the AI arms race.",
       "category": "技术突破",
       "category_icon": "🚀",
-      "time": "4小时前"
+      "time": "5小时前"
     },
     {
       "id": "7951e694a1f4",
@@ -42,7 +42,21 @@
       "translated_summary": "Cathie Wood said artificial intelligence and other breakthrough technologies will spark a massive productivity boom that could push U.S. inflation to zero while reshaping economic growth.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "5小时前"
+      "time": "6小时前"
+    },
+    {
+      "id": "59dd75f84193",
+      "title": "Artists Warn Fans to Avoid ‘Soulless, Meaningless' AI Knockoff Albums of Themselves",
+      "summary": "Artists are telling their fans not to listen to artificial intelligence (AI) knockoff albums of themselves that strangers are creating.",
+      "source": "Breitbart News Network",
+      "url": "https://www.breitbart.com/entertainment/2025/09/06/artists-warn-fans-to-avoid-soulless-meaningless-ai-knockoff-albums-of-themselves/",
+      "publishedAt": "2025-09-06T03:26:03Z",
+      "image": "https://media.breitbart.com/media/2025/09/GettyImages-1477993161-640x335.jpg",
+      "translated_title": "Artists Warn Fans to Avoid ‘Soulless, Meaningless' AI Knockoff Albums of Themselves",
+      "translated_summary": "Artists are telling their fans not to listen to artificial intelligence (AI) knockoff albums of themselves that strangers are creating.",
+      "category": "热门",
+      "category_icon": "🔥",
+      "time": "7小时前"
     },
     {
       "id": "cf7f28dade9a",
@@ -56,7 +70,7 @@
       "translated_summary": "Artificial Intelligence (AI) is reshaping career prospects. Discover how it affects job opportunities for young professionals.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "ec54419a84b6",
@@ -70,7 +84,7 @@
       "translated_summary": "Discusses how a person's communications with Artificial Intelligence (AI) will not be protected by legal privileges such as attorney-client privilege.",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "dd8ba101a972",
@@ -84,7 +98,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "1a46ac6ba71a",
@@ -98,7 +112,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "80ea53f217f3",
@@ -112,7 +126,7 @@
       "translated_summary": "There's something deeply ironic about playing as an AI assistant in a world devastated by artificial intelligence. Yet that's exactly the premise that makes Artis Impact such a refreshing take on the",
       "category": "热门",
       "category_icon": "🔥",
-      "time": "10小时前"
+      "time": "11小时前"
     },
     {
       "id": "490b61971630",
@@ -126,21 +140,7 @@
       "translated_summary": "Reports claim that Broadcom and OpenAI are teaming up to develop custom artificial intelligence chips that could launch as soon as next year.",
       "category": "公司动态",
       "category_icon": "🏢",
-      "time": "10小时前"
-    },
-    {
-      "id": "c5af556f1ea0",
-      "title": "Apple sued by authors over use of books in AI training",
-      "summary": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2025/09/05/apple-sued-by-authors-over-use-of-books-in-ai-training.html",
-      "publishedAt": "2025-09-05T23:47:57Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108150098-1748021082935-gettyimages-2194365320-TRUMP_INAUGURATION_2025.jpeg?v=1757115907&w=1920&h=1080",
-      "translated_title": "Apple sued by authors over use of books in AI training",
-      "translated_summary": "Technology giant Apple was accused by authors in a lawsuit on Friday of illegally using their copyrighted books to help train its artificial intelligence systems, part of an expanding legal fight over protections for intellectual property in the AI era.",
-      "category": "技术突破",
-      "category_icon": "🚀",
-      "time": "10小时前"
+      "time": "11小时前"
     }
   ]
 }
